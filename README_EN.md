@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1504</strong> remote jobs · Updated every 30 min
+  📊 <strong>29</strong> companies · <strong>1503</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -24,7 +24,6 @@
 | Position | Location | Details |
 |---|---|---|
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8803/business-development-manager/) |
 | Director, Fraud | On-site | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
 | Lead Product Manager | On-site | [View →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
 | Senior Software Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
@@ -41,11 +40,12 @@
 | IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/8794/it-manager-bitget-eu/) |
 | Senior KYC Specialist (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/7313/senior-kyc-specialist-bitget-eu/) |
 | Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/8790/talent-acquisition-manager/) |
+| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7385/data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（30 companies）
+## 🏢 Companies Tracked（29 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -75,7 +75,6 @@
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [View jobs →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [View jobs →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
-| <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [View jobs →](https://www.remotejobscan.com/?company=tothemoon) |
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
