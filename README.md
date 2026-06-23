@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>29</strong> 家公司 · <strong>1503</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1504</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8805/business-development-manager/) |
 | 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | 欺诈总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8278/director-fraud/) |
 | 高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
@@ -40,12 +41,11 @@
 | IT经理（Bitget EU） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8794/it-manager-bitget-eu/) |
 | 高级KYC专家（Bitget EU） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7313/senior-kyc-specialist-bitget-eu/) |
 | 人才获取经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8790/talent-acquisition-manager/) |
-| Data Analyst | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7385/data-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（29 家）
+## 🏢 已收录公司（30 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -75,6 +75,7 @@
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [查看职位 →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [查看职位 →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [查看职位 →](https://www.remotejobscan.com/?company=sui) |
+| <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [查看职位 →](https://www.remotejobscan.com/?company=tothemoon) |
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [查看职位 →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [查看职位 →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [查看职位 →](https://www.remotejobscan.com/?company=united-stables) |
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-23 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-23 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
