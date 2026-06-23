@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1503</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1505</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
+| Director, Capital Markets Growth | On-site | [View →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
 | Senior Software Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
 | Director, Fraud | On-site | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
 | Lead Product Manager | On-site | [View →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
@@ -39,8 +41,6 @@
 | Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
 | Senior Product Manager - Payments | Remote | [View →](https://www.remotejobscan.com/job/8795/senior-product-manager-payments/) |
 | Senior Equity Analyst 资深股票分析师 | Remote | [View →](https://www.remotejobscan.com/job/7944/senior-equity-analyst/) |
-| IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/8794/it-manager-bitget-eu/) |
-| Senior KYC Specialist (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/7313/senior-kyc-specialist-bitget-eu/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
