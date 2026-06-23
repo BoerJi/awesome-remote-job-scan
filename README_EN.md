@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1504</strong> remote jobs · Updated every 30 min
+  📊 <strong>31</strong> companies · <strong>1532</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,29 +23,30 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8803/business-development-manager/) |
-| Director, Fraud | On-site | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
-| Lead Product Manager | On-site | [View →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
-| Senior Software Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
-| Senior Java Engineer, OKX Pay Smart Account Team | On-site | [View →](https://www.remotejobscan.com/job/8681/senior-java-engineer-okx-pay-smart-account-team/) |
-| Senior Compliance Analyst - CPPM | Hybrid | [View →](https://www.remotejobscan.com/job/8802/senior-compliance-analyst-cppm/) |
-| Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
-| Compliance Manager - CPPM | Hybrid | [View →](https://www.remotejobscan.com/job/8801/compliance-manager-cppm/) |
-| Engineering Director (Java), Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/engineering-director-java-trading-services/) |
-| Senior Data Engineer - Agents Systems | Remote | [View →](https://www.remotejobscan.com/job/8798/senior-data-engineer-agents-systems/) |
-| Senior Data Engineer - AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/8796/senior-data-engineer-ai-infrastructure/) |
-| Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
-| Senior Product Manager - Payments | Remote | [View →](https://www.remotejobscan.com/job/8795/senior-product-manager-payments/) |
-| Senior Equity Analyst 资深股票分析师 | Remote | [View →](https://www.remotejobscan.com/job/7944/senior-equity-analyst/) |
-| IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/8794/it-manager-bitget-eu/) |
-| Senior KYC Specialist (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/7313/senior-kyc-specialist-bitget-eu/) |
-| Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/8790/talent-acquisition-manager/) |
-| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7385/data-analyst/) |
+| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
+| Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
+| Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
+| Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
+| Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
+| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
+| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| Research Analyst Intern | Remote | [View →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
+| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
+| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
+| Customer Service Representative | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative/) |
+| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
+| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7893/data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（30 companies）
+## 🏢 Companies Tracked（31 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -53,6 +54,7 @@
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [View jobs →](https://www.remotejobscan.com/?company=aave) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
+| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
@@ -85,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 13:33 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 14:10 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
