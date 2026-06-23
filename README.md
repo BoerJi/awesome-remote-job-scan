@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1503</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1504</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7616/senior-agent-customer-service-italian-speaker/) |
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8805/business-development-manager/) |
 | 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | 欺诈总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8278/director-fraud/) |
@@ -40,7 +41,6 @@
 | Senior Equity Analyst 资深股票分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7944/senior-equity-analyst/) |
 | IT经理（Bitget EU） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8794/it-manager-bitget-eu/) |
 | 高级KYC专家（Bitget EU） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7313/senior-kyc-specialist-bitget-eu/) |
-| 人才获取经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8790/talent-acquisition-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-23 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-23 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

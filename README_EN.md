@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1503</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1504</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Agent, Customer Service (Italian Speaker) | On-site | [View →](https://www.remotejobscan.com/job/7616/senior-agent-customer-service-italian-speaker/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8805/business-development-manager/) |
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | Director, Fraud | On-site | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
@@ -40,7 +41,6 @@
 | Senior Equity Analyst 资深股票分析师 | Remote | [View →](https://www.remotejobscan.com/job/7944/senior-equity-analyst/) |
 | IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/8794/it-manager-bitget-eu/) |
 | Senior KYC Specialist (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/7313/senior-kyc-specialist-bitget-eu/) |
-| Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/8790/talent-acquisition-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-23 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
