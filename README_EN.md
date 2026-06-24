@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1504</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1509</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager / Director, Financial Products | On-site | [View →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
+| Product Manager / Director, Core Trading | On-site | [View →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
+| AML Transaction Monitoring Lead (Pooling) | Hybrid | [View →](https://www.remotejobscan.com/job/8814/aml-transaction-monitoring-lead-pooling/) |
 | Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
 | Director, Capital Markets Growth | On-site | [View →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
 | Senior Software Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
@@ -37,10 +40,6 @@
 | Compliance Manager - CPPM | Hybrid | [View →](https://www.remotejobscan.com/job/8801/compliance-manager-cppm/) |
 | Engineering Director (Java), Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/engineering-director-java-trading-services/) |
 | Senior Data Engineer - Agents Systems | Remote | [View →](https://www.remotejobscan.com/job/8798/senior-data-engineer-agents-systems/) |
-| Senior Data Engineer - AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/8796/senior-data-engineer-ai-infrastructure/) |
-| Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
-| Senior Product Manager - Payments | Remote | [View →](https://www.remotejobscan.com/job/8795/senior-product-manager-payments/) |
-| Senior Equity Analyst 资深股票分析师 | Remote | [View →](https://www.remotejobscan.com/job/7944/senior-equity-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1504</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1509</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融产品产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
+| 核心交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
+| 反洗钱交易监控主管（集中） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8814/aml-transaction-monitoring-lead-pooling/) |
 | 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
 | 资本市场监管增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
 | 风险工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
@@ -37,10 +40,6 @@
 | 合规经理 - CPPM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8801/compliance-manager-cppm/) |
 | Java交易服务工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/engineering-director-java-trading-services/) |
 | 高级数据工程师 - 代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8798/senior-data-engineer-agents-systems/) |
-| 高级数据工程师 - AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8796/senior-data-engineer-ai-infrastructure/) |
-| 欧洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
-| 高级产品经理 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8795/senior-product-manager-payments/) |
-| Senior Equity Analyst 资深股票分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7944/senior-equity-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
