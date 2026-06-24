@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1506</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1509</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Customer Lifecycle & Loyalty | Hybrid | [View →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
+| Associate Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/8818/associate-legal-counsel/) |
+| Compliance Geofencing Analyst | Remote | [View →](https://www.remotejobscan.com/job/8819/compliance-geofencing-analyst/) |
 | Risk Analyst/Expert | Remote | [View →](https://www.remotejobscan.com/job/8272/risk-analystexpert/) |
 | Java Backend Engineer – Fiat Payment Channels | Remote | [View →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
 | Java Backend Engineer – On-Chain Payment Integration | Remote | [View →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
@@ -38,9 +41,6 @@
 | Senior Agent, Customer Service (Italian Speaker) | On-site | [View →](https://www.remotejobscan.com/job/7616/senior-agent-customer-service-italian-speaker/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8805/business-development-manager/) |
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
-| Senior Java Engineer, OKX Pay Smart Account Team | On-site | [View →](https://www.remotejobscan.com/job/8681/senior-java-engineer-okx-pay-smart-account-team/) |
-| Senior Compliance Analyst - CPPM | Hybrid | [View →](https://www.remotejobscan.com/job/8802/senior-compliance-analyst-cppm/) |
-| Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1506</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1509</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户生命周期与忠诚度经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
+| 助理法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/associate-legal-counsel/) |
+| 合规地理围栏分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8819/compliance-geofencing-analyst/) |
 | 风险分析师/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8272/risk-analystexpert/) |
 | Java后端工程师 – 法定货币支付渠道 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
 | Java后端工程师——链上支付集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
@@ -38,9 +41,6 @@
 | 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7616/senior-agent-customer-service-italian-speaker/) |
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8805/business-development-manager/) |
 | 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
-| 高级Java工程师，OKX支付智能账户团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8681/senior-java-engineer-okx-pay-smart-account-team/) |
-| 高级合规分析师 - CPPM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8802/senior-compliance-analyst-cppm/) |
-| 增长运营经理（卡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
