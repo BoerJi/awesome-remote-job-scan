@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1519</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1524</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
+| Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
+| Crypto Business Analyst - Spanish | Remote | [View →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
+| Brazil Country Manager | Remote | [View →](https://www.remotejobscan.com/job/5645/brazil-country-manager/) |
+| Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
+| Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 | Deputy AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8830/deputy-aml-officer-eu-mifid/) |
 | AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8831/aml-officer-eu-mifid/) |
 | Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
@@ -37,10 +43,6 @@
 | CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
 | UI Designer UI 设计师 | Remote | [View →](https://www.remotejobscan.com/job/7402/ui-designer-ui/) |
 | (Senior) Data Infra Product Manager, On Chain (Web3) | On-site | [View →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
-| (Senior) Data Infra Product Manager, On Chain (Algorithm and Search) | On-site | [View →](https://www.remotejobscan.com/job/8822/senior-data-infra-product-manager-on-chain-algorithm-and-search/) |
-| Senior Manager, Customer Lifecycle & Loyalty | Hybrid | [View →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
-| Associate Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/8818/associate-legal-counsel/) |
-| Compliance Geofencing Analyst | Remote | [View →](https://www.remotejobscan.com/job/8819/compliance-geofencing-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

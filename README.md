@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1519</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1524</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
+| 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
+| 西班牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
+| 巴西国家经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5645/brazil-country-manager/) |
+| 加密业务分析师 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
+| 加密业务分析师 - 俄语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 | 副反洗钱官（欧盟，MiFID） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8830/deputy-aml-officer-eu-mifid/) |
 | 反洗钱专员（欧盟，MiFID） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8831/aml-officer-eu-mifid/) |
 | 拉美运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
@@ -37,10 +43,6 @@
 | CFD量化风控专家（HK/MY） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
 | UI Designer UI 设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7402/ui-designer-ui/) |
 | (高级)链上数据基础设施产品经理（Web3） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
-| (高级)链上数据基础设施产品经理（算法与搜索） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8822/senior-data-infra-product-manager-on-chain-algorithm-and-search/) |
-| 高级客户生命周期与忠诚度经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
-| 助理法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/associate-legal-counsel/) |
-| 合规地理围栏分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8819/compliance-geofencing-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
