@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1522</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1523</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior IT Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/8838/senior-it-systems-engineer/) |
+| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
+| Senior Fraud & Risk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/8837/senior-fraud-risk-analyst/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | Crypto Business Analyst - Spanish | Remote | [View →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
@@ -40,9 +43,6 @@
 | Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/8584/market-researcher-spanishportuguese-speaking/) |
 | Principal Product Manager, Affiliate & KOL - Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/8705/principal-product-manager-affiliate-kol-onshore-markets/) |
-| CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
-| UI Designer UI 设计师 | Remote | [View →](https://www.remotejobscan.com/job/7402/ui-designer-ui/) |
-| (Senior) Data Infra Product Manager, On Chain (Web3) | On-site | [View →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

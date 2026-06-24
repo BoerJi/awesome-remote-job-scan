@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1522</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1523</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级IT系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8838/senior-it-systems-engineer/) |
+| 中东及北非地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
+| 高级欺诈与风险分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8837/senior-fraud-risk-analyst/) |
 | 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | 西班牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
@@ -40,9 +43,6 @@
 | 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | 市场研究员-西班牙语/葡萄牙语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8584/market-researcher-spanishportuguese-speaking/) |
 | 海外市场联盟与KOL首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8705/principal-product-manager-affiliate-kol-onshore-markets/) |
-| CFD量化风控专家（HK/MY） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
-| UI Designer UI 设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7402/ui-designer-ui/) |
-| (高级)链上数据基础设施产品经理（Web3） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
