@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1514</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1519</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8830/deputy-aml-officer-eu-mifid/) |
+| AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8831/aml-officer-eu-mifid/) |
+| Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
+| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
 | Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | Data Engineer, Product Data Development | On-site | [View →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/8828/financial-product-manager/) |
@@ -37,10 +41,6 @@
 | Senior Manager, Customer Lifecycle & Loyalty | Hybrid | [View →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
 | Associate Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/8818/associate-legal-counsel/) |
 | Compliance Geofencing Analyst | Remote | [View →](https://www.remotejobscan.com/job/8819/compliance-geofencing-analyst/) |
-| Risk Analyst/Expert | Remote | [View →](https://www.remotejobscan.com/job/8272/risk-analystexpert/) |
-| Java Backend Engineer – Fiat Payment Channels | Remote | [View →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
-| Java Backend Engineer – On-Chain Payment Integration | Remote | [View →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
-| Java Backend Engineer – P2P Marketplace | Remote | [View →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
