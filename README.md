@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1509</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1512</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| (高级)链上数据基础设施产品经理（Web3） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
+| (高级)链上数据基础设施产品经理（算法与搜索） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8822/senior-data-infra-product-manager-on-chain-algorithm-and-search/) |
 | 高级客户生命周期与忠诚度经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
 | 助理法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/associate-legal-counsel/) |
 | 合规地理围栏分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8819/compliance-geofencing-analyst/) |
@@ -37,10 +39,6 @@
 | 资本市场监管增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
 | 风险工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
 | 欺诈总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8278/director-fraud/) |
-| 高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
-| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7616/senior-agent-customer-service-italian-speaker/) |
-| 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8805/business-development-manager/) |
-| 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
