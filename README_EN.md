@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1509</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1512</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Java Backend Engineer – Fiat Payment Channels | Remote | [View →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
+| Java Backend Engineer – On-Chain Payment Integration | Remote | [View →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
+| Java Backend Engineer – P2P Marketplace | Remote | [View →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
 | Product Manager / Director, Financial Products | On-site | [View →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
 | Product Manager / Director, Core Trading | On-site | [View →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
 | AML Transaction Monitoring Lead (Pooling) | Hybrid | [View →](https://www.remotejobscan.com/job/8814/aml-transaction-monitoring-lead-pooling/) |
@@ -38,8 +41,6 @@
 | Senior Compliance Analyst - CPPM | Hybrid | [View →](https://www.remotejobscan.com/job/8802/senior-compliance-analyst-cppm/) |
 | Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 | Compliance Manager - CPPM | Hybrid | [View →](https://www.remotejobscan.com/job/8801/compliance-manager-cppm/) |
-| Engineering Director (Java), Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/engineering-director-java-trading-services/) |
-| Senior Data Engineer - Agents Systems | Remote | [View →](https://www.remotejobscan.com/job/8798/senior-data-engineer-agents-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

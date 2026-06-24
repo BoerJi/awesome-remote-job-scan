@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1509</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1512</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Java后端工程师 – 法定货币支付渠道 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
+| Java后端工程师——链上支付集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
+| Java后端工程师 – P2P市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
 | 金融产品产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
 | 核心交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
 | 反洗钱交易监控主管（集中） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8814/aml-transaction-monitoring-lead-pooling/) |
@@ -38,8 +41,6 @@
 | 高级合规分析师 - CPPM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8802/senior-compliance-analyst-cppm/) |
 | 增长运营经理（卡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 | 合规经理 - CPPM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8801/compliance-manager-cppm/) |
-| Java交易服务工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/engineering-director-java-trading-services/) |
-| 高级数据工程师 - 代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8798/senior-data-engineer-agents-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
