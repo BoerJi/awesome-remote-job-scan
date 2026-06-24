@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险分析师/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8272/risk-analystexpert/) |
 | Java后端工程师 – 法定货币支付渠道 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
 | Java后端工程师——链上支付集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
 | Java后端工程师 – P2P市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
@@ -40,7 +41,6 @@
 | 高级Java工程师，OKX支付智能账户团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8681/senior-java-engineer-okx-pay-smart-account-team/) |
 | 高级合规分析师 - CPPM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8802/senior-compliance-analyst-cppm/) |
 | 增长运营经理（卡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
-| 合规经理 - CPPM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8801/compliance-manager-cppm/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
