@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1513</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1514</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深风险控制数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
+| 产品数据开发数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8828/financial-product-manager/) |
+| 高级/资深数据工程师，分析与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
 | 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | 市场研究员-西班牙语/葡萄牙语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8584/market-researcher-spanishportuguese-speaking/) |
 | 海外市场联盟与KOL首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8705/principal-product-manager-affiliate-kol-onshore-markets/) |
@@ -37,8 +41,6 @@
 | Java后端工程师 – 法定货币支付渠道 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
 | Java后端工程师——链上支付集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
 | Java后端工程师 – P2P市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
-| 金融产品产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
-| 核心交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

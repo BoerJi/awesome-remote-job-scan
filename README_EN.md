@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1513</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1514</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
+| Data Engineer, Product Data Development | On-site | [View →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/8828/financial-product-manager/) |
+| Senior/Staff Data Engineer, Analytics and Reporting | On-site | [View →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
 | Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/8584/market-researcher-spanishportuguese-speaking/) |
 | Principal Product Manager, Affiliate & KOL - Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/8705/principal-product-manager-affiliate-kol-onshore-markets/) |
@@ -37,8 +41,6 @@
 | Java Backend Engineer – Fiat Payment Channels | Remote | [View →](https://www.remotejobscan.com/job/8815/java-backend-engineer-fiat-payment-channels/) |
 | Java Backend Engineer – On-Chain Payment Integration | Remote | [View →](https://www.remotejobscan.com/job/8816/java-backend-engineer-on-chain-payment-integration/) |
 | Java Backend Engineer – P2P Marketplace | Remote | [View →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
-| Product Manager / Director, Financial Products | On-site | [View →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
-| Product Manager / Director, Core Trading | On-site | [View →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
