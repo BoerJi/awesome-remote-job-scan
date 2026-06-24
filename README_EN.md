@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1527</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1528</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
 | Exchange Operations Specialist (US) | Remote | [View →](https://www.remotejobscan.com/job/8842/exchange-operations-specialist-us/) |
 | Exchange Operations Automation Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8841/exchange-operations-automation-engineer-us/) |
 | Application Support Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8840/application-support-engineer-us/) |
@@ -42,7 +43,6 @@
 | KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
 | Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | Data Engineer, Product Data Development | On-site | [View →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
-| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/8828/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

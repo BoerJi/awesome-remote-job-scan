@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1527</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1528</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
 | 美国交易所运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8842/exchange-operations-specialist-us/) |
 | 交易所运营自动化工程师（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8841/exchange-operations-automation-engineer-us/) |
 | 应用支持工程师（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8840/application-support-engineer-us/) |
@@ -42,7 +43,6 @@
 | 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
 | 高级/资深风险控制数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | 产品数据开发数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
-| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8828/financial-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
