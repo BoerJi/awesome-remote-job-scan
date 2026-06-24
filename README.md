@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1511</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1513</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
+| 市场研究员-西班牙语/葡萄牙语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8584/market-researcher-spanishportuguese-speaking/) |
+| 海外市场联盟与KOL首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8705/principal-product-manager-affiliate-kol-onshore-markets/) |
+| CFD量化风控专家（HK/MY） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
+| UI Designer UI 设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7402/ui-designer-ui/) |
 | (高级)链上数据基础设施产品经理（Web3） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
 | (高级)链上数据基础设施产品经理（算法与搜索） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8822/senior-data-infra-product-manager-on-chain-algorithm-and-search/) |
 | 高级客户生命周期与忠诚度经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
@@ -34,11 +39,6 @@
 | Java后端工程师 – P2P市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
 | 金融产品产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
 | 核心交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
-| 反洗钱交易监控主管（集中） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8814/aml-transaction-monitoring-lead-pooling/) |
-| 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
-| 资本市场监管增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
-| 风险工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
-| 欺诈总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8278/director-fraud/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-24 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

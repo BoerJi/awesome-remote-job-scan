@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1511</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1513</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
+| Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/8584/market-researcher-spanishportuguese-speaking/) |
+| Principal Product Manager, Affiliate & KOL - Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/8705/principal-product-manager-affiliate-kol-onshore-markets/) |
+| CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
+| UI Designer UI 设计师 | Remote | [View →](https://www.remotejobscan.com/job/7402/ui-designer-ui/) |
 | (Senior) Data Infra Product Manager, On Chain (Web3) | On-site | [View →](https://www.remotejobscan.com/job/8824/senior-data-infra-product-manager-on-chain-web3/) |
 | (Senior) Data Infra Product Manager, On Chain (Algorithm and Search) | On-site | [View →](https://www.remotejobscan.com/job/8822/senior-data-infra-product-manager-on-chain-algorithm-and-search/) |
 | Senior Manager, Customer Lifecycle & Loyalty | Hybrid | [View →](https://www.remotejobscan.com/job/8820/senior-manager-customer-lifecycle-loyalty/) |
@@ -34,11 +39,6 @@
 | Java Backend Engineer – P2P Marketplace | Remote | [View →](https://www.remotejobscan.com/job/8817/java-backend-engineer-p2p-marketplace/) |
 | Product Manager / Director, Financial Products | On-site | [View →](https://www.remotejobscan.com/job/8812/product-manager-director-financial-products/) |
 | Product Manager / Director, Core Trading | On-site | [View →](https://www.remotejobscan.com/job/8810/product-manager-director-core-trading/) |
-| AML Transaction Monitoring Lead (Pooling) | Hybrid | [View →](https://www.remotejobscan.com/job/8814/aml-transaction-monitoring-lead-pooling/) |
-| Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
-| Director, Capital Markets Growth | On-site | [View →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
-| Senior Software Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
-| Director, Fraud | On-site | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-24 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
