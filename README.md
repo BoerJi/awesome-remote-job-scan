@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1531</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1534</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| CS专员（葡萄牙语和西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
+| 高级软件工程师，Rust (跨平台) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
 | VIP增长产品运营经理（合同工，12个月） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 | 移动端核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | 移动核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/software-engineer-mobile-core/) |
@@ -41,8 +43,6 @@
 | 巴西国家经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5645/brazil-country-manager/) |
 | 加密业务分析师 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | 加密业务分析师 - 俄语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
-| 副反洗钱官（欧盟，MiFID） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8830/deputy-aml-officer-eu-mifid/) |
-| 反洗钱专员（欧盟，MiFID） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8831/aml-officer-eu-mifid/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

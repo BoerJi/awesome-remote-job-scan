@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1531</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1534</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
+| Staff Software Engineer, Rust (Cross-Platform) | On-site | [View →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
 | VIP Growth Product Operations Manager (Contractor, 12 months) | Remote | [View →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 | Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Compliance Associate, UK | Remote | [View →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
@@ -40,8 +42,6 @@
 | Brazil Country Manager | Remote | [View →](https://www.remotejobscan.com/job/5645/brazil-country-manager/) |
 | Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
-| Deputy AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8830/deputy-aml-officer-eu-mifid/) |
-| AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8831/aml-officer-eu-mifid/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
