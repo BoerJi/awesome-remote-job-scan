@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1531</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1533</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西调查专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8857/investigations-specialist-brazil/) |
 | 网络运营与战略经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
 | 企业风险管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 | 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
@@ -42,7 +43,6 @@
 | VIP增长产品运营经理（合同工，12个月） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 | 英国合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 | 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
-| 美国交易所运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8842/exchange-operations-specialist-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
