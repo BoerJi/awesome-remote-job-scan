@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1535</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1530</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
 | Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
@@ -41,7 +42,6 @@
 | Exchange Operations Automation Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8841/exchange-operations-automation-engineer-us/) |
 | Application Support Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8840/application-support-engineer-us/) |
 | Institutional Onboarding / Compliance Support Intern | Remote | [View →](https://www.remotejobscan.com/job/8839/institutional-onboarding-compliance-support-intern/) |
-| Senior IT Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/8838/senior-it-systems-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
