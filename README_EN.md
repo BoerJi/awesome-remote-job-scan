@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1532</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1535</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
+| Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
+| Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Staff Software Engineer, Rust (Cross-Platform) | On-site | [View →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
 | Operations Manager - South Africa | Hybrid | [View →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
@@ -39,10 +42,6 @@
 | Application Support Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8840/application-support-engineer-us/) |
 | Institutional Onboarding / Compliance Support Intern | Remote | [View →](https://www.remotejobscan.com/job/8839/institutional-onboarding-compliance-support-intern/) |
 | Senior IT Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/8838/senior-it-systems-engineer/) |
-| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
-| Senior Fraud & Risk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/8837/senior-fraud-risk-analyst/) |
-| Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
-| Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

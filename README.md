@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1532</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1535</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 加入我们的工程人才网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
+| 移动端核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
+| 移动核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/software-engineer-mobile-core/) |
+| 欧洲技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Rust跨平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
 | 南非运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | 业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7361/business-analyst/) |
@@ -39,10 +43,6 @@
 | 应用支持工程师（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8840/application-support-engineer-us/) |
 | 机构入职/合规支持实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8839/institutional-onboarding-compliance-support-intern/) |
 | 高级IT系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8838/senior-it-systems-engineer/) |
-| 中东及北非地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
-| 高级欺诈与风险分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8837/senior-fraud-risk-analyst/) |
-| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
-| 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
