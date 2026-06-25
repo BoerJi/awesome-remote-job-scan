@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1531</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1533</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深工程师，流动性平台，数据工程师（数据平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
+| 香港人事行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
 | 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS专员（葡萄牙语和西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | 高级软件工程师，Rust (跨平台) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
@@ -41,8 +43,6 @@
 | 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | 西班牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
-| 巴西国家经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5645/brazil-country-manager/) |
-| 加密业务分析师 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
