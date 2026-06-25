@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -42,7 +42,6 @@
 | 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS专员（葡萄牙语和西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | VIP增长产品运营经理（合同工，12个月） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
-| 英国合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,7 +41,6 @@
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | VIP Growth Product Operations Manager (Contractor, 12 months) | Remote | [View →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
-| Compliance Associate, UK | Remote | [View →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
