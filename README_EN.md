@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Rust (Cross-Platform) | On-site | [View →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
+| Operations Manager - South Africa | Hybrid | [View →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 | Visual Designer (Part Time) | Remote | [View →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
 | Senior/Staff Engineer, Liquidity Platform, Data Engineer (Data Platform) | On-site | [View →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
@@ -30,7 +32,6 @@
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | VIP Growth Product Operations Manager (Contractor, 12 months) | Remote | [View →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
-| Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Compliance Associate, UK | Remote | [View →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 | Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
 | Exchange Operations Specialist (US) | Remote | [View →](https://www.remotejobscan.com/job/8842/exchange-operations-specialist-us/) |
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

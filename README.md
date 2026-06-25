@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Rust跨平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
+| 南非运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | 业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 | 视觉设计师（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
 | 高级/资深工程师，流动性平台，数据工程师（数据平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
@@ -30,8 +32,6 @@
 | 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS专员（葡萄牙语和西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | VIP增长产品运营经理（合同工，12个月） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
-| 移动端核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
-| 移动核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/software-engineer-mobile-core/) |
 | 英国合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 | 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
 | 美国交易所运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8842/exchange-operations-specialist-us/) |
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-25 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
