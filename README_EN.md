@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1531</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1532</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VIP Growth Product Operations Manager (Contractor, 12 months) | Remote | [View →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 | Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Compliance Associate, UK | Remote | [View →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 | Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
@@ -41,7 +42,6 @@
 | Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 | Deputy AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8830/deputy-aml-officer-eu-mifid/) |
 | AML Officer (EU, MiFID) | Remote | [View →](https://www.remotejobscan.com/job/8831/aml-officer-eu-mifid/) |
-| Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
