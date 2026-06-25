@@ -23,11 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
+| Visual Designer (Part Time) | Remote | [View →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
 | Senior/Staff Engineer, Liquidity Platform, Data Engineer (Data Platform) | On-site | [View →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
 | HR&Admin Officer (HK) | Hybrid | [View →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| Staff Software Engineer, Rust (Cross-Platform) | On-site | [View →](https://www.remotejobscan.com/job/6977/staff-software-engineer-rust-cross-platform/) |
 | VIP Growth Product Operations Manager (Contractor, 12 months) | Remote | [View →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 | Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Compliance Associate, UK | Remote | [View →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
@@ -41,7 +42,6 @@
 | Senior Fraud & Risk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/8837/senior-fraud-risk-analyst/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
-| Crypto Business Analyst - Spanish | Remote | [View →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
