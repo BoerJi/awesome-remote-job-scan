@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1529</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1531</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Network Operations & Strategy | Remote | [View →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
+| Manager, Enterprise Risk | On-site | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 | Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
@@ -40,8 +42,6 @@
 | Compliance Associate, UK | Remote | [View →](https://www.remotejobscan.com/job/8844/compliance-associate-uk/) |
 | Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/8843/compliance-manager/) |
 | Exchange Operations Specialist (US) | Remote | [View →](https://www.remotejobscan.com/job/8842/exchange-operations-specialist-us/) |
-| Exchange Operations Automation Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8841/exchange-operations-automation-engineer-us/) |
-| Application Support Engineer (US) | Remote | [View →](https://www.remotejobscan.com/job/8840/application-support-engineer-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-25 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
