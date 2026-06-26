@@ -14,28 +14,32 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1516</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1518</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/8616/engineering-manager/) |
+| Director of Product | On-site | [View →](https://www.remotejobscan.com/job/8642/director-of-product/) |
+| Product Manager | On-site | [View →](https://www.remotejobscan.com/job/8641/product-manager/) |
+| Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/8717/site-reliability-engineer/) |
+| Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
+| Senior Agent, Customer Service (Spanish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
+| Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
 | Specialist, CDD Operations - Budapest | On-site | [View →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 | Engineering Director, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
-| Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | Manager, Network Operations & Strategy | Remote | [View →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
 | Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA) | Remote | [View →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
 | Manager, Enterprise Risk | On-site | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 | Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
-| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
-| Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
