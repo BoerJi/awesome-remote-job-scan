@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,7 +37,6 @@
 | Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Operations Manager - South Africa | Hybrid | [View →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
-| Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 08:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 09:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

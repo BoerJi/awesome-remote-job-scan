@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -39,7 +39,6 @@
 | 移动核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/software-engineer-mobile-core/) |
 | 欧洲技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | 南非运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
-| 业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 08:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 09:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
