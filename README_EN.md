@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1518</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1519</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Operations Engineer (Fresh Graduates Welcome) | On-site | [View →](https://www.remotejobscan.com/job/8863/it-operations-engineer-fresh-graduates-welcome/) |
 | Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/8616/engineering-manager/) |
 | Director of Product | On-site | [View →](https://www.remotejobscan.com/job/8642/director-of-product/) |
 | Product Manager | On-site | [View →](https://www.remotejobscan.com/job/8641/product-manager/) |
@@ -39,7 +40,6 @@
 | Manager, Network Operations & Strategy | Remote | [View →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
 | Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA) | Remote | [View →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
 | Manager, Enterprise Risk | On-site | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
-| Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
