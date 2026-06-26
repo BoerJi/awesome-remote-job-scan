@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1529</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1528</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,8 +35,6 @@
 | Operations Manager - South Africa | Hybrid | [View →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 | Visual Designer (Part Time) | Remote | [View →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
-| Senior/Staff Engineer, Liquidity Platform, Data Engineer (Data Platform) | On-site | [View →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
-| HR&Admin Officer (HK) | Hybrid | [View →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +79,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
