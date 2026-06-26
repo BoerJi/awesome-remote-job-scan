@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Senior/Staff Engineer, Liquidity Platform, Data Engineer (Data Platform) | On-site | [View →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
 | HR&Admin Officer (HK) | Hybrid | [View →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
-| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 04:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 05:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
