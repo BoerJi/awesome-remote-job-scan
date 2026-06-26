@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,9 +37,6 @@
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
-| Manager, Network Operations & Strategy | Remote | [View →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
-| Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA) | Remote | [View →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
-| Manager, Enterprise Risk | On-site | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
