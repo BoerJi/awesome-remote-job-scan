@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -38,7 +38,6 @@
 | 视觉设计师（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
 | 高级/资深工程师，流动性平台，数据工程师（数据平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/seniorstaff-engineer-liquidity-platform-data-engineer-data-platform/) |
 | 香港人事行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
-| 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 05:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 06:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
