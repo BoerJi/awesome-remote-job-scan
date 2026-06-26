@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,7 +39,6 @@
 | Engineering Director, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 18:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 19:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
