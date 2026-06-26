@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 | 移动端 Web3 工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
 | 移动Web3工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8723/engineering-director-mobile-web3/) |
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
@@ -38,7 +39,6 @@
 | 移动端核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | 移动核心软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/software-engineer-mobile-core/) |
 | 欧洲技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
-| 南非运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

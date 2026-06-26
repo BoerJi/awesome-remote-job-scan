@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 | Engineering Director, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
@@ -36,7 +37,6 @@
 | Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
 | Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8846/software-engineer-mobile-core/) |
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
-| Operations Manager - South Africa | Hybrid | [View →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
