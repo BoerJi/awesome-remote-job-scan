@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1519</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1521</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心基础设施技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8865/technical-project-manager-core-infrastructure/) |
+| 后端技术负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8864/tech-lead-backend/) |
 | IT运维工程师（欢迎应届毕业生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8863/it-operations-engineer-fresh-graduates-welcome/) |
 | 工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8616/engineering-manager/) |
 | 产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8642/director-of-product/) |
@@ -82,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1519</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1521</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/8865/technical-project-manager-core-infrastructure/) |
+| Tech Lead, Backend | Hybrid | [View →](https://www.remotejobscan.com/job/8864/tech-lead-backend/) |
 | IT Operations Engineer (Fresh Graduates Welcome) | On-site | [View →](https://www.remotejobscan.com/job/8863/it-operations-engineer-fresh-graduates-welcome/) |
 | Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/8616/engineering-manager/) |
 | Director of Product | On-site | [View →](https://www.remotejobscan.com/job/8642/director-of-product/) |
@@ -81,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
