@@ -25,6 +25,7 @@
 |---|---|---|
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | 网络运营与战略经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
+| 币安加速器计划 - 企业级风险评估 (EWRA) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
 | 企业风险管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 | 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | 中东和北非地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
@@ -39,7 +40,6 @@
 | 香港人事行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
 | 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS专员（葡萄牙语和西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| VIP增长产品运营经理（合同工，12个月） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

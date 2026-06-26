@@ -25,6 +25,7 @@
 |---|---|---|
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | Manager, Network Operations & Strategy | Remote | [View →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
+| Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA) | Remote | [View →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
 | Manager, Enterprise Risk | On-site | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 | Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/8583/market-researcher-turkish-speaking/) |
 | Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
@@ -38,7 +39,6 @@
 | HR&Admin Officer (HK) | Hybrid | [View →](https://www.remotejobscan.com/job/8850/hradmin-officer-hk/) |
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/8818/senior-legal-analyst/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| VIP Growth Product Operations Manager (Contractor, 12 months) | Remote | [View →](https://www.remotejobscan.com/job/8847/vip-growth-product-operations-manager-contractor-12-months/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
