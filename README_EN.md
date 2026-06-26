@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1524</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1515</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Director, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
+| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
+| Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
+| Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | Manager, Network Operations & Strategy | Remote | [View →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
 | Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA) | Remote | [View →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
@@ -34,7 +38,6 @@
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Operations Manager - South Africa | Hybrid | [View →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
-| Visual Designer (Part Time) | Remote | [View →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-26 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1524</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1515</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动端 Web3 工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
+| 移动Web3工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8723/engineering-director-mobile-web3/) |
+| 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
+| 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
+| 产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | 网络运营与战略经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8515/manager-network-operations-strategy/) |
 | 币安加速器计划 - 企业级风险评估 (EWRA) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8859/binance-accelerator-program-enterprise-wide-risk-assessment-ewra/) |
@@ -35,7 +40,6 @@
 | 欧洲技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | 南非运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8852/operations-manager-south-africa/) |
 | 业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7361/business-analyst/) |
-| 视觉设计师（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8851/visual-designer-part-time/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-26 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
