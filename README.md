@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,7 +33,6 @@
 | 产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8641/product-manager/) |
 | 站点可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8717/site-reliability-engineer/) |
 | 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
-| 高级客服代理（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -78,6 +77,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-27 10:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-27 11:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
