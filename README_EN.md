@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,7 +35,6 @@
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | Senior Agent, Customer Service (Spanish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
 | Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| Specialist, CDD Operations - Budapest | On-site | [View →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +79,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -35,7 +35,6 @@
 | 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | 高级客服代理（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
 | 高级客服代理（法语 speaking） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| 布达佩斯CDD运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +79,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-27 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-27 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
