@@ -19,13 +19,12 @@
 
 ---
 
-## 🆕 今日更新（3 个精选职位）
+## 🆕 今日更新（2 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | US Equity Risk Control Operations 美股风控运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
 | 高级软件工程师，交易系统（全栈） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8295/senior-software-engineer-trading-systems-full-stack/) |
-| 核心基础设施技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8865/technical-project-manager-core-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -70,6 +69,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-27 13:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-27 14:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,13 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | US Equity Risk Control Operations 美股风控运营 | Remote | [View →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
 | Senior Software Engineer, Trading Systems (Full Stack) | On-site | [View →](https://www.remotejobscan.com/job/8295/senior-software-engineer-trading-systems-full-stack/) |
-| Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/8865/technical-project-manager-core-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -70,6 +69,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 13:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 14:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
