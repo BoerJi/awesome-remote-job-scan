@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,12 +27,6 @@
 | Senior Software Engineer, Trading Systems (Full Stack) | On-site | [View →](https://www.remotejobscan.com/job/8295/senior-software-engineer-trading-systems-full-stack/) |
 | Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/8865/technical-project-manager-core-infrastructure/) |
 | Tech Lead, Backend | Hybrid | [View →](https://www.remotejobscan.com/job/8864/tech-lead-backend/) |
-| IT Operations Engineer (Fresh Graduates Welcome) | On-site | [View →](https://www.remotejobscan.com/job/8863/it-operations-engineer-fresh-graduates-welcome/) |
-| Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/8616/engineering-manager/) |
-| Director of Product | On-site | [View →](https://www.remotejobscan.com/job/8642/director-of-product/) |
-| Product Manager | On-site | [View →](https://www.remotejobscan.com/job/8641/product-manager/) |
-| Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/8717/site-reliability-engineer/) |
-| Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -77,6 +71,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
