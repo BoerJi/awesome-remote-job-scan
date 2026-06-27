@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,7 +34,6 @@
 | Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/8717/site-reliability-engineer/) |
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
 | Senior Agent, Customer Service (Spanish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
-| Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +78,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
