@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,8 +37,6 @@
 | Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
 | Specialist, CDD Operations - Budapest | On-site | [View →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
-| Engineering Director, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8724/engineering-director-mobile-web3/) |
-| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 07:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 08:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
