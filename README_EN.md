@@ -19,12 +19,9 @@
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（0 featured jobs）
 
-| Position | Location | Details |
-|---|---|---|
-| US Equity Risk Control Operations 美股风控运营 | Remote | [View →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
-[📋 Browse all jobs →](https://www.remotejobscan.com)
+> No new jobs in the past 24 hours. [Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
@@ -68,6 +65,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-27 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
