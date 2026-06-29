@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1517</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1520</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
+| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8869/senior-pmo-project-manager-paid-ads/) |
 | Account Manager - VIP Clients (APAC) | Remote | [View →](https://www.remotejobscan.com/job/8871/account-manager-vip-clients-apac/) |
@@ -70,6 +72,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
