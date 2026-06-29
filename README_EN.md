@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1503</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1508</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
+| Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
+| Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
+| Head of Strategic Institutions | On-site | [View →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
 | Senior Software Engineer, Mobile Compliance | On-site | [View →](https://www.remotejobscan.com/job/8712/senior-software-engineer-mobile-compliance/) |
 | Senior Staff Software Engineer, Mobile P2P & Fiat | On-site | [View →](https://www.remotejobscan.com/job/8895/senior-staff-software-engineer-mobile-p2p-fiat/) |
 | Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
@@ -37,11 +41,6 @@
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager/) |
 | Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
 | CIS Crypto Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
-| PR Influencer Manager | Remote | [View →](https://www.remotejobscan.com/job/8623/pr-influencer-manager/) |
-| User Research Specialist （part time） | Remote | [View →](https://www.remotejobscan.com/job/7679/user-research-specialist-part-time/) |
-| VIP Operations Specialist（CN) | Remote | [View →](https://www.remotejobscan.com/job/7394/vip-operations-specialistcn/) |
-| Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
-| CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/7399/cfd-bd-cn/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
