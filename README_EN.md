@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8869/senior-pmo-project-manager-paid-ads/) |
 | Account Manager - VIP Clients (APAC) | Remote | [View →](https://www.remotejobscan.com/job/8871/account-manager-vip-clients-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -69,6 +70,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

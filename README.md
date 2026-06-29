@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（3 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | 高级PMO/项目经理，付费广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8869/senior-pmo-project-manager-paid-ads/) |
 | 亚太区VIP客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8871/account-manager-vip-clients-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
@@ -69,6 +70,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
