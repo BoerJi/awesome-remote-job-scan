@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1501</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1507</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager/) |
+| Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
+| CIS Crypto Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
+| PR Influencer Manager | Remote | [View →](https://www.remotejobscan.com/job/8623/pr-influencer-manager/) |
+| User Research Specialist （part time） | Remote | [View →](https://www.remotejobscan.com/job/7679/user-research-specialist-part-time/) |
+| VIP Operations Specialist（CN) | Remote | [View →](https://www.remotejobscan.com/job/7394/vip-operations-specialistcn/) |
+| Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
+| CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/7399/cfd-bd-cn/) |
+| Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
+| Marketing Operations Intern | Remote | [View →](https://www.remotejobscan.com/job/8340/marketing-operations-intern/) |
+| Freelance Video Designer | Remote | [View →](https://www.remotejobscan.com/job/8653/freelance-video-designer/) |
+| Business Development Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
+| Head of growth-CIS | Remote | [View →](https://www.remotejobscan.com/job/7878/head-of-growth-cis/) |
+| DEX Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/5572/dex-business-development-manager/) |
 | Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
 | Brand Supervisor (Global Markets) | On-site | [View →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
 | Senior Product Strategy Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
 | Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | Payment BD | On-site | [View →](https://www.remotejobscan.com/job/7694/payment-bd/) |
-| FoF Investment Director | On-site | [View →](https://www.remotejobscan.com/job/7509/fof-investment-director/) |
-| Binance Accelerator Program - Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8881/binance-accelerator-program-data-analyst/) |
-| Business Intelligence (BI) Analyst / Senior BI Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/8880/business-intelligence-bi-analyst-senior-bi-analyst/) |
-| Binance Accelerator Program - Big Data Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/8879/binance-accelerator-program-big-data-infrastructure-engineer/) |
-| Senior Margin Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/8877/senior-margin-risk-analyst/) |
-| Senior Software Engineer - C++ - Trading Technologies | Remote | [View →](https://www.remotejobscan.com/job/8878/senior-software-engineer-c-trading-technologies/) |
-| Senior Staff Engineer, Internal Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-internal-platform/) |
-| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
-| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8869/senior-pmo-project-manager-paid-ads/) |
-| Account Manager - VIP Clients (APAC) | Remote | [View →](https://www.remotejobscan.com/job/8871/account-manager-vip-clients-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

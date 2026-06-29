@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1501</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1507</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,23 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager/) |
+| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
+| CIS加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
+| 公关影响者经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8623/pr-influencer-manager/) |
+| 用户研究专员（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7679/user-research-specialist-part-time/) |
+| VIP Operations Specialist（CN) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7394/vip-operations-specialistcn/) |
+| Stock Business Development Manager 券商BD | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
+| CFD BD (CN) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7399/cfd-bd-cn/) |
+| 产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
+| 市场营销运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8340/marketing-operations-intern/) |
+| 自由视频设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8653/freelance-video-designer/) |
+| 商务发展经理（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
+| CIS增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7878/head-of-growth-cis/) |
+| DEX业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5572/dex-business-development-manager/) |
 | 首席/高级增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
 | 全球市场品牌主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
 | 高级产品策略运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
 | 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | 支付业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7694/payment-bd/) |
-| FoF 投资总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7509/fof-investment-director/) |
-| 币安加速器计划 - 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8881/binance-accelerator-program-data-analyst/) |
-| 商业智能（BI）分析师/高级BI分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8880/business-intelligence-bi-analyst-senior-bi-analyst/) |
-| 币安加速器项目 - 大数据基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8879/binance-accelerator-program-big-data-infrastructure-engineer/) |
-| 高级保证金风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8877/senior-margin-risk-analyst/) |
-| 高级软件工程师 - C++ - 交易技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8878/senior-software-engineer-c-trading-technologies/) |
-| 高级核心工程师，内部平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-internal-platform/) |
-| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
-| 葡萄牙语和西班牙语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| 高级PMO/项目经理，付费广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8869/senior-pmo-project-manager-paid-ads/) |
-| 亚太区VIP客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8871/account-manager-vip-clients-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
