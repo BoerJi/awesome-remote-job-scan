@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1517</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1518</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Big Data Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/8879/binance-accelerator-program-big-data-infrastructure-engineer/) |
+| Senior Margin Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/8877/senior-margin-risk-analyst/) |
+| Senior Software Engineer - C++ - Trading Technologies | Remote | [View →](https://www.remotejobscan.com/job/8878/senior-software-engineer-c-trading-technologies/) |
+| Senior Staff Engineer, Internal Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-internal-platform/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
@@ -72,6 +76,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
