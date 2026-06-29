@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1513</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1501</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席/高级增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
+| 全球市场品牌主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
 | 高级产品策略运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
 | 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | 支付业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7694/payment-bd/) |
@@ -82,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
