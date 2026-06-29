@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1504</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1500</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Director, Mobile, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
+| Engineering Director, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8892/engineering-director-mobile-infrastructure/) |
+| Web and Brand Designer - Breakout Prop | Remote | [View →](https://www.remotejobscan.com/job/8890/web-and-brand-designer-breakout-prop/) |
 | 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/7750/alpha/) |
 | 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
@@ -39,10 +42,6 @@
 | Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
 | Marketing Operations Intern | Remote | [View →](https://www.remotejobscan.com/job/8340/marketing-operations-intern/) |
 | Freelance Video Designer | Remote | [View →](https://www.remotejobscan.com/job/8653/freelance-video-designer/) |
-| Business Development Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
-| Head of growth-CIS | Remote | [View →](https://www.remotejobscan.com/job/7878/head-of-growth-cis/) |
-| DEX Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/5572/dex-business-development-manager/) |
-| Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

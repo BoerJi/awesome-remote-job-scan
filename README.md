@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1504</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1500</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动基础设施工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
+| Web和品牌设计师 - Breakout Prop | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8890/web-and-brand-designer-breakout-prop/) |
 | 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7750/alpha/) |
 | 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
 | 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
@@ -39,10 +41,6 @@
 | 产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
 | 市场营销运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8340/marketing-operations-intern/) |
 | 自由视频设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8653/freelance-video-designer/) |
-| 商务发展经理（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
-| CIS增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7878/head-of-growth-cis/) |
-| DEX业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5572/dex-business-development-manager/) |
-| 首席/高级增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
