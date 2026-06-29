@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1507</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1504</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 反洗钱交易监控主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
+| dApp技术负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager/) |
 | 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
 | CIS加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
@@ -41,7 +43,6 @@
 | 全球市场品牌主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
 | 高级产品策略运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
 | 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
-| 支付业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7694/payment-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

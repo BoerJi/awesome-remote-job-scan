@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1507</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1504</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AML Transaction Monitoring Head | Hybrid | [View →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
+| Tech Lead, dApp | Hybrid | [View →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager/) |
 | Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
 | CIS Crypto Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
@@ -41,7 +43,6 @@
 | Brand Supervisor (Global Markets) | On-site | [View →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
 | Senior Product Strategy Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
 | Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
-| Payment BD | On-site | [View →](https://www.remotejobscan.com/job/7694/payment-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
