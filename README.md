@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7750/alpha/) |
+| 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
+| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | 反洗钱交易监控主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
 | dApp技术负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager/) |
@@ -40,9 +43,6 @@
 | CIS增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7878/head-of-growth-cis/) |
 | DEX业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5572/dex-business-development-manager/) |
 | 首席/高级增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
-| 全球市场品牌主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
-| 高级产品策略运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
-| 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

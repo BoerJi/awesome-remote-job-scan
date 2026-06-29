@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/7750/alpha/) |
+| 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
+| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | AML Transaction Monitoring Head | Hybrid | [View →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
 | Tech Lead, dApp | Hybrid | [View →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager/) |
@@ -40,9 +43,6 @@
 | Head of growth-CIS | Remote | [View →](https://www.remotejobscan.com/job/7878/head-of-growth-cis/) |
 | DEX Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/5572/dex-business-development-manager/) |
 | Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
-| Brand Supervisor (Global Markets) | On-site | [View →](https://www.remotejobscan.com/job/8884/brand-supervisor-global-markets/) |
-| Senior Product Strategy Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
-| Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
