@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1518</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1523</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Payment BD | On-site | [View →](https://www.remotejobscan.com/job/7694/payment-bd/) |
+| FoF Investment Director | On-site | [View →](https://www.remotejobscan.com/job/7509/fof-investment-director/) |
+| Binance Accelerator Program - Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8881/binance-accelerator-program-data-analyst/) |
+| Business Intelligence (BI) Analyst / Senior BI Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/8880/business-intelligence-bi-analyst-senior-bi-analyst/) |
 | Binance Accelerator Program - Big Data Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/8879/binance-accelerator-program-big-data-infrastructure-engineer/) |
 | Senior Margin Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/8877/senior-margin-risk-analyst/) |
 | Senior Software Engineer - C++ - Trading Technologies | Remote | [View →](https://www.remotejobscan.com/job/8878/senior-software-engineer-c-trading-technologies/) |
@@ -76,6 +80,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

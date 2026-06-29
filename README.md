@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1518</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1523</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7694/payment-bd/) |
+| FoF 投资总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7509/fof-investment-director/) |
+| 币安加速器计划 - 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8881/binance-accelerator-program-data-analyst/) |
+| 商业智能（BI）分析师/高级BI分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8880/business-intelligence-bi-analyst-senior-bi-analyst/) |
 | 币安加速器项目 - 大数据基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8879/binance-accelerator-program-big-data-infrastructure-engineer/) |
 | 高级保证金风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8877/senior-margin-risk-analyst/) |
 | 高级软件工程师 - C++ - 交易技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8878/senior-software-engineer-c-trading-technologies/) |
@@ -76,6 +80,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-29 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
