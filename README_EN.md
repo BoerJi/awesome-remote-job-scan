@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1500</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1503</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Mobile Compliance | On-site | [View →](https://www.remotejobscan.com/job/8712/senior-software-engineer-mobile-compliance/) |
+| Senior Staff Software Engineer, Mobile P2P & Fiat | On-site | [View →](https://www.remotejobscan.com/job/8895/senior-staff-software-engineer-mobile-p2p-fiat/) |
+| Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
 | Engineering Director, Mobile, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
 | Engineering Director, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8892/engineering-director-mobile-infrastructure/) |
 | Web and Brand Designer - Breakout Prop | Remote | [View →](https://www.remotejobscan.com/job/8890/web-and-brand-designer-breakout-prop/) |
@@ -39,9 +42,6 @@
 | VIP Operations Specialist（CN) | Remote | [View →](https://www.remotejobscan.com/job/7394/vip-operations-specialistcn/) |
 | Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 | CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/7399/cfd-bd-cn/) |
-| Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7692/product-marketing-manager/) |
-| Marketing Operations Intern | Remote | [View →](https://www.remotejobscan.com/job/8340/marketing-operations-intern/) |
-| Freelance Video Designer | Remote | [View →](https://www.remotejobscan.com/job/8653/freelance-video-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
