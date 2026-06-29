@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1521</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1513</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Strategy Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/6959/senior-product-strategy-operations-manager-okx-sg/) |
+| Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/6961/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | Payment BD | On-site | [View →](https://www.remotejobscan.com/job/7694/payment-bd/) |
 | FoF Investment Director | On-site | [View →](https://www.remotejobscan.com/job/7509/fof-investment-director/) |
 | Binance Accelerator Program - Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8881/binance-accelerator-program-data-analyst/) |
@@ -80,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-29 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
