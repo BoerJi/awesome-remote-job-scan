@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1487</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8921/data-analyst/) |
+| Solution Architect | Remote | [View →](https://www.remotejobscan.com/job/8920/solution-architect/) |
+| UIUX Designer (Part-time) | Remote | [View →](https://www.remotejobscan.com/job/8919/uiux-designer-part-time/) |
 | Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Brand Growth & Content Creator (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
@@ -40,9 +43,6 @@
 | BlockChain Core Developer | Remote | [View →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
 | Blockchain Engineer — Ecosystem Research & Business Exploration | Remote | [View →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 | Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
-| Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
-| Community Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
-| Growth Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

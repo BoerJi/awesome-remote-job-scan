@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1487</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1489</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8921/data-analyst/) |
+| 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8920/solution-architect/) |
+| UIUX设计师（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8919/uiux-designer-part-time/) |
 | 中东和北非地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | 品牌增长与内容创作者（合同工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | 品牌营销与创意（合同工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
@@ -40,9 +43,6 @@
 | 区块链核心开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
 | 区块链工程师 — 生态研究与商业探索 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 | 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
-| 高级软件工程师，移动交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
-| 西非社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
-| 西非增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
