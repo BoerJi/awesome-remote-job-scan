@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1491</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1487</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 中东和北非地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | 品牌增长与内容创作者（合同工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | 品牌营销与创意（合同工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | AI运营策略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8728/director-ai-operations-strategy/) |
@@ -42,7 +43,6 @@
 | 高级软件工程师，移动交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | 西非社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
 | 西非增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
-| 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1491</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1487</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Brand Growth & Content Creator (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | Director, AI Operations Strategy | On-site | [View →](https://www.remotejobscan.com/job/8728/director-ai-operations-strategy/) |
@@ -42,7 +43,6 @@
 | Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | Community Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
 | Growth Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
-| Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
