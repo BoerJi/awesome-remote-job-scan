@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1497</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1498</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户尽职调查运营专家 - KYB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Web3业务拓展与增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
 | 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
@@ -41,7 +42,6 @@
 | 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | 支付领域首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | 战略机构负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
-| 移动合规高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8712/senior-software-engineer-mobile-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

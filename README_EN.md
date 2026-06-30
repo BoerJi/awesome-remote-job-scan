@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1497</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1498</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Web3 Business Development & Growth | Remote | [View →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
@@ -41,7 +42,6 @@
 | Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | Head of Strategic Institutions | On-site | [View →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
-| Senior Software Engineer, Mobile Compliance | On-site | [View →](https://www.remotejobscan.com/job/8712/senior-software-engineer-mobile-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
