@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1501</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1500</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| BlockChain Core Developer | Remote | [View →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
+| Blockchain Engineer — Ecosystem Research & Business Exploration | Remote | [View →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 | Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
 | Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | Community Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
@@ -39,8 +41,6 @@
 | 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | AML Transaction Monitoring Head | Hybrid | [View →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
-| Tech Lead, dApp | Hybrid | [View →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
-| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
