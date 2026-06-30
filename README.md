@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1503</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1501</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
+| 高级软件工程师，移动交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | 西非社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
 | 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | 支付领域首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
@@ -38,8 +40,6 @@
 | 反洗钱交易监控主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
 | dApp技术负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager/) |
-| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
-| CIS加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

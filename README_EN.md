@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1503</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1501</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
+| Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | Community Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
 | Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
@@ -39,8 +41,6 @@
 | AML Transaction Monitoring Head | Hybrid | [View →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
 | Tech Lead, dApp | Hybrid | [View →](https://www.remotejobscan.com/job/8889/tech-lead-dapp/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager/) |
-| Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/6785/key-account-manager/) |
-| CIS Crypto Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7674/cis-crypto-business-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
