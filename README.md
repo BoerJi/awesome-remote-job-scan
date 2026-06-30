@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1489</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1491</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才获取专员（12个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8923/talent-acquisition-specialist-12-months-contract/) |
+| 企业人才获取专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8924/talent-acquisition-specialist-corporate/) |
 | 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8921/data-analyst/) |
 | 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8920/solution-architect/) |
 | UIUX设计师（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8919/uiux-designer-part-time/) |
@@ -41,8 +43,6 @@
 | 赚币产品运营（传统金融） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
 | VIP客户关系经理（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7665/vip-relationship-manager-korean-speaker/) |
 | 币安加速器项目 - 宏观研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8908/binance-accelerator-program-macro-research/) |
-| 区块链核心开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
-| 区块链工程师 — 生态研究与商业探索 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

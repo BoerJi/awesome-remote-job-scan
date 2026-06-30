@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1491</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Talent Acquisition Specialist (12-months contract) | Remote | [View →](https://www.remotejobscan.com/job/8923/talent-acquisition-specialist-12-months-contract/) |
+| Talent Acquisition Specialist (Corporate) | Remote | [View →](https://www.remotejobscan.com/job/8924/talent-acquisition-specialist-corporate/) |
 | Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8921/data-analyst/) |
 | Solution Architect | Remote | [View →](https://www.remotejobscan.com/job/8920/solution-architect/) |
 | UIUX Designer (Part-time) | Remote | [View →](https://www.remotejobscan.com/job/8919/uiux-designer-part-time/) |
@@ -41,8 +43,6 @@
 | Earn Product Operation (TradFi) | Remote | [View →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
 | VIP Relationship Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7665/vip-relationship-manager-korean-speaker/) |
 | Binance Accelerator Program - Macro Research | Remote | [View →](https://www.remotejobscan.com/job/8908/binance-accelerator-program-macro-research/) |
-| BlockChain Core Developer | Remote | [View →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
-| Blockchain Engineer — Ecosystem Research & Business Exploration | Remote | [View →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
