@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1497</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1491</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 品牌增长与内容创作者（合同工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
+| 品牌营销与创意（合同工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
+| AI运营策略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8728/director-ai-operations-strategy/) |
 | 客户尽职调查运营专家 - KYB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Web3业务拓展与增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
 | 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
@@ -40,8 +43,6 @@
 | 西非社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
 | 西非增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
 | 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
-| 支付领域首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
-| 战略机构负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

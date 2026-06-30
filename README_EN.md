@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1497</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1491</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Brand Growth & Content Creator (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
+| Brand Marketing & Creative (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
+| Director, AI Operations Strategy | On-site | [View →](https://www.remotejobscan.com/job/8728/director-ai-operations-strategy/) |
 | Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Web3 Business Development & Growth | Remote | [View →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
@@ -40,8 +43,6 @@
 | Community Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
 | Growth Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
 | Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
-| Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
-| Head of Strategic Institutions | On-site | [View →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
