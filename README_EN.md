@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1496</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1495</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Engineer, HR Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
+| Macro Research Analyst | Remote | [View →](https://www.remotejobscan.com/job/8910/macro-research-analyst/) |
+| Earn Product Operation (TradFi) | Remote | [View →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
+| VIP Relationship Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7665/vip-relationship-manager-korean-speaker/) |
+| Binance Accelerator Program - Macro Research | Remote | [View →](https://www.remotejobscan.com/job/8908/binance-accelerator-program-macro-research/) |
 | BlockChain Core Developer | Remote | [View →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
 | Blockchain Engineer — Ecosystem Research & Business Exploration | Remote | [View →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 | Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
@@ -37,10 +42,6 @@
 | Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
 | Engineering Director, Mobile, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
 | Engineering Director, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8892/engineering-director-mobile-infrastructure/) |
-| Web and Brand Designer - Breakout Prop | Remote | [View →](https://www.remotejobscan.com/job/8890/web-and-brand-designer-breakout-prop/) |
-| 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/7750/alpha/) |
-| 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
-| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

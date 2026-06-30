@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1496</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1495</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级员工工程师，HR平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
+| 宏观研究分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8910/macro-research-analyst/) |
+| 赚币产品运营（传统金融） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
+| VIP客户关系经理（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7665/vip-relationship-manager-korean-speaker/) |
+| 币安加速器项目 - 宏观研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8908/binance-accelerator-program-macro-research/) |
 | 区块链核心开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
 | 区块链工程师 — 生态研究与商业探索 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
 | 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
@@ -36,10 +41,6 @@
 | 高级移动P2P与法币软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/senior-staff-software-engineer-mobile-p2p-fiat/) |
 | 高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
 | 移动基础设施工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
-| Web和品牌设计师 - Breakout Prop | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8890/web-and-brand-designer-breakout-prop/) |
-| 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7750/alpha/) |
-| 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
-| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
