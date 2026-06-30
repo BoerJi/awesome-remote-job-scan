@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1495</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1497</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Web3 Business Development & Growth | Remote | [View →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
+| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
+| Senior Finance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/8911/senior-finance-associate/) |
 | Senior Staff Engineer, HR Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | Macro Research Analyst | Remote | [View →](https://www.remotejobscan.com/job/8910/macro-research-analyst/) |
 | Earn Product Operation (TradFi) | Remote | [View →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
@@ -38,10 +42,6 @@
 | Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | Head of Strategic Institutions | On-site | [View →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
 | Senior Software Engineer, Mobile Compliance | On-site | [View →](https://www.remotejobscan.com/job/8712/senior-software-engineer-mobile-compliance/) |
-| Senior Staff Software Engineer, Mobile P2P & Fiat | On-site | [View →](https://www.remotejobscan.com/job/8895/senior-staff-software-engineer-mobile-p2p-fiat/) |
-| Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
-| Engineering Director, Mobile, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
-| Engineering Director, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8892/engineering-director-mobile-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1495</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1497</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3业务拓展与增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
+| 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
+| 高级财务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8911/senior-finance-associate/) |
 | 高级员工工程师，HR平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | 宏观研究分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8910/macro-research-analyst/) |
 | 赚币产品运营（传统金融） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
@@ -38,9 +42,6 @@
 | 支付领域首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | 战略机构负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
 | 移动合规高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8712/senior-software-engineer-mobile-compliance/) |
-| 高级移动P2P与法币软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/senior-staff-software-engineer-mobile-p2p-fiat/) |
-| 高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
-| 移动基础设施工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
