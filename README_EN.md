@@ -26,6 +26,7 @@
 | Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8921/data-analyst/) |
 | Solution Architect | Remote | [View →](https://www.remotejobscan.com/job/8920/solution-architect/) |
 | UIUX Designer (Part-time) | Remote | [View →](https://www.remotejobscan.com/job/8919/uiux-designer-part-time/) |
+| Binance Accelerator Program - Academy Business Development | Remote | [View →](https://www.remotejobscan.com/job/8922/binance-accelerator-program-academy-business-development/) |
 | Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Brand Growth & Content Creator (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
@@ -42,7 +43,6 @@
 | Binance Accelerator Program - Macro Research | Remote | [View →](https://www.remotejobscan.com/job/8908/binance-accelerator-program-macro-research/) |
 | BlockChain Core Developer | Remote | [View →](https://www.remotejobscan.com/job/8905/blockchain-core-developer/) |
 | Blockchain Engineer — Ecosystem Research & Business Exploration | Remote | [View →](https://www.remotejobscan.com/job/8904/blockchain-engineer-ecosystem-research-business-exploration/) |
-| Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
