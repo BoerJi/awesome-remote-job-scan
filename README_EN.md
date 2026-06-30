@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1500</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1497</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,6 +28,7 @@
 | Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
 | Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | Community Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
+| Growth Manager, West Africa | Remote | [View →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
 | Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | Head of Strategic Institutions | On-site | [View →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
@@ -40,7 +41,6 @@
 | 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/7750/alpha/) |
 | 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| AML Transaction Monitoring Head | Hybrid | [View →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-06-30 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

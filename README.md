@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1500</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1497</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,6 +28,7 @@
 | 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
 | 高级软件工程师，移动交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | 西非社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8902/community-manager-west-africa/) |
+| 西非增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8907/growth-manager-west-africa/) |
 | 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | 支付领域首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | 战略机构负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8896/head-of-strategic-institutions/) |
@@ -39,7 +40,6 @@
 | 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7750/alpha/) |
 | 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
 | 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| 反洗钱交易监控主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8888/aml-transaction-monitoring-head/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-06-30 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
