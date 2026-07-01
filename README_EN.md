@@ -14,35 +14,32 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1351</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Senior Product Manager, Trading (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/8928/senior-product-manager-trading-cryptocom-app/) |
 | HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8926/hr-operations-manager/) |
-| Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
-| Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/8925/growth-manager/) |
 | Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/8921/data-analyst/) |
 | Solution Architect | Remote | [View →](https://www.remotejobscan.com/job/8920/solution-architect/) |
 | UIUX Designer (Part-time) | Remote | [View →](https://www.remotejobscan.com/job/8919/uiux-designer-part-time/) |
 | Binance Accelerator Program - Academy Business Development | Remote | [View →](https://www.remotejobscan.com/job/8922/binance-accelerator-program-academy-business-development/) |
-| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Brand Growth & Content Creator (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | On-site | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | Director, AI Operations Strategy | On-site | [View →](https://www.remotejobscan.com/job/8728/director-ai-operations-strategy/) |
-| Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Web3 Business Development & Growth | Remote | [View →](https://www.remotejobscan.com/job/8915/web3-business-development-growth/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | Senior Finance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/8911/senior-finance-associate/) |
-| Senior Staff Engineer, HR Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | Macro Research Analyst | Remote | [View →](https://www.remotejobscan.com/job/8910/macro-research-analyst/) |
 | Earn Product Operation (TradFi) | Remote | [View →](https://www.remotejobscan.com/job/8909/earn-product-operation-tradfi/) |
+| VIP Relationship Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7665/vip-relationship-manager-korean-speaker/) |
+| Binance Accelerator Program - Macro Research | Remote | [View →](https://www.remotejobscan.com/job/8908/binance-accelerator-program-macro-research/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
