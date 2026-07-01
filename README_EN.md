@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1484</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1488</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Campaign Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
+| Senior Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
+| Product and Funnel Optimisation Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
+| Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8942/regional-growth-manager-cis/) |
 | Live Streaming Growth Operations 直播增长运营 | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
 | Senior Product Manager - Trading-as-a-service | Remote | [View →](https://www.remotejobscan.com/job/8938/senior-product-manager-trading-as-a-service/) |
 | Product Management Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/8936/product-management-intern-fall-2026/) |
@@ -38,10 +42,6 @@
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 | Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
 | Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/8925/growth-manager/) |
-| Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
-| Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
-| Senior Staff Engineer, HR Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
-| Senior Agent, Customer Service (Spanish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
