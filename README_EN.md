@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1482</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1485</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Live Streaming Growth Operations 直播增长运营 | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
+| Senior Product Manager - Trading-as-a-service | Remote | [View →](https://www.remotejobscan.com/job/8938/senior-product-manager-trading-as-a-service/) |
+| Product Management Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/8936/product-management-intern-fall-2026/) |
 | Staff Smart Contract Engineer | Remote | [View →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
 | FP&A Manager/Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | Brand Growth & Content Creator (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
@@ -39,10 +42,6 @@
 | Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
 | Senior Staff Engineer, HR Platform | Remote | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | Senior Agent, Customer Service (Spanish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
-| Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| Specialist, CDD Operations - Budapest | On-site | [View →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
-| Senior Growth Manager, SEA | On-site | [View →](https://www.remotejobscan.com/job/8791/senior-growth-manager-sea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

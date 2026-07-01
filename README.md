@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1482</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1485</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Live Streaming Growth Operations 直播增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
+| 高级产品经理 - 交易即服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8938/senior-product-manager-trading-as-a-service/) |
+| 产品管理实习生（2026年秋季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8936/product-management-intern-fall-2026/) |
 | 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
 | 财务规划与分析经理/高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | Brand Growth & Content Creator (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
@@ -39,10 +42,6 @@
 | 增长产品经理（高级/首席） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8885/principalsenior-product-manager-growth/) |
 | 高级员工工程师，HR平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | 高级客服专员（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
-| 高级客服代理（法语专员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| 布达佩斯CDD运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
-| 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
-| 东南亚高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8791/senior-growth-manager-sea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
