@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
+| 财务规划与分析经理/高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | Brand Growth & Content Creator (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | 加密业务分析师 - 俄语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
@@ -41,8 +43,6 @@
 | 布达佩斯CDD运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | 东南亚高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8791/senior-growth-manager-sea/) |
-| 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
-| 拉美地区合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

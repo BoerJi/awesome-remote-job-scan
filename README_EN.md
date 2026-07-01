@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Smart Contract Engineer | Remote | [View →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
+| FP&A Manager/Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | Brand Growth & Content Creator (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
@@ -41,8 +43,6 @@
 | Specialist, CDD Operations - Budapest | On-site | [View →](https://www.remotejobscan.com/job/8860/specialist-cdd-operations-budapest/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 | Senior Growth Manager, SEA | On-site | [View →](https://www.remotejobscan.com/job/8791/senior-growth-manager-sea/) |
-| Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
-| Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
