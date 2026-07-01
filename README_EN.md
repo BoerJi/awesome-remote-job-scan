@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1488</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Lead, Prediction & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
 | Growth Campaign Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
 | Senior Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
 | Product and Funnel Optimisation Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
@@ -41,7 +42,6 @@
 | Business Development Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 | Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
-| Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/8925/growth-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
