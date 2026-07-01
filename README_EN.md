@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1483</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1485</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager - Marketing Automation Platform | Remote | [View →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
 | 测试专家 | Remote | [View →](https://www.remotejobscan.com/job/8930/job-8930/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Business Development Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
@@ -42,7 +43,6 @@
 | Finance Director - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/8768/finance-director-group-consolidation/) |
 | Deputy General Counsel, Product | On-site | [View →](https://www.remotejobscan.com/job/8718/deputy-general-counsel-product/) |
 | Senior HR Manager | On-site | [View →](https://www.remotejobscan.com/job/8690/senior-hr-manager/) |
-| Tech Governance - Security Compliance & Governance Engineer | On-site | [View →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

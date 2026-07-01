@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1483</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1485</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 营销自动化平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
 | 测试专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8930/job-8930/) |
 | 运营经理（韩语口语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | 商务发展经理（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
@@ -42,7 +43,6 @@
 | 集团合并财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8768/finance-director-group-consolidation/) |
 | 产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8718/deputy-general-counsel-product/) |
 | 高级人力资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8690/senior-hr-manager/) |
-| 技术治理 - 安全合规与治理工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
