@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1485</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1483</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Brand Growth & Content Creator (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
+| Brand Marketing & Creative (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
+| 加密业务分析师 - 俄语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 | 营销自动化平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
 | 测试专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8930/job-8930/) |
 | 运营经理（韩语口语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
@@ -40,9 +43,6 @@
 | 东南亚高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8791/senior-growth-manager-sea/) |
 | 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | 拉美地区合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
-| 集团合并财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8768/finance-director-group-consolidation/) |
-| 产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8718/deputy-general-counsel-product/) |
-| 高级人力资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8690/senior-hr-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-01 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

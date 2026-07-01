@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1485</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1483</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Brand Growth & Content Creator (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
+| Brand Marketing & Creative (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
+| Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 | Product Manager - Marketing Automation Platform | Remote | [View →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
 | 测试专家 | Remote | [View →](https://www.remotejobscan.com/job/8930/job-8930/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
@@ -40,9 +43,6 @@
 | Senior Growth Manager, SEA | On-site | [View →](https://www.remotejobscan.com/job/8791/senior-growth-manager-sea/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
-| Finance Director - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/8768/finance-director-group-consolidation/) |
-| Deputy General Counsel, Product | On-site | [View →](https://www.remotejobscan.com/job/8718/deputy-general-counsel-product/) |
-| Senior HR Manager | On-site | [View →](https://www.remotejobscan.com/job/8690/senior-hr-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-01 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
