@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1485</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1488</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| HRBP | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8948/hrbp/) |
+| Live Streaming Growth Operations 直播增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
 | 销售主管，预测与数字资产市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
 | 增长活动经理 - CIS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
 | 高级增长经理 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
@@ -40,8 +42,6 @@
 | 运营经理（韩语口语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | 商务发展经理（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
-| 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
-| 增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8925/growth-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
