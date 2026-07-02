@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1479</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1478</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Business Manager, Liquidity Growth | Remote | [View →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | Senior Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 | Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
@@ -35,7 +36,6 @@
 | Growth Campaign Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
 | Senior Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
 | Product and Funnel Optimisation Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
-| Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8942/regional-growth-manager-cis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +80,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
