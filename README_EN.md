@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Designer (Prediction Markets) | On-site | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
 | Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
 | Growth & AI Initiatives Manager 增长与 AI 专项经理 | On-site | [View →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
@@ -33,7 +34,6 @@
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | Senior Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 | Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
-| Product Manager / Director, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -78,6 +78,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

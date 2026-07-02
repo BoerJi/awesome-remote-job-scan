@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品设计师（预测市场） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
 | 首席AI工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
 | 增长与 AI 专项经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
@@ -34,7 +35,6 @@
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | 高级移动软件工程师，核心团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 | 移动端高级软件工程师（P2P / 法币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
-| 结构化产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +79,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
