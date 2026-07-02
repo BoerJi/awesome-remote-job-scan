@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1479</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1485</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth & AI Initiatives Manager 增长与 AI 专项经理 | On-site | [View →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
+| Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
+| Product Manager / Director, User Growth | On-site | [View →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
 | Software Development Engineer in Test II (SDET II) - Pro | Remote | [View →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 | Senior Business Manager, Liquidity Growth | Remote | [View →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
@@ -30,12 +33,6 @@
 | Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 | Product Manager / Director, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 | 视觉设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8949/job-8949/) |
-| UIUX设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8567/uiux/) |
-| HRBP | Remote | [View →](https://www.remotejobscan.com/job/8948/hrbp/) |
-| Live Streaming Growth Operations 直播增长运营 | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
-| Sales Lead, Prediction & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
-| Growth Campaign Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
-| Senior Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +77,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

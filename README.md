@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1479</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1485</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长与 AI 专项经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
+| 首席/高级产品经理，本地市场与增长（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
+| Principal / 高级产品经理，本地市场与增长（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/principal-senior-product-manager-local-market-growth-latin-america/) |
+| 用户增长产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
 | 软件测试开发工程师II (SDET II) - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 | 高级业务经理，流动性增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
@@ -30,12 +34,6 @@
 | 移动端高级软件工程师（P2P / 法币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 | 结构化产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 | 视觉设计师-应届生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8949/job-8949/) |
-| UIUX设计师-应届生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8567/uiux/) |
-| HRBP | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8948/hrbp/) |
-| Live Streaming Growth Operations 直播增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
-| 销售主管，预测与数字资产市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
-| 增长活动经理 - CIS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
-| 高级增长经理 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +78,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
