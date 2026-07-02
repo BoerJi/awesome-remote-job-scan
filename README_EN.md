@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1483</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1484</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Service Representative, Series 7 Registered | Remote | [View →](https://www.remotejobscan.com/job/8963/customer-service-representative-series-7-registered/) |
 | Senior Product Designer (Prediction Markets) | On-site | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
 | Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
@@ -33,7 +34,6 @@
 | Senior Business Manager, Liquidity Growth | Remote | [View →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | Senior Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
-| Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -78,6 +78,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

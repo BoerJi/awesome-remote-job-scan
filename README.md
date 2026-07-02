@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1483</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1484</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户服务代表，系列7注册 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8963/customer-service-representative-series-7-registered/) |
 | 高级产品设计师（预测市场） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
 | 首席AI工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
@@ -34,7 +35,6 @@
 | 高级业务经理，流动性增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | 高级移动软件工程师，核心团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
-| 移动端高级软件工程师（P2P / 法币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +79,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
