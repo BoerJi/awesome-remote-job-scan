@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1490</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1472</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
+| Product Manager / Director, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 | 视觉设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8949/job-8949/) |
 | UIUX设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8567/uiux/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/8948/hrbp/) |
@@ -39,9 +41,6 @@
 | Brand Growth & Content Creator (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
-| Product Manager - Marketing Automation Platform | Remote | [View →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
-| 测试专家 | Remote | [View →](https://www.remotejobscan.com/job/8930/job-8930/) |
-| Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1490</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1472</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动端高级软件工程师（P2P / 法币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
+| 结构化产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 | 视觉设计师-应届生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8949/job-8949/) |
 | UIUX设计师-应届生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8567/uiux/) |
 | HRBP | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8948/hrbp/) |
@@ -39,9 +41,6 @@
 | Brand Growth & Content Creator (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
 | Brand Marketing & Creative (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
 | 加密业务分析师 - 俄语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
-| 营销自动化平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
-| 测试专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8930/job-8930/) |
-| 运营经理（韩语口语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
