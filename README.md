@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1472</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1479</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
+| 高级移动软件工程师，核心团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 | 移动端高级软件工程师（P2P / 法币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 | 结构化产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 | 视觉设计师-应届生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8949/job-8949/) |
@@ -34,13 +36,6 @@
 | 高级增长经理 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
 | 产品与漏斗优化经理 - CIS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
 | 区域增长经理 - 中亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8942/regional-growth-manager-cis/) |
-| 高级产品经理 - 交易即服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8938/senior-product-manager-trading-as-a-service/) |
-| 产品管理实习生（2026年秋季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8936/product-management-intern-fall-2026/) |
-| 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
-| 财务规划与分析经理/高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
-| Brand Growth & Content Creator (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
-| Brand Marketing & Creative (Contractor) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
-| 加密业务分析师 - 俄语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +80,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1472</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1479</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
+| Senior Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 | Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 | Product Manager / Director, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
 | 视觉设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8949/job-8949/) |
@@ -34,13 +36,6 @@
 | Senior Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
 | Product and Funnel Optimisation Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
 | Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8942/regional-growth-manager-cis/) |
-| Senior Product Manager - Trading-as-a-service | Remote | [View →](https://www.remotejobscan.com/job/8938/senior-product-manager-trading-as-a-service/) |
-| Product Management Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/8936/product-management-intern-fall-2026/) |
-| Staff Smart Contract Engineer | Remote | [View →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
-| FP&A Manager/Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
-| Brand Growth & Content Creator (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-growth-content-creator-contractor/) |
-| Brand Marketing & Creative (Contractor) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-marketing-creative-contractor/) |
-| Crypto Business Analyst - Russian | Remote | [View →](https://www.remotejobscan.com/job/8835/crypto-business-analyst-russian/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +80,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
