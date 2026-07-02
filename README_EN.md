@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1483</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1484</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
+| Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
 | Growth & AI Initiatives Manager 增长与 AI 专项经理 | On-site | [View →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
 | Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 | Product Manager / Director, User Growth | On-site | [View →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
@@ -32,7 +34,6 @@
 | Senior Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 | Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
 | Product Manager / Director, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8950/product-manager-director-structured-products/) |
-| 视觉设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8949/job-8949/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -77,6 +78,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
