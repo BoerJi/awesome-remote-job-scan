@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件测试开发工程师II (SDET II) - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 | 高级业务经理，流动性增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | 高级移动软件工程师，核心团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
@@ -35,7 +36,6 @@
 | 销售主管，预测与数字资产市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
 | 增长活动经理 - CIS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
 | 高级增长经理 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
-| 产品与漏斗优化经理 - CIS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +80,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-02 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

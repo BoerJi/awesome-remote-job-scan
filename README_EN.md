@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Development Engineer in Test II (SDET II) - Pro | Remote | [View →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 | Senior Business Manager, Liquidity Growth | Remote | [View →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 | Senior Software Engineer, Mobile, Core | On-site | [View →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
@@ -35,7 +36,6 @@
 | Sales Lead, Prediction & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
 | Growth Campaign Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8940/growth-campaign-manager-cis/) |
 | Senior Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8943/senior-growth-manager-cis/) |
-| Product and Funnel Optimisation Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/8941/product-and-funnel-optimisation-manager-cis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +80,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
