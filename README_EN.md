@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1488</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1490</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 视觉设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8949/job-8949/) |
+| UIUX设计师-应届生 | Remote | [View →](https://www.remotejobscan.com/job/8567/uiux/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/8948/hrbp/) |
 | Live Streaming Growth Operations 直播增长运营 | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operations/) |
 | Sales Lead, Prediction & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/8944/sales-lead-prediction-digital-asset-markets/) |
@@ -40,8 +42,6 @@
 | Product Manager - Marketing Automation Platform | Remote | [View →](https://www.remotejobscan.com/job/8932/product-manager-marketing-automation-platform/) |
 | 测试专家 | Remote | [View →](https://www.remotejobscan.com/job/8930/job-8930/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
-| Business Development Manager (Korean speaker) | Remote | [View →](https://www.remotejobscan.com/job/7710/business-development-manager-korean-speaker/) |
-| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-02 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
