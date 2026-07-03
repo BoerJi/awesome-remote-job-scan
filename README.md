@@ -79,6 +79,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 02:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 03:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
