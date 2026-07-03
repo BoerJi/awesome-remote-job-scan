@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1495</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1496</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -26,6 +26,7 @@
 | 北美通信总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | 高级客服专员（德语使用者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
+| 阿根廷增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8984/growth-lead-argentina/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | 币安加速器项目 - 生命周期运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8981/binance-accelerator-program-lifecycle-operations/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
@@ -41,7 +42,6 @@
 | 日语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 | 体育及预测市场增长内容经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
 | 增长内容经理（体育 & 预测市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8966/growth-content-manager-sports-prediction-markets/) |
-| 增长内容经理（体育与预测市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8965/growth-content-manager-sports-prediction-markets/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
