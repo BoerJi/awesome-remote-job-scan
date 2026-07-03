@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -39,7 +39,6 @@
 | 用户增长产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
 | 软件测试开发工程师II (SDET II) - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 | 高级业务经理，流动性增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
-| 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
