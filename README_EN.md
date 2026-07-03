@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1493</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1494</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
+| Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Binance Accelerator Program - Lifecycle Operations | Remote | [View →](https://www.remotejobscan.com/job/8981/binance-accelerator-program-lifecycle-operations/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
@@ -38,8 +40,6 @@
 | CS Specialist (Japanese) | Remote | [View →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 | Growth Content Manager (Sports & Prediction Markets) | Hybrid | [View →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
 | Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
-| Customer Service Representative, Series 7 Registered | Remote | [View →](https://www.remotejobscan.com/job/8963/customer-service-representative-series-7-registered/) |
-| Senior Product Designer (Prediction Markets) | On-site | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
