@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,7 +35,6 @@
 | Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 | Product Manager / Director, User Growth | On-site | [View →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
 | Software Development Engineer in Test II (SDET II) - Pro | Remote | [View →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
-| Senior Business Manager, Liquidity Growth | Remote | [View →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +79,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
