@@ -14,16 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1492</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1494</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| 资深资金内控经理 | Remote | [View →](https://www.remotejobscan.com/job/8975/job-8975/) |
+| P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | Marketing Design Intern | Hybrid | [View →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
+| Deputy Compliance Officer - ADGM | On-site | [View →](https://www.remotejobscan.com/job/8974/deputy-compliance-officer-adgm/) |
 | Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 | CS Specialist (Japanese) | Remote | [View →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 | Growth Content Manager (Sports & Prediction Markets) | Hybrid | [View →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
@@ -34,8 +37,6 @@
 | Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
 | Growth & AI Initiatives Manager 增长与 AI 专项经理 | On-site | [View →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
 | Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
-| Product Manager / Director, User Growth | On-site | [View →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
-| Software Development Engineer in Test II (SDET II) - Pro | Remote | [View →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

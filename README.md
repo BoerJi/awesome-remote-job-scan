@@ -14,16 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1492</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1494</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 资深资金内控经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8975/job-8975/) |
+| P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | 市场设计实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
+| ADGM副合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8974/deputy-compliance-officer-adgm/) |
 | 结构化产品产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 | 日语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 | 体育及预测市场增长内容经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
@@ -37,8 +40,6 @@
 | 增长与 AI 专项经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
 | 首席/高级产品经理，本地市场与增长（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 | Principal / 高级产品经理，本地市场与增长（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/principal-senior-product-manager-local-market-growth-latin-america/) |
-| 用户增长产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8553/product-manager-director-user-growth/) |
-| 软件测试开发工程师II (SDET II) - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
