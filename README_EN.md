@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1494</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1495</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Communications, Americas | On-site | [View →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
@@ -39,7 +40,6 @@
 | Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 | CS Specialist (Japanese) | Remote | [View →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 | Growth Content Manager (Sports & Prediction Markets) | Hybrid | [View →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
-| Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
