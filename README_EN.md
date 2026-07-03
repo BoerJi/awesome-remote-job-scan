@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1491</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 | CS Specialist (Japanese) | Remote | [View →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 | Growth Content Manager (Sports & Prediction Markets) | Hybrid | [View →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
 | Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
@@ -80,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
