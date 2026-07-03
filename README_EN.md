@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1494</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1497</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
+| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| Head of Total Rewards, Global | On-site | [View →](https://www.remotejobscan.com/job/8977/head-of-total-rewards-global/) |
+| Merchant Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8980/merchant-operations-manager/) |
+| C2C Product Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8976/c2c-product-operations-manager/) |
 | 资深资金内控经理 | Remote | [View →](https://www.remotejobscan.com/job/8975/job-8975/) |
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | Marketing Design Intern | Hybrid | [View →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
@@ -34,9 +40,6 @@
 | Customer Service Representative, Series 7 Registered | Remote | [View →](https://www.remotejobscan.com/job/8963/customer-service-representative-series-7-registered/) |
 | Senior Product Designer (Prediction Markets) | On-site | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
-| Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
-| Growth & AI Initiatives Manager 增长与 AI 专项经理 | On-site | [View →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
-| Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-03 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

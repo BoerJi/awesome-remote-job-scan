@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1494</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1497</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
+| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| 全球总薪酬负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8977/head-of-total-rewards-global/) |
+| 商户运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8980/merchant-operations-manager/) |
+| C2C产品运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8976/c2c-product-operations-manager/) |
 | 资深资金内控经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8975/job-8975/) |
 | P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | 市场设计实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
@@ -36,10 +42,6 @@
 | 客户服务代表，系列7注册 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8963/customer-service-representative-series-7-registered/) |
 | 高级产品设计师（预测市场） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
-| 首席AI工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
-| 增长与 AI 专项经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8956/growth-ai-initiatives-manager-ai/) |
-| 首席/高级产品经理，本地市场与增长（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
-| Principal / 高级产品经理，本地市场与增长（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/principal-senior-product-manager-local-market-growth-latin-america/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
