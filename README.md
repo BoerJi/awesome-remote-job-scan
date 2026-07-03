@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1484</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1489</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 日语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
+| 体育及预测市场增长内容经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8967/growth-content-manager-sports-prediction-markets/) |
+| 增长内容经理（体育 & 预测市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8966/growth-content-manager-sports-prediction-markets/) |
+| 增长内容经理（体育与预测市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8965/growth-content-manager-sports-prediction-markets/) |
+| 高级VIP关系经理，东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 | 客户服务代表，系列7注册 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8963/customer-service-representative-series-7-registered/) |
 | 高级产品设计师（预测市场） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
@@ -34,7 +39,6 @@
 | 软件测试开发工程师II (SDET II) - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8955/software-development-engineer-in-test-ii-sdet-ii-pro/) |
 | 高级业务经理，流动性增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8952/senior-business-manager-liquidity-growth/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6863/overseas-operations-manager-p2p/) |
-| 高级移动软件工程师，核心团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8845/senior-software-engineer-mobile-core/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-03 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
