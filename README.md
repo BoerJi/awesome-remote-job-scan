@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -35,7 +35,6 @@
 | 商户运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8980/merchant-operations-manager/) |
 | C2C产品运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8976/c2c-product-operations-manager/) |
 | 资深资金内控经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8975/job-8975/) |
-| P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -80,6 +79,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
