@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -38,7 +38,6 @@
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | Marketing Design Intern | Hybrid | [View →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
 | Deputy Compliance Officer - ADGM | On-site | [View →](https://www.remotejobscan.com/job/8974/deputy-compliance-officer-adgm/) |
-| Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
