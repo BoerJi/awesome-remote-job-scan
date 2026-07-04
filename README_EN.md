@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -36,7 +36,6 @@
 | C2C Product Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8976/c2c-product-operations-manager/) |
 | 资深资金内控经理 | Remote | [View →](https://www.remotejobscan.com/job/8975/job-8975/) |
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
-| Marketing Design Intern | Hybrid | [View →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +80,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 07:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 08:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
