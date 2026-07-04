@@ -19,12 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（2 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Director of Communications, Americas | On-site | [View →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
-| Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -69,6 +68,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 12:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 13:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
