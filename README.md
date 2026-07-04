@@ -19,14 +19,13 @@
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（3 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 北美通信总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | 高级客服专员（德语使用者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
-| 阿根廷增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8984/growth-lead-argentina/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -71,6 +70,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 11:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 12:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
