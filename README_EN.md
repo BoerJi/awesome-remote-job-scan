@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,7 +39,6 @@
 | Marketing Design Intern | Hybrid | [View →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
 | Deputy Compliance Officer - ADGM | On-site | [View →](https://www.remotejobscan.com/job/8974/deputy-compliance-officer-adgm/) |
 | Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
-| CS Specialist (Japanese) | Remote | [View →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 02:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 03:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

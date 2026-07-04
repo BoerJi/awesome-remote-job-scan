@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -39,7 +39,6 @@
 | 市场设计实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8972/marketing-design-intern/) |
 | ADGM副合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8974/deputy-compliance-officer-adgm/) |
 | 结构化产品产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
-| 日语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8968/cs-specialist-japanese/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 02:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 03:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
