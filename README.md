@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -30,11 +30,6 @@
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | 币安加速器项目 - 生命周期运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8981/binance-accelerator-program-lifecycle-operations/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| 全球总薪酬负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8977/head-of-total-rewards-global/) |
-| 商户运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8980/merchant-operations-manager/) |
-| C2C产品运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8976/c2c-product-operations-manager/) |
-| 资深资金内控经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8975/job-8975/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +74,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-04 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

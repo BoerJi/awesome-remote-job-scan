@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,11 +30,6 @@
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Binance Accelerator Program - Lifecycle Operations | Remote | [View →](https://www.remotejobscan.com/job/8981/binance-accelerator-program-lifecycle-operations/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| Head of Total Rewards, Global | On-site | [View →](https://www.remotejobscan.com/job/8977/head-of-total-rewards-global/) |
-| Merchant Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8980/merchant-operations-manager/) |
-| C2C Product Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8976/c2c-product-operations-manager/) |
-| 资深资金内控经理 | Remote | [View →](https://www.remotejobscan.com/job/8975/job-8975/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -79,6 +74,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-04 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
