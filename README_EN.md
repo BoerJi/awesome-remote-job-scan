@@ -14,14 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1498</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1497</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（0 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
-> No new jobs in the past 24 hours. [Browse all jobs →](https://www.remotejobscan.com)
+| Position | Location | Details |
+|---|---|---|
+| Associate, Digital Asset Operations | Hybrid | [View →](https://www.remotejobscan.com/job/8990/associate-digital-asset-operations/) |
+[📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
@@ -65,6 +68,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-05 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-05 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
