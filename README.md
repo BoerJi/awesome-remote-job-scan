@@ -14,17 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1499</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1498</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（2 个精选职位）
+## 🆕 今日更新（1 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 业务发展经理（大中华区） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
-| C2C高级经理/C2C负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8985/c2c-senior-managerc2c-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -69,6 +68,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-05 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-05 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
