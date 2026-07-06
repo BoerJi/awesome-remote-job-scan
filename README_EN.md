@@ -14,18 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1493</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
+| Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 | Compliance Officer/ MLRO (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/8999/compliance-officer-mlro-kazakhstan/) |
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
 | Senior /Staff AI Engineer, Computer Vision | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer-computer-vision/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/6966/senior-visual-designer/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
@@ -78,6 +79,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
