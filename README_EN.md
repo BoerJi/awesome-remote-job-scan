@@ -14,15 +14,21 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1496</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| GM, West Africa | Remote | [View →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
+| VIP Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7682/vip-operations-manager/) |
+| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
+| Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
+| Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
+| Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
 | Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 | Compliance Officer/ MLRO (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/8999/compliance-officer-mlro-kazakhstan/) |
@@ -79,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
