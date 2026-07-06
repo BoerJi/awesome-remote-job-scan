@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1495</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1491</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Associate, Digital Asset Operations | Hybrid | [View →](https://www.remotejobscan.com/job/8990/associate-digital-asset-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -68,6 +69,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
