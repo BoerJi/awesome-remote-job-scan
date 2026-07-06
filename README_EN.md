@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1486</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
