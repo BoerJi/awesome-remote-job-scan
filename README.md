@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1494</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1495</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（6 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -28,6 +28,7 @@
 | 欧洲法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8992/legal-counsel-europe/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8994/binance-accelerator-program-talent-acquisition/) |
 | 数字资产运营助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8990/associate-digital-asset-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
@@ -73,6 +74,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-06 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-06 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
