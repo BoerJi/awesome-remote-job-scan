@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1493</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1494</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/6966/senior-visual-designer/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | Legal Counsel, Europe | Hybrid | [View →](https://www.remotejobscan.com/job/8992/legal-counsel-europe/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
@@ -71,6 +73,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
