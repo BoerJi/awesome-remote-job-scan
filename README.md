@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1486</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1487</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长产品经理，推荐/活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9008/growth-product-manager-referalcampaign/) |
 | 数据操作工程师，X-Layer | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
 | 巴基斯坦MLRO职位 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
 | 西非总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-06 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-06 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

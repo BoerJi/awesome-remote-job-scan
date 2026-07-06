@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1486</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1487</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Product Manager, Referal/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referalcampaign/) |
 | Data Operations Engineer, X-Layer | On-site | [View →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
 | MLRO - Pakistan | On-site | [View →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
 | GM, West Africa | Remote | [View →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
