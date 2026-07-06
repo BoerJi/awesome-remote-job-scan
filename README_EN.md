@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | Growth Product Manager, Referal/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referalcampaign/) |
 | Data Operations Engineer, X-Layer | On-site | [View →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
 | MLRO - Pakistan | On-site | [View →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
@@ -42,7 +43,6 @@
 | Legal Counsel, Europe | Hybrid | [View →](https://www.remotejobscan.com/job/8992/legal-counsel-europe/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Binance Accelerator Program - Talent Acquisition | Remote | [View →](https://www.remotejobscan.com/job/8994/binance-accelerator-program-talent-acquisition/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-06 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
