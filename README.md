@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1496</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1493</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据操作工程师，X-Layer | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
+| 巴基斯坦MLRO职位 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
 | 西非总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
 | VIP运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7682/vip-operations-manager/) |
 | 高级/资深工程师，研发效率平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
@@ -40,7 +42,6 @@
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8994/binance-accelerator-program-talent-acquisition/) |
-| 数字资产运营助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/8990/associate-digital-asset-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-06 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-06 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
