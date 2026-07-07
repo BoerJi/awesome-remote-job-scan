@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
+| Director of Communications, Americas | On-site | [View →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | Lead, Liquidity and Funding | Remote | [View →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
 | Lead, IT Risk | On-site | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
@@ -41,8 +43,6 @@
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
 | Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
 | Compliance Officer/ MLRO (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/8999/compliance-officer-mlro-kazakhstan/) |
-| Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| Senior /Staff AI Engineer, Computer Vision | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer-computer-vision/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
