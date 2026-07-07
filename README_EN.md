@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1485</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1482</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/9025/compliance-lead-compliance-ethics/) |
+| Web3 BD | Remote | [View →](https://www.remotejobscan.com/job/9027/web3-bd/) |
 | Senior Software Engineer, Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | Compliance - Market Surveillance Analyst | Remote | [View →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
@@ -39,8 +41,6 @@
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营 | Remote | [View →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | Remote | [View →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
-| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
