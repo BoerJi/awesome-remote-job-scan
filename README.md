@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1484</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1483</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
+| Futures User Operations 合约用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
+| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 | 合规运营分析师（反洗钱 – 知识产权及交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | TradFi Futures Operations TradFi合约运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
-| Futures User Operations 合约用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | 海外运营经理（P2P） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6860/overseas-operations-manager-p2p/) |
 | 增长产品经理，推荐/活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
 | 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
@@ -35,9 +38,6 @@
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
-| 美洲区通讯总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
-| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
-| 流动性与融资主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 07:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
