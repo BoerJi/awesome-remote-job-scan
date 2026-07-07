@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1485</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1489</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead, Liquidity and Funding | Remote | [View →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
+| Lead, IT Risk | On-site | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
+| Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
+| Manager, Treasury | Remote | [View →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
 | Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
 | Growth Product Manager, Referal/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referalcampaign/) |
 | Data Operations Engineer, X-Layer | On-site | [View →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
@@ -39,10 +43,6 @@
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | Senior /Staff AI Engineer, Computer Vision | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer-computer-vision/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/6966/senior-visual-designer/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
-| Legal Counsel, Europe | Hybrid | [View →](https://www.remotejobscan.com/job/8992/legal-counsel-europe/) |
-| Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
-| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
