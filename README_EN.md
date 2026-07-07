@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1479</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1481</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
 | Director of Communications, Americas | On-site | [View →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
@@ -41,8 +43,6 @@
 | Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
-| Growth Operations Manager（card） | Remote | [View →](https://www.remotejobscan.com/job/8774/growth-operations-managercard/) |
-| Compliance Officer/ MLRO (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/8999/compliance-officer-mlro-kazakhstan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
