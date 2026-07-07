@@ -23,10 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营 | Remote | [View →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
-| Futures User Operations 合约用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | Remote | [View →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

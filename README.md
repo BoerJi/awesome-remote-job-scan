@@ -23,10 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
-| Futures User Operations 合约用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 | 合规运营分析师（反洗钱 – 知识产权及交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
