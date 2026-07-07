@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1483</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1480</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Crypto Business Analyst - Spanish | Remote | [View →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
+| Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
+| Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
@@ -35,9 +38,6 @@
 | Growth Product Manager, Referral/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
 | Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | VIP Client Operations Manager 券商VIP客户运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
-| Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
-| Relationship Manager / Financial Institutions | Hybrid | [View →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
-| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

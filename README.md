@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1483</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1480</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 加密业务分析师-西班牙 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
+| 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
+| 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
@@ -35,9 +38,6 @@
 | 增长产品经理，推荐/活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
 | 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | VIP Client Operations Manager 券商VIP客户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
-| 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
-| 金融机构关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
-| Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
