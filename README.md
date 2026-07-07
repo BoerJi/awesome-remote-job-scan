@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1488</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1479</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | 流动性与融资主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
 | IT风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
@@ -42,7 +43,6 @@
 | 合规官/反洗钱合规官 (哈萨克斯坦) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8999/compliance-officer-mlro-kazakhstan/) |
 | 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | 高级/首席AI工程师，计算机视觉 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer-computer-vision/) |
-| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6966/senior-visual-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

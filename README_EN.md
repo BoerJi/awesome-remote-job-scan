@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1488</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1479</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | Lead, Liquidity and Funding | Remote | [View →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
 | Lead, IT Risk | On-site | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
@@ -42,7 +43,6 @@
 | Compliance Officer/ MLRO (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/8999/compliance-officer-mlro-kazakhstan/) |
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | Senior /Staff AI Engineer, Computer Vision | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer-computer-vision/) |
-| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/6966/senior-visual-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
