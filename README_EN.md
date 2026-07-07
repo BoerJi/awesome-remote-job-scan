@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1474</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1484</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| TradFi Futures Operations TradFi合约运营 | Remote | [View →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
+| Futures User Operations 合约用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
+| Overseas Operations Manager (P2P) | On-site | [View →](https://www.remotejobscan.com/job/6860/overseas-operations-manager-p2p/) |
+| Growth Product Manager, Referral/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
+| Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | VIP Client Operations Manager 券商VIP客户运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
+| Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
 | Relationship Manager / Financial Institutions | Hybrid | [View →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
@@ -31,18 +38,6 @@
 | Director of Communications, Americas | On-site | [View →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | Lead, Liquidity and Funding | Remote | [View →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
-| Lead, IT Risk | On-site | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
-| Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
-| Manager, Treasury | Remote | [View →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
-| Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
-| Data Operations Engineer, X-Layer | On-site | [View →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
-| MLRO - Pakistan | On-site | [View →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
-| GM, West Africa | Remote | [View →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
-| VIP Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7682/vip-operations-manager/) |
-| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

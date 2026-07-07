@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1474</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1484</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规运营分析师（反洗钱 – 知识产权及交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| TradFi Futures Operations TradFi合约运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
+| Futures User Operations 合约用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
+| 海外运营经理（P2P） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6860/overseas-operations-manager-p2p/) |
+| 增长产品经理，推荐/活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
+| 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | VIP Client Operations Manager 券商VIP客户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
+| 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
 | 金融机构关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
@@ -31,18 +38,6 @@
 | 美洲区通讯总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | 流动性与融资主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
-| IT风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
-| 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
-| 财富管理部经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
-| 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
-| 数据操作工程师，X-Layer | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
-| 巴基斯坦MLRO职位 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
-| 西非总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
-| VIP运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7682/vip-operations-manager/) |
-| 高级/资深工程师，研发效率平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| Web3大数据工程师（员工/高级员工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
