@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1480</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1482</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
+| PR & Communications Associate - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
+| Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
 | Crypto Business Analyst - Spanish | Remote | [View →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
 | Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
@@ -35,9 +38,6 @@
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | TradFi Futures Operations TradFi合约运营 | Remote | [View →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
 | Overseas Operations Manager (P2P) | On-site | [View →](https://www.remotejobscan.com/job/6860/overseas-operations-manager-p2p/) |
-| Growth Product Manager, Referral/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
-| Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
-| VIP Client Operations Manager 券商VIP客户运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 15:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

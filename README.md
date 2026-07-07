@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1480</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1482</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
+| 公关与传播助理 - 合同工 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
+| 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
 | 加密业务分析师-西班牙 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
 | 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
@@ -35,9 +38,6 @@
 | 合规运营分析师（反洗钱 – 知识产权及交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | TradFi Futures Operations TradFi合约运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
 | 海外运营经理（P2P） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6860/overseas-operations-manager-p2p/) |
-| 增长产品经理，推荐/活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9008/growth-product-manager-referralcampaign/) |
-| 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
-| VIP Client Operations Manager 券商VIP客户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 15:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
