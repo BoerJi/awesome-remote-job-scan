@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1483</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1481</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -35,9 +35,9 @@
 | VIP Client Operations Manager 券商VIP客户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
 | 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8927/senior-strategy-operations-manager/) |
 | 金融机构关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
-| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
+| 美洲区通讯总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6830/director-of-communications-americas/) |
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7369/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
