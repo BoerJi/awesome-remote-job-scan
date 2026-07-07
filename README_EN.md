@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1480</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1474</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VIP Client Operations Manager 券商VIP客户运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
+| Relationship Manager / Financial Institutions | Hybrid | [View →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
@@ -33,7 +35,6 @@
 | Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
 | Manager, Treasury | Remote | [View →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
 | Principal Brand Designer | On-site | [View →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
-| Growth Product Manager, Referal/Campaign | On-site | [View →](https://www.remotejobscan.com/job/9008/growth-product-manager-referalcampaign/) |
 | Data Operations Engineer, X-Layer | On-site | [View →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
 | MLRO - Pakistan | On-site | [View →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
 | GM, West Africa | Remote | [View →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
@@ -42,7 +43,6 @@
 | Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 | Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
-| Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

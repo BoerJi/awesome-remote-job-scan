@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1480</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1474</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP Client Operations Manager 券商VIP客户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/vip-client-operations-manager-vip/) |
+| 金融机构关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9013/relationship-manager-financial-institutions/) |
 | Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8483/head-of-live-streaming-business/) |
@@ -33,7 +35,6 @@
 | 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
 | 财富管理部经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
 | 首席品牌设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8901/principal-brand-designer/) |
-| 增长产品经理，推荐/活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9008/growth-product-manager-referalcampaign/) |
 | 数据操作工程师，X-Layer | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/data-operations-engineer-x-layer/) |
 | 巴基斯坦MLRO职位 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9006/mlro-pakistan/) |
 | 西非总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9005/gm-west-africa/) |
@@ -42,7 +43,6 @@
 | 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 | 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | Web3大数据工程师（员工/高级员工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
-| 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
