@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1486</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1487</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | Compliance - Market Surveillance Analyst | Remote | [View →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
 | HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
@@ -40,7 +41,6 @@
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | Remote | [View →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/5743/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| TradFi Futures Operations TradFi合约运营 | Remote | [View →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 18:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
