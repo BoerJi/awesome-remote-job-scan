@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1482</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1484</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
+| Risk Control & Data Analyst 风控审核数据分析岗 | Remote | [View →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | Senior Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
 | PR & Communications Associate - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
 | Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
@@ -82,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-07 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

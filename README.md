@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1482</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1484</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
+| Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | 高级市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
 | 公关与传播助理 - 合同工 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
 | 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
@@ -82,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-07 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
