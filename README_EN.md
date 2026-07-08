@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1449</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1451</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Operational Senior Audit Manager, LACC | Remote | [View →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
+| M&A Collaboration & Security Platforms Engineer | Remote | [View →](https://www.remotejobscan.com/job/9042/ma-collaboration-security-platforms-engineer/) |
 | Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | Binance Accelerator Program - Talent Acquisition | Remote | [View →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
 | Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
@@ -39,9 +41,6 @@
 | Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/6912/senior-affiliate-business-development-manager-western-europe/) |
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Deputy MLRO - ADGM | Remote | [View →](https://www.remotejobscan.com/job/9032/deputy-mlro-adgm/) |
-| HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
-| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| Sales Lead, Derivatives & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

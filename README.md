@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1449</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1451</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营高级审计经理，拉美加勒比地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
+| 并购协作与安全平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9042/ma-collaboration-security-platforms-engineer/) |
 | 高级 principal，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
 | 区域增长经理 - 中心伊斯兰国家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
@@ -38,9 +40,6 @@
 | 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6912/senior-affiliate-business-development-manager-western-europe/) |
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | ADGM副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9032/deputy-mlro-adgm/) |
-| 人力资源运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
-| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| 衍生品与数字资产生态销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
