@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1477</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1481</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6912/senior-affiliate-business-development-manager-western-europe/) |
+| 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | ADGM副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9032/deputy-mlro-adgm/) |
 | 人力资源运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
@@ -34,13 +36,11 @@
 | 高级软件工程师，开发者平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | 合规 - 市场监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | 交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
+| 币安加速器计划 - 软件工程师（后端+AI/LLM） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9033/binance-accelerator-program-software-engineer-backend-aillm/) |
 | Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | 高级市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
 | 公关与传播助理 - 合同工 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
 | 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
-| 加密业务分析师-西班牙 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
-| 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
-| 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

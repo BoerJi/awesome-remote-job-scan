@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1477</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1481</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/6912/senior-affiliate-business-development-manager-western-europe/) |
+| Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Deputy MLRO - ADGM | Remote | [View →](https://www.remotejobscan.com/job/9032/deputy-mlro-adgm/) |
 | HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
@@ -34,13 +36,11 @@
 | Senior Software Engineer, Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | Compliance - Market Surveillance Analyst | Remote | [View →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
+| Binance Accelerator Program - Software Engineer (Backend + AI/LLM) | Remote | [View →](https://www.remotejobscan.com/job/9033/binance-accelerator-program-software-engineer-backend-aillm/) |
 | Risk Control & Data Analyst 风控审核数据分析岗 | Remote | [View →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | Senior Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
 | PR & Communications Associate - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
 | Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
-| Crypto Business Analyst - Spanish | Remote | [View →](https://www.remotejobscan.com/job/8833/crypto-business-analyst-spanish/) |
-| Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
-| Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
