@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1477</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1479</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
+| 移动基础设施工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
+| 移动端高级软件工程师（P2P/法币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
+| 高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
 | 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6912/senior-affiliate-business-development-manager-western-europe/) |
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | ADGM副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9032/deputy-mlro-adgm/) |
@@ -36,11 +40,6 @@
 | 高级软件工程师，开发者平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | 合规 - 市场监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | 交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
-| 币安加速器计划 - 软件工程师（后端+AI/LLM） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9033/binance-accelerator-program-software-engineer-backend-aillm/) |
-| Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
-| 高级市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
-| 公关与传播助理 - 合同工 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
-| 机构销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

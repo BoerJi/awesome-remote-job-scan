@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1477</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1479</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
+| Engineering Director, Mobile, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
+| Engineering Director, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8892/engineering-director-mobile-infrastructure/) |
+| Staff Software Engineer, Mobile (P2P / Fiat) | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-software-engineer-mobile-p2p-fiat/) |
+| Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/senior-staff-software-engineer-mobile-growth/) |
 | Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/6912/senior-affiliate-business-development-manager-western-europe/) |
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Deputy MLRO - ADGM | Remote | [View →](https://www.remotejobscan.com/job/9032/deputy-mlro-adgm/) |
@@ -36,11 +41,6 @@
 | Senior Software Engineer, Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | Compliance - Market Surveillance Analyst | Remote | [View →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
-| Binance Accelerator Program - Software Engineer (Backend + AI/LLM) | Remote | [View →](https://www.remotejobscan.com/job/9033/binance-accelerator-program-software-engineer-backend-aillm/) |
-| Risk Control & Data Analyst 风控审核数据分析岗 | Remote | [View →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
-| Senior Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
-| PR & Communications Associate - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
-| Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9012/principal-institutional-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
