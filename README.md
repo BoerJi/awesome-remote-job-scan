@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1475</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1478</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
+| 衍生品与数字资产生态销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
+| 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
+| 关键客户经理 - VIP 业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9028/key-account-manager-vip-bd/) |
 | 合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9025/compliance-lead-compliance-ethics/) |
 | Web3 业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9027/web3-bd/) |
 | 高级软件工程师，开发者平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
@@ -36,11 +41,6 @@
 | 葡萄牙语加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
-| US Equity Risk Control Operations 美股风控运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
-| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

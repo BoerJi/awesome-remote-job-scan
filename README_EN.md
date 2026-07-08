@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1475</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1478</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
+| Sales Lead, Derivatives & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
+| Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
+| Key Account Manager - VIP BD | Remote | [View →](https://www.remotejobscan.com/job/9028/key-account-manager-vip-bd/) |
 | Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/9025/compliance-lead-compliance-ethics/) |
 | Web3 BD | Remote | [View →](https://www.remotejobscan.com/job/9027/web3-bd/) |
 | Senior Software Engineer, Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
@@ -36,11 +41,6 @@
 | Crypto Business Analyst - Portuguese | Remote | [View →](https://www.remotejobscan.com/job/8832/crypto-business-analyst-portuguese/) |
 | Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
-| US Equity Risk Control Operations 美股风控运营 | Remote | [View →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
-| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | Remote | [View →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
