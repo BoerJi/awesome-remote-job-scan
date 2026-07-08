@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1476</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1475</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | 高级软件工程师，开发者平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | 合规 - 市场监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 | 交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
-| 人力资源运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
 | Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | 高级市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9019/senior-marketing-specialist/) |
 | 公关与传播助理 - 合同工 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9018/pr-communications-associate-contractor/) |
@@ -41,6 +40,7 @@
 | Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8867/us-equity-risk-control-operations/) |
 | 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| Professional Trading Clients Operations Manager 专业交易客户高级运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9017/professional-trading-clients-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 02:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 03:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
