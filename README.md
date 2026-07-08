@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1452</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1449</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
+| 区域增长经理 - 中心伊斯兰国家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
 | 欧盟技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
@@ -39,8 +41,6 @@
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | 衍生品与数字资产生态销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
 | 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
-| 关键客户经理 - VIP 业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9028/key-account-manager-vip-bd/) |
-| 合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9025/compliance-lead-compliance-ethics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

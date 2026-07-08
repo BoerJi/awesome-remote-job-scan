@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1452</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1449</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Talent Acquisition | Remote | [View →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
+| Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
@@ -40,8 +42,6 @@
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Sales Lead, Derivatives & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
 | Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
-| Key Account Manager - VIP BD | Remote | [View →](https://www.remotejobscan.com/job/9028/key-account-manager-vip-bd/) |
-| Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/9025/compliance-lead-compliance-ethics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
