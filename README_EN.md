@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1459</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1458</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/9037/senior-software-engineer-frontend-consumer/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | Engineering Director, Mobile, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
 | Engineering Director, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8892/engineering-director-mobile-infrastructure/) |
@@ -40,7 +41,6 @@
 | Web3 BD | Remote | [View →](https://www.remotejobscan.com/job/9027/web3-bd/) |
 | Senior Software Engineer, Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
 | Compliance - Market Surveillance Analyst | Remote | [View →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
-| Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-trading-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
