@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1450</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1452</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧盟技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
+| Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
+| 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
+| 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7750/alpha/) |
 | 高级软件工程师 - 前端 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9037/senior-software-engineer-frontend-consumer/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | 移动基础设施工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8893/engineering-director-mobile-infrastructure/) |
@@ -37,9 +41,6 @@
 | 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | 关键客户经理 - VIP 业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9028/key-account-manager-vip-bd/) |
 | 合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9025/compliance-lead-compliance-ethics/) |
-| Web3 业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9027/web3-bd/) |
-| 高级软件工程师，开发者平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9024/senior-software-engineer-developer-platform/) |
-| 合规 - 市场监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9022/compliance-market-surveillance-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
