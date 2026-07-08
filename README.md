@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级 principal，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
 | 区域增长经理 - 中心伊斯兰国家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
 | 欧盟技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
@@ -40,7 +41,6 @@
 | 人力资源运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | 衍生品与数字资产生态销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
-| 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-08 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

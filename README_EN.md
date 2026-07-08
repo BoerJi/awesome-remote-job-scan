@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | Binance Accelerator Program - Talent Acquisition | Remote | [View →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
 | Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
@@ -41,7 +42,6 @@
 | HR Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/9020/hr-operations-manager/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Sales Lead, Derivatives & Digital Asset Markets | Remote | [View →](https://www.remotejobscan.com/job/9029/sales-lead-derivatives-digital-asset-markets/) |
-| Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-08 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
