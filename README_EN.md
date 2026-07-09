@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1450</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1454</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
+| Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
+| Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
+| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
+| MiFID Compliance Officer | Remote | [View →](https://www.remotejobscan.com/job/9059/mifid-compliance-officer/) |
+| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | UI/UX Designer(6 months Contract) | Remote | [View →](https://www.remotejobscan.com/job/9057/uiux-designer6-months-contract/) |
 | Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/8768/senior-finance-manager-group-consolidation/) |
 | Binance Accelerator Program - VIP Support (Gulf Binance) | Hybrid | [View →](https://www.remotejobscan.com/job/9053/binance-accelerator-program-vip-support-gulf-binance/) |
@@ -37,11 +43,6 @@
 | Partner Solutions Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9046/partner-solutions-lead/) |
 | Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
 | Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
-| Operational Senior Audit Manager, LACC | Remote | [View →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
-| M&A Collaboration & Security Platforms Engineer | Remote | [View →](https://www.remotejobscan.com/job/9042/ma-collaboration-security-platforms-engineer/) |
-| Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
-| Binance Accelerator Program - Talent Acquisition | Remote | [View →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
-| Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

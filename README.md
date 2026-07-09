@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1450</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1454</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级VIP关系经理，东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
+| 高级顾问，监管与许可 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
+| 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
+| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
+| MiFID合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9059/mifid-compliance-officer/) |
+| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | UI/UX设计师（6个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9057/uiux-designer6-months-contract/) |
 | 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8768/senior-finance-manager-group-consolidation/) |
 | 币安加速器计划 - VIP支持（海湾币安） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9053/binance-accelerator-program-vip-support-gulf-binance/) |
@@ -37,11 +43,6 @@
 | 合作伙伴解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9046/partner-solutions-lead/) |
 | Senior Manager, Web3 Growth (Ecosystem) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
 | Web3增长高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
-| 运营高级审计经理，拉美加勒比地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
-| 并购协作与安全平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9042/ma-collaboration-security-platforms-engineer/) |
-| 高级 principal，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
-| 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
-| 区域增长经理 - 中心伊斯兰国家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
