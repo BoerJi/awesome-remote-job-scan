@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1448</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 创意设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9052/creative-designer/) |
+| Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
+| Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
+| CS Specialist（钱包）- 中英文 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-cnen/) |
 | 资深大前端工程师（Web/next.js方向） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9050/webnextjs/) |
 | 韩语渠道活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9049/job-9049/) |
 | VIP客户经理（中英韩三语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9048/vip/) |
@@ -38,9 +42,6 @@
 | 欧盟技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
-| 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7750/alpha/) |
-| 高级软件工程师 - 前端 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9037/senior-software-engineer-frontend-consumer/) |
-| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

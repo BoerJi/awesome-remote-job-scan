@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1448</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Creative Designer | Remote | [View →](https://www.remotejobscan.com/job/9052/creative-designer/) |
+| Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
+| Senior Financial Product Manager 资深理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
+| CS Specialist（Wallet) - CN/EN | Remote | [View →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-cnen/) |
 | 资深大前端工程师（Web/next.js方向） | Hybrid | [View →](https://www.remotejobscan.com/job/9050/webnextjs/) |
 | 韩语渠道活动运营 | Remote | [View →](https://www.remotejobscan.com/job/9049/job-9049/) |
 | VIP客户经理（中英韩三语） | Remote | [View →](https://www.remotejobscan.com/job/9048/vip/) |
@@ -38,9 +42,6 @@
 | Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
 | Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
-| 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/7750/alpha/) |
-| Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/9037/senior-software-engineer-frontend-consumer/) |
-| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
