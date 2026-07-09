@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1451</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1453</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球商业中心高级人力资源合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
+| 高级产品经理，离岸高级交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9073/senior-product-manager-advanced-trading-onshore/) |
 | 身份与访问管理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9071/iam-engineer/) |
 | 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 | 预测部门高级软件工程师（移动端） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
@@ -39,8 +41,6 @@
 | IT风险主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 合规主管，Gemini Galactic Markets, LLC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8280/head-of-compliance-gemini-galactic-markets-llc/) |
 | 欺诈总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8278/director-fraud/) |
-| 会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8408/accounting-manager/) |
-| 高级财务经理，法币/支付运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

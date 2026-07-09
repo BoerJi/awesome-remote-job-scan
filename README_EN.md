@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1451</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1453</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior HR Business Partner, Global Commercial Center | On-site | [View →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
+| Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/9073/senior-product-manager-advanced-trading-onshore/) |
 | IAM Engineer | Remote | [View →](https://www.remotejobscan.com/job/9071/iam-engineer/) |
 | Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 | Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
@@ -40,8 +42,6 @@
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Head of Compliance, Gemini Galactic Markets, LLC | Remote | [View →](https://www.remotejobscan.com/job/8280/head-of-compliance-gemini-galactic-markets-llc/) |
 | Director, Fraud | Remote | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
-| Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/8408/accounting-manager/) |
-| Senior Finance Manager, Fiat/Payment Ops | On-site | [View →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
