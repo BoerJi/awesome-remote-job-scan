@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager, Fiat/Payment Ops | On-site | [View →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
+| APAC Policy and Regulatory Strategist | On-site | [View →](https://www.remotejobscan.com/job/9068/apac-policy-and-regulatory-strategist/) |
+| Senior Accountant, Financial Close | Remote | [View →](https://www.remotejobscan.com/job/9066/senior-accountant-financial-close/) |
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
 | CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
 | CS Specialist（Wallet) - 5 days | Remote | [View →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-5-days/) |
@@ -40,9 +43,6 @@
 | Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Senior Financial Product Manager 资深理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
 | 资深大前端工程师（Web/next.js方向） | Hybrid | [View →](https://www.remotejobscan.com/job/9050/webnextjs/) |
-| 韩语渠道活动运营 | Remote | [View →](https://www.remotejobscan.com/job/9049/job-9049/) |
-| VIP客户经理（中英韩三语） | Remote | [View →](https://www.remotejobscan.com/job/9048/vip/) |
-| 社交媒体增长运营 | Remote | [View →](https://www.remotejobscan.com/job/9047/job-9047/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

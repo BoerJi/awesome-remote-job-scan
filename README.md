@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务经理，法币/支付运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
+| 亚太政策与监管策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9068/apac-policy-and-regulatory-strategist/) |
+| 高级会计师，财务结账 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9066/senior-accountant-financial-close/) |
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
 | 中文客服专员（6天班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
 | CS Specialist（钱包）- 5天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-5-days/) |
@@ -40,9 +43,6 @@
 | Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
 | 资深大前端工程师（Web/next.js方向） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9050/webnextjs/) |
-| 韩语渠道活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9049/job-9049/) |
-| VIP客户经理（中英韩三语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9048/vip/) |
-| 社交媒体增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9047/job-9047/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
