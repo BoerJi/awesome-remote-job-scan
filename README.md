@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1449</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1455</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
+| 中文客服专员（6天班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
+| CS Specialist（钱包）- 5天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-5-days/) |
 | 法务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9061/job-9061/) |
 | 高级VIP关系经理，东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 | 高级顾问，监管与许可 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
@@ -40,9 +43,6 @@
 | 韩语渠道活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9049/job-9049/) |
 | VIP客户经理（中英韩三语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9048/vip/) |
 | 社交媒体增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9047/job-9047/) |
-| 合作伙伴解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9046/partner-solutions-lead/) |
-| Senior Manager, Web3 Growth (Ecosystem) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Web3增长高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

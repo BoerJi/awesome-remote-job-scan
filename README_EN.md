@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1449</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1455</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
+| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
+| CS Specialist（Wallet) - 5 days | Remote | [View →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-5-days/) |
 | 法务专员 | Remote | [View →](https://www.remotejobscan.com/job/9061/job-9061/) |
 | Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 | Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
@@ -40,9 +43,6 @@
 | 韩语渠道活动运营 | Remote | [View →](https://www.remotejobscan.com/job/9049/job-9049/) |
 | VIP客户经理（中英韩三语） | Remote | [View →](https://www.remotejobscan.com/job/9048/vip/) |
 | 社交媒体增长运营 | Remote | [View →](https://www.remotejobscan.com/job/9047/job-9047/) |
-| Partner Solutions Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9046/partner-solutions-lead/) |
-| Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
