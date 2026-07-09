@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1454</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1449</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 法务专员 | Remote | [View →](https://www.remotejobscan.com/job/9061/job-9061/) |
 | Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 | Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
 | Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
@@ -35,7 +36,6 @@
 | Creative Designer | Remote | [View →](https://www.remotejobscan.com/job/9052/creative-designer/) |
 | Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Senior Financial Product Manager 资深理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
-| CS Specialist（Wallet) - CN/EN | Remote | [View →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-cnen/) |
 | 资深大前端工程师（Web/next.js方向） | Hybrid | [View →](https://www.remotejobscan.com/job/9050/webnextjs/) |
 | 韩语渠道活动运营 | Remote | [View →](https://www.remotejobscan.com/job/9049/job-9049/) |
 | VIP客户经理（中英韩三语） | Remote | [View →](https://www.remotejobscan.com/job/9048/vip/) |
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

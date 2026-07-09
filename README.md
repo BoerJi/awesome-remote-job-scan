@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1454</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1449</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9061/job-9061/) |
 | 高级VIP关系经理，东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 | 高级顾问，监管与许可 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
 | 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
@@ -35,7 +36,6 @@
 | 创意设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9052/creative-designer/) |
 | Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
-| CS Specialist（钱包）- 中英文 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-cnen/) |
 | 资深大前端工程师（Web/next.js方向） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9050/webnextjs/) |
 | 韩语渠道活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9049/job-9049/) |
 | VIP客户经理（中英韩三语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9048/vip/) |
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
