@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1450</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程经理，信用卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
+| 高级欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
+| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
+| 财富管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
+| 企业风险管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
+| 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
+| 流动性与融资主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
+| IT风险主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
+| 合规主管，Gemini Galactic Markets, LLC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8280/head-of-compliance-gemini-galactic-markets-llc/) |
+| 欺诈总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8278/director-fraud/) |
+| 会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8408/accounting-manager/) |
 | 高级财务经理，法币/支付运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 | 亚太政策与监管策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9068/apac-policy-and-regulatory-strategist/) |
 | 高级会计师，财务结账 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9066/senior-accountant-financial-close/) |
@@ -32,17 +43,6 @@
 | 法务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9061/job-9061/) |
 | 高级VIP关系经理，东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
 | 高级顾问，监管与许可 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
-| 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
-| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
-| MiFID合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9059/mifid-compliance-officer/) |
-| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| UI/UX设计师（6个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9057/uiux-designer6-months-contract/) |
-| 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8768/senior-finance-manager-group-consolidation/) |
-| 币安加速器计划 - VIP支持（海湾币安） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9053/binance-accelerator-program-vip-support-gulf-binance/) |
-| 创意设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9052/creative-designer/) |
-| Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
-| Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
-| 资深大前端工程师（Web/next.js方向） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9050/webnextjs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
