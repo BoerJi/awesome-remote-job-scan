@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1446</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1451</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
+| Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
+| Senior Software Engineer, Risk Engineering | Remote | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
+| Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
+| Senior Product Designer (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
+| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 | Senior Software Engineering Manager, Credit Card | Remote | [View →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
 | Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
@@ -37,12 +43,6 @@
 | Senior Finance Manager, Fiat/Payment Ops | On-site | [View →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 | APAC Policy and Regulatory Strategist | On-site | [View →](https://www.remotejobscan.com/job/9068/apac-policy-and-regulatory-strategist/) |
 | Senior Accountant, Financial Close | Remote | [View →](https://www.remotejobscan.com/job/9066/senior-accountant-financial-close/) |
-| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
-| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
-| CS Specialist（Wallet) - 5 days | Remote | [View →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-5-days/) |
-| 法务专员 | Remote | [View →](https://www.remotejobscan.com/job/9061/job-9061/) |
-| Senior VIP Relationship Manager, Eastern Europe | On-site | [View →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
-| Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1446</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1451</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
+| 预测部门高级软件工程师（移动端） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
+| 风险工程高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
+| 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
+| 高级产品设计师（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 高级软件工程经理，信用卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
 | 高级欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
@@ -37,12 +42,6 @@
 | 高级财务经理，法币/支付运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 | 亚太政策与监管策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9068/apac-policy-and-regulatory-strategist/) |
 | 高级会计师，财务结账 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9066/senior-accountant-financial-close/) |
-| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
-| 中文客服专员（6天班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
-| CS Specialist（钱包）- 5天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/cs-specialistwallet-5-days/) |
-| 法务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9061/job-9061/) |
-| 高级VIP关系经理，东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7518/senior-vip-relationship-manager-eastern-europe/) |
-| 高级顾问，监管与许可 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9060/senior-counsel-regulatory-and-licensing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
