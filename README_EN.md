@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1448</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1451</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| UI/UX Designer(6 months Contract) | Remote | [View →](https://www.remotejobscan.com/job/9057/uiux-designer6-months-contract/) |
+| Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/8768/senior-finance-manager-group-consolidation/) |
+| Binance Accelerator Program - VIP Support (Gulf Binance) | Hybrid | [View →](https://www.remotejobscan.com/job/9053/binance-accelerator-program-vip-support-gulf-binance/) |
 | Creative Designer | Remote | [View →](https://www.remotejobscan.com/job/9052/creative-designer/) |
 | Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Senior Financial Product Manager 资深理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
@@ -39,9 +42,6 @@
 | Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | Binance Accelerator Program - Talent Acquisition | Remote | [View →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
 | Regional Growth Manager - CIS | Remote | [View →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
-| Head of Technology (EU) | Remote | [View →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
-| Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
-| 量化研究员-高频做市方向 | Remote | [View →](https://www.remotejobscan.com/job/8727/job-8727/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

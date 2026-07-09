@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1448</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1451</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| UI/UX设计师（6个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9057/uiux-designer6-months-contract/) |
+| 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8768/senior-finance-manager-group-consolidation/) |
+| 币安加速器计划 - VIP支持（海湾币安） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9053/binance-accelerator-program-vip-support-gulf-binance/) |
 | 创意设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9052/creative-designer/) |
 | Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
@@ -39,9 +42,6 @@
 | 高级 principal，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | 币安加速器项目 - 人才招聘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9040/binance-accelerator-program-talent-acquisition/) |
 | 区域增长经理 - 中心伊斯兰国家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9038/regional-growth-manager-cis/) |
-| 欧盟技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6793/head-of-technology-eu/) |
-| Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
-| 量化研究员-高频做市方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8727/job-8727/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-09 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
