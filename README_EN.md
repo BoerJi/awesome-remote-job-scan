@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1450</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1451</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IAM Engineer | Remote | [View →](https://www.remotejobscan.com/job/9071/iam-engineer/) |
 | Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 | Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
 | Senior Software Engineer, Risk Engineering | Remote | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
@@ -41,8 +42,6 @@
 | Director, Fraud | Remote | [View →](https://www.remotejobscan.com/job/8278/director-fraud/) |
 | Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/8408/accounting-manager/) |
 | Senior Finance Manager, Fiat/Payment Ops | On-site | [View →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
-| APAC Policy and Regulatory Strategist | On-site | [View →](https://www.remotejobscan.com/job/9068/apac-policy-and-regulatory-strategist/) |
-| Senior Accountant, Financial Close | Remote | [View →](https://www.remotejobscan.com/job/9066/senior-accountant-financial-close/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-09 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
