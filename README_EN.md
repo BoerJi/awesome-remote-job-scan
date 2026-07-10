@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1451</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1454</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
+| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
+| Application Architect, Java | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
+| Infrastructure Stability Architect | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
+| AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
 | Senior HR Business Partner, Global Commercial Center | On-site | [View →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
 | Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/9074/product-counsel/) |
 | Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/9073/senior-product-manager-advanced-trading-onshore/) |
@@ -37,11 +42,6 @@
 | Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
 | Manager, Treasury | Remote | [View →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
-| Manager, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
-| Lead Product Manager | Remote | [View →](https://www.remotejobscan.com/job/8282/lead-product-manager/) |
-| Lead, Liquidity and Funding | Remote | [View →](https://www.remotejobscan.com/job/9010/lead-liquidity-and-funding/) |
-| Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
-| Head of Compliance, Gemini Galactic Markets, LLC | Remote | [View →](https://www.remotejobscan.com/job/8280/head-of-compliance-gemini-galactic-markets-llc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
