@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1449</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
+| 翻译专员——阿塞拜疆 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
+| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
 | 合规高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | 合规主管/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 | C2C高级经理/C2C负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8985/c2c-senior-managerc2c-lead/) |
@@ -39,9 +42,6 @@
 | 高级产品经理，离岸高级交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9073/senior-product-manager-advanced-trading-onshore/) |
 | 身份与访问管理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9071/iam-engineer/) |
 | 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
-| 预测部门高级软件工程师（移动端） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
-| 风险工程高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
-| 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

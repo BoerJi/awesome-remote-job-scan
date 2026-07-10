@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1449</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
+| Translator – Azerbaijan | Remote | [View →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
+| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | C2C Senior Manager/C2C Lead | Remote | [View →](https://www.remotejobscan.com/job/8985/c2c-senior-managerc2c-lead/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
@@ -38,9 +41,6 @@
 | Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/9073/senior-product-manager-advanced-trading-onshore/) |
 | IAM Engineer | Remote | [View →](https://www.remotejobscan.com/job/9071/iam-engineer/) |
 | Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
-| Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
-| Senior Software Engineer, Risk Engineering | Remote | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
-| Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
