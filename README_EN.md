@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | Translator – Azerbaijan | Remote | [View →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
 | Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
@@ -32,7 +33,6 @@
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
-| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | Application Architect, Java | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
 | Infrastructure Stability Architect | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
 | AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

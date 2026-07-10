@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | 翻译专员——阿塞拜疆 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
 | 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
@@ -33,7 +34,6 @@
 | 运营经理（韩语使用者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
-| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | Java应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
 | 基础设施稳定性架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
 | AI应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
