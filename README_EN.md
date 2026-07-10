@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | Application Architect, Java | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
@@ -41,7 +42,6 @@
 | Senior Software Engineering Manager, Credit Card | Remote | [View →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
 | Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
-| Manager, Treasury | Remote | [View →](https://www.remotejobscan.com/job/9011/manager-treasury/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
