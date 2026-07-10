@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1446</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,7 +39,6 @@
 | Senior HR Business Partner, Global Commercial Center | On-site | [View →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
 | Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/9074/product-counsel/) |
 | Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/9073/senior-product-manager-advanced-trading-onshore/) |
-| IAM Engineer | Remote | [View →](https://www.remotejobscan.com/job/9071/iam-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
