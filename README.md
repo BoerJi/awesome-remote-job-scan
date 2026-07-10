@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1454</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1453</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营经理（韩语使用者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
@@ -40,7 +41,6 @@
 | 高级产品设计师（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 高级软件工程经理，信用卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
 | 高级欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
-| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
