@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Java应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
 | 基础设施稳定性架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
 | AI应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
-| 全球商业中心高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

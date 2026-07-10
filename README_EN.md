@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,7 +37,6 @@
 | Application Architect, Java | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
 | Infrastructure Stability Architect | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
 | AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
-| Senior HR Business Partner, Global Commercial Center | On-site | [View →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
