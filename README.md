@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
+| 合规主管/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
+| C2C高级经理/C2C负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8985/c2c-senior-managerc2c-lead/) |
+| 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | 运营经理（韩语使用者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
@@ -38,9 +42,6 @@
 | 预测部门高级软件工程师（移动端） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
 | 风险工程高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
 | 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
-| 高级产品设计师（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
-| 高级软件工程经理，信用卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
-| 高级欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1444</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
+| C2C Senior Manager/C2C Lead | Remote | [View →](https://www.remotejobscan.com/job/8985/c2c-senior-managerc2c-lead/) |
+| Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
@@ -38,10 +41,6 @@
 | Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
 | Senior Software Engineer, Risk Engineering | Remote | [View →](https://www.remotejobscan.com/job/8297/senior-software-engineer-risk-engineering/) |
 | Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
-| Senior Product Designer (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
-| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| Senior Software Engineering Manager, Credit Card | Remote | [View →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
-| Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
