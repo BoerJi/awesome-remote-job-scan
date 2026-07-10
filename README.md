@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1446</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务发展经理，交易即服务（TaaS），Payward服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9081/business-development-manager-trading-as-a-service-taas-payward-services/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | 翻译专员——阿塞拜疆 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
@@ -38,7 +39,6 @@
 | 基础设施稳定性架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
 | AI应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
 | 全球商业中心高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
-| 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9074/product-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-10 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

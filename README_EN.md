@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1446</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Manager, Trading-as-a-Service (TaaS), Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9081/business-development-manager-trading-as-a-service-taas-payward-services/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | Translator – Azerbaijan | Remote | [View →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
@@ -37,7 +38,6 @@
 | Infrastructure Stability Architect | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
 | AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
 | Senior HR Business Partner, Global Commercial Center | On-site | [View →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
-| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/9074/product-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-10 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
