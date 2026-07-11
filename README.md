@@ -19,15 +19,12 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（2 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 业务发展经理，交易即服务（TaaS），Payward服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9081/business-development-manager-trading-as-a-service-taas-payward-services/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
-| 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
-| 翻译专员——阿塞拜疆 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
-| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -72,6 +69,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-11 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-11 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

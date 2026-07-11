@@ -19,15 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Business Development Manager, Trading-as-a-Service (TaaS), Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9081/business-development-manager-trading-as-a-service-taas-payward-services/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
-| Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
-| Translator – Azerbaijan | Remote | [View →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
-| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -72,6 +69,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
