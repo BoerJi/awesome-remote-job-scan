@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
-| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -78,6 +77,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
