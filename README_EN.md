@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,9 +28,6 @@
 | Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | Translator – Azerbaijan | Remote | [View →](https://www.remotejobscan.com/job/9076/translator-azerbaijan/) |
 | Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/7617/senior-business-development-manager/) |
-| Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
-| C2C Senior Manager/C2C Lead | Remote | [View →](https://www.remotejobscan.com/job/8985/c2c-senior-managerc2c-lead/) |
-| Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -75,6 +72,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
