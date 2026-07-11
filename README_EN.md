@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,9 +34,6 @@
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
-| Application Architect, Java | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
-| Infrastructure Stability Architect | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
-| AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +78,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
