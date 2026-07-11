@@ -19,12 +19,9 @@
 
 ---
 
-## 🆕 今日更新（1 个精选职位）
+## 🆕 今日更新（0 个精选职位）
 
-| 职位 | 地点 | 详情 |
-|---|---|---|
-| 业务发展经理，交易即服务（TaaS），Payward服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9081/business-development-manager-trading-as-a-service-taas-payward-services/) |
-[📋 查看全部职位 →](https://www.remotejobscan.com)
+> 过去 24 小时暂无新增职位。[查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
@@ -68,6 +65,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-11 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-11 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

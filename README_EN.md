@@ -19,12 +19,9 @@
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（0 featured jobs）
 
-| Position | Location | Details |
-|---|---|---|
-| Business Development Manager, Trading-as-a-Service (TaaS), Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9081/business-development-manager-trading-as-a-service-taas-payward-services/) |
-[📋 Browse all jobs →](https://www.remotejobscan.com)
+> No new jobs in the past 24 hours. [Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
@@ -68,6 +65,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-11 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
