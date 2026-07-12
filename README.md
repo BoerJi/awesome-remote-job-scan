@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1448</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（1 个精选职位）
+## 🆕 今日更新（2 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席/高级产品经理，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
 | Java工程师 - 合同工 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9082/java-engineer-contractor/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
@@ -68,6 +69,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-12 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-12 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

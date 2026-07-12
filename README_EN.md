@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1448</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Principal/Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
 | Java Engineer - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9082/java-engineer-contractor/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -68,6 +69,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-12 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-12 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
