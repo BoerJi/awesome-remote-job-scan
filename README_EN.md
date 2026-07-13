@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1443</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
 | Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | Head of Trading | Remote | [View →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
@@ -36,8 +37,6 @@
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
 | Merchant Onboarding Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
-| Principal/Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
-| Lead of Risk Strategy | Remote | [View →](https://www.remotejobscan.com/job/9087/lead-of-risk-strategy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
