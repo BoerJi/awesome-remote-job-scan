@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1442</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1443</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
 | 安全运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9100/security-operations-engineer/) |
 | IT风险主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 高级软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
@@ -40,7 +41,6 @@
 | 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | 合规主管/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 | 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
-| 商户 onboard 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
