@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Merchant Onboarding Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
 | Principal/Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
 | Lead of Risk Strategy | Remote | [View →](https://www.remotejobscan.com/job/9087/lead-of-risk-strategy/) |
-| Java Engineer - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9082/java-engineer-contractor/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
