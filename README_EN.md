@@ -14,16 +14,15 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1442</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| Senior Software Engineer, Front End | On-site | [View →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Senior Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
 | Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 21:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 22:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
