@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1444</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
 | Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Merchant Onboarding Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
@@ -72,6 +73,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
