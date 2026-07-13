@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1446</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
+| Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
+| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | 资深运营经理，传统金融/股票 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
 | 东南亚业务发展经理，联盟营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
@@ -32,7 +35,6 @@
 | 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | 合规主管/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 | 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
-| Financial Product Manager 金融产品经理（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | 商户 onboard 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
 | 首席/高级产品经理，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
 | 风险策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9087/lead-of-risk-strategy/) |
@@ -81,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

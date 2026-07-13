@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1446</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Trading | Remote | [View →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
+| Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
+| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Senior Operations Manager, Tradfi / Equities | Remote | [View →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
 | Business Development Manager, Affiliate (Southeast Asia) | On-site | [View →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
@@ -31,7 +34,6 @@
 | Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
-| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Merchant Onboarding Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
 | Principal/Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
 | Lead of Risk Strategy | Remote | [View →](https://www.remotejobscan.com/job/9087/lead-of-risk-strategy/) |
@@ -80,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
