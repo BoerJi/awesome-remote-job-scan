@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1446</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 资深运营经理，传统金融/股票 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
+| 东南亚业务发展经理，联盟营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 | 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8670/brazil-vip-relationship-manager/) |
 | 合规运营分析师（反洗钱 - 了解你的客户与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
@@ -79,6 +81,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
