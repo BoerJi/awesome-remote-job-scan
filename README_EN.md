@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1446</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1448</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
+| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Merchant Onboarding Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9084/merchant-onboarding-lead/) |
 | Principal/Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/9083/principalsenior-product-manager-payment/) |
 | Java Engineer - Contractor | On-site | [View →](https://www.remotejobscan.com/job/9082/java-engineer-contractor/) |
@@ -70,6 +72,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
