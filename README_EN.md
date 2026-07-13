@@ -19,10 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/8670/brazil-vip-relationship-manager/) |
+| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/9085/senior-finance-manager-group-consolidation/) |
@@ -75,6 +77,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
