@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1441</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1442</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9100/security-operations-engineer/) |
 | IT风险主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 高级软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
 | 用户中心产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-13 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
