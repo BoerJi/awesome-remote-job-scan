@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
 | Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
 | Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | Head of Trading | Remote | [View →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
@@ -81,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
