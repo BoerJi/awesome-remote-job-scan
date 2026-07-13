@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1446</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/8670/brazil-vip-relationship-manager/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
@@ -77,6 +78,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-13 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
