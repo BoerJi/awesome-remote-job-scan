@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1437</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1435</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营经理（韩语演讲者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | 客户服务PMO（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
@@ -42,7 +43,6 @@
 | 安全运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9100/security-operations-engineer/) |
 | IT风险主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 高级软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
-| 用户中心产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1437</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1435</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
@@ -42,7 +43,6 @@
 | Security Operations Engineer | Remote | [View →](https://www.remotejobscan.com/job/9100/security-operations-engineer/) |
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Senior Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
-| Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
