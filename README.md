@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1438</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1436</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | 风险专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9110/risk-specialist/) |
 | 内部审计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
 | 副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
@@ -41,7 +42,6 @@
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 | 葡萄牙语和西班牙语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| 中文客户专员（6天班制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

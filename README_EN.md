@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1438</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1436</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 | Risk Specialist | Remote | [View →](https://www.remotejobscan.com/job/9110/risk-specialist/) |
 | Internal Auditor | Remote | [View →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
 | Deputy MLRO | Remote | [View →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
@@ -40,7 +41,6 @@
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
-| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
