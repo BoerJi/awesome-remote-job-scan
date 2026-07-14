@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深移动软件工程师，核心（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9111/senior-staff-software-engineer-mobile-core-messaging/) |
 | IT风险负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 产品与区域风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 | 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
@@ -41,7 +42,6 @@
 | 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 | 运营经理（韩语演讲者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | 客户服务PMO（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
-| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
