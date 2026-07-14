@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1432</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1438</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9110/risk-specialist/) |
+| 内部审计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
+| 副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
+| Financial Product Manager 金融产品经理（交易产品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
+| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| Financial Product Manager 金融产品经理（衍生品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 | LinkedIn运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9106/linkedin-operations/) |
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | 制裁与反洗钱调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
@@ -35,14 +42,6 @@
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 | 葡萄牙语和西班牙语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | 中文客户专员（6天班制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
-| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
-| 合规运营分析师（反洗钱 – 知识产权认证与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
-| 资金风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7517/job-7517/) |
-| 高级财务规划与分析经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9102/senior-manager-financial-planning-analysis/) |
-| P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
-| CFD量化风控专家（HK/MY） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
-| Financial Product Manager 金融产品经理（交易产品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

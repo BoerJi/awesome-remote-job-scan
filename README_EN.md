@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1432</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1438</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk Specialist | Remote | [View →](https://www.remotejobscan.com/job/9110/risk-specialist/) |
+| Internal Auditor | Remote | [View →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
+| Deputy MLRO | Remote | [View →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
+| Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
+| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 | LinkedIn Operations | Remote | [View →](https://www.remotejobscan.com/job/9106/linkedin-operations/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | Sanctions & CTF Investigator | Remote | [View →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
@@ -34,14 +41,6 @@
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
 | CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
-| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
-| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Risk Control & Data Analyst 风控审核数据分析岗 | Remote | [View →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
-| 资金风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7517/job-7517/) |
-| Senior Manager, Financial Planning & Analysis | On-site | [View →](https://www.remotejobscan.com/job/9102/senior-manager-financial-planning-analysis/) |
-| P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
-| CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
-| Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
