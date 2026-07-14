@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1438</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1434</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| LinkedIn运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9106/linkedin-operations/) |
+| 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | 制裁与反洗钱调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
 | 合规 principal / staff 工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
@@ -41,8 +43,6 @@
 | P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | CFD量化风控专家（HK/MY） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
 | Financial Product Manager 金融产品经理（交易产品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| 币安加速器计划 - AI代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9101/binance-accelerator-program-ai-agent-engineer/) |
-| 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

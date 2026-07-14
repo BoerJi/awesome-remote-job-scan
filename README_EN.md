@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1438</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1434</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| LinkedIn Operations | Remote | [View →](https://www.remotejobscan.com/job/9106/linkedin-operations/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | Sanctions & CTF Investigator | Remote | [View →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
@@ -40,8 +42,6 @@
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
 | Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Binance Accelerator Program - AI Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/9101/binance-accelerator-program-ai-agent-engineer/) |
-| Senior Software Engineer, Front End | On-site | [View →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
