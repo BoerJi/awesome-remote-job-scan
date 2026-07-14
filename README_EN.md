@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1439</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1437</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| Risk Control & Data Analyst 风控审核数据分析岗 | Remote | [View →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
+| 资金风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7517/job-7517/) |
+| Senior Manager, Financial Planning & Analysis | On-site | [View →](https://www.remotejobscan.com/job/9102/senior-manager-financial-planning-analysis/) |
+| P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
 | Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Binance Accelerator Program - AI Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/9101/binance-accelerator-program-ai-agent-engineer/) |
@@ -37,9 +42,6 @@
 | Senior Operations Manager, Tradfi / Equities | Remote | [View →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
 | Business Development Manager, Affiliate (Southeast Asia) | On-site | [View →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
-| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/8670/brazil-vip-relationship-manager/) |
-| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

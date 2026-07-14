@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1439</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1437</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规运营分析师（反洗钱 – 知识产权认证与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
+| 资金风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7517/job-7517/) |
+| 高级财务规划与分析经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9102/senior-manager-financial-planning-analysis/) |
+| P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | CFD量化风控专家（HK/MY） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
 | Financial Product Manager 金融产品经理（交易产品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | 币安加速器计划 - AI代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9101/binance-accelerator-program-ai-agent-engineer/) |
@@ -37,9 +42,6 @@
 | 资深运营经理，传统金融/股票 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
 | 东南亚业务发展经理，联盟营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
-| 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8670/brazil-vip-relationship-manager/) |
-| 合规运营分析师（反洗钱 - 了解你的客户与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Stock Business Development Manager 券商BD | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
