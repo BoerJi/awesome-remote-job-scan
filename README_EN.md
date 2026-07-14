@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
+| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
+| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
+| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
+| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
+| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
+| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | Risk Control & Data Analyst 风控审核数据分析岗 | Remote | [View →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | 资金风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7517/job-7517/) |
@@ -36,12 +43,6 @@
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Senior Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
 | Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
-| Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
-| Head of Trading | Remote | [View →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
-| Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
-| Senior Operations Manager, Tradfi / Equities | Remote | [View →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
-| Business Development Manager, Affiliate (Southeast Asia) | On-site | [View →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
-| Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

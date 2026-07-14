@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户服务PMO（韩语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
+| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
+| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
+| SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9051/sme-asset-wallet/) |
+| 葡萄牙语和西班牙语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8848/cs-specialist-portuguese-spanish/) |
+| 中文客户专员（6天班制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8686/cs-specialist-mandarin-6-days/) |
+| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
 | 合规运营分析师（反洗钱 – 知识产权认证与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | Risk Control & Data Analyst 风控审核数据分析岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9021/risk-control-data-analyst/) |
 | 资金风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7517/job-7517/) |
@@ -36,12 +43,6 @@
 | IT风险主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 高级软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
 | 用户中心产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/product-manager-user-center/) |
-| 高级/资深Java工程师 - Web3钱包DeFi收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
-| 交易主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
-| Financial Risk Control Product Manager 金融风控产品（专家） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
-| 资深运营经理，传统金融/股票 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
-| 东南亚业务发展经理，联盟营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
-| Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-14 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
