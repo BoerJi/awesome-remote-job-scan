@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1434</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1436</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deal Lead, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/9112/deal-lead-corporate-development/) |
 | Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/9111/senior-staff-software-engineer-mobile-core-messaging/) |
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Product and Regional Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
@@ -39,8 +40,6 @@
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | Sanctions & CTF Investigator | Remote | [View →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
-| Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
-| Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
