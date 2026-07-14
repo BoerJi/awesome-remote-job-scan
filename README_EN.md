@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1435</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1438</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sanctions & CTF Investigator | Remote | [View →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
+| Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
@@ -40,9 +42,6 @@
 | Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Binance Accelerator Program - AI Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/9101/binance-accelerator-program-ai-agent-engineer/) |
 | Senior Software Engineer, Front End | On-site | [View →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
-| Security Operations Engineer | Remote | [View →](https://www.remotejobscan.com/job/9100/security-operations-engineer/) |
-| Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
-| Senior Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/9098/senior-software-engineer-rust-payward-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
