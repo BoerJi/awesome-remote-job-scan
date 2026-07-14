@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Product and Regional Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 | Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
 | Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
@@ -40,7 +41,6 @@
 | Operations Manager (Korean Speaker) | Remote | [View →](https://www.remotejobscan.com/job/5594/operations-manager-korean-speaker/) |
 | Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/9075/customer-support-korean-vip-in-app-chat/) |
-| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/9065/vip-customer-support-mandarin-6-days/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
