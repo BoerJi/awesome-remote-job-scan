@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1442</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1439</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| CFD量化风控专家（HK/MY） | Remote | [View →](https://www.remotejobscan.com/job/7697/cfdhkmy/) |
+| Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| Binance Accelerator Program - AI Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/9101/binance-accelerator-program-ai-agent-engineer/) |
 | Senior Software Engineer, Front End | On-site | [View →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
 | Security Operations Engineer | Remote | [View →](https://www.remotejobscan.com/job/9100/security-operations-engineer/) |
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
@@ -31,7 +34,6 @@
 | Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | Head of Trading | Remote | [View →](https://www.remotejobscan.com/job/9092/head-of-trading/) |
 | Financial Risk Control Product Manager 金融风控产品（专家） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-risk-control-product-manager/) |
-| Financial Product Manager 金融产品经理（专家） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Senior Operations Manager, Tradfi / Equities | Remote | [View →](https://www.remotejobscan.com/job/9091/senior-operations-manager-tradfi-equities/) |
 | Business Development Manager, Affiliate (Southeast Asia) | On-site | [View →](https://www.remotejobscan.com/job/9090/business-development-manager-affiliate-southeast-asia/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
@@ -83,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-14 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
