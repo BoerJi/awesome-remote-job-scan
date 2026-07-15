@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1444</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
+| Head of Business Operations / COO | On-site | [View →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Web Frontend Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
@@ -83,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
