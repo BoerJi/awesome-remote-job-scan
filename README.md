@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -40,7 +40,6 @@
 | 交易主管，企业发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9112/deal-lead-corporate-development/) |
 | 高级/资深移动软件工程师，核心（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9111/senior-staff-software-engineer-mobile-core-messaging/) |
 | IT风险负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
-| 产品与区域风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 14:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 15:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
