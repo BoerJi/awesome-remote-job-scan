@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1443</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级安全运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
 | 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 | 业务运营负责人 / 首席运营官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
 | 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
@@ -39,7 +40,6 @@
 | 后端架构师 - 支付&卡技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9115/backend-architect-paycard-tech/) |
 | 交易主管，企业发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9112/deal-lead-corporate-development/) |
 | 高级/资深移动软件工程师，核心（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9111/senior-staff-software-engineer-mobile-core-messaging/) |
-| IT风险负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
