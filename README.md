@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -37,10 +37,6 @@
 | 产品与区域风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 | 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
 | 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
-| 风险专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9110/risk-specialist/) |
-| 内部审计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
-| 副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
-| Financial Product Manager 金融产品经理（交易产品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +81,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 08:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 09:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

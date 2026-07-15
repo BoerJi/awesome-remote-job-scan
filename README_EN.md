@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,10 +37,6 @@
 | Product and Regional Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 | Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
 | Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
-| Risk Specialist | Remote | [View →](https://www.remotejobscan.com/job/9110/risk-specialist/) |
-| Internal Auditor | Remote | [View →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
-| Deputy MLRO | Remote | [View →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
-| Financial Product Manager 金融产品经理（交易产品） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 08:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 09:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
