@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1443</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/seniorstaff-machine-learning-engineer/) |
 | 高级交易运营助理（经纪商） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
 | 合规经理（银行与借贷） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
 | 合规调查分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
@@ -41,7 +42,6 @@
 | 社区增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9120/community-growth-manager/) |
 | 高级/首席软件工程师，移动端—核心（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9119/senior-staff-software-engineer-mobile-core-account-risk/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
-| 后端架构师 - 支付&卡技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9115/backend-architect-paycard-tech/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
