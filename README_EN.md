@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1440</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1442</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 | Web Frontend Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
 | Android Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
@@ -38,7 +39,6 @@
 | Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/9111/senior-staff-software-engineer-mobile-core-messaging/) |
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Product and Regional Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
-| Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
