@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1443</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Associate, Trading Operations (Broker Dealer) | Remote | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
+| Manager, Compliance (Banking & Lending) | Remote | [View →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
 | Analyst, Compliance (Investigations) | Remote | [View →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/9135/executive-assistant/) |
 | Senior Security Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
@@ -84,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
