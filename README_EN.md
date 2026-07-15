@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1436</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1435</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Lead, Pakistan | On-site | [View →](https://www.remotejobscan.com/job/9121/growth-lead-pakistan/) |
 | Community Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/9120/community-growth-manager/) |
 | Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/9119/senior-staff-software-engineer-mobile-core-account-risk/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
@@ -40,7 +41,6 @@
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
-| LinkedIn Operations | Remote | [View →](https://www.remotejobscan.com/job/9106/linkedin-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
