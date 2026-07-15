@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1438</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1440</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
+| Web Frontend Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
+| Android Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
 | IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
 | Client Full-Stack Engineer — IM Chat Platform, Android Focus | Remote | [View →](https://www.remotejobscan.com/job/9122/client-full-stack-engineer-im-chat-platform-android-focus/) |
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
@@ -36,7 +39,6 @@
 | Lead, IT Risk | Remote | [View →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | Product and Regional Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 | Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
-| Payment BD Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

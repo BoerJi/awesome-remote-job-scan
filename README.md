@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1438</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1440</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
+| Web前端工程师 - 摄像头与视频/图像识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
+| Android工程师 - 相机与视频/图像识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
 | IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
 | 客户端全栈工程师 — 即时通讯平台，安卓重点 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9122/client-full-stack-engineer-im-chat-platform-android-focus/) |
 | Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
@@ -36,7 +39,6 @@
 | IT风险负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9009/lead-it-risk/) |
 | 产品与区域风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7577/product-and-regional-risk-manager/) |
 | 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
-| 支付业务发展专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9077/payment-bd-associated-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
