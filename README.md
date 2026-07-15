@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1435</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1438</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
+| 客户端全栈工程师 — 即时通讯平台，安卓重点 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9122/client-full-stack-engineer-im-chat-platform-android-focus/) |
+| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | 巴基斯坦增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9121/growth-lead-pakistan/) |
 | 社区增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9120/community-growth-manager/) |
 | 高级/首席软件工程师，移动端—核心（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9119/senior-staff-software-engineer-mobile-core-account-risk/) |
@@ -38,9 +41,6 @@
 | 内部审计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9109/internal-auditor/) |
 | 副合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9108/deputy-mlro/) |
 | Financial Product Manager 金融产品经理（交易产品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| Financial Product Manager 金融产品经理（衍生品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
