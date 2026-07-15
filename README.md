@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1438</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1436</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -38,9 +38,9 @@
 | 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | Financial Product Manager 金融产品经理（衍生品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 | LinkedIn运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9106/linkedin-operations/) |
-| 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | 制裁与反洗钱调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9104/sanctions-ctf-investigator/) |
 | 合规 principal / staff 工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
+| 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
