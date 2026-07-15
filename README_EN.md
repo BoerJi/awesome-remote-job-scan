@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/9119/senior-staff-software-engineer-mobile-core-account-risk/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | Backend Architect - Pay&Card Tech | Remote | [View →](https://www.remotejobscan.com/job/9115/backend-architect-paycard-tech/) |
-| Deal Lead, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/9112/deal-lead-corporate-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 17:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-15 18:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（16 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -38,7 +38,6 @@
 | 高级/首席软件工程师，移动端—核心（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9119/senior-staff-software-engineer-mobile-core-account-risk/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | 后端架构师 - 支付&卡技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9115/backend-architect-paycard-tech/) |
-| 交易主管，企业发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9112/deal-lead-corporate-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +82,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 17:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-15 18:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
