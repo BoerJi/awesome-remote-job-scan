@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1444</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | Product Manager, AI Agent & Harness | Hybrid | [View →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 | Assistant Manager, Global Account Payable (AP) | Hybrid | [View →](https://www.remotejobscan.com/job/9142/assistant-manager-global-account-payable-ap/) |
@@ -40,8 +41,6 @@
 | Web Frontend Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
 | Android Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
 | IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
-| Client Full-Stack Engineer — IM Chat Platform, Android Focus | Remote | [View →](https://www.remotejobscan.com/job/9122/client-full-stack-engineer-im-chat-platform-android-focus/) |
-| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

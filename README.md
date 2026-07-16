@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | AI Agent & Harness 产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 | 全球应付账款（AP）助理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9142/assistant-manager-global-account-payable-ap/) |
@@ -40,8 +41,6 @@
 | Web前端工程师 - 摄像头与视频/图像识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
 | Android工程师 - 相机与视频/图像识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
 | IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
-| 客户端全栈工程师 — 即时通讯平台，安卓重点 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9122/client-full-stack-engineer-im-chat-platform-android-focus/) |
-| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
