@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1444</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Product Manager AI Agent & Harness | Hybrid | [View →](https://www.remotejobscan.com/job/9148/binance-accelerator-program-product-manager-ai-agent-harness/) |
+| Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/executive-assistant/) |
 | Big Data Engineer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
@@ -35,12 +37,9 @@
 | Senior Associate, Trading Operations (Broker Dealer) | Remote | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
 | Manager, Compliance (Banking & Lending) | Remote | [View →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
 | Analyst, Compliance (Investigations) | Remote | [View →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
-| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/9135/executive-assistant/) |
 | Senior Security Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
 | Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 | Head of Business Operations / COO | On-site | [View →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
-| Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
-| Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

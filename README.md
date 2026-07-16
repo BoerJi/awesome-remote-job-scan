@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器项目 - AI代理与赋能产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9148/binance-accelerator-program-product-manager-ai-agent-harness/) |
+| 行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/executive-assistant/) |
 | Web3大数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
@@ -35,12 +37,9 @@
 | 高级交易运营助理（经纪商） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
 | 合规经理（银行与借贷） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
 | 合规调查分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
-| 行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9135/executive-assistant/) |
 | 高级安全运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
 | 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 | 业务运营负责人 / 首席运营官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
-| 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
-| Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
