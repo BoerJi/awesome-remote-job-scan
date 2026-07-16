@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1447</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7361/business-analyst/) |
+| 波兰VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
+| 币安加速器项目 - 大语言模型训练与数据处理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9150/binance-accelerator-program-llm-model-training-data-processing/) |
 | 币安加速器项目 - AI代理与赋能产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9148/binance-accelerator-program-product-manager-ai-agent-harness/) |
 | 行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/executive-assistant/) |
 | Web3大数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
@@ -38,8 +41,6 @@
 | 合规经理（银行与借贷） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
 | 合规调查分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
 | 高级安全运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
-| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
-| 业务运营负责人 / 首席运营官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

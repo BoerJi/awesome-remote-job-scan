@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1445</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1447</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
+| VIP Relationship Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
+| Binance Accelerator Program - LLM Model Training & Data Processing | Remote | [View →](https://www.remotejobscan.com/job/9150/binance-accelerator-program-llm-model-training-data-processing/) |
 | Binance Accelerator Program - Product Manager AI Agent & Harness | Hybrid | [View →](https://www.remotejobscan.com/job/9148/binance-accelerator-program-product-manager-ai-agent-harness/) |
 | Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/executive-assistant/) |
 | Big Data Engineer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
@@ -38,8 +41,6 @@
 | Manager, Compliance (Banking & Lending) | Remote | [View →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
 | Analyst, Compliance (Investigations) | Remote | [View →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
 | Senior Security Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
-| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
-| Head of Business Operations / COO | On-site | [View →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
