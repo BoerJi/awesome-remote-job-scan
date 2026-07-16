@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
+| 云flare & Ingress - 核心基础设施 网站可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9158/site-reliability-engineer-cloudflare-ingress-core-infrastructure/) |
 | VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
 | 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 | 高级员工/员工工程师 - 法定货币支付基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-staffstaff-engineer-fiat-payment-infrastructure/) |
@@ -39,9 +41,6 @@
 | 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | AI Agent & Harness 产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
-| 全球应付账款（AP）助理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9142/assistant-manager-global-account-payable-ap/) |
-| 支付会计经理助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9141/assistant-accounting-manager-payment/) |
-| 高级/资深机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/seniorstaff-machine-learning-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
