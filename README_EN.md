@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Machine Learning Engineer | On-site | [View →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
 | Senior/Staff Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 | Site Reliability Engineer - Cloudflare & Ingress - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9158/site-reliability-engineer-cloudflare-ingress-core-infrastructure/) |
 | VIP BD | Remote | [View →](https://www.remotejobscan.com/job/8475/vip-bd/) |
@@ -39,7 +40,6 @@
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | Product Manager, AI Agent & Harness | Hybrid | [View →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
-| Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
