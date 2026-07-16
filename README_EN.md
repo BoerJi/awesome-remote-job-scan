@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1443</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,7 +41,6 @@
 | Growth Lead, Pakistan | On-site | [View →](https://www.remotejobscan.com/job/9121/growth-lead-pakistan/) |
 | Community Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/9120/community-growth-manager/) |
 | Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/9119/senior-staff-software-engineer-mobile-core-account-risk/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
