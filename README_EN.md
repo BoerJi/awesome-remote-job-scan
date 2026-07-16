@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Big Data Engineer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
+| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | Product Manager, AI Agent & Harness | Hybrid | [View →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
@@ -38,9 +41,6 @@
 | Head of Business Operations / COO | On-site | [View →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Spot Trading Operations Manager 现货交易运营经理 | Remote | [View →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
-| Web Frontend Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
-| Android Engineer - Camera & Video / Image Recognition | Remote | [View →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
-| IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

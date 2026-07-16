@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3大数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
+| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 | AI Agent & Harness 产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
 | Agent Innovative Application Algorithm Engineer Agent创新应用算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7370/agent-innovative-application-algorithm-engineer-agent/) |
@@ -38,9 +41,6 @@
 | 业务运营负责人 / 首席运营官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9130/head-of-business-operations-coo/) |
 | 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Spot Trading Operations Manager 现货交易运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8613/spot-trading-operations-manager/) |
-| Web前端工程师 - 摄像头与视频/图像识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9127/web-frontend-engineer-camera-video-image-recognition/) |
-| Android工程师 - 相机与视频/图像识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9126/android-engineer-camera-video-image-recognition/) |
-| IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9124/iu-cs-specialist-investigate-unit/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
