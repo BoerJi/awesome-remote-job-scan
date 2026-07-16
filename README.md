@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1449</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
+| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
+| 高级员工/员工工程师 - 法定货币支付基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-staffstaff-engineer-fiat-payment-infrastructure/) |
+| 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
 | 高级业务发展经理（斯洛伐克与捷克共和国） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/senior-business-development-manager-slovakia-czech-republic/) |
 | 业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 | 波兰VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
@@ -37,10 +42,6 @@
 | 全球应付账款（AP）助理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9142/assistant-manager-global-account-payable-ap/) |
 | 支付会计经理助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9141/assistant-accounting-manager-payment/) |
 | 高级/资深机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/seniorstaff-machine-learning-engineer/) |
-| 高级交易运营助理（经纪商） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| 合规经理（银行与借贷） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
-| 合规调查分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
-| 高级安全运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-16 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

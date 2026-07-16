@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1444</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1449</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VIP BD | Remote | [View →](https://www.remotejobscan.com/job/8475/vip-bd/) |
+| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
+| Senior Staff/Staff Engineer - Fiat Payment Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-staffstaff-engineer-fiat-payment-infrastructure/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
 | Senior Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/senior-business-development-manager-slovakia-czech-republic/) |
 | Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 | VIP Relationship Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
@@ -37,10 +41,6 @@
 | Assistant Manager, Global Account Payable (AP) | Hybrid | [View →](https://www.remotejobscan.com/job/9142/assistant-manager-global-account-payable-ap/) |
 | Assistant Accounting Manager, Payment | Hybrid | [View →](https://www.remotejobscan.com/job/9141/assistant-accounting-manager-payment/) |
 | Senior/Staff Machine Learning Engineer | On-site | [View →](https://www.remotejobscan.com/job/9139/seniorstaff-machine-learning-engineer/) |
-| Senior Associate, Trading Operations (Broker Dealer) | Remote | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| Manager, Compliance (Banking & Lending) | Remote | [View →](https://www.remotejobscan.com/job/9137/manager-compliance-banking-lending/) |
-| Analyst, Compliance (Investigations) | Remote | [View →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
-| Senior Security Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-operations-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-16 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
