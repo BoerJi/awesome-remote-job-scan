@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1417</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1421</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Marketing Coordinator (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
+| Real Estate and Office Services Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/9174/real-estate-and-office-services-intern-fall-2026/) |
+| Senior Associate, Trading Operations (Broker Dealer) | On-site | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
+| Lead, Operations & Growth | On-site | [View →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | Senior Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
@@ -35,8 +39,6 @@
 | Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | Principal / Senior Product Manager, APAC Growth | On-site | [View →](https://www.remotejobscan.com/job/9161/principal-senior-product-manager-apac-growth/) |
 | Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
-| Principal / Senior Product Manager, Latin America Growth | On-site | [View →](https://www.remotejobscan.com/job/8959/principal-senior-product-manager-latin-america-growth/) |
-| Business Development - Payment (MENA) | Remote | [View →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

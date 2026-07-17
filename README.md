@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1417</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1421</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场协调员（预测合作伙伴关系） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
+| 房地产与办公服务实习生（2026年秋季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9174/real-estate-and-office-services-intern-fall-2026/) |
+| 高级交易运营助理（经纪商） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
+| 运营与增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | 高级法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | AI与Web3钱包高级产品经理/首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
@@ -36,10 +40,6 @@
 | 澳大利亚合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | 亚太增长首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9161/principal-senior-product-manager-apac-growth/) |
 | 本地市场与增长主管/高级产品经理（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
-| 拉丁美洲本地市场与增长首席/高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/principal-senior-product-manager-local-market-growth-latin-america/) |
-| 拉美增长高级产品经理/首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8959/principal-senior-product-manager-latin-america-growth/) |
-| 拉美增长主管/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8958/principal-senior-product-manager-latin-america-growth/) |
-| 中东和北非地区支付业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
