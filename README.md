@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1422</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1425</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，交易系统（移动端） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9177/senior-software-engineer-trading-systems-mobile/) |
+| 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
+| 社交媒体营销经理（合同工） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9178/social-media-marketing-manager-contract/) |
 | 市场协调员（预测合作伙伴关系） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
 | 房地产与办公服务实习生（2026年秋季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9174/real-estate-and-office-services-intern-fall-2026/) |
 | 高级交易运营助理（经纪商） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
@@ -38,8 +41,6 @@
 | 高级Java后端工程师 — 资产与收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9166/senior-java-backend-engineer-asset-earn/) |
 | 专家/人工智能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
 | 品牌、社交与创作者高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
-| 澳大利亚合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
-| 亚太增长首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9161/principal-senior-product-manager-apac-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
