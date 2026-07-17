@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1440</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Expert / Director of AI | On-site | [View →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
 | Senior Manager, Brand, Social, & Creators | Remote | [View →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
 | Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | Principal / Senior Product Manager, APAC Growth | On-site | [View →](https://www.remotejobscan.com/job/9161/principal-senior-product-manager-apac-growth/) |
@@ -37,7 +38,6 @@
 | Senior Staff/Staff Engineer - Fiat Payment Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-staffstaff-engineer-fiat-payment-infrastructure/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
 | Senior Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/senior-business-development-manager-slovakia-czech-republic/) |
-| Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/7361/business-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -82,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
