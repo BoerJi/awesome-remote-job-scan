@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1442</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1441</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal / Senior Product Manager, APAC Growth | On-site | [View →](https://www.remotejobscan.com/job/9160/principal-senior-product-manager-apac-growth/) |
+| Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
+| Principal / Senior Product Manager, Latin America Growth | On-site | [View →](https://www.remotejobscan.com/job/8959/principal-senior-product-manager-latin-america-growth/) |
 | Business Development - Payment (MENA) | Remote | [View →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 | Staff Machine Learning Engineer | On-site | [View →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
 | Senior/Staff Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
@@ -36,10 +39,6 @@
 | VIP Relationship Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
 | Binance Accelerator Program - LLM Model Training & Data Processing | Remote | [View →](https://www.remotejobscan.com/job/9150/binance-accelerator-program-llm-model-training-data-processing/) |
 | Binance Accelerator Program - Product Manager AI Agent & Harness | Hybrid | [View →](https://www.remotejobscan.com/job/9148/binance-accelerator-program-product-manager-ai-agent-harness/) |
-| Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/executive-assistant/) |
-| Big Data Engineer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
-| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| Senior Strategy PMO / Project Manager (AI & Org Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
