@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | Senior Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
@@ -36,7 +37,6 @@
 | Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 | Principal / Senior Product Manager, Latin America Growth | On-site | [View →](https://www.remotejobscan.com/job/8959/principal-senior-product-manager-latin-america-growth/) |
 | Business Development - Payment (MENA) | Remote | [View →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
-| Staff Machine Learning Engineer | On-site | [View →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
