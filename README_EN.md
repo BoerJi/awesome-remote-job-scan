@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1422</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1423</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Principal/Senior Product Manager, Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-web3-wallet/) |
+| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | Lifecycle & CRM - LATAM | Remote | [View →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
 | Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
@@ -81,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

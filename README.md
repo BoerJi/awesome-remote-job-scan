@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1422</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1423</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| Principal/Senior Product Manager, Web3 Wallet | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-web3-wallet/) |
+| AI与Web3钱包高级产品经理/首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
+| AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-ai-web3-wallet/) |
 | 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | 生命周期与CRM - 拉美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
 | 韩语客户服务PMO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
@@ -83,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
