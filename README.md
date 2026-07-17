@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1422</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1420</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | AI与Web3钱包高级产品经理/首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-ai-web3-wallet/) |
 | 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
@@ -39,7 +40,6 @@
 | 拉美增长主管/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8958/principal-senior-product-manager-latin-america-growth/) |
 | 中东和北非地区支付业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 | 高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
-| 高级/资深产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

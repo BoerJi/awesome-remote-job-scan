@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1422</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1420</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | Lifecycle & CRM - LATAM | Remote | [View →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
@@ -36,7 +37,6 @@
 | Principal / Senior Product Manager, Latin America Growth | On-site | [View →](https://www.remotejobscan.com/job/8959/principal-senior-product-manager-latin-america-growth/) |
 | Business Development - Payment (MENA) | Remote | [View →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 | Staff Machine Learning Engineer | On-site | [View →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
-| Senior/Staff Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -81,6 +81,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
