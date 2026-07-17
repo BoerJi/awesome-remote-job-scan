@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1425</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1430</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Operations (PCF-42), Payward Ireland Ltd | Remote | [View →](https://www.remotejobscan.com/job/9181/head-of-operations-pcf-42-payward-ireland-ltd/) |
+| General Manager, MiCAR Broker/Custodian Operations (PCF-8), Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9179/general-manager-micar-brokercustodian-operations-pcf-8-payward-europe-solutions-ltd/) |
+| Compliance Monitoring Officer, Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9183/compliance-monitoring-officer-payward-europe-solutions-ltd/) |
+| Head of AML & CTF (PCF-52), Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9180/head-of-aml-ctf-pcf-52-payward-europe-solutions-ltd/) |
+| Head of Compliance (PCF-12), Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9182/head-of-compliance-pcf-12-payward-europe-solutions-ltd/) |
 | Senior Software Engineer, Trading Systems (Mobile) | On-site | [View →](https://www.remotejobscan.com/job/9177/senior-software-engineer-trading-systems-mobile/) |
 | Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
 | Social Media Marketing Manager (Contract) | Remote | [View →](https://www.remotejobscan.com/job/9178/social-media-marketing-manager-contract/) |
@@ -36,10 +41,6 @@
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | Lifecycle & CRM - LATAM | Remote | [View →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
-| Customer Service PMO（Korean-Speaking） | Remote | [View →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
-| Senior Java Backend Engineer — Asset & Earn | On-site | [View →](https://www.remotejobscan.com/job/9166/senior-java-backend-engineer-asset-earn/) |
-| Expert / Director of AI | On-site | [View →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
-| Senior Manager, Brand, Social, & Creators | Remote | [View →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

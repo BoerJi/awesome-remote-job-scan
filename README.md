@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1425</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1430</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营总监 (PCF-42), Payward 爱尔兰有限公司 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9181/head-of-operations-pcf-42-payward-ireland-ltd/) |
+| MiCAR经纪/托管运营总经理（PCF-8），Payward欧洲解决方案有限公司 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9179/general-manager-micar-brokercustodian-operations-pcf-8-payward-europe-solutions-ltd/) |
+| 合规监控专员，Payward Europe Solutions Ltd | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9183/compliance-monitoring-officer-payward-europe-solutions-ltd/) |
+| 反洗钱与反恐融资负责人（PCF-52），Payward欧洲解决方案有限公司 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9180/head-of-aml-ctf-pcf-52-payward-europe-solutions-ltd/) |
+| 合规负责人 (PCF-12), Payward Europe Solutions Ltd | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9182/head-of-compliance-pcf-12-payward-europe-solutions-ltd/) |
 | 高级软件工程师，交易系统（移动端） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9177/senior-software-engineer-trading-systems-mobile/) |
 | 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
 | 社交媒体营销经理（合同工） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9178/social-media-marketing-manager-contract/) |
@@ -37,10 +42,6 @@
 | AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-ai-web3-wallet/) |
 | 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | 生命周期与CRM - 拉美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
-| 韩语客户服务PMO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
-| 高级Java后端工程师 — 资产与收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9166/senior-java-backend-engineer-asset-earn/) |
-| 专家/人工智能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
-| 品牌、社交与创作者高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
