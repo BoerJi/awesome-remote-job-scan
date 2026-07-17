@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1421</strong> remote jobs · Updated every 30 min
+  📊 <strong>30</strong> companies · <strong>1422</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,6 +28,7 @@
 | Senior Associate, Trading Operations (Broker Dealer) | On-site | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
 | Lead, Operations & Growth | On-site | [View →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
+| Product Manager Operation | Remote | [View →](https://www.remotejobscan.com/job/9175/product-manager-operation/) |
 | Senior Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
@@ -38,7 +39,6 @@
 | Senior Manager, Brand, Social, & Creators | Remote | [View →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
 | Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | Principal / Senior Product Manager, APAC Growth | On-site | [View →](https://www.remotejobscan.com/job/9161/principal-senior-product-manager-apac-growth/) |
-| Principal / Senior Product Manager, Local Market & Growth (Latin America) | Remote | [View →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-17 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

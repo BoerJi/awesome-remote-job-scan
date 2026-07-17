@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1421</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1422</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,6 +28,7 @@
 | 高级交易运营助理（经纪商） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
 | 运营与增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
+| 产品经理运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9175/product-manager-operation/) |
 | 高级法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
 | AI与Web3钱包高级产品经理/首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
 | AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-ai-web3-wallet/) |
@@ -39,7 +40,6 @@
 | 品牌、社交与创作者高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
 | 澳大利亚合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | 亚太增长首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9161/principal-senior-product-manager-apac-growth/) |
-| 本地市场与增长主管/高级产品经理（拉丁美洲） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/principal-senior-product-manager-local-market-growth-latin-america/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
