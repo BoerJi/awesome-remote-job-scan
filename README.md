@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1418</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1423</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Principal/Senior Product Manager, Web3 Wallet | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9168/principalsenior-product-manager-web3-wallet/) |
+| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
+| 生命周期与CRM - 拉美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
 | 韩语客户服务PMO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
 | 高级Java后端工程师 — 资产与收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9166/senior-java-backend-engineer-asset-earn/) |
 | 专家/人工智能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
@@ -36,10 +39,6 @@
 | 中东和北非地区支付业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 | 高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
 | 高级/资深产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
-| 云flare & Ingress - 核心基础设施 网站可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9158/site-reliability-engineer-cloudflare-ingress-core-infrastructure/) |
-| VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
-| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
-| 高级员工/员工工程师 - 法定货币支付基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-staffstaff-engineer-fiat-payment-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +83,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
