@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1441</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1418</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 韩语客户服务PMO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/customer-service-pmokorean-speaking/) |
+| 高级Java后端工程师 — 资产与收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9166/senior-java-backend-engineer-asset-earn/) |
 | 专家/人工智能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
 | 品牌、社交与创作者高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9162/senior-manager-brand-social-creators/) |
 | 澳大利亚合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
@@ -38,9 +40,6 @@
 | VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
 | 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 | 高级员工/员工工程师 - 法定货币支付基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-staffstaff-engineer-fiat-payment-infrastructure/) |
-| 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
-| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9105/senior-talent-acquisition-partner/) |
-| 高级业务发展经理（斯洛伐克与捷克共和国） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/senior-business-development-manager-slovakia-czech-republic/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
