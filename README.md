@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>30</strong> 家公司 · <strong>1445</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>30</strong> 家公司 · <strong>1444</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 中东和北非地区支付业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9159/business-development-payment-mena/) |
 | 高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
 | 高级/资深产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 | 云flare & Ingress - 核心基础设施 网站可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9158/site-reliability-engineer-cloudflare-ingress-core-infrastructure/) |
@@ -40,7 +41,6 @@
 | Web3大数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9007/big-data-engineer-web3/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | 高级战略PMO/项目经理（AI与组织效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9145/senior-strategy-pmo-project-manager-ai-org-efficiency/) |
-| AI Agent & Harness 产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9144/product-manager-ai-agent-harness/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-17 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
