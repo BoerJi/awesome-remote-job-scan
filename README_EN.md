@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>40</strong> companies · <strong>1564</strong> remote jobs · Updated every 30 min
+  📊 <strong>42</strong> companies · <strong>1597</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,6 +28,7 @@
 | Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
 | Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
 | Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| Job Description | Remote | [View →](https://www.remotejobscan.com/job/7908/job-description/) |
 | Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
 | Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
 | Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
@@ -41,12 +42,11 @@
 | Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
 | Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
-| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7893/data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（40 companies）
+## 🏢 Companies Tracked（42 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -73,6 +73,7 @@
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [View jobs →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [View jobs →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [View jobs →](https://www.remotejobscan.com/?company=kucoin) |
+| <img src="images/langchain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="LangChain"> | <a href="https://www.langchain.com/">LangChain</a> | [View jobs →](https://www.remotejobscan.com/?company=langchain) |
 | <img src="images/layerzero.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="LayerZero"> | <a href="https://layerzero.network">LayerZero</a> | [View jobs →](https://www.remotejobscan.com/?company=layerzero) |
 | <img src="images/lbank.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lbank"> | <a href="https://www.lbank.com/">Lbank</a> | [View jobs →](https://www.remotejobscan.com/?company=lbank) |
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [View jobs →](https://www.remotejobscan.com/?company=lista-dao) |
@@ -81,6 +82,7 @@
 | <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [View jobs →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [View jobs →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [View jobs →](https://www.remotejobscan.com/?company=perplexity) |
+| <img src="images/pinecone.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Pinecone"> | <a href="https://www.pinecone.io/">Pinecone</a> | [View jobs →](https://www.remotejobscan.com/?company=pinecone) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [View jobs →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [View jobs →](https://www.remotejobscan.com/?company=replit) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
@@ -96,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

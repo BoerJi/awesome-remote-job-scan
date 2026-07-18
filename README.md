@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>40</strong> 家公司 · <strong>1564</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>42</strong> 家公司 · <strong>1597</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -26,8 +26,9 @@
 | 企业通信总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
 | 企业发言人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
 | 社区运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7911/community-operation/) |
-| 研究与投资实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
+| 研究投资实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
 | 内容编辑/SEO专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| 职位描述 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7908/job-description/) |
 | 社区专员/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
 | 创意文案撰稿人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
 | 数据仓库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
@@ -35,18 +36,18 @@
 | 研究分析师实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
 | 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
 | 业务拓展与战略合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| 客户服务代表（英文） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
+| 客服代表（英语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
 | 合作伙伴与业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| 合作伙伴及业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7898/partnerships-business-development-manager/) |
 | 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
 | 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
 | 机构客户增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | 数据产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
-| 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7893/data-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（40 家）
+## 🏢 已收录公司（42 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -73,6 +74,7 @@
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [查看职位 →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [查看职位 →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [查看职位 →](https://www.remotejobscan.com/?company=kucoin) |
+| <img src="images/langchain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="LangChain"> | <a href="https://www.langchain.com/">LangChain</a> | [查看职位 →](https://www.remotejobscan.com/?company=langchain) |
 | <img src="images/layerzero.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="LayerZero"> | <a href="https://layerzero.network">LayerZero</a> | [查看职位 →](https://www.remotejobscan.com/?company=layerzero) |
 | <img src="images/lbank.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lbank"> | <a href="https://www.lbank.com/">Lbank</a> | [查看职位 →](https://www.remotejobscan.com/?company=lbank) |
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [查看职位 →](https://www.remotejobscan.com/?company=lista-dao) |
@@ -81,6 +83,7 @@
 | <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [查看职位 →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [查看职位 →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [查看职位 →](https://www.remotejobscan.com/?company=perplexity) |
+| <img src="images/pinecone.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Pinecone"> | <a href="https://www.pinecone.io/">Pinecone</a> | [查看职位 →](https://www.remotejobscan.com/?company=pinecone) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [查看职位 →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [查看职位 →](https://www.remotejobscan.com/?company=replit) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [查看职位 →](https://www.remotejobscan.com/?company=sui) |
@@ -96,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
