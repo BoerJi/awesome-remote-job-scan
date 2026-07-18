@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/it-specialist/) |
 | Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
 | Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 | Field Marketing Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
@@ -42,7 +43,6 @@
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 | HR Generalist, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/10615/hr-generalist-consumer-devices/) |
-| Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

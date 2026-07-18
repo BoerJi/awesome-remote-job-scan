@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11288/it-specialist/) |
 | 机架交付技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
 | 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 | 公共部门现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
@@ -42,7 +43,6 @@
 | 平台Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | 清算运营高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 | HR综合专员，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10615/hr-generalist-consumer-devices/) |
-| Staff+ 软件工程师，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
