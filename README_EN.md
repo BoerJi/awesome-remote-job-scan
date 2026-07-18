@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>30</strong> companies · <strong>1430</strong> remote jobs · Updated every 30 min
+  📊 <strong>35</strong> companies · <strong>1486</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,40 +23,44 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Head of Operations (PCF-42), Payward Ireland Ltd | Remote | [View →](https://www.remotejobscan.com/job/9181/head-of-operations-pcf-42-payward-ireland-ltd/) |
-| General Manager, MiCAR Broker/Custodian Operations (PCF-8), Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9179/general-manager-micar-brokercustodian-operations-pcf-8-payward-europe-solutions-ltd/) |
-| Compliance Monitoring Officer, Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9183/compliance-monitoring-officer-payward-europe-solutions-ltd/) |
-| Head of AML & CTF (PCF-52), Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9180/head-of-aml-ctf-pcf-52-payward-europe-solutions-ltd/) |
-| Head of Compliance (PCF-12), Payward Europe Solutions Ltd | Remote | [View →](https://www.remotejobscan.com/job/9182/head-of-compliance-pcf-12-payward-europe-solutions-ltd/) |
-| Senior Software Engineer, Trading Systems (Mobile) | On-site | [View →](https://www.remotejobscan.com/job/9177/senior-software-engineer-trading-systems-mobile/) |
-| Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
-| Social Media Marketing Manager (Contract) | Remote | [View →](https://www.remotejobscan.com/job/9178/social-media-marketing-manager-contract/) |
-| Marketing Coordinator (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
-| Real Estate and Office Services Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/9174/real-estate-and-office-services-intern-fall-2026/) |
-| Senior Associate, Trading Operations (Broker Dealer) | On-site | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| Lead, Operations & Growth | On-site | [View →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
-| QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
-| Product Manager Operation | Remote | [View →](https://www.remotejobscan.com/job/9175/product-manager-operation/) |
-| Senior Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/9170/senior-legal-counsel/) |
-| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/9167/principalsenior-product-manager-ai-web3-wallet/) |
-| Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| Lifecycle & CRM - LATAM | Remote | [View →](https://www.remotejobscan.com/job/9169/lifecycle-crm-latam/) |
+| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
+| Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
+| Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
+| Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
+| Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
+| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
+| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
+| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| Research Analyst Intern | Remote | [View →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
+| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
+| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
+| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
+| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
+| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（30 companies）
+## 🏢 Companies Tracked（35 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
 | <img src="images/1inch.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="1inch"> | <a href="https://1inch.com/">1inch</a> | [View jobs →](https://www.remotejobscan.com/?company=1inch) |
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [View jobs →](https://www.remotejobscan.com/?company=aave) |
+| <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [View jobs →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
+| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
 | <img src="images/certik.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CertiK"> | <a href="https://www.certik.com/">CertiK</a> | [View jobs →](https://www.remotejobscan.com/?company=certik) |
+| <img src="images/coinbase.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Coinbase"> | <a href="https://www.coinbase.com/">Coinbase</a> | [View jobs →](https://www.remotejobscan.com/?company=coinbase) |
 | <img src="images/coinex.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CoinEx"> | <a href="https://www.coinex.com">CoinEx</a> | [View jobs →](https://www.remotejobscan.com/?company=coinex) |
 | <img src="images/coinmarketcap.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CoinMarketCap"> | <a href="https://coinmarketcap.com">CoinMarketCap</a> | [View jobs →](https://www.remotejobscan.com/?company=coinmarketcap) |
 | <img src="images/coins-ph.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="coins.ph"> | <a href="https://www.coins.ph">coins.ph</a> | [View jobs →](https://www.remotejobscan.com/?company=coins-ph) |
@@ -72,7 +76,9 @@
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [View jobs →](https://www.remotejobscan.com/?company=lista-dao) |
 | <img src="images/offchainlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OffchainLabs"> | <a href="https://www.offchainlabs.com/">OffchainLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=offchainlabs) |
 | <img src="images/okx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OKX"> | <a href="http://okx.com/">OKX</a> | [View jobs →](https://www.remotejobscan.com/?company=okx) |
+| <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [View jobs →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [View jobs →](https://www.remotejobscan.com/?company=paxos) |
+| <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [View jobs →](https://www.remotejobscan.com/?company=perplexity) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [View jobs →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
 | <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [View jobs →](https://www.remotejobscan.com/?company=tothemoon) |
@@ -85,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
