@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>42</strong> companies · <strong>1675</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1728</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -47,12 +47,13 @@
 
 ---
 
-## 🏢 Companies Tracked（42 companies）
+## 🏢 Companies Tracked（44 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
 | <img src="images/1inch.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="1inch"> | <a href="https://1inch.com/">1inch</a> | [View jobs →](https://www.remotejobscan.com/?company=1inch) |
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [View jobs →](https://www.remotejobscan.com/?company=aave) |
+| <img src="images/alchemy.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Alchemy"> | <a href="https://www.alchemy.com/">Alchemy</a> | [View jobs →](https://www.remotejobscan.com/?company=alchemy) |
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [View jobs →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
@@ -83,6 +84,7 @@
 | <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [View jobs →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [View jobs →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [View jobs →](https://www.remotejobscan.com/?company=perplexity) |
+| <img src="images/phantom.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Phantom"> | <a href="https://phantom.com/">Phantom</a> | [View jobs →](https://www.remotejobscan.com/?company=phantom) |
 | <img src="images/pinecone.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Pinecone"> | <a href="https://www.pinecone.io/">Pinecone</a> | [View jobs →](https://www.remotejobscan.com/?company=pinecone) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [View jobs →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [View jobs →](https://www.remotejobscan.com/?company=replit) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 08:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 09:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

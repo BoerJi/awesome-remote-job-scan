@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>42</strong> 家公司 · <strong>1675</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1728</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -47,12 +47,13 @@
 
 ---
 
-## 🏢 已收录公司（42 家）
+## 🏢 已收录公司（44 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
 | <img src="images/1inch.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="1inch"> | <a href="https://1inch.com/">1inch</a> | [查看职位 →](https://www.remotejobscan.com/?company=1inch) |
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [查看职位 →](https://www.remotejobscan.com/?company=aave) |
+| <img src="images/alchemy.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Alchemy"> | <a href="https://www.alchemy.com/">Alchemy</a> | [查看职位 →](https://www.remotejobscan.com/?company=alchemy) |
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [查看职位 →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
@@ -83,6 +84,7 @@
 | <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [查看职位 →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [查看职位 →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [查看职位 →](https://www.remotejobscan.com/?company=perplexity) |
+| <img src="images/phantom.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Phantom"> | <a href="https://phantom.com/">Phantom</a> | [查看职位 →](https://www.remotejobscan.com/?company=phantom) |
 | <img src="images/pinecone.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Pinecone"> | <a href="https://www.pinecone.io/">Pinecone</a> | [查看职位 →](https://www.remotejobscan.com/?company=pinecone) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [查看职位 →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [查看职位 →](https://www.remotejobscan.com/?company=replit) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 08:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 09:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
