@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1823</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1813</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,16 +23,6 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
-| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
-| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7893/data-analyst/) |
-| Backend Developer Engineer (Java) | Remote | [View →](https://www.remotejobscan.com/job/7892/backend-developer-engineer-java/) |
-| Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/7889/android-engineer/) |
-| iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/7888/ios-engineer/) |
 | Field Marketing Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
@@ -43,11 +33,21 @@
 | Platform Security Engineer, OpenBMC | On-site | [View →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
 | Platform Hardware Security | On-site | [View →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
 | Engineering Manager, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/9423/engineering-manager-grc-platform/) |
+| Member of Technical Staff (Secure Intelligence Institute) | On-site | [View →](https://www.remotejobscan.com/job/11224/member-of-technical-staff-secure-intelligence-institute/) |
+| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11222/member-of-technical-staff-ai-software-engineer-agents/) |
+| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
+| Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
+| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
+| Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
+| HR Generalist, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/10615/hr-generalist-consumer-devices/) |
+| Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
+| Strategic Compute Capacity Planning Lead | On-site | [View →](https://www.remotejobscan.com/job/10435/strategic-compute-capacity-planning-lead/) |
+| Staff Software Engineer (Platform - Identity IDV) | Remote | [View →](https://www.remotejobscan.com/job/9328/staff-software-engineer-platform-identity-idv/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（45 companies）
+## 🏢 Companies Tracked（44 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -57,7 +57,6 @@
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [View jobs →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
-| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

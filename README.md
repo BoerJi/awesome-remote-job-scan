@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1823</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1813</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,16 +23,6 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 创意文案撰稿人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| 数据仓库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
-| 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| 客户服务代表（英文） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
-| 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7893/data-analyst/) |
-| 后端开发工程师（Java） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7892/backend-developer-engineer-java/) |
-| Android工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7889/android-engineer/) |
-| iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7888/ios-engineer/) |
 | 公共部门现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
@@ -43,11 +33,21 @@
 | OpenBMC平台安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
 | 平台硬件安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
 | GRC平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9423/engineering-manager-grc-platform/) |
+| 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11224/member-of-technical-staff-secure-intelligence-institute/) |
+| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11222/member-of-technical-staff-ai-software-engineer-agents/) |
+| 工程经理（技术领导经理，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
+| Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
+| 平台Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
+| 清算运营高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
+| HR综合专员，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10615/hr-generalist-consumer-devices/) |
+| Staff+ 软件工程师，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
+| 战略计算容量规划主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10435/strategic-compute-capacity-planning-lead/) |
+| 高级软件工程师（平台-身份IDV） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9328/staff-software-engineer-platform-identity-idv/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（45 家）
+## 🏢 已收录公司（44 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -57,7 +57,6 @@
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [查看职位 →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
-| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [查看职位 →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [查看职位 →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [查看职位 →](https://www.remotejobscan.com/?company=bybit) |
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
