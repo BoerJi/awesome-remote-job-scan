@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,14 +32,6 @@
 | 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
 | 数据中心能源主管，澳大利亚 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9396/data-center-energy-lead-australia/) |
 | 增长工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9424/engineering-manager-growth/) |
-| Staff+ 软件工程师，GRC 平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9681/staff-software-engineer-grc-platform/) |
-| 安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
-| OpenBMC平台安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
-| 平台硬件安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
-| GRC平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9423/engineering-manager-grc-platform/) |
-| 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11224/member-of-technical-staff-secure-intelligence-institute/) |
-| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11222/member-of-technical-staff-ai-software-engineer-agents/) |
-| 工程经理（技术领导经理，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,14 +32,6 @@
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
 | Data Center Energy Lead, Australia | On-site | [View →](https://www.remotejobscan.com/job/9396/data-center-energy-lead-australia/) |
 | Engineering Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/9424/engineering-manager-growth/) |
-| Staff+ Software Engineer, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/9681/staff-software-engineer-grc-platform/) |
-| Security Controls Assurance Lead | On-site | [View →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
-| Platform Security Engineer, OpenBMC | On-site | [View →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
-| Platform Hardware Security | On-site | [View →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
-| Engineering Manager, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/9423/engineering-manager-grc-platform/) |
-| Member of Technical Staff (Secure Intelligence Institute) | On-site | [View →](https://www.remotejobscan.com/job/11224/member-of-technical-staff-secure-intelligence-institute/) |
-| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11222/member-of-technical-staff-ai-software-engineer-agents/) |
-| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
