@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,7 +31,6 @@
 | 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
 | 数据中心能源主管，澳大利亚 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9396/data-center-energy-lead-australia/) |
-| 增长工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9424/engineering-manager-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

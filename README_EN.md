@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,7 +31,6 @@
 | Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
 | Data Center Energy Lead, Australia | On-site | [View →](https://www.remotejobscan.com/job/9396/data-center-energy-lead-australia/) |
-| Engineering Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/9424/engineering-manager-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
