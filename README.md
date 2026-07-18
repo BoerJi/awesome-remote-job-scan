@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1812</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1814</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机架交付技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
+| 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 | 公共部门现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
@@ -41,8 +43,6 @@
 | 清算运营高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 | HR综合专员，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10615/hr-generalist-consumer-devices/) |
 | Staff+ 软件工程师，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
-| 战略计算容量规划主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10435/strategic-compute-capacity-planning-lead/) |
-| 高级软件工程师（平台-身份IDV） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9328/staff-software-engineer-platform-identity-idv/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

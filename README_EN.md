@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1812</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1814</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
+| Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 | Field Marketing Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
@@ -41,8 +43,6 @@
 | Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 | HR Generalist, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/10615/hr-generalist-consumer-devices/) |
 | Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
-| Strategic Compute Capacity Planning Lead | On-site | [View →](https://www.remotejobscan.com/job/10435/strategic-compute-capacity-planning-lead/) |
-| Staff Software Engineer (Platform - Identity IDV) | Remote | [View →](https://www.remotejobscan.com/job/9328/staff-software-engineer-platform-identity-idv/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
