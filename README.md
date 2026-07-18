@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -40,8 +40,6 @@
 | 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11224/member-of-technical-staff-secure-intelligence-institute/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11222/member-of-technical-staff-ai-software-engineer-agents/) |
 | 工程经理（技术领导经理，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
-| Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
-| 平台Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 21:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 22:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

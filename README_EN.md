@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -40,8 +40,6 @@
 | Member of Technical Staff (Secure Intelligence Institute) | On-site | [View →](https://www.remotejobscan.com/job/11224/member-of-technical-staff-secure-intelligence-institute/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11222/member-of-technical-staff-ai-software-engineer-agents/) |
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
-| Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
-| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 21:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 22:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
