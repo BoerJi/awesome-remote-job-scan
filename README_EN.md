@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>38</strong> companies · <strong>1507</strong> remote jobs · Updated every 30 min
+  📊 <strong>39</strong> companies · <strong>1542</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
 | Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
 | Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
-| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
 | Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
 | Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
 | Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
@@ -39,14 +38,15 @@
 | Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
 | Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
 | Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
 | Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7893/data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（38 companies）
+## 🏢 Companies Tracked（39 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -67,6 +67,7 @@
 | <img src="images/coins-ph.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="coins.ph"> | <a href="https://www.coins.ph">coins.ph</a> | [View jobs →](https://www.remotejobscan.com/?company=coins-ph) |
 | <img src="images/crypto-com.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="crypto.com"> | <a href="https://crypto.com/">crypto.com</a> | [View jobs →](https://www.remotejobscan.com/?company=crypto-com) |
 | <img src="images/digifinex.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="DigiFinex"> | <a href="https://www.digifinex.com">DigiFinex</a> | [View jobs →](https://www.remotejobscan.com/?company=digifinex) |
+| <img src="images/elevenlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="ElevenLabs"> | <a href="https://elevenlabs.io/">ElevenLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=elevenlabs) |
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [View jobs →](https://www.remotejobscan.com/?company=gate) |
 | <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [View jobs →](https://www.remotejobscan.com/?company=gemini) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [View jobs →](https://www.remotejobscan.com/?company=hyperliquid) |
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
