@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1728</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1804</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -24,16 +24,15 @@
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 创意文案撰稿人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| 高级深度学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| 数据仓库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
 | 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| 业务拓展与战略合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| 合作伙伴与业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7898/partnerships-business-development-manager/) |
+| 客户服务代表（英文） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
+| 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
 | 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| 机构客户增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7893/data-analyst/) |
-| 前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7890/frontend-developer-engineer/) |
+| 后端开发工程师（Java） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7892/backend-developer-engineer-java/) |
+| Android工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7889/android-engineer/) |
 | iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7888/ios-engineer/) |
-| 软件测试开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7887/software-testing-developer/) |
 | 公共部门现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
@@ -43,11 +42,12 @@
 | 安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
 | OpenBMC平台安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
 | 平台硬件安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
+| GRC平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9423/engineering-manager-grc-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（44 家）
+## 🏢 已收录公司（45 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -81,6 +81,7 @@
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [查看职位 →](https://www.remotejobscan.com/?company=lista-dao) |
 | <img src="images/offchainlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OffchainLabs"> | <a href="https://www.offchainlabs.com/">OffchainLabs</a> | [查看职位 →](https://www.remotejobscan.com/?company=offchainlabs) |
 | <img src="images/okx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OKX"> | <a href="http://okx.com/">OKX</a> | [查看职位 →](https://www.remotejobscan.com/?company=okx) |
+| <img src="images/op-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OP Labs"> | <a href="https://www.optimism.io/">OP Labs</a> | [查看职位 →](https://www.remotejobscan.com/?company=op-labs) |
 | <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [查看职位 →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [查看职位 →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [查看职位 →](https://www.remotejobscan.com/?company=perplexity) |
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

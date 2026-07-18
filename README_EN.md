@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1728</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1804</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -24,16 +24,15 @@
 | Position | Location | Details |
 |---|---|---|
 | Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
 | Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7898/partnerships-business-development-manager/) |
+| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
+| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
 | Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7893/data-analyst/) |
-| Frontend Developer Engineer | Remote | [View →](https://www.remotejobscan.com/job/7890/frontend-developer-engineer/) |
+| Backend Developer Engineer (Java) | Remote | [View →](https://www.remotejobscan.com/job/7892/backend-developer-engineer-java/) |
+| Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/7889/android-engineer/) |
 | iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/7888/ios-engineer/) |
-| Software Testing Developer | Remote | [View →](https://www.remotejobscan.com/job/7887/software-testing-developer/) |
 | Field Marketing Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
@@ -43,11 +42,12 @@
 | Security Controls Assurance Lead | On-site | [View →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
 | Platform Security Engineer, OpenBMC | On-site | [View →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
 | Platform Hardware Security | On-site | [View →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
+| Engineering Manager, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/9423/engineering-manager-grc-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（44 companies）
+## 🏢 Companies Tracked（45 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -81,6 +81,7 @@
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [View jobs →](https://www.remotejobscan.com/?company=lista-dao) |
 | <img src="images/offchainlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OffchainLabs"> | <a href="https://www.offchainlabs.com/">OffchainLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=offchainlabs) |
 | <img src="images/okx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OKX"> | <a href="http://okx.com/">OKX</a> | [View jobs →](https://www.remotejobscan.com/?company=okx) |
+| <img src="images/op-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OP Labs"> | <a href="https://www.optimism.io/">OP Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=op-labs) |
 | <img src="images/openai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OpenAI"> | <a href="https://openai.com/">OpenAI</a> | [View jobs →](https://www.remotejobscan.com/?company=openai) |
 | <img src="images/paxos.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="PAXOS"> | <a href="https://www.paxos.com">PAXOS</a> | [View jobs →](https://www.remotejobscan.com/?company=paxos) |
 | <img src="images/perplexity.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Perplexity"> | <a href="https://www.perplexity.ai/">Perplexity</a> | [View jobs →](https://www.remotejobscan.com/?company=perplexity) |
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
