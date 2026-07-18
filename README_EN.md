@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -42,7 +42,6 @@
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
 | Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
