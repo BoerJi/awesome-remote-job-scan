@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>39</strong> companies · <strong>1542</strong> remote jobs · Updated every 30 min
+  📊 <strong>40</strong> companies · <strong>1564</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏢 Companies Tracked（39 companies）
+## 🏢 Companies Tracked（40 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -84,6 +84,7 @@
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [View jobs →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [View jobs →](https://www.remotejobscan.com/?company=replit) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
+| <img src="images/together-ai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Together AI"> | <a href="https://www.together.ai/">Together AI</a> | [View jobs →](https://www.remotejobscan.com/?company=together-ai) |
 | <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [View jobs →](https://www.remotejobscan.com/?company=tothemoon) |
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
@@ -95,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 06:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 07:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
