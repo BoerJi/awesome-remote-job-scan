@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 20:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-18 21:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
