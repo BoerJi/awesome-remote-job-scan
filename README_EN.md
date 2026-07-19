@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,7 +28,6 @@
 | Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
 | Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 | Field Marketing Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
-| Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
