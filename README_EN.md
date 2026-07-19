@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1814</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1815</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11290/software-engineer-web-platform/) |
 | Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
 | Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
-| IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/it-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
