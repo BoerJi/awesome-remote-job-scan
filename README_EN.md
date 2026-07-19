@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1815</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1814</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/it-specialist/) |
 | Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
 | Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
-| Field Marketing Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
