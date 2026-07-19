@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
 | IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/it-specialist/) |
 | Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
-| Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,7 +27,6 @@
 | 前沿红队（网络）负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
 | IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11288/it-specialist/) |
 | 机架交付技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11287/technical-program-manager-rack-delivery/) |
-| 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-19 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-19 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
