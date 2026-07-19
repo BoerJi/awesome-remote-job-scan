@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -29,8 +29,6 @@
 | 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11286/compliance-manager/) |
 | 公共部门现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-manager-public-sector/) |
 | 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9460/finance-strategy-gtm-post-sales/) |
-| 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9742/transaction-principal/) |
-| 数据中心能源主管，澳大利亚 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9396/data-center-energy-lead-australia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-18 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-19 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
