@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1815</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1816</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 训练后推理研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
 | 软件工程师，Web平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11290/software-engineer-web-platform/) |
 | Senior Manager / Director, Growth Operation | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
-| 前沿红队（网络）负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-19 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-19 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1815</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1816</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer, Post-Training Inference | On-site | [View →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
 | Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11290/software-engineer-web-platform/) |
 | Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
-| Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -84,6 +84,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-19 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
