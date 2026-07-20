@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1901</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1904</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Conversion Measurement | On-site | [View →](https://www.remotejobscan.com/job/11344/software-engineer-conversion-measurement/) |
+| Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
+| Director, Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
+| Growth Marketing Manager, Discoverability | Hybrid | [View →](https://www.remotejobscan.com/job/11343/growth-marketing-manager-discoverability/) |
 | Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | Technical Program Manager, AI Delivery for Public Sector & Defense, France | On-site | [View →](https://www.remotejobscan.com/job/11341/technical-program-manager-ai-delivery-for-public-sector-defense-france/) |
@@ -39,10 +43,6 @@
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/11337/product-support-specialist/) |
 | Senior Program Manager, Data Center Delivery | Remote | [View →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
 | Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
-| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
-| AI Deployment Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11335/ai-deployment-engineer-enterprise/) |
-| Head of GTM Business Operations & Strategy, Policy | On-site | [View →](https://www.remotejobscan.com/job/11334/head-of-gtm-business-operations-strategy-policy/) |
-| Technical Recruiter, Security | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

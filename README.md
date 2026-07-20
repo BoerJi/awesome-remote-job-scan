@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1901</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1904</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 转化测量软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11344/software-engineer-conversion-measurement/) |
+| 前沿红队（网络安全）负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
+| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
+| 增长营销经理，可发现性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11343/growth-marketing-manager-discoverability/) |
 | 高级客户总监 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | 技术项目经理，公共部门与国防领域的AI交付，法国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11341/technical-program-manager-ai-delivery-for-public-sector-defense-france/) |
@@ -39,10 +43,6 @@
 | 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11337/product-support-specialist/) |
 | 数据中心交付高级项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
 | 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
-| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
-| 企业AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11335/ai-deployment-engineer-enterprise/) |
-| GTM业务运营与战略、政策负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11334/head-of-gtm-business-operations-strategy-policy/) |
-| 安全技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
