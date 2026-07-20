@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1814</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1817</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美洲解决方案架构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11323/head-of-solutions-architecture-americas/) |
+| iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11322/ios-developer/) |
+| 安卓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11321/android-engineer/) |
 | 波兰联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11318/affiliate-business-development-manager-poland/) |
 | 前端软件工程师 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11316/software-engineer-frontend-payments/) |
 | 巴西总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11317/general-manager-brazil/) |
@@ -39,9 +42,6 @@
 | 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | 移动端首席/高级软件工程师，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8558/principalsenior-software-engineer-mobile-cex/) |
 | 高级合规与风控经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
-| B2B市场负责人 - 中东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10791/b2b-marketing-lead-cee/) |
-| 安全工程师（Go语言） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11309/security-engineer-golang/) |
-| 高级客户总监 - 沙特阿拉伯（东部省份） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10893/senior-account-executive-ksa-eastern-province/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
