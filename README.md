@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1821</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1810</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
+| 移动端CEX首席/高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8558/principalsenior-software-engineer-mobile-cex/) |
 | Options Risk Control Product Manager 期权风控产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
 | Test Engineer 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7408/test-engineer/) |
 | (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
@@ -36,9 +39,6 @@
 | 产品与策略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
 | 用户研究经理（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11299/user-research-manager-part-time/) |
 | 高级财务报告经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9625/senior-manager-financial-reporting/) |
-| 前沿部署工程师 - 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11300/forward-deployed-engineer-software-engineer/) |
-| 前哨部署工程师 - 软件工程师 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11297/forward-deployed-engineer-software-engineer-india/) |
-| 巴西-前沿部署工程师-软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

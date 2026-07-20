@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1821</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1810</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
 | Test Engineer 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/7408/test-engineer/) |
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
@@ -36,9 +38,6 @@
 | Product & Strategy Director | On-site | [View →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
 | User Research Manager （Part-time） | Remote | [View →](https://www.remotejobscan.com/job/11299/user-research-manager-part-time/) |
 | Senior Manager, Financial Reporting | On-site | [View →](https://www.remotejobscan.com/job/9625/senior-manager-financial-reporting/) |
-| Forward Deployed Engineer - Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11300/forward-deployed-engineer-software-engineer/) |
-| Forward Deployed Engineer - Software Engineer - India | Remote | [View →](https://www.remotejobscan.com/job/11297/forward-deployed-engineer-software-engineer-india/) |
-| Forward Deployed Engineer - Software Engineer - Brazil | On-site | [View →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
