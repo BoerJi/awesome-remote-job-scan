@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1817</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1822</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| B2B Marketing - India | Remote | [View →](https://www.remotejobscan.com/job/11328/b2b-marketing-india/) |
+| Capital Markets - Infrastructure Financing | On-site | [View →](https://www.remotejobscan.com/job/11327/capital-markets-infrastructure-financing/) |
+| Events Manager - Europe | Remote | [View →](https://www.remotejobscan.com/job/11325/events-manager-europe/) |
+| Sales Development Lead - Europe | Remote | [View →](https://www.remotejobscan.com/job/11326/sales-development-lead-europe/) |
+| Sales Development Lead - US | Remote | [View →](https://www.remotejobscan.com/job/11324/sales-development-lead-us/) |
 | Head of Solutions Architecture, Americas | Remote | [View →](https://www.remotejobscan.com/job/11323/head-of-solutions-architecture-americas/) |
 | iOS Developer | Remote | [View →](https://www.remotejobscan.com/job/11322/ios-developer/) |
 | Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/11321/android-engineer/) |
@@ -38,9 +43,6 @@
 | AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/9350/applied-ai-architect-industries/) |
 | Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/11314/senior-finance-manager-group-consolidation/) |
-| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| Senior Compliance & Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
