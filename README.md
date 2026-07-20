@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1904</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1891</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,30 +23,30 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 企业传播总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
-| 企业发言人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
-| 社区运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7911/community-operation/) |
-| 研究与投资实习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
-| 内容编辑/SEO专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
-| 全球营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
-| 社区专员/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
-| 创意文案撰稿人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| 数据仓库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
-| 高级深度学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
-| 研究分析师实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
-| 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| 业务拓展与战略合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| 客户服务代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative/) |
-| 合作伙伴与业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
-| 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| 机构客户增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
-| 数据产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11337/product-support-specialist/) |
+| 数据中心交付高级项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
+| 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
+| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
+| 企业AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11335/ai-deployment-engineer-enterprise/) |
+| GTM业务运营与战略、政策负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11334/head-of-gtm-business-operations-strategy-policy/) |
+| 安全技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
+| CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
+| 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
+| 高级Staff+软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9642/senior-staff-software-engineer-node-infra/) |
+| 高级员工+ 软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9641/senior-staff-software-engineer-node-infra/) |
+| 高级资深软件工程师，Kubernetes平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9640/senior-staff-software-engineer-kubernetes-platform/) |
+| 网页视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
+| Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
+| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
+| 初创项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9813/startups-program-lead/) |
+| 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9812/staff-accountant/) |
+| 高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9811/sr-commercial-counsel/) |
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（45 家）
+## 🏢 已收录公司（44 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -56,7 +56,6 @@
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [查看职位 →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
-| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [查看职位 →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [查看职位 →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [查看职位 →](https://www.remotejobscan.com/?company=bybit) |
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
