@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1899</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1901</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
+| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| Technical Program Manager, AI Delivery for Public Sector & Defense, France | On-site | [View →](https://www.remotejobscan.com/job/11341/technical-program-manager-ai-delivery-for-public-sector-defense-france/) |
 | Account Director, Digital Native Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11340/account-director-digital-native-large-enterprise/) |
 | Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
@@ -40,8 +43,6 @@
 | AI Deployment Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11335/ai-deployment-engineer-enterprise/) |
 | Head of GTM Business Operations & Strategy, Policy | On-site | [View →](https://www.remotejobscan.com/job/11334/head-of-gtm-business-operations-strategy-policy/) |
 | Technical Recruiter, Security | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
-| Technical Program Manager, CX Intelligence & AI | Remote | [View →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
-| Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1899</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1901</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户总监 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
+| 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| 技术项目经理，公共部门与国防领域的AI交付，法国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11341/technical-program-manager-ai-delivery-for-public-sector-defense-france/) |
 | 数字原生大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11340/account-director-digital-native-large-enterprise/) |
 | 高级移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
 | 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
@@ -40,8 +43,6 @@
 | 企业AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11335/ai-deployment-engineer-enterprise/) |
 | GTM业务运营与战略、政策负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11334/head-of-gtm-business-operations-strategy-policy/) |
 | 安全技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
-| CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
-| 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
