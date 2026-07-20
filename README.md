@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1807</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1812</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
+| Senior Manager, Web3 Growth (Ecosystem) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
+| Web3增长高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
+| Java应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
+| 基础设施稳定性架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
+| AI应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
 | 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9350/applied-ai-architect-industries/) |
 | 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11314/senior-finance-manager-group-consolidation/) |
 | 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
@@ -36,8 +42,6 @@
 | Options Risk Control Product Manager 期权风控产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
 | Test Engineer 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7408/test-engineer/) |
 | (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
-| 产品经理/总监，事件合约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11305/product-manager-director-event-contracts/) |
-| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
