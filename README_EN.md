@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1820</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1821</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Deployment Strategist Lead - Nordics | Remote | [View →](https://www.remotejobscan.com/job/11301/deployment-strategist-lead-nordics/) |
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Product & Strategy Director | On-site | [View →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
 | User Research Manager （Part-time） | Remote | [View →](https://www.remotejobscan.com/job/11299/user-research-manager-part-time/) |
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1820</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1821</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 北欧部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11301/deployment-strategist-lead-nordics/) |
 | 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | 产品与策略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
 | 用户研究经理（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11299/user-research-manager-part-time/) |
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
