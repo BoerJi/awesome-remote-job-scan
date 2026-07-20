@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1813</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1814</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 波兰联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11318/affiliate-business-development-manager-poland/) |
 | 前端软件工程师 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11316/software-engineer-frontend-payments/) |
 | 巴西总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11317/general-manager-brazil/) |
 | 罗马尼亚高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9132/senior-business-development-manager-romania/) |
@@ -41,7 +42,6 @@
 | B2B市场负责人 - 中东欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10791/b2b-marketing-lead-cee/) |
 | 安全工程师（Go语言） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11309/security-engineer-golang/) |
 | 高级客户总监 - 沙特阿拉伯（东部省份） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10893/senior-account-executive-ksa-eastern-province/) |
-| Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

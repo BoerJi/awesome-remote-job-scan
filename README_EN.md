@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1813</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1814</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Affiliate Business Development Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/11318/affiliate-business-development-manager-poland/) |
 | Software Engineer - Frontend - Payments | Remote | [View →](https://www.remotejobscan.com/job/11316/software-engineer-frontend-payments/) |
 | General Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/11317/general-manager-brazil/) |
 | Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/9132/senior-business-development-manager-romania/) |
@@ -40,7 +41,6 @@
 | B2B Marketing Lead - CEE | On-site | [View →](https://www.remotejobscan.com/job/10791/b2b-marketing-lead-cee/) |
 | Security Engineer (Golang) | Remote | [View →](https://www.remotejobscan.com/job/11309/security-engineer-golang/) |
 | Senior Account Executive - KSA (Eastern Province) | On-site | [View →](https://www.remotejobscan.com/job/10893/senior-account-executive-ksa-eastern-province/) |
-| Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
