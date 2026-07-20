@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
+| 产品经理/总监，事件合约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11305/product-manager-director-event-contracts/) |
 | 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 | 高级客服代理（德语讲） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
 | 硬件技术项目经理，基础设施合作伙伴运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11303/hardware-technical-program-manager-infrastructure-partner-operations/) |
@@ -37,12 +39,6 @@
 | 巴西-前沿部署工程师-软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
 | 北欧企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11295/enterprise-solutions-engineer-nordics/) |
 | 北欧部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11294/deployment-strategist-nordics/) |
-| 意大利部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11293/deployment-strategist-italy/) |
-| 意大利企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11292/enterprise-solutions-engineer-italy/) |
-| TradFi Futures Operations TradFi合约运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
-| 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| 前沿部署工程师 - 软件工程师 - 澳新地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11291/forward-deployed-engineer-software-engineer-anz/) |
-| 训练后推理研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

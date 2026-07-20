@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
+| Product Manager / Director, Event Contracts | On-site | [View →](https://www.remotejobscan.com/job/11305/product-manager-director-event-contracts/) |
 | Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 | Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
 | Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11303/hardware-technical-program-manager-infrastructure-partner-operations/) |
@@ -37,12 +39,6 @@
 | Forward Deployed Engineer - Software Engineer - Brazil | On-site | [View →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
 | Enterprise Solutions Engineer - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11295/enterprise-solutions-engineer-nordics/) |
 | Deployment Strategist - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11294/deployment-strategist-nordics/) |
-| Deployment Strategist - Italy | On-site | [View →](https://www.remotejobscan.com/job/11293/deployment-strategist-italy/) |
-| Enterprise Solutions Engineer - Italy | On-site | [View →](https://www.remotejobscan.com/job/11292/enterprise-solutions-engineer-italy/) |
-| TradFi Futures Operations TradFi合约运营 | Remote | [View →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
-| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| Forward Deployed Engineer - Software Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11291/forward-deployed-engineer-software-engineer-anz/) |
-| Research Engineer, Post-Training Inference | On-site | [View →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
