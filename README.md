@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1822</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1831</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台安全工程师，OpenBMC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
+| 荷兰语言经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11329/dutch-language-manager/) |
+| IT系统工程师，客户端平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9482/it-systems-engineer-client-platform-engineer/) |
+| 制造行业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10907/senior-account-executive-manufacturing/) |
+| 医疗与健康科学销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
+| 高级客户总监 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10922/senior-account-executive-healthcare-life-sciences/) |
+| 能源与公用事业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10830/senior-account-executive-energy-utilities/) |
+| GTM系统项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11330/program-manager-gtm-systems/) |
+| 高级客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
 | B2B营销 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11328/b2b-marketing-india/) |
 | 资本市场-基础设施融资 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11327/capital-markets-infrastructure-financing/) |
 | 欧洲活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11325/events-manager-europe/) |
@@ -34,15 +43,6 @@
 | 波兰联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11318/affiliate-business-development-manager-poland/) |
 | 前端软件工程师 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11316/software-engineer-frontend-payments/) |
 | 巴西总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11317/general-manager-brazil/) |
-| 罗马尼亚高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9132/senior-business-development-manager-romania/) |
-| 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
-| Senior Manager, Web3 Growth (Ecosystem) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Web3增长高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
-| Java应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
-| 基础设施稳定性架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
-| AI应用架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
-| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9350/applied-ai-architect-industries/) |
-| 高级财务经理 - 集团合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11314/senior-finance-manager-group-consolidation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

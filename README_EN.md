@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1822</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1831</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Platform Security Engineer, OpenBMC | On-site | [View →](https://www.remotejobscan.com/job/9526/platform-security-engineer-openbmc/) |
+| Dutch Language Manager | On-site | [View →](https://www.remotejobscan.com/job/11329/dutch-language-manager/) |
+| IT Systems Engineer, Client Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/9482/it-systems-engineer-client-platform-engineer/) |
+| Senior Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/10907/senior-account-executive-manufacturing/) |
+| Sales Director - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
+| Senior Account Executive - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/10922/senior-account-executive-healthcare-life-sciences/) |
+| Senior Account Executive - Energy & Utilities | Remote | [View →](https://www.remotejobscan.com/job/10830/senior-account-executive-energy-utilities/) |
+| Program Manager, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11330/program-manager-gtm-systems/) |
+| Senior Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
 | B2B Marketing - India | Remote | [View →](https://www.remotejobscan.com/job/11328/b2b-marketing-india/) |
 | Capital Markets - Infrastructure Financing | On-site | [View →](https://www.remotejobscan.com/job/11327/capital-markets-infrastructure-financing/) |
 | Events Manager - Europe | Remote | [View →](https://www.remotejobscan.com/job/11325/events-manager-europe/) |
@@ -34,15 +43,6 @@
 | Affiliate Business Development Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/11318/affiliate-business-development-manager-poland/) |
 | Software Engineer - Frontend - Payments | Remote | [View →](https://www.remotejobscan.com/job/11316/software-engineer-frontend-payments/) |
 | General Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/11317/general-manager-brazil/) |
-| Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/9132/senior-business-development-manager-romania/) |
-| Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
-| Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
-| Application Architect, Java | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-java/) |
-| Infrastructure Stability Architect | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect/) |
-| AI Application Architect | On-site | [View →](https://www.remotejobscan.com/job/8345/ai-application-architect/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/9350/applied-ai-architect-industries/) |
-| Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/11314/senior-finance-manager-group-consolidation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
