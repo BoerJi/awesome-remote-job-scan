@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1821</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1824</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
+| Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
+| Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11303/hardware-technical-program-manager-infrastructure-partner-operations/) |
+| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
 | Deployment Strategist Lead - Nordics | Remote | [View →](https://www.remotejobscan.com/job/11301/deployment-strategist-lead-nordics/) |
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Product & Strategy Director | On-site | [View →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
@@ -39,8 +43,6 @@
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | Forward Deployed Engineer - Software Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11291/forward-deployed-engineer-software-engineer-anz/) |
 | Research Engineer, Post-Training Inference | On-site | [View →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
-| Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11290/software-engineer-web-platform/) |
-| Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

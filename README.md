@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1821</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1824</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
+| 高级客服代理（德语讲） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
+| 硬件技术项目经理，基础设施合作伙伴运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11303/hardware-technical-program-manager-infrastructure-partner-operations/) |
+| 客户尽职调查（KYB）运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
 | 北欧部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11301/deployment-strategist-lead-nordics/) |
 | 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | 产品与策略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
@@ -39,8 +43,6 @@
 | 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | 前沿部署工程师 - 软件工程师 - 澳新地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11291/forward-deployed-engineer-software-engineer-anz/) |
 | 训练后推理研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
-| 软件工程师，Web平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11290/software-engineer-web-platform/) |
-| Senior Manager / Director, Growth Operation | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
