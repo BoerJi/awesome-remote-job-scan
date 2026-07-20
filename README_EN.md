@@ -14,15 +14,22 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1814</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1817</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Solutions Engineer - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11295/enterprise-solutions-engineer-nordics/) |
+| Deployment Strategist - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11294/deployment-strategist-nordics/) |
+| Deployment Strategist - Italy | On-site | [View →](https://www.remotejobscan.com/job/11293/deployment-strategist-italy/) |
+| Enterprise Solutions Engineer - Italy | On-site | [View →](https://www.remotejobscan.com/job/11292/enterprise-solutions-engineer-italy/) |
+| TradFi Futures Operations TradFi合约运营 | Remote | [View →](https://www.remotejobscan.com/job/9015/tradfi-futures-operations-tradfi/) |
+| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
+| Forward Deployed Engineer - Software Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11291/forward-deployed-engineer-software-engineer-anz/) |
 | Research Engineer, Post-Training Inference | On-site | [View →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
 | Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11290/software-engineer-web-platform/) |
 | Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
@@ -84,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
