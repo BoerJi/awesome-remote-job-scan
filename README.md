@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1904</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>43</strong> 家公司 · <strong>1832</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 模型飞轮工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10606/engineering-manager-model-flywheel/) |
+| 高级分析师，财务规划与分析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11346/senior-associate-financial-planning-analysis/) |
 | 转化测量软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11344/software-engineer-conversion-measurement/) |
 | 前沿红队（网络安全）负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
-| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
-| 增长营销经理，可发现性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11343/growth-marketing-manager-discoverability/) |
 | 高级客户总监 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | 技术项目经理，公共部门与国防领域的AI交付，法国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11341/technical-program-manager-ai-delivery-for-public-sector-defense-france/) |
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏢 已收录公司（44 家）
+## 🏢 已收录公司（43 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -94,13 +94,12 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [查看职位 →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [查看职位 →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [查看职位 →](https://www.remotejobscan.com/?company=united-stables) |
-| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [查看职位 →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

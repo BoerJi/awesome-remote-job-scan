@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1904</strong> remote jobs · Updated every 30 min
+  📊 <strong>43</strong> companies · <strong>1832</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Model Flywheel | Hybrid | [View →](https://www.remotejobscan.com/job/10606/engineering-manager-model-flywheel/) |
+| Senior Associate, Financial Planning & Analysis | On-site | [View →](https://www.remotejobscan.com/job/11346/senior-associate-financial-planning-analysis/) |
 | Software Engineer, Conversion Measurement | On-site | [View →](https://www.remotejobscan.com/job/11344/software-engineer-conversion-measurement/) |
 | Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
-| Director, Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
-| Growth Marketing Manager, Discoverability | Hybrid | [View →](https://www.remotejobscan.com/job/11343/growth-marketing-manager-discoverability/) |
 | Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | Technical Program Manager, AI Delivery for Public Sector & Defense, France | On-site | [View →](https://www.remotejobscan.com/job/11341/technical-program-manager-ai-delivery-for-public-sector-defense-france/) |
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏢 Companies Tracked（44 companies）
+## 🏢 Companies Tracked（43 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -94,13 +94,12 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
-| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [View jobs →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
