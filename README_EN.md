@@ -14,15 +14,22 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1817</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1820</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
+| Product & Strategy Director | On-site | [View →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
+| User Research Manager （Part-time） | Remote | [View →](https://www.remotejobscan.com/job/11299/user-research-manager-part-time/) |
+| Senior Manager, Financial Reporting | On-site | [View →](https://www.remotejobscan.com/job/9625/senior-manager-financial-reporting/) |
+| Forward Deployed Engineer - Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11300/forward-deployed-engineer-software-engineer/) |
+| Forward Deployed Engineer - Software Engineer - India | Remote | [View →](https://www.remotejobscan.com/job/11297/forward-deployed-engineer-software-engineer-india/) |
+| Forward Deployed Engineer - Software Engineer - Brazil | On-site | [View →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
 | Enterprise Solutions Engineer - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11295/enterprise-solutions-engineer-nordics/) |
 | Deployment Strategist - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11294/deployment-strategist-nordics/) |
 | Deployment Strategist - Italy | On-site | [View →](https://www.remotejobscan.com/job/11293/deployment-strategist-italy/) |
@@ -91,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

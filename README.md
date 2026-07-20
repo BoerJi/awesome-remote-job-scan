@@ -14,15 +14,22 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1817</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1820</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
+| 产品与策略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
+| 用户研究经理（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11299/user-research-manager-part-time/) |
+| 高级财务报告经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9625/senior-manager-financial-reporting/) |
+| 前沿部署工程师 - 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11300/forward-deployed-engineer-software-engineer/) |
+| 前哨部署工程师 - 软件工程师 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11297/forward-deployed-engineer-software-engineer-india/) |
+| 巴西-前沿部署工程师-软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
 | 北欧企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11295/enterprise-solutions-engineer-nordics/) |
 | 北欧部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11294/deployment-strategist-nordics/) |
 | 意大利部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11293/deployment-strategist-italy/) |
@@ -91,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
