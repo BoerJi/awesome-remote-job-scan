@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1824</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1821</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
+| Test Engineer 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/7408/test-engineer/) |
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
 | Product Manager / Director, Event Contracts | On-site | [View →](https://www.remotejobscan.com/job/11305/product-manager-director-event-contracts/) |
 | Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
@@ -37,8 +39,6 @@
 | Forward Deployed Engineer - Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11300/forward-deployed-engineer-software-engineer/) |
 | Forward Deployed Engineer - Software Engineer - India | Remote | [View →](https://www.remotejobscan.com/job/11297/forward-deployed-engineer-software-engineer-india/) |
 | Forward Deployed Engineer - Software Engineer - Brazil | On-site | [View →](https://www.remotejobscan.com/job/11296/forward-deployed-engineer-software-engineer-brazil/) |
-| Enterprise Solutions Engineer - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11295/enterprise-solutions-engineer-nordics/) |
-| Deployment Strategist - Nordics | On-site | [View →](https://www.remotejobscan.com/job/11294/deployment-strategist-nordics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
