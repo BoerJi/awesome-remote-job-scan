@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1811</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1808</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -29,8 +29,6 @@
 | Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
 | Senior Account Executive - KSA (Eastern Province) | On-site | [View →](https://www.remotejobscan.com/job/10893/senior-account-executive-ksa-eastern-province/) |
 | Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
-| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
 | Test Engineer 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/7408/test-engineer/) |
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
@@ -38,6 +36,9 @@
 | Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 | Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
 | Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11303/hardware-technical-program-manager-infrastructure-partner-operations/) |
+| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
+| Deployment Strategist Lead - Nordics | Remote | [View →](https://www.remotejobscan.com/job/11301/deployment-strategist-lead-nordics/) |
+| Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
