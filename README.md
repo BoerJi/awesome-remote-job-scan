@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1891</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1901</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数字原生大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11340/account-director-digital-native-large-enterprise/) |
+| 高级移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
+| 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
+| 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
+| 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
+| 首席AI工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
+| 办公场所IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
+| AI原生增长销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
+| 计算资格技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
+| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11337/product-support-specialist/) |
 | 数据中心交付高级项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
 | 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
@@ -32,16 +42,6 @@
 | 安全技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
 | CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
 | 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
-| 高级Staff+软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9642/senior-staff-software-engineer-node-infra/) |
-| 高级员工+ 软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9641/senior-staff-software-engineer-node-infra/) |
-| 高级资深软件工程师，Kubernetes平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9640/senior-staff-software-engineer-kubernetes-platform/) |
-| 网页视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
-| Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
-| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| 初创项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9813/startups-program-lead/) |
-| 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9812/staff-accountant/) |
-| 高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9811/sr-commercial-counsel/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-20 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

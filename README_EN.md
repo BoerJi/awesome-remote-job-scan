@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1891</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1901</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Digital Native Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11340/account-director-digital-native-large-enterprise/) |
+| Senior Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/senior-software-engineer-mobile-trading/) |
+| Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
+| Senior Software Engineer, Front End | On-site | [View →](https://www.remotejobscan.com/job/9099/senior-software-engineer-front-end/) |
+| Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/6870/principal-ai-engineer-chatbot-development/) |
+| Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6868/principal-ai-engineer-ai-agent-development/) |
+| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
+| Manager– Growth Sales (AI-Native) | On-site | [View →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
+| Technical Program Manager, Compute Qualification | Remote | [View →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
+| Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/11337/product-support-specialist/) |
 | Senior Program Manager, Data Center Delivery | Remote | [View →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
 | Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
@@ -32,15 +42,6 @@
 | Technical Recruiter, Security | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
 | Technical Program Manager, CX Intelligence & AI | Remote | [View →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
 | Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
-| Senior Staff+ Software Engineer, Node Infra | On-site | [View →](https://www.remotejobscan.com/job/9642/senior-staff-software-engineer-node-infra/) |
-| Senior Staff+ Software Engineer, Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/9640/senior-staff-software-engineer-kubernetes-platform/) |
-| Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
-| Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
-| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| Startups Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9813/startups-program-lead/) |
-| Staff Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/9812/staff-accountant/) |
-| Sr. Commercial Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/9811/sr-commercial-counsel/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
