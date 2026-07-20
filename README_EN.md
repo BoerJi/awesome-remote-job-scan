@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1812</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1813</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer - Frontend - Payments | Remote | [View →](https://www.remotejobscan.com/job/11316/software-engineer-frontend-payments/) |
+| General Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/11317/general-manager-brazil/) |
+| Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/9132/senior-business-development-manager-romania/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
 | Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
@@ -38,9 +41,6 @@
 | Security Engineer (Golang) | Remote | [View →](https://www.remotejobscan.com/job/11309/security-engineer-golang/) |
 | Senior Account Executive - KSA (Eastern Province) | On-site | [View →](https://www.remotejobscan.com/job/10893/senior-account-executive-ksa-eastern-province/) |
 | Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
-| Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
-| Test Engineer 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/7408/test-engineer/) |
-| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
