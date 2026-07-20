@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1806</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1807</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/9350/applied-ai-architect-industries/) |
+| Senior Finance Manager - Group Consolidation | On-site | [View →](https://www.remotejobscan.com/job/11314/senior-finance-manager-group-consolidation/) |
+| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
+| Senior Compliance & Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
 | B2B Marketing Lead - CEE | On-site | [View →](https://www.remotejobscan.com/job/10791/b2b-marketing-lead-cee/) |
 | Security Engineer (Golang) | Remote | [View →](https://www.remotejobscan.com/job/11309/security-engineer-golang/) |
-| Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
 | Senior Account Executive - KSA (Eastern Province) | On-site | [View →](https://www.remotejobscan.com/job/10893/senior-account-executive-ksa-eastern-province/) |
 | Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
 | Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
@@ -34,11 +37,6 @@
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
 | Product Manager / Director, Event Contracts | On-site | [View →](https://www.remotejobscan.com/job/11305/product-manager-director-event-contracts/) |
 | Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
-| Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
-| Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11303/hardware-technical-program-manager-infrastructure-partner-operations/) |
-| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
-| Deployment Strategist Lead - Nordics | Remote | [View →](https://www.remotejobscan.com/job/11301/deployment-strategist-lead-nordics/) |
-| Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-20 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
