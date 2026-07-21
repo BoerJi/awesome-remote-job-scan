@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1862</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1863</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Software Engineer, Legal Automation | Remote | [View →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
+| Staff ML Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/9313/staff-ml-risk-analyst/) |
+| Staff Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11376/staff-application-security-engineer/) |
+| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
 | Financial Agent Algorithm Engineer 金融Agent算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/financial-agent-algorithm-engineer-agent/) |
 | Institutional Business Development Manager (EU) | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-manager-eu/) |
 | Institutional Business Development Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/7357/institutional-business-development-manager-asia/) |
@@ -39,10 +43,6 @@
 | Engineering Director/Expert | On-site | [View →](https://www.remotejobscan.com/job/11365/engineering-directorexpert/) |
 | Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Senior Research Scientist, Cohere Labs | Remote | [View →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
-| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| Customer Service Representative, Gulf Binance | Remote | [View →](https://www.remotejobscan.com/job/11362/customer-service-representative-gulf-binance/) |
-| Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
-| Senior Data Analyst, Trading | Remote | [View →](https://www.remotejobscan.com/job/11360/senior-data-analyst-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
