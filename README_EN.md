@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1856</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1859</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| Wallet & Crypto Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11366/wallet-crypto-security-engineer/) |
+| Manager, Forward Deployed Engineer - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/11368/manager-forward-deployed-engineer-tokyo/) |
+| Engineering Director/Expert | On-site | [View →](https://www.remotejobscan.com/job/11365/engineering-directorexpert/) |
+| Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Senior Research Scientist, Cohere Labs | Remote | [View →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
 | AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
@@ -38,11 +43,6 @@
 | Customer Learning Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11355/customer-learning-program-lead/) |
 | AI Deployment Engineer, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/11354/ai-deployment-engineer-global-affairs/) |
 | AI Deployment Engineer, Agent Enablement | On-site | [View →](https://www.remotejobscan.com/job/11351/ai-deployment-engineer-agent-enablement/) |
-| Head of Marketing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11353/head-of-marketing-operations/) |
-| VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/11352/vp-communication/) |
-| Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
-| Communication Lead, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11350/communication-lead-enterprise/) |
-| Data Scientist, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/11349/data-scientist-trust-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

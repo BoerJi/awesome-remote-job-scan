@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1856</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1859</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 拉丁美洲VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| 钱包与加密货币安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11366/wallet-crypto-security-engineer/) |
+| 东京前部署工程师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11368/manager-forward-deployed-engineer-tokyo/) |
+| 工程总监/专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11365/engineering-directorexpert/) |
+| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Cohere Labs高级研究科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
 | AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
@@ -38,11 +43,6 @@
 | 客户学习项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11355/customer-learning-program-lead/) |
 | AI部署工程师，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11354/ai-deployment-engineer-global-affairs/) |
 | AI部署工程师，代理赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11351/ai-deployment-engineer-agent-enablement/) |
-| 市场运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11353/head-of-marketing-operations/) |
-| 通信副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11352/vp-communication/) |
-| 前沿红队（网络）负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
-| 企业通信主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11350/communication-lead-enterprise/) |
-| 信任与安全数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11349/data-scientist-trust-safety/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
