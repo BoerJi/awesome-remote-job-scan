@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1915</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1918</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
+| Staff Software Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
 | Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
 | Creative Director | Remote | [View →](https://www.remotejobscan.com/job/9206/creative-director/) |
 | Customer Learning Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11355/customer-learning-program-lead/) |
@@ -41,8 +43,6 @@
 | Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
 | Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
 | Startups Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9813/startups-program-lead/) |
-| Staff Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/9812/staff-accountant/) |
-| Sr. Commercial Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/9811/sr-commercial-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

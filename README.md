@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1915</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1918</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 广告诚信软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
+| 增长方向资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
 | Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
 | 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9206/creative-director/) |
 | 客户学习项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11355/customer-learning-program-lead/) |
@@ -41,8 +43,6 @@
 | Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
 | 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
 | 初创项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9813/startups-program-lead/) |
-| 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9812/staff-accountant/) |
-| 高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9811/sr-commercial-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
