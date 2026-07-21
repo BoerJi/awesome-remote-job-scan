@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | 广告诚信软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
 | 增长方向资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
@@ -42,7 +43,6 @@
 | 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
 | 网页视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
 | Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
-| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

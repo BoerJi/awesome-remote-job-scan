@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
 | Staff Software Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
@@ -42,7 +43,6 @@
 | Director, Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
 | Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
 | Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
-| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
