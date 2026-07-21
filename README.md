@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1884</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1890</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 营收会计主管 - 业务桌与技术会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11404/head-of-revenue-accounting-deal-desk-technical-accounting/) |
+| 解决方案工程负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11401/head-of-solutions-engineering/) |
+| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
+| 高级品牌设计师 - 品牌基础 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11403/sr-brand-designer-brand-foundations/) |
+| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | 人类数据活动研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11400/research-program-manager-human-data-campaigns/) |
 | 产品创意负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11398/head-of-product-creative/) |
 | 高级产品经理，风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
@@ -37,12 +42,6 @@
 | 巴黎安全运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11392/security-operations-manager-paris/) |
 | 现场运维技术员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11393/site-operations-technician/) |
 | OSS产品沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
-| 商业化通信经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11390/communications-manager-monetization/) |
-| 战略项目经理，首席运营官办公室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11389/strategic-program-manager-office-of-the-cro/) |
-| 计算基础系统软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9932/software-engineer-compute-foundations-systems/) |
-| 高级产品经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11386/senior-product-manager-consumer/) |
-| 集团营销经理，基础链 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11385/group-marketing-manager-base-chain/) |
-| 联邦账户总监，情报界 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11388/federal-account-director-intelligence-community/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

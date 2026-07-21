@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1884</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1890</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Revenue Accounting - Deal Desk & Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/11404/head-of-revenue-accounting-deal-desk-technical-accounting/) |
+| Head of Solutions Engineering | Remote | [View →](https://www.remotejobscan.com/job/11401/head-of-solutions-engineering/) |
+| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
+| Sr Brand Designer - Brand Foundations | Remote | [View →](https://www.remotejobscan.com/job/11403/sr-brand-designer-brand-foundations/) |
+| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | Research Program Manager, Human Data Campaigns | Hybrid | [View →](https://www.remotejobscan.com/job/11400/research-program-manager-human-data-campaigns/) |
 | Head of Product Creative | Remote | [View →](https://www.remotejobscan.com/job/11398/head-of-product-creative/) |
 | Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
@@ -37,12 +42,6 @@
 | Security Operations Manager, Paris | Hybrid | [View →](https://www.remotejobscan.com/job/11392/security-operations-manager-paris/) |
 | Site Operations Technician | On-site | [View →](https://www.remotejobscan.com/job/11393/site-operations-technician/) |
 | Product Communications Manager, OSS | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
-| Communications Manager, Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/11390/communications-manager-monetization/) |
-| Strategic Program Manager, Office of the CRO | Hybrid | [View →](https://www.remotejobscan.com/job/11389/strategic-program-manager-office-of-the-cro/) |
-| Software Engineer, Compute Foundations Systems | On-site | [View →](https://www.remotejobscan.com/job/9932/software-engineer-compute-foundations-systems/) |
-| Senior Product Manager - Consumer | Remote | [View →](https://www.remotejobscan.com/job/11386/senior-product-manager-consumer/) |
-| Group Marketing Manager, Base Chain | Remote | [View →](https://www.remotejobscan.com/job/11385/group-marketing-manager-base-chain/) |
-| Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/11388/federal-account-director-intelligence-community/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
