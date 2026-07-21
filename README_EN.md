@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Program Manager, Human Data Campaigns | Hybrid | [View →](https://www.remotejobscan.com/job/11400/research-program-manager-human-data-campaigns/) |
+| Head of Product Creative | Remote | [View →](https://www.remotejobscan.com/job/11398/head-of-product-creative/) |
+| Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
+| Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/11399/senior-software-engineer-backend-platform-core-ai-automation/) |
 | Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11346/senior-associate-financial-planning-analysis/) |
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/11396/business-development-representative/) |
 | Analyst, Compliance (Investigations) | Remote | [View →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
@@ -39,10 +43,6 @@
 | Senior Product Manager - Consumer | Remote | [View →](https://www.remotejobscan.com/job/11386/senior-product-manager-consumer/) |
 | Group Marketing Manager, Base Chain | Remote | [View →](https://www.remotejobscan.com/job/11385/group-marketing-manager-base-chain/) |
 | Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/11388/federal-account-director-intelligence-community/) |
-| Senior Accountant (India) | Remote | [View →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
-| Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
-| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
