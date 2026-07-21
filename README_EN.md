@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1878</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1856</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Research Scientist, Cohere Labs | Remote | [View →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
+| AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
+| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| Customer Service Representative, Gulf Binance | Remote | [View →](https://www.remotejobscan.com/job/11362/customer-service-representative-gulf-binance/) |
 | Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | Senior Data Analyst, Trading | Remote | [View →](https://www.remotejobscan.com/job/11360/senior-data-analyst-trading/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
@@ -39,15 +43,11 @@
 | Lead, Frontier Red Team (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9484/lead-frontier-red-team-cyber/) |
 | Communication Lead, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11350/communication-lead-enterprise/) |
 | Data Scientist, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/11349/data-scientist-trust-safety/) |
-| Technical Program Manager, AI Delivery, Korea | Remote | [View →](https://www.remotejobscan.com/job/11348/technical-program-manager-ai-delivery-korea/) |
-| Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
-| Growth Marketing Manager, Discoverability | Hybrid | [View →](https://www.remotejobscan.com/job/11343/growth-marketing-manager-discoverability/) |
-| Director, Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（44 companies）
+## 🏢 Companies Tracked（45 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -61,6 +61,7 @@
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
 | <img src="images/certik.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CertiK"> | <a href="https://www.certik.com/">CertiK</a> | [View jobs →](https://www.remotejobscan.com/?company=certik) |
+| <img src="images/circle.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Circle"> | <a href="https://www.circle.com/">Circle</a> | [View jobs →](https://www.remotejobscan.com/?company=circle) |
 | <img src="images/cohere.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Cohere"> | <a href="https://cohere.com/">Cohere</a> | [View jobs →](https://www.remotejobscan.com/?company=cohere) |
 | <img src="images/coinbase.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Coinbase"> | <a href="https://www.coinbase.com/">Coinbase</a> | [View jobs →](https://www.remotejobscan.com/?company=coinbase) |
 | <img src="images/coinex.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CoinEx"> | <a href="https://www.coinex.com">CoinEx</a> | [View jobs →](https://www.remotejobscan.com/?company=coinex) |
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
