@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>44</strong> 家公司 · <strong>1909</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>44</strong> 家公司 · <strong>1878</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 澳大利亚合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | 高级数据分析师，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11360/senior-data-analyst-trading/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
@@ -42,7 +43,6 @@
 | 前沿部署工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
 | 增长营销经理，可发现性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11343/growth-marketing-manager-discoverability/) |
 | 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
-| 网页视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
