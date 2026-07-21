@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1864</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1865</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Financial Agent Algorithm Engineer 金融Agent算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/financial-agent-algorithm-engineer-agent/) |
 | Institutional Business Development Manager (EU) | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-manager-eu/) |
 | Institutional Business Development Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/7357/institutional-business-development-manager-asia/) |
 | LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
@@ -42,7 +43,6 @@
 | Customer Service Representative, Gulf Binance | Remote | [View →](https://www.remotejobscan.com/job/11362/customer-service-representative-gulf-binance/) |
 | Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | Senior Data Analyst, Trading | Remote | [View →](https://www.remotejobscan.com/job/11360/senior-data-analyst-trading/) |
-| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
