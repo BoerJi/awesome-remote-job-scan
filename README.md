@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1876</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1884</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级分析师，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11346/senior-associate-financial-planning-analysis/) |
+| 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11396/business-development-representative/) |
+| 合规分析师（调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
+| 主要业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
+| 生物安全研究员/工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
+| 技术项目经理，AI交付 - 公共部门与国防，英国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11395/technical-program-manager-ai-delivery-for-public-sector-defence-uk/) |
+| 办公IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
+| 巴黎安全运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11392/security-operations-manager-paris/) |
+| 现场运维技术员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11393/site-operations-technician/) |
+| OSS产品沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
 | 商业化通信经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11390/communications-manager-monetization/) |
 | 战略项目经理，首席运营官办公室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11389/strategic-program-manager-office-of-the-cro/) |
 | 计算基础系统软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9932/software-engineer-compute-foundations-systems/) |
@@ -33,16 +43,6 @@
 | 高级会计经理（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | 印度客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
 | 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| AI加速器负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
-| 人类对齐、消费设备研究方向科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10188/research-scientist-human-alignment-consumer-devices/) |
-| 移动端发布管理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11379/release-management-engineer-mobile/) |
-| 前线部署工程师 - 苏黎世 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11378/forward-deployed-engineer-zurich/) |
-| 软件工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9866/software-engineer-amsterdam/) |
-| 市场协调员（预测合作伙伴关系） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
-| 预测市场运营实习生（2026年秋季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11377/prediction-markets-operations-intern-fall-2026/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 机构商务律师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| 高级软件工程师，法律自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1876</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1884</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11346/senior-associate-financial-planning-analysis/) |
+| Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/11396/business-development-representative/) |
+| Analyst, Compliance (Investigations) | Remote | [View →](https://www.remotejobscan.com/job/9136/analyst-compliance-investigations/) |
+| Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
+| Research Scientist/Engineer, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
+| Technical Program Manager, AI Delivery for Public Sector & Defence, UK | Hybrid | [View →](https://www.remotejobscan.com/job/11395/technical-program-manager-ai-delivery-for-public-sector-defence-uk/) |
+| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
+| Security Operations Manager, Paris | Hybrid | [View →](https://www.remotejobscan.com/job/11392/security-operations-manager-paris/) |
+| Site Operations Technician | On-site | [View →](https://www.remotejobscan.com/job/11393/site-operations-technician/) |
+| Product Communications Manager, OSS | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
 | Communications Manager, Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/11390/communications-manager-monetization/) |
 | Strategic Program Manager, Office of the CRO | Hybrid | [View →](https://www.remotejobscan.com/job/11389/strategic-program-manager-office-of-the-cro/) |
 | Software Engineer, Compute Foundations Systems | On-site | [View →](https://www.remotejobscan.com/job/9932/software-engineer-compute-foundations-systems/) |
@@ -33,16 +43,6 @@
 | Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
 | Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| AI Accelerator Lead | Remote | [View →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
-| Research Scientist - Human Alignment, Consumer Devices | Hybrid | [View →](https://www.remotejobscan.com/job/10188/research-scientist-human-alignment-consumer-devices/) |
-| Release Management Engineer, Mobile | Remote | [View →](https://www.remotejobscan.com/job/11379/release-management-engineer-mobile/) |
-| Forward Deployed Engineer - Zurich | Hybrid | [View →](https://www.remotejobscan.com/job/11378/forward-deployed-engineer-zurich/) |
-| Software Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9866/software-engineer-amsterdam/) |
-| Marketing Coordinator (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
-| Prediction Markets Operations Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/11377/prediction-markets-operations-intern-fall-2026/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| Senior Staff Software Engineer, Legal Automation | Remote | [View →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
