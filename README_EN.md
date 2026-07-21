@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1859</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1867</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Business Development Manager (EU) | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-manager-eu/) |
+| Institutional Business Development Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/7357/institutional-business-development-manager-asia/) |
 | LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
+| B2B Marketing Lead Nordics | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-lead-nordics/) |
+| Senior Engineering Manager - Frontend - Pro | Remote | [View →](https://www.remotejobscan.com/job/11373/senior-engineering-manager-frontend-pro/) |
+| Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/10389/account-associate-emea-french-speaking/) |
+| Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/10388/account-associate-emea-german-speaking/) |
+| Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10097/account-associate-emea/) |
+| B2B Marketing Lead - DACH | Remote | [View →](https://www.remotejobscan.com/job/10789/b2b-marketing-lead-dach/) |
 | Wallet & Crypto Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11366/wallet-crypto-security-engineer/) |
 | Manager, Forward Deployed Engineer - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/11368/manager-forward-deployed-engineer-tokyo/) |
 | Engineering Director/Expert | On-site | [View →](https://www.remotejobscan.com/job/11365/engineering-directorexpert/) |
 | Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Senior Research Scientist, Cohere Labs | Remote | [View →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
-| AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | Customer Service Representative, Gulf Binance | Remote | [View →](https://www.remotejobscan.com/job/11362/customer-service-representative-gulf-binance/) |
 | Compliance Officer, Australia | Remote | [View →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | Senior Data Analyst, Trading | Remote | [View →](https://www.remotejobscan.com/job/11360/senior-data-analyst-trading/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
-| Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
-| Staff Software Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
-| Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
-| Creative Director | Remote | [View →](https://www.remotejobscan.com/job/9206/creative-director/) |
-| Customer Learning Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11355/customer-learning-program-lead/) |
-| AI Deployment Engineer, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/11354/ai-deployment-engineer-global-affairs/) |
-| AI Deployment Engineer, Agent Enablement | On-site | [View →](https://www.remotejobscan.com/job/11351/ai-deployment-engineer-agent-enablement/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

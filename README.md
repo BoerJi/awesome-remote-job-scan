@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1859</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1867</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧盟机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7955/institutional-business-development-manager-eu/) |
+| 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7357/institutional-business-development-manager-asia/) |
 | 拉丁美洲VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
+| B2B市场主管北欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10790/b2b-marketing-lead-nordics/) |
+| 高级前端工程经理 - 专业版 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11373/senior-engineering-manager-frontend-pro/) |
+| 欧洲、中东、非洲地区业务专员（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10389/account-associate-emea-french-speaking/) |
+| 欧洲中东欧地区（德语）客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10388/account-associate-emea-german-speaking/) |
+| EMEA客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10097/account-associate-emea/) |
+| B2B市场主管 - DACH | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10789/b2b-marketing-lead-dach/) |
 | 钱包与加密货币安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11366/wallet-crypto-security-engineer/) |
 | 东京前部署工程师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11368/manager-forward-deployed-engineer-tokyo/) |
 | 工程总监/专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11365/engineering-directorexpert/) |
 | 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Cohere Labs高级研究科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
-| AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | 海湾币安客户服务代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11362/customer-service-representative-gulf-binance/) |
 | 澳大利亚合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9163/compliance-officer-australia/) |
 | 高级数据分析师，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11360/senior-data-analyst-trading/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
-| 广告诚信软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
-| 增长方向资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
-| Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
-| 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9206/creative-director/) |
-| 客户学习项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11355/customer-learning-program-lead/) |
-| AI部署工程师，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11354/ai-deployment-engineer-global-affairs/) |
-| AI部署工程师，代理赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11351/ai-deployment-engineer-agent-enablement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
