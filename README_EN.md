@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1866</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1869</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Accelerator Lead | Remote | [View →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
+| Research Scientist - Human Alignment, Consumer Devices | Hybrid | [View →](https://www.remotejobscan.com/job/10188/research-scientist-human-alignment-consumer-devices/) |
+| Release Management Engineer, Mobile | Remote | [View →](https://www.remotejobscan.com/job/11379/release-management-engineer-mobile/) |
+| Forward Deployed Engineer - Zurich | Hybrid | [View →](https://www.remotejobscan.com/job/11378/forward-deployed-engineer-zurich/) |
 | Software Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9866/software-engineer-amsterdam/) |
 | Marketing Coordinator (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
 | Prediction Markets Operations Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/11377/prediction-markets-operations-intern-fall-2026/) |
@@ -39,10 +43,6 @@
 | AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | B2B Marketing Lead Nordics | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-lead-nordics/) |
 | Senior Engineering Manager - Frontend - Pro | Remote | [View →](https://www.remotejobscan.com/job/11373/senior-engineering-manager-frontend-pro/) |
-| Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/10389/account-associate-emea-french-speaking/) |
-| Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/10388/account-associate-emea-german-speaking/) |
-| Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10097/account-associate-emea/) |
-| B2B Marketing Lead - DACH | Remote | [View →](https://www.remotejobscan.com/job/10789/b2b-marketing-lead-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

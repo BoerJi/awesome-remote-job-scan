@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1866</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1869</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI加速器负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
+| 人类对齐、消费设备研究方向科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10188/research-scientist-human-alignment-consumer-devices/) |
+| 移动端发布管理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11379/release-management-engineer-mobile/) |
+| 前线部署工程师 - 苏黎世 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11378/forward-deployed-engineer-zurich/) |
 | 软件工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9866/software-engineer-amsterdam/) |
 | 市场协调员（预测合作伙伴关系） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
 | 预测市场运营实习生（2026年秋季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11377/prediction-markets-operations-intern-fall-2026/) |
@@ -39,10 +43,6 @@
 | AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | B2B市场主管北欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10790/b2b-marketing-lead-nordics/) |
 | 高级前端工程经理 - 专业版 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11373/senior-engineering-manager-frontend-pro/) |
-| 欧洲、中东、非洲地区业务专员（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10389/account-associate-emea-french-speaking/) |
-| 欧洲中东欧地区（德语）客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10388/account-associate-emea-german-speaking/) |
-| EMEA客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10097/account-associate-emea/) |
-| B2B市场主管 - DACH | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10789/b2b-marketing-lead-dach/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-21 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
