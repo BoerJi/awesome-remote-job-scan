@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1869</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1878</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Communications Manager, Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/11390/communications-manager-monetization/) |
+| Strategic Program Manager, Office of the CRO | Hybrid | [View →](https://www.remotejobscan.com/job/11389/strategic-program-manager-office-of-the-cro/) |
+| Software Engineer, Compute Foundations Systems | On-site | [View →](https://www.remotejobscan.com/job/9932/software-engineer-compute-foundations-systems/) |
+| Senior Product Manager - Consumer | Remote | [View →](https://www.remotejobscan.com/job/11386/senior-product-manager-consumer/) |
+| Group Marketing Manager, Base Chain | Remote | [View →](https://www.remotejobscan.com/job/11385/group-marketing-manager-base-chain/) |
+| Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/11388/federal-account-director-intelligence-community/) |
+| Senior Accountant (India) | Remote | [View →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
+| Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
+| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | AI Accelerator Lead | Remote | [View →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
 | Research Scientist - Human Alignment, Consumer Devices | Hybrid | [View →](https://www.remotejobscan.com/job/10188/research-scientist-human-alignment-consumer-devices/) |
 | Release Management Engineer, Mobile | Remote | [View →](https://www.remotejobscan.com/job/11379/release-management-engineer-mobile/) |
@@ -33,16 +43,6 @@
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Senior Staff Software Engineer, Legal Automation | Remote | [View →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
-| Staff ML Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/9313/staff-ml-risk-analyst/) |
-| Staff Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11376/staff-application-security-engineer/) |
-| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| Financial Agent Algorithm Engineer 金融Agent算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/7370/financial-agent-algorithm-engineer-agent/) |
-| Institutional Business Development Manager (EU) | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-manager-eu/) |
-| Institutional Business Development Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/7357/institutional-business-development-manager-asia/) |
-| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
-| AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
-| B2B Marketing Lead Nordics | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-lead-nordics/) |
-| Senior Engineering Manager - Frontend - Pro | Remote | [View →](https://www.remotejobscan.com/job/11373/senior-engineering-manager-frontend-pro/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
