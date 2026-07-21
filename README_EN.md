@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>44</strong> companies · <strong>1918</strong> remote jobs · Updated every 30 min
+  📊 <strong>44</strong> companies · <strong>1912</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/11358/software-engineer-ads-integrity/) |
 | Staff Software Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/11356/staff-software-engineer-growth/) |
 | Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
@@ -42,7 +43,6 @@
 | Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
 | Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
 | Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| Startups Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9813/startups-program-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
