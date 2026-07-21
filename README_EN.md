@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1863</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1866</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9866/software-engineer-amsterdam/) |
+| Marketing Coordinator (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/9173/marketing-coordinator-predictions-partnerships/) |
+| Prediction Markets Operations Intern (Fall 2026) | On-site | [View →](https://www.remotejobscan.com/job/11377/prediction-markets-operations-intern-fall-2026/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Senior Staff Software Engineer, Legal Automation | Remote | [View →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
 | Staff ML Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/9313/staff-ml-risk-analyst/) |
 | Staff Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11376/staff-application-security-engineer/) |
@@ -38,11 +43,6 @@
 | Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/10388/account-associate-emea-german-speaking/) |
 | Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10097/account-associate-emea/) |
 | B2B Marketing Lead - DACH | Remote | [View →](https://www.remotejobscan.com/job/10789/b2b-marketing-lead-dach/) |
-| Wallet & Crypto Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11366/wallet-crypto-security-engineer/) |
-| Manager, Forward Deployed Engineer - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/11368/manager-forward-deployed-engineer-tokyo/) |
-| Engineering Director/Expert | On-site | [View →](https://www.remotejobscan.com/job/11365/engineering-directorexpert/) |
-| Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
-| Senior Research Scientist, Cohere Labs | Remote | [View →](https://www.remotejobscan.com/job/11364/senior-research-scientist-cohere-labs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
