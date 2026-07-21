@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1889</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1888</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/11406/senior-data-engineer/) |
+| Systems Integration Engineer, Build Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/11407/systems-integration-engineer-build-systems-consumer-devices/) |
+| Senior Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
+| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | Head of Revenue Accounting - Deal Desk & Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/11404/head-of-revenue-accounting-deal-desk-technical-accounting/) |
 | Head of Solutions Engineering | Remote | [View →](https://www.remotejobscan.com/job/11401/head-of-solutions-engineering/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
@@ -38,10 +42,6 @@
 | Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Research Scientist/Engineer, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
 | Technical Program Manager, AI Delivery for Public Sector & Defence, UK | Hybrid | [View →](https://www.remotejobscan.com/job/11395/technical-program-manager-ai-delivery-for-public-sector-defence-uk/) |
-| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
-| Security Operations Manager, Paris | Hybrid | [View →](https://www.remotejobscan.com/job/11392/security-operations-manager-paris/) |
-| Site Operations Technician | On-site | [View →](https://www.remotejobscan.com/job/11393/site-operations-technician/) |
-| Product Communications Manager, OSS | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-21 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
