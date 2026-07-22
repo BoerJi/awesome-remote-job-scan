@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1928</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1935</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 瑞士总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
+| EMEA商业销售总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
+| 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
+| VIP客户关系经理，CIS（俄语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
+| 高级VIP关系经理，中亚地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | 战略客户经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
+| AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
 | 战略客户经理 - 沙特阿拉伯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11451/strategic-account-executive-saudi-arabia/) |
 | 战略客户总监 - 荷兰 - 政府、医疗保健和公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11452/strategic-account-executive-netherlands-government-healthcare-utilities/) |
 | 战略客户总监 - 荷兰 - 金融服务与保险 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11450/strategic-account-executive-netherlands-financial-services-insurance/) |
@@ -36,12 +42,6 @@
 | 联盟BD经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | 欧洲南部合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
-| 非营利与教育领域的EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9612/sales-manager-nonprofit-education-emea/) |
-| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
-| 印度国家总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9205/country-director-india/) |
-| 币安加速器项目 - 全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
-| VIP客户关系管理专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
-| AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

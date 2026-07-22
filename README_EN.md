@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1928</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1935</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| General Manager - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
+| Director, Commercial Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
+| Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
+| VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
+| Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | Strategic Account Executive - UAE | Remote | [View →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
+| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
 | Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/11451/strategic-account-executive-saudi-arabia/) |
 | Strategic Account Executive - Netherlands - Government, Healthcare & Utilities | Remote | [View →](https://www.remotejobscan.com/job/11452/strategic-account-executive-netherlands-government-healthcare-utilities/) |
 | Strategic Account Executive - Netherlands - Financial Services & Insurance | Remote | [View →](https://www.remotejobscan.com/job/11450/strategic-account-executive-netherlands-financial-services-insurance/) |
@@ -36,12 +42,6 @@
 | Affiliate BD Manager | On-site | [View →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | Partnerships Lead Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
-| Sales Manager, Nonprofit & Education, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9612/sales-manager-nonprofit-education-emea/) |
-| Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
-| Country Director, India | Remote | [View →](https://www.remotejobscan.com/job/9205/country-director-india/) |
-| Binance Accelerator Program - Full Stack Engineer | Remote | [View →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
-| Specialist, VIP Customer Relationship Management | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
-| AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
