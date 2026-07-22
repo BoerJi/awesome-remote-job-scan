@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1916</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1915</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | Pioneer Talent Program - Full Stack Engineer (Front-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
 | Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | Senior Product Manager, Agent QA & Localization Quality | On-site | [View →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
-| Specialist, Customer Service (VIP, Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-customer-service-vip-mandarin-speaker/) |
 | Binance Accelerator Program - Global Swag | Remote | [View →](https://www.remotejobscan.com/job/11434/binance-accelerator-program-global-swag/) |
 | Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
 | AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11429/ai-success-engineer/) |
@@ -43,6 +42,7 @@
 | Technical Community Program Manager, Pro | Hybrid | [View →](https://www.remotejobscan.com/job/11424/technical-community-program-manager-pro/) |
 | Business Development Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
 | Field Security Specialist (Cyber Security Solutions Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
+| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 06:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 07:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

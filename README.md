@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1916</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1915</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | 先锋人才计划 - 全栈工程师（前端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
 | 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | 高级产品经理，代理质量保证与本地化质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
-| 客户服务专家（VIP，普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-customer-service-vip-mandarin-speaker/) |
 | Binance Accelerator Program - Global Swag | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11434/binance-accelerator-program-global-swag/) |
 | 客户尽职调查（KYB）运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
 | AI成功工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11429/ai-success-engineer/) |
@@ -43,6 +42,7 @@
 | 高级技术社区项目经理，Pro | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11424/technical-community-program-manager-pro/) |
 | 企业业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
 | 现场安全专家（网络安全解决方案工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
+| 办公IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 06:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 07:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
