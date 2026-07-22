@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of International Order-to-Cash | On-site | [View →](https://www.remotejobscan.com/job/11460/head-of-international-order-to-cash/) |
+| Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| Community Engagement Lead - Effingham County / Savannah MSA | Remote | [View →](https://www.remotejobscan.com/job/11459/community-engagement-lead-effingham-county-savannah-msa/) |
 | Head of Customer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/11457/head-of-customer-experience/) |
 | Senior Product Manager, Aqua | Hybrid | [View →](https://www.remotejobscan.com/job/11456/senior-product-manager-aqua/) |
 | General Manager - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
@@ -39,9 +42,6 @@
 | Strategic Account Executive - Denmark - Telecom, Infrastructure & Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11447/strategic-account-executive-denmark-telecom-infrastructure-public-sector/) |
 | Strategic Account Executive - Denmark - Consumer & Retail | Remote | [View →](https://www.remotejobscan.com/job/11446/strategic-account-executive-denmark-consumer-retail/) |
 | Internship in Localized Translation Project Management本地化翻译项目管理实习生 | Remote | [View →](https://www.remotejobscan.com/job/11444/internship-in-localized-translation-project-management/) |
-| Strategic Account Executive - Denmark - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11445/strategic-account-executive-denmark-financial-services/) |
-| Proprietary Trading Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/11443/proprietary-trading-business-development-lead/) |
-| Affiliate BD Manager | On-site | [View →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

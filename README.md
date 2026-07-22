@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 国际订单到回款负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11460/head-of-international-order-to-cash/) |
+| Financial Product Manager 金融产品经理（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| 社区参与主管 - 埃芬汉姆县 / 萨凡纳大都会区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11459/community-engagement-lead-effingham-county-savannah-msa/) |
 | 客户体验负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11457/head-of-customer-experience/) |
 | 高级产品经理，Aqua | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11456/senior-product-manager-aqua/) |
 | 瑞士总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
@@ -39,9 +42,6 @@
 | 战略客户总监 - 丹麦 - 电信、基础设施与公共部门 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11447/strategic-account-executive-denmark-telecom-infrastructure-public-sector/) |
 | 战略客户经理 - 丹麦 - 消费与零售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11446/strategic-account-executive-denmark-consumer-retail/) |
 | Internship in Localized Translation Project Management本地化翻译项目管理实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11444/internship-in-localized-translation-project-management/) |
-| 战略客户总监 - 丹麦 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11445/strategic-account-executive-denmark-financial-services/) |
-| 自营交易业务发展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11443/proprietary-trading-business-development-lead/) |
-| 联盟BD经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
