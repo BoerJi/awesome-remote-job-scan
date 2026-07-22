@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1962</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1965</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业高级顾问（机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
+| IT产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11488/product-manager-it/) |
+| 评估基础设施技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/evals-infrastructure-tech-lead-manager/) |
+| 合规工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11486/compliance-engineer/) |
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 应用AI架构师，州和地方政府 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
 | 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
@@ -38,10 +42,6 @@
 | 模拟基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11478/simulation-infrastructure-engineer/) |
 | 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 | 代理基础设施开发关系工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| 增长 - 数字营销（企业） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11476/growth-digital-marketing-enterprise/) |
-| 增长 - 数字营销（消费者） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11474/growth-digital-marketing-consumer/) |
-| 增长 - 数字营销（商业） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11475/growth-digital-marketing-business/) |
-| 增长营销 - 消费应用渠道 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11472/growth-marketing-consumer-app-channels/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

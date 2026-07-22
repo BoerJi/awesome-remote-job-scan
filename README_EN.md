@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1962</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1965</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Counsel, Commercial (Robotics) | On-site | [View →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
+| Product Manager, IT | Hybrid | [View →](https://www.remotejobscan.com/job/11488/product-manager-it/) |
+| Evals Infrastructure Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/evals-infrastructure-tech-lead-manager/) |
+| Compliance Engineer | Remote | [View →](https://www.remotejobscan.com/job/11486/compliance-engineer/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Applied AI Architect, State and Local Government | On-site | [View →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
 | Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
@@ -39,10 +43,6 @@
 | Simulation Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/11478/simulation-infrastructure-engineer/) |
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| Growth - Digital Marketing (Enterprise) | Hybrid | [View →](https://www.remotejobscan.com/job/11476/growth-digital-marketing-enterprise/) |
-| Growth - Digital Marketing (Consumer) | Hybrid | [View →](https://www.remotejobscan.com/job/11474/growth-digital-marketing-consumer/) |
-| Growth - Digital Marketing (Business) | Hybrid | [View →](https://www.remotejobscan.com/job/11475/growth-digital-marketing-business/) |
-| Growth Marketing - Consumer App Channels | Remote | [View →](https://www.remotejobscan.com/job/11472/growth-marketing-consumer-app-channels/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
