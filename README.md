@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1935</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1937</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户体验负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11457/head-of-customer-experience/) |
+| 高级产品经理，Aqua | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11456/senior-product-manager-aqua/) |
 | 瑞士总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
 | EMEA商业销售总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
 | 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
@@ -40,8 +42,6 @@
 | 战略客户总监 - 丹麦 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11445/strategic-account-executive-denmark-financial-services/) |
 | 自营交易业务发展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11443/proprietary-trading-business-development-lead/) |
 | 联盟BD经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
-| Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
-| 欧洲南部合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

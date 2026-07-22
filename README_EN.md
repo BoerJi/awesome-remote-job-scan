@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1935</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1937</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Customer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/11457/head-of-customer-experience/) |
+| Senior Product Manager, Aqua | Hybrid | [View →](https://www.remotejobscan.com/job/11456/senior-product-manager-aqua/) |
 | General Manager - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
 | Director, Commercial Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
 | Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
@@ -40,8 +42,6 @@
 | Strategic Account Executive - Denmark - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11445/strategic-account-executive-denmark-financial-services/) |
 | Proprietary Trading Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/11443/proprietary-trading-business-development-lead/) |
 | Affiliate BD Manager | On-site | [View →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
-| Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
-| Partnerships Lead Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
