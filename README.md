@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1901</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1914</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品和解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11138/product-and-solutions-marketing-manager/) |
+| 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst/) |
+| 区域威胁评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
+| [C] 数据工程师，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11421/c-data-engineer-safeguards/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
+| 高级技术社区项目经理，Pro | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11424/technical-community-program-manager-pro/) |
+| 企业业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
+| 现场安全专家（网络安全解决方案工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
+| 办公IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
+| 核心AI基础设施高级站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-site-reliability-engineer-core-ai-infrastructure/) |
+| 高级站点可靠性工程师，员工身份识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
+| [管线] 产品经理，研究（代码） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11420/pipeline-product-manager-research-code/) |
+| 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
 | 资金管理器，财务部 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11418/cash-manager-treasury/) |
 | 拉丁美洲GTM合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11415/head-of-gtm-partnerships-latam/) |
 | 解决方案架构高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11417/senior-manager-solutions-architecture/) |
 | 能源与公用事业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10830/senior-account-executive-energy-utilities/) |
 | 高级 HR 商业伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10920/senior-hr-business-partner/) |
-| 高级财务规划与分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10896/senior-manager-of-financial-planning-analysis/) |
-| 软件工程师，产品工程（内部应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11416/software-engineer-product-engineering-internal-apps/) |
-| 制造行业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10907/senior-account-executive-manufacturing/) |
-| 医疗与健康科学销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
-| 高级客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10922/senior-account-executive-healthcare-life-sciences/) |
-| 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10913/head-of-sales-enablement/) |
-| 高级客户总监 - 金融服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
-| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
-| GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
-| 高级合同与分析项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9271/senior-program-manager-contracts-analytics/) |
-| 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 机器学习基础设施工程师，安全防护研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11413/machine-learning-infrastructure-engineer-safeguards-research/) |
-| Staff软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
