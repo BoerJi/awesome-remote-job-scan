@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1921</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1922</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 先锋人才计划 - 全栈工程师（后端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11436/pioneer-talent-program-full-stack-engineer-back-end-oriented/) |
+| 先锋人才计划 - 全栈工程师（前端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
 | 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | 高级产品经理，代理质量保证与本地化质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
 | 客户服务专家（VIP，普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-customer-service-vip-mandarin-speaker/) |
@@ -41,7 +43,6 @@
 | 企业业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
 | 现场安全专家（网络安全解决方案工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
 | 办公IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
-| 核心AI基础设施高级站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-site-reliability-engineer-core-ai-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
