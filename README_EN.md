@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1921</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1923</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Manager, Nonprofit & Education, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9612/sales-manager-nonprofit-education-emea/) |
+| Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Country Director, India | Remote | [View →](https://www.remotejobscan.com/job/9205/country-director-india/) |
 | Binance Accelerator Program - Full Stack Engineer | Remote | [View →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
 | Specialist, VIP Customer Relationship Management | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
@@ -40,9 +42,6 @@
 | Binance Accelerator Program - Global Swag | Remote | [View →](https://www.remotejobscan.com/job/11434/binance-accelerator-program-global-swag/) |
 | Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
 | AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11429/ai-success-engineer/) |
-| AI Support Engineer, Biosciences - San Francisco | Hybrid | [View →](https://www.remotejobscan.com/job/11430/ai-support-engineer-biosciences-san-francisco/) |
-| Recruiting Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/11428/recruiting-solutions-engineer/) |
-| Research Scientist/Engineer, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
