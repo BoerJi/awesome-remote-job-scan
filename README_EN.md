@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1961</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1962</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Applied AI Architect, State and Local Government | On-site | [View →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
+| Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
 | AI Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/11483/ai-support-engineer-singapore/) |
 | Technical Revenue, Senior Manager - Strategic Commercial Deals | Hybrid | [View →](https://www.remotejobscan.com/job/11482/technical-revenue-senior-manager-strategic-commercial-deals/) |
 | Senior Site Reliability Engineer, Workforce Identity | Remote | [View →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
@@ -40,9 +43,6 @@
 | Growth - Digital Marketing (Consumer) | Hybrid | [View →](https://www.remotejobscan.com/job/11474/growth-digital-marketing-consumer/) |
 | Growth - Digital Marketing (Business) | Hybrid | [View →](https://www.remotejobscan.com/job/11475/growth-digital-marketing-business/) |
 | Growth Marketing - Consumer App Channels | Remote | [View →](https://www.remotejobscan.com/job/11472/growth-marketing-consumer-app-channels/) |
-| Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11421/data-engineer-safeguards/) |
-| Product Communications Manager, OSS | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
-| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

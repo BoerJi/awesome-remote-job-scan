@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1961</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1962</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 应用AI架构师，州和地方政府 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
+| 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
 | AI支持工程师 - 新加坡 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11483/ai-support-engineer-singapore/) |
 | 技术收入高级经理 - 战略商业交易 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11482/technical-revenue-senior-manager-strategic-commercial-deals/) |
 | 高级站点可靠性工程师，劳动力身份 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
@@ -39,9 +42,6 @@
 | 增长 - 数字营销（消费者） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11474/growth-digital-marketing-consumer/) |
 | 增长 - 数字营销（商业） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11475/growth-digital-marketing-business/) |
 | 增长营销 - 消费应用渠道 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11472/growth-marketing-consumer-app-channels/) |
-| 数据工程师，安全卫士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11421/data-engineer-safeguards/) |
-| OSS产品沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
-| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
