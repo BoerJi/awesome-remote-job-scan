@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1920</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1921</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Country Director, India | Remote | [View →](https://www.remotejobscan.com/job/9205/country-director-india/) |
+| Binance Accelerator Program - Full Stack Engineer | Remote | [View →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
 | Specialist, VIP Customer Relationship Management | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
 | AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11333/senior-marketing-manager/) |
@@ -41,8 +43,6 @@
 | AI Support Engineer, Biosciences - San Francisco | Hybrid | [View →](https://www.remotejobscan.com/job/11430/ai-support-engineer-biosciences-san-francisco/) |
 | Recruiting Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/11428/recruiting-solutions-engineer/) |
 | Research Scientist/Engineer, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
-| Product and Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/11138/product-and-solutions-marketing-manager/) |
-| Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

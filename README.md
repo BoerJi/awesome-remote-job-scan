@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1920</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1921</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 印度国家总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9205/country-director-india/) |
+| 币安加速器项目 - 全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
 | VIP客户关系管理专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
 | AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11333/senior-marketing-manager/) |
@@ -41,8 +43,6 @@
 | AI 支持工程师，生命科学 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11430/ai-support-engineer-biosciences-san-francisco/) |
 | 招聘解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11428/recruiting-solutions-engineer/) |
 | 生物安全研究员/工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
-| 产品和解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11138/product-and-solutions-marketing-manager/) |
-| 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
