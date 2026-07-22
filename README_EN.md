@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1922</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1916</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Pioneer Talent Program - Full Stack Engineer (AI) | Remote | [View →](https://www.remotejobscan.com/job/11437/pioneer-talent-program-full-stack-engineer-ai/) |
 | Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11436/pioneer-talent-program-full-stack-engineer-back-end-oriented/) |
 | Pioneer Talent Program - Full Stack Engineer (Front-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
 | Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
@@ -42,7 +43,6 @@
 | Technical Community Program Manager, Pro | Hybrid | [View →](https://www.remotejobscan.com/job/11424/technical-community-program-manager-pro/) |
 | Business Development Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
 | Field Security Specialist (Cyber Security Solutions Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
-| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
