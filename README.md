@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1943</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1937</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -39,10 +39,10 @@
 | 高级产品经理，Aqua | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11456/senior-product-manager-aqua/) |
 | 瑞士总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
 | EMEA商业销售总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
-| 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
 | VIP客户关系经理，CIS（俄语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
 | 高级VIP关系经理，中亚地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | 战略客户经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
+| AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 16:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 17:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

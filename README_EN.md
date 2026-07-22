@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1943</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1937</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -39,10 +39,10 @@
 | Senior Product Manager, Aqua | Hybrid | [View →](https://www.remotejobscan.com/job/11456/senior-product-manager-aqua/) |
 | General Manager - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/11455/general-manager-switzerland/) |
 | Director, Commercial Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
-| Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
 | VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
 | Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | Strategic Account Executive - UAE | Remote | [View →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
+| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 16:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 17:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
