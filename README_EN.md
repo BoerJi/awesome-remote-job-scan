@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1923</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1928</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive - UAE | Remote | [View →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
+| Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/11451/strategic-account-executive-saudi-arabia/) |
+| Strategic Account Executive - Netherlands - Government, Healthcare & Utilities | Remote | [View →](https://www.remotejobscan.com/job/11452/strategic-account-executive-netherlands-government-healthcare-utilities/) |
+| Strategic Account Executive - Netherlands - Financial Services & Insurance | Remote | [View →](https://www.remotejobscan.com/job/11450/strategic-account-executive-netherlands-financial-services-insurance/) |
+| General Manager - Denmark | Remote | [View →](https://www.remotejobscan.com/job/11448/general-manager-denmark/) |
+| Strategic Account Executive - Denmark - Telecom, Infrastructure & Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11447/strategic-account-executive-denmark-telecom-infrastructure-public-sector/) |
+| Strategic Account Executive - Denmark - Consumer & Retail | Remote | [View →](https://www.remotejobscan.com/job/11446/strategic-account-executive-denmark-consumer-retail/) |
+| Internship in Localized Translation Project Management本地化翻译项目管理实习生 | Remote | [View →](https://www.remotejobscan.com/job/11444/internship-in-localized-translation-project-management/) |
+| Strategic Account Executive - Denmark - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11445/strategic-account-executive-denmark-financial-services/) |
+| Proprietary Trading Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/11443/proprietary-trading-business-development-lead/) |
 | Affiliate BD Manager | On-site | [View →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | Partnerships Lead Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
@@ -32,16 +42,6 @@
 | Binance Accelerator Program - Full Stack Engineer | Remote | [View →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
 | Specialist, VIP Customer Relationship Management | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
 | AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
-| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11333/senior-marketing-manager/) |
-| KOL BD Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-bd-manager-turkey/) |
-| Product & Strategy Director | On-site | [View →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
-| Product & Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/11438/product-strategy-lead/) |
-| Binance Accelerator Program - Full Stack Engineer (AI) | Remote | [View →](https://www.remotejobscan.com/job/11439/binance-accelerator-program-full-stack-engineer-ai/) |
-| Pioneer Talent Program - Full Stack Engineer (AI) | Remote | [View →](https://www.remotejobscan.com/job/11437/pioneer-talent-program-full-stack-engineer-ai/) |
-| Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11436/pioneer-talent-program-full-stack-engineer-back-end-oriented/) |
-| Pioneer Talent Program - Full Stack Engineer (Front-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
-| Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
-| Senior Product Manager, Agent QA & Localization Quality | On-site | [View →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

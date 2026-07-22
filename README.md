@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1923</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1928</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略客户经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
+| 战略客户经理 - 沙特阿拉伯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11451/strategic-account-executive-saudi-arabia/) |
+| 战略客户总监 - 荷兰 - 政府、医疗保健和公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11452/strategic-account-executive-netherlands-government-healthcare-utilities/) |
+| 战略客户总监 - 荷兰 - 金融服务与保险 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11450/strategic-account-executive-netherlands-financial-services-insurance/) |
+| 丹麦总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11448/general-manager-denmark/) |
+| 战略客户总监 - 丹麦 - 电信、基础设施与公共部门 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11447/strategic-account-executive-denmark-telecom-infrastructure-public-sector/) |
+| 战略客户经理 - 丹麦 - 消费与零售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11446/strategic-account-executive-denmark-consumer-retail/) |
+| Internship in Localized Translation Project Management本地化翻译项目管理实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11444/internship-in-localized-translation-project-management/) |
+| 战略客户总监 - 丹麦 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11445/strategic-account-executive-denmark-financial-services/) |
+| 自营交易业务发展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11443/proprietary-trading-business-development-lead/) |
 | 联盟BD经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | 欧洲南部合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
@@ -32,16 +42,6 @@
 | 币安加速器项目 - 全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11440/binance-accelerator-program-full-stack-engineer/) |
 | VIP客户关系管理专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
 | AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
-| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11333/senior-marketing-manager/) |
-| KOL BD经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-bd-manager-turkey/) |
-| 产品与战略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
-| 产品与战略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11438/product-strategy-lead/) |
-| 币安加速器计划 - 全栈工程师（AI） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11439/binance-accelerator-program-full-stack-engineer-ai/) |
-| 先锋人才计划 - 全栈工程师（AI） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11437/pioneer-talent-program-full-stack-engineer-ai/) |
-| 先锋人才计划 - 全栈工程师（后端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11436/pioneer-talent-program-full-stack-engineer-back-end-oriented/) |
-| 先锋人才计划 - 全栈工程师（前端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
-| 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
-| 高级产品经理，代理质量保证与本地化质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
