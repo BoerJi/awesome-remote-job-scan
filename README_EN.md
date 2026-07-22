@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>1979</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1961</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,30 +23,31 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
-| Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
-| Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
-| Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
-| Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
-| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
-| Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
-| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
-| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
-| Research Analyst Intern | Remote | [View →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
-| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
-| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
-| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
-| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| AI Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/11483/ai-support-engineer-singapore/) |
+| Technical Revenue, Senior Manager - Strategic Commercial Deals | Hybrid | [View →](https://www.remotejobscan.com/job/11482/technical-revenue-senior-manager-strategic-commercial-deals/) |
+| Senior Site Reliability Engineer, Workforce Identity | Remote | [View →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
+| Data Center Compute: Open-House Savannah 2026 | Remote | [View →](https://www.remotejobscan.com/job/11480/data-center-compute-open-house-savannah-2026/) |
+| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
+| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
+| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
+| Strategic Pursuits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11481/strategic-pursuits-lead/) |
+| People Research Scientist, Recruiting | On-site | [View →](https://www.remotejobscan.com/job/11479/people-research-scientist-recruiting/) |
+| Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
+| Simulation Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/11478/simulation-infrastructure-engineer/) |
+| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| Growth - Digital Marketing (Enterprise) | Hybrid | [View →](https://www.remotejobscan.com/job/11476/growth-digital-marketing-enterprise/) |
+| Growth - Digital Marketing (Consumer) | Hybrid | [View →](https://www.remotejobscan.com/job/11474/growth-digital-marketing-consumer/) |
+| Growth - Digital Marketing (Business) | Hybrid | [View →](https://www.remotejobscan.com/job/11475/growth-digital-marketing-business/) |
+| Growth Marketing - Consumer App Channels | Remote | [View →](https://www.remotejobscan.com/job/11472/growth-marketing-consumer-app-channels/) |
+| Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11421/data-engineer-safeguards/) |
+| Product Communications Manager, OSS | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager-oss/) |
+| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（46 companies）
+## 🏢 Companies Tracked（45 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -56,7 +57,6 @@
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [View jobs →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
-| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
