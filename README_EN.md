@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1976</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1977</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Program Manager, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
 | Help Desk Technician | Hybrid | [View →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
@@ -41,7 +42,6 @@
 | Compliance Engineer | Remote | [View →](https://www.remotejobscan.com/job/11486/compliance-engineer/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Applied AI Architect, State and Local Government | On-site | [View →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
-| Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
