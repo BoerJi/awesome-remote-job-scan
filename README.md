@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1965</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1976</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 软件工程师，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
+| 帮助台技术员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
+| 技术文档撰写者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11134/technical-docs-writer/) |
+| Staff+ 软件工程师，企业AI产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11497/staff-software-engineer-enterprise-ai-products/) |
+| 技术招聘者，基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11492/technical-recruiter-infrastructure/) |
+| 安全技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11491/senior-software-engineer/) |
+| KOL负责人 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11494/head-of-kol-kraken-pro/) |
+| Kraken Pro意见领袖负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11495/head-of-kol-kraken-pro/) |
+| 合规工程师实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11493/compliance-engineer-intern/) |
+| 高级AI平台与代理基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11490/senior-ai-platform-agentic-infrastructure-engineer/) |
+| 高级AI全栈/应用工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11489/senior-ai-full-stack-applications-engineer/) |
 | 商业高级顾问（机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
 | IT产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11488/product-manager-it/) |
 | 评估基础设施技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/evals-infrastructure-tech-lead-manager/) |
@@ -30,18 +43,6 @@
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 应用AI架构师，州和地方政府 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
 | 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
-| AI支持工程师 - 新加坡 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11483/ai-support-engineer-singapore/) |
-| 技术收入高级经理 - 战略商业交易 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11482/technical-revenue-senior-manager-strategic-commercial-deals/) |
-| 高级站点可靠性工程师，劳动力身份 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
-| 数据中心计算：2026年萨凡纳开放日 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11480/data-center-compute-open-house-savannah-2026/) |
-| 平台安全高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| 战略追求主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11481/strategic-pursuits-lead/) |
-| 人才研究科学家，招聘 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11479/people-research-scientist-recruiting/) |
-| 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| 模拟基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11478/simulation-infrastructure-engineer/) |
-| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| 代理基础设施开发关系工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

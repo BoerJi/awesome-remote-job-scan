@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1965</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1976</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
+| Help Desk Technician | Hybrid | [View →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
+| Technical Docs Writer | Remote | [View →](https://www.remotejobscan.com/job/11134/technical-docs-writer/) |
+| Staff+ Software Engineer, Enterprise AI Products | On-site | [View →](https://www.remotejobscan.com/job/11497/staff-software-engineer-enterprise-ai-products/) |
+| Technical Recruiter, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11492/technical-recruiter-infrastructure/) |
+| Technical Recruiter, Security | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11491/senior-software-engineer/) |
+| Head of KOL - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/11494/head-of-kol-kraken-pro/) |
+| Compliance Engineer Intern | Remote | [View →](https://www.remotejobscan.com/job/11493/compliance-engineer-intern/) |
+| Senior AI Platform & Agentic Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/11490/senior-ai-platform-agentic-infrastructure-engineer/) |
+| Senior AI Full-Stack / Applications Engineer | On-site | [View →](https://www.remotejobscan.com/job/11489/senior-ai-full-stack-applications-engineer/) |
 | Senior Counsel, Commercial (Robotics) | On-site | [View →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
 | Product Manager, IT | Hybrid | [View →](https://www.remotejobscan.com/job/11488/product-manager-it/) |
 | Evals Infrastructure Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/evals-infrastructure-tech-lead-manager/) |
@@ -30,19 +42,6 @@
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Applied AI Architect, State and Local Government | On-site | [View →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
 | Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11484/staff-software-engineer-full-stack/) |
-| AI Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/11483/ai-support-engineer-singapore/) |
-| Technical Revenue, Senior Manager - Strategic Commercial Deals | Hybrid | [View →](https://www.remotejobscan.com/job/11482/technical-revenue-senior-manager-strategic-commercial-deals/) |
-| Senior Site Reliability Engineer, Workforce Identity | Remote | [View →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
-| Data Center Compute: Open-House Savannah 2026 | Remote | [View →](https://www.remotejobscan.com/job/11480/data-center-compute-open-house-savannah-2026/) |
-| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
-| Strategic Pursuits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11481/strategic-pursuits-lead/) |
-| People Research Scientist, Recruiting | On-site | [View →](https://www.remotejobscan.com/job/11479/people-research-scientist-recruiting/) |
-| Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| Simulation Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/11478/simulation-infrastructure-engineer/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
