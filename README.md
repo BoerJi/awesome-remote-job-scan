@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1937</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1943</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 生命科学领域前派驻工程师（FDE）经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11465/manager-forward-deployed-engineer-fde-life-sciences/) |
+| 外包与第三方风险管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8568/outsourcing-third-party-risk-manager/) |
+| 研究工程师/科学家，个人AGI模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11466/research-engineerresearch-scientist-personal-agi-model-experience/) |
+| 高级Staff软件工程师，金融自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/senior-staff-software-engineer-finance-automation/) |
+| 高级经理，财务系统 - 银行间市场 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11464/senior-manager-finance-systems-treasury/) |
+| 收入会计负责人 - 交易台与技术会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11404/head-of-revenue-accounting-deal-desk-technical-accounting/) |
+| AI转型高级创新主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11462/executive-innovation-lead-ai-transformation/) |
+| 高级Staff软件工程师，支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9298/senior-staff-software-engineer-payments/) |
+| 高级Staff软件工程师，法律自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
 | 国际订单到回款负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11460/head-of-international-order-to-cash/) |
 | Financial Product Manager 金融产品经理（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | 社区参与主管 - 埃芬汉姆县 / 萨凡纳大都会区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11459/community-engagement-lead-effingham-county-savannah-msa/) |
@@ -34,14 +43,6 @@
 | VIP客户关系经理，CIS（俄语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
 | 高级VIP关系经理，中亚地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | 战略客户经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
-| AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
-| 战略客户经理 - 沙特阿拉伯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11451/strategic-account-executive-saudi-arabia/) |
-| 战略客户总监 - 荷兰 - 政府、医疗保健和公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11452/strategic-account-executive-netherlands-government-healthcare-utilities/) |
-| 战略客户总监 - 荷兰 - 金融服务与保险 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11450/strategic-account-executive-netherlands-financial-services-insurance/) |
-| 丹麦总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11448/general-manager-denmark/) |
-| 战略客户总监 - 丹麦 - 电信、基础设施与公共部门 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11447/strategic-account-executive-denmark-telecom-infrastructure-public-sector/) |
-| 战略客户经理 - 丹麦 - 消费与零售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11446/strategic-account-executive-denmark-consumer-retail/) |
-| Internship in Localized Translation Project Management本地化翻译项目管理实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11444/internship-in-localized-translation-project-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

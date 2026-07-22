@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1937</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1943</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineer (FDE), Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/11465/manager-forward-deployed-engineer-fde-life-sciences/) |
+| Outsourcing & Third Party Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/8568/outsourcing-third-party-risk-manager/) |
+| Research Engineer/Research Scientist, Personal AGI-Model Experience | On-site | [View →](https://www.remotejobscan.com/job/11466/research-engineerresearch-scientist-personal-agi-model-experience/) |
+| Senior Staff Software Engineer, Finance Automation | Remote | [View →](https://www.remotejobscan.com/job/11463/senior-staff-software-engineer-finance-automation/) |
+| Senior Manager, Finance Systems - Treasury | On-site | [View →](https://www.remotejobscan.com/job/11464/senior-manager-finance-systems-treasury/) |
+| Head of Revenue Accounting - Deal Desk & Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/11404/head-of-revenue-accounting-deal-desk-technical-accounting/) |
+| Executive Innovation Lead, AI Transformation | Hybrid | [View →](https://www.remotejobscan.com/job/11462/executive-innovation-lead-ai-transformation/) |
+| Senior Staff Software Engineer, Payments | Remote | [View →](https://www.remotejobscan.com/job/9298/senior-staff-software-engineer-payments/) |
+| Senior Staff Software Engineer, Legal Automation | Remote | [View →](https://www.remotejobscan.com/job/9296/senior-staff-software-engineer-legal-automation/) |
 | Head of International Order-to-Cash | On-site | [View →](https://www.remotejobscan.com/job/11460/head-of-international-order-to-cash/) |
 | Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Community Engagement Lead - Effingham County / Savannah MSA | Remote | [View →](https://www.remotejobscan.com/job/11459/community-engagement-lead-effingham-county-savannah-msa/) |
@@ -34,14 +43,6 @@
 | VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
 | Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | Strategic Account Executive - UAE | Remote | [View →](https://www.remotejobscan.com/job/11449/strategic-account-executive-uae/) |
-| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
-| Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/11451/strategic-account-executive-saudi-arabia/) |
-| Strategic Account Executive - Netherlands - Government, Healthcare & Utilities | Remote | [View →](https://www.remotejobscan.com/job/11452/strategic-account-executive-netherlands-government-healthcare-utilities/) |
-| Strategic Account Executive - Netherlands - Financial Services & Insurance | Remote | [View →](https://www.remotejobscan.com/job/11450/strategic-account-executive-netherlands-financial-services-insurance/) |
-| General Manager - Denmark | Remote | [View →](https://www.remotejobscan.com/job/11448/general-manager-denmark/) |
-| Strategic Account Executive - Denmark - Telecom, Infrastructure & Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11447/strategic-account-executive-denmark-telecom-infrastructure-public-sector/) |
-| Strategic Account Executive - Denmark - Consumer & Retail | Remote | [View →](https://www.remotejobscan.com/job/11446/strategic-account-executive-denmark-consumer-retail/) |
-| Internship in Localized Translation Project Management本地化翻译项目管理实习生 | Remote | [View →](https://www.remotejobscan.com/job/11444/internship-in-localized-translation-project-management/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
