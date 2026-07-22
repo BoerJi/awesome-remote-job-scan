@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1923</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1925</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 联盟BD经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
+| Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
+| 欧洲南部合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
 | 非营利与教育领域的EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9612/sales-manager-nonprofit-education-emea/) |
 | 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | 印度国家总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9205/country-director-india/) |
@@ -39,9 +42,6 @@
 | 先锋人才计划 - 全栈工程师（前端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
 | 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | 高级产品经理，代理质量保证与本地化质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
-| Binance Accelerator Program - Global Swag | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11434/binance-accelerator-program-global-swag/) |
-| 客户尽职调查（KYB）运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
-| AI成功工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11429/ai-success-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

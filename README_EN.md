@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1923</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1925</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Affiliate BD Manager | On-site | [View →](https://www.remotejobscan.com/job/11442/affiliate-bd-manager/) |
+| Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
+| Partnerships Lead Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/9514/partnerships-lead-southern-europe/) |
 | Sales Manager, Nonprofit & Education, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9612/sales-manager-nonprofit-education-emea/) |
 | Manager, Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/9490/manager-account-executives-startups/) |
 | Country Director, India | Remote | [View →](https://www.remotejobscan.com/job/9205/country-director-india/) |
@@ -39,9 +42,6 @@
 | Pioneer Talent Program - Full Stack Engineer (Front-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
 | Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | Senior Product Manager, Agent QA & Localization Quality | On-site | [View →](https://www.remotejobscan.com/job/11433/senior-product-manager-agent-qa-localization-quality/) |
-| Binance Accelerator Program - Global Swag | Remote | [View →](https://www.remotejobscan.com/job/11434/binance-accelerator-program-global-swag/) |
-| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
-| AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11429/ai-success-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
