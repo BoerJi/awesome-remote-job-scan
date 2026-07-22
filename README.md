@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1918</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1919</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户服务专家（VIP，普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-customer-service-vip-mandarin-speaker/) |
 | 客户尽职调查（KYB）运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
 | AI成功工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11429/ai-success-engineer/) |
 | AI 支持工程师，生命科学 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11430/ai-support-engineer-biosciences-san-francisco/) |
@@ -41,7 +42,6 @@
 | 高级站点可靠性工程师，员工身份识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9273/senior-site-reliability-engineer-workforce-identity/) |
 | [管线] 产品经理，研究（代码） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11420/pipeline-product-manager-research-code/) |
 | 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
