@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1915</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1920</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP客户关系管理专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
+| AI Algorithm leader AI算法leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
+| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11333/senior-marketing-manager/) |
+| KOL BD经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-bd-manager-turkey/) |
+| 产品与战略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
+| 产品与战略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11438/product-strategy-lead/) |
+| 币安加速器计划 - 全栈工程师（AI） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11439/binance-accelerator-program-full-stack-engineer-ai/) |
 | 先锋人才计划 - 全栈工程师（AI） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11437/pioneer-talent-program-full-stack-engineer-ai/) |
 | 先锋人才计划 - 全栈工程师（后端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11436/pioneer-talent-program-full-stack-engineer-back-end-oriented/) |
 | 先锋人才计划 - 全栈工程师（前端导向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
@@ -36,13 +43,6 @@
 | 生物安全研究员/工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
 | 产品和解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11138/product-and-solutions-marketing-manager/) |
 | 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst/) |
-| 区域威胁评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
-| [C] 数据工程师，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11421/c-data-engineer-safeguards/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
-| 高级技术社区项目经理，Pro | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11424/technical-community-program-manager-pro/) |
-| 企业业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
-| 现场安全专家（网络安全解决方案工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
-| 办公IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-22 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

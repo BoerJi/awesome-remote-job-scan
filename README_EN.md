@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1915</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1920</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, VIP Customer Relationship Management | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management/) |
+| AI Algorithm leader AI算法leader | Remote | [View →](https://www.remotejobscan.com/job/11363/ai-algorithm-leader-aileader/) |
+| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11333/senior-marketing-manager/) |
+| KOL BD Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-bd-manager-turkey/) |
+| Product & Strategy Director | On-site | [View →](https://www.remotejobscan.com/job/11298/product-strategy-director/) |
+| Product & Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/11438/product-strategy-lead/) |
+| Binance Accelerator Program - Full Stack Engineer (AI) | Remote | [View →](https://www.remotejobscan.com/job/11439/binance-accelerator-program-full-stack-engineer-ai/) |
 | Pioneer Talent Program - Full Stack Engineer (AI) | Remote | [View →](https://www.remotejobscan.com/job/11437/pioneer-talent-program-full-stack-engineer-ai/) |
 | Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11436/pioneer-talent-program-full-stack-engineer-back-end-oriented/) |
 | Pioneer Talent Program - Full Stack Engineer (Front-end Oriented) | Remote | [View →](https://www.remotejobscan.com/job/11435/pioneer-talent-program-full-stack-engineer-front-end-oriented/) |
@@ -36,13 +43,6 @@
 | Research Scientist/Engineer, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/9361/research-scientistengineer-biological-safety/) |
 | Product and Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/11138/product-and-solutions-marketing-manager/) |
 | Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst/) |
-| Regional Threat Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
-| [C] Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11421/c-data-engineer-safeguards/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
-| Technical Community Program Manager, Pro | Hybrid | [View →](https://www.remotejobscan.com/job/11424/technical-community-program-manager-pro/) |
-| Business Development Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11425/business-development-lead-enterprise/) |
-| Field Security Specialist (Cyber Security Solutions Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/11423/field-security-specialist-cyber-security-solutions-engineer/) |
-| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-22 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
