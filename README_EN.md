@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1981</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1985</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Americas Regional Chief Information Security Officer (CISO) | On-site | [View →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
+| Extended Workforce Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
+| Content Lead | On-site | [View →](https://www.remotejobscan.com/job/11132/content-lead/) |
 | Account Director, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/11506/account-director-retail/) |
 | Third Party Risk Analyst, Security GRC | Remote | [View →](https://www.remotejobscan.com/job/11505/third-party-risk-analyst-security-grc/) |
 | Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
@@ -39,9 +42,6 @@
 | Technical Docs Writer | Remote | [View →](https://www.remotejobscan.com/job/11134/technical-docs-writer/) |
 | Staff+ Software Engineer, Enterprise AI Products | On-site | [View →](https://www.remotejobscan.com/job/11497/staff-software-engineer-enterprise-ai-products/) |
 | Technical Recruiter, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11492/technical-recruiter-infrastructure/) |
-| Technical Recruiter, Security | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11491/senior-software-engineer/) |
-| Head of KOL - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/11494/head-of-kol-kraken-pro/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
