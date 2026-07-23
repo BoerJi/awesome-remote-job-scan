@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1985</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1987</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regional Threat Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
+| Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
 | Americas Regional Chief Information Security Officer (CISO) | On-site | [View →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
 | Extended Workforce Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
@@ -40,8 +42,6 @@
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
 | Help Desk Technician | Hybrid | [View →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
-| Technical Docs Writer | Remote | [View →](https://www.remotejobscan.com/job/11134/technical-docs-writer/) |
-| Staff+ Software Engineer, Enterprise AI Products | On-site | [View →](https://www.remotejobscan.com/job/11497/staff-software-engineer-enterprise-ai-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
