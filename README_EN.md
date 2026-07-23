@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2007</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2009</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Occupancy Planning Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
+| Lead, Benefits | Remote | [View →](https://www.remotejobscan.com/job/11542/lead-benefits/) |
+| Senior Product Manager, Spot Trading | Remote | [View →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
+| Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/11541/data-platform-engineer/) |
 | Director, Paid Marketing | Remote | [View →](https://www.remotejobscan.com/job/11537/director-paid-marketing/) |
 | Senior Brand Designer | Remote | [View →](https://www.remotejobscan.com/job/11535/senior-brand-designer/) |
 | Account Executive - Nordics - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11534/account-executive-nordics-mid-market/) |
@@ -37,10 +41,6 @@
 | Binance Accelerator Program - QA | Remote | [View →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
 | Data Scientist, North Insights | Hybrid | [View →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
 | Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
-| Snr QA Automation Engineer - Pro | Remote | [View →](https://www.remotejobscan.com/job/11521/snr-qa-automation-engineer-pro/) |
-| Change Oversight and Licence Strategy Manager | Remote | [View →](https://www.remotejobscan.com/job/8396/change-oversight-and-licence-strategy-manager/) |
-| API Tech Support API- European time zones AP技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
-| QA Engineer (Frontend, Mobile, Java) - Trading | Remote | [View →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
