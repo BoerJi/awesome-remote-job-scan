@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1978</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1981</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/11506/account-director-retail/) |
+| Third Party Risk Analyst, Security GRC | Remote | [View →](https://www.remotejobscan.com/job/11505/third-party-risk-analyst-security-grc/) |
+| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
 | Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
 | GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
 | Offensive Security Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/11503/offensive-security-agent-engineer/) |
@@ -38,10 +42,6 @@
 | Technical Recruiter, Security | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter-security/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11491/senior-software-engineer/) |
 | Head of KOL - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/11494/head-of-kol-kraken-pro/) |
-| Compliance Engineer Intern | Remote | [View →](https://www.remotejobscan.com/job/11493/compliance-engineer-intern/) |
-| Senior AI Platform & Agentic Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/11490/senior-ai-platform-agentic-infrastructure-engineer/) |
-| Senior AI Full-Stack / Applications Engineer | On-site | [View →](https://www.remotejobscan.com/job/11489/senior-ai-full-stack-applications-engineer/) |
-| Senior Counsel, Commercial (Robotics) | On-site | [View →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

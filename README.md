@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1978</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1981</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 零售业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11506/account-director-retail/) |
+| 第三方风险分析师，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11505/third-party-risk-analyst-security-grc/) |
+| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
 | IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
 | 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
 | 进攻性安全代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11503/offensive-security-agent-engineer/) |
@@ -39,10 +42,6 @@
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11491/senior-software-engineer/) |
 | KOL负责人 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11494/head-of-kol-kraken-pro/) |
 | Kraken Pro意见领袖负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11495/head-of-kol-kraken-pro/) |
-| 合规工程师实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11493/compliance-engineer-intern/) |
-| 高级AI平台与代理基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11490/senior-ai-platform-agentic-infrastructure-engineer/) |
-| 高级AI全栈/应用工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11489/senior-ai-full-stack-applications-engineer/) |
-| 商业高级顾问（机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
