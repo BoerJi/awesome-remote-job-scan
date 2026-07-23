@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>2003</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>2005</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11535/senior-brand-designer/) |
+| 北欧区中市场客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11534/account-executive-nordics-mid-market/) |
+| 国际客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11532/head-of-international-customer-success/) |
 | Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | 前端技术负责人（AI Agent） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
 | 高级客户经理 - GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
@@ -39,9 +42,6 @@
 | QA工程师（前端、移动端、Java）- 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 | 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
 | 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
-| Wealth Products and Structured Products Analyst 理财及结构化产品分析师（校招） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11518/wealth-products-and-structured-products-analyst/) |
-| FinHub (Ledger) 背景开发高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
-| 产品支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2003</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2005</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Brand Designer | Remote | [View →](https://www.remotejobscan.com/job/11535/senior-brand-designer/) |
+| Account Executive - Nordics - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11534/account-executive-nordics-mid-market/) |
+| Head of International Customer Success | On-site | [View →](https://www.remotejobscan.com/job/11532/head-of-international-customer-success/) |
 | Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | Frontend Tech lead ( AI Agent) | Hybrid | [View →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
@@ -39,9 +42,6 @@
 | QA Engineer (Frontend, Mobile, Java) - Trading | Remote | [View →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 | Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
 | Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
-| Wealth Products and Structured Products Analyst 理财及结构化产品分析师（校招） | Remote | [View →](https://www.remotejobscan.com/job/11518/wealth-products-and-structured-products-analyst/) |
-| Staff Software Engineer, Backend - FinHub (Ledger) | Remote | [View →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
-| Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
