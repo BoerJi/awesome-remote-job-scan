@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| API Tech Support API- European time zones AP技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
 | QA工程师（前端、移动端、Java）- 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 | 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
 | 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
@@ -41,7 +42,6 @@
 | 第三方风险分析师，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11505/third-party-risk-analyst-security-grc/) |
 | 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
 | IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
-| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

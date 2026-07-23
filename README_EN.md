@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| API Tech Support API- European time zones AP技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
 | QA Engineer (Frontend, Mobile, Java) - Trading | Remote | [View →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 | Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
 | Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
@@ -41,7 +42,6 @@
 | Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
 | Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
 | Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
-| GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
