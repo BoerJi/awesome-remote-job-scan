@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1986</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1989</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
+| Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
+| Wealth Products and Structured Products Analyst 理财及结构化产品分析师（校招） | Remote | [View →](https://www.remotejobscan.com/job/11518/wealth-products-and-structured-products-analyst/) |
 | Staff Software Engineer, Backend - FinHub (Ledger) | Remote | [View →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 | Product Designer | On-site | [View →](https://www.remotejobscan.com/job/11513/product-designer/) |
@@ -39,9 +42,6 @@
 | Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
 | GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
 | Offensive Security Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/11503/offensive-security-agent-engineer/) |
-| Associate Manager, Premium & Wealth | Hybrid | [View →](https://www.remotejobscan.com/job/11500/associate-manager-premium-wealth/) |
-| AWS Specialist Sellers, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
-| Technical Program Manager, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

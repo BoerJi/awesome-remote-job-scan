@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1986</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1989</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
+| 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
+| Wealth Products and Structured Products Analyst 理财及结构化产品分析师（校招） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11518/wealth-products-and-structured-products-analyst/) |
 | FinHub (Ledger) 背景开发高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | 产品支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 | 产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11513/product-designer/) |
@@ -39,9 +42,6 @@
 | IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
 | 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
 | 进攻性安全代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11503/offensive-security-agent-engineer/) |
-| 高级经理，高端与财富管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11500/associate-manager-premium-wealth/) |
-| AWS战略业务拓展专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
-| GTM系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
