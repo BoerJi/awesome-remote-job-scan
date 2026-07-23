@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1987</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1986</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
+| Product Designer | On-site | [View →](https://www.remotejobscan.com/job/11513/product-designer/) |
 | Regional Threat Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
 | Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
 | AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
@@ -40,8 +42,6 @@
 | AWS Specialist Sellers, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
 | Technical Program Manager, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
-| Help Desk Technician | Hybrid | [View →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
