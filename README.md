@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>2001</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>2003</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
+| 前端技术负责人（AI Agent） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
 | 高级客户经理 - GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
 | 高级SOX审计师 - 业务流程控制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11529/senior-sox-auditor-business-process-controls/) |
@@ -31,7 +33,6 @@
 | 币安加速器项目 - 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
 | 数据科学家，北洞察 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
 | 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
-| 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/job-11524/) |
 | 高级QA自动化工程师 - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11521/snr-qa-automation-engineer-pro/) |
 | 变更监督与许可证策略经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8396/change-oversight-and-licence-strategy-manager/) |
 | API Tech Support API- European time zones AP技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
@@ -41,7 +42,6 @@
 | Wealth Products and Structured Products Analyst 理财及结构化产品分析师（校招） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11518/wealth-products-and-structured-products-analyst/) |
 | FinHub (Ledger) 背景开发高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | 产品支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
-| 产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11513/product-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

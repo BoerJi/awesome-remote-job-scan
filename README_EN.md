@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2001</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2003</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
+| Frontend Tech lead ( AI Agent) | Hybrid | [View →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | Remote | [View →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
 | Senior SOX Auditor - Business Process Controls | Remote | [View →](https://www.remotejobscan.com/job/11529/senior-sox-auditor-business-process-controls/) |
@@ -31,7 +33,6 @@
 | Binance Accelerator Program - QA | Remote | [View →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
 | Data Scientist, North Insights | Hybrid | [View →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
 | Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
-| 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/job-11524/) |
 | Snr QA Automation Engineer - Pro | Remote | [View →](https://www.remotejobscan.com/job/11521/snr-qa-automation-engineer-pro/) |
 | Change Oversight and Licence Strategy Manager | Remote | [View →](https://www.remotejobscan.com/job/8396/change-oversight-and-licence-strategy-manager/) |
 | API Tech Support API- European time zones AP技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
@@ -41,7 +42,6 @@
 | Wealth Products and Structured Products Analyst 理财及结构化产品分析师（校招） | Remote | [View →](https://www.remotejobscan.com/job/11518/wealth-products-and-structured-products-analyst/) |
 | Staff Software Engineer, Backend - FinHub (Ledger) | Remote | [View →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
-| Product Designer | On-site | [View →](https://www.remotejobscan.com/job/11513/product-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
