@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1976</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1978</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
+| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
+| 进攻性安全代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11503/offensive-security-agent-engineer/) |
+| 高级经理，高端与财富管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11500/associate-manager-premium-wealth/) |
+| AWS战略业务拓展专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
 | GTM系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
 | Staff+ 软件工程师，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
 | 帮助台技术员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
@@ -38,11 +43,6 @@
 | 高级AI平台与代理基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11490/senior-ai-platform-agentic-infrastructure-engineer/) |
 | 高级AI全栈/应用工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11489/senior-ai-full-stack-applications-engineer/) |
 | 商业高级顾问（机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
-| IT产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11488/product-manager-it/) |
-| 评估基础设施技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/evals-infrastructure-tech-lead-manager/) |
-| 合规工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11486/compliance-engineer/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 应用AI架构师，州和地方政府 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1976</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1978</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
+| GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11504/gtm-enablement-global-lead/) |
+| Offensive Security Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/11503/offensive-security-agent-engineer/) |
+| Associate Manager, Premium & Wealth | Hybrid | [View →](https://www.remotejobscan.com/job/11500/associate-manager-premium-wealth/) |
+| AWS Specialist Sellers, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
 | Technical Program Manager, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
 | Help Desk Technician | Hybrid | [View →](https://www.remotejobscan.com/job/11499/help-desk-technician/) |
@@ -37,11 +42,6 @@
 | Senior AI Platform & Agentic Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/11490/senior-ai-platform-agentic-infrastructure-engineer/) |
 | Senior AI Full-Stack / Applications Engineer | On-site | [View →](https://www.remotejobscan.com/job/11489/senior-ai-full-stack-applications-engineer/) |
 | Senior Counsel, Commercial (Robotics) | On-site | [View →](https://www.remotejobscan.com/job/11487/senior-counsel-commercial-robotics/) |
-| Product Manager, IT | Hybrid | [View →](https://www.remotejobscan.com/job/11488/product-manager-it/) |
-| Evals Infrastructure Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/evals-infrastructure-tech-lead-manager/) |
-| Compliance Engineer | Remote | [View →](https://www.remotejobscan.com/job/11486/compliance-engineer/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Applied AI Architect, State and Local Government | On-site | [View →](https://www.remotejobscan.com/job/9356/applied-ai-architect-state-and-local-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
