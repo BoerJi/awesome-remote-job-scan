@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1990</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1995</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据科学家，北洞察 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
+| 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
+| 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/job-11524/) |
+| 高级QA自动化工程师 - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11521/snr-qa-automation-engineer-pro/) |
+| 变更监督与许可证策略经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8396/change-oversight-and-licence-strategy-manager/) |
 | API Tech Support API- European time zones AP技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
 | QA工程师（前端、移动端、Java）- 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 | 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
@@ -37,11 +42,6 @@
 | 美洲区域首席信息安全官 (CISO) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
 | 美洲区域首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11507/americas-regional-chief-information-security-officer-ciso/) |
 | 扩展劳动力项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
-| 内容主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11132/content-lead/) |
-| 零售业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11506/account-director-retail/) |
-| 第三方风险分析师，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11505/third-party-risk-analyst-security-grc/) |
-| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

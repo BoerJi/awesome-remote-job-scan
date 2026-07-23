@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1990</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1995</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, North Insights | Hybrid | [View →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
+| Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
+| 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/job-11524/) |
+| Snr QA Automation Engineer - Pro | Remote | [View →](https://www.remotejobscan.com/job/11521/snr-qa-automation-engineer-pro/) |
+| Change Oversight and Licence Strategy Manager | Remote | [View →](https://www.remotejobscan.com/job/8396/change-oversight-and-licence-strategy-manager/) |
 | API Tech Support API- European time zones AP技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/11520/api-tech-support-api-european-time-zones-ap/) |
 | QA Engineer (Frontend, Mobile, Java) - Trading | Remote | [View →](https://www.remotejobscan.com/job/11519/qa-engineer-frontend-mobile-java-trading/) |
 | Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
@@ -36,12 +41,6 @@
 | AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
 | Americas Regional Chief Information Security Officer (CISO) | On-site | [View →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
 | Extended Workforce Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
-| Content Lead | On-site | [View →](https://www.remotejobscan.com/job/11132/content-lead/) |
-| Account Director, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/11506/account-director-retail/) |
-| Third Party Risk Analyst, Security GRC | Remote | [View →](https://www.remotejobscan.com/job/11505/third-party-risk-analyst-security-grc/) |
-| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
-| Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
