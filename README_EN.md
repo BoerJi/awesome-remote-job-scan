@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2005</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2006</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
+| Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
+| Senior Software Engineer - Blockchain Network | Remote | [View →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
+| Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
+| AWS Specialist Seller, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11544/aws-specialist-seller-strategic-pursuits/) |
+| Payments Risk Analyst II | Remote | [View →](https://www.remotejobscan.com/job/9236/payments-risk-analyst-ii/) |
 | Manager, Occupancy Planning Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
 | Lead, Benefits | Remote | [View →](https://www.remotejobscan.com/job/11542/lead-benefits/) |
 | Senior Product Manager, Spot Trading | Remote | [View →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
@@ -35,12 +42,6 @@
 | Frontend Tech lead ( AI Agent) | Hybrid | [View →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | Remote | [View →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
-| Senior SOX Auditor - Business Process Controls | Remote | [View →](https://www.remotejobscan.com/job/11529/senior-sox-auditor-business-process-controls/) |
-| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
-| Technical Specialist, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/9717/technical-specialist-claude-code/) |
-| Binance Accelerator Program - QA | Remote | [View →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
-| Data Scientist, North Insights | Hybrid | [View →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
-| Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

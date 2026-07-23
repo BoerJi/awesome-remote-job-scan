@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>2005</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>2006</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
+| 区块链网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
+| GFCO分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
+| AWS专家卖家，战略追求 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11544/aws-specialist-seller-strategic-pursuits/) |
+| 支付风险分析师II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9236/payments-risk-analyst-ii/) |
 | 职位：占位规划运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
 | 福利负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11542/lead-benefits/) |
 | 高级产品经理，现货交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
@@ -35,12 +41,6 @@
 | 前端技术负责人（AI Agent） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
 | 高级客户经理 - GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
-| 高级SOX审计师 - 业务流程控制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11529/senior-sox-auditor-business-process-controls/) |
-| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
-| Claude代码技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9717/technical-specialist-claude-code/) |
-| 币安加速器项目 - 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
-| 数据科学家，北洞察 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
-| 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
