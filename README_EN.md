@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2006</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2009</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
+| Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
+| Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
+| Marketing Operations | Remote | [View →](https://www.remotejobscan.com/job/11550/marketing-operations/) |
+| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/9776/recruiting-coordinator-contract/) |
+| Senior Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
 | Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
 | Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
@@ -35,13 +43,6 @@
 | Senior Product Manager, Spot Trading | Remote | [View →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
 | Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/11541/data-platform-engineer/) |
 | Director, Paid Marketing | Remote | [View →](https://www.remotejobscan.com/job/11537/director-paid-marketing/) |
-| Senior Brand Designer | Remote | [View →](https://www.remotejobscan.com/job/11535/senior-brand-designer/) |
-| Account Executive - Nordics - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11534/account-executive-nordics-mid-market/) |
-| Head of International Customer Success | On-site | [View →](https://www.remotejobscan.com/job/11532/head-of-international-customer-success/) |
-| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
-| Frontend Tech lead ( AI Agent) | Hybrid | [View →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
-| Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
-| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | Remote | [View →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

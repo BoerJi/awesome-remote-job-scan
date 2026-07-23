@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>2006</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>2009</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
+| 增长 - 生命周期负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
+| GTM系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
+| 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
+| 市场营销运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11550/marketing-operations/) |
+| 招聘协调员（合同工） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9776/recruiting-coordinator-contract/) |
+| 数据层高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
 | 商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
 | 区块链网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
@@ -34,13 +42,6 @@
 | 高级产品经理，现货交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
 | 数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11541/data-platform-engineer/) |
 | 付费营销总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11537/director-paid-marketing/) |
-| 高级品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11535/senior-brand-designer/) |
-| 北欧区中市场客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11534/account-executive-nordics-mid-market/) |
-| 国际客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11532/head-of-international-customer-success/) |
-| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
-| 前端技术负责人（AI Agent） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11530/frontend-tech-lead-ai-agent/) |
-| 高级客户经理 - GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
-| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
