@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2023</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2025</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Strategist, Legal | On-site | [View →](https://www.remotejobscan.com/job/11568/ai-strategist-legal/) |
+| Global Benefits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
 | Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
@@ -39,8 +41,6 @@
 | Creative Producer - Mobile | Remote | [View →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
 | Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
 | Member of Data Staff (AI Builder) | On-site | [View →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
-| Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
-| Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
