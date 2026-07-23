@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| FinHub (Ledger) 背景开发高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | 产品支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 | 产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11513/product-designer/) |
 | 区域威胁评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
@@ -41,7 +42,6 @@
 | 高级经理，高端与财富管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11500/associate-manager-premium-wealth/) |
 | AWS战略业务拓展专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
 | GTM系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
-| Staff+ 软件工程师，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

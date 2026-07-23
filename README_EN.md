@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Backend - FinHub (Ledger) | Remote | [View →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 | Product Designer | On-site | [View →](https://www.remotejobscan.com/job/11513/product-designer/) |
 | Regional Threat Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
@@ -41,7 +42,6 @@
 | Associate Manager, Premium & Wealth | Hybrid | [View →](https://www.remotejobscan.com/job/11500/associate-manager-premium-wealth/) |
 | AWS Specialist Sellers, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11501/aws-specialist-sellers-strategic-pursuits/) |
 | Technical Program Manager, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11498/technical-program-manager-gtm-systems/) |
-| Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/11496/staff-software-engineer-claude-science/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
