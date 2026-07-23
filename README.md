@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>2011</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Claude设计团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11558/staff-software-engineer-claude-design/) |
+| 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
+| 数据工程师，安全团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
+| 战略技术谈判主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11556/strategic-technology-negotiations-lead/) |
+| DeFi增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11557/defi-growth-lead/) |
 | 隐私工程软件工程师（合法访问） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11553/software-engineer-privacy-engineering-lawful-access/) |
 | 移动端创意制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
 | 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
@@ -37,16 +43,11 @@
 | 数据层高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
 | 商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
-| 区块链网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
-| GFCO分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
-| AWS专家卖家，战略追求 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11544/aws-specialist-seller-strategic-pursuits/) |
-| 支付风险分析师II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9236/payments-risk-analyst-ii/) |
-| 职位：占位规划运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（45 家）
+## 🏢 已收录公司（46 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -88,6 +89,7 @@
 | <img src="images/pinecone.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Pinecone"> | <a href="https://www.pinecone.io/">Pinecone</a> | [查看职位 →](https://www.remotejobscan.com/?company=pinecone) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [查看职位 →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [查看职位 →](https://www.remotejobscan.com/?company=replit) |
+| <img src="images/solana-foundation.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Solana Foundation"> | <a href="https://solana.org/">Solana Foundation</a> | [查看职位 →](https://www.remotejobscan.com/?company=solana-foundation) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [查看职位 →](https://www.remotejobscan.com/?company=sui) |
 | <img src="images/together-ai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Together AI"> | <a href="https://www.together.ai/">Together AI</a> | [查看职位 →](https://www.remotejobscan.com/?company=together-ai) |
 | <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [查看职位 →](https://www.remotejobscan.com/?company=tothemoon) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

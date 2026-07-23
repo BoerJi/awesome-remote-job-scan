@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2011</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2017</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/11558/staff-software-engineer-claude-design/) |
+| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
+| Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
+| Strategic Technology Negotiations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11556/strategic-technology-negotiations-lead/) |
+| DeFi Growth Lead | On-site | [View →](https://www.remotejobscan.com/job/11557/defi-growth-lead/) |
 | Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/11553/software-engineer-privacy-engineering-lawful-access/) |
 | Creative Producer - Mobile | Remote | [View →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
 | Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
@@ -37,17 +43,11 @@
 | Senior Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
 | Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
 | Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
-| Senior Software Engineer - Blockchain Network | Remote | [View →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
-| Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
-| AWS Specialist Seller, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11544/aws-specialist-seller-strategic-pursuits/) |
-| Payments Risk Analyst II | Remote | [View →](https://www.remotejobscan.com/job/9236/payments-risk-analyst-ii/) |
-| Manager, Occupancy Planning Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（45 companies）
+## 🏢 Companies Tracked（46 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -89,6 +89,7 @@
 | <img src="images/pinecone.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Pinecone"> | <a href="https://www.pinecone.io/">Pinecone</a> | [View jobs →](https://www.remotejobscan.com/?company=pinecone) |
 | <img src="images/predict.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Predict"> | <a href="https://predict.fun">Predict</a> | [View jobs →](https://www.remotejobscan.com/?company=predict) |
 | <img src="images/replit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Replit"> | <a href="https://replit.com/">Replit</a> | [View jobs →](https://www.remotejobscan.com/?company=replit) |
+| <img src="images/solana-foundation.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Solana Foundation"> | <a href="https://solana.org/">Solana Foundation</a> | [View jobs →](https://www.remotejobscan.com/?company=solana-foundation) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
 | <img src="images/together-ai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Together AI"> | <a href="https://www.together.ai/">Together AI</a> | [View jobs →](https://www.remotejobscan.com/?company=together-ai) |
 | <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [View jobs →](https://www.remotejobscan.com/?company=tothemoon) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
