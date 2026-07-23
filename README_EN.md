@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2017</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,13 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
+| Software Engineer, Privacy Engineering (Lawful Access) | On-site | [View →](https://www.remotejobscan.com/job/11562/software-engineer-privacy-engineering-lawful-access/) |
+| Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/10103/pricing-strategist/) |
+| Strategic Partner Development, Product Partnerships - Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/11559/strategic-partner-development-product-partnerships-cybersecurity/) |
+| Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11560/technical-program-manager-rack-delivery/) |
 | Staff Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/11558/staff-software-engineer-claude-design/) |
 | Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
 | Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
 | Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
 | Strategic Technology Negotiations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11556/strategic-technology-negotiations-lead/) |
 | DeFi Growth Lead | On-site | [View →](https://www.remotejobscan.com/job/11557/defi-growth-lead/) |
-| Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/11553/software-engineer-privacy-engineering-lawful-access/) |
 | Creative Producer - Mobile | Remote | [View →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
 | Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
 | Member of Data Staff (AI Builder) | On-site | [View →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
@@ -37,12 +41,6 @@
 | Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
 | Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/11502/manager-it-support/) |
-| Marketing Operations | Remote | [View →](https://www.remotejobscan.com/job/11550/marketing-operations/) |
-| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/9776/recruiting-coordinator-contract/) |
-| Senior Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
-| Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
-| Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
