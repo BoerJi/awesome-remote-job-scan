@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2021</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2023</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
+| Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 | Software Engineer, Privacy Engineering (Lawful Access) | On-site | [View →](https://www.remotejobscan.com/job/11562/software-engineer-privacy-engineering-lawful-access/) |
 | Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/10103/pricing-strategist/) |
@@ -39,8 +41,6 @@
 | Member of Data Staff (AI Builder) | On-site | [View →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
 | Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
 | Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
-| Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
-| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

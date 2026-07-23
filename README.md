@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2021</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2023</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用人工智能招聘官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
+| 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 | 隐私工程软件工程师（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11562/software-engineer-privacy-engineering-lawful-access/) |
 | 软件工程师，隐私工程（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11561/software-engineer-privacy-engineering-lawful-access/) |
@@ -40,8 +42,6 @@
 | 数据团队成员（AI构建者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
 | 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
 | 增长 - 生命周期负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
-| GTM系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
-| 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
