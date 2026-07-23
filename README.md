@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1995</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>2001</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户经理 - GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
+| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
+| 高级SOX审计师 - 业务流程控制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11529/senior-sox-auditor-business-process-controls/) |
+| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
+| Claude代码技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9717/technical-specialist-claude-code/) |
+| 币安加速器项目 - 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
 | 数据科学家，北洞察 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
 | 西欧高级联盟商务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
 | 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/job-11524/) |
@@ -36,12 +42,6 @@
 | FinHub (Ledger) 背景开发高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | 产品支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 | 产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11513/product-designer/) |
-| 区域威胁评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
-| Search and Recommend Algorithm Engineer搜推算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
-| AI成功工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
-| 美洲区域首席信息安全官 (CISO) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
-| 美洲区域首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11507/americas-regional-chief-information-security-officer-ciso/) |
-| 扩展劳动力项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

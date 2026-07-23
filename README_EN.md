@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1995</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2001</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
+| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | Remote | [View →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
+| Senior SOX Auditor - Business Process Controls | Remote | [View →](https://www.remotejobscan.com/job/11529/senior-sox-auditor-business-process-controls/) |
+| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
+| Technical Specialist, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/9717/technical-specialist-claude-code/) |
+| Binance Accelerator Program - QA | Remote | [View →](https://www.remotejobscan.com/job/11526/binance-accelerator-program-qa/) |
 | Data Scientist, North Insights | Hybrid | [View →](https://www.remotejobscan.com/job/11525/data-scientist-north-insights/) |
 | Senior Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/senior-affiliate-business-development-manager-western-europe/) |
 | 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/job-11524/) |
@@ -36,11 +42,6 @@
 | Staff Software Engineer, Backend - FinHub (Ledger) | Remote | [View →](https://www.remotejobscan.com/job/11514/staff-software-engineer-backend-finhub-ledger/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/9541/product-support-specialist/) |
 | Product Designer | On-site | [View →](https://www.remotejobscan.com/job/11513/product-designer/) |
-| Regional Threat Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/11426/regional-threat-assessment-manager/) |
-| Search and Recommend Algorithm Engineer搜推算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11359/search-and-recommend-algorithm-engineer/) |
-| AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
-| Americas Regional Chief Information Security Officer (CISO) | On-site | [View →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
-| Extended Workforce Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
