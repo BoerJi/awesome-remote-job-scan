@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>2009</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>2011</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/11553/software-engineer-privacy-engineering-lawful-access/) |
+| Creative Producer - Mobile | Remote | [View →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
+| Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
+| Member of Data Staff (AI Builder) | On-site | [View →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
 | Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
 | Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
 | Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
@@ -39,10 +43,6 @@
 | AWS Specialist Seller, Strategic Pursuits | Hybrid | [View →](https://www.remotejobscan.com/job/11544/aws-specialist-seller-strategic-pursuits/) |
 | Payments Risk Analyst II | Remote | [View →](https://www.remotejobscan.com/job/9236/payments-risk-analyst-ii/) |
 | Manager, Occupancy Planning Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
-| Lead, Benefits | Remote | [View →](https://www.remotejobscan.com/job/11542/lead-benefits/) |
-| Senior Product Manager, Spot Trading | Remote | [View →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
-| Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/11541/data-platform-engineer/) |
-| Director, Paid Marketing | Remote | [View →](https://www.remotejobscan.com/job/11537/director-paid-marketing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

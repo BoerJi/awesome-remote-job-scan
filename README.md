@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>2009</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>2011</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 隐私工程软件工程师（合法访问） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11553/software-engineer-privacy-engineering-lawful-access/) |
+| 移动端创意制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
+| 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
+| 数据团队成员（AI构建者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
 | 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11549/growth-product-marketing-manager/) |
 | 增长 - 生命周期负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11548/growth-lifecycle-lead/) |
 | GTM系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
@@ -38,10 +42,6 @@
 | AWS专家卖家，战略追求 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11544/aws-specialist-seller-strategic-pursuits/) |
 | 支付风险分析师II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9236/payments-risk-analyst-ii/) |
 | 职位：占位规划运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11543/manager-occupancy-planning-operations/) |
-| 福利负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11542/lead-benefits/) |
-| 高级产品经理，现货交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11540/senior-product-manager-spot-trading/) |
-| 数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11541/data-platform-engineer/) |
-| 付费营销总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11537/director-paid-marketing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
