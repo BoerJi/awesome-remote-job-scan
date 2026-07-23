@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>45</strong> companies · <strong>1985</strong> remote jobs · Updated every 30 min
+  📊 <strong>45</strong> companies · <strong>1986</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Success Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
 | Americas Regional Chief Information Security Officer (CISO) | On-site | [View →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
 | Extended Workforce Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
 | Content Lead | On-site | [View →](https://www.remotejobscan.com/job/11132/content-lead/) |
@@ -41,7 +42,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
 | Technical Docs Writer | Remote | [View →](https://www.remotejobscan.com/job/11134/technical-docs-writer/) |
 | Staff+ Software Engineer, Enterprise AI Products | On-site | [View →](https://www.remotejobscan.com/job/11497/staff-software-engineer-enterprise-ai-products/) |
-| Technical Recruiter, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11492/technical-recruiter-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-23 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

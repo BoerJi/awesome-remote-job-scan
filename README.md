@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>45</strong> 家公司 · <strong>1985</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>45</strong> 家公司 · <strong>1986</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI成功工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11510/ai-success-engineer/) |
 | 美洲区域首席信息安全官 (CISO) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11508/americas-regional-chief-information-security-officer-ciso/) |
 | 美洲区域首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11507/americas-regional-chief-information-security-officer-ciso/) |
 | 扩展劳动力项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11509/extended-workforce-program-manager/) |
@@ -41,7 +42,6 @@
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
 | 技术文档撰写者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11134/technical-docs-writer/) |
 | Staff+ 软件工程师，企业AI产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11497/staff-software-engineer-enterprise-ai-products/) |
-| 技术招聘者，基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11492/technical-recruiter-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-23 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
