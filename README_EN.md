@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2046</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2050</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Workflow Specialist, Performance & Paid | Remote | [View →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
+| Head of Deal Desk - International | On-site | [View →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
+| Compliance Manager, El Salvador | Remote | [View →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
 | General Manager - Colombia | On-site | [View →](https://www.remotejobscan.com/job/11604/general-manager-colombia/) |
 | Policy Partnerships & Convenings Lead, Central Policy | On-site | [View →](https://www.remotejobscan.com/job/11600/policy-partnerships-convenings-lead-central-policy/) |
 | Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/9693/staff-software-engineer-safeguards-evals/) |
@@ -38,11 +41,6 @@
 | Web3 Security Senior Software Engineer (Java) | Remote | [View →](https://www.remotejobscan.com/job/11597/web3-security-senior-software-engineer-java/) |
 | Business Development — Equity Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
 | Staff+ Software Engineer, Account Compromise | On-site | [View →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
-| Localization Product Manager | Translation Platform Direction 本地化产品经理｜翻译平台方向 | Remote | [View →](https://www.remotejobscan.com/job/7954/localization-product-manager-translation-platform-direction/) |
-| Research Analyst — Equity Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/11591/research-analyst-equity-capital-markets/) |
-| Senior Compliance & Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
-| Operation Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
-| VIP BD - UK | Remote | [View →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
