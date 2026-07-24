@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2073</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2077</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Engineer, CPU & Storage | On-site | [View →](https://www.remotejobscan.com/job/11641/data-engineer-cpu-storage/) |
+| Research Engineer, Agents | Remote | [View →](https://www.remotejobscan.com/job/11640/research-engineer-agents/) |
+| Research Engineer, Frontier Speculative Decoding | On-site | [View →](https://www.remotejobscan.com/job/9847/research-engineer-frontier-speculative-decoding/) |
+| Senior Webinar & Digital Events Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11637/senior-webinar-digital-events-strategist/) |
+| Senior Marketing Strategist, Paid & New Demand Channels | Hybrid | [View →](https://www.remotejobscan.com/job/11638/senior-marketing-strategist-paid-new-demand-channels/) |
+| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/11639/engineering-manager-fde-agentic-platform/) |
+| Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 | Enterprise Account Executive | Remote | [View →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
 | Quant Developer | Remote | [View →](https://www.remotejobscan.com/job/11631/quant-developer/) |
@@ -36,13 +43,6 @@
 | Senior Account Based Management Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11628/senior-account-based-management-strategist/) |
 | Social Support Specialist III | Remote | [View →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
 | Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/11611/strategic-program-lead/) |
-| Government Partnerships Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11624/government-partnerships-communications-lead/) |
-| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| GTM Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11623/gtm-strategy-operations-lead/) |
-| Head of APAC Accounting | On-site | [View →](https://www.remotejobscan.com/job/11613/head-of-apac-accounting/) |
-| Integrated Producer | Hybrid | [View →](https://www.remotejobscan.com/job/11618/integrated-producer/) |
-| Brand Marketing Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11612/brand-marketing-lead-enterprise/) |
-| Growth Workflow Specialist, Organic Growth | Remote | [View →](https://www.remotejobscan.com/job/11615/growth-workflow-specialist-organic-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
