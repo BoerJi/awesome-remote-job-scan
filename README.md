@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2036</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2041</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器项目 - AI代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11592/binance-accelerator-program-ai-agent-engineer/) |
+| 币安加速器项目 - PK社交媒体 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11593/binance-accelerator-program-pk-social-media/) |
+| Web3安全数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
+| Web3安全高级运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
+| 业务拓展—股权资本市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
+| 高级软件工程师，账户安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
+| Localization Product Manager | Translation Platform Direction 本地化产品经理｜翻译平台方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7954/localization-product-manager-translation-platform-direction/) |
+| 研究分析师—股权资本市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11591/research-analyst-equity-capital-markets/) |
 | 高级合规与风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
 | 运营合作专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
 | VIP业务拓展 - 英国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
@@ -34,14 +42,6 @@
 | Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11583/account-executive-korea/) |
-| 日本区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
-| 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
-| VIP客户关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11579/vip-relationship-manager/) |
-| 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11581/staff-software-engineer-full-stack/) |
-| 台湾传统中文翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

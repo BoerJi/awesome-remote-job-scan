@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2036</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2041</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - AI Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/11592/binance-accelerator-program-ai-agent-engineer/) |
+| Binance Accelerator Program - PK Social Media | Remote | [View →](https://www.remotejobscan.com/job/11593/binance-accelerator-program-pk-social-media/) |
+| Web3 Security Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
+| Web3 Security Senior Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
+| Business Development — Equity Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
+| Staff+ Software Engineer, Account Compromise | On-site | [View →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
+| Localization Product Manager | Translation Platform Direction 本地化产品经理｜翻译平台方向 | Remote | [View →](https://www.remotejobscan.com/job/7954/localization-product-manager-translation-platform-direction/) |
+| Research Analyst — Equity Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/11591/research-analyst-equity-capital-markets/) |
 | Senior Compliance & Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
 | Operation Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
 | VIP BD - UK | Remote | [View →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
@@ -34,14 +42,6 @@
 | Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/11583/account-executive-korea/) |
-| Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
-| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
-| VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/11579/vip-relationship-manager/) |
-| Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11581/staff-software-engineer-full-stack/) |
-| Taiwan Traditional Chinese Translator | Remote | [View →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
