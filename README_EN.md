@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2081</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2087</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Data Center Strategy and Site Selection | Remote | [View →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
+| Technical Documentation and Content Engineer, Claude Docs | On-site | [View →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
+| Product Manager, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/11649/product-manager-legal/) |
+| Travel Security Manager - APAC | Hybrid | [View →](https://www.remotejobscan.com/job/11650/travel-security-manager-apac/) |
+| Regional State and Local Affairs Lead, Southern States | Remote | [View →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
+| IT Support Engineer, Executive Support | On-site | [View →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
 | Data Scientist, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
 | Senior Manager, Revenue Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
@@ -37,12 +43,6 @@
 | Enterprise Account Executive | Remote | [View →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
 | Quant Developer | Remote | [View →](https://www.remotejobscan.com/job/11631/quant-developer/) |
-| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/11630/product-finance-strategy-monetization/) |
-| General Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/11633/general-manager-poland/) |
-| General Manager - UK | Remote | [View →](https://www.remotejobscan.com/job/11632/general-manager-uk/) |
-| Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
-| Supervisor, Customer Success Team | Remote | [View →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
-| Senior Lifecycle Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

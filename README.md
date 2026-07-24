@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2081</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2087</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心战略与选址总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
+| 技术文档与内容工程师，Claude文档 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
+| 法律产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11649/product-manager-legal/) |
+| 亚太区旅行安全经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11650/travel-security-manager-apac/) |
+| 南部各州州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
+| IT支持工程师，行政支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
 | GTM数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
 | 高级收入会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
@@ -37,12 +43,6 @@
 | 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
 | 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
 | 量化开发者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11631/quant-developer/) |
-| 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11630/product-finance-strategy-monetization/) |
-| 波兰总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11633/general-manager-poland/) |
-| 英国总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11632/general-manager-uk/) |
-| 主要客户业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
-| 客户成功团队主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
-| 高级生命周期策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
