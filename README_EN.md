@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2034</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
+| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
+| Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/11583/account-executive-korea/) |
+| Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
 | Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
@@ -39,10 +43,6 @@
 | Program Manager, Talent Acquisition | Hybrid | [View →](https://www.remotejobscan.com/job/11570/program-manager-talent-acquisition/) |
 | AI Strategist, Financial Services | Hybrid | [View →](https://www.remotejobscan.com/job/11569/ai-strategist-financial-services/) |
 | AI Strategist, Legal | On-site | [View →](https://www.remotejobscan.com/job/11568/ai-strategist-legal/) |
-| Global Benefits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
-| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
-| Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
