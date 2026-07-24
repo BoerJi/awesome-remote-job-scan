@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2044</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2047</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| General Manager - Colombia | On-site | [View →](https://www.remotejobscan.com/job/11604/general-manager-colombia/) |
+| Policy Partnerships & Convenings Lead, Central Policy | On-site | [View →](https://www.remotejobscan.com/job/11600/policy-partnerships-convenings-lead-central-policy/) |
 | Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/9693/staff-software-engineer-safeguards-evals/) |
 | Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 | Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7412/payfi-product-manager-payfi/) |
@@ -41,8 +43,6 @@
 | Senior Compliance & Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
 | Operation Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
 | VIP BD - UK | Remote | [View →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
-| KOL/Affiliate Business Development Manager - KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/kolaffiliate-business-development-manager-kucoin-eu/) |
-| Key Account Institutional Sales Manager (BD) | On-site | [View →](https://www.remotejobscan.com/job/5530/key-account-institutional-sales-manager-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

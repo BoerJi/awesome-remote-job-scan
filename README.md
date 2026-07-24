@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2044</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2047</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 哥伦比亚总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11604/general-manager-colombia/) |
+| 中央政策合作伙伴关系与会议负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11600/policy-partnerships-convenings-lead-central-policy/) |
 | Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9693/staff-software-engineer-safeguards-evals/) |
 | Stock Business Development Manager 券商BD | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
 | Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7412/payfi-product-manager-payfi/) |
@@ -41,8 +43,6 @@
 | 高级合规与风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
 | 运营合作专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
 | VIP业务拓展 - 英国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
-| KOL/联盟商务发展经理 - KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/kolaffiliate-business-development-manager-kucoin-eu/) |
-| 关键客户机构销售经理（BD） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5530/key-account-institutional-sales-manager-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
