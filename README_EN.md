@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2063</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2068</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Supervisor, Customer Success Team | Remote | [View →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
+| Senior Lifecycle Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
+| Senior Mid-Market & SMB Demand Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11629/senior-mid-market-smb-demand-strategist/) |
+| Senior Account Based Management Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11628/senior-account-based-management-strategist/) |
+| Social Support Specialist III | Remote | [View →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
+| Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/11611/strategic-program-lead/) |
 | Government Partnerships Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11624/government-partnerships-communications-lead/) |
 | Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | GTM Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11623/gtm-strategy-operations-lead/) |
@@ -35,11 +41,6 @@
 | Data Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/11614/data-analyst-product/) |
 | Head of Finance & Custody - VARA | Remote | [View →](https://www.remotejobscan.com/job/11610/head-of-finance-custody-vara/) |
 | Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
-| Data Annotation Specialist, Generalist | Remote | [View →](https://www.remotejobscan.com/job/11609/data-annotation-specialist-generalist/) |
-| AI Accelerator Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
-| Business Development Manager, Affiliate (Pakistan) | Remote | [View →](https://www.remotejobscan.com/job/11608/business-development-manager-affiliate-pakistan/) |
-| Growth Workflow Specialist, Performance & Paid | Remote | [View →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
-| Head of Deal Desk - International | On-site | [View →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
