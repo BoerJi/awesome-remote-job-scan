@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2061</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2064</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政府合作沟通主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11624/government-partnerships-communications-lead/) |
+| 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
+| GTM策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11623/gtm-strategy-operations-lead/) |
 | 亚太区会计主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11613/head-of-apac-accounting/) |
 | 整合制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11618/integrated-producer/) |
 | 企业品牌营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11612/brand-marketing-lead-enterprise/) |
@@ -31,7 +34,6 @@
 | AI成功工程师 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11619/ai-success-engineer-healthcare-life-sciences/) |
 | 技术部署主管（TDL），前沿部署工程（FDE） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11617/manager-technical-deployment-leads-tdl-forward-deployed-engineering-fde/) |
 | 产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11614/data-analyst-product/) |
-| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11611/senior-strategic-program-lead/) |
 | 财务与托管主管 - VARA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11610/head-of-finance-custody-vara/) |
 | 职场IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
 | 数据标注专家，通用型 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11609/data-annotation-specialist-generalist/) |
@@ -39,7 +41,6 @@
 | 巴基斯坦合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11608/business-development-manager-affiliate-pakistan/) |
 | 增长工作流专家，绩效与付费 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
 | 国际交易台负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
-| 合规经理，萨尔瓦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2061</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2064</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Government Partnerships Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11624/government-partnerships-communications-lead/) |
+| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
+| GTM Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11623/gtm-strategy-operations-lead/) |
 | Head of APAC Accounting | On-site | [View →](https://www.remotejobscan.com/job/11613/head-of-apac-accounting/) |
 | Integrated Producer | Hybrid | [View →](https://www.remotejobscan.com/job/11618/integrated-producer/) |
 | Brand Marketing Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11612/brand-marketing-lead-enterprise/) |
@@ -30,7 +33,6 @@
 | AI Success Engineer - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/11619/ai-success-engineer-healthcare-life-sciences/) |
 | Manager, Technical Deployment Leads (TDL), Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/11617/manager-technical-deployment-leads-tdl-forward-deployed-engineering-fde/) |
 | Data Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/11614/data-analyst-product/) |
-| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/11611/senior-strategic-program-lead/) |
 | Head of Finance & Custody - VARA | Remote | [View →](https://www.remotejobscan.com/job/11610/head-of-finance-custody-vara/) |
 | Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
 | Data Annotation Specialist, Generalist | Remote | [View →](https://www.remotejobscan.com/job/11609/data-annotation-specialist-generalist/) |
@@ -38,7 +40,6 @@
 | Business Development Manager, Affiliate (Pakistan) | Remote | [View →](https://www.remotejobscan.com/job/11608/business-development-manager-affiliate-pakistan/) |
 | Growth Workflow Specialist, Performance & Paid | Remote | [View →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
 | Head of Deal Desk - International | On-site | [View →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
-| Compliance Manager, El Salvador | Remote | [View →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
