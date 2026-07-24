@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2032</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2036</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规与风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
+| 运营合作专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
+| VIP业务拓展 - 英国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
+| KOL/联盟商务发展经理 - KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/kolaffiliate-business-development-manager-kucoin-eu/) |
+| 关键客户机构销售经理（BD） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5530/key-account-institutional-sales-manager-bd/) |
+| AI赋能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11585/ai-enablement-director/) |
+| 关键客户 - 机构销售经理 (BD) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11584/key-account-institutional-sales-manager-bd/) |
 | VIP客户关系管理专员（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
@@ -35,14 +42,6 @@
 | VIP客户关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11579/vip-relationship-manager/) |
 | 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11581/staff-software-engineer-full-stack/) |
 | 台湾传统中文翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
-| 安全制造与秘密合作伙伴，市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11576/secure-manufacturing-stealth-partner-marketing/) |
-| 币安加速器计划 - 软件工程师（密码学） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11577/binance-accelerator-program-software-engineer-cryptography/) |
-| Web3 Researcher Web3研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11575/web3-researcher-web3/) |
-| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
-| 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
-| 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
-| 技术成员工程师（软件工程师，企业采用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11573/member-of-technical-staff-software-engineer-enterprise-adoption/) |
-| 人才获取项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11570/program-manager-talent-acquisition/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2032</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2036</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance & Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/senior-compliance-risk-manager/) |
+| Operation Associated Expert | Remote | [View →](https://www.remotejobscan.com/job/11589/operation-associated-expert/) |
+| VIP BD - UK | Remote | [View →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
+| KOL/Affiliate Business Development Manager - KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/kolaffiliate-business-development-manager-kucoin-eu/) |
+| Key Account Institutional Sales Manager (BD) | On-site | [View →](https://www.remotejobscan.com/job/5530/key-account-institutional-sales-manager-bd/) |
+| AI Enablement Director | On-site | [View →](https://www.remotejobscan.com/job/11585/ai-enablement-director/) |
+| Key Account - Institutional Sales Manager (BD) | On-site | [View →](https://www.remotejobscan.com/job/11584/key-account-institutional-sales-manager-bd/) |
 | Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
@@ -35,14 +42,6 @@
 | VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/11579/vip-relationship-manager/) |
 | Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11581/staff-software-engineer-full-stack/) |
 | Taiwan Traditional Chinese Translator | Remote | [View →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
-| Secure Manufacturing & Stealth Partner, Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/11576/secure-manufacturing-stealth-partner-marketing/) |
-| Binance Accelerator Program - Software Engineer (Cryptography) | Remote | [View →](https://www.remotejobscan.com/job/11577/binance-accelerator-program-software-engineer-cryptography/) |
-| Web3 Researcher Web3研究员 | Remote | [View →](https://www.remotejobscan.com/job/11575/web3-researcher-web3/) |
-| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
-| Solutions Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
-| Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
-| Member of Technical Staff (Software Engineer, Enterprise Adoption) | On-site | [View →](https://www.remotejobscan.com/job/11573/member-of-technical-staff-software-engineer-enterprise-adoption/) |
-| Program Manager, Talent Acquisition | Hybrid | [View →](https://www.remotejobscan.com/job/11570/program-manager-talent-acquisition/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
