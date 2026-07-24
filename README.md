@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2041</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2045</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9693/staff-software-engineer-safeguards-evals/) |
+| Stock Business Development Manager 券商BD | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
+| Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7412/payfi-product-manager-payfi/) |
+| 亚太区市场营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8381/marketing-manager-apac/) |
+| 生命周期营销经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11599/lifecycle-marketing-manager-consumer/) |
 | 币安加速器项目 - AI代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11592/binance-accelerator-program-ai-agent-engineer/) |
 | 币安加速器项目 - PK社交媒体 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11593/binance-accelerator-program-pk-social-media/) |
 | Web3安全数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
 | Web3安全高级运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
+| Web3安全专家（副本） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11598/web3-security-specialist-copy/) |
+| Web3安全高级软件工程师（Java） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11597/web3-security-senior-software-engineer-java/) |
 | 业务拓展—股权资本市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
 | 高级软件工程师，账户安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
 | Localization Product Manager | Translation Platform Direction 本地化产品经理｜翻译平台方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7954/localization-product-manager-translation-platform-direction/) |
@@ -36,12 +43,6 @@
 | VIP业务拓展 - 英国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
 | KOL/联盟商务发展经理 - KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/kolaffiliate-business-development-manager-kucoin-eu/) |
 | 关键客户机构销售经理（BD） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5530/key-account-institutional-sales-manager-bd/) |
-| AI赋能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11585/ai-enablement-director/) |
-| 关键客户 - 机构销售经理 (BD) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11584/key-account-institutional-sales-manager-bd/) |
-| VIP客户关系管理专员（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
-| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
-| 未来运营交易产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
-| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

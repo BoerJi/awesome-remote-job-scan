@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2041</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2045</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/9693/staff-software-engineer-safeguards-evals/) |
+| Stock Business Development Manager 券商BD | Remote | [View →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
+| Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7412/payfi-product-manager-payfi/) |
+| Marketing Manager- APAC | Remote | [View →](https://www.remotejobscan.com/job/8381/marketing-manager-apac/) |
+| Lifecycle Marketing Manager - Consumer | Remote | [View →](https://www.remotejobscan.com/job/11599/lifecycle-marketing-manager-consumer/) |
 | Binance Accelerator Program - AI Agent Engineer | Remote | [View →](https://www.remotejobscan.com/job/11592/binance-accelerator-program-ai-agent-engineer/) |
 | Binance Accelerator Program - PK Social Media | Remote | [View →](https://www.remotejobscan.com/job/11593/binance-accelerator-program-pk-social-media/) |
 | Web3 Security Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
 | Web3 Security Senior Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
+| Web3 Security Specialist (copy) | Remote | [View →](https://www.remotejobscan.com/job/11598/web3-security-specialist-copy/) |
+| Web3 Security Senior Software Engineer (Java) | Remote | [View →](https://www.remotejobscan.com/job/11597/web3-security-senior-software-engineer-java/) |
 | Business Development — Equity Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
 | Staff+ Software Engineer, Account Compromise | On-site | [View →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
 | Localization Product Manager | Translation Platform Direction 本地化产品经理｜翻译平台方向 | Remote | [View →](https://www.remotejobscan.com/job/7954/localization-product-manager-translation-platform-direction/) |
@@ -36,12 +43,6 @@
 | VIP BD - UK | Remote | [View →](https://www.remotejobscan.com/job/11588/vip-bd-uk/) |
 | KOL/Affiliate Business Development Manager - KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/kolaffiliate-business-development-manager-kucoin-eu/) |
 | Key Account Institutional Sales Manager (BD) | On-site | [View →](https://www.remotejobscan.com/job/5530/key-account-institutional-sales-manager-bd/) |
-| AI Enablement Director | On-site | [View →](https://www.remotejobscan.com/job/11585/ai-enablement-director/) |
-| Key Account - Institutional Sales Manager (BD) | On-site | [View →](https://www.remotejobscan.com/job/11584/key-account-institutional-sales-manager-bd/) |
-| Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
-| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
-| Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
-| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
