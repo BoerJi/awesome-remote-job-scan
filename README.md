@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2051</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2061</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,24 +23,23 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太区会计主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11613/head-of-apac-accounting/) |
+| 整合制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11618/integrated-producer/) |
+| 企业品牌营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11612/brand-marketing-lead-enterprise/) |
+| 有机增长流程专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11615/growth-workflow-specialist-organic-growth/) |
+| 有机增长增长工作流专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11616/growth-workflow-specialist-organic-growth/) |
+| AI成功工程师 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11619/ai-success-engineer-healthcare-life-sciences/) |
+| 技术部署主管（TDL），前沿部署工程（FDE） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11617/manager-technical-deployment-leads-tdl-forward-deployed-engineering-fde/) |
+| 产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11614/data-analyst-product/) |
+| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11611/senior-strategic-program-lead/) |
+| 财务与托管主管 - VARA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11610/head-of-finance-custody-vara/) |
+| 职场IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
 | 数据标注专家，通用型 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11609/data-annotation-specialist-generalist/) |
 | AI 加速器负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
 | 巴基斯坦合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11608/business-development-manager-affiliate-pakistan/) |
 | 增长工作流专家，绩效与付费 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
 | 国际交易台负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
 | 合规经理，萨尔瓦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
-| 哥伦比亚总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11604/general-manager-colombia/) |
-| 中央政策合作伙伴关系与会议负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11600/policy-partnerships-convenings-lead-central-policy/) |
-| Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9693/staff-software-engineer-safeguards-evals/) |
-| Stock Business Development Manager 券商BD | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7744/stock-business-development-manager-bd/) |
-| Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7412/payfi-product-manager-payfi/) |
-| 亚太区市场营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8381/marketing-manager-apac/) |
-| 生命周期营销经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11599/lifecycle-marketing-manager-consumer/) |
-| 币安加速器项目 - AI代理工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11592/binance-accelerator-program-ai-agent-engineer/) |
-| 币安加速器项目 - PK社交媒体 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11593/binance-accelerator-program-pk-social-media/) |
-| Web3安全数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
-| Web3安全高级运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
-| Web3安全专家（副本） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11598/web3-security-specialist-copy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
