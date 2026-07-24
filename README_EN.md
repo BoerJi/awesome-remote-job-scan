@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2068</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2073</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive | Remote | [View →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
+| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
+| Quant Developer | Remote | [View →](https://www.remotejobscan.com/job/11631/quant-developer/) |
+| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/11630/product-finance-strategy-monetization/) |
+| General Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/11633/general-manager-poland/) |
+| General Manager - UK | Remote | [View →](https://www.remotejobscan.com/job/11632/general-manager-uk/) |
+| Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Supervisor, Customer Success Team | Remote | [View →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
 | Senior Lifecycle Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
 | Senior Mid-Market & SMB Demand Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11629/senior-mid-market-smb-demand-strategist/) |
@@ -36,16 +43,11 @@
 | Integrated Producer | Hybrid | [View →](https://www.remotejobscan.com/job/11618/integrated-producer/) |
 | Brand Marketing Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11612/brand-marketing-lead-enterprise/) |
 | Growth Workflow Specialist, Organic Growth | Remote | [View →](https://www.remotejobscan.com/job/11615/growth-workflow-specialist-organic-growth/) |
-| AI Success Engineer - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/11619/ai-success-engineer-healthcare-life-sciences/) |
-| Manager, Technical Deployment Leads (TDL), Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/11617/manager-technical-deployment-leads-tdl-forward-deployed-engineering-fde/) |
-| Data Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/11614/data-analyst-product/) |
-| Head of Finance & Custody - VARA | Remote | [View →](https://www.remotejobscan.com/job/11610/head-of-finance-custody-vara/) |
-| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（46 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -69,6 +71,7 @@
 | <img src="images/digifinex.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="DigiFinex"> | <a href="https://www.digifinex.com">DigiFinex</a> | [View jobs →](https://www.remotejobscan.com/?company=digifinex) |
 | <img src="images/elevenlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="ElevenLabs"> | <a href="https://elevenlabs.io/">ElevenLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=elevenlabs) |
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [View jobs →](https://www.remotejobscan.com/?company=gate) |
+| <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [View jobs →](https://www.remotejobscan.com/?company=gauntlet) |
 | <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [View jobs →](https://www.remotejobscan.com/?company=gemini) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [View jobs →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [View jobs →](https://www.remotejobscan.com/?company=kraken) |
@@ -101,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

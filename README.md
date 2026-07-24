@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2068</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2073</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
+| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
+| 量化开发者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11631/quant-developer/) |
+| 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11630/product-finance-strategy-monetization/) |
+| 波兰总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11633/general-manager-poland/) |
+| 英国总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11632/general-manager-uk/) |
+| 主要客户业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | 客户成功团队主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
 | 高级生命周期策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
 | 中市场及SMB需求策略专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11629/senior-mid-market-smb-demand-strategist/) |
@@ -36,17 +43,11 @@
 | 整合制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11618/integrated-producer/) |
 | 企业品牌营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11612/brand-marketing-lead-enterprise/) |
 | 有机增长流程专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11615/growth-workflow-specialist-organic-growth/) |
-| 有机增长增长工作流专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11616/growth-workflow-specialist-organic-growth/) |
-| AI成功工程师 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11619/ai-success-engineer-healthcare-life-sciences/) |
-| 技术部署主管（TDL），前沿部署工程（FDE） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11617/manager-technical-deployment-leads-tdl-forward-deployed-engineering-fde/) |
-| 产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11614/data-analyst-product/) |
-| 财务与托管主管 - VARA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11610/head-of-finance-custody-vara/) |
-| 职场IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11288/workplace-it-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（46 家）
+## 🏢 已收录公司（47 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -70,6 +71,7 @@
 | <img src="images/digifinex.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="DigiFinex"> | <a href="https://www.digifinex.com">DigiFinex</a> | [查看职位 →](https://www.remotejobscan.com/?company=digifinex) |
 | <img src="images/elevenlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="ElevenLabs"> | <a href="https://elevenlabs.io/">ElevenLabs</a> | [查看职位 →](https://www.remotejobscan.com/?company=elevenlabs) |
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [查看职位 →](https://www.remotejobscan.com/?company=gate) |
+| <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [查看职位 →](https://www.remotejobscan.com/?company=gauntlet) |
 | <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [查看职位 →](https://www.remotejobscan.com/?company=gemini) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [查看职位 →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [查看职位 →](https://www.remotejobscan.com/?company=kraken) |
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
