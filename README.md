@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2027</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2031</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 台湾传统中文翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
+| 安全制造与秘密合作伙伴，市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11576/secure-manufacturing-stealth-partner-marketing/) |
+| 币安加速器计划 - 软件工程师（密码学） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11577/binance-accelerator-program-software-engineer-cryptography/) |
+| Web3 Researcher Web3研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11575/web3-researcher-web3/) |
 | Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
 | 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
 | 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
@@ -39,10 +43,6 @@
 | 定价策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10103/pricing-strategist/) |
 | 战略合作伙伴发展、产品合作 - 网络安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11559/strategic-partner-development-product-partnerships-cybersecurity/) |
 | 机架交付技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11560/technical-program-manager-rack-delivery/) |
-| Claude设计团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11558/staff-software-engineer-claude-design/) |
-| 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
-| 数据工程师，安全团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

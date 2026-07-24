@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2027</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2031</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Taiwan Traditional Chinese Translator | Remote | [View →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
+| Secure Manufacturing & Stealth Partner, Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/11576/secure-manufacturing-stealth-partner-marketing/) |
+| Binance Accelerator Program - Software Engineer (Cryptography) | Remote | [View →](https://www.remotejobscan.com/job/11577/binance-accelerator-program-software-engineer-cryptography/) |
+| Web3 Researcher Web3研究员 | Remote | [View →](https://www.remotejobscan.com/job/11575/web3-researcher-web3/) |
 | Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
 | Solutions Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
 | Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
@@ -38,10 +42,6 @@
 | Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/10103/pricing-strategist/) |
 | Strategic Partner Development, Product Partnerships - Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/11559/strategic-partner-development-product-partnerships-cybersecurity/) |
 | Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11560/technical-program-manager-rack-delivery/) |
-| Staff Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/11558/staff-software-engineer-claude-design/) |
-| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
-| Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
