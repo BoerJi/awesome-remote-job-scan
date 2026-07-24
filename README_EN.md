@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2029</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2027</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
 | Solutions Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
 | Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | Member of Technical Staff (Software Engineer, Enterprise Adoption) | On-site | [View →](https://www.remotejobscan.com/job/11573/member-of-technical-staff-software-engineer-enterprise-adoption/) |
@@ -41,7 +42,6 @@
 | Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
 | Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
 | Data Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
-| Strategic Technology Negotiations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11556/strategic-technology-negotiations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

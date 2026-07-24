@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2029</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2027</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Perp DEX & On-chain Risk Control Strategy Analyst Perp DEX&链上风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7384/perp-dex-on-chain-risk-control-strategy-analyst-perp-dex/) |
 | 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
 | 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | 技术成员工程师（软件工程师，企业采用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11573/member-of-technical-staff-software-engineer-enterprise-adoption/) |
@@ -42,7 +43,6 @@
 | 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
 | 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
 | 数据工程师，安全团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11555/data-engineer-safeguards/) |
-| 战略技术谈判主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11556/strategic-technology-negotiations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
