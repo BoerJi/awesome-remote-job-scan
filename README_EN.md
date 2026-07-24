@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2077</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2081</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
+| Senior Manager, Revenue Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
+| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
+| Lead Product Manager | Remote | [View →](https://www.remotejobscan.com/job/11642/lead-product-manager/) |
 | Data Engineer, CPU & Storage | On-site | [View →](https://www.remotejobscan.com/job/11641/data-engineer-cpu-storage/) |
 | Research Engineer, Agents | Remote | [View →](https://www.remotejobscan.com/job/11640/research-engineer-agents/) |
 | Research Engineer, Frontier Speculative Decoding | On-site | [View →](https://www.remotejobscan.com/job/9847/research-engineer-frontier-speculative-decoding/) |
@@ -39,10 +43,6 @@
 | Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Supervisor, Customer Success Team | Remote | [View →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
 | Senior Lifecycle Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
-| Senior Mid-Market & SMB Demand Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11629/senior-mid-market-smb-demand-strategist/) |
-| Senior Account Based Management Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11628/senior-account-based-management-strategist/) |
-| Social Support Specialist III | Remote | [View →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
-| Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/11611/strategic-program-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

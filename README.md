@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2077</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2081</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
+| 高级收入会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
+| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
+| 首席产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11642/lead-product-manager/) |
 | 数据工程师，CPU与存储 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11641/data-engineer-cpu-storage/) |
 | 研究工程师，智能体 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11640/research-engineer-agents/) |
 | 前沿推测解码研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9847/research-engineer-frontier-speculative-decoding/) |
@@ -39,10 +43,6 @@
 | 主要客户业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | 客户成功团队主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
 | 高级生命周期策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11627/senior-lifecycle-strategist/) |
-| 中市场及SMB需求策略专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11629/senior-mid-market-smb-demand-strategist/) |
-| 高级账户基础管理策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11628/senior-account-based-management-strategist/) |
-| 社交支持专家三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
-| 战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11611/strategic-program-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
