@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2031</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2034</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
+| VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/11579/vip-relationship-manager/) |
+| Staff Software Engineer, Full Stack | On-site | [View →](https://www.remotejobscan.com/job/11581/staff-software-engineer-full-stack/) |
 | Taiwan Traditional Chinese Translator | Remote | [View →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
 | Secure Manufacturing & Stealth Partner, Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/11576/secure-manufacturing-stealth-partner-marketing/) |
 | Binance Accelerator Program - Software Engineer (Cryptography) | Remote | [View →](https://www.remotejobscan.com/job/11577/binance-accelerator-program-software-engineer-cryptography/) |
@@ -38,10 +43,6 @@
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
 | Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
-| Software Engineer, Privacy Engineering (Lawful Access) | On-site | [View →](https://www.remotejobscan.com/job/11562/software-engineer-privacy-engineering-lawful-access/) |
-| Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/10103/pricing-strategist/) |
-| Strategic Partner Development, Product Partnerships - Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/11559/strategic-partner-development-product-partnerships-cybersecurity/) |
-| Technical Program Manager, Rack Delivery | Remote | [View →](https://www.remotejobscan.com/job/11560/technical-program-manager-rack-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

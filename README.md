@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2031</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2034</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
+| VIP客户关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11579/vip-relationship-manager/) |
+| 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11581/staff-software-engineer-full-stack/) |
 | 台湾传统中文翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11578/taiwan-traditional-chinese-translator/) |
 | 安全制造与秘密合作伙伴，市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11576/secure-manufacturing-stealth-partner-marketing/) |
 | 币安加速器计划 - 软件工程师（密码学） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11577/binance-accelerator-program-software-engineer-cryptography/) |
@@ -38,11 +43,6 @@
 | 应用人工智能招聘官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
 | 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
-| 隐私工程软件工程师（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11562/software-engineer-privacy-engineering-lawful-access/) |
-| 软件工程师，隐私工程（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11561/software-engineer-privacy-engineering-lawful-access/) |
-| 定价策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10103/pricing-strategist/) |
-| 战略合作伙伴发展、产品合作 - 网络安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11559/strategic-partner-development-product-partnerships-cybersecurity/) |
-| 机架交付技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11560/technical-program-manager-rack-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
