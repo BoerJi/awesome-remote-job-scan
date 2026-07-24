@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2035</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2032</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | Future Operation Trading Product Operation | Remote | [View →](https://www.remotejobscan.com/job/5737/future-operation-trading-product-operation/) |
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
@@ -42,7 +43,6 @@
 | Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | Member of Technical Staff (Software Engineer, Enterprise Adoption) | On-site | [View →](https://www.remotejobscan.com/job/11573/member-of-technical-staff-software-engineer-enterprise-adoption/) |
 | Program Manager, Talent Acquisition | Hybrid | [View →](https://www.remotejobscan.com/job/11570/program-manager-talent-acquisition/) |
-| AI Strategist, Financial Services | Hybrid | [View →](https://www.remotejobscan.com/job/11569/ai-strategist-financial-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
