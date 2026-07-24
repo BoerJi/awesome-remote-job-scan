@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>46</strong> companies · <strong>2050</strong> remote jobs · Updated every 30 min
+  📊 <strong>46</strong> companies · <strong>2051</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Annotation Specialist, Generalist | Remote | [View →](https://www.remotejobscan.com/job/11609/data-annotation-specialist-generalist/) |
+| AI Accelerator Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
+| Business Development Manager, Affiliate (Pakistan) | Remote | [View →](https://www.remotejobscan.com/job/11608/business-development-manager-affiliate-pakistan/) |
 | Growth Workflow Specialist, Performance & Paid | Remote | [View →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
 | Head of Deal Desk - International | On-site | [View →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
 | Compliance Manager, El Salvador | Remote | [View →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
@@ -38,9 +41,6 @@
 | Web3 Security Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
 | Web3 Security Senior Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
 | Web3 Security Specialist (copy) | Remote | [View →](https://www.remotejobscan.com/job/11598/web3-security-specialist-copy/) |
-| Web3 Security Senior Software Engineer (Java) | Remote | [View →](https://www.remotejobscan.com/job/11597/web3-security-senior-software-engineer-java/) |
-| Business Development — Equity Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
-| Staff+ Software Engineer, Account Compromise | On-site | [View →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-24 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

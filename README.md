@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2050</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2051</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据标注专家，通用型 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11609/data-annotation-specialist-generalist/) |
+| AI 加速器负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11380/ai-accelerator-lead/) |
+| 巴基斯坦合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11608/business-development-manager-affiliate-pakistan/) |
 | 增长工作流专家，绩效与付费 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11606/growth-workflow-specialist-performance-paid/) |
 | 国际交易台负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11603/head-of-deal-desk-international/) |
 | 合规经理，萨尔瓦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
@@ -38,9 +41,6 @@
 | Web3安全数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11594/web3-security-data-analyst/) |
 | Web3安全高级运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11595/web3-security-senior-operations-specialist/) |
 | Web3安全专家（副本） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11598/web3-security-specialist-copy/) |
-| Web3安全高级软件工程师（Java） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11597/web3-security-senior-software-engineer-java/) |
-| 业务拓展—股权资本市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11590/business-development-equity-capital-markets/) |
-| 高级软件工程师，账户安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11587/staff-software-engineer-account-compromise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
