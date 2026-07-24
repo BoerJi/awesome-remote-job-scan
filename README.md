@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>46</strong> 家公司 · <strong>2025</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>46</strong> 家公司 · <strong>2027</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才获取项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11570/program-manager-talent-acquisition/) |
+| 金融服务的AI策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11569/ai-strategist-financial-services/) |
 | AI策略师，法律 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11568/ai-strategist-legal/) |
 | 全球福利负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
 | 应用人工智能招聘官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11564/recruiter-applied-ai/) |
@@ -40,8 +42,6 @@
 | 战略技术谈判主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11556/strategic-technology-negotiations-lead/) |
 | DeFi增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11557/defi-growth-lead/) |
 | 移动端创意制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11554/creative-producer-mobile/) |
-| 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11551/customer-success-southern-europe/) |
-| 数据团队成员（AI构建者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11552/member-of-data-staff-ai-builder/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-24 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
