@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -35,11 +35,6 @@
 | 早期访问部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
 | 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 | 数据中心战略与选址总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
-| 技术文档与内容工程师，Claude文档 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
-| 法律产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11649/product-manager-legal/) |
-| 亚太区旅行安全经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11650/travel-security-manager-apac/) |
-| 南部各州州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
-| IT支持工程师，行政支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

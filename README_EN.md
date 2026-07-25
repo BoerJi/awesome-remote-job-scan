@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,11 +35,6 @@
 | Early Access Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
 | Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 | Director, Data Center Strategy and Site Selection | Remote | [View →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
-| Technical Documentation and Content Engineer, Claude Docs | On-site | [View →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
-| Product Manager, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/11649/product-manager-legal/) |
-| Travel Security Manager - APAC | Hybrid | [View →](https://www.remotejobscan.com/job/11650/travel-security-manager-apac/) |
-| Regional State and Local Affairs Lead, Southern States | Remote | [View →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
-| IT Support Engineer, Executive Support | On-site | [View →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
