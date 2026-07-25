@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2095</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2096</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11660/recruiting-coordinator/) |
 | 高级经理，技术会计-并购与投资 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma-and-investments/) |
 | 定价Staff应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | GTM增长工程产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10167/product-engineer-gtm-growth-engineering/) |
@@ -42,7 +43,6 @@
 | GTM数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
 | 高级收入会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
-| 首席产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11642/lead-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

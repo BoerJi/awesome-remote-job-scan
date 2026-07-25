@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2095</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2096</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiting Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/11660/recruiting-coordinator/) |
 | Senior Manager, Technical Accounting - M&A and Investments | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma-and-investments/) |
 | Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | Product Engineer, GTM Growth Engineering | On-site | [View →](https://www.remotejobscan.com/job/10167/product-engineer-gtm-growth-engineering/) |
@@ -42,7 +43,6 @@
 | Data Scientist, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
 | Senior Manager, Revenue Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
-| Lead Product Manager | Remote | [View →](https://www.remotejobscan.com/job/11642/lead-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
