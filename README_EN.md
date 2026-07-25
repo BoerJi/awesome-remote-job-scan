@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2089</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2094</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
+| Product Engineer, GTM Growth Engineering | On-site | [View →](https://www.remotejobscan.com/job/10167/product-engineer-gtm-growth-engineering/) |
+| Applied AI Engineer, GTM Growth Engineering | On-site | [View →](https://www.remotejobscan.com/job/11658/applied-ai-engineer-gtm-growth-engineering/) |
+| Staff Software Engineer, Code RL | On-site | [View →](https://www.remotejobscan.com/job/11656/staff-software-engineer-code-rl/) |
+| Staff Software Engineer, Environments Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
+| Sr Structured Finance Execution Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11657/sr-structured-finance-execution-lead/) |
 | Recruiting Coordinator Lead, Applied | Hybrid | [View →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
 | Early Access Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
 | Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
@@ -37,12 +43,6 @@
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
 | Lead Product Manager | Remote | [View →](https://www.remotejobscan.com/job/11642/lead-product-manager/) |
 | Data Engineer, CPU & Storage | On-site | [View →](https://www.remotejobscan.com/job/11641/data-engineer-cpu-storage/) |
-| Research Engineer, Agents | Remote | [View →](https://www.remotejobscan.com/job/11640/research-engineer-agents/) |
-| Research Engineer, Frontier Speculative Decoding | On-site | [View →](https://www.remotejobscan.com/job/9847/research-engineer-frontier-speculative-decoding/) |
-| Senior Webinar & Digital Events Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11637/senior-webinar-digital-events-strategist/) |
-| Senior Marketing Strategist, Paid & New Demand Channels | Hybrid | [View →](https://www.remotejobscan.com/job/11638/senior-marketing-strategist-paid-new-demand-channels/) |
-| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/11639/engineering-manager-fde-agentic-platform/) |
-| Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
