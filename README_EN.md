@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -40,9 +40,6 @@
 | Travel Security Manager - APAC | Hybrid | [View →](https://www.remotejobscan.com/job/11650/travel-security-manager-apac/) |
 | Regional State and Local Affairs Lead, Southern States | Remote | [View →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
 | IT Support Engineer, Executive Support | On-site | [View →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
-| Data Scientist, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/11645/data-scientist-gtm/) |
-| Senior Manager, Revenue Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/11643/senior-manager-revenue-accounting/) |
-| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
