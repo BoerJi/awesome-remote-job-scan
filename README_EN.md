@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2087</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2089</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiting Coordinator Lead, Applied | Hybrid | [View →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
+| Early Access Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
+| Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 | Director, Data Center Strategy and Site Selection | Remote | [View →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
 | Technical Documentation and Content Engineer, Claude Docs | On-site | [View →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
 | Product Manager, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/11649/product-manager-legal/) |
@@ -40,9 +43,6 @@
 | Senior Marketing Strategist, Paid & New Demand Channels | Hybrid | [View →](https://www.remotejobscan.com/job/11638/senior-marketing-strategist-paid-new-demand-channels/) |
 | Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/11639/engineering-manager-fde-agentic-platform/) |
 | Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
-| Enterprise Account Executive | Remote | [View →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
-| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
-| Quant Developer | Remote | [View →](https://www.remotejobscan.com/job/11631/quant-developer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

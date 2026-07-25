@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2087</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2089</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘协调主管，应用 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
+| 早期访问部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
+| 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 | 数据中心战略与选址总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
 | 技术文档与内容工程师，Claude文档 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
 | 法律产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11649/product-manager-legal/) |
@@ -40,9 +43,6 @@
 | 高级营销策略师，付费及新需求渠道 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11638/senior-marketing-strategist-paid-new-demand-channels/) |
 | FDE智能平台工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11639/engineering-manager-fde-agentic-platform/) |
 | 高级企业营销经理，Base | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
-| 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11636/enterprise-account-executive/) |
-| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11635/senior-software-engineer-data-engineering-platform/) |
-| 量化开发者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11631/quant-developer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
