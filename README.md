@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（11 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -34,7 +34,6 @@
 | 招聘协调主管，应用 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
 | 早期访问部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
 | 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
-| 数据中心战略与选址总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

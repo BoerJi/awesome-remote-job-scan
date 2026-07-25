@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,7 +34,6 @@
 | Recruiting Coordinator Lead, Applied | Hybrid | [View →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
 | Early Access Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
 | Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
-| Director, Data Center Strategy and Site Selection | Remote | [View →](https://www.remotejobscan.com/job/9832/director-data-center-strategy-and-site-selection/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
