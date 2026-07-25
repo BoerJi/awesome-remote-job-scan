@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,9 +31,6 @@
 | 高级软件工程师，代码强化学习 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11656/staff-software-engineer-code-rl/) |
 | 环境基础设施高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
 | 高级结构化金融执行主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11657/sr-structured-finance-execution-lead/) |
-| 招聘协调主管，应用 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
-| 早期访问部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
-| 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-25 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

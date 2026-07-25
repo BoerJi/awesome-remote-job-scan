@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,9 +31,6 @@
 | Staff Software Engineer, Code RL | On-site | [View →](https://www.remotejobscan.com/job/11656/staff-software-engineer-code-rl/) |
 | Staff Software Engineer, Environments Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
 | Sr Structured Finance Execution Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11657/sr-structured-finance-execution-lead/) |
-| Recruiting Coordinator Lead, Applied | Hybrid | [View →](https://www.remotejobscan.com/job/11654/recruiting-coordinator-lead-applied/) |
-| Early Access Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11653/early-access-deployment-engineer/) |
-| Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-25 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
