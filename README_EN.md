@@ -19,12 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（2 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Recruiting Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/11660/recruiting-coordinator/) |
-| Senior Manager, Technical Accounting - M&A and Investments | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma-and-investments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -86,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-26 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-26 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
