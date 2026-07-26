@@ -19,12 +19,9 @@
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（0 featured jobs）
 
-| Position | Location | Details |
-|---|---|---|
-| Recruiting Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/11660/recruiting-coordinator/) |
-[📋 Browse all jobs →](https://www.remotejobscan.com)
+> No new jobs in the past 24 hours. [Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
@@ -85,6 +82,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-26 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-26 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
