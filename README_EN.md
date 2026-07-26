@@ -19,18 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Recruiting Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/11660/recruiting-coordinator/) |
 | Senior Manager, Technical Accounting - M&A and Investments | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma-and-investments/) |
-| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| Product Engineer, GTM Growth Engineering | On-site | [View →](https://www.remotejobscan.com/job/10167/product-engineer-gtm-growth-engineering/) |
-| Applied AI Engineer, GTM Growth Engineering | On-site | [View →](https://www.remotejobscan.com/job/11658/applied-ai-engineer-gtm-growth-engineering/) |
-| Staff Software Engineer, Code RL | On-site | [View →](https://www.remotejobscan.com/job/11656/staff-software-engineer-code-rl/) |
-| Staff Software Engineer, Environments Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
-| Sr Structured Finance Execution Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11657/sr-structured-finance-execution-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-26 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-26 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

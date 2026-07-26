@@ -19,18 +19,12 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（2 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 招聘协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11660/recruiting-coordinator/) |
 | 高级经理，技术会计-并购与投资 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma-and-investments/) |
-| 定价Staff应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| GTM增长工程产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10167/product-engineer-gtm-growth-engineering/) |
-| 应用AI工程师，GTM增长工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11658/applied-ai-engineer-gtm-growth-engineering/) |
-| 高级软件工程师，代码强化学习 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11656/staff-software-engineer-code-rl/) |
-| 环境基础设施高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
-| 高级结构化金融执行主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11657/sr-structured-finance-execution-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-26 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-26 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
