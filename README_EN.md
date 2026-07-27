@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2091</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2067</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| Senior Strategy PMO / Project Manager | On-site | [View →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | Senior Account Executive, Latin America Federal (US) | Hybrid | [View →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
@@ -91,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
