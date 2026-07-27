@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2071</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2075</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM Intelligence数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
+| 高级AI工程师 - 营增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
+| 企业发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
+| 高级AI工程师 -增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11687/senior-ai-engineer-growth/) |
+| 增长与市场设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
+| 增长负责人 - Cognizant Infosys & Wipro | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
 | 设计开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8283/design-developer/) |
 | 高级反欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | 信任与安全软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
@@ -34,15 +40,9 @@
 | ChatGPT整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
 | 结构化金融高级副理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
 | 广告解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
-| 核心技术项目经理 - 核心基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11678/technical-project-manager-core-infrastructure/) |
 | 英国首席运营官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
 | 数据科学家，推理能力优化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
 | 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
-| 交易增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
-| 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 高级战略PMO/项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
-| P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
-| 产品总监（支付与卡） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 19:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

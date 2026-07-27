@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2071</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2075</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, GTM Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
+| Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
+| Corporate Development Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
+| Design Engineer, Growth & Marketing | On-site | [View →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
+| Head of Growth GSIs - Cognizant Infosys & Wipro | On-site | [View →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
 | Design Developer | On-site | [View →](https://www.remotejobscan.com/job/8283/design-developer/) |
 | Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | Software Engineer, Trust & Safety | Remote | [View →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
@@ -34,15 +39,9 @@
 | Integrated Marketing Manager, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
 | Structured Finance Sr Associate | Hybrid | [View →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
 | Solutions Engineer, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
-| Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11678/technical-project-manager-core-infrastructure/) |
 | Chief Operating Officer, UK | Remote | [View →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
 | Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
 | Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
-| Trading Growth Lead | On-site | [View →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Senior Strategy PMO / Project Manager | On-site | [View →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
-| P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
-| Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 19:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
