@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2068</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2069</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Trading Growth Lead | On-site | [View →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior Strategy PMO / Project Manager | On-site | [View →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

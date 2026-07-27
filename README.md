@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2068</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2069</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
 | 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 高级战略PMO/项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
 | P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
