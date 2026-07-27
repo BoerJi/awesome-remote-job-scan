@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2069</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2071</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 设计开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8283/design-developer/) |
+| 高级反欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
+| 信任与安全软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
 | 产品政策-青年政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
 | 销售策略与运营 - 中央 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
 | 拉丁美洲客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
@@ -40,9 +43,6 @@
 | 高级战略PMO/项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
 | P2P Risk & Control Specialist P2P风控 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | 产品总监（支付与卡） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
-| 拉丁美洲联邦（美国）高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
-| 高级客户经理，德国PUBSEC（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11667/senior-account-executive-germany-pubsec-berlin-germany/) |
-| SLED（美国）客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11666/account-executive-sled-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2069</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2071</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Design Developer | On-site | [View →](https://www.remotejobscan.com/job/8283/design-developer/) |
+| Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
+| Software Engineer, Trust & Safety | Remote | [View →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
 | Product Policy - Youth Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
 | Sales Strategy & Operations - Central | Remote | [View →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
 | Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
@@ -40,9 +43,6 @@
 | Senior Strategy PMO / Project Manager | On-site | [View →](https://www.remotejobscan.com/job/9146/senior-strategy-pmo-project-manager/) |
 | P2P Risk & Control Specialist P2P风控 | Remote | [View →](https://www.remotejobscan.com/job/8973/p2p-risk-control-specialist-p2p/) |
 | Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
-| Senior Account Executive, Latin America Federal (US) | Hybrid | [View →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
-| Senior Account Executive, Germany PUBSEC (Berlin, Germany) | Remote | [View →](https://www.remotejobscan.com/job/11667/senior-account-executive-germany-pubsec-berlin-germany/) |
-| Account Executive, SLED (US) | On-site | [View →](https://www.remotejobscan.com/job/11666/account-executive-sled-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
