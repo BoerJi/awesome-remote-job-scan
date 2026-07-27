@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业解决方案工程师 - 澳新 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
+| 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
 | 人事运营与HRIS负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | 企业客户经理 - ElevenCreative - 北美 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | 企业客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
@@ -41,8 +43,6 @@
 | 信任与安全软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
 | 产品政策-青年政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
 | 销售策略与运营 - 中央 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
-| 拉丁美洲客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
-| 电力土地开发者、发展与电力项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

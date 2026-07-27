@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Solutions Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
+| Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
 | People Operations and HRIS Lead | Remote | [View →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | Account Executive - ElevenCreative - North America - Corporate | Remote | [View →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
@@ -40,8 +42,6 @@
 | Software Engineer, Trust & Safety | Remote | [View →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
 | Product Policy - Youth Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
 | Sales Strategy & Operations - Central | Remote | [View →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
-| Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
-| Power Land Developer, Development & Power Projects | Remote | [View →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
