@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2066</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2067</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据科学家，推理能力优化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
 | 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 | 交易增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
 | 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
@@ -95,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

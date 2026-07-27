@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2066</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2067</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
 | Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 | Trading Growth Lead | On-site | [View →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
@@ -95,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
