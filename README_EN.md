@@ -19,10 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11678/technical-project-manager-core-infrastructure/) |
+| Chief Operating Officer, UK | Remote | [View →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
 | Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
 | Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 | Trading Growth Lead | On-site | [View →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
@@ -96,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

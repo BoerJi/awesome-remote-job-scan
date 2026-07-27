@@ -19,10 +19,12 @@
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心技术项目经理 - 核心基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11678/technical-project-manager-core-infrastructure/) |
+| 英国首席运营官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
 | 数据科学家，推理能力优化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
 | 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 | 交易增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11673/trading-growth-lead/) |
@@ -96,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
