@@ -19,10 +19,13 @@
 
 ---
 
-## 🆕 今日更新（14 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| ChatGPT整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
+| 结构化金融高级副理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
+| 广告解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
 | 核心技术项目经理 - 核心基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11678/technical-project-manager-core-infrastructure/) |
 | 英国首席运营官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
 | 数据科学家，推理能力优化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
@@ -98,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

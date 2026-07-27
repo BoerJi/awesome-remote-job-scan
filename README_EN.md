@@ -19,10 +19,13 @@
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Integrated Marketing Manager, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
+| Structured Finance Sr Associate | Hybrid | [View →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
+| Solutions Engineer, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
 | Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11678/technical-project-manager-core-infrastructure/) |
 | Chief Operating Officer, UK | Remote | [View →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
 | Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
@@ -98,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
