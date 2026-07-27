@@ -14,14 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2090</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2089</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（0 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
-> No new jobs in the past 24 hours. [Browse all jobs →](https://www.remotejobscan.com)
+| Position | Location | Details |
+|---|---|---|
+| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
+[📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
@@ -82,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
