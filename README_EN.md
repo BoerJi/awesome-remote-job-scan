@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2080</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2081</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Operations and HRIS Lead | Remote | [View →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | Account Executive - ElevenCreative - North America - Corporate | Remote | [View →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 | Senior Enterprise Product Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-product-marketing-manager-base/) |
@@ -41,7 +42,6 @@
 | Sales Strategy & Operations - Central | Remote | [View →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
 | Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
 | Power Land Developer, Development & Power Projects | Remote | [View →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
-| Land Development & Due Diligence Lead | Remote | [View →](https://www.remotejobscan.com/job/11683/land-development-due-diligence-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

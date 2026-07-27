@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2080</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2081</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人事运营与HRIS负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | 企业客户经理 - ElevenCreative - 北美 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | 企业客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 | 高级企业产品营销经理，Base | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11634/senior-enterprise-product-marketing-manager-base/) |
@@ -42,7 +43,6 @@
 | 销售策略与运营 - 中央 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
 | 拉丁美洲客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
 | 电力土地开发者、发展与电力项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
-| 土地开发与尽职调查主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11683/land-development-due-diligence-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
