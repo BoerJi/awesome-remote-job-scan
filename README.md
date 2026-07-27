@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2075</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2080</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - ElevenCreative - 北美 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
+| 企业客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
+| 高级企业产品营销经理，Base | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11634/senior-enterprise-product-marketing-manager-base/) |
+| 消费生活方式通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
+| 数据采集系统软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
+| 招聘协调员（合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
 | GTM Intelligence数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
 | 高级AI工程师 - 营增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
 | 企业发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
@@ -37,12 +43,6 @@
 | 拉丁美洲客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
 | 电力土地开发者、发展与电力项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
 | 土地开发与尽职调查主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11683/land-development-due-diligence-lead/) |
-| ChatGPT整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
-| 结构化金融高级副理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
-| 广告解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
-| 英国首席运营官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
-| 数据科学家，推理能力优化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
-| 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

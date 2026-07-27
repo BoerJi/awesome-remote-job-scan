@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2075</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2080</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - ElevenCreative - North America - Corporate | Remote | [View →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
+| Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
+| Senior Enterprise Product Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-product-marketing-manager-base/) |
+| Consumer Lifestyle Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
+| Software Engineer - Data Acquisition (systems) | On-site | [View →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
+| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
 | Data Scientist, GTM Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
 | Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
 | Corporate Development Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
@@ -36,12 +42,6 @@
 | Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
 | Power Land Developer, Development & Power Projects | Remote | [View →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
 | Land Development & Due Diligence Lead | Remote | [View →](https://www.remotejobscan.com/job/11683/land-development-due-diligence-lead/) |
-| Integrated Marketing Manager, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
-| Structured Finance Sr Associate | Hybrid | [View →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
-| Solutions Engineer, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
-| Chief Operating Officer, UK | Remote | [View →](https://www.remotejobscan.com/job/11677/chief-operating-officer-uk/) |
-| Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/11676/data-scientist-inference-capacity-optimization/) |
-| Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
