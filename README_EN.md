@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2067</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2071</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Product Policy - Youth Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
+| Sales Strategy & Operations - Central | Remote | [View →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
+| Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
+| Power Land Developer, Development & Power Projects | Remote | [View →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
+| Land Development & Due Diligence Lead | Remote | [View →](https://www.remotejobscan.com/job/11683/land-development-due-diligence-lead/) |
 | Integrated Marketing Manager, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
 | Structured Finance Sr Associate | Hybrid | [View →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
 | Solutions Engineer, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
@@ -38,8 +43,6 @@
 | Senior Account Executive, Latin America Federal (US) | Hybrid | [View →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
 | Senior Account Executive, Germany PUBSEC (Berlin, Germany) | Remote | [View →](https://www.remotejobscan.com/job/11667/senior-account-executive-germany-pubsec-berlin-germany/) |
 | Account Executive, SLED (US) | On-site | [View →](https://www.remotejobscan.com/job/11666/account-executive-sled-us/) |
-| Senior Account Executive, Federal Defense and Intelligence | Remote | [View →](https://www.remotejobscan.com/job/11665/senior-account-executive-federal-defense-and-intelligence/) |
-| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

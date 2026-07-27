@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2067</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2071</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品政策-青年政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
+| 销售策略与运营 - 中央 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
+| 拉丁美洲客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11684/account-manager-latam/) |
+| 电力土地开发者、发展与电力项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11682/power-land-developer-development-power-projects/) |
+| 土地开发与尽职调查主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11683/land-development-due-diligence-lead/) |
 | ChatGPT整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11680/integrated-marketing-manager-chatgpt/) |
 | 结构化金融高级副理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11681/structured-finance-sr-associate/) |
 | 广告解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11679/solutions-engineer-ads/) |
@@ -38,8 +43,6 @@
 | 拉丁美洲联邦（美国）高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
 | 高级客户经理，德国PUBSEC（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11667/senior-account-executive-germany-pubsec-berlin-germany/) |
 | SLED（美国）客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11666/account-executive-sled-us/) |
-| 联邦国防与情报高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11665/senior-account-executive-federal-defense-and-intelligence/) |
-| Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
