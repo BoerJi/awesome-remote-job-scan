@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2092</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2093</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | Senior Account Executive, Latin America Federal (US) | Hybrid | [View →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
 | Senior Account Executive, Germany PUBSEC (Berlin, Germany) | Remote | [View →](https://www.remotejobscan.com/job/11667/senior-account-executive-germany-pubsec-berlin-germany/) |
 | Account Executive, SLED (US) | On-site | [View →](https://www.remotejobscan.com/job/11666/account-executive-sled-us/) |
@@ -89,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-27 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

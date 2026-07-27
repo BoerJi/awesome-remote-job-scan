@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2093</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品总监（支付与卡） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | 拉丁美洲联邦（美国）高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11668/senior-account-executive-latin-america-federal-us/) |
 | 高级客户经理，德国PUBSEC（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11667/senior-account-executive-germany-pubsec-berlin-germany/) |
 | SLED（美国）客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11666/account-executive-sled-us/) |
@@ -89,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-27 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
