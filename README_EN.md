@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2084</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2087</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy General Counsel, Institutions | On-site | [View →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
 | Network Operations Engineer, Network Activation | On-site | [View →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
 | Senior IT Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
@@ -40,8 +41,6 @@
 | Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
 | Corporate Development Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
 | Design Engineer, Growth & Marketing | On-site | [View →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
-| Head of Growth GSIs - Cognizant Infosys & Wipro | On-site | [View →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
-| Design Developer | On-site | [View →](https://www.remotejobscan.com/job/8283/design-developer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

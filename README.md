@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2084</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2087</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机构副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
+| 副总法律顾问，机构业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11708/deputy-general-counsel-institutions/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
 | 网络运维工程师，网络激活 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
 | 高级IT安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
@@ -41,8 +43,6 @@
 | 企业发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
 | 高级AI工程师 -增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11687/senior-ai-engineer-growth/) |
 | 增长与市场设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
-| 增长负责人 - Cognizant Infosys & Wipro | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
-| 设计开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8283/design-developer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
