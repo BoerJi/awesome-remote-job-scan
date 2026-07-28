@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2089</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2090</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
+| 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11719/content-editor/) |
+| 内容作者/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营（能上夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | 币安加速器项目 - 全球营销活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
@@ -40,9 +43,6 @@
 | 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
 | 企业客户经理 - ElevenCreative - 北美 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | 企业客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
-| 高级企业营销经理，Base | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
-| 消费生活方式通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
-| 数据采集系统软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
