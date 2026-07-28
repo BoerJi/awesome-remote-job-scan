@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2087</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2091</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Engineer, Fullstack | On-site | [View →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
+| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | Engineering - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | Deputy General Counsel, Institutions | On-site | [View →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
@@ -39,8 +42,6 @@
 | Software Engineer - Data Acquisition (systems) | On-site | [View →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 | Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
 | Data Scientist, GTM Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
-| Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
-| Corporate Development Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

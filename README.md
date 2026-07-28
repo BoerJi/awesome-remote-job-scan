@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2087</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2091</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
+| 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | 工程 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | 机构副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 | 副总法律顾问，机构业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11708/deputy-general-counsel-institutions/) |
@@ -40,9 +43,6 @@
 | 数据采集系统软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 | 招聘协调员（合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
 | GTM Intelligence数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
-| 高级AI工程师 - 营增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
-| 企业发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
-| 高级AI工程师 -增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11687/senior-ai-engineer-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
