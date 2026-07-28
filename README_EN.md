@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
+| Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
+| Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/11731/software-engineer-backend-consumer-risk/) |
+| Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
+| Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11730/technical-project-manager-core-infrastructure/) |
 | AI Content Creator | On-site | [View →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
 | Corporate Development Lead | Remote | [View →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
 | General Manager - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
@@ -38,11 +43,6 @@
 | Content Writer/Specialist | Remote | [View →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营（能上夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| Binance Accelerator Program - Global Campaign Operations | Remote | [View →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
-| Senior Product Engineer, Fullstack | On-site | [View →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
-| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
-| Engineering - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
-| Deputy General Counsel, Institutions | On-site | [View →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

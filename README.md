@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
+| 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
+| 软件工程师，后端（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11731/software-engineer-backend-consumer-risk/) |
+| 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
+| 核心技术项目经理 - 核心基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11730/technical-project-manager-core-infrastructure/) |
 | AI内容创作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
 | 企业发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
 | 沙特阿拉伯总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
@@ -38,11 +43,6 @@
 | 内容作者/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营（能上夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| 币安加速器项目 - 全球营销活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
-| 高级产品工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
-| 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
-| 工程 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
-| 机构副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
