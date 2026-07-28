@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2104</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2101</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级前端工程师 (Coinbase 顾问 - 智能交易) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 | 高级客户体验自动化产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9315/staff-product-manager-cx-automation/) |
 | ChatGPT基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
 | 专属顾问专家四级 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
@@ -42,7 +43,6 @@
 | 企业级垂直领域软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
 | 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
-| 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
