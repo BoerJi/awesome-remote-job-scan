@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2097</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2102</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 云市场与合作伙伴关系 - AWS 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
+| 技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
+| 高级会计经理（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| 高级会计师（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
+| 网络运维工程师，网络激活 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11739/network-operations-engineer-network-activation/) |
+| 销售发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11740/sales-development-representative/) |
 | 企业安全项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
+| 高级前端工程师 - Coinbase卡团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
 | 企业级垂直领域软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
 | 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
@@ -36,13 +43,6 @@
 | AI内容创作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
 | 企业发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
 | 沙特阿拉伯总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
-| 通用经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11726/general-manager-uae/) |
-| 斯洛伐克与捷克共和国业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
-| 高级软件工程师，协议（Rust） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11725/senior-software-engineer-protocol-rust/) |
-| AI基础设施工程师（SRE）阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-engineer-sre-amsterdam/) |
-| 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
-| 高级活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
-| 拉美运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

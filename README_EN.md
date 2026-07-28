@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2097</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2102</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Order Management & Billing Lead, Cloud Marketplaces & Partnerships - AWS | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
+| Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
+| Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| Senior Accountant (India) | Remote | [View →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
+| Network Operations Engineer, Network Activation | On-site | [View →](https://www.remotejobscan.com/job/11739/network-operations-engineer-network-activation/) |
+| Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11740/sales-development-representative/) |
 | Corporate Security Program Manager | On-site | [View →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
+| Senior Software Engineer - Frontend - Coinbase Card team | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
 | Software Engineer, Enterprise Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
 | Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
@@ -36,13 +43,6 @@
 | AI Content Creator | On-site | [View →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
 | Corporate Development Lead | Remote | [View →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
 | General Manager - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
-| General Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/11726/general-manager-uae/) |
-| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
-| Senior Software Engineer, Protocol (Rust) | Remote | [View →](https://www.remotejobscan.com/job/11725/senior-software-engineer-protocol-rust/) |
-| AI infrastructure Engineer (SRE) Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-engineer-sre-amsterdam/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
-| Sr. Events Manager | Remote | [View →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
-| Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
