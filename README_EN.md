@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Protocol (Rust) | Remote | [View →](https://www.remotejobscan.com/job/11725/senior-software-engineer-protocol-rust/) |
+| AI infrastructure Engineer (SRE) Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-engineer-sre-amsterdam/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Sr. Events Manager | Remote | [View →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
 | Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
@@ -40,8 +42,6 @@
 | Network Operations Engineer, Network Activation | On-site | [View →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
 | Senior IT Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
 | Product Manager, AI Enablement, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
-| Enterprise Solutions Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
-| Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

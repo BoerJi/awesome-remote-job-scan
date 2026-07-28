@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，协议（Rust） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11725/senior-software-engineer-protocol-rust/) |
+| AI基础设施工程师（SRE）阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-engineer-sre-amsterdam/) |
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | 高级活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
 | 拉美运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
@@ -41,8 +43,6 @@
 | 网络运维工程师，网络激活 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
 | 高级IT安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
 | AI赋能产品经理，人才创新实验室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
-| 企业解决方案工程师 - 澳新 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
-| 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
