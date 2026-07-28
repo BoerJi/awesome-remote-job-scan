@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合同经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11744/contract-manager/) |
+| 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
 | 云市场与合作伙伴关系 - AWS 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
 | 技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
 | 高级会计经理（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
@@ -41,8 +43,6 @@
 | 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 | 核心技术项目经理 - 核心基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11730/technical-project-manager-core-infrastructure/) |
 | AI内容创作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
-| 企业发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
-| 沙特阿拉伯总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

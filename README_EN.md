@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Contract Manager | Remote | [View →](https://www.remotejobscan.com/job/11744/contract-manager/) |
+| Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
 | Order Management & Billing Lead, Cloud Marketplaces & Partnerships - AWS | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
 | Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
 | Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
@@ -41,8 +43,6 @@
 | Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
 | Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11730/technical-project-manager-core-infrastructure/) |
 | AI Content Creator | On-site | [View →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
-| Corporate Development Lead | Remote | [View →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
-| General Manager - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
