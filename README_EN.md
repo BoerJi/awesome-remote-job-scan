@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2090</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2093</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
+| Sr. Events Manager | Remote | [View →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
+| Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
 | People Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
 | Content Editor | Remote | [View →](https://www.remotejobscan.com/job/11719/content-editor/) |
 | Content Writer/Specialist | Remote | [View →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
@@ -30,7 +33,6 @@
 | US Equity Risk Control Operations 美股风控运营（能上夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | Binance Accelerator Program - Global Campaign Operations | Remote | [View →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
 | Senior Product Engineer, Fullstack | On-site | [View →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | Engineering - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | Deputy General Counsel, Institutions | On-site | [View →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
@@ -40,8 +42,6 @@
 | Product Manager, AI Enablement, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 | Enterprise Solutions Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
 | Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
-| Account Executive - ElevenCreative - North America - Corporate | Remote | [View →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
-| Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2090</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2093</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
+| 高级活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
+| 拉美运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
 | 人才运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
 | 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11719/content-editor/) |
 | 内容作者/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
@@ -30,7 +33,6 @@
 | US Equity Risk Control Operations 美股风控运营（能上夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | 币安加速器项目 - 全球营销活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
 | 高级产品工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
-| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | 工程 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | 机构副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
@@ -41,8 +43,6 @@
 | AI赋能产品经理，人才创新实验室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 | 企业解决方案工程师 - 澳新 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
 | 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
-| 企业客户经理 - ElevenCreative - 北美 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
-| 企业客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
