@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2091</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2089</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -37,11 +37,11 @@
 | Product Manager, AI Enablement, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 | Enterprise Solutions Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
 | Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
-| People Operations and HRIS Lead | Remote | [View →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | Account Executive - ElevenCreative - North America - Corporate | Remote | [View →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 | Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 | Consumer Lifestyle Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
+| Software Engineer - Data Acquisition (systems) | On-site | [View →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
