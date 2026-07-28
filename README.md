@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 工程 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | 机构副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 | 副总法律顾问，机构业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11708/deputy-general-counsel-institutions/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
@@ -42,7 +43,6 @@
 | 高级AI工程师 - 营增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11691/senior-ai-engineer-growth/) |
 | 企业发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11688/corporate-development-lead/) |
 | 高级AI工程师 -增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11687/senior-ai-engineer-growth/) |
-| 增长与市场设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
