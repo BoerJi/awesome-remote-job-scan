@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2105</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2104</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Product Manager, CX Automation | Remote | [View →](https://www.remotejobscan.com/job/9315/staff-product-manager-cx-automation/) |
 | Software Engineer, ChatGPT Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
 | Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
@@ -42,7 +43,6 @@
 | Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
-| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
