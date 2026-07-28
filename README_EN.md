@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, CX & AI Tooling | On-site | [View →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
 | Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 | Staff Product Manager, CX Automation | Remote | [View →](https://www.remotejobscan.com/job/9315/staff-product-manager-cx-automation/) |
 | Software Engineer, ChatGPT Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
@@ -40,7 +41,6 @@
 | Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11740/sales-development-representative/) |
 | Corporate Security Program Manager | On-site | [View →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
 | Senior Software Engineer - Frontend - Coinbase Card team | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
-| Software Engineer, Enterprise Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
 | Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

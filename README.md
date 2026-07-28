@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理，客户体验与AI工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
 | 高级前端工程师 (Coinbase 顾问 - 智能交易) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 | 高级客户体验自动化产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9315/staff-product-manager-cx-automation/) |
 | ChatGPT基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
@@ -40,7 +41,6 @@
 | 销售发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11740/sales-development-representative/) |
 | 企业安全项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
 | 高级前端工程师 - Coinbase卡团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
-| 企业级垂直领域软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
 | 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
