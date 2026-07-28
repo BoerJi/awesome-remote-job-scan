@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI赋能产品经理，人才创新实验室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 | 企业解决方案工程师 - 澳新 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
 | 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
 | 人事运营与HRIS负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
@@ -42,7 +43,6 @@
 | 高级反欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | 信任与安全软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
 | 产品政策-青年政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
-| 销售策略与运营 - 中央 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11685/sales-strategy-operations-central/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
