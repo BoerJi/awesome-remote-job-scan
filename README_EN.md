@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2081</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2082</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Network Operations Engineer, Network Activation | On-site | [View →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
+| Senior IT Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
 | Product Manager, AI Enablement, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 | Enterprise Solutions Engineer - ANZ | Remote | [View →](https://www.remotejobscan.com/job/11700/enterprise-solutions-engineer-anz/) |
 | Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11701/private-equity-partnerships/) |
@@ -40,8 +42,6 @@
 | Head of Growth GSIs - Cognizant Infosys & Wipro | On-site | [View →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
 | Design Developer | On-site | [View →](https://www.remotejobscan.com/job/8283/design-developer/) |
 | Senior Fraud Strategist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
-| Software Engineer, Trust & Safety | Remote | [View →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
-| Product Policy - Youth Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
