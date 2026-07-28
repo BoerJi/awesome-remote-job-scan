@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2082</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2084</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
 | 网络运维工程师，网络激活 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
 | 高级IT安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
 | AI赋能产品经理，人才创新实验室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
@@ -42,7 +43,6 @@
 | 增长与市场设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
 | 增长负责人 - Cognizant Infosys & Wipro | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
 | 设计开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8283/design-developer/) |
-| 高级欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
