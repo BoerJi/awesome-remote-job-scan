@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2090</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2091</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | US Equity Risk Control Operations 美股风控运营（能上夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | Binance Accelerator Program - Global Campaign Operations | Remote | [View →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
 | Senior Product Engineer, Fullstack | On-site | [View →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
@@ -41,7 +42,6 @@
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 | Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 | Consumer Lifestyle Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
-| Software Engineer - Data Acquisition (systems) | On-site | [View →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
