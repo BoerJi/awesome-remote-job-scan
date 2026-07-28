@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2095</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 沙特阿拉伯总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
+| 通用经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11726/general-manager-uae/) |
+| 斯洛伐克与捷克共和国业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
 | 高级软件工程师，协议（Rust） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11725/senior-software-engineer-protocol-rust/) |
 | AI基础设施工程师（SRE）阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-engineer-sre-amsterdam/) |
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
@@ -40,9 +43,6 @@
 | 机构副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 | 副总法律顾问，机构业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11708/deputy-general-counsel-institutions/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
-| 网络运维工程师，网络激活 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
-| 高级IT安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
-| AI赋能产品经理，人才创新实验室 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

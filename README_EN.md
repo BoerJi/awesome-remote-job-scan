@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2092</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2095</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| General Manager - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
+| General Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/11726/general-manager-uae/) |
+| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
 | Senior Software Engineer, Protocol (Rust) | Remote | [View →](https://www.remotejobscan.com/job/11725/senior-software-engineer-protocol-rust/) |
 | AI infrastructure Engineer (SRE) Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-engineer-sre-amsterdam/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
@@ -39,9 +42,6 @@
 | Engineering - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | Deputy General Counsel, Institutions | On-site | [View →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
-| Network Operations Engineer, Network Activation | On-site | [View →](https://www.remotejobscan.com/job/11704/network-operations-engineer-network-activation/) |
-| Senior IT Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11703/senior-it-security-engineer/) |
-| Product Manager, AI Enablement, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/11702/product-manager-ai-enablement-people-innovation-labs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
