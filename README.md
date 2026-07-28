@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2102</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2105</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| ChatGPT基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
+| 专属顾问专家四级 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
+| 运营中心客户支持副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
+| 高级后端软件工程师（消费者 - 增长基础架构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
+| GTM技术入职项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11746/gtm-technical-onboarding-program-manager/) |
 | 合同经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11744/contract-manager/) |
 | 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
 | 云市场与合作伙伴关系 - AWS 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
@@ -38,11 +43,6 @@
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 | 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
-| 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
-| 软件工程师，后端（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11731/software-engineer-backend-consumer-risk/) |
-| 研究科学家，Takeoff Intel | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
-| 核心技术项目经理 - 核心基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11730/technical-project-manager-core-infrastructure/) |
-| AI内容创作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

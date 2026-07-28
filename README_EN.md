@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2102</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2105</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, ChatGPT Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
+| Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
+| Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
+| Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
+| GTM Technical Onboarding Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11746/gtm-technical-onboarding-program-manager/) |
 | Contract Manager | Remote | [View →](https://www.remotejobscan.com/job/11744/contract-manager/) |
 | Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
 | Order Management & Billing Lead, Cloud Marketplaces & Partnerships - AWS | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
@@ -38,11 +43,6 @@
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
-| Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
-| Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/11731/software-engineer-backend-consumer-risk/) |
-| Research Scientist, Takeoff Intel | On-site | [View →](https://www.remotejobscan.com/job/11652/research-scientist-takeoff-intel/) |
-| Technical Project Manager - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11730/technical-project-manager-core-infrastructure/) |
-| AI Content Creator | On-site | [View →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
