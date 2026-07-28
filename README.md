@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2096</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2094</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
+| 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 | 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
 | 土耳其加密业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | 软件工程师，后端（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11731/software-engineer-backend-consumer-risk/) |
@@ -41,8 +43,6 @@
 | 人才运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
 | 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11719/content-editor/) |
 | 内容作者/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
-| US Equity Risk Control Operations 美股风控运营（能上夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

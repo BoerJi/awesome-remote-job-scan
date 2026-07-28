@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2096</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2094</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
+| Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
 | Crypto Business Analyst - Turkish | Remote | [View →](https://www.remotejobscan.com/job/8834/crypto-business-analyst-turkish/) |
 | Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/11731/software-engineer-backend-consumer-risk/) |
@@ -41,8 +43,6 @@
 | People Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
 | Content Editor | Remote | [View →](https://www.remotejobscan.com/job/11719/content-editor/) |
 | Content Writer/Specialist | Remote | [View →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
-| US Equity Risk Control Operations 美股风控运营（能上夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
