@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2091</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2090</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营（能上夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
+| Binance Accelerator Program - Global Campaign Operations | Remote | [View →](https://www.remotejobscan.com/job/11715/binance-accelerator-program-global-campaign-operations/) |
 | Senior Product Engineer, Fullstack | On-site | [View →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
@@ -40,8 +42,6 @@
 | Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 | Consumer Lifestyle Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
 | Software Engineer - Data Acquisition (systems) | On-site | [View →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
-| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
-| Data Scientist, GTM Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11692/data-scientist-gtm-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
