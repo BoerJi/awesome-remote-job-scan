@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2094</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2097</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业安全项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
+| 企业级垂直领域软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
+| 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 | 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
@@ -40,9 +43,6 @@
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | 高级活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
 | 拉美运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
-| 人才运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
-| 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11719/content-editor/) |
-| 内容作者/专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

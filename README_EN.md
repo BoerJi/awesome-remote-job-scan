@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2094</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2097</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Corporate Security Program Manager | On-site | [View →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
+| Software Engineer, Enterprise Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/11734/software-engineer-enterprise-verticals/) |
+| Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
@@ -40,9 +43,6 @@
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Sr. Events Manager | Remote | [View →](https://www.remotejobscan.com/job/11723/sr-events-manager/) |
 | Operations Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/8732/operations-manager-latam/) |
-| People Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/11721/people-operations-lead/) |
-| Content Editor | Remote | [View →](https://www.remotejobscan.com/job/11719/content-editor/) |
-| Content Writer/Specialist | Remote | [View →](https://www.remotejobscan.com/job/11720/content-writerspecialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
