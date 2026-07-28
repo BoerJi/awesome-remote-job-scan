@@ -29,7 +29,7 @@
 | 人事运营与HRIS负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | 企业客户经理 - ElevenCreative - 北美 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | 企业客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
-| 高级企业产品营销经理，Base | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11634/senior-enterprise-product-marketing-manager-base/) |
+| 高级企业营销经理，Base | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 | 消费生活方式通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
 | 数据采集系统软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 | 招聘协调员（合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
@@ -40,7 +40,7 @@
 | 增长与市场设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11690/design-engineer-growth-marketing/) |
 | 增长负责人 - Cognizant Infosys & Wipro | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11689/head-of-growth-gsis-cognizant-infosys-wipro/) |
 | 设计开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8283/design-developer/) |
-| 高级反欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
+| 高级欺诈策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-strategist/) |
 | 信任与安全软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9806/software-engineer-trust-safety/) |
 | 产品政策-青年政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11686/product-policy-youth-policy-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 00:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-28 01:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -29,7 +29,7 @@
 | People Operations and HRIS Lead | Remote | [View →](https://www.remotejobscan.com/job/11699/people-operations-and-hris-lead/) |
 | Account Executive - ElevenCreative - North America - Corporate | Remote | [View →](https://www.remotejobscan.com/job/11698/account-executive-elevencreative-north-america-corporate/) |
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
-| Senior Enterprise Product Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-product-marketing-manager-base/) |
+| Senior Enterprise Marketing Manager, Base | Remote | [View →](https://www.remotejobscan.com/job/11634/senior-enterprise-marketing-manager-base/) |
 | Consumer Lifestyle Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11696/consumer-lifestyle-communications-manager/) |
 | Software Engineer - Data Acquisition (systems) | On-site | [View →](https://www.remotejobscan.com/job/11695/software-engineer-data-acquisition-systems/) |
 | Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/11694/recruiting-coordinator-contract/) |
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 00:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 01:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
