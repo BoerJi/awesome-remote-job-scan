@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2095</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2096</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Content Creator | On-site | [View →](https://www.remotejobscan.com/job/11729/ai-content-creator/) |
+| Corporate Development Lead | Remote | [View →](https://www.remotejobscan.com/job/11728/corporate-development-lead/) |
 | General Manager - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/11727/general-manager-saudi-arabia/) |
 | General Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/11726/general-manager-uae/) |
 | Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
@@ -41,7 +43,6 @@
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | Engineering - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/11710/engineering-elevenapi/) |
 | Deputy General Counsel, Institutions | On-site | [View →](https://www.remotejobscan.com/job/11709/deputy-general-counsel-institutions/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-28 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
