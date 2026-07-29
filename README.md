@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2104</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2109</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太区销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11768/sales-development-lead-apac/) |
+| 新加坡政策与政府关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11767/manager-policy-government-relations-singapore/) |
+| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
+| 高级客户总监 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
+| 医疗与健康科学销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
+| 华沙办公运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11769/workplace-operations-warsaw/) |
+| 高级欺诈数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
+| 预测业务合作伙伴市场主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11766/lead-marketing-predictions-partnerships/) |
 | 市场监察调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
@@ -35,13 +43,6 @@
 | 美国财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | 支付核心产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9217/group-product-manager-payments-core/) |
 | 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| Senior Manager, Web3 Growth (Ecosystem) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Web3增长高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
-| 中市场企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11758/account-director-mid-market-enterprise/) |
-| Options Risk Control Product Manager 期权风控产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
-| 网站运营专员 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
-| 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
-| 战略合作与特殊情况 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

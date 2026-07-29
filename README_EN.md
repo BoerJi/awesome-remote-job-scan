@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2104</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2109</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/11768/sales-development-lead-apac/) |
+| Manager, Policy & Government Relations - Singapore | Remote | [View →](https://www.remotejobscan.com/job/11767/manager-policy-government-relations-singapore/) |
+| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
+| Senior Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
+| Sales Director - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
+| Workplace Operations - Warsaw | Remote | [View →](https://www.remotejobscan.com/job/11769/workplace-operations-warsaw/) |
+| Senior Fraud Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
+| Lead, Marketing (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/11766/lead-marketing-predictions-partnerships/) |
 | Market Surveillance Investigator | Remote | [View →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
@@ -35,13 +43,6 @@
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | Group Product Manager, Payments Core | Remote | [View →](https://www.remotejobscan.com/job/9217/group-product-manager-payments-core/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
-| Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
-| Account Director, Mid-Market Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11758/account-director-mid-market-enterprise/) |
-| Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
-| Website Operations Specialist - CIS Region | Remote | [View →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
-| Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
-| Strategic Partnerships, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
