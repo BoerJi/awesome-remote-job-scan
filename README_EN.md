@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2114</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2117</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Revenue Accounting - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11781/senior-manager-revenue-accounting-strategic-deals/) |
+| Program Manager Lead | Remote | [View →](https://www.remotejobscan.com/job/11779/program-manager-lead/) |
+| Senior Prime Finance Client Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/9268/senior-prime-finance-client-relationship-manager/) |
+| Cyber Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11780/cyber-specialist/) |
 | Business Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/business-lead-special-situations/) |
 | Founding Account Executive (India) | Remote | [View →](https://www.remotejobscan.com/job/11778/founding-account-executive-india/) |
 | Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
@@ -39,10 +43,6 @@
 | Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
 | Senior Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
 | Sales Director - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
-| Workplace Operations - Warsaw | Remote | [View →](https://www.remotejobscan.com/job/11769/workplace-operations-warsaw/) |
-| Senior Fraud Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
-| Market Surveillance Investigator | Remote | [View →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
