@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据安全专家（DLP） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
+| iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11763/ios-developer/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | 安卓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11762/android-engineer/) |
 | 社交媒体营销实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11760/social-media-marketing-intern/) |
@@ -40,8 +42,6 @@
 | 销售发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
 | 会计经理，总账运营与内部公司 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | 竞争情报主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11749/head-of-competitive-intelligence/) |
-| 高级产品经理，客户体验与AI工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
-| 高级前端工程师 (Coinbase 顾问 - 智能交易) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

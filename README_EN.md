@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Security Expert（DLP） | On-site | [View →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
+| iOS Developer | Remote | [View →](https://www.remotejobscan.com/job/11763/ios-developer/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/11762/android-engineer/) |
 | Social Media Marketing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/11760/social-media-marketing-intern/) |
@@ -40,8 +42,6 @@
 | Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
 | Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Head of Competitive Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11749/head-of-competitive-intelligence/) |
-| Senior Product Manager, CX & AI Tooling | On-site | [View →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
-| Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
