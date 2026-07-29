@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2117</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2121</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
+| GTM加速负责人，价值销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11784/gtm-acceleration-lead-value-selling/) |
+| GTM加速，技术解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11785/gtm-acceleration-technical-solutions/) |
+| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
+| 高级经理，收入确认 - 战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11782/senior-manager-revenue-recognition-strategic-deals/) |
 | 高级收入会计经理 - 战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11781/senior-manager-revenue-accounting-strategic-deals/) |
 | 项目经理主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11779/program-manager-lead/) |
 | 高级prime金融客户关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9268/senior-prime-finance-client-relationship-manager/) |
@@ -38,11 +43,6 @@
 | 预测合作市场营销协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/predictions-partnerships-marketing-coordinator/) |
 | 高级前端工程师（交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11770/staff-frontend-engineer-trading/) |
 | 预测合作营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
-| 亚太区销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11768/sales-development-lead-apac/) |
-| 新加坡政策与政府关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11767/manager-policy-government-relations-singapore/) |
-| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
-| 高级客户总监 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
-| 医疗与健康科学销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2117</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2121</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
+| GTM Acceleration Lead, Value Selling | Hybrid | [View →](https://www.remotejobscan.com/job/11784/gtm-acceleration-lead-value-selling/) |
+| GTM Acceleration, Technical Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/11785/gtm-acceleration-technical-solutions/) |
+| Senior Manager, Recruiting | Remote | [View →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
+| Senior Manager, Revenue Recognition - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11782/senior-manager-revenue-recognition-strategic-deals/) |
 | Senior Manager, Revenue Accounting - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11781/senior-manager-revenue-accounting-strategic-deals/) |
 | Program Manager Lead | Remote | [View →](https://www.remotejobscan.com/job/11779/program-manager-lead/) |
 | Senior Prime Finance Client Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/9268/senior-prime-finance-client-relationship-manager/) |
@@ -38,11 +43,6 @@
 | Predictions Partnerships Marketing Coordinator | On-site | [View →](https://www.remotejobscan.com/job/9173/predictions-partnerships-marketing-coordinator/) |
 | Staff Frontend Engineer (Trading) | Remote | [View →](https://www.remotejobscan.com/job/11770/staff-frontend-engineer-trading/) |
 | Predictions Partnerships Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
-| Sales Development Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/11768/sales-development-lead-apac/) |
-| Manager, Policy & Government Relations - Singapore | Remote | [View →](https://www.remotejobscan.com/job/11767/manager-policy-government-relations-singapore/) |
-| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/11338/senior-sales-operations-specialist/) |
-| Senior Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11331/senior-account-executive-financial-services/) |
-| Sales Director - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
