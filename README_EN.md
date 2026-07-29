@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2108</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2114</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/business-lead-special-situations/) |
+| Founding Account Executive (India) | Remote | [View →](https://www.remotejobscan.com/job/11778/founding-account-executive-india/) |
+| Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
+| Senior Vendor Manager - SMB Sales | Hybrid | [View →](https://www.remotejobscan.com/job/11777/senior-vendor-manager-smb-sales/) |
 | Software Engineer, Enterprise Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/11773/software-engineer-enterprise-verticals/) |
 | Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
 | Senior Mobile Engineer (React Native) | Remote | [View →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
@@ -39,10 +43,6 @@
 | Senior Fraud Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
 | Market Surveillance Investigator | Remote | [View →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
-| Data Security Expert（DLP） | On-site | [View →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
-| iOS Developer | Remote | [View →](https://www.remotejobscan.com/job/11763/ios-developer/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
