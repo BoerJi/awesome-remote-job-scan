@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2121</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2122</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
+| Account Executive Lead - North America - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/11788/account-executive-lead-north-america-mid-market/) |
 | HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
 | GTM Acceleration Lead, Value Selling | Hybrid | [View →](https://www.remotejobscan.com/job/11784/gtm-acceleration-lead-value-selling/) |
 | GTM Acceleration, Technical Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/11785/gtm-acceleration-technical-solutions/) |
@@ -37,12 +39,9 @@
 | Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 | Senior Vendor Manager - SMB Sales | Hybrid | [View →](https://www.remotejobscan.com/job/11777/senior-vendor-manager-smb-sales/) |
 | Software Engineer, Enterprise Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/11773/software-engineer-enterprise-verticals/) |
-| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
 | Senior Mobile Engineer (React Native) | Remote | [View →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
 | Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/11771/design-engineer/) |
 | Predictions Partnerships Marketing Coordinator | On-site | [View →](https://www.remotejobscan.com/job/9173/predictions-partnerships-marketing-coordinator/) |
-| Staff Frontend Engineer (Trading) | Remote | [View →](https://www.remotejobscan.com/job/11770/staff-frontend-engineer-trading/) |
-| Predictions Partnerships Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
