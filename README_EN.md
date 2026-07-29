@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2102</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2107</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Group Product Manager, Payments Core | Remote | [View →](https://www.remotejobscan.com/job/9217/group-product-manager-payments-core/) |
+| Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
+| Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
+| Senior Manager, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
+| Account Director, Mid-Market Enterprise | On-site | [View →](https://www.remotejobscan.com/job/11758/account-director-mid-market-enterprise/) |
+| Options Risk Control Product Manager 期权风控产品 | Remote | [View →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
 | Website Operations Specialist - CIS Region | Remote | [View →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Strategic Partnerships, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
@@ -36,13 +42,6 @@
 | Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 | Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
-| GTM Technical Onboarding Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11746/gtm-technical-onboarding-program-manager/) |
-| Contract Manager | Remote | [View →](https://www.remotejobscan.com/job/11744/contract-manager/) |
-| Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
-| Order Management & Billing Lead, Cloud Marketplaces & Partnerships - AWS | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
-| Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
-| Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| Senior Accountant (India) | Remote | [View →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

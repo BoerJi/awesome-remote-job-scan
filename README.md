@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2102</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2107</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付核心产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9217/group-product-manager-payments-core/) |
+| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
+| Senior Manager, Web3 Growth (Ecosystem) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
+| Web3增长高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8449/senior-manager-web3-growth/) |
+| 中市场企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11758/account-director-mid-market-enterprise/) |
+| Options Risk Control Product Manager 期权风控产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11307/options-risk-control-product-manager/) |
 | 网站运营专员 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | 战略合作与特殊情况 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
@@ -36,13 +42,6 @@
 | 专属顾问专家四级 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
 | 运营中心客户支持副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 | 高级后端软件工程师（消费者 - 增长基础架构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
-| GTM技术入职项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11746/gtm-technical-onboarding-program-manager/) |
-| 合同经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11744/contract-manager/) |
-| 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
-| 云市场与合作伙伴关系 - AWS 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11742/order-management-billing-lead-cloud-marketplaces-partnerships-aws/) |
-| 技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
-| 高级会计经理（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| 高级会计师（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
