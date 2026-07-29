@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2108</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2106</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
+| 安卓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11762/android-engineer/) |
 | 社交媒体营销实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11760/social-media-marketing-intern/) |
 | 合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11759/compliance-analyst/) |
 | 美国财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
@@ -40,8 +42,6 @@
 | 竞争情报主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11749/head-of-competitive-intelligence/) |
 | 高级产品经理，客户体验与AI工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
 | 高级前端工程师 (Coinbase 顾问 - 智能交易) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| 高级客户体验自动化产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9315/staff-product-manager-cx-automation/) |
-| ChatGPT基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

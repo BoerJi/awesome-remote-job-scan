@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2108</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2106</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
+| Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/11762/android-engineer/) |
 | Social Media Marketing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/11760/social-media-marketing-intern/) |
 | Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/11759/compliance-analyst/) |
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
@@ -40,8 +42,6 @@
 | Head of Competitive Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11749/head-of-competitive-intelligence/) |
 | Senior Product Manager, CX & AI Tooling | On-site | [View →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
 | Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| Staff Product Manager, CX Automation | Remote | [View →](https://www.remotejobscan.com/job/9315/staff-product-manager-cx-automation/) |
-| Software Engineer, ChatGPT Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
