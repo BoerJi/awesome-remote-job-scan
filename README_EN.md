@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2104</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2102</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Website Operations Specialist - CIS Region | Remote | [View →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
+| Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Strategic Partnerships, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
 | Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
 | Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
@@ -41,7 +43,6 @@
 | Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
 | Sr. Manager, Accounting (India) | Remote | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | Senior Accountant (India) | Remote | [View →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
-| Network Operations Engineer, Network Activation | On-site | [View →](https://www.remotejobscan.com/job/11739/network-operations-engineer-network-activation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

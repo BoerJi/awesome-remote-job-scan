@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2104</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2102</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网站运营专员 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
+| 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | 战略合作与特殊情况 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
 | 销售发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
 | 会计经理，总账运营与内部公司 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
@@ -41,7 +43,6 @@
 | 技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11741/technical-support-engineer/) |
 | 高级会计经理（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | 高级会计师（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11381/senior-accountant-india/) |
-| 网络运维工程师，网络激活 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11739/network-operations-engineer-network-activation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
