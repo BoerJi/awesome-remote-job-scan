@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2101</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2102</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Head of Competitive Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11749/head-of-competitive-intelligence/) |
 | Senior Product Manager, CX & AI Tooling | On-site | [View →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
 | Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
@@ -42,7 +43,6 @@
 | Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11740/sales-development-representative/) |
 | Corporate Security Program Manager | On-site | [View →](https://www.remotejobscan.com/job/11733/corporate-security-program-manager/) |
 | Senior Software Engineer - Frontend - Coinbase Card team | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
-| Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/11737/analyst-relations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
