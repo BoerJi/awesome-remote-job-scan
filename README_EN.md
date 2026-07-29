@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2107</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2108</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | Group Product Manager, Payments Core | Remote | [View →](https://www.remotejobscan.com/job/9217/group-product-manager-payments-core/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | Senior Manager, Web3 Growth (Ecosystem) | On-site | [View →](https://www.remotejobscan.com/job/8450/senior-manager-web3-growth-ecosystem/) |
@@ -41,7 +42,6 @@
 | Software Engineer, ChatGPT Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/10025/software-engineer-chatgpt-infrastructure/) |
 | Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
