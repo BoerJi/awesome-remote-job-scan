@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2109</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2107</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -30,7 +30,6 @@
 | 医疗与健康科学销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
 | 华沙办公运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11769/workplace-operations-warsaw/) |
 | 高级欺诈数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
-| 预测业务合作伙伴市场主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11766/lead-marketing-predictions-partnerships/) |
 | 市场监察调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 15:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 16:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2109</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2107</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -30,7 +30,6 @@
 | Sales Director - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/10936/sales-director-healthcare-life-sciences/) |
 | Workplace Operations - Warsaw | Remote | [View →](https://www.remotejobscan.com/job/11769/workplace-operations-warsaw/) |
 | Senior Fraud Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
-| Lead, Marketing (Predictions Partnerships) | On-site | [View →](https://www.remotejobscan.com/job/11766/lead-marketing-predictions-partnerships/) |
 | Market Surveillance Investigator | Remote | [View →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 15:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 16:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
