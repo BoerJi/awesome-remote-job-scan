@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2109</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2108</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业级垂直方向软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11773/software-engineer-enterprise-verticals/) |
+| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
 | 高级移动工程师（React Native） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
 | 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11771/design-engineer/) |
 | 预测合作市场营销协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/predictions-partnerships-marketing-coordinator/) |
@@ -41,8 +43,6 @@
 | 数据安全专家（DLP） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
 | iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11763/ios-developer/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| 安卓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11762/android-engineer/) |
-| 社交媒体营销实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11760/social-media-marketing-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

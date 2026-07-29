@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2109</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2108</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Enterprise Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/11773/software-engineer-enterprise-verticals/) |
+| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
 | Senior Mobile Engineer (React Native) | Remote | [View →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
 | Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/11771/design-engineer/) |
 | Predictions Partnerships Marketing Coordinator | On-site | [View →](https://www.remotejobscan.com/job/9173/predictions-partnerships-marketing-coordinator/) |
@@ -41,8 +43,6 @@
 | Data Security Expert（DLP） | On-site | [View →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
 | iOS Developer | Remote | [View →](https://www.remotejobscan.com/job/11763/ios-developer/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/11762/android-engineer/) |
-| Social Media Marketing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/11760/social-media-marketing-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
