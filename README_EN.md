@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2126</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2128</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Operations & Compliance Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/operations-compliance-audit-leader/) |
+| Cybersecurity & Technology Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11797/cybersecurity-technology-audit-leader/) |
+| Market Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11796/market-operations-specialist/) |
 | Recruiting Coordinator (Contract) | On-site | [View →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
 | Corporate Security Operations Manager, Mountain View | On-site | [View →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
 | Senior Executive Assistant, Technology | On-site | [View →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
@@ -40,9 +43,6 @@
 | Senior Manager, Recruiting | Remote | [View →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
 | Senior Manager, Revenue Recognition - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11782/senior-manager-revenue-recognition-strategic-deals/) |
 | Senior Manager, Revenue Accounting - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11781/senior-manager-revenue-accounting-strategic-deals/) |
-| Program Manager Lead | Remote | [View →](https://www.remotejobscan.com/job/11779/program-manager-lead/) |
-| Senior Prime Finance Client Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/9268/senior-prime-finance-client-relationship-manager/) |
-| Cyber Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11780/cyber-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

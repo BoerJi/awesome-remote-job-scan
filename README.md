@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2126</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2128</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营与合规审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11798/operations-compliance-audit-leader/) |
+| 网络安全与技术审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11797/cybersecurity-technology-audit-leader/) |
+| 市场运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11796/market-operations-specialist/) |
 | 招聘协调员（合同） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
 | 山景城企业安全运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
 | 高级行政助理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
@@ -40,9 +43,6 @@
 | 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
 | 高级经理，收入确认 - 战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11782/senior-manager-revenue-recognition-strategic-deals/) |
 | 高级收入会计经理 - 战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11781/senior-manager-revenue-accounting-strategic-deals/) |
-| 项目经理主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11779/program-manager-lead/) |
-| 高级prime金融客户关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9268/senior-prime-finance-client-relationship-manager/) |
-| 网络安全专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11780/cyber-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
