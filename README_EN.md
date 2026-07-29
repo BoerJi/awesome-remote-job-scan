@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Market Surveillance Investigator | Remote | [View →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | Data Security Expert（DLP） | On-site | [View →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
@@ -41,7 +42,6 @@
 | Website Operations Specialist - CIS Region | Remote | [View →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Strategic Partnerships, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
-| Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

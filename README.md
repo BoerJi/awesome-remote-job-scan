@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场监察调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11765/market-surveillance-investigator/) |
 | 高级人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | 数据安全专家（DLP） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
@@ -41,7 +42,6 @@
 | 网站运营专员 - 中亚地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7872/website-operations-specialist-cis-region/) |
 | 首席交易体验官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | 战略合作与特殊情况 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
-| 销售发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
