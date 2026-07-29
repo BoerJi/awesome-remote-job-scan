@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2105</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2104</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/11713/senior-talent-acquisition-partner/) |
+| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | Data Security Expert（DLP） | On-site | [View →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
 | iOS Developer | Remote | [View →](https://www.remotejobscan.com/job/11763/ios-developer/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
@@ -40,8 +42,6 @@
 | Chief Trading Experience Officer | Remote | [View →](https://www.remotejobscan.com/job/11732/chief-trading-experience-officer/) |
 | Strategic Partnerships, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/strategic-partnerships-special-situations/) |
 | Sales Development Representative | On-site | [View →](https://www.remotejobscan.com/job/11752/sales-development-representative/) |
-| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
-| Head of Competitive Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/11749/head-of-competitive-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-29 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
