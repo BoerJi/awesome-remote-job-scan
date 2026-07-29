@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2126</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘协调员（合同） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
+| 山景城企业安全运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
+| 高级行政助理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
+| 高级薪酬分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11794/senior-payroll-analyst/) |
+| 企业风险管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
+| 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
+| 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11791/growth-product-marketing-manager/) |
+| 增长 - 生命周期负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11790/growth-lifecycle-lead/) |
+| 全球订单到回款转型总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 | 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 | 北美中市场客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11788/account-executive-lead-north-america-mid-market/) |
 | 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
@@ -34,14 +43,6 @@
 | 项目经理主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11779/program-manager-lead/) |
 | 高级prime金融客户关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9268/senior-prime-finance-client-relationship-manager/) |
 | 网络安全专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11780/cyber-specialist/) |
-| 特殊情况业务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11754/business-lead-special-situations/) |
-| 印度创始客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11778/founding-account-executive-india/) |
-| 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| 高级供应商经理 - SMB销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11777/senior-vendor-manager-smb-sales/) |
-| 企业级垂直方向软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11773/software-engineer-enterprise-verticals/) |
-| 高级移动工程师（React Native） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
-| 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11771/design-engineer/) |
-| 预测合作市场营销协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9173/predictions-partnerships-marketing-coordinator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-29 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
