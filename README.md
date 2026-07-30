@@ -23,12 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球入职 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11827/global-onboarding/) |
+| HR业务合作伙伴，欧盟 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
 | 技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7508/technical-accounting-manager/) |
 | 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11826/technical-accounting-senior-manager/) |
 | 财务经理（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5655/finance-manager-group-consolidation-reporting-team/) |
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
-| HR业务合作伙伴，欧盟 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
 | 高级/资深Java工程师，OKX Web3钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
 | 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11823/growth-product-manager-listing-campaign/) |
 | 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
@@ -39,7 +40,6 @@
 | 高级商业智能项目经理（用户增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
 | 高级产品经理，传统金融期权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
 | 高级客服代理（葡萄牙语讲者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
-| 高级客服代理（波兰语讲） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

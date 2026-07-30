@@ -23,12 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global Onboarding | Hybrid | [View →](https://www.remotejobscan.com/job/11827/global-onboarding/) |
+| HR Business Partner, EU | Remote | [View →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
 | Technical Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/7508/technical-accounting-manager/) |
 | Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11826/technical-accounting-senior-manager/) |
 | Finance Manager (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/5655/finance-manager-group-consolidation-reporting-team/) |
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
-| HR Business Partner, EU | Remote | [View →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
 | Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
 | Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/11823/growth-product-manager-listing-campaign/) |
 | Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
@@ -39,7 +40,6 @@
 | Senior Business Intelligence Project Manager (User Growth) | On-site | [View →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
 | Senior Product Manager, Tradfi Options | Remote | [View →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
 | Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
-| Senior Agent, Customer Service (Polish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
