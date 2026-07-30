@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2160</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/11862/it-engineer/) |
 | Sr. Marketing Performance Analyst (Contract) | Remote | [View →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
 | Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
 | Data Annotation Specialist - Investment Banking and Private Equity | Remote | [View →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
@@ -41,7 +42,6 @@
 | Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 | Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | Senior Product Designer (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
-| Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
