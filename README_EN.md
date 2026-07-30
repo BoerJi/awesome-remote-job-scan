@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Inventory Manager - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
+| Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
+| Strategy & Operations Launch Programs | On-site | [View →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
 | Operations & Compliance Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/operations-compliance-audit-leader/) |
 | Cybersecurity & Technology Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11797/cybersecurity-technology-audit-leader/) |
 | Market Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11796/market-operations-specialist/) |
@@ -40,9 +43,6 @@
 | HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
 | GTM Acceleration Lead, Value Selling | Hybrid | [View →](https://www.remotejobscan.com/job/11784/gtm-acceleration-lead-value-selling/) |
 | GTM Acceleration, Technical Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/11785/gtm-acceleration-technical-solutions/) |
-| Senior Manager, Recruiting | Remote | [View →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
-| Senior Manager, Revenue Recognition - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11782/senior-manager-revenue-recognition-strategic-deals/) |
-| Senior Manager, Revenue Accounting - Strategic Deals | On-site | [View →](https://www.remotejobscan.com/job/11781/senior-manager-revenue-accounting-strategic-deals/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
