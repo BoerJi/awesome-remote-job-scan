@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2156</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, SMB Ads Growth | On-site | [View →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
+| Data Scientist, Ads Demand | On-site | [View →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
+| Member of Technical Staff, Model Behavior | Hybrid | [View →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11846/solutions-architect/) |
 | Account Director, Digital Natives Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11855/account-director-digital-natives-growth/) |
 | Senior Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
@@ -39,9 +42,6 @@
 | Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
 | Senior Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
 | Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
-| Staff Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/11376/staff-application-security-engineer/) |
-| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
-| Staff Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

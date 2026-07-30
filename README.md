@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2156</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2157</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据科学家，SMB广告增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
+| 广告需求数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
+| 模型行为技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11846/solutions-architect/) |
 | 数字原生增长客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11855/account-director-digital-natives-growth/) |
 | 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
@@ -39,7 +42,6 @@
 | 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
 | 高级软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
 | 高级软件工程师，预测（移动端） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
-| Staff软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
