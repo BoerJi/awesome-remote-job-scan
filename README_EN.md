@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2145</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2147</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive (Houston) | Remote | [View →](https://www.remotejobscan.com/job/11842/enterprise-account-executive-houston/) |
+| Enterprise Account Executive (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11841/enterprise-account-executive-dallas/) |
+| Enterprise Account Executive (Ohio) | On-site | [View →](https://www.remotejobscan.com/job/11840/enterprise-account-executive-ohio/) |
+| Enterprise Account Executive (Missouri) | On-site | [View →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
+| Enterprise Account Executive (Chicago) | Remote | [View →](https://www.remotejobscan.com/job/11839/enterprise-account-executive-chicago/) |
 | Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11835/sr-brand-designer-krak/) |
 | Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer/) |
@@ -37,10 +42,6 @@
 | Finance Manager (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/5655/finance-manager-group-consolidation-reporting-team/) |
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
-| Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
-| Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/11823/growth-product-manager-listing-campaign/) |
-| Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
-| Head of Wholesale, NEA (VIP) | On-site | [View →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2145</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2147</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理（休斯顿） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11842/enterprise-account-executive-houston/) |
+| 企业客户经理（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11841/enterprise-account-executive-dallas/) |
+| 企业客户经理（俄亥俄州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11840/enterprise-account-executive-ohio/) |
+| 企业客户经理（密苏里州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
+| 企业客户经理（芝加哥） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11839/enterprise-account-executive-chicago/) |
 | 高级品牌设计师 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11835/sr-brand-designer-krak/) |
 | GFCO分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11833/senior-software-engineer/) |
@@ -37,10 +42,6 @@
 | 财务经理（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5655/finance-manager-group-consolidation-reporting-team/) |
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
-| 高级/资深Java工程师，OKX Web3钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
-| 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11823/growth-product-manager-listing-campaign/) |
-| 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
-| NEA（VIP）批发主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
