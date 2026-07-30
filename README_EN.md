@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2157</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2160</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Marketing Performance Analyst (Contract) | Remote | [View →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
+| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
+| Data Annotation Specialist - Investment Banking and Private Equity | Remote | [View →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
 | Data Scientist, SMB Ads Growth | On-site | [View →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
 | Data Scientist, Ads Demand | On-site | [View →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
 | Member of Technical Staff, Model Behavior | Hybrid | [View →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
@@ -39,9 +42,6 @@
 | Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | Senior Product Designer (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
-| Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
-| Senior Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
-| Senior Software Engineer, Predictions (Mobile) | Remote | [View →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

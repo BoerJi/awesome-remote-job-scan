@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2160</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级市场绩效分析师（合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
+| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
+| 数据标注专家 - 投资银行与私募股权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
 | 数据科学家，SMB广告增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
 | 广告需求数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
 | 模型行为技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
@@ -39,9 +42,6 @@
 | 高级主管，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
 | 高级产品设计师（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 | 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8288/senior-application-security-engineer/) |
-| 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9176/senior-software-engineer-money/) |
-| 高级软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
-| 高级软件工程师，预测（移动端） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8296/senior-software-engineer-predictions-mobile/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
