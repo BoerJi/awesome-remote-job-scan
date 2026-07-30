@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2141</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2146</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/11832/data-analyst-product/) |
+| Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
+| VP, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/11830/vp-strategic-accounts/) |
+| People Analytics Lead | Remote | [View →](https://www.remotejobscan.com/job/11831/people-analytics-lead/) |
 | Global Onboarding | Hybrid | [View →](https://www.remotejobscan.com/job/11827/global-onboarding/) |
 | HR Business Partner, EU | Remote | [View →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
 | Technical Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/7508/technical-accounting-manager/) |
@@ -37,9 +41,6 @@
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | Account Director, Large Enterprise | Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
-| Senior Business Intelligence Project Manager (User Growth) | On-site | [View →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
-| Senior Product Manager, Tradfi Options | Remote | [View →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
-| Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

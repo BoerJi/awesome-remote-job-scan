@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2146</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11832/data-analyst-product/) |
+| 高级人力资源业务伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
+| 战略客户副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11830/vp-strategic-accounts/) |
+| 人员分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11831/people-analytics-lead/) |
 | 全球入职 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11827/global-onboarding/) |
 | HR业务合作伙伴，欧盟 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
 | 技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7508/technical-accounting-manager/) |
@@ -37,9 +41,6 @@
 | 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | 大企业客户总监 | 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
-| 高级商业智能项目经理（用户增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
-| 高级产品经理，传统金融期权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
-| 高级客服代理（葡萄牙语讲者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
