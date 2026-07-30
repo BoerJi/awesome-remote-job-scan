@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2128</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2132</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级工作场所运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11805/senior-workplace-operations-manager/) |
+| 高级前端工程师（Coinbase Advisor - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
+| GTM战略与运营、专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
+| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | 机器人库存管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
 | 高级分析师，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
 | 战略与运营启动项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
@@ -39,10 +43,6 @@
 | 增长 - 生命周期负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11790/growth-lifecycle-lead/) |
 | 全球订单到回款转型总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 | 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
-| 北美中市场客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11788/account-executive-lead-north-america-mid-market/) |
-| 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
-| GTM加速负责人，价值销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11784/gtm-acceleration-lead-value-selling/) |
-| GTM加速，技术解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11785/gtm-acceleration-technical-solutions/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

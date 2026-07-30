@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2128</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Workplace Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/11805/senior-workplace-operations-manager/) |
+| Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
+| GTM Strategy & Operations, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
+| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | Inventory Manager - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
 | Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
 | Strategy & Operations Launch Programs | On-site | [View →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
@@ -39,10 +43,6 @@
 | Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11790/growth-lifecycle-lead/) |
 | Director, Global Order-to-Cash Transformation | On-site | [View →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 | Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
-| Account Executive Lead - North America - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/11788/account-executive-lead-north-america-mid-market/) |
-| HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
-| GTM Acceleration Lead, Value Selling | Hybrid | [View →](https://www.remotejobscan.com/job/11784/gtm-acceleration-lead-value-selling/) |
-| GTM Acceleration, Technical Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/11785/gtm-acceleration-technical-solutions/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
