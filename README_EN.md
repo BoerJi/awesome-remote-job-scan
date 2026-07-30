@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2132</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2138</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Business Intelligence Project Manager (User Growth) | On-site | [View →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
+| Senior Product Manager, Tradfi Options | Remote | [View →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
+| Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
+| Senior Agent, Customer Service (Polish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
+| Senior Agent, Customer Service (Italian Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
 | Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
 | Staff Accountant - India Exchange | Remote | [View →](https://www.remotejobscan.com/job/9311/staff-accountant-india-exchange/) |
 | Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
@@ -37,12 +42,6 @@
 | Inventory Manager - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
 | Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
 | Strategy & Operations Launch Programs | On-site | [View →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
-| Operations & Compliance Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/operations-compliance-audit-leader/) |
-| Cybersecurity & Technology Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11797/cybersecurity-technology-audit-leader/) |
-| Market Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11796/market-operations-specialist/) |
-| Recruiting Coordinator (Contract) | On-site | [View →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
-| Corporate Security Operations Manager, Mountain View | On-site | [View →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
-| Senior Executive Assistant, Technology | On-site | [View →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

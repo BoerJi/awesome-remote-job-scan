@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2132</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2138</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级商业智能项目经理（用户增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
+| 高级产品经理，传统金融期权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
+| 高级客服代理（葡萄牙语讲者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
+| 高级客服代理（波兰语讲） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
+| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
 | Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
 | 印度交易所高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9311/staff-accountant-india-exchange/) |
 | 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
@@ -37,12 +42,6 @@
 | 机器人库存管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
 | 高级分析师，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
 | 战略与运营启动项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
-| 运营与合规审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11798/operations-compliance-audit-leader/) |
-| 网络安全与技术审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11797/cybersecurity-technology-audit-leader/) |
-| 市场运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11796/market-operations-specialist/) |
-| 招聘协调员（合同） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
-| 山景城企业安全运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
-| 高级行政助理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
