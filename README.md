@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
+| 印度交易所高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9311/staff-accountant-india-exchange/) |
 | 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | 基础设施商业法务副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11808/associate-general-counsel-commercial-infrastructure/) |
@@ -41,8 +43,6 @@
 | 招聘协调员（合同） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
 | 山景城企业安全运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
 | 高级行政助理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
-| 高级薪酬分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11794/senior-payroll-analyst/) |
-| 企业风险管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
+| Staff Accountant - India Exchange | Remote | [View →](https://www.remotejobscan.com/job/9311/staff-accountant-india-exchange/) |
 | Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Associate General Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/11808/associate-general-counsel-commercial-infrastructure/) |
@@ -41,8 +43,6 @@
 | Recruiting Coordinator (Contract) | On-site | [View →](https://www.remotejobscan.com/job/11793/recruiting-coordinator-contract/) |
 | Corporate Security Operations Manager, Mountain View | On-site | [View →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
 | Senior Executive Assistant, Technology | On-site | [View →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
-| Senior Payroll Analyst | Remote | [View →](https://www.remotejobscan.com/job/11794/senior-payroll-analyst/) |
-| Manager, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
