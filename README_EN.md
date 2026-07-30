@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2146</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2147</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11834/sr-brand-designer-krak/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer/) |
 | Data Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/11832/data-analyst-product/) |
 | Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
 | VP, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/11830/vp-strategic-accounts/) |
@@ -39,8 +41,6 @@
 | Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
 | Head of Wholesale, NEA (VIP) | On-site | [View →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
-| QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
-| Account Director, Large Enterprise | Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
