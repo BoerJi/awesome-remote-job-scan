@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2158</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2165</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心银行与支付产品总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11864/product-director-core-banking-and-payments/) |
+| 产品总监，核心银行和支付（副本） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11867/product-director-core-banking-and-payments-copy/) |
+| 高级产品设计师，增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
+| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
+| 国家与运营风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
+| 产品营销经理，合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11143/product-marketing-manager-partnerships/) |
 | IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11862/it-engineer/) |
 | 高级市场绩效分析师（合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
 | 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
@@ -34,14 +40,6 @@
 | 数字原生增长客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11855/account-director-digital-natives-growth/) |
 | 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
 | 高级财务规划与分析副总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
-| 高级交易运营专员（经纪商） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| 高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11406/senior-data-engineer/) |
-| 高级欺诈数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
-| 高级平台安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| 高级软件工程经理，信用卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
-| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| 高级主管，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
-| 高级产品设计师（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

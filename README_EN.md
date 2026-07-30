@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2158</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2165</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11864/product-director-core-banking-and-payments/) |
+| Product Director, Core Banking and Payments (copy) | Hybrid | [View →](https://www.remotejobscan.com/job/11867/product-director-core-banking-and-payments-copy/) |
+| Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
+| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
+| Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
+| Product Marketing Manager, Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/11143/product-marketing-manager-partnerships/) |
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/11862/it-engineer/) |
 | Sr. Marketing Performance Analyst (Contract) | Remote | [View →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
 | Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
@@ -34,14 +40,6 @@
 | Account Director, Digital Natives Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11855/account-director-digital-natives-growth/) |
 | Senior Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
 | Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
-| Senior Associate, Trading Operations (Broker Dealer) | On-site | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| Senior Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/11406/senior-data-engineer/) |
-| Senior Fraud Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist/) |
-| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| Senior Software Engineering Manager, Credit Card | Remote | [View →](https://www.remotejobscan.com/job/8294/senior-software-engineering-manager-credit-card/) |
-| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/9041/senior-principal-institutional-sales/) |
-| Senior Product Designer (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/8292/senior-product-designer-prediction-markets/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
