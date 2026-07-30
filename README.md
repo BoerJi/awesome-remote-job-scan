@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2165</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2169</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略交易与商业架构主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
+| 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
+| 华东区商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11870/commercial-sales-director-east/) |
+| 硬件平台安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11868/hardware-platform-security-architect/) |
 | 核心银行与支付产品总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11864/product-director-core-banking-and-payments/) |
 | 产品总监，核心银行和支付（副本） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11867/product-director-core-banking-and-payments-copy/) |
 | 高级产品设计师，增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
@@ -37,9 +41,6 @@
 | 广告需求数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
 | 模型行为技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11846/solutions-architect/) |
-| 数字原生增长客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11855/account-director-digital-natives-growth/) |
-| 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
-| 高级财务规划与分析副总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

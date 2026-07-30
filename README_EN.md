@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2165</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2169</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Deals & Commercial Architecture Lead | Hybrid | [View →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
+| Commercial Sales Director | On-site | [View →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
+| Commercial Sales Director - East | On-site | [View →](https://www.remotejobscan.com/job/11870/commercial-sales-director-east/) |
+| Hardware Platform Security Architect | Remote | [View →](https://www.remotejobscan.com/job/11868/hardware-platform-security-architect/) |
 | Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11864/product-director-core-banking-and-payments/) |
 | Product Director, Core Banking and Payments (copy) | Hybrid | [View →](https://www.remotejobscan.com/job/11867/product-director-core-banking-and-payments-copy/) |
 | Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
@@ -37,9 +41,6 @@
 | Data Scientist, Ads Demand | On-site | [View →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
 | Member of Technical Staff, Model Behavior | Hybrid | [View →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11846/solutions-architect/) |
-| Account Director, Digital Natives Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11855/account-director-digital-natives-growth/) |
-| Senior Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/11405/senior-analytics-engineer/) |
-| Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
