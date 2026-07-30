@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2132</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
+| Institutional Relationship Manager (VIP) | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager-vip/) |
+| Associate General Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/11808/associate-general-counsel-commercial-infrastructure/) |
 | Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
 | Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
 | Senior Workplace Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/11805/senior-workplace-operations-manager/) |
@@ -40,9 +43,6 @@
 | Senior Executive Assistant, Technology | On-site | [View →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
 | Senior Payroll Analyst | Remote | [View →](https://www.remotejobscan.com/job/11794/senior-payroll-analyst/) |
 | Manager, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
-| Global Intelligence Analyst | Remote | [View →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
-| Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11791/growth-product-marketing-manager/) |
-| Growth - Lifecycle Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11790/growth-lifecycle-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
