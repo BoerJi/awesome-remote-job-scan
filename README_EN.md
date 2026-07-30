@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2138</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2137</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
+| Account Director, Large Enterprise | Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
 | Senior Business Intelligence Project Manager (User Growth) | On-site | [View →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
 | Senior Product Manager, Tradfi Options | Remote | [View →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
 | Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
@@ -40,8 +42,6 @@
 | GTM Strategy & Operations, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | Inventory Manager - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
-| Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
-| Strategy & Operations Launch Programs | On-site | [View →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

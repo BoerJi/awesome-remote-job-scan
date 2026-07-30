@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2138</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2137</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
+| 大企业客户总监 | 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
 | 高级商业智能项目经理（用户增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
 | 高级产品经理，传统金融期权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
 | 高级客服代理（葡萄牙语讲者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
@@ -40,8 +42,6 @@
 | GTM战略与运营、专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
 | 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | 机器人库存管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
-| 高级分析师，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
-| 战略与运营启动项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11801/strategy-operations-launch-programs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
