@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2135</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2136</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| NEA（VIP）批发主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
+| 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | 大企业客户总监 | 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
 | 高级商业智能项目经理（用户增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
@@ -39,9 +41,6 @@
 | 国家与运营风险风险管理师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
 | 高级工作场所运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11805/senior-workplace-operations-manager/) |
 | 高级前端工程师（Coinbase Advisor - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| GTM战略与运营、专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
-| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
-| 机器人库存管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

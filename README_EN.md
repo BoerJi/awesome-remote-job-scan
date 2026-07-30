@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2135</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Wholesale, NEA (VIP) | On-site | [View →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
+| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/9171/qa-specialist/) |
 | Account Director, Large Enterprise | Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/11818/account-director-large-enterprise-life-sciences/) |
 | Senior Business Intelligence Project Manager (User Growth) | On-site | [View →](https://www.remotejobscan.com/job/8358/senior-business-intelligence-project-manager-user-growth/) |
@@ -39,9 +41,6 @@
 | Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
 | Senior Workplace Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/11805/senior-workplace-operations-manager/) |
 | Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| GTM Strategy & Operations, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
-| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
-| Inventory Manager - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/11802/inventory-manager-robotics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
