@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2138</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2141</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7508/technical-accounting-manager/) |
+| 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11826/technical-accounting-senior-manager/) |
+| 财务经理（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5655/finance-manager-group-consolidation-reporting-team/) |
+| 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
+| 高级财务经理 / 财务经理（财富投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11517/senior-finance-manager-finance-manager-treasury-investment-team/) |
+| HR业务合作伙伴，欧盟 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11825/hr-business-partner-eu/) |
+| 高级/资深Java工程师，OKX Web3钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
 | 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11823/growth-product-manager-listing-campaign/) |
 | 高级战略与运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
 | NEA（VIP）批发主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
@@ -33,13 +40,6 @@
 | 高级产品经理，传统金融期权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11817/senior-product-manager-tradfi-options/) |
 | 高级客服代理（葡萄牙语讲者） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 | 高级客服代理（波兰语讲） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
-| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
-| Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
-| 印度交易所高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9311/staff-accountant-india-exchange/) |
-| 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
-| 基础设施商业法务副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11808/associate-general-counsel-commercial-infrastructure/) |
-| 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
