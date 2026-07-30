@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2146</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2145</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11834/sr-brand-designer-krak/) |
+| Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11835/sr-brand-designer-krak/) |
+| Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/analytics-engineer-gfco-analytics/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer/) |
 | Data Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/11832/data-analyst-product/) |
 | Senior HRBP Manager | Remote | [View →](https://www.remotejobscan.com/job/9058/senior-hrbp-manager/) |
@@ -40,7 +41,6 @@
 | Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/11823/growth-product-manager-listing-campaign/) |
 | Senior Strategy & Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-strategy-operations-manager/) |
 | Head of Wholesale, NEA (VIP) | On-site | [View →](https://www.remotejobscan.com/job/6851/head-of-wholesale-nea-vip/) |
-| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/11580/head-of-finance-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
