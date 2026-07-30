@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2134</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2135</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Institutional Relationship Manager (VIP) | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager-vip/) |
 | Associate General Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/11808/associate-general-counsel-commercial-infrastructure/) |
@@ -42,7 +43,6 @@
 | Corporate Security Operations Manager, Mountain View | On-site | [View →](https://www.remotejobscan.com/job/11792/corporate-security-operations-manager-mountain-view/) |
 | Senior Executive Assistant, Technology | On-site | [View →](https://www.remotejobscan.com/job/11795/senior-executive-assistant-technology/) |
 | Senior Payroll Analyst | Remote | [View →](https://www.remotejobscan.com/job/11794/senior-payroll-analyst/) |
-| Manager, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/8284/manager-enterprise-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-30 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
