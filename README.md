@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
+| 国家与运营风险风险管理师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
 | 高级工作场所运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11805/senior-workplace-operations-manager/) |
 | 高级前端工程师（Coinbase Advisor - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/senior-software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 | GTM战略与运营、专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
@@ -41,8 +43,6 @@
 | 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
 | 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11791/growth-product-marketing-manager/) |
 | 增长 - 生命周期负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11790/growth-lifecycle-lead/) |
-| 全球订单到回款转型总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
-| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-30 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
