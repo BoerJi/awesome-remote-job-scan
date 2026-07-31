@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2179</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2180</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10651/it-engineer/) |
 | P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 | Enterprise Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux-nordics/) |
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
@@ -39,7 +40,6 @@
 | GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
 | Senior VIP Relationship Manager, NEA | Remote | [View →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
 | Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
-| Senior Product Manager, Margin & Settlement Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11878/senior-product-manager-margin-settlement-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

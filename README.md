@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2179</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2180</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10651/it-engineer/) |
 | P2P合作伙伴运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 | 企业客户经理 - 比利时、卢森堡及北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux-nordics/) |
 | (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
@@ -39,7 +40,6 @@
 | GTM招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
 | 高级VIP关系经理，东北亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
 | 高级法律分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
-| 高级产品经理，保证金与结算基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11878/senior-product-manager-margin-settlement-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
