@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2188</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2194</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Researcher, Consumer (Advanced) | Remote | [View →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
+| Business Development Representative | Remote | [View →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
+| Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
+| Business Development Representative - Spanish Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-spanish-speaking/) |
+| Head of Business and Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/11897/head-of-business-and-corporate-development/) |
 | AWS Specialist Seller, Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/11896/aws-specialist-seller-strategic-pursuits/) |
 | Social Support Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11895/social-support-senior-manager/) |
 | Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
@@ -35,10 +40,6 @@
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | IT Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10651/it-engineer/) |
 | P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
-| Enterprise Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux-nordics/) |
-| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
-| Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
-| Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
