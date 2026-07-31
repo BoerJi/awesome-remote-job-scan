@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2171</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2177</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
+| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
+| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/9289/senior-software-engineer-core-infra-systems/) |
+| US External Affairs Associate, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/11874/us-external-affairs-associate-global-affairs/) |
+| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Sr. Manager, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
 | Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
@@ -35,12 +40,6 @@
 | Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
 | Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
-| Product Marketing Manager, Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/11143/product-marketing-manager-partnerships/) |
-| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/11862/it-engineer/) |
-| Sr. Marketing Performance Analyst (Contract) | Remote | [View →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
-| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
-| Data Annotation Specialist - Investment Banking and Private Equity | Remote | [View →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
-| Data Scientist, SMB Ads Growth | On-site | [View →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

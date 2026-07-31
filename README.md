@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2171</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2177</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
+| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
+| 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9289/senior-software-engineer-core-infra-systems/) |
+| 美国对外事务助理，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11874/us-external-affairs-associate-global-affairs/) |
+| 高级软件工程师，核心可靠性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | 高级业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
 | 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
@@ -35,12 +40,6 @@
 | 高级产品设计师，增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
 | 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | 国家与运营风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
-| 产品营销经理，合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11143/product-marketing-manager-partnerships/) |
-| IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11862/it-engineer/) |
-| 高级市场绩效分析师（合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11861/sr-marketing-performance-analyst-contract/) |
-| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
-| 数据标注专家 - 投资银行与私募股权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
-| 数据科学家，SMB广告增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
