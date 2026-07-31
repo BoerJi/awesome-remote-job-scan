@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2184</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2185</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规治理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
+| 核心基础设施网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 核心银行与支付产品总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
 | 商业客户经理 - 比利时、卢森堡和北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
@@ -38,8 +40,6 @@
 | 中间件高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 | 业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
-| 区域策略专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
-| 高级产品经理，对话式AI聊天机器人与代理质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

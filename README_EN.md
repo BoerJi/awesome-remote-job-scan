@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2184</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2185</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Compliance (Governance) | Remote | [View →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
+| Network Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
 | Commercial Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
@@ -37,8 +39,6 @@
 | Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 | Business Development Manager (OC) | Remote | [View →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
-| GEO Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
-| Senior Product Manager, Conversational AI Chatbot & Agent Quality | On-site | [View →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
