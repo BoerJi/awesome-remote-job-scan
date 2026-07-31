@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2206</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2209</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, API Multimodal | On-site | [View →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
+| Environmental Lead | Remote | [View →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
+| Member of Technical Staff (iOS Engineer, Computer Growth) | On-site | [View →](https://www.remotejobscan.com/job/11917/member-of-technical-staff-ios-engineer-computer-growth/) |
+| Member of Technical Staff (Android Engineer, Computer Growth) | Hybrid | [View →](https://www.remotejobscan.com/job/11916/member-of-technical-staff-android-engineer-computer-growth/) |
 | Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/11914/software-engineer-rust-payward-services/) |
 | Counsel, Litigation | Hybrid | [View →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
@@ -38,8 +42,6 @@
 | IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | Senior Researcher, Consumer (Advanced) | Remote | [View →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
 | Business Development Representative | Remote | [View →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
-| Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
-| Business Development Representative - Spanish Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-spanish-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

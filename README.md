@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2206</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2209</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，API多模态 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
+| 环境主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
+| 技术团队成员（iOS工程师，计算机增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11917/member-of-technical-staff-ios-engineer-computer-growth/) |
+| 技术团队成员（安卓工程师，计算机增长） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11916/member-of-technical-staff-android-engineer-computer-growth/) |
 | 前部署工程师，法律 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | 软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11914/software-engineer-rust-payward-services/) |
 | 诉讼律师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
@@ -38,8 +42,6 @@
 | IT服务台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | 高级研究员，消费者（高级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
 | 业务发展代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
-| 硬件技术项目经理，基础设施合作伙伴运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
-| 西班牙语业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11901/business-development-representative-spanish-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
