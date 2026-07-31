@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2185</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AWS战略销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11896/aws-specialist-seller-strategic-pursuits/) |
+| 社交支持高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11895/social-support-senior-manager/) |
+| 前沿部署工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
 | 战略叙事与影响负责人，情报与调查 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11894/strategic-narrative-and-impact-lead-intelligence-and-investigations/) |
 | 合规治理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
 | 核心基础设施网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
@@ -37,9 +40,6 @@
 | (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 | 全球合作伙伴高级经理（上市与代币化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 | 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
-| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
-| 中间件高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
-| 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

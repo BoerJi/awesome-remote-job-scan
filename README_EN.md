@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2185</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AWS Specialist Seller, Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/11896/aws-specialist-seller-strategic-pursuits/) |
+| Social Support Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11895/social-support-senior-manager/) |
+| Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
 | Strategic Narrative and Impact Lead, Intelligence and Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/11894/strategic-narrative-and-impact-lead-intelligence-and-investigations/) |
 | Manager, Compliance (Governance) | Remote | [View →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
 | Network Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
@@ -36,9 +39,6 @@
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 | Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 | Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
-| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
-| Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
-| Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
