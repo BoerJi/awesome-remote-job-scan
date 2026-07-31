@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2172</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2173</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GEO Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
+| Senior Product Manager, Conversational AI Chatbot & Agent Quality | On-site | [View →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
+| Senior Product Manager, Multilingual AI and Evals | On-site | [View →](https://www.remotejobscan.com/job/11881/senior-product-manager-multilingual-ai-and-evals/) |
 | Senior Technical Program Manager, Security | Hybrid | [View →](https://www.remotejobscan.com/job/11880/senior-technical-program-manager-security/) |
 | GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
 | Senior VIP Relationship Manager, NEA | Remote | [View →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
@@ -39,9 +42,6 @@
 | US External Affairs Associate, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/11874/us-external-affairs-associate-global-affairs/) |
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Sr. Manager, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
-| Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
-| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
-| Strategic Deals & Commercial Architecture Lead | Hybrid | [View →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

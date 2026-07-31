@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2172</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2173</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区域策略专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
+| 高级产品经理，对话式AI聊天机器人与代理质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
+| 高级产品经理，多语言AI与评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11881/senior-product-manager-multilingual-ai-and-evals/) |
 | 高级技术项目经理，安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11880/senior-technical-program-manager-security/) |
 | GTM招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
 | 高级VIP关系经理，东北亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
@@ -39,9 +42,6 @@
 | 美国对外事务助理，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11874/us-external-affairs-associate-global-affairs/) |
 | 高级软件工程师，核心可靠性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | 高级业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
-| 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
-| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
-| 战略交易与商业架构主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
