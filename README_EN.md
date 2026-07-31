@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
 | Commercial Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
@@ -38,7 +39,6 @@
 | Business Development Manager (OC) | Remote | [View →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
 | GEO Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
 | Senior Product Manager, Conversational AI Chatbot & Agent Quality | On-site | [View →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
-| Senior Product Manager, Multilingual AI and Evals | On-site | [View →](https://www.remotejobscan.com/job/11881/senior-product-manager-multilingual-ai-and-evals/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

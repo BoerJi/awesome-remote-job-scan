@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 核心银行与支付产品总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
 | 商业客户经理 - 比利时、卢森堡和北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
 | 产品总监，核心银行与支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11889/product-director-core-banking-and-payments/) |
@@ -39,7 +40,6 @@
 | 业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
 | 区域策略专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
 | 高级产品经理，对话式AI聊天机器人与代理质量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
-| 高级产品经理，多语言AI与评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11881/senior-product-manager-multilingual-ai-and-evals/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
