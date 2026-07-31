@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2176</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2178</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11826/technical-accounting-senior-manager/) |
+| P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
+| Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 | Executive Business Center (EBC) Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-ebc-lead/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
@@ -39,8 +42,6 @@
 | Hardware Platform Security Architect | Remote | [View →](https://www.remotejobscan.com/job/11868/hardware-platform-security-architect/) |
 | Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11864/product-director-core-banking-and-payments/) |
 | Product Director, Core Banking and Payments (copy) | Hybrid | [View →](https://www.remotejobscan.com/job/11867/product-director-core-banking-and-payments-copy/) |
-| Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
-| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
