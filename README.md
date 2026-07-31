@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2180</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2181</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级技术项目经理，安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11880/senior-technical-program-manager-security/) |
 | GTM招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
 | 高级VIP关系经理，东北亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
 | 高级法律分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
@@ -41,7 +42,6 @@
 | 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
 | 战略交易与商业架构主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
-| 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2180</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2181</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Technical Program Manager, Security | Hybrid | [View →](https://www.remotejobscan.com/job/11880/senior-technical-program-manager-security/) |
 | GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
 | Senior VIP Relationship Manager, NEA | Remote | [View →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
 | Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
@@ -41,7 +42,6 @@
 | Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
 | Strategic Deals & Commercial Architecture Lead | Hybrid | [View →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
-| Commercial Sales Director | On-site | [View →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
