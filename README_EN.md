@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2180</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2184</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
+| Commercial Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
+| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | IT Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10651/it-engineer/) |
 | P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 | Enterprise Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux-nordics/) |
@@ -36,10 +39,6 @@
 | GEO Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
 | Senior Product Manager, Conversational AI Chatbot & Agent Quality | On-site | [View →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
 | Senior Product Manager, Multilingual AI and Evals | On-site | [View →](https://www.remotejobscan.com/job/11881/senior-product-manager-multilingual-ai-and-evals/) |
-| Senior Technical Program Manager, Security | Hybrid | [View →](https://www.remotejobscan.com/job/11880/senior-technical-program-manager-security/) |
-| GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
-| Senior VIP Relationship Manager, NEA | Remote | [View →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
-| Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
