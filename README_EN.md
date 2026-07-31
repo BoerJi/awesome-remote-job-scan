@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2173</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2179</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
+| Enterprise Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux-nordics/) |
+| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 | Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 | Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
@@ -37,12 +40,6 @@
 | Senior VIP Relationship Manager, NEA | Remote | [View →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
 | Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
 | Senior Product Manager, Margin & Settlement Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11878/senior-product-manager-margin-settlement-infrastructure/) |
-| Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11826/technical-accounting-senior-manager/) |
-| Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| Executive Business Center (EBC) Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-ebc-lead/) |
-| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
-| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
