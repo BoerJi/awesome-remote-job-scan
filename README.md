@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2169</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2171</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
+| 核心可靠性Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
 | 战略交易与商业架构主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
 | 华东区商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11870/commercial-sales-director-east/) |
@@ -38,9 +41,6 @@
 | 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
 | 数据标注专家 - 投资银行与私募股权 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
 | 数据科学家，SMB广告增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
-| 广告需求数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
-| 模型行为技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11846/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

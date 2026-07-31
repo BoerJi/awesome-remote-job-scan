@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2169</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2171</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Manager, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
+| Staff Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11572/staff-software-engineer-core-reliability/) |
+| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
 | Strategic Deals & Commercial Architecture Lead | Hybrid | [View →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
 | Commercial Sales Director | On-site | [View →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
 | Commercial Sales Director - East | On-site | [View →](https://www.remotejobscan.com/job/11870/commercial-sales-director-east/) |
@@ -38,9 +41,6 @@
 | Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
 | Data Annotation Specialist - Investment Banking and Private Equity | Remote | [View →](https://www.remotejobscan.com/job/11860/data-annotation-specialist-investment-banking-and-private-equity/) |
 | Data Scientist, SMB Ads Growth | On-site | [View →](https://www.remotejobscan.com/job/11857/data-scientist-smb-ads-growth/) |
-| Data Scientist, Ads Demand | On-site | [View →](https://www.remotejobscan.com/job/11856/data-scientist-ads-demand/) |
-| Member of Technical Staff, Model Behavior | Hybrid | [View →](https://www.remotejobscan.com/job/11858/member-of-technical-staff-model-behavior/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11846/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
