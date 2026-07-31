@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2194</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2198</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
+| Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
+| IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | Senior Researcher, Consumer (Advanced) | Remote | [View →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
 | Business Development Representative | Remote | [View →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
 | Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
@@ -36,10 +41,6 @@
 | Network Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
-| Commercial Account Executive - Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
-| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| IT Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10651/it-engineer/) |
-| P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

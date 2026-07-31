@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2194</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2198</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
+| 客户成功 - 英国及爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
+| 法律方向部署工程师 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| 德语区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
+| IT服务台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | 高级研究员，消费者（高级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
 | 业务发展代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
 | 硬件技术项目经理，基础设施合作伙伴运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
@@ -36,11 +41,6 @@
 | 核心基础设施网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 核心银行与支付产品总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
-| 商业客户经理 - 比利时、卢森堡和北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11890/commercial-account-executive-benelux-nordics/) |
-| 产品总监，核心银行与支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11889/product-director-core-banking-and-payments/) |
-| 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| IT工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10651/it-engineer/) |
-| P2P合作伙伴运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
