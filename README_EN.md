@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2178</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2180</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/11879/gtm-recruiter/) |
+| Senior VIP Relationship Manager, NEA | Remote | [View →](https://www.remotejobscan.com/job/8714/senior-vip-relationship-manager-nea/) |
+| Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
+| Senior Product Manager, Margin & Settlement Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11878/senior-product-manager-margin-settlement-infrastructure/) |
 | Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11826/technical-accounting-senior-manager/) |
 | P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 | Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
@@ -38,10 +42,6 @@
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
 | Strategic Deals & Commercial Architecture Lead | Hybrid | [View →](https://www.remotejobscan.com/job/10392/strategic-deals-commercial-architecture-lead/) |
 | Commercial Sales Director | On-site | [View →](https://www.remotejobscan.com/job/11869/commercial-sales-director/) |
-| Commercial Sales Director - East | On-site | [View →](https://www.remotejobscan.com/job/11870/commercial-sales-director-east/) |
-| Hardware Platform Security Architect | Remote | [View →](https://www.remotejobscan.com/job/11868/hardware-platform-security-architect/) |
-| Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11864/product-director-core-banking-and-payments/) |
-| Product Director, Core Banking and Payments (copy) | Hybrid | [View →](https://www.remotejobscan.com/job/11867/product-director-core-banking-and-payments-copy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
