@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略叙事与影响负责人，情报与调查 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11894/strategic-narrative-and-impact-lead-intelligence-and-investigations/) |
 | 合规治理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
 | 核心基础设施网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
@@ -39,7 +40,6 @@
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 | 中间件高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
-| 业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

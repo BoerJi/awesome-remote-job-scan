@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Narrative and Impact Lead, Intelligence and Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/11894/strategic-narrative-and-impact-lead-intelligence-and-investigations/) |
 | Manager, Compliance (Governance) | Remote | [View →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
 | Network Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
@@ -38,7 +39,6 @@
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 | Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
-| Business Development Manager (OC) | Remote | [View →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
