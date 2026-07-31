@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2198</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2205</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Litigation | Hybrid | [View →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
+| Senior Technical Program Manager, Machine Learning Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/10935/senior-technical-program-manager-machine-learning-infrastructure/) |
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Head of GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11913/head-of-gtm-enablement-global-lead/) |
+| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
+| Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11911/sr-brand-designer-krak/) |
+| Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/11908/program-manager-critical-harm-operations/) |
+| Cyber Operations Strategist, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/11909/cyber-operations-strategist-critical-harm-operations/) |
 | Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
-| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
 | IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | Senior Researcher, Consumer (Advanced) | Remote | [View →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
@@ -33,14 +40,6 @@
 | Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
 | Business Development Representative - Spanish Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-spanish-speaking/) |
 | Head of Business and Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/11897/head-of-business-and-corporate-development/) |
-| AWS Specialist Seller, Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/11896/aws-specialist-seller-strategic-pursuits/) |
-| Social Support Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11895/social-support-senior-manager/) |
-| Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
-| Strategic Narrative and Impact Lead, Intelligence and Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/11894/strategic-narrative-and-impact-lead-intelligence-and-investigations/) |
-| Manager, Compliance (Governance) | Remote | [View →](https://www.remotejobscan.com/job/11892/manager-compliance-governance/) |
-| Network Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11893/network-engineer-core-infrastructure/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Product Director, Core Banking and Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11888/product-director-core-banking-and-payments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
