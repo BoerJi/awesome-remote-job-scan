@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2205</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2206</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/11914/software-engineer-rust-payward-services/) |
 | Counsel, Litigation | Hybrid | [View →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
 | Senior Technical Program Manager, Machine Learning Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/10935/senior-technical-program-manager-machine-learning-infrastructure/) |
-| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | Head of GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11913/head-of-gtm-enablement-global-lead/) |
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11911/sr-brand-designer-krak/) |
@@ -39,7 +40,6 @@
 | Business Development Representative | Remote | [View →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
 | Hardware Technical Program Manager, Infrastructure Partner Operations | On-site | [View →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
 | Business Development Representative - Spanish Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-spanish-speaking/) |
-| Head of Business and Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/11897/head-of-business-and-corporate-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2205</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2206</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前部署工程师，法律 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| 软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11914/software-engineer-rust-payward-services/) |
 | 诉讼律师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
 | 高级技术项目经理，机器学习基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10935/senior-technical-program-manager-machine-learning-infrastructure/) |
-| 前部署工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11913/head-of-gtm-enablement-global-lead/) |
 | 财务前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | 高级品牌设计师 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11911/sr-brand-designer-krak/) |
@@ -39,7 +40,6 @@
 | 业务发展代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
 | 硬件技术项目经理，基础设施合作伙伴运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11899/hardware-technical-program-manager-infrastructure-partner-operations/) |
 | 西班牙语业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11901/business-development-representative-spanish-speaking/) |
-| 商业与企业发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11897/head-of-business-and-corporate-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
