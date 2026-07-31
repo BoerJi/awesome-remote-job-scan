@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2176</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2174</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
+| Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 | Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
@@ -41,7 +43,6 @@
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 | Executive Business Center (EBC) Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-ebc-lead/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
-| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

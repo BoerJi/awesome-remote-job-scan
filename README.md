@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2176</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2174</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球合作伙伴高级经理（上市与代币化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
+| 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
 | 中间件高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
@@ -41,7 +43,6 @@
 | 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 | 高管业务中心（EBC）负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-business-center-ebc-lead/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
-| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-07-31 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
