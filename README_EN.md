@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2173</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2176</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/8929/compliance-product-manager/) |
+| Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
+| Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/7685/channel-operations-manager/) |
+| Business Development Manager (OC) | Remote | [View →](https://www.remotejobscan.com/job/8986/business-development-manager-oc/) |
 | GEO Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/11882/geo-strategist/) |
 | Senior Product Manager, Conversational AI Chatbot & Agent Quality | On-site | [View →](https://www.remotejobscan.com/job/6602/senior-product-manager-conversational-ai-chatbot-agent-quality/) |
 | Senior Product Manager, Multilingual AI and Evals | On-site | [View →](https://www.remotejobscan.com/job/11881/senior-product-manager-multilingual-ai-and-evals/) |
@@ -38,10 +42,6 @@
 | Executive Business Center (EBC) Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-ebc-lead/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9301/software-engineer-developer-infrastructure/) |
 | Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
-| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/9289/senior-software-engineer-core-infra-systems/) |
-| US External Affairs Associate, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/11874/us-external-affairs-associate-global-affairs/) |
-| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
-| Sr. Manager, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/11872/sr-manager-business-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-07-31 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
