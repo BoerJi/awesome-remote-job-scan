@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2212</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2213</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，API代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
 | 高级诉讼律师助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
 | 工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | 软件工程师，代理生产力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
@@ -41,7 +42,6 @@
 | 网络安全运营策略师，关键危害运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11909/cyber-operations-strategist-critical-harm-operations/) |
 | 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | 客户成功 - 英国及爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
-| 德语区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

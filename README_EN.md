@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2212</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2213</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, API Agents | On-site | [View →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
 | Senior Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
 | Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
@@ -41,7 +42,6 @@
 | Cyber Operations Strategist, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/11909/cyber-operations-strategist-critical-harm-operations/) |
 | Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
-| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
