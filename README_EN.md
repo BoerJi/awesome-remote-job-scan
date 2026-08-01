@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2201</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2216</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Global Intelligence Analyst | Remote | [View →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
+| Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
+| Senior Counsel, Product | Remote | [View →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
+| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| Senior Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
+| Senior Counsel, Shareholder Litigation | Remote | [View →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
+| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| AMLCO & Senior Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
+| Paralegal, Litigation | Remote | [View →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
+| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
+| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
+| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 | Software Engineer, API Agents | On-site | [View →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
 | Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
 | Software Engineer, API Multimodal | On-site | [View →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
 | Environmental Lead | Remote | [View →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
-| Member of Technical Staff (iOS Engineer, Computer Growth) | On-site | [View →](https://www.remotejobscan.com/job/11917/member-of-technical-staff-ios-engineer-computer-growth/) |
-| Member of Technical Staff (Android Engineer, Computer Growth) | Hybrid | [View →](https://www.remotejobscan.com/job/11916/member-of-technical-staff-android-engineer-computer-growth/) |
-| Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/11914/software-engineer-rust-payward-services/) |
-| Counsel, Litigation | Hybrid | [View →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
-| Senior Technical Program Manager, Machine Learning Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/10935/senior-technical-program-manager-machine-learning-infrastructure/) |
-| Head of GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/11913/head-of-gtm-enablement-global-lead/) |
-| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| Sr Brand Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/11911/sr-brand-designer-krak/) |
-| Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/11908/program-manager-critical-harm-operations/) |
-| Cyber Operations Strategist, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/11909/cyber-operations-strategist-critical-harm-operations/) |
-| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
-| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
-| IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

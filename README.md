@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2201</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2216</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前哨部署工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
+| 合规、威胁与风险评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
+| 高级产品法务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
+| 商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| 高级诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
+| 股东诉讼高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
+| 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| 反洗钱合规主管及高级合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
+| 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
+| 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| 平台安全高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
+| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 | 软件工程师，API代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
 | 工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | 软件工程师，代理生产力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
 | 软件工程师，API多模态 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
 | 环境主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
-| 技术团队成员（iOS工程师，计算机增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11917/member-of-technical-staff-ios-engineer-computer-growth/) |
-| 技术团队成员（安卓工程师，计算机增长） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11916/member-of-technical-staff-android-engineer-computer-growth/) |
-| 软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11914/software-engineer-rust-payward-services/) |
-| 诉讼律师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11912/counsel-litigation/) |
-| 高级技术项目经理，机器学习基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10935/senior-technical-program-manager-machine-learning-infrastructure/) |
-| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11913/head-of-gtm-enablement-global-lead/) |
-| 财务前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| 高级品牌设计师 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11911/sr-brand-designer-krak/) |
-| 关键危害运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11908/program-manager-critical-harm-operations/) |
-| 网络安全运营策略师，关键危害运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11909/cyber-operations-strategist-critical-harm-operations/) |
-| 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| 客户成功 - 英国及爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
-| 德语区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
-| IT服务台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
