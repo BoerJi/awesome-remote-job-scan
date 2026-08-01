@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2215</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2216</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
+| Customer Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
+| Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 | Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | Global Intelligence Analyst | Remote | [View →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
 | Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
@@ -40,9 +43,6 @@
 | Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 | Software Engineer, API Agents | On-site | [View →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
 | Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
-| Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
-| Software Engineer, API Multimodal | On-site | [View →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
-| Environmental Lead | Remote | [View →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

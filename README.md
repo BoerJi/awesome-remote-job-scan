@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2215</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2216</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
+| 客户工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
+| 大客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 | 前哨部署工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
 | 合规、威胁与风险评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
@@ -39,9 +42,6 @@
 | 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 | 软件工程师，API代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
 | 工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
-| 软件工程师，代理生产力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
-| 软件工程师，API多模态 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
-| 环境主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
