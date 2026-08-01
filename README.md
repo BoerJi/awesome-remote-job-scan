@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2220</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师，智能平台（西海岸） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
+| 前沿部署工程师，自主平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10844/forward-deployed-engineer-agentic-platform/) |
 | 工业计算施工经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11922/construction-manager-industrial-compute/) |
 | 订单管理与计费 - 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11742/order-management-billing-lead/) |
 | 增长账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
@@ -41,7 +43,6 @@
 | 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 平台安全高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-01 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

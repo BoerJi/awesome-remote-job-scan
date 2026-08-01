@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2218</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2220</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Agentic Platform (West Coast) | Remote | [View →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
+| Forward Deployed Engineer, Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/10844/forward-deployed-engineer-agentic-platform/) |
 | Construction Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11922/construction-manager-industrial-compute/) |
 | Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead/) |
 | Growth Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
@@ -41,8 +43,6 @@
 | Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
