@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2209</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2212</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
+| Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
+| Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
 | Software Engineer, API Multimodal | On-site | [View →](https://www.remotejobscan.com/job/11918/software-engineer-api-multimodal/) |
 | Environmental Lead | Remote | [View →](https://www.remotejobscan.com/job/11915/environmental-lead/) |
 | Member of Technical Staff (iOS Engineer, Computer Growth) | On-site | [View →](https://www.remotejobscan.com/job/11917/member-of-technical-staff-ios-engineer-computer-growth/) |
@@ -39,9 +42,6 @@
 | Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/11905/customer-success-uki/) |
 | Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/11906/customer-success-dach/) |
-| IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
-| Senior Researcher, Consumer (Advanced) | Remote | [View →](https://www.remotejobscan.com/job/11898/senior-researcher-consumer-advanced/) |
-| Business Development Representative | Remote | [View →](https://www.remotejobscan.com/job/11902/business-development-representative/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
