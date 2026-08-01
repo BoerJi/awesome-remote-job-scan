@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2216</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2217</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead/) |
 | Growth Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
 | Customer Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
@@ -42,7 +43,6 @@
 | Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 | Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
 | Software Engineer, API Agents | On-site | [View →](https://www.remotejobscan.com/job/11921/software-engineer-api-agents/) |
-| Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-01 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
