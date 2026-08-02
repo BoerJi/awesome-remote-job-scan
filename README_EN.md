@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,7 +28,6 @@
 | Forward Deployed Engineer, Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/10844/forward-deployed-engineer-agentic-platform/) |
 | Construction Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11922/construction-manager-industrial-compute/) |
 | Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead/) |
-| Growth Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 14:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 15:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
