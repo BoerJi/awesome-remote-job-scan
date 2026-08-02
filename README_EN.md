@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2219</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2220</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 | Forward Deployed Engineer, Agentic Platform (West Coast) | Remote | [View →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
 | Forward Deployed Engineer, Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/10844/forward-deployed-engineer-agentic-platform/) |
 | Construction Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11922/construction-manager-industrial-compute/) |
@@ -42,7 +43,6 @@
 | Paralegal, Litigation | Remote | [View →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
 | Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
