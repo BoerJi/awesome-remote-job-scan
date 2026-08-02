@@ -19,13 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
-| Forward Deployed Engineer, Agentic Platform (West Coast) | Remote | [View →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
-| Forward Deployed Engineer, Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/10844/forward-deployed-engineer-agentic-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +85,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
