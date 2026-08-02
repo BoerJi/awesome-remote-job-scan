@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,18 +31,6 @@
 | 增长账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
 | 客户工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
 | 大客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
-| 前哨部署工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
-| 合规、威胁与风险评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
-| 高级产品法务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
-| 商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| 高级诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
-| 股东诉讼高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
-| 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
-| 反洗钱合规主管及高级合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
-| 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
-| 商业法律顾问（机构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-02 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-02 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

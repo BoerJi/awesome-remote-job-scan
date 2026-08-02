@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,18 +31,6 @@
 | Growth Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
 | Customer Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
 | Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
-| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| Global Intelligence Analyst | Remote | [View →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
-| Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
-| Senior Counsel, Product | Remote | [View →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
-| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| Senior Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/9260/senior-litigation-paralegal/) |
-| Senior Counsel, Shareholder Litigation | Remote | [View →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
-| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
-| AMLCO & Senior Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
-| Paralegal, Litigation | Remote | [View →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
-| Counsel, Commercial (Institutional) | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-commercial-institutional/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
