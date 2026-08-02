@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -29,8 +29,6 @@
 | Construction Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11922/construction-manager-industrial-compute/) |
 | Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11742/order-management-billing-lead/) |
 | Growth Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
-| Customer Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
-| Account Executive - ElevenCreative - North America - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-02 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

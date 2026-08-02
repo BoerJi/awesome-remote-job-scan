@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -29,8 +29,6 @@
 | 工业计算施工经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11922/construction-manager-industrial-compute/) |
 | 订单管理与计费 - 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11742/order-management-billing-lead/) |
 | 增长账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/growth-account-manager/) |
-| 客户工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/customer-engineer-enablement/) |
-| 大客户经理 - ElevenCreative - 北美 - 中市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11697/account-executive-elevencreative-north-america-mid-market/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-02 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-02 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
