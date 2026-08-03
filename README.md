@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2237</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，交易产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
+| 基础设施技术业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11957/technical-business-development-manager-infrastructure/) |
+| 新产品产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11955/product-engineer-new-products/) |
 | 保障执行分析师，用户福祉 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
 | 搜索工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11953/engineering-manager-search/) |
 | 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
@@ -39,14 +42,11 @@
 | 战略运营，工业计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
 | 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 | 数据中心环境健康与安全主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
-| 隐私安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11946/security-compliance-analyst-privacy/) |
-| 部署工程师（休斯顿） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
-| 部署工程师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（47 家）
+## 🏢 已收录公司（48 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -54,6 +54,7 @@
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [查看职位 →](https://www.remotejobscan.com/?company=aave) |
 | <img src="images/alchemy.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Alchemy"> | <a href="https://www.alchemy.com/">Alchemy</a> | [查看职位 →](https://www.remotejobscan.com/?company=alchemy) |
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [查看职位 →](https://www.remotejobscan.com/?company=anthropic) |
+| <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [查看职位 →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

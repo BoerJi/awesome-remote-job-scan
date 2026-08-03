@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2235</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2237</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Trading Product | On-site | [View →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
+| Technical Business Development Manager – Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11957/technical-business-development-manager-infrastructure/) |
+| Product Engineer, New Products | Hybrid | [View →](https://www.remotejobscan.com/job/11955/product-engineer-new-products/) |
 | Safeguards Enforcement Analyst, User Well-being | Remote | [View →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
 | Engineering Manager, Search | On-site | [View →](https://www.remotejobscan.com/job/11953/engineering-manager-search/) |
 | Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
@@ -39,14 +42,11 @@
 | Strategic Operations, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
 | Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 | Environmental Health & Safety Lead - Datacenter | Hybrid | [View →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
-| Security Compliance Analyst, Privacy | On-site | [View →](https://www.remotejobscan.com/job/11946/security-compliance-analyst-privacy/) |
-| Deployed Engineer (Houston) | Remote | [View →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
-| Deployed Engineer (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（47 companies）
+## 🏢 Companies Tracked（48 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -54,6 +54,7 @@
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [View jobs →](https://www.remotejobscan.com/?company=aave) |
 | <img src="images/alchemy.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Alchemy"> | <a href="https://www.alchemy.com/">Alchemy</a> | [View jobs →](https://www.remotejobscan.com/?company=alchemy) |
 | <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [View jobs →](https://www.remotejobscan.com/?company=anthropic) |
+| <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
