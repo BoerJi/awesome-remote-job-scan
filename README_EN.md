@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2226</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2225</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,6 +32,7 @@
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
+| Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
