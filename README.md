@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，后端 - 平台（代币与包装资产） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
+| 法律与运营工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11952/legal-and-operations-engineering-lead/) |
+| 多模态安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11951/researcher-multimodal-safety/) |
+| FCM高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
+| 清算运营高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
+| 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
+| NeoCloud & Colo尽职调查主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11950/neocloud-colo-due-diligence-lead/) |
 | Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
 | 用户安全与风险运营分析师 - 全球响应（周末轮班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11949/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
 | 技术文档与内容工程师，Claude Docs | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
@@ -35,13 +42,6 @@
 | 部署工程师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
 | 高级平台安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
 | 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
-| 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9758/enterprise-account-executive-retail/) |
-| 高级财务经理（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5655/senior-finance-manager-group-consolidation-reporting-team/) |
-| 客户服务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
-| 英国和爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
-| 高级财务经理 - 香港财务运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
-| 高级社区与活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

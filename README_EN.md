@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2230</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets) | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
+| Legal and Operations Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11952/legal-and-operations-engineering-lead/) |
+| Researcher, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/11951/researcher-multimodal-safety/) |
+| Senior Associate, FCM | Remote | [View →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
+| Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
+| Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
+| NeoCloud & Colo Due Diligence Lead | Remote | [View →](https://www.remotejobscan.com/job/11950/neocloud-colo-due-diligence-lead/) |
 | Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
 | User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/11949/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
 | Technical Documentation and Content Engineer, Claude Docs | On-site | [View →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
@@ -35,14 +42,6 @@
 | Deployed Engineer (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
 | Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
 | Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
-| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
-| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
-| Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/9758/enterprise-account-executive-retail/) |
-| Senior Finance Manager (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/5655/senior-finance-manager-group-consolidation-reporting-team/) |
-| Specialist, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
-| Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
-| Senior Finance Manager - HK Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
-| Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
