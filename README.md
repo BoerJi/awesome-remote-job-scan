@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务经理 - 香港财务运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
+| 高级社区与活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
+| 币安加速器项目 - 中东和北非增长营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
 | AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 | 高级产品经理，风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
@@ -32,6 +35,7 @@
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | Marketing Growth Algorithm Engineer 营销增长算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
@@ -95,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

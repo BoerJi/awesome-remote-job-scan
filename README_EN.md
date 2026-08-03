@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2225</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager - HK Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
+| Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
+| Binance Accelerator Program - Growth Marketing (MENA) | Remote | [View →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
 | AI Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 | Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
@@ -32,6 +35,7 @@
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -95,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
