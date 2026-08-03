@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
+| 用户安全与风险运营分析师 - 全球响应（周末轮班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11949/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
+| 技术文档与内容工程师，Claude Docs | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
 | 战略运营，工业计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
 | 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 | 数据中心环境健康与安全主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
@@ -39,9 +42,6 @@
 | 英国和爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
 | 高级财务经理 - 香港财务运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
 | 高级社区与活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
-| 币安加速器项目 - 中东和北非增长营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
-| AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
-| 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

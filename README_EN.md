@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
+| User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/11949/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
+| Technical Documentation and Content Engineer, Claude Docs | On-site | [View →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
 | Strategic Operations, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
 | Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 | Environmental Health & Safety Lead - Datacenter | Hybrid | [View →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
@@ -40,9 +43,6 @@
 | Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
 | Senior Finance Manager - HK Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
 | Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
-| Binance Accelerator Program - Growth Marketing (MENA) | Remote | [View →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
-| AI Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
-| Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
