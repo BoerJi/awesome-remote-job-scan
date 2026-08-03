@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2237</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2244</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究工程师 / 研究科学家 - 个人通用人工智能、记忆 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11961/research-engineer-research-scientist-personal-agi-memory/) |
+| 战略与运营、产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11963/strategy-operations-product-partnerships/) |
+| WFM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-operations/) |
+| 支付产品负责人，软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11964/software-engineer-payments-product-lead/) |
+| 应用AI架构师，国家安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11958/applied-ai-architect-national-security/) |
+| 高级软件工程师，交易基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11960/senior-software-engineer-trading-infrastructure/) |
+| IT工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11959/it-engineer/) |
 | 软件工程师，交易产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
 | 基础设施技术业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11957/technical-business-development-manager-infrastructure/) |
 | 新产品产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11955/product-engineer-new-products/) |
@@ -35,13 +42,6 @@
 | FCM高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
 | 清算运营高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 | 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
-| NeoCloud & Colo尽职调查主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11950/neocloud-colo-due-diligence-lead/) |
-| Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
-| 用户安全与风险运营分析师 - 全球响应（周末轮班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11949/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
-| 技术文档与内容工程师，Claude Docs | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
-| 战略运营，工业计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
-| 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
-| 数据中心环境健康与安全主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

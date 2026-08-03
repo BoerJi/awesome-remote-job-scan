@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2237</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2244</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer / Research Scientist - Personal AGI, Memory | On-site | [View →](https://www.remotejobscan.com/job/11961/research-engineer-research-scientist-personal-agi-memory/) |
+| Strategy & Operations, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11963/strategy-operations-product-partnerships/) |
+| Manager, WFM Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-operations/) |
+| Software Engineer, Payments Product Lead | On-site | [View →](https://www.remotejobscan.com/job/11964/software-engineer-payments-product-lead/) |
+| Applied AI Architect, National Security | On-site | [View →](https://www.remotejobscan.com/job/11958/applied-ai-architect-national-security/) |
+| Senior Software Engineer, Trading Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11960/senior-software-engineer-trading-infrastructure/) |
+| IT Engineer | On-site | [View →](https://www.remotejobscan.com/job/11959/it-engineer/) |
 | Software Engineer, Trading Product | On-site | [View →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
 | Technical Business Development Manager – Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11957/technical-business-development-manager-infrastructure/) |
 | Product Engineer, New Products | Hybrid | [View →](https://www.remotejobscan.com/job/11955/product-engineer-new-products/) |
@@ -35,13 +42,6 @@
 | Senior Associate, FCM | Remote | [View →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
 | Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
 | Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
-| NeoCloud & Colo Due Diligence Lead | Remote | [View →](https://www.remotejobscan.com/job/11950/neocloud-colo-due-diligence-lead/) |
-| Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/9815/vercel-development-representative-startups/) |
-| User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/11949/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
-| Technical Documentation and Content Engineer, Claude Docs | On-site | [View →](https://www.remotejobscan.com/job/11648/technical-documentation-and-content-engineer-claude-docs/) |
-| Strategic Operations, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
-| Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
-| Environmental Health & Safety Lead - Datacenter | Hybrid | [View →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
