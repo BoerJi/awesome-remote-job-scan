@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,7 +32,6 @@
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
-| Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 04:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 05:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

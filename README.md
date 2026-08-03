@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,7 +32,6 @@
 | 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
-| 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 04:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 05:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
