@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2222</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 | 高级产品经理，风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | 高级/资深工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
@@ -30,6 +31,7 @@
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
+| 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 | 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
@@ -92,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2222</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 | Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
@@ -30,6 +31,7 @@
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
+| App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 | Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -92,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
