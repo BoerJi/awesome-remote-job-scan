@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safeguards Enforcement Analyst, User Well-being | Remote | [View →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
+| Engineering Manager, Search | On-site | [View →](https://www.remotejobscan.com/job/11953/engineering-manager-search/) |
+| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets) | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
 | Legal and Operations Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11952/legal-and-operations-engineering-lead/) |
 | Researcher, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/11951/researcher-multimodal-safety/) |
@@ -39,9 +42,6 @@
 | Security Compliance Analyst, Privacy | On-site | [View →](https://www.remotejobscan.com/job/11946/security-compliance-analyst-privacy/) |
 | Deployed Engineer (Houston) | Remote | [View →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
 | Deployed Engineer (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
-| Deployed Engineer (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
-| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

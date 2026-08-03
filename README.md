@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 保障执行分析师，用户福祉 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
+| 搜索工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11953/engineering-manager-search/) |
+| 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | 高级软件工程师，后端 - 平台（代币与包装资产） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
 | 法律与运营工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11952/legal-and-operations-engineering-lead/) |
 | 多模态安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11951/researcher-multimodal-safety/) |
@@ -39,9 +42,6 @@
 | 隐私安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11946/security-compliance-analyst-privacy/) |
 | 部署工程师（休斯顿） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
 | 部署工程师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
-| 部署工程师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
-| 高级平台安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
-| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
