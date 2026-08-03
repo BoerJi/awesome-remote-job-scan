@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2226</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2228</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
+| Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
 | Senior Finance Manager - HK Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
 | Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
 | Binance Accelerator Program - Growth Marketing (MENA) | Remote | [View →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

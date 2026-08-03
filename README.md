@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2226</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2228</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户服务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
+| 英国和爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
 | 高级财务经理 - 香港财务运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
 | 高级社区与活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
 | 币安加速器项目 - 中东和北非增长营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
