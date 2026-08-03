@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2228</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2227</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/5655/senior-finance-manager-group-consolidation-reporting-team/) |
 | Specialist, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
 | Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
 | Senior Finance Manager - HK Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
@@ -36,6 +37,7 @@
 | Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 | Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
+| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

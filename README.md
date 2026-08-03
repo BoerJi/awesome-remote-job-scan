@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2228</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2227</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务经理（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5655/senior-finance-manager-group-consolidation-reporting-team/) |
 | 客户服务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
 | 英国和爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
 | 高级财务经理 - 香港财务运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11932/senior-finance-manager-hk-finance-operations/) |
@@ -36,6 +37,7 @@
 | 高级产品经理，DevOps与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 | 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
 | 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
+| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
 | Marketing Growth Algorithm Engineer 营销增长算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
