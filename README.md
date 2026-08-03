@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略运营，工业计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
+| 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
+| 数据中心环境健康与安全主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
+| 隐私安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11946/security-compliance-analyst-privacy/) |
 | 部署工程师（休斯顿） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
 | 部署工程师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
 | 部署工程师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
@@ -38,10 +42,6 @@
 | 币安加速器项目 - 中东和北非增长营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
 | AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
-| Risk & Control Specialist 风控审核运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11935/risk-control-specialist/) |
-| 高级产品经理，风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
-| 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
-| 高级/资深工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

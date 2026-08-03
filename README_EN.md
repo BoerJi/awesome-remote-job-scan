@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2225</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Operations, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/11947/strategic-operations-industrial-compute/) |
+| Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
+| Environmental Health & Safety Lead - Datacenter | Hybrid | [View →](https://www.remotejobscan.com/job/11948/environmental-health-safety-lead-datacenter/) |
+| Security Compliance Analyst, Privacy | On-site | [View →](https://www.remotejobscan.com/job/11946/security-compliance-analyst-privacy/) |
 | Deployed Engineer (Houston) | Remote | [View →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
 | Deployed Engineer (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
 | Deployed Engineer (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
@@ -39,10 +43,6 @@
 | Binance Accelerator Program - Growth Marketing (MENA) | Remote | [View →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
 | AI Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
-| Risk & Control Specialist 风控审核运营 | Remote | [View →](https://www.remotejobscan.com/job/11935/risk-control-specialist/) |
-| Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
-| Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
-| Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
