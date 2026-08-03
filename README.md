@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>2220</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2225</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 部署工程师（休斯顿） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
+| 部署工程师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
+| 部署工程师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
+| 高级平台安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
+| 高级平台安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
+| 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
+| 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9758/enterprise-account-executive-retail/) |
 | 高级财务经理（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5655/senior-finance-manager-group-consolidation-reporting-team/) |
 | 客户服务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
 | 英国和爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
@@ -35,14 +42,6 @@
 | 高级产品经理，风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | 高级/资深工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
-| 高级产品经理，DevOps与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
-| 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
-| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
-| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
-| 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
-| Marketing Growth Algorithm Engineer 营销增长算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
-| 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

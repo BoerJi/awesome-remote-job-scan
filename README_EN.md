@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2220</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2225</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployed Engineer (Houston) | Remote | [View →](https://www.remotejobscan.com/job/11938/deployed-engineer-houston/) |
+| Deployed Engineer (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-dallas/) |
+| Deployed Engineer (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11936/deployed-engineer-austin/) |
+| Senior Manager, Platform Security | Remote | [View →](https://www.remotejobscan.com/job/11375/senior-manager-platform-security/) |
+| Senior Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8291/senior-platform-security-engineer/) |
+| Staff Platform Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8300/staff-platform-security-engineer/) |
+| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/7672/kol-business-development-manager-brazil/) |
+| Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/9758/enterprise-account-executive-retail/) |
 | Senior Finance Manager (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/5655/senior-finance-manager-group-consolidation-reporting-team/) |
 | Specialist, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/11934/specialist-customer-service/) |
 | Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/9777/sales-development-representative-uki/) |
@@ -35,14 +43,6 @@
 | Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
-| Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
-| Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
-| Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
-| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
-| Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/8577/localization-project-manager-pmo/) |
-| Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/11930/marketing-growth-algorithm-engineer/) |
-| App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
