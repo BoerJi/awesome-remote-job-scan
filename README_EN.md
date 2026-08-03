@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2225</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2224</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,6 +31,7 @@
 | Binance Accelerator Program - Growth Marketing (MENA) | Remote | [View →](https://www.remotejobscan.com/job/11933/binance-accelerator-program-growth-marketing-mena/) |
 | AI Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
+| Risk & Control Specialist 风控审核运营 | Remote | [View →](https://www.remotejobscan.com/job/11935/risk-control-specialist/) |
 | Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
