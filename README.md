@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 | 高级产品经理，风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

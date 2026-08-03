@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| AI Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11929/ai-deployment-engineer/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/11928/account-director-large-enterprise/) |
 | Senior Product Manager, Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/11397/senior-product-manager-risk-platform/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
