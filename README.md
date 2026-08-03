@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2244</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2121</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,37 +23,37 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级企业工程师 - Salesforce平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
+| 市场研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11970/market-research-lead/) |
+| 前沿网络安全风险研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11968/researcher-frontier-cybersecurity-risks/) |
+| 前沿生物化学风险研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11967/researcher-frontier-biological-and-chemical-risks/) |
+| HCL、Wipro和Cognizant合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11969/partner-director-hcl-wipro-cognizant/) |
+| 研究工程师 / 研究科学家 - 个人通用人工智能，个性化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11965/research-engineer-research-scientist-personal-agi-personalization/) |
 | 研究工程师 / 研究科学家 - 个人通用人工智能、记忆 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11961/research-engineer-research-scientist-personal-agi-memory/) |
-| 战略与运营、产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11963/strategy-operations-product-partnerships/) |
 | WFM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-operations/) |
 | 支付产品负责人，软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11964/software-engineer-payments-product-lead/) |
-| 应用AI架构师，国家安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11958/applied-ai-architect-national-security/) |
 | 高级软件工程师，交易基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11960/senior-software-engineer-trading-infrastructure/) |
 | IT工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11959/it-engineer/) |
 | 软件工程师，交易产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
 | 基础设施技术业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11957/technical-business-development-manager-infrastructure/) |
 | 新产品产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11955/product-engineer-new-products/) |
-| 保障执行分析师，用户福祉 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
-| 搜索工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11953/engineering-manager-search/) |
 | 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | 高级软件工程师，后端 - 平台（代币与包装资产） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
 | 法律与运营工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11952/legal-and-operations-engineering-lead/) |
 | 多模态安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11951/researcher-multimodal-safety/) |
 | FCM高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
 | 清算运营高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
-| 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（47 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
 | <img src="images/1inch.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="1inch"> | <a href="https://1inch.com/">1inch</a> | [查看职位 →](https://www.remotejobscan.com/?company=1inch) |
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [查看职位 →](https://www.remotejobscan.com/?company=aave) |
 | <img src="images/alchemy.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Alchemy"> | <a href="https://www.alchemy.com/">Alchemy</a> | [查看职位 →](https://www.remotejobscan.com/?company=alchemy) |
-| <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [查看职位 →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [查看职位 →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-03 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

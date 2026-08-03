@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2244</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2121</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,37 +23,37 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
+| Market Research Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11970/market-research-lead/) |
+| Researcher, Frontier Cybersecurity Risks | On-site | [View →](https://www.remotejobscan.com/job/11968/researcher-frontier-cybersecurity-risks/) |
+| Researcher, Frontier Biological and Chemical Risks | On-site | [View →](https://www.remotejobscan.com/job/11967/researcher-frontier-biological-and-chemical-risks/) |
+| Partner Director, HCL, Wipro & Cognizant | On-site | [View →](https://www.remotejobscan.com/job/11969/partner-director-hcl-wipro-cognizant/) |
+| Research Engineer / Research Scientist - Personal AGI, Personalization | On-site | [View →](https://www.remotejobscan.com/job/11965/research-engineer-research-scientist-personal-agi-personalization/) |
 | Research Engineer / Research Scientist - Personal AGI, Memory | On-site | [View →](https://www.remotejobscan.com/job/11961/research-engineer-research-scientist-personal-agi-memory/) |
-| Strategy & Operations, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/11963/strategy-operations-product-partnerships/) |
 | Manager, WFM Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-operations/) |
 | Software Engineer, Payments Product Lead | On-site | [View →](https://www.remotejobscan.com/job/11964/software-engineer-payments-product-lead/) |
-| Applied AI Architect, National Security | On-site | [View →](https://www.remotejobscan.com/job/11958/applied-ai-architect-national-security/) |
 | Senior Software Engineer, Trading Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11960/senior-software-engineer-trading-infrastructure/) |
 | IT Engineer | On-site | [View →](https://www.remotejobscan.com/job/11959/it-engineer/) |
 | Software Engineer, Trading Product | On-site | [View →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
 | Technical Business Development Manager – Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11957/technical-business-development-manager-infrastructure/) |
 | Product Engineer, New Products | Hybrid | [View →](https://www.remotejobscan.com/job/11955/product-engineer-new-products/) |
-| Safeguards Enforcement Analyst, User Well-being | Remote | [View →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
-| Engineering Manager, Search | On-site | [View →](https://www.remotejobscan.com/job/11953/engineering-manager-search/) |
 | Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets) | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
 | Legal and Operations Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11952/legal-and-operations-engineering-lead/) |
 | Researcher, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/11951/researcher-multimodal-safety/) |
 | Senior Associate, FCM | Remote | [View →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
 | Senior Manager, Clearing Operations | Remote | [View →](https://www.remotejobscan.com/job/9263/senior-manager-clearing-operations/) |
-| Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
 | <img src="images/1inch.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="1inch"> | <a href="https://1inch.com/">1inch</a> | [View jobs →](https://www.remotejobscan.com/?company=1inch) |
 | <img src="images/aave.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aave"> | <a href="https://aave.com/">Aave</a> | [View jobs →](https://www.remotejobscan.com/?company=aave) |
 | <img src="images/alchemy.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Alchemy"> | <a href="https://www.alchemy.com/">Alchemy</a> | [View jobs →](https://www.remotejobscan.com/?company=alchemy) |
-| <img src="images/anthropic.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Anthropic"> | <a href="https://www.anthropic.com/">Anthropic</a> | [View jobs →](https://www.remotejobscan.com/?company=anthropic) |
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-03 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
