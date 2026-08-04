@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2272</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2273</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Sales EMEA, Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
 | Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
 | AI Agent Security Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/6578/ai-agent-security-research-engineer/) |
@@ -41,7 +42,6 @@
 | Software Engineer, Monetization Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
 | Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist | Remote | [View →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 | GTM Strategy & Operations, Overlay | Hybrid | [View →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
-| Partner Sales Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11977/partner-sales-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

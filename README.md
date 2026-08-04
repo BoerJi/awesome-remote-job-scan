@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2272</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2273</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲、中东、非洲区公共部门销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
 | 高级/员工密码学工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | BGW Flutter Engineer 客户端Flutter开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
 | AI代理安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6578/ai-agent-security-research-engineer/) |
@@ -41,7 +42,6 @@
 | 变现数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
 | 运营风险/企业风险管理框架（ERMF）专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 | GTM战略与运营，叠加 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
-| 合作伙伴销售专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11977/partner-sales-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
