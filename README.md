@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2276</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2278</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务与运营审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
+| 联盟营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
+| 法语业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11901/business-development-representative-french-speaking/) |
 | Web平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11996/staff-software-engineer-web-platform/) |
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | 外汇交易员（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
@@ -39,9 +42,6 @@
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11986/business-development-manager/) |
 | 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
-| 支付业务合规经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11984/business-compliance-manager-payments/) |
-| 币安加速器项目 - 用户增长数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11987/binance-accelerator-program-data-scientist-user-growth/) |
-| 业务发展经理（初级至中级）- 香港 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

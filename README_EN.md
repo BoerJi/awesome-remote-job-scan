@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2276</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2278</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Operations Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
+| Affiliate Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
+| Business Development Representative - French Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-french-speaking/) |
 | Staff Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11996/staff-software-engineer-web-platform/) |
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | Foreign Exchange Trader (remote) | Hybrid | [View →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
@@ -39,9 +42,6 @@
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/11986/business-development-manager/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
-| Business Compliance Manager - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11984/business-compliance-manager-payments/) |
-| Binance Accelerator Program - Data Scientist (User Growth) | Remote | [View →](https://www.remotejobscan.com/job/11987/binance-accelerator-program-data-scientist-user-growth/) |
-| Business Development Manager (Junior to Mid-Level) – Hong Kong | Remote | [View →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
