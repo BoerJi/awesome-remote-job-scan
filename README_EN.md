@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
 | AI Agent Security Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/6578/ai-agent-security-research-engineer/) |
 | Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
@@ -41,7 +42,6 @@
 | Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist | Remote | [View →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 | GTM Strategy & Operations, Overlay | Hybrid | [View →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
 | Partner Sales Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11977/partner-sales-specialist/) |
-| Program Manager, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11976/program-manager-critical-harm-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
