@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2264</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2269</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11986/business-development-manager/) |
+| 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
+| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
+| 支付业务合规经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11984/business-compliance-manager-payments/) |
+| 币安加速器项目 - 用户增长数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11987/binance-accelerator-program-data-scientist-user-growth/) |
+| 业务发展经理（初级至中级）- 香港 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
 | 安全平台开发高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11982/staff-engineer-security-platform-development/) |
 | KYB客户尽职调查运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | 变现数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
@@ -37,12 +43,6 @@
 | 办公IT专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 | 南部各州地区州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
 | 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| 招聘解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11428/recruiting-solutions-engineer/) |
-| 研究技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9732/technical-program-manager-research/) |
-| 云推理高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9699/staff-sr-software-engineer-cloud-inference/) |
-| 企业级Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
-| 高级软件工程师，开发者生产力（开发环境）- Claude 代码 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9676/staff-software-engineer-developer-productivity-dev-environments-claude-code/) |
-| 员工+ 账户滥用软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9660/staff-software-engineer-account-abuse/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2264</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2269</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/11986/business-development-manager/) |
+| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
+| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
+| Business Compliance Manager - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11984/business-compliance-manager-payments/) |
+| Binance Accelerator Program - Data Scientist (User Growth) | Remote | [View →](https://www.remotejobscan.com/job/11987/binance-accelerator-program-data-scientist-user-growth/) |
+| Business Development Manager (Junior to Mid-Level) – Hong Kong | Remote | [View →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
 | Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/11982/staff-engineer-security-platform-development/) |
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | Software Engineer, Monetization Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
@@ -37,12 +43,6 @@
 | Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
 | Regional State and Local Affairs Lead, Southern States | Remote | [View →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
 | Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| Recruiting Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/11428/recruiting-solutions-engineer/) |
-| Technical Program Manager, Research | On-site | [View →](https://www.remotejobscan.com/job/9732/technical-program-manager-research/) |
-| Staff + Sr. Software Engineer, Cloud Inference | On-site | [View →](https://www.remotejobscan.com/job/9699/staff-sr-software-engineer-cloud-inference/) |
-| Staff+ Software Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
-| Staff Software Engineer, Developer Productivity (Dev Environments) - Claude Code | On-site | [View →](https://www.remotejobscan.com/job/9676/staff-software-engineer-developer-productivity-dev-environments-claude-code/) |
-| Staff+ Software Engineer, Account Abuse | On-site | [View →](https://www.remotejobscan.com/job/9660/staff-software-engineer-account-abuse/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
