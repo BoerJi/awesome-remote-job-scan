@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2280</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2281</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
+| 全球流动协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
 | AI基础设施系统工程师班加罗尔 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
 | 运营中心客户支持副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 | 强化学习工程研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
@@ -41,7 +43,6 @@
 | Financial Product Manager 金融产品经理（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | AI赋能PMO总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11585/ai-enablement-pmo-director/) |
-| AI部署工程师，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11989/ai-deployment-engineer-startups/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

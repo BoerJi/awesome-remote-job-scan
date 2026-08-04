@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2280</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2281</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
+| Global Mobility Coordinator | On-site | [View →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
 | AI infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 | Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
@@ -41,7 +43,6 @@
 | Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | AI Enablement PMO Director | On-site | [View →](https://www.remotejobscan.com/job/11585/ai-enablement-pmo-director/) |
-| AI Deployment Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11989/ai-deployment-engineer-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
