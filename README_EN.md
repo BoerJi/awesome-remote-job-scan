@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Monetization Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
+| Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist | Remote | [View →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 | GTM Strategy & Operations, Overlay | Hybrid | [View →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
 | Partner Sales Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11977/partner-sales-specialist/) |
 | Program Manager, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11976/program-manager-critical-harm-operations/) |
@@ -41,8 +43,6 @@
 | Staff+ Software Engineer, Account Abuse | On-site | [View →](https://www.remotejobscan.com/job/9660/staff-software-engineer-account-abuse/) |
 | Staff+ Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/9650/staff-application-security-engineer/) |
 | Senior Software Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/9635/senior-software-security-engineer/) |
-| Senior Security Software Engineer, Linux Kernel Security - Nodes & Sensors | On-site | [View →](https://www.remotejobscan.com/job/9630/senior-security-software-engineer-linux-kernel-security-nodes-sensors/) |
-| Safeguards Enforcement Analyst, Chem & Explosives Harms | Remote | [View →](https://www.remotejobscan.com/job/9602/safeguards-enforcement-analyst-chem-explosives-harms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 变现数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
+| 运营风险/企业风险管理框架（ERMF）专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 | GTM战略与运营，叠加 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
 | 合作伙伴销售专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11977/partner-sales-specialist/) |
 | 关键危害运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11976/program-manager-critical-harm-operations/) |
@@ -41,8 +43,6 @@
 | 员工+ 账户滥用软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9660/staff-software-engineer-account-abuse/) |
 | Staff+ 应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9650/staff-application-security-engineer/) |
 | 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9635/senior-software-security-engineer/) |
-| 高级安全软件工程师，Linux内核安全 - 节点与传感器 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9630/senior-security-software-engineer-linux-kernel-security-nodes-sensors/) |
-| 化学品与爆炸物危害安全合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9602/safeguards-enforcement-analyst-chem-explosives-harms/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
