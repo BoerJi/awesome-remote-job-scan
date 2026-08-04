@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2281</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2284</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Representative (Supporting APAC Region) | On-site | [View →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
+| International Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
+| Director, Total Rewards | Remote | [View →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
+| Infrastructure Tax Lead | Remote | [View →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
+| Senior Payroll Manager | On-site | [View →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
+| Account Based Marketing Program Lead | Remote | [View →](https://www.remotejobscan.com/job/12007/account-based-marketing-program-lead/) |
 | AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 | Field Security Specialist (Cyber Security Solutions Engineer) | On-site | [View →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
-| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
 | Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
 | Full-Stack Engineer, ChatGPT Education & Learning | Hybrid | [View →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
@@ -38,11 +43,6 @@
 | Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | Finance & Operations Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
 | Affiliate Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
-| Business Development Representative - French Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-french-speaking/) |
-| Staff Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11996/staff-software-engineer-web-platform/) |
-| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| Foreign Exchange Trader (remote) | Hybrid | [View →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
-| Strategic Account Executive - Poland - Consumer & Retail | Remote | [View →](https://www.remotejobscan.com/job/11995/strategic-account-executive-poland-consumer-retail/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

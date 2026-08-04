@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2281</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2284</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区域销售发展代表（支持亚太地区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
+| 国际战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
+| 总薪酬总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
+| 基础设施税务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
+| 高级薪酬经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
+| 基于客户的营销计划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12007/account-based-marketing-program-lead/) |
 | AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 | 现场安全专家（网络安全解决方案工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
-| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
 | 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
 | ChatGPT教育与学习全栈工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
@@ -38,11 +43,6 @@
 | 强化学习工程研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | 财务与运营审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
 | 联盟营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
-| 法语业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11901/business-development-representative-french-speaking/) |
-| Web平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11996/staff-software-engineer-web-platform/) |
-| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| 外汇交易员（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
-| 战略客户经理 - 波兰 - 消费与零售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11995/strategic-account-executive-poland-consumer-retail/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
