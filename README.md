@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2273</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2274</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -39,9 +39,9 @@
 | 业务发展经理（初级至中级）- 香港 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
 | 安全平台开发高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11982/staff-engineer-security-platform-development/) |
 | KYB客户尽职调查运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
+| 产品经理（资產模块）- 6个月合同 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11992/product-manager-asset-module-6-months-contract/) |
 | 变现数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
 | 运营风险/企业风险管理框架（ERMF）专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
-| GTM战略与运营，叠加 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
