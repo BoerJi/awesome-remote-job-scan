@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2285</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2288</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究产品经理（代码） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11420/product-manager-research-code/) |
+| （推理与后训练）前置部署工程师 - 中文 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
+| 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
+| 通讯项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12012/program-manager-communications/) |
 | 软件工程师，代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
 | 软件工程师，机器学习与网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
 | 国际战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
@@ -38,11 +43,6 @@
 | 现场安全专家（网络安全解决方案工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
 | 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
 | 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
-| ChatGPT教育与学习全栈工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
-| 现场工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12002/field-engineer/) |
-| 变现数据系统软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-systems/) |
-| 高级数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
-| 全球流动协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

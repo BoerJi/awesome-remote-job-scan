@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2285</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2288</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Research (Code) | On-site | [View →](https://www.remotejobscan.com/job/11420/product-manager-research-code/) |
+| Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
+| Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
+| Program Manager, Communications | On-site | [View →](https://www.remotejobscan.com/job/12012/program-manager-communications/) |
 | Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
 | Software Engineer, ML Networking | On-site | [View →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
 | International Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
@@ -38,11 +43,6 @@
 | Field Security Specialist (Cyber Security Solutions Engineer) | On-site | [View →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
 | Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
 | Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
-| Full-Stack Engineer, ChatGPT Education & Learning | Hybrid | [View →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
-| Field Engineer | On-site | [View →](https://www.remotejobscan.com/job/12002/field-engineer/) |
-| Software Engineer, Monetization Data Systems | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-systems/) |
-| Senior Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
-| Global Mobility Coordinator | On-site | [View →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
