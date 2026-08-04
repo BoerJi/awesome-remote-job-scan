@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2277</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2280</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
+| Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
+| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | Finance & Operations Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
 | Affiliate Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
 | Business Development Representative - French Speaking | Hybrid | [View →](https://www.remotejobscan.com/job/11901/business-development-representative-french-speaking/) |
@@ -39,9 +42,6 @@
 | AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | AI Enablement PMO Director | On-site | [View →](https://www.remotejobscan.com/job/11585/ai-enablement-pmo-director/) |
 | AI Deployment Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11989/ai-deployment-engineer-startups/) |
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/11986/business-development-manager/) |
-| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
-| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
