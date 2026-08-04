@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2271</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2272</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
+| AI Agent Security Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/6578/ai-agent-security-research-engineer/) |
 | Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | AI Enablement PMO Director | On-site | [View →](https://www.remotejobscan.com/job/11585/ai-enablement-pmo-director/) |
@@ -40,8 +42,6 @@
 | GTM Strategy & Operations, Overlay | Hybrid | [View →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
 | Partner Sales Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/11977/partner-sales-specialist/) |
 | Program Manager, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11976/program-manager-critical-harm-operations/) |
-| Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
-| Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
