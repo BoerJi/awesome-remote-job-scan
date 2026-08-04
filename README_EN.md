@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2269</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
+| AI Enablement PMO Director | On-site | [View →](https://www.remotejobscan.com/job/11585/ai-enablement-pmo-director/) |
+| AI Deployment Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11989/ai-deployment-engineer-startups/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/11986/business-development-manager/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
@@ -38,11 +42,6 @@
 | Program Manager, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11976/program-manager-critical-harm-operations/) |
 | Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
 | Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
-| Controller | Hybrid | [View →](https://www.remotejobscan.com/job/11974/controller/) |
-| Staff Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/9318/staff-software-engineer-ai-platform-team/) |
-| Workplace IT Specialist | On-site | [View →](https://www.remotejobscan.com/job/11394/workplace-it-specialist/) |
-| Regional State and Local Affairs Lead, Southern States | Remote | [View →](https://www.remotejobscan.com/job/11647/regional-state-and-local-affairs-lead-southern-states/) |
-| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
