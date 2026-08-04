@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
+| Software Engineer, ML Networking | On-site | [View →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
 | International Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
 | Product Manager, Claude Tag | On-site | [View →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
 | Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
@@ -41,8 +43,6 @@
 | Software Engineer, Monetization Data Systems | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-systems/) |
 | Senior Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
 | Global Mobility Coordinator | On-site | [View →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
-| AI infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
-| Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

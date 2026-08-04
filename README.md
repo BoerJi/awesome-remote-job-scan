@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
+| 软件工程师，机器学习与网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
 | 国际战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
 | 产品经理，Claude Tag | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
 | 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
@@ -41,8 +43,6 @@
 | 变现数据系统软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-systems/) |
 | 高级数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
 | 全球流动协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
-| AI基础设施系统工程师班加罗尔 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
-| 运营中心客户支持副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
