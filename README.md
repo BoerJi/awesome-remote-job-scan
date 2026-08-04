@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2273</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2276</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11996/staff-software-engineer-web-platform/) |
+| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| 外汇交易员（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
+| 战略客户经理 - 波兰 - 消费与零售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11995/strategic-account-executive-poland-consumer-retail/) |
+| 战略客户总监 - 波兰 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11994/strategic-account-executive-poland-financial-services/) |
 | 欧洲、中东、非洲区公共部门销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
 | 高级/员工密码学工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | BGW Flutter Engineer 客户端Flutter开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
@@ -37,11 +42,6 @@
 | 支付业务合规经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11984/business-compliance-manager-payments/) |
 | 币安加速器项目 - 用户增长数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11987/binance-accelerator-program-data-scientist-user-growth/) |
 | 业务发展经理（初级至中级）- 香港 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
-| 安全平台开发高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11982/staff-engineer-security-platform-development/) |
-| KYB客户尽职调查运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| 产品经理（资產模块）- 6个月合同 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11992/product-manager-asset-module-6-months-contract/) |
-| 变现数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
-| 运营风险/企业风险管理框架（ERMF）专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

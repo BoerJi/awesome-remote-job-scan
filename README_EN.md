@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2273</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2276</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Web Platform | On-site | [View →](https://www.remotejobscan.com/job/11996/staff-software-engineer-web-platform/) |
+| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| Foreign Exchange Trader (remote) | Hybrid | [View →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
+| Strategic Account Executive - Poland - Consumer & Retail | Remote | [View →](https://www.remotejobscan.com/job/11995/strategic-account-executive-poland-consumer-retail/) |
+| Strategic Account Executive - Poland - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11994/strategic-account-executive-poland-financial-services/) |
 | Head of Sales EMEA, Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
 | Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
@@ -37,11 +42,6 @@
 | Business Compliance Manager - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/11984/business-compliance-manager-payments/) |
 | Binance Accelerator Program - Data Scientist (User Growth) | Remote | [View →](https://www.remotejobscan.com/job/11987/binance-accelerator-program-data-scientist-user-growth/) |
 | Business Development Manager (Junior to Mid-Level) – Hong Kong | Remote | [View →](https://www.remotejobscan.com/job/11985/business-development-manager-junior-to-mid-level-hong-kong/) |
-| Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/11982/staff-engineer-security-platform-development/) |
-| Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| Product Manager (Asset Module) - 6 months contract | Hybrid | [View →](https://www.remotejobscan.com/job/11992/product-manager-asset-module-6-months-contract/) |
-| Software Engineer, Monetization Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
-| Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist | Remote | [View →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
