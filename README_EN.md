@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2280</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2282</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
+| Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
+| Full-Stack Engineer, ChatGPT Education & Learning | Hybrid | [View →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
 | Field Engineer | On-site | [View →](https://www.remotejobscan.com/job/12002/field-engineer/) |
 | Software Engineer, Monetization Data Systems | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-systems/) |
 | Senior Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
@@ -40,9 +43,6 @@
 | Strategic Account Executive - Poland - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11994/strategic-account-executive-poland-financial-services/) |
 | Head of Sales EMEA, Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
 | Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
-| BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
-| AI Agent Security Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/6578/ai-agent-security-research-engineer/) |
-| Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

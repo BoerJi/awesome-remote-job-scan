@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2280</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2282</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
+| 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
+| ChatGPT教育与学习全栈工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
 | 现场工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12002/field-engineer/) |
 | 变现数据系统软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-systems/) |
 | 高级数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
@@ -40,9 +43,6 @@
 | 战略客户总监 - 波兰 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11994/strategic-account-executive-poland-financial-services/) |
 | 欧洲、中东、非洲区公共部门销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
 | 高级/员工密码学工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
-| BGW Flutter Engineer 客户端Flutter开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
-| AI代理安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6578/ai-agent-security-research-engineer/) |
-| Financial Product Manager 金融产品经理（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
