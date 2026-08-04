@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2266</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/11982/staff-engineer-security-platform-development/) |
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | Software Engineer, Monetization Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
 | Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist | Remote | [View →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
@@ -42,7 +43,6 @@
 | Staff+ Software Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
 | Staff Software Engineer, Developer Productivity (Dev Environments) - Claude Code | On-site | [View →](https://www.remotejobscan.com/job/9676/staff-software-engineer-developer-productivity-dev-environments-claude-code/) |
 | Staff+ Software Engineer, Account Abuse | On-site | [View →](https://www.remotejobscan.com/job/9660/staff-software-engineer-account-abuse/) |
-| Staff+ Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/9650/staff-application-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
