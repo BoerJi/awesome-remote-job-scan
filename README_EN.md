@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2282</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2281</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
+| Field Security Specialist (Cyber Security Solutions Engineer) | On-site | [View →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
+| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
 | Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
 | Full-Stack Engineer, ChatGPT Education & Learning | Hybrid | [View →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
@@ -40,9 +43,6 @@
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | Foreign Exchange Trader (remote) | Hybrid | [View →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
 | Strategic Account Executive - Poland - Consumer & Retail | Remote | [View →](https://www.remotejobscan.com/job/11995/strategic-account-executive-poland-consumer-retail/) |
-| Strategic Account Executive - Poland - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/11994/strategic-account-executive-poland-financial-services/) |
-| Head of Sales EMEA, Public Sector | Remote | [View →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
-| Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

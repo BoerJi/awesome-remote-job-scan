@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2282</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2281</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
+| 现场安全专家（网络安全解决方案工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
+| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
 | 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
 | ChatGPT教育与学习全栈工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12005/full-stack-engineer-chatgpt-education-learning/) |
@@ -40,9 +43,6 @@
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | 外汇交易员（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11993/foreign-exchange-trader-remote/) |
 | 战略客户经理 - 波兰 - 消费与零售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11995/strategic-account-executive-poland-consumer-retail/) |
-| 战略客户总监 - 波兰 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11994/strategic-account-executive-poland-financial-services/) |
-| 欧洲、中东、非洲区公共部门销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11991/head-of-sales-emea-public-sector/) |
-| 高级/员工密码学工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
