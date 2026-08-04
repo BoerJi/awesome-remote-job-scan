@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2269</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2266</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KYB客户尽职调查运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | 变现数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11980/software-engineer-monetization-data-platform/) |
 | 运营风险/企业风险管理框架（ERMF）专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11979/operational-risk-enterprise-risk-management-framework-ermf-specialist/) |
 | GTM战略与运营，叠加 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11978/gtm-strategy-operations-overlay/) |
@@ -42,7 +43,6 @@
 | 高级软件工程师，开发者生产力（开发环境）- Claude 代码 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9676/staff-software-engineer-developer-productivity-dev-environments-claude-code/) |
 | 员工+ 账户滥用软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9660/staff-software-engineer-account-abuse/) |
 | Staff+ 应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9650/staff-application-security-engineer/) |
-| 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9635/senior-software-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
