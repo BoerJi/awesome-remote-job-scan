@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2284</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2286</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 国际战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
+| 产品经理，Claude Tag | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
+| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
 | 区域销售发展代表（支持亚太地区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
-| 国际战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
 | 总薪酬总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
 | 基础设施税务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 | 高级薪酬经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
@@ -40,9 +43,6 @@
 | 全球流动协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
 | AI基础设施系统工程师班加罗尔 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
 | 运营中心客户支持副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| 强化学习工程研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
-| 财务与运营审计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
-| 联盟营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-04 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

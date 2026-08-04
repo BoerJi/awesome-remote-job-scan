@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2284</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2286</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Sales Development Representative (Supporting APAC Region) | On-site | [View →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
 | International Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
+| Product Manager, Claude Tag | On-site | [View →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
+| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
+| Sales Development Representative (Supporting APAC Region) | On-site | [View →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
 | Director, Total Rewards | Remote | [View →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
 | Infrastructure Tax Lead | Remote | [View →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 | Senior Payroll Manager | On-site | [View →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
@@ -40,9 +43,6 @@
 | Global Mobility Coordinator | On-site | [View →](https://www.remotejobscan.com/job/12000/global-mobility-coordinator/) |
 | AI infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
-| Finance & Operations Audit Leader | Hybrid | [View →](https://www.remotejobscan.com/job/11798/finance-operations-audit-leader/) |
-| Affiliate Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/11998/affiliate-marketing-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-04 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
