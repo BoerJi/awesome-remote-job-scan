@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2288</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2291</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
+| Director, Global Order-to-Cash Transformation | On-site | [View →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
+| AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
+| Researcher, Alignment CoT Monitorability | On-site | [View →](https://www.remotejobscan.com/job/12017/researcher-alignment-cot-monitorability/) |
 | Product Manager, Research (Code) | On-site | [View →](https://www.remotejobscan.com/job/11420/product-manager-research-code/) |
 | Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
@@ -39,10 +43,6 @@
 | Infrastructure Tax Lead | Remote | [View →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 | Senior Payroll Manager | On-site | [View →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
 | Account Based Marketing Program Lead | Remote | [View →](https://www.remotejobscan.com/job/12007/account-based-marketing-program-lead/) |
-| AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
-| Field Security Specialist (Cyber Security Solutions Engineer) | On-site | [View →](https://www.remotejobscan.com/job/11332/field-security-specialist-cyber-security-solutions-engineer/) |
-| Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/11336/senior-compliance-manager/) |
-| Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
