@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2308</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2315</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，API企业控制 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12064/software-engineer-api-enterprise-controls/) |
+| 区域广告解决方案客户合作伙伴（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11844/regional-client-partner-ads-solutions-mumbai/) |
+| 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
+| 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
+| 战略客户总监 - 能源（石油和天然气）及公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12062/strategic-account-executive-energy-oil-and-gas-utilities/) |
+| 硬件系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12059/technical-program-manager-hardware-systems/) |
+| 商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
+| 强化学习研究技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12060/technical-program-manager-rl-research/) |
+| 现场安全专家经理（网络解决方案工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12061/manager-field-security-specialists-cyber-solutions-engineering/) |
+| 市场活动制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
+| 基础设施税务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 | 检测工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12057/detection-engineer/) |
 | 数字原生新业务客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12056/account-director-digital-native-new-business/) |
 | 亚太出口负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12055/apac-export-lead-ads-solutions/) |
@@ -32,17 +43,6 @@
 | 内部审计分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9223/internal-audit-analyst/) |
 | 企业客户经理（科罗拉多州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12053/enterprise-account-executive-colorado/) |
 | 合规前派工程师 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| 社区工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12051/community-engineer/) |
-| 产品设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
-| B2B SEO/AEO 专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
-| 技术团队成员，内部代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12049/client-engagement-specialist-trading-expert/) |
-| 软件工程师，代理生产力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
-| 机械调试项目工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12046/mechanical-commissioning-project-engineer/) |
-| 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
-| 代理运行平台技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
-| 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
-| 高级客服代理（波兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

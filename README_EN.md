@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2308</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, API Enterprise Controls | On-site | [View →](https://www.remotejobscan.com/job/12064/software-engineer-api-enterprise-controls/) |
+| Regional Client Partner, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/11844/regional-client-partner-ads-solutions-mumbai/) |
+| Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
+| Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
+| Strategic Account Executive - Energy (oil and gas) & Utilities | Remote | [View →](https://www.remotejobscan.com/job/12062/strategic-account-executive-energy-oil-and-gas-utilities/) |
+| Technical Program Manager, Hardware Systems | On-site | [View →](https://www.remotejobscan.com/job/12059/technical-program-manager-hardware-systems/) |
+| Commercial Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
+| Technical Program Manager, RL Research | On-site | [View →](https://www.remotejobscan.com/job/12060/technical-program-manager-rl-research/) |
+| Manager, Field Security Specialists (Cyber Solutions Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/12061/manager-field-security-specialists-cyber-solutions-engineering/) |
+| Marketing Events Producer | On-site | [View →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
+| Infrastructure Tax Lead | Remote | [View →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 | Detection Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12057/detection-engineer/) |
 | Account Director, Digital Native New Business | On-site | [View →](https://www.remotejobscan.com/job/12056/account-director-digital-native-new-business/) |
 | APAC Export Lead, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/12055/apac-export-lead-ads-solutions/) |
@@ -32,17 +43,6 @@
 | Internal Audit Analyst | Remote | [View →](https://www.remotejobscan.com/job/9223/internal-audit-analyst/) |
 | Enterprise Account Executive (Colorado) | Remote | [View →](https://www.remotejobscan.com/job/12053/enterprise-account-executive-colorado/) |
 | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
-| Product Design, Manager | On-site | [View →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
-| B2B SEO/AEO Expert | Remote | [View →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
-| Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/12049/client-engagement-specialist-trading-expert/) |
-| Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
-| Mechanical Commissioning Project Engineer | On-site | [View →](https://www.remotejobscan.com/job/12046/mechanical-commissioning-project-engineer/) |
-| Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
-| Tech Lead Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
-| Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
-| Senior Agent, Customer Service (Polish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
