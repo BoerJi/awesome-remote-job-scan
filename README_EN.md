@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2299</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2301</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Finance Control | Remote | [View →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
+| Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
+| Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
 | Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
 | Research Engineer / Research Scientist / AI Systems Engineer, RSI | Hybrid | [View →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
 | AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
@@ -40,9 +43,6 @@
 | Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
 | Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
-| Program Manager, Communications | On-site | [View →](https://www.remotejobscan.com/job/12012/program-manager-communications/) |
-| Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
-| Software Engineer, ML Networking | On-site | [View →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

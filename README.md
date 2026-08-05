@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2299</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2301</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
+| 网络安全产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
+| 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
 | 财务预测数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
 | 研究工程师 / 研究科学家 / AI系统工程师，RSI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
 | AI工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
@@ -40,9 +43,6 @@
 | （推理与后训练）前置部署工程师 - 中文 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
 | 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
-| 通讯项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12012/program-manager-communications/) |
-| 软件工程师，代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
-| 软件工程师，机器学习与网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
