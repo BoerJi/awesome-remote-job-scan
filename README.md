@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2301</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2303</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
+| 代理运行平台技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
+| 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
+| 高级客服代理（波兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
+| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
+| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 | 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12043/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | 企业安全管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12041/corporate-security-manager/) |
 | 高级/资深软件工程师，经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
@@ -35,11 +41,6 @@
 | OG首席产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12036/lead-product-designer-og/) |
 | 大型企业AI部署工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12035/manager-ai-deployment-engineering-large-enterprise/) |
 | 高级代理，客户服务（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
-| 高级技术项目经理，数据与审计准备 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12033/sr-technical-program-manager-data-audit-readiness/) |
-| Senior Financial Expert 高级金融专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
-| 品牌KOL专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12030/brand-kol-specialist/) |
-| 币安 - 加速器项目 - 品牌KOL | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12028/binance-accelerator-program-brand-kol/) |
-| 财务控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

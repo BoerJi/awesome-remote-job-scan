@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2301</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
+| Tech Lead Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
+| Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
+| Senior Agent, Customer Service (Polish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
+| Senior Agent, Customer Service (Italian Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
+| Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/12043/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | Corporate Security Manager | On-site | [View →](https://www.remotejobscan.com/job/12041/corporate-security-manager/) |
 | Senior/Staff Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
@@ -35,11 +41,6 @@
 | Lead Product Designer - OG | Hybrid | [View →](https://www.remotejobscan.com/job/12036/lead-product-designer-og/) |
 | Manager, AI Deployment Engineering - Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/12035/manager-ai-deployment-engineering-large-enterprise/) |
 | Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
-| Sr. Technical Program Manager, Data & Audit Readiness | Remote | [View →](https://www.remotejobscan.com/job/12033/sr-technical-program-manager-data-audit-readiness/) |
-| Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
-| Brand KOL Specialist | Remote | [View →](https://www.remotejobscan.com/job/12030/brand-kol-specialist/) |
-| Binance - Accelerator Program - Brand KOL | Remote | [View →](https://www.remotejobscan.com/job/12028/binance-accelerator-program-brand-kol/) |
-| Head of Finance Control | Remote | [View →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
