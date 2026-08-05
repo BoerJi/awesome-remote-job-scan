@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2306</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2303</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理（科罗拉多州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12053/enterprise-account-executive-colorado/) |
+| 合规前派工程师 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | 社区工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | 产品设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
 | B2B SEO/AEO 专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
@@ -30,7 +32,6 @@
 | 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12049/client-engagement-specialist-trading-expert/) |
 | 软件工程师，代理生产力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
 | 机械调试项目工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12046/mechanical-commissioning-project-engineer/) |
-| 社会支持专家三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
 | 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
 | 代理运行平台技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
 | 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
@@ -41,7 +42,6 @@
 | 企业安全管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12041/corporate-security-manager/) |
 | 高级/资深软件工程师，经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
 | 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
-| 技术团队成员（产品数据科学家，搜索质量） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

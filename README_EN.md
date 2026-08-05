@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2306</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive (Colorado) | Remote | [View →](https://www.remotejobscan.com/job/12053/enterprise-account-executive-colorado/) |
+| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | Product Design, Manager | On-site | [View →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
 | B2B SEO/AEO Expert | Remote | [View →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
@@ -30,7 +32,6 @@
 | Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/12049/client-engagement-specialist-trading-expert/) |
 | Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
 | Mechanical Commissioning Project Engineer | On-site | [View →](https://www.remotejobscan.com/job/12046/mechanical-commissioning-project-engineer/) |
-| Social Support Specialist III | Remote | [View →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
 | Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
 | Tech Lead Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
 | Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
@@ -41,7 +42,6 @@
 | Corporate Security Manager | On-site | [View →](https://www.remotejobscan.com/job/12041/corporate-security-manager/) |
 | Senior/Staff Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
-| Member of Technical Staff (Product Data Scientist, Search Quality) | On-site | [View →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
