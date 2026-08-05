@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2307</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Design, Manager | On-site | [View →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
+| B2B SEO/AEO Expert | Remote | [View →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
+| Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
+| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/12049/client-engagement-specialist-trading-expert/) |
+| Software Engineer, Agent Productivity | Hybrid | [View →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
+| Mechanical Commissioning Project Engineer | On-site | [View →](https://www.remotejobscan.com/job/12046/mechanical-commissioning-project-engineer/) |
+| Social Support Specialist III | Remote | [View →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
 | Order Management & Billing - Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
 | Tech Lead Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
 | Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
@@ -35,12 +42,6 @@
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | Member of Technical Staff (Product Data Scientist, Search Quality) | On-site | [View →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 | Affiliate Business Development Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
-| Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
-| Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
-| Lead Product Designer - OG | Hybrid | [View →](https://www.remotejobscan.com/job/12036/lead-product-designer-og/) |
-| Manager, AI Deployment Engineering - Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/12035/manager-ai-deployment-engineering-large-enterprise/) |
-| Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

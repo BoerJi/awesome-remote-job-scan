@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2307</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
+| B2B SEO/AEO 专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
+| 技术团队成员，内部代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
+| 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12049/client-engagement-specialist-trading-expert/) |
+| 软件工程师，代理生产力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11919/software-engineer-agent-productivity/) |
+| 机械调试项目工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12046/mechanical-commissioning-project-engineer/) |
+| 社会支持专家三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
 | 订单管理与计费主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12044/order-management-billing-lead/) |
 | 代理运行平台技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
 | 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
@@ -35,12 +42,6 @@
 | 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | 技术团队成员（产品数据科学家，搜索质量） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 | 巴基斯坦联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
-| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
-| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
-| OG首席产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12036/lead-product-designer-og/) |
-| 大型企业AI部署工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12035/manager-ai-deployment-engineering-large-enterprise/) |
-| 高级代理，客户服务（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
