@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2308</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 检测工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12057/detection-engineer/) |
+| 数字原生新业务客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12056/account-director-digital-native-new-business/) |
+| 亚太出口负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12055/apac-export-lead-ads-solutions/) |
+| 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12054/derivative-sales-analyst/) |
+| 社交媒体支持专家III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11625/social-support-specialist-iii/) |
+| 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
+| 内部审计分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9223/internal-audit-analyst/) |
 | 企业客户经理（科罗拉多州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12053/enterprise-account-executive-colorado/) |
 | 合规前派工程师 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | 社区工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12051/community-engineer/) |
@@ -36,12 +43,6 @@
 | 代理运行平台技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/tech-lead-manager-agent-runtime-platform/) |
 | 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 | 高级客服代理（波兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11815/senior-agent-customer-service-polish-speaker/) |
-| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
-| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
-| 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12043/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
-| 企业安全管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12041/corporate-security-manager/) |
-| 高级/资深软件工程师，经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
-| 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
