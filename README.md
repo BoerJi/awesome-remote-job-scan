@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级代理，客户服务（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | 高级技术项目经理，数据与审计准备 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12033/sr-technical-program-manager-data-audit-readiness/) |
 | Senior Financial Expert 高级金融专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
 | 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
@@ -41,7 +42,6 @@
 | 雇主品牌经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12019/employer-brand-manager/) |
 | 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
-| 全球订单到账转型总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
