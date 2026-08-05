@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2302</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2305</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
+| Brand KOL Specialist | Remote | [View →](https://www.remotejobscan.com/job/12030/brand-kol-specialist/) |
 | Binance - Accelerator Program - Brand KOL | Remote | [View →](https://www.remotejobscan.com/job/12028/binance-accelerator-program-brand-kol/) |
 | Head of Finance Control | Remote | [View →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
 | Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
@@ -41,8 +43,6 @@
 | Director, Global Order-to-Cash Transformation | On-site | [View →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 | AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 | Researcher, Alignment CoT Monitorability | On-site | [View →](https://www.remotejobscan.com/job/12017/researcher-alignment-cot-monitorability/) |
-| Product Manager, Research (Code) | On-site | [View →](https://www.remotejobscan.com/job/11420/product-manager-research-code/) |
-| Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
