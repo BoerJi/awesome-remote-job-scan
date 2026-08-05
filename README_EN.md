@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2293</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2299</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
+| Research Engineer / Research Scientist / AI Systems Engineer, RSI | Hybrid | [View →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
+| AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
+| Electrical Commissioning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12024/electrical-commissioning-lead/) |
+| Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
+| Hardware Systems Architect | On-site | [View →](https://www.remotejobscan.com/job/12020/hardware-systems-architect/) |
+| Strategic Sourcing Lead, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/12022/strategic-sourcing-lead-professional-services/) |
 | Employer Brand Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12019/employer-brand-manager/) |
 | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
@@ -36,13 +43,6 @@
 | Program Manager, Communications | On-site | [View →](https://www.remotejobscan.com/job/12012/program-manager-communications/) |
 | Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
 | Software Engineer, ML Networking | On-site | [View →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
-| International Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
-| Product Manager, Claude Tag | On-site | [View →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
-| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
-| Sales Development Representative (Supporting APAC Region) | On-site | [View →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
-| Director, Total Rewards | Remote | [View →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
-| Infrastructure Tax Lead | Remote | [View →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

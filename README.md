@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2293</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2299</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务预测数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
+| 研究工程师 / 研究科学家 / AI系统工程师，RSI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
+| AI工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
+| 电气调试主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12024/electrical-commissioning-lead/) |
+| 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
+| 硬件系统架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12020/hardware-systems-architect/) |
+| 专业服务战略采购负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12022/strategic-sourcing-lead-professional-services/) |
 | 雇主品牌经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12019/employer-brand-manager/) |
 | 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
@@ -36,13 +43,6 @@
 | 通讯项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12012/program-manager-communications/) |
 | 软件工程师，代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
 | 软件工程师，机器学习与网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12011/software-engineer-ml-networking/) |
-| 国际战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12008/international-strategy-operations-lead/) |
-| 产品经理，Claude Tag | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
-| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9251/senior-analyst-compliance-technology/) |
-| 区域销售发展代表（支持亚太地区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
-| 总薪酬总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
-| 基础设施税务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
