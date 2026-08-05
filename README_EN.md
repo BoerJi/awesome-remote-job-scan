@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2305</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Technical Program Manager, Data & Audit Readiness | Remote | [View →](https://www.remotejobscan.com/job/12033/sr-technical-program-manager-data-audit-readiness/) |
 | Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | Brand KOL Specialist | Remote | [View →](https://www.remotejobscan.com/job/12030/brand-kol-specialist/) |
@@ -41,8 +42,6 @@
 | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | Director, Global Order-to-Cash Transformation | On-site | [View →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
-| AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
-| Researcher, Alignment CoT Monitorability | On-site | [View →](https://www.remotejobscan.com/job/12017/researcher-alignment-cot-monitorability/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
