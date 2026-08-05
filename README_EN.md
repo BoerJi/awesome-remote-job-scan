@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2307</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2306</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | Product Design, Manager | On-site | [View →](https://www.remotejobscan.com/job/12047/product-design-manager/) |
 | B2B SEO/AEO Expert | Remote | [View →](https://www.remotejobscan.com/job/12050/b2b-seoaeo-expert/) |
 | Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
@@ -41,7 +42,6 @@
 | Senior/Staff Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | Member of Technical Staff (Product Data Scientist, Search Quality) | On-site | [View →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
-| Affiliate Business Development Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
