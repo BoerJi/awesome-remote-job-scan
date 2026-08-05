@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2301</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2304</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
+| 技术团队成员（产品数据科学家，搜索质量） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
+| 巴基斯坦联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
 | Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
@@ -38,9 +41,6 @@
 | 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
 | 财务预测数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
 | 研究工程师 / 研究科学家 / AI系统工程师，RSI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
-| AI工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
-| 电气调试主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12024/electrical-commissioning-lead/) |
-| 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

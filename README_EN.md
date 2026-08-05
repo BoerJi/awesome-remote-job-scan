@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2301</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2304</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
+| Member of Technical Staff (Product Data Scientist, Search Quality) | On-site | [View →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
+| Affiliate Business Development Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
 | Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
@@ -38,9 +41,6 @@
 | Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
 | Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
 | Research Engineer / Research Scientist / AI Systems Engineer, RSI | Hybrid | [View →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
-| AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
-| Electrical Commissioning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12024/electrical-commissioning-lead/) |
-| Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
