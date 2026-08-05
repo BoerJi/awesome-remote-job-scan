@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2299</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
+| Lead Product Designer - OG | Hybrid | [View →](https://www.remotejobscan.com/job/12036/lead-product-designer-og/) |
+| Manager, AI Deployment Engineering - Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/12035/manager-ai-deployment-engineering-large-enterprise/) |
 | Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | Sr. Technical Program Manager, Data & Audit Readiness | Remote | [View →](https://www.remotejobscan.com/job/12033/sr-technical-program-manager-data-audit-readiness/) |
 | Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
@@ -39,9 +42,6 @@
 | Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 | Hardware Systems Architect | On-site | [View →](https://www.remotejobscan.com/job/12020/hardware-systems-architect/) |
 | Strategic Sourcing Lead, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/12022/strategic-sourcing-lead-professional-services/) |
-| Employer Brand Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12019/employer-brand-manager/) |
-| Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
-| Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
