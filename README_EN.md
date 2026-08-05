@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2300</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2302</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
+| Binance - Accelerator Program - Brand KOL | Remote | [View →](https://www.remotejobscan.com/job/12028/binance-accelerator-program-brand-kol/) |
 | Head of Finance Control | Remote | [View →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
 | Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
 | Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
@@ -41,8 +43,6 @@
 | Researcher, Alignment CoT Monitorability | On-site | [View →](https://www.remotejobscan.com/job/12017/researcher-alignment-cot-monitorability/) |
 | Product Manager, Research (Code) | On-site | [View →](https://www.remotejobscan.com/job/11420/product-manager-research-code/) |
 | Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
-| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
-| Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
