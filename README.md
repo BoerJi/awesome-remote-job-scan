@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2304</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深软件工程师，搜索与检索基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11283/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | 技术团队成员（产品数据科学家，搜索质量） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 | 巴基斯坦联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
@@ -40,7 +41,6 @@
 | 网络安全产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
 | 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
 | 财务预测数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
-| 研究工程师 / 研究科学家 / AI系统工程师，RSI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

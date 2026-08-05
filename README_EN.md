@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2304</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11283/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | Member of Technical Staff (Product Data Scientist, Search Quality) | On-site | [View →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 | Affiliate Business Development Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
@@ -40,7 +41,6 @@
 | Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
 | Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
 | Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
-| Research Engineer / Research Scientist / AI Systems Engineer, RSI | Hybrid | [View →](https://www.remotejobscan.com/job/12025/research-engineer-research-scientist-ai-systems-engineer-rsi/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
