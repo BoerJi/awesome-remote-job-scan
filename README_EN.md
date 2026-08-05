@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2304</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2301</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/11283/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
+| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/12043/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
+| Corporate Security Manager | On-site | [View →](https://www.remotejobscan.com/job/12041/corporate-security-manager/) |
+| Senior/Staff Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/12042/seniorstaff-software-engineer-experience/) |
 | General Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | Member of Technical Staff (Product Data Scientist, Search Quality) | On-site | [View →](https://www.remotejobscan.com/job/12040/member-of-technical-staff-product-data-scientist-search-quality/) |
 | Affiliate Business Development Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-pakistan/) |
@@ -38,9 +40,6 @@
 | Brand KOL Specialist | Remote | [View →](https://www.remotejobscan.com/job/12030/brand-kol-specialist/) |
 | Binance - Accelerator Program - Brand KOL | Remote | [View →](https://www.remotejobscan.com/job/12028/binance-accelerator-program-brand-kol/) |
 | Head of Finance Control | Remote | [View →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
-| Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/software-engineer-cybersecurity-products/) |
-| Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/researcher-cybersecurity-products/) |
-| Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/12023/data-scientist-finance-forecasting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
