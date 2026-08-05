@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2299</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2301</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11927/app-review-intern/) |
 | OG首席产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12036/lead-product-designer-og/) |
 | 大型企业AI部署工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12035/manager-ai-deployment-engineering-large-enterprise/) |
 | 高级代理，客户服务（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | 高级技术项目经理，数据与审计准备 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12033/sr-technical-program-manager-data-audit-readiness/) |
 | Senior Financial Expert 高级金融专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12031/senior-financial-expert/) |
-| 东南亚总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12027/general-manager-southeast-asia/) |
 | 品牌KOL专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12030/brand-kol-specialist/) |
 | 币安 - 加速器项目 - 品牌KOL | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12028/binance-accelerator-program-brand-kol/) |
 | 财务控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5658/head-of-finance-control/) |
@@ -40,8 +41,6 @@
 | AI工程师，赋能团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11109/ai-engineer-enablement/) |
 | 电气调试主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12024/electrical-commissioning-lead/) |
 | 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
-| 硬件系统架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12020/hardware-systems-architect/) |
-| 专业服务战略采购负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12022/strategic-sourcing-lead-professional-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
