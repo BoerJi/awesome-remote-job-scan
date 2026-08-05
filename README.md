@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2291</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2293</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 雇主品牌经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12019/employer-brand-manager/) |
+| 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | 叙事主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | 全球订单到账转型总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 | AV生产专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
@@ -41,8 +43,6 @@
 | 区域销售发展代表（支持亚太地区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
 | 总薪酬总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
 | 基础设施税务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
-| 高级薪酬经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
-| 基于客户的营销计划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12007/account-based-marketing-program-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-05 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

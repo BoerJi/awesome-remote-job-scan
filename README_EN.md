@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2291</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2293</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Employer Brand Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12019/employer-brand-manager/) |
+| Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/12018/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | Head of Narratives | On-site | [View →](https://www.remotejobscan.com/job/11124/head-of-narratives/) |
 | Director, Global Order-to-Cash Transformation | On-site | [View →](https://www.remotejobscan.com/job/11789/director-global-order-to-cash-transformation/) |
 | AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
@@ -41,8 +43,6 @@
 | Sales Development Representative (Supporting APAC Region) | On-site | [View →](https://www.remotejobscan.com/job/12010/sales-development-representative-supporting-apac-region/) |
 | Director, Total Rewards | Remote | [View →](https://www.remotejobscan.com/job/12009/director-total-rewards/) |
 | Infrastructure Tax Lead | Remote | [View →](https://www.remotejobscan.com/job/9480/infrastructure-tax-lead/) |
-| Senior Payroll Manager | On-site | [View →](https://www.remotejobscan.com/job/12006/senior-payroll-manager/) |
-| Account Based Marketing Program Lead | Remote | [View →](https://www.remotejobscan.com/job/12007/account-based-marketing-program-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-05 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
