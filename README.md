@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理 - 交易所、交易经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12093/senior-product-manager-exchange-trading-experience/) |
 | 合规专员 - 监管考试与审计问题管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12092/compliance-specialist-regulatory-exam-audit-issue-management/) |
 | Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
 | 高级法律顾问 - 监管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12091/sr-counsel-regulatory/) |
@@ -42,7 +43,6 @@
 | 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
 | 事件与危机管理主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
 | 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
-| 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
