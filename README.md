@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2333</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2340</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GRC项目经理，保证工程与控制系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12102/grc-program-manager-assurance-engineering-control-systems/) |
+| 商业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
+| 硅谷技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12100/technical-program-manager-silicon/) |
+| GTM策略与运营负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12103/gtm-strategy-operations-lead-ads-solutions/) |
+| 品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12104/brand-designer/) |
+| 计算策略业务发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
+| 高级内部威胁分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9258/senior-insider-threat-analyst/) |
+| 合同经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12099/contract-manager/) |
 | 技术专家（软件工程师，后端API） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12098/member-of-technical-staff-software-engineer-backend-api/) |
 | 会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
 | 薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
@@ -35,14 +43,6 @@
 | Reconciliation Big Data Development Engineer 账务大数据开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
 | Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
-| 人才获取经理/负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6784/talent-acquisition-manager-lead/) |
-| 高级产品经理 - 交易所、交易经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12093/senior-product-manager-exchange-trading-experience/) |
-| 合规专员 - 监管考试与审计问题管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12092/compliance-specialist-regulatory-exam-audit-issue-management/) |
-| Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
-| 高级法律顾问 - 监管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12091/sr-counsel-regulatory/) |
-| 欧洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
-| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
-| Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2333</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2340</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GRC Program Manager, Assurance Engineering & Control Systems | Hybrid | [View →](https://www.remotejobscan.com/job/12102/grc-program-manager-assurance-engineering-control-systems/) |
+| Account Executive, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
+| Technical Program Manager, Silicon | On-site | [View →](https://www.remotejobscan.com/job/12100/technical-program-manager-silicon/) |
+| GTM Strategy & Operations Lead, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/12103/gtm-strategy-operations-lead-ads-solutions/) |
+| Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12104/brand-designer/) |
+| Business Development Lead, Compute Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
+| Senior Insider Threat Analyst | Remote | [View →](https://www.remotejobscan.com/job/9258/senior-insider-threat-analyst/) |
+| Contract Manager | Remote | [View →](https://www.remotejobscan.com/job/12099/contract-manager/) |
 | Member of Technical Staff (Software Engineer, Backend API) | On-site | [View →](https://www.remotejobscan.com/job/12098/member-of-technical-staff-software-engineer-backend-api/) |
 | Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
 | Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
@@ -35,14 +43,6 @@
 | Reconciliation Big Data Development Engineer 账务大数据开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
 | Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | Remote | [View →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
-| Talent Acquisition Manager / Lead | Remote | [View →](https://www.remotejobscan.com/job/6784/talent-acquisition-manager-lead/) |
-| Senior Product Manager - Exchange, Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/12093/senior-product-manager-exchange-trading-experience/) |
-| Compliance Specialist - Regulatory Exam & Audit Issue Management | Remote | [View →](https://www.remotejobscan.com/job/12092/compliance-specialist-regulatory-exam-audit-issue-management/) |
-| Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
-| Sr. Counsel - Regulatory | Remote | [View →](https://www.remotejobscan.com/job/12091/sr-counsel-regulatory/) |
-| Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
-| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
-| Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
