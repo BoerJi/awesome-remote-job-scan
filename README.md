@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2329</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2334</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 瑞典B2B营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
+| B2B市场 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
+| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
+| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
+| 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
+| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
+| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
+| 人才获取经理/负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6784/talent-acquisition-manager-lead/) |
 | 高级产品经理 - 交易所、交易经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12093/senior-product-manager-exchange-trading-experience/) |
 | 合规专员 - 监管考试与审计问题管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12092/compliance-specialist-regulatory-exam-audit-issue-management/) |
 | Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
@@ -34,15 +43,6 @@
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
-| 支持供应商经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
-| 高级产品经理 - 预测, OG | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
-| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
-| VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
-| 客户教育、内容与系统运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10461/customer-education-content-systems-operations-lead/) |
-| 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
-| 事件与危机管理主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
-| 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
-| 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

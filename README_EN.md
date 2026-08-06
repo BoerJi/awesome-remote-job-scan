@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2329</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| B2B Marketing - Sweden | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
+| B2B Marketing - Poland | Remote | [View →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
+| GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
+| Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
+| Senior Finance Manager / Finance Manager (Capital Markets and Financial Planning) | Remote | [View →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
+| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
+| Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | Remote | [View →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
+| Talent Acquisition Manager / Lead | Remote | [View →](https://www.remotejobscan.com/job/6784/talent-acquisition-manager-lead/) |
 | Senior Product Manager - Exchange, Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/12093/senior-product-manager-exchange-trading-experience/) |
 | Compliance Specialist - Regulatory Exam & Audit Issue Management | Remote | [View →](https://www.remotejobscan.com/job/12092/compliance-specialist-regulatory-exam-audit-issue-management/) |
 | Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
@@ -34,15 +43,6 @@
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
-| Support Vendor Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
-| Senior Product Manager - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
-| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
-| VIP BD | Remote | [View →](https://www.remotejobscan.com/job/8475/vip-bd/) |
-| Customer Education, Content & Systems Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/10461/customer-education-content-systems-operations-lead/) |
-| Insider Risk Investigator | On-site | [View →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
-| Incident & Crisis Management Lead | On-site | [View →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
-| Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
-| Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
