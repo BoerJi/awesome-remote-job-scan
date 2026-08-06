@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2333</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (Software Engineer, Backend API) | On-site | [View →](https://www.remotejobscan.com/job/12098/member-of-technical-staff-software-engineer-backend-api/) |
 | Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
 | Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
 | Automation Engineer - Influencers | Remote | [View →](https://www.remotejobscan.com/job/12096/automation-engineer-influencers/) |
@@ -42,7 +43,6 @@
 | Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
 | Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
 | Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
-| Technical Program Manager, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9333/technical-program-manager-gfco-analytics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
