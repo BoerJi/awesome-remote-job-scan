@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2337</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | 支持供应商经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
 | 高级产品经理 - 预测, OG | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
@@ -41,8 +43,6 @@
 | 营销首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
 | 战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
-| 分布式数据系统软件工程师 - 机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10074/software-engineer-distributed-data-systems-robotics/) |
-| B2B增长营销专家 - 荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12071/b2b-growth-marketer-netherlands/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

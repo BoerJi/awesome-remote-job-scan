@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2337</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | Support Vendor Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
 | Senior Product Manager - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
@@ -41,8 +43,6 @@
 | Marketing Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
 | Strategic Partner Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
-| Software Engineer, Distributed Data Systems - Robotics | On-site | [View →](https://www.remotejobscan.com/job/10074/software-engineer-distributed-data-systems-robotics/) |
-| B2B Growth Marketer - Netherlands | Remote | [View →](https://www.remotejobscan.com/job/12071/b2b-growth-marketer-netherlands/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
