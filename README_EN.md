@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2343</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2340</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/finance-manager/) |
+| PCBA Manufacturing Engineer | Remote | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | Principal Software Engineer, Identity | Hybrid | [View →](https://www.remotejobscan.com/job/12109/principal-software-engineer-identity/) |
 | Account Executive, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
 | Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
@@ -41,8 +43,6 @@
 | Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
 | Automation Engineer - Influencers | Remote | [View →](https://www.remotejobscan.com/job/12096/automation-engineer-influencers/) |
 | B2B Marketing - Sweden | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
-| B2B Marketing - Poland | Remote | [View →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
-| GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

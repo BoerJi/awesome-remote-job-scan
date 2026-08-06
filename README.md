@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2343</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2340</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/finance-manager/) |
+| PCBA制造工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | 首席软件工程师，身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12109/principal-software-engineer-identity/) |
 | 商业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
 | 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
@@ -41,8 +43,6 @@
 | 薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
 | 自动化工程师 - 影响者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12096/automation-engineer-influencers/) |
 | 瑞典B2B营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
-| B2B市场 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
-| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
