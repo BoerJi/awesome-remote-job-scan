@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2329</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
 | 高级法律顾问 - 监管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12091/sr-counsel-regulatory/) |
 | 欧洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
-| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
 | Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | GFCO分析技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9333/technical-program-manager-gfco-analytics/) |
@@ -43,6 +42,7 @@
 | 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
 | 事件与危机管理主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
 | 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
+| 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
