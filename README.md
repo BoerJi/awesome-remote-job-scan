@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2329</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2330</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 部署工程师（芝加哥） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12076/deployed-engineer-chicago/) |
 | 意大利B2B增长营销师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
 | 营销首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
 | 战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
@@ -42,7 +43,6 @@
 | 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
 | 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
 | 战略客户总监 - 能源（石油和天然气）及公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12062/strategic-account-executive-energy-oil-and-gas-utilities/) |
-| 硬件系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12059/technical-program-manager-hardware-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

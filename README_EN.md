@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2329</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2330</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployed Engineer (Chicago) | Remote | [View →](https://www.remotejobscan.com/job/12076/deployed-engineer-chicago/) |
 | B2B Growth Marketer - Italy | Remote | [View →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
 | Marketing Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
 | Strategic Partner Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
@@ -42,7 +43,6 @@
 | Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
 | Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
 | Strategic Account Executive - Energy (oil and gas) & Utilities | Remote | [View →](https://www.remotejobscan.com/job/12062/strategic-account-executive-energy-oil-and-gas-utilities/) |
-| Technical Program Manager, Hardware Systems | On-site | [View →](https://www.remotejobscan.com/job/12059/technical-program-manager-hardware-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
