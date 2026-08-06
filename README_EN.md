@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2338</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
+| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | VIP BD | Remote | [View →](https://www.remotejobscan.com/job/8475/vip-bd/) |
 | Customer Education, Content & Systems Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/10461/customer-education-content-systems-operations-lead/) |
 | Insider Risk Investigator | On-site | [View →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
@@ -41,8 +43,6 @@
 | Software Engineer, Distributed Data Systems - Robotics | On-site | [View →](https://www.remotejobscan.com/job/10074/software-engineer-distributed-data-systems-robotics/) |
 | B2B Growth Marketer - Netherlands | Remote | [View →](https://www.remotejobscan.com/job/12071/b2b-growth-marketer-netherlands/) |
 | B2B Growth Marketer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/12070/b2b-growth-marketer-switzerland/) |
-| AI Engineer, Enablement (London) | On-site | [View →](https://www.remotejobscan.com/job/12073/ai-engineer-enablement-london/) |
-| AI Engineer, Enablement (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/12074/ai-engineer-enablement-amsterdam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

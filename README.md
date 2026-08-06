@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2338</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理 - 预测, OG | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
+| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
 | 客户教育、内容与系统运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10461/customer-education-content-systems-operations-lead/) |
 | 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
@@ -41,8 +43,6 @@
 | 分布式数据系统软件工程师 - 机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10074/software-engineer-distributed-data-systems-robotics/) |
 | B2B增长营销专家 - 荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12071/b2b-growth-marketer-netherlands/) |
 | 瑞士B2B增长营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12070/b2b-growth-marketer-switzerland/) |
-| AI工程师，赋能团队（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12073/ai-engineer-enablement-london/) |
-| AI工程师，赋能（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12074/ai-engineer-enablement-amsterdam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
