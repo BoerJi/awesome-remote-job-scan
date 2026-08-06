@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2337</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Support Vendor Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
 | Senior Product Manager - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/12086/senior-product-manager-predictions-og/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | VIP BD | Remote | [View →](https://www.remotejobscan.com/job/8475/vip-bd/) |
@@ -42,7 +43,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
 | Software Engineer, Distributed Data Systems - Robotics | On-site | [View →](https://www.remotejobscan.com/job/10074/software-engineer-distributed-data-systems-robotics/) |
 | B2B Growth Marketer - Netherlands | Remote | [View →](https://www.remotejobscan.com/job/12071/b2b-growth-marketer-netherlands/) |
-| B2B Growth Marketer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/12070/b2b-growth-marketer-switzerland/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
