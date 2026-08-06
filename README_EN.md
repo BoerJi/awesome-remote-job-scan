@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2343</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2347</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
+| Sales Enablement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12121/sales-enablement-lead/) |
+| Revenue Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/12120/revenue-operations-analyst/) |
+| Staff Analytics Engineer, Compliance Data | Remote | [View →](https://www.remotejobscan.com/job/12119/staff-analytics-engineer-compliance-data/) |
+| Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/12116/strategic-finance/) |
+| People Ops Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/12117/people-ops-coordinator/) |
+| Product Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/12115/product-manager-platform/) |
 | Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | Asset Compliance Program Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
 | Staff+ Software Engineer, Enterprise Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
@@ -36,13 +43,6 @@
 | Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
 | Product Designer, Engineering Acceleration | Hybrid | [View →](https://www.remotejobscan.com/job/12108/product-designer-engineering-acceleration/) |
 | Product Designer, Payments | Hybrid | [View →](https://www.remotejobscan.com/job/12107/product-designer-payments/) |
-| Analytics Engineer, GTM | On-site | [View →](https://www.remotejobscan.com/job/12105/analytics-engineer-gtm/) |
-| GRC Program Manager, Assurance Engineering & Control Systems | Hybrid | [View →](https://www.remotejobscan.com/job/12102/grc-program-manager-assurance-engineering-control-systems/) |
-| Technical Program Manager, Silicon | On-site | [View →](https://www.remotejobscan.com/job/12100/technical-program-manager-silicon/) |
-| GTM Strategy & Operations Lead, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/12103/gtm-strategy-operations-lead-ads-solutions/) |
-| Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12104/brand-designer/) |
-| Business Development Lead, Compute Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
-| Senior Insider Threat Analyst | Remote | [View →](https://www.remotejobscan.com/job/9258/senior-insider-threat-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2343</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2347</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
+| 销售赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12121/sales-enablement-lead/) |
+| 收入运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12120/revenue-operations-analyst/) |
+| 合规数据团队高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12119/staff-analytics-engineer-compliance-data/) |
+| 战略财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12116/strategic-finance/) |
+| 人事运营协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12117/people-ops-coordinator/) |
+| 平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12115/product-manager-platform/) |
 | 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | 硬件资产合规计划负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
 | 企业知识工作者Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
@@ -36,13 +43,6 @@
 | 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
 | 产品设计师，工程加速 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12108/product-designer-engineering-acceleration/) |
 | 支付产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12107/product-designer-payments/) |
-| GTM分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12105/analytics-engineer-gtm/) |
-| GRC项目经理，保证工程与控制系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12102/grc-program-manager-assurance-engineering-control-systems/) |
-| 硅谷技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12100/technical-program-manager-silicon/) |
-| GTM策略与运营负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12103/gtm-strategy-operations-lead-ads-solutions/) |
-| 品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12104/brand-designer/) |
-| 计算策略业务发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
-| 高级内部威胁分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9258/senior-insider-threat-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
