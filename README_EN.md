@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2341</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2343</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
+| Asset Compliance Program Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
+| Staff+ Software Engineer, Enterprise Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
 | Data Scientist, B2B Demand Generation, Growth & Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/12113/data-scientist-b2b-demand-generation-growth-measurement/) |
 | Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/11507/deputy-chief-information-security-officer-ciso-us/) |
 | Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
@@ -40,9 +43,6 @@
 | Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12104/brand-designer/) |
 | Business Development Lead, Compute Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
 | Senior Insider Threat Analyst | Remote | [View →](https://www.remotejobscan.com/job/9258/senior-insider-threat-analyst/) |
-| Contract Manager | Remote | [View →](https://www.remotejobscan.com/job/12099/contract-manager/) |
-| Member of Technical Staff (Software Engineer, Backend API) | On-site | [View →](https://www.remotejobscan.com/job/12098/member-of-technical-staff-software-engineer-backend-api/) |
-| Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

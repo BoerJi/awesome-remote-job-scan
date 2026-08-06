@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2341</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2343</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
+| 硬件资产合规计划负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
+| 企业知识工作者Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
 | 数据科学家，B2B需求生成，增长与衡量 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12113/data-scientist-b2b-demand-generation-growth-measurement/) |
 | 美国副首席信息安全官 (CISO) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11507/deputy-chief-information-security-officer-ciso-us/) |
 | 企业技术应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
@@ -40,9 +43,6 @@
 | 品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12104/brand-designer/) |
 | 计算策略业务发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
 | 高级内部威胁分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9258/senior-insider-threat-analyst/) |
-| 合同经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12099/contract-manager/) |
-| 技术专家（软件工程师，后端API） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12098/member-of-technical-staff-software-engineer-backend-api/) |
-| 会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
