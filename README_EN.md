@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Specialist - Regulatory Exam & Audit Issue Management | Remote | [View →](https://www.remotejobscan.com/job/12092/compliance-specialist-regulatory-exam-audit-issue-management/) |
+| Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/8520/fiat-operations-manager/) |
+| Sr. Counsel - Regulatory | Remote | [View →](https://www.remotejobscan.com/job/12091/sr-counsel-regulatory/) |
 | Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
 | Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
@@ -40,9 +43,6 @@
 | Incident & Crisis Management Lead | On-site | [View →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
 | Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
 | Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
-| Contract Management Lead (Procurement) | Hybrid | [View →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
-| Forward Deployed Engineer (FDE), Healthcare - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/12078/forward-deployed-engineer-fde-healthcare-nyc/) |
-| Forward Deployed Engineer (FDE), Healthcare - Seattle | Hybrid | [View →](https://www.remotejobscan.com/job/12077/forward-deployed-engineer-fde-healthcare-seattle/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
