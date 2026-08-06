@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2340</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2342</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, B2B Demand Generation, Growth & Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/12113/data-scientist-b2b-demand-generation-growth-measurement/) |
+| Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/11507/deputy-chief-information-security-officer-ciso-us/) |
+| Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
 | Finance Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/finance-manager/) |
 | PCBA Manufacturing Engineer | Remote | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | Principal Software Engineer, Identity | Hybrid | [View →](https://www.remotejobscan.com/job/12109/principal-software-engineer-identity/) |
@@ -40,9 +43,6 @@
 | Contract Manager | Remote | [View →](https://www.remotejobscan.com/job/12099/contract-manager/) |
 | Member of Technical Staff (Software Engineer, Backend API) | On-site | [View →](https://www.remotejobscan.com/job/12098/member-of-technical-staff-software-engineer-backend-api/) |
 | Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
-| Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
-| Automation Engineer - Influencers | Remote | [View →](https://www.remotejobscan.com/job/12096/automation-engineer-influencers/) |
-| B2B Marketing - Sweden | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
