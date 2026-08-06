@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2340</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2344</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| GRC项目经理，保证工程与控制系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12102/grc-program-manager-assurance-engineering-control-systems/) |
+| 首席软件工程师，身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12109/principal-software-engineer-identity/) |
 | 商业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
+| 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
+| 产品设计师，工程加速 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12108/product-designer-engineering-acceleration/) |
+| 支付产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12107/product-designer-payments/) |
+| GTM分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12105/analytics-engineer-gtm/) |
+| GRC项目经理，保证工程与控制系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12102/grc-program-manager-assurance-engineering-control-systems/) |
 | 硅谷技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12100/technical-program-manager-silicon/) |
 | GTM策略与运营负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12103/gtm-strategy-operations-lead-ads-solutions/) |
 | 品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12104/brand-designer/) |
@@ -38,11 +43,6 @@
 | 瑞典B2B营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
 | B2B市场 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
 | 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
-| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/senior-finance-transformation-manager/) |
-| 高级财务经理 / 财务经理（资本市场与财务规划） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7718/senior-finance-manager-finance-manager-capital-markets-and-financial-planning/) |
-| Reconciliation Big Data Development Engineer 账务大数据开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11528/reconciliation-big-data-development-engineer/) |
-| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
-| Full-stack Java Developer (Finance/Reconciliation Direction) 全栈Java 开发工程师（财务 / 账务 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11527/full-stack-java-developer-financereconciliation-direction-java/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
