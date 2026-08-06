@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | Support Vendor Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
@@ -42,7 +43,6 @@
 | B2B Growth Marketer - Italy | Remote | [View →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
 | Marketing Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
 | Strategic Partner Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2334</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | 支持供应商经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12087/support-vendor-manager/) |
@@ -42,7 +43,6 @@
 | 意大利B2B增长营销师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
 | 营销首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
 | 战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11422/it-support-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
