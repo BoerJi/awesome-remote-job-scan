@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Business Development Manager（Europe） | Remote | [View →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
+| Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
+| Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
+| Technical Program Manager, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9333/technical-program-manager-gfco-analytics/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
@@ -38,11 +43,6 @@
 | Contract Management Lead (Procurement) | Hybrid | [View →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
 | Forward Deployed Engineer (FDE), Healthcare - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/12078/forward-deployed-engineer-fde-healthcare-nyc/) |
 | Forward Deployed Engineer (FDE), Healthcare - Seattle | Hybrid | [View →](https://www.remotejobscan.com/job/12077/forward-deployed-engineer-fde-healthcare-seattle/) |
-| Forward Deployed Engineer (FDE), Healthcare - SF | Hybrid | [View →](https://www.remotejobscan.com/job/12079/forward-deployed-engineer-fde-healthcare-sf/) |
-| Deployed Engineer (Chicago) | Remote | [View →](https://www.remotejobscan.com/job/12076/deployed-engineer-chicago/) |
-| B2B Growth Marketer - Italy | Remote | [View →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
-| Marketing Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
-| Strategic Partner Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

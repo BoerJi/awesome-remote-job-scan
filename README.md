@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2334</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7303/institutional-business-development-managereurope/) |
+| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
+| Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
+| GFCO分析技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9333/technical-program-manager-gfco-analytics/) |
 | Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
 | 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
@@ -38,11 +43,6 @@
 | 采购合同管理主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
 | 前沿部署工程师 (FDE)，医疗保健 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12078/forward-deployed-engineer-fde-healthcare-nyc/) |
 | 医疗领域前派工程师 (FDE) - 西雅图 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12077/forward-deployed-engineer-fde-healthcare-seattle/) |
-| 前沿部署工程师 (FDE)，医疗保健 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12079/forward-deployed-engineer-fde-healthcare-sf/) |
-| 部署工程师（芝加哥） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12076/deployed-engineer-chicago/) |
-| 意大利B2B增长营销师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
-| 营销首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
-| 战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12066/strategic-partner-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
