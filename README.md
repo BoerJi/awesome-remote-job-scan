@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2330</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2335</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
+| 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
+| 采购合同管理主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
+| 前沿部署工程师 (FDE)，医疗保健 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12078/forward-deployed-engineer-fde-healthcare-nyc/) |
+| 医疗领域前派工程师 (FDE) - 西雅图 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12077/forward-deployed-engineer-fde-healthcare-seattle/) |
+| 前沿部署工程师 (FDE)，医疗保健 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12079/forward-deployed-engineer-fde-healthcare-sf/) |
 | 部署工程师（芝加哥） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12076/deployed-engineer-chicago/) |
 | 意大利B2B增长营销师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
 | 营销首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
@@ -37,12 +43,6 @@
 | B2B增长营销经理 - 丹麦 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12069/b2b-growth-marketer-denmark/) |
 | 计算策略业务发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
 | 比利时B2B增长营销师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12068/b2b-growth-marketer-belgium/) |
-| B2B增长营销经理 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
-| 软件工程师，API企业控制 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12064/software-engineer-api-enterprise-controls/) |
-| 区域广告解决方案客户合作伙伴（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11844/regional-client-partner-ads-solutions-mumbai/) |
-| 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
-| 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
-| 战略客户总监 - 能源（石油和天然气）及公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12062/strategic-account-executive-energy-oil-and-gas-utilities/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

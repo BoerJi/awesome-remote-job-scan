@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2330</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2335</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
+| Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
+| Contract Management Lead (Procurement) | Hybrid | [View →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
+| Forward Deployed Engineer (FDE), Healthcare - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/12078/forward-deployed-engineer-fde-healthcare-nyc/) |
+| Forward Deployed Engineer (FDE), Healthcare - Seattle | Hybrid | [View →](https://www.remotejobscan.com/job/12077/forward-deployed-engineer-fde-healthcare-seattle/) |
+| Forward Deployed Engineer (FDE), Healthcare - SF | Hybrid | [View →](https://www.remotejobscan.com/job/12079/forward-deployed-engineer-fde-healthcare-sf/) |
 | Deployed Engineer (Chicago) | Remote | [View →](https://www.remotejobscan.com/job/12076/deployed-engineer-chicago/) |
 | B2B Growth Marketer - Italy | Remote | [View →](https://www.remotejobscan.com/job/12072/b2b-growth-marketer-italy/) |
 | Marketing Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/12075/marketing-chief-of-staff/) |
@@ -37,12 +43,6 @@
 | B2B Growth Marketer - Denmark | Remote | [View →](https://www.remotejobscan.com/job/12069/b2b-growth-marketer-denmark/) |
 | Business Development Lead, Compute Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
 | B2B Growth Marketer - Belgium | On-site | [View →](https://www.remotejobscan.com/job/12068/b2b-growth-marketer-belgium/) |
-| B2B Growth Marketer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
-| Software Engineer, API Enterprise Controls | On-site | [View →](https://www.remotejobscan.com/job/12064/software-engineer-api-enterprise-controls/) |
-| Regional Client Partner, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/11844/regional-client-partner-ads-solutions-mumbai/) |
-| Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/11807/customer-success-manager-ads-solutions-mumbai/) |
-| Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
-| Strategic Account Executive - Energy (oil and gas) & Utilities | Remote | [View →](https://www.remotejobscan.com/job/12062/strategic-account-executive-energy-oil-and-gas-utilities/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
