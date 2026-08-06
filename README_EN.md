@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2347</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2353</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
+| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
+| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
+| Global Public Policy Manager, Compute, Infrastructure & Sovereign AI | Remote | [View →](https://www.remotejobscan.com/job/12127/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
+| Android Systems Engineer, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/12126/android-systems-engineer-consumer-devices/) |
+| Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
+| Manager, Commercial Account Management | On-site | [View →](https://www.remotejobscan.com/job/12123/manager-commercial-account-management/) |
+| Consumer Device Safety & Risk Operations Specialist, User Safety & Risk Operations | On-site | [View →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
+| Staff+ Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/staff-researcher-cybersecurity-products/) |
+| Staff+ Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/staff-software-engineer-cybersecurity-products/) |
 | Senior Software Engineer, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
 | Sales Enablement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12121/sales-enablement-lead/) |
 | Revenue Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/12120/revenue-operations-analyst/) |
@@ -33,16 +43,6 @@
 | Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | Asset Compliance Program Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
 | Staff+ Software Engineer, Enterprise Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
-| Data Scientist, B2B Demand Generation, Growth & Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/12113/data-scientist-b2b-demand-generation-growth-measurement/) |
-| Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/11507/deputy-chief-information-security-officer-ciso-us/) |
-| Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
-| Finance Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/finance-manager/) |
-| PCBA Manufacturing Engineer | Remote | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
-| Principal Software Engineer, Identity | Hybrid | [View →](https://www.remotejobscan.com/job/12109/principal-software-engineer-identity/) |
-| Account Executive, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
-| Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
-| Product Designer, Engineering Acceleration | Hybrid | [View →](https://www.remotejobscan.com/job/12108/product-designer-engineering-acceleration/) |
-| Product Designer, Payments | Hybrid | [View →](https://www.remotejobscan.com/job/12107/product-designer-payments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

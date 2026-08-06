@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2347</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2353</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
+| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
+| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
+| 全球公共政策经理，计算、基础设施与主权AI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12127/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
+| 消费设备安卓系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12126/android-systems-engineer-consumer-devices/) |
+| 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
+| 商业客户管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12123/manager-commercial-account-management/) |
+| 消费设备安全与风险运营专家，用户安全与风险运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
+| 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12026/staff-researcher-cybersecurity-products/) |
+| 网络安全产品软件工程师（高级职位） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9643/staff-software-engineer-cybersecurity-products/) |
 | 高级软件工程师，稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
 | 销售赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12121/sales-enablement-lead/) |
 | 收入运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12120/revenue-operations-analyst/) |
@@ -33,16 +43,6 @@
 | 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | 硬件资产合规计划负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
 | 企业知识工作者Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
-| 数据科学家，B2B需求生成，增长与衡量 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12113/data-scientist-b2b-demand-generation-growth-measurement/) |
-| 美国副首席信息安全官 (CISO) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11507/deputy-chief-information-security-officer-ciso-us/) |
-| 企业技术应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
-| 财务经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/finance-manager/) |
-| PCBA制造工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
-| 首席软件工程师，身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12109/principal-software-engineer-identity/) |
-| 商业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
-| 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
-| 产品设计师，工程加速 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12108/product-designer-engineering-acceleration/) |
-| 支付产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12107/product-designer-payments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
