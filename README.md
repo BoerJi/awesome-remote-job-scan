@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2334</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
+| 薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
+| 自动化工程师 - 影响者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12096/automation-engineer-influencers/) |
 | 瑞典B2B营销 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
 | B2B市场 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
 | 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
@@ -40,9 +43,6 @@
 | 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
 | Data BP 数据BP （出海香港） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | GFCO分析技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9333/technical-program-manager-gfco-analytics/) |
-| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
-| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/12097/accounting-manager/) |
+| Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/12006/director-of-payroll/) |
+| Automation Engineer - Influencers | Remote | [View →](https://www.remotejobscan.com/job/12096/automation-engineer-influencers/) |
 | B2B Marketing - Sweden | Remote | [View →](https://www.remotejobscan.com/job/10790/b2b-marketing-sweden/) |
 | B2B Marketing - Poland | Remote | [View →](https://www.remotejobscan.com/job/10791/b2b-marketing-poland/) |
 | GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/12094/gtm-enablement-global-lead/) |
@@ -40,9 +43,6 @@
 | Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/9300/senior-strategic-program-lead/) |
 | Data BP 数据BP （出海香港） | Remote | [View →](https://www.remotejobscan.com/job/8912/data-bp-bp/) |
 | Technical Program Manager, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9333/technical-program-manager-gfco-analytics/) |
-| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
