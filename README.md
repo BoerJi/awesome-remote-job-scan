@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2335</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-bd/) |
+| 客户教育、内容与系统运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10461/customer-education-content-systems-operations-lead/) |
+| 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
+| 事件与危机管理主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
 | 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
 | 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
 | 采购合同管理主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
@@ -39,10 +43,6 @@
 | 瑞士B2B增长营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12070/b2b-growth-marketer-switzerland/) |
 | AI工程师，赋能团队（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12073/ai-engineer-enablement-london/) |
 | AI工程师，赋能（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12074/ai-engineer-enablement-amsterdam/) |
-| 特殊情况业务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11754/business-lead-special-situations/) |
-| B2B增长营销经理 - 丹麦 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12069/b2b-growth-marketer-denmark/) |
-| 计算策略业务发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
-| 比利时B2B增长营销师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12068/b2b-growth-marketer-belgium/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-06 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

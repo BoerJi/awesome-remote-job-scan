@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2335</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VIP BD | Remote | [View →](https://www.remotejobscan.com/job/8475/vip-bd/) |
+| Customer Education, Content & Systems Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/10461/customer-education-content-systems-operations-lead/) |
+| Insider Risk Investigator | On-site | [View →](https://www.remotejobscan.com/job/12084/insider-risk-investigator/) |
+| Incident & Crisis Management Lead | On-site | [View →](https://www.remotejobscan.com/job/12083/incident-crisis-management-lead/) |
 | Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12080/senior-software-engineer-ai-platform-team/) |
 | Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
 | Contract Management Lead (Procurement) | Hybrid | [View →](https://www.remotejobscan.com/job/12081/contract-management-lead-procurement/) |
@@ -39,10 +43,6 @@
 | B2B Growth Marketer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/12070/b2b-growth-marketer-switzerland/) |
 | AI Engineer, Enablement (London) | On-site | [View →](https://www.remotejobscan.com/job/12073/ai-engineer-enablement-london/) |
 | AI Engineer, Enablement (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/12074/ai-engineer-enablement-amsterdam/) |
-| Business Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/11754/business-lead-special-situations/) |
-| B2B Growth Marketer - Denmark | Remote | [View →](https://www.remotejobscan.com/job/12069/b2b-growth-marketer-denmark/) |
-| Business Development Lead, Compute Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/12065/business-development-lead-compute-strategy/) |
-| B2B Growth Marketer - Belgium | On-site | [View →](https://www.remotejobscan.com/job/12068/b2b-growth-marketer-belgium/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-06 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
