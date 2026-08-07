@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数字原生业务销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12136/sales-manager-digital-natives/) |
 | 购物产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12133/product-manager-shopping/) |
 | 高级经理，全球股权管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12134/senior-manager-global-equity-administration/) |
 | 全球股权管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12128/manager-global-equity-administration/) |
@@ -41,7 +42,6 @@
 | 消费设备安卓系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12126/android-systems-engineer-consumer-devices/) |
 | 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | 商业客户管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12123/manager-commercial-account-management/) |
-| 消费设备安全与风险运营专家，用户安全与风险运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
