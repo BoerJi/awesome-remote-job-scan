@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2138</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2143</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
+| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
+| 印度商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
+| 高级产品设计师，Coinbase One | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
+| 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
+| 企业项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
 | 消费者订阅产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12230/product-marketing-lead-consumer-subscriptions/) |
 | 企业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12231/counsel-corporate/) |
 | 广告解决方案代理商合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12232/agency-partner-ads-solutions/) |
@@ -37,12 +43,6 @@
 | 人力资源解决方案助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12210/people-solutions-associate/) |
 | 高级软件工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
 | 高级Staff软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-service/) |
-| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-service/) |
-| GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12221/grc-analyst/) |
-| AI合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9337/ai-compliance-officer/) |
-| 高级Staff工程师，HR平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
-| 应用 AI 工程师，智能体与自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
-| 运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12176/operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

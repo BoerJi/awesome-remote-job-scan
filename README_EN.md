@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2138</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2143</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
+| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
+| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
+| Senior Product Designer, Coinbase One | Remote | [View →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
+| Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
+| Manager, Corporate Programs | Remote | [View →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
 | Product Marketing Lead, Consumer Subscriptions | Hybrid | [View →](https://www.remotejobscan.com/job/12230/product-marketing-lead-consumer-subscriptions/) |
 | Counsel, Corporate | Hybrid | [View →](https://www.remotejobscan.com/job/12231/counsel-corporate/) |
 | Agency Partner, Ads Solutions | Remote | [View →](https://www.remotejobscan.com/job/12232/agency-partner-ads-solutions/) |
@@ -37,12 +43,6 @@
 | People Solutions Associate | On-site | [View →](https://www.remotejobscan.com/job/12210/people-solutions-associate/) |
 | Senior Staff Software Engineer, Trading Service (Retail Trading) | On-site | [View →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
 | Senior Staff Software Engineer, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-service/) |
-| Senior Software Engineer, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-service/) |
-| GRC Analyst | Remote | [View →](https://www.remotejobscan.com/job/12221/grc-analyst/) |
-| AI Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/9337/ai-compliance-officer/) |
-| Senior Staff Engineer, HR Platform | On-site | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
-| Applied AI Engineer, Agents & Automations | Remote | [View →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
-| Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/12176/operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
