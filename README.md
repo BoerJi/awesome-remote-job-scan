@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 消费者订阅产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12230/product-marketing-lead-consumer-subscriptions/) |
+| 企业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12231/counsel-corporate/) |
+| 广告解决方案代理商合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12232/agency-partner-ads-solutions/) |
+| 策略与运营、应用人工智能 - 美洲区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 | 营销战略运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
 | 保障基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
 | 财务系统工程师，税务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12227/finance-systems-engineer-tax/) |
@@ -39,10 +43,6 @@
 | 高级Staff工程师，HR平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | 应用 AI 工程师，智能体与自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
 | 运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12176/operations-lead/) |
-| 合作伙伴业务发展经理（乌尔都语讲者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-urdu-speaker/) |
-| 高级/资深工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
-| Growth Director (Global P2P) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12170/growth-director-global-p2p/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

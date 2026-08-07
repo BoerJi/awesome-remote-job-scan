@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Lead, Consumer Subscriptions | Hybrid | [View →](https://www.remotejobscan.com/job/12230/product-marketing-lead-consumer-subscriptions/) |
+| Counsel, Corporate | Hybrid | [View →](https://www.remotejobscan.com/job/12231/counsel-corporate/) |
+| Agency Partner, Ads Solutions | Remote | [View →](https://www.remotejobscan.com/job/12232/agency-partner-ads-solutions/) |
+| Strategy & Operations, Applied AI - AMER | On-site | [View →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 | Strategic Operations Lead, Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
 | Staff+ Software Engineer, Safeguards Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
 | Finance Systems Engineer, Tax | On-site | [View →](https://www.remotejobscan.com/job/12227/finance-systems-engineer-tax/) |
@@ -39,10 +43,6 @@
 | Senior Staff Engineer, HR Platform | On-site | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | Applied AI Engineer, Agents & Automations | Remote | [View →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
 | Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/12176/operations-lead/) |
-| Affiliate Business Development Manager (Urdu Speaker) | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-urdu-speaker/) |
-| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
-| Growth Director (Global P2P) | On-site | [View →](https://www.remotejobscan.com/job/12170/growth-director-global-p2p/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
