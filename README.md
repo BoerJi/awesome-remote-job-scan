@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2149</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2156</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Claude代码团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12270/staff-software-engineer-claude-code/) |
+| Staff+ 隐私软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| 美国国际税务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
+| 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
+| 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
+| 高级后端软件工程师 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
 | 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
 | 应用AI架构经理，企业技术部 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9496/manager-of-applied-ai-architecture-enterprise-tech/) |
 | 企业级Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
@@ -37,12 +43,6 @@
 | 高级产品设计师，Coinbase One | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
 | 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | 企业项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
-| 消费者订阅产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12230/product-marketing-lead-consumer-subscriptions/) |
-| 企业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12231/counsel-corporate/) |
-| 广告解决方案代理商合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12232/agency-partner-ads-solutions/) |
-| 策略与运营、应用人工智能 - 美洲区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
-| 营销战略运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
-| 保障基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

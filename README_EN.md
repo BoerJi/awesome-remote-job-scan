@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2149</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2156</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/12270/staff-software-engineer-claude-code/) |
+| Staff+ Software Engineer, Privacy | On-site | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| Director, US International Tax | Remote | [View →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
+| Internal Communications Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
+| Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
+| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
 | Staff Software Engineer, Front-End | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
 | Manager of Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/9496/manager-of-applied-ai-architecture-enterprise-tech/) |
 | Staff+ Software Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
@@ -37,12 +43,6 @@
 | Senior Product Designer, Coinbase One | Remote | [View →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
 | Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | Manager, Corporate Programs | Remote | [View →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
-| Product Marketing Lead, Consumer Subscriptions | Hybrid | [View →](https://www.remotejobscan.com/job/12230/product-marketing-lead-consumer-subscriptions/) |
-| Counsel, Corporate | Hybrid | [View →](https://www.remotejobscan.com/job/12231/counsel-corporate/) |
-| Agency Partner, Ads Solutions | Remote | [View →](https://www.remotejobscan.com/job/12232/agency-partner-ads-solutions/) |
-| Strategy & Operations, Applied AI - AMER | On-site | [View →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
-| Strategic Operations Lead, Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
-| Staff+ Software Engineer, Safeguards Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
