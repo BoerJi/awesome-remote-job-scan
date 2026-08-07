@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2154</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Fluency Education Lead | On-site | [View →](https://www.remotejobscan.com/job/12273/ai-fluency-education-lead/) |
+| Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
+| Internal Audit Senior Associate, Operations & Compliance | Remote | [View →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
 | Staff Software Engineer, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/12270/staff-software-engineer-claude-code/) |
 | Staff+ Software Engineer, Privacy | On-site | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | Director, US International Tax | Remote | [View →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
@@ -40,9 +43,6 @@
 | Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
 | Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
 | Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
-| Senior Product Designer, Coinbase One | Remote | [View →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
-| Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
-| Manager, Corporate Programs | Remote | [View →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

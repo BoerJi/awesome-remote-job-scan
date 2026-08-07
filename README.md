@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2157</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI通识教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12273/ai-fluency-education-lead/) |
+| 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
+| 内部审计高级助理，运营与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
 | Claude代码团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12270/staff-software-engineer-claude-code/) |
 | Staff+ 隐私软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | 美国国际税务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
@@ -40,9 +43,6 @@
 | 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
 | 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
 | 印度商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
-| 高级产品设计师，Coinbase One | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
-| 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
-| 企业项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
