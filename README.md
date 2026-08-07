@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2143</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2149</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人事运营集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
+| 法律助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12255/paralegal/) |
 | 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
 | 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
 | 印度商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
@@ -41,8 +43,6 @@
 | 区域企业客户经理 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
 | 消费者合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12214/compliance-manager-consumer-compliance/) |
 | 人力资源解决方案助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12210/people-solutions-associate/) |
-| 高级软件工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
-| 高级Staff软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-service/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
