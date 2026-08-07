@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2363</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2190</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institution Operation Manager | Remote | [View →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
 | Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
@@ -41,7 +42,6 @@
 | Software Engineer, Silicon Design Methodology | Hybrid | [View →](https://www.remotejobscan.com/job/12131/software-engineer-silicon-design-methodology/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Solutions Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/solutions-architect-dallas/) |
-| Solutions Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/solutions-architect-austin/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
