@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2149</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2145</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | People Operations Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
 | Paralegal | Remote | [View →](https://www.remotejobscan.com/job/12255/paralegal/) |
 | Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
@@ -42,7 +43,6 @@
 | Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
 | Account Executive - Nordics - Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
 | Compliance Manager, Consumer Compliance | On-site | [View →](https://www.remotejobscan.com/job/12214/compliance-manager-consumer-compliance/) |
-| People Solutions Associate | On-site | [View →](https://www.remotejobscan.com/job/12210/people-solutions-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
