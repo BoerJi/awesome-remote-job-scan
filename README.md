@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2136</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2138</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 营销战略运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
+| 保障基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
+| 财务系统工程师，税务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12227/finance-systems-engineer-tax/) |
 | 欧洲、中东、非洲地区初创企业沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12226/start-up-communications-manager-emea/) |
 | EMEA合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
 | 区域企业客户经理 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
@@ -40,9 +43,6 @@
 | 高级/资深工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
 | Growth Director (Global P2P) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12170/growth-director-global-p2p/) |
-| 客户尽职调查运营专家（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| 中间件高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
-| 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

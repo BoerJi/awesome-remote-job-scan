@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2136</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2138</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Operations Lead, Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
+| Staff+ Software Engineer, Safeguards Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
+| Finance Systems Engineer, Tax | On-site | [View →](https://www.remotejobscan.com/job/12227/finance-systems-engineer-tax/) |
 | Start-up Communications Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12226/start-up-communications-manager-emea/) |
 | Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
 | Account Executive - Nordics - Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
@@ -40,9 +43,6 @@
 | Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
 | Growth Director (Global P2P) | On-site | [View →](https://www.remotejobscan.com/job/12170/growth-director-global-p2p/) |
-| Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
-| Senior Agent, Customer Service (Italian Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
