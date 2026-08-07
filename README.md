@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2353</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2362</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球股权管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12128/manager-global-equity-administration/) |
+| 初创企业拓展业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12132/account-director-startups-expansion/) |
+| 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12130/account-director-startups/) |
+| 硅设计方法论软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12131/software-engineer-silicon-design-methodology/) |
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
+| 解决方案架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/solutions-architect-dallas/) |
+| 解决方案架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/solutions-architect-austin/) |
+| 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
+| 解决方案架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/solutions-architect-san-francisco/) |
 | 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 | 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
@@ -33,16 +42,6 @@
 | 消费设备安全与风险运营专家，用户安全与风险运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
 | 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12026/staff-researcher-cybersecurity-products/) |
 | 网络安全产品软件工程师（高级职位） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9643/staff-software-engineer-cybersecurity-products/) |
-| 高级软件工程师，稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
-| 销售赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12121/sales-enablement-lead/) |
-| 收入运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12120/revenue-operations-analyst/) |
-| 合规数据团队高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12119/staff-analytics-engineer-compliance-data/) |
-| 战略财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12116/strategic-finance/) |
-| 人事运营协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12117/people-ops-coordinator/) |
-| 平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12115/product-manager-platform/) |
-| 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
-| 硬件资产合规计划负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
-| 企业知识工作者Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

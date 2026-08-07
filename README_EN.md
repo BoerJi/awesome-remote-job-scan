@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2353</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2362</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Global Equity Administration | Hybrid | [View →](https://www.remotejobscan.com/job/12128/manager-global-equity-administration/) |
+| Account Director, Startups Expansion | Hybrid | [View →](https://www.remotejobscan.com/job/12132/account-director-startups-expansion/) |
+| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/12130/account-director-startups/) |
+| Software Engineer, Silicon Design Methodology | Hybrid | [View →](https://www.remotejobscan.com/job/12131/software-engineer-silicon-design-methodology/) |
+| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
+| Solutions Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/solutions-architect-dallas/) |
+| Solutions Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/solutions-architect-austin/) |
+| Solutions Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
+| Solutions Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/solutions-architect-san-francisco/) |
 | Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
@@ -33,16 +42,6 @@
 | Consumer Device Safety & Risk Operations Specialist, User Safety & Risk Operations | On-site | [View →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
 | Staff+ Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/staff-researcher-cybersecurity-products/) |
 | Staff+ Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/staff-software-engineer-cybersecurity-products/) |
-| Senior Software Engineer, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
-| Sales Enablement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12121/sales-enablement-lead/) |
-| Revenue Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/12120/revenue-operations-analyst/) |
-| Staff Analytics Engineer, Compliance Data | Remote | [View →](https://www.remotejobscan.com/job/12119/staff-analytics-engineer-compliance-data/) |
-| Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/12116/strategic-finance/) |
-| People Ops Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/12117/people-ops-coordinator/) |
-| Product Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/12115/product-manager-platform/) |
-| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
-| Asset Compliance Program Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/12114/asset-compliance-program-lead-hardware/) |
-| Staff+ Software Engineer, Enterprise Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/9697/staff-software-engineer-enterprise-knowledge-work/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
