@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2145</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2149</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
+| 应用AI架构经理，企业技术部 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9496/manager-of-applied-ai-architecture-enterprise-tech/) |
+| 企业级Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
+| 高级税务专员/税务经理，间接税 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12261/senior-tax-associate-tax-manager-indirect-tax/) |
+| 税务顾问/经理，税务规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12260/tax-counselmanager-tax-planning/) |
 | 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | 人事运营集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
 | 法律助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12255/paralegal/) |
@@ -38,11 +43,6 @@
 | 策略与运营、应用人工智能 - 美洲区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 | 营销战略运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12228/strategic-operations-lead-marketing/) |
 | 保障基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9694/staff-software-engineer-safeguards-infrastructure/) |
-| 财务系统工程师，税务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12227/finance-systems-engineer-tax/) |
-| 欧洲、中东、非洲地区初创企业沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12226/start-up-communications-manager-emea/) |
-| EMEA合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| 区域企业客户经理 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
-| 消费者合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12214/compliance-manager-consumer-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
