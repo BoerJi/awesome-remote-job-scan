@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AWS联盟合作伙伴总监 - 日本 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12141/partner-director-aws-alliance-partnership-japan/) |
 | 客户合作伙伴 - 媒体与娱乐、广告解决方案 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12140/client-partner-media-entertainment-ads-solutions/) |
 | 高级招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12139/account-director-large-enterprise/) |
@@ -41,7 +42,6 @@
 | 解决方案架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/solutions-architect-san-francisco/) |
 | 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 | 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
-| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

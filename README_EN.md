@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Director - AWS Alliance Partnership, Japan | Hybrid | [View →](https://www.remotejobscan.com/job/12141/partner-director-aws-alliance-partnership-japan/) |
 | Client Partner - Media & Entertainment, Ads Solutions | Remote | [View →](https://www.remotejobscan.com/job/12140/client-partner-media-entertainment-ads-solutions/) |
 | Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/12139/account-director-large-enterprise/) |
@@ -41,7 +42,6 @@
 | Solutions Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/solutions-architect-san-francisco/) |
 | Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
-| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
