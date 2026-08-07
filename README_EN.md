@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2124</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2121</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/9337/ai-compliance-officer/) |
+| Senior Staff Engineer, HR Platform | On-site | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | Applied AI Engineer, Agents & Automations | Remote | [View →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
 | Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/12176/operations-lead/) |
 | Affiliate Business Development Manager (Urdu Speaker) | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-urdu-speaker/) |
@@ -40,8 +42,6 @@
 | Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | Senior Finance Manager, Fiat/Payment Ops | On-site | [View →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 | Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
-| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
-| Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8897/principal-senior-product-manager-payment/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

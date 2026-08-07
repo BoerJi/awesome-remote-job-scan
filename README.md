@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2124</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2121</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9337/ai-compliance-officer/) |
+| 高级Staff工程师，HR平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | 应用 AI 工程师，智能体与自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
 | 运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12176/operations-lead/) |
 | 合作伙伴业务发展经理（乌尔都语讲者） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager-urdu-speaker/) |
@@ -40,8 +42,6 @@
 | 高级/资深Java工程师 - Web3钱包DeFi收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | 高级财务经理，法币/支付运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
 | 结构化产品产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
-| (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8957/senior-product-director-local-growth/) |
-| 支付领域高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8897/principal-senior-product-manager-payment/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
