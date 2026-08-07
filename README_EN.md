@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2365</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2362</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Client Partner - Media & Entertainment, Ads Solutions | Remote | [View →](https://www.remotejobscan.com/job/12140/client-partner-media-entertainment-ads-solutions/) |
+| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
+| Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/12139/account-director-large-enterprise/) |
+| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/12138/account-director-digital-natives/) |
 | Sales Manager, Digital Natives | On-site | [View →](https://www.remotejobscan.com/job/12136/sales-manager-digital-natives/) |
 | Product Manager, Shopping | Hybrid | [View →](https://www.remotejobscan.com/job/12133/product-manager-shopping/) |
 | Senior Manager, Global Equity Administration | Hybrid | [View →](https://www.remotejobscan.com/job/12134/senior-manager-global-equity-administration/) |
@@ -38,10 +42,6 @@
 | Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/11803/senior-software-engineer-data-engineering-platform/) |
 | Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
-| Global Public Policy Manager, Compute, Infrastructure & Sovereign AI | Remote | [View →](https://www.remotejobscan.com/job/12127/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
-| Android Systems Engineer, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/12126/android-systems-engineer-consumer-devices/) |
-| Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
-| Manager, Commercial Account Management | On-site | [View →](https://www.remotejobscan.com/job/12123/manager-commercial-account-management/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
