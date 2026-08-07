@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2362</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2365</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 购物产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12133/product-manager-shopping/) |
+| 高级经理，全球股权管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12134/senior-manager-global-equity-administration/) |
 | 全球股权管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12128/manager-global-equity-administration/) |
 | 初创企业拓展业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12132/account-director-startups-expansion/) |
 | 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12130/account-director-startups/) |
@@ -40,8 +42,6 @@
 | 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | 商业客户管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12123/manager-commercial-account-management/) |
 | 消费设备安全与风险运营专家，用户安全与风险运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
-| 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12026/staff-researcher-cybersecurity-products/) |
-| 网络安全产品软件工程师（高级职位） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9643/staff-software-engineer-cybersecurity-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

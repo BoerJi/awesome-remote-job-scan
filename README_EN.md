@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2362</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2365</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Shopping | Hybrid | [View →](https://www.remotejobscan.com/job/12133/product-manager-shopping/) |
+| Senior Manager, Global Equity Administration | Hybrid | [View →](https://www.remotejobscan.com/job/12134/senior-manager-global-equity-administration/) |
 | Manager, Global Equity Administration | Hybrid | [View →](https://www.remotejobscan.com/job/12128/manager-global-equity-administration/) |
 | Account Director, Startups Expansion | Hybrid | [View →](https://www.remotejobscan.com/job/12132/account-director-startups-expansion/) |
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/12130/account-director-startups/) |
@@ -40,8 +42,6 @@
 | Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | Manager, Commercial Account Management | On-site | [View →](https://www.remotejobscan.com/job/12123/manager-commercial-account-management/) |
 | Consumer Device Safety & Risk Operations Specialist, User Safety & Risk Operations | On-site | [View →](https://www.remotejobscan.com/job/12122/consumer-device-safety-risk-operations-specialist-user-safety-risk-operations/) |
-| Staff+ Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12026/staff-researcher-cybersecurity-products/) |
-| Staff+ Software Engineer, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/9643/staff-software-engineer-cybersecurity-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
