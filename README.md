@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2360</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2363</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
+| 高级/资深工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
+| 高级产品经理，DevOps与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 | 巴西高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
 | AWS联盟合作伙伴总监 - 日本 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12141/partner-director-aws-alliance-partnership-japan/) |
 | 客户合作伙伴 - 媒体与娱乐、广告解决方案 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12140/client-partner-media-entertainment-ads-solutions/) |
@@ -39,9 +42,6 @@
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 解决方案架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/solutions-architect-dallas/) |
 | 解决方案架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/solutions-architect-austin/) |
-| 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
-| 解决方案架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/solutions-architect-san-francisco/) |
-| 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

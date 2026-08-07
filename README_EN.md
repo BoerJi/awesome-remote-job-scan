@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2360</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2363</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
+| Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
+| Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 | Senior Growth Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
 | Partner Director - AWS Alliance Partnership, Japan | Hybrid | [View →](https://www.remotejobscan.com/job/12141/partner-director-aws-alliance-partnership-japan/) |
 | Client Partner - Media & Entertainment, Ads Solutions | Remote | [View →](https://www.remotejobscan.com/job/12140/client-partner-media-entertainment-ads-solutions/) |
@@ -39,9 +42,6 @@
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Solutions Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/solutions-architect-dallas/) |
 | Solutions Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/solutions-architect-austin/) |
-| Solutions Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/solutions-architect-remote/) |
-| Solutions Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/solutions-architect-san-francisco/) |
-| Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12125/software-engineer-data-platform-team/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
