@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2136</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲、中东、非洲地区初创企业沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12226/start-up-communications-manager-emea/) |
+| EMEA合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| 区域企业客户经理 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
+| 消费者合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12214/compliance-manager-consumer-compliance/) |
+| 人力资源解决方案助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12210/people-solutions-associate/) |
+| 高级软件工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
+| 高级Staff软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-service/) |
+| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-service/) |
+| GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12221/grc-analyst/) |
 | AI合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9337/ai-compliance-officer/) |
 | 高级Staff工程师，HR平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | 应用 AI 工程师，智能体与自动化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
@@ -34,14 +43,6 @@
 | 客户尽职调查运营专家（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | 中间件高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | 高级客服代理（意大利语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
-| 数据安全专家（DLP） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
-| AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
-| 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
-| Senior Manager / Director, Growth Operation | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
-| 高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
-| 高级/资深Java工程师 - Web3钱包DeFi收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
-| 高级财务经理，法币/支付运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
-| 结构化产品产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-07 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

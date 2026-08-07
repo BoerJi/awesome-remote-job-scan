@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2121</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Start-up Communications Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12226/start-up-communications-manager-emea/) |
+| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| Account Executive - Nordics - Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12222/account-executive-nordics-enterprise/) |
+| Compliance Manager, Consumer Compliance | On-site | [View →](https://www.remotejobscan.com/job/12214/compliance-manager-consumer-compliance/) |
+| People Solutions Associate | On-site | [View →](https://www.remotejobscan.com/job/12210/people-solutions-associate/) |
+| Senior Staff Software Engineer, Trading Service (Retail Trading) | On-site | [View →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
+| Senior Staff Software Engineer, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-service/) |
+| Senior Software Engineer, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-service/) |
+| GRC Analyst | Remote | [View →](https://www.remotejobscan.com/job/12221/grc-analyst/) |
 | AI Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/9337/ai-compliance-officer/) |
 | Senior Staff Engineer, HR Platform | On-site | [View →](https://www.remotejobscan.com/job/8875/senior-staff-engineer-hr-platform/) |
 | Applied AI Engineer, Agents & Automations | Remote | [View →](https://www.remotejobscan.com/job/12195/applied-ai-engineer-agents-automations/) |
@@ -34,14 +43,6 @@
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | Staff Engineer, Middleware | On-site | [View →](https://www.remotejobscan.com/job/11883/staff-engineer-middleware/) |
 | Senior Agent, Customer Service (Italian Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11814/senior-agent-customer-service-italian-speaker/) |
-| Data Security Expert（DLP） | On-site | [View →](https://www.remotejobscan.com/job/11764/data-security-expertdlp/) |
-| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
-| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/11302/specialist-customer-due-diligence-kyb-operations/) |
-| Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
-| Staff Machine Learning Engineer | On-site | [View →](https://www.remotejobscan.com/job/9139/staff-machine-learning-engineer/) |
-| Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
-| Senior Finance Manager, Fiat/Payment Ops | On-site | [View →](https://www.remotejobscan.com/job/9067/senior-finance-manager-fiatpayment-ops/) |
-| Product Owner, Structured Products | On-site | [View →](https://www.remotejobscan.com/job/8970/product-owner-structured-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-07 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
