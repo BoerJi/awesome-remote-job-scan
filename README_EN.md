@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2157</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2162</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
+| Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
+| Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
+| Staff+ Software Engineer, Infrastructure (Distributed Systems) | On-site | [View →](https://www.remotejobscan.com/job/12277/staff-software-engineer-infrastructure-distributed-systems/) |
+| Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
+| Senior Manager, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/9265/senior-manager-institutional-sales/) |
 | AI Fluency Education Lead | On-site | [View →](https://www.remotejobscan.com/job/12273/ai-fluency-education-lead/) |
 | Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | Internal Audit Senior Associate, Operations & Compliance | Remote | [View →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
@@ -37,12 +43,6 @@
 | Staff+ Software Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
 | Senior Tax Associate / Tax Manager, Indirect Tax | Hybrid | [View →](https://www.remotejobscan.com/job/12261/senior-tax-associate-tax-manager-indirect-tax/) |
 | Tax Counsel/Manager, Tax Planning | Hybrid | [View →](https://www.remotejobscan.com/job/12260/tax-counselmanager-tax-planning/) |
-| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| People Operations Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
-| Paralegal | Remote | [View →](https://www.remotejobscan.com/job/12255/paralegal/) |
-| Senior Software Engineer - AI Platform Team | Remote | [View →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
-| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
-| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

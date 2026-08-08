@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2162</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
+| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
+| 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
+| 高级软件工程师，基础设施（分布式系统） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12277/staff-software-engineer-infrastructure-distributed-systems/) |
+| 运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
+| 高级机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9265/senior-manager-institutional-sales/) |
 | AI通识教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12273/ai-fluency-education-lead/) |
 | 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | 内部审计高级助理，运营与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
@@ -37,12 +43,6 @@
 | 企业级Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
 | 高级税务专员/税务经理，间接税 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12261/senior-tax-associate-tax-manager-indirect-tax/) |
 | 税务顾问/经理，税务规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12260/tax-counselmanager-tax-planning/) |
-| 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| 人事运营集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
-| 法律助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12255/paralegal/) |
-| 高级软件工程师 - AI平台团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12242/senior-software-engineer-ai-platform-team/) |
-| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
-| 印度商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12248/commercial-counsel-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
