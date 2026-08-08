@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2169</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2167</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development - Canada | Remote | [View →](https://www.remotejobscan.com/job/12390/sales-development-canada/) |
 | Brand Video Creator & KOL Partner (视频创作) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-video-creator-kol-partner/) |
 | Brand Content Planning Manager (内容策划) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-content-planning-manager/) |
 | AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
@@ -42,7 +43,6 @@
 | Internal Audit Senior Associate, Operations & Compliance | Remote | [View →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
 | Staff Software Engineer, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/12270/staff-software-engineer-claude-code/) |
 | Staff+ Software Engineer, Privacy | On-site | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| Director, US International Tax | Remote | [View →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
