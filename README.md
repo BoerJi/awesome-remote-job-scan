@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2162</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2167</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球安全运营中心响应与政策项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
+| 执行器齿轮设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12289/actuator-gear-design-engineer/) |
+| 执行器电磁设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
+| 支持项目经理，实时支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12285/support-program-manager-live-support/) |
+| 支持项目经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
 | 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
 | 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
 | 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
@@ -38,11 +43,6 @@
 | 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | 高级后端软件工程师 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
-| 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
-| 应用AI架构经理，企业技术部 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9496/manager-of-applied-ai-architecture-enterprise-tech/) |
-| 企业级Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
-| 高级税务专员/税务经理，间接税 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12261/senior-tax-associate-tax-manager-indirect-tax/) |
-| 税务顾问/经理，税务规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12260/tax-counselmanager-tax-planning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2162</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2167</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GSOC Response & Policy Program Specialist | On-site | [View →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
+| Actuator Gear Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12289/actuator-gear-design-engineer/) |
+| Actuator Electromagnetic Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
+| Support Program Manager, Live Support | On-site | [View →](https://www.remotejobscan.com/job/12285/support-program-manager-live-support/) |
+| Support Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
 | Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
 | Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
 | Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
@@ -38,11 +43,6 @@
 | Internal Communications Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
-| Staff Software Engineer, Front-End | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
-| Manager of Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/9496/manager-of-applied-ai-architecture-enterprise-tech/) |
-| Staff+ Software Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise/) |
-| Senior Tax Associate / Tax Manager, Indirect Tax | Hybrid | [View →](https://www.remotejobscan.com/job/12261/senior-tax-associate-tax-manager-indirect-tax/) |
-| Tax Counsel/Manager, Tax Planning | Hybrid | [View →](https://www.remotejobscan.com/job/12260/tax-counselmanager-tax-planning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
