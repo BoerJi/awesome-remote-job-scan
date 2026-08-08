@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2167</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2166</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 | GSOC Response & Policy Program Specialist | On-site | [View →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
 | Actuator Gear Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12289/actuator-gear-design-engineer/) |
 | Actuator Electromagnetic Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
@@ -42,7 +43,6 @@
 | Director, US International Tax | Remote | [View →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
 | Internal Communications Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
-| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

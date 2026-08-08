@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2167</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2166</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AV生产专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 | 全球安全运营中心响应与政策项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
 | 执行器齿轮设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12289/actuator-gear-design-engineer/) |
 | 执行器电磁设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
@@ -42,7 +43,6 @@
 | 美国国际税务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
 | 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
-| 高级后端软件工程师 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
