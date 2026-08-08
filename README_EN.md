@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2169</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2167</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,10 +34,6 @@
 | Support Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
 | Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
 | Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
-| Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| Staff+ Software Engineer, Infrastructure (Distributed Systems) | On-site | [View →](https://www.remotejobscan.com/job/12277/staff-software-engineer-infrastructure-distributed-systems/) |
-| Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
-| Senior Manager, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/9265/senior-manager-institutional-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

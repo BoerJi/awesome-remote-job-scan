@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2169</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2167</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（11 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -34,10 +34,6 @@
 | 支持项目经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
 | 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
 | 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
-| 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| 高级软件工程师，基础设施（分布式系统） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12277/staff-software-engineer-infrastructure-distributed-systems/) |
-| 运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
-| 高级机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9265/senior-manager-institutional-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
