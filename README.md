@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2175</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2172</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（7 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -29,7 +29,6 @@
 | 电力交易主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12424/power-trading-lead/) |
 | 新地域与国际增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12423/new-geography-and-international-growth-lead/) |
 | 数据中心基础设施机械战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12422/strategic-sourcing-manager-data-center-infrastructure-mechanical/) |
-| 加拿大销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12390/sales-development-canada/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +91,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
