@@ -14,19 +14,22 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2167</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2166</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心选址地产主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12425/real-estate-lead-data-center-site-acquisition/) |
+| 电力交易主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12424/power-trading-lead/) |
+| 新地域与国际增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12423/new-geography-and-international-growth-lead/) |
+| 数据中心基础设施机械战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12422/strategic-sourcing-manager-data-center-infrastructure-mechanical/) |
 | 加拿大销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12390/sales-development-canada/) |
 | Brand Video Creator & KOL Partner (视频创作) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8918/brand-video-creator-kol-partner/) |
 | Brand Content Planning Manager (内容策划) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-content-planning-manager/) |
-| AV生产专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

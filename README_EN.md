@@ -14,19 +14,22 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2167</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2166</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Real Estate Lead, Data Center Site Acquisition | Remote | [View →](https://www.remotejobscan.com/job/12425/real-estate-lead-data-center-site-acquisition/) |
+| Power Trading Lead | Remote | [View →](https://www.remotejobscan.com/job/12424/power-trading-lead/) |
+| New Geography and International Growth Lead | Remote | [View →](https://www.remotejobscan.com/job/12423/new-geography-and-international-growth-lead/) |
+| Strategic Sourcing Manager, Data Center Infrastructure: Mechanical | On-site | [View →](https://www.remotejobscan.com/job/12422/strategic-sourcing-manager-data-center-infrastructure-mechanical/) |
 | Sales Development - Canada | Remote | [View →](https://www.remotejobscan.com/job/12390/sales-development-canada/) |
 | Brand Video Creator & KOL Partner (视频创作) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-video-creator-kol-partner/) |
 | Brand Content Planning Manager (内容策划) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-content-planning-manager/) |
-| AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
