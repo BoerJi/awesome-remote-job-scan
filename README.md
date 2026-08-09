@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,8 +32,6 @@
 | 执行器电磁设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
 | 支持项目经理，实时支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12285/support-program-manager-live-support/) |
 | 支持项目经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
-| 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
-| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-08 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

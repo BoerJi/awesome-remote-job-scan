@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,8 +32,6 @@
 | Actuator Electromagnetic Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
 | Support Program Manager, Live Support | On-site | [View →](https://www.remotejobscan.com/job/12285/support-program-manager-live-support/) |
 | Support Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
-| Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12278/risk-manager-brazil/) |
-| Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-08 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
