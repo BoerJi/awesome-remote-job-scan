@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,10 +28,6 @@
 | Brand Content Planning Manager (内容策划) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-content-planning-manager/) |
 | AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 | GSOC Response & Policy Program Specialist | On-site | [View →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
-| Actuator Gear Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12289/actuator-gear-design-engineer/) |
-| Actuator Electromagnetic Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
-| Support Program Manager, Live Support | On-site | [View →](https://www.remotejobscan.com/job/12285/support-program-manager-live-support/) |
-| Support Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

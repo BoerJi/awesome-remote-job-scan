@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（5 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -28,10 +28,6 @@
 | Brand Content Planning Manager (内容策划) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8917/brand-content-planning-manager/) |
 | AV生产专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
 | 全球安全运营中心响应与政策项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
-| 执行器齿轮设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12289/actuator-gear-design-engineer/) |
-| 执行器电磁设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12288/actuator-electromagnetic-design-engineer/) |
-| 支持项目经理，实时支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12285/support-program-manager-live-support/) |
-| 支持项目经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12286/support-program-manager-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
