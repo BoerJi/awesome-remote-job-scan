@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Brand Video Creator & KOL Partner (视频创作) | Remote | [View →](https://www.remotejobscan.com/job/8918/brand-video-creator-kol-partner/) |
 | Brand Content Planning Manager (内容策划) | Remote | [View →](https://www.remotejobscan.com/job/8917/brand-content-planning-manager/) |
 | AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
-| GSOC Response & Policy Program Specialist | On-site | [View →](https://www.remotejobscan.com/job/12287/gsoc-response-policy-program-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 00:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 01:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
