@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Electrical Commissioning Lead | On-site | [View →](https://www.remotejobscan.com/job/12525/electrical-commissioning-lead/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | Real Estate Lead, Data Center Site Acquisition | Remote | [View →](https://www.remotejobscan.com/job/12425/real-estate-lead-data-center-site-acquisition/) |
 | Power Trading Lead | Remote | [View →](https://www.remotejobscan.com/job/12424/power-trading-lead/) |
@@ -90,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-09 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

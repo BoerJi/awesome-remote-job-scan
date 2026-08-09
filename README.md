@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（6 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 电气调试主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12525/electrical-commissioning-lead/) |
 | 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | 合规首席/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 | 数据中心选址地产主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12425/real-estate-lead-data-center-site-acquisition/) |
@@ -91,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-09 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
