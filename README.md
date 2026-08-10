@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2175</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2187</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
+| 教育技术主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12599/tech-lead-manager-education/) |
+| 向前部署工程师，财务[首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | 研究员，前沿风险缓解 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12578/researcher-frontier-risk-mitigations/) |
 | IT工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11959/it-engineer/) |
 | GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
@@ -30,8 +33,6 @@
 | 推理与后训练部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | 收益运营与用户增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12568/earn-operations-user-growth/) |
 | 电气调试主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12525/electrical-commissioning-lead/) |
-| 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
-| 合规首席/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
