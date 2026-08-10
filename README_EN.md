@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2199</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2201</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
+| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
+| Partner Director, GTM Cloud Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12682/partner-director-gtm-cloud-partnerships/) |
 | Product Marketing Lead, Lines of Business & Industries | Hybrid | [View →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
 | Product Marketing Lead, API Models & Research | Hybrid | [View →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
 | Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
@@ -40,9 +43,6 @@
 | Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | Infrastructure Engineer - Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/12651/infrastructure-engineer-kubernetes-platform/) |
 | Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/12649/finance-strategy-deal-strategy/) |
-| Infrastructure Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/12652/infrastructure-engineer-core-infrastructure/) |
-| Commissioning Project Lead, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
-| Commissioning Program Manager, Infrastructure Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

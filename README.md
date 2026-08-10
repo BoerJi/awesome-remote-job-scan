@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2199</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2201</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
+| 视听运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
+| GTM云合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12682/partner-director-gtm-cloud-partnerships/) |
 | 产品营销负责人，业务线与行业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
 | API模型与研究产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
 | 社交媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
@@ -40,9 +43,6 @@
 | 前派工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | 基础设施工程师 - Kubernetes平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12651/infrastructure-engineer-kubernetes-platform/) |
 | 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12649/finance-strategy-deal-strategy/) |
-| 基础设施工程师 - 核心基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12652/infrastructure-engineer-core-infrastructure/) |
-| 数据中心交付工程启动项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
-| 基础设施交付认证项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
