@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2201</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2212</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Alliance Manager – Regional & Specialist Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
+| Technical Commodity Manager - Robotics | On-site | [View →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
+| APAC Communications | Remote | [View →](https://www.remotejobscan.com/job/12712/apac-communications/) |
+| Forward Deployed Engineer - Software Engineer - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12711/forward-deployed-engineer-software-engineer-sweden/) |
+| Deployment Strategist - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
+| Europe Communications | Remote | [View →](https://www.remotejobscan.com/job/12708/europe-communications/) |
+| Enterprise Solutions Engineer - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12709/enterprise-solutions-engineer-sweden/) |
+| Civil Engineer | Remote | [View →](https://www.remotejobscan.com/job/12701/civil-engineer/) |
+| Forward Deployed Engineer - Software Engineer - Italy | Remote | [View →](https://www.remotejobscan.com/job/12705/forward-deployed-engineer-software-engineer-italy/) |
+| Forward Deployed Engineer - Software Engineer - Netherlands | Remote | [View →](https://www.remotejobscan.com/job/12704/forward-deployed-engineer-software-engineer-netherlands/) |
+| Forward Deployed Engineer - Software Engineer - France | Remote | [View →](https://www.remotejobscan.com/job/12702/forward-deployed-engineer-software-engineer-france/) |
+| Forward Deployed Engineer - Software Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12703/forward-deployed-engineer-software-engineer-canada/) |
 | Forward Deployed Engineer - Software Engineer - Belgium | On-site | [View →](https://www.remotejobscan.com/job/12699/forward-deployed-engineer-software-engineer-belgium/) |
 | Account Executive, API | Hybrid | [View →](https://www.remotejobscan.com/job/12700/account-executive-api/) |
 | Finance & Strategy, Product Intelligence | On-site | [View →](https://www.remotejobscan.com/job/12697/finance-strategy-product-intelligence/) |
@@ -31,18 +43,6 @@
 | Developer Relations | On-site | [View →](https://www.remotejobscan.com/job/12685/developer-relations/) |
 | Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
-| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| Partner Director, GTM Cloud Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12682/partner-director-gtm-cloud-partnerships/) |
-| Product Marketing Lead, Lines of Business & Industries | Hybrid | [View →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
-| Product Marketing Lead, API Models & Research | Hybrid | [View →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
-| Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
-| Senior Manager, Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architect/) |
-| Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
-| Business Operations Manager / Director – FCM & Brokerage Operations | Hybrid | [View →](https://www.remotejobscan.com/job/12668/business-operations-manager-director-fcm-brokerage-operations/) |
-| Business Operations Manager / Director – Client Onboarding & Partnerships (OG.com) | Hybrid | [View →](https://www.remotejobscan.com/job/12657/business-operations-manager-director-client-onboarding-partnerships-ogcom/) |
-| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
-| Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 23:41 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

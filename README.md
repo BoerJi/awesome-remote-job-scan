@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2201</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2212</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴联盟经理 - 区域及专业系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
+| 技术商品经理 - 机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
+| 亚太区通讯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12712/apac-communications/) |
+| 瑞典-前沿部署工程师-软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12711/forward-deployed-engineer-software-engineer-sweden/) |
+| 部署策略师 - 瑞典 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
+| 欧洲通讯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12708/europe-communications/) |
+| 瑞典企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12709/enterprise-solutions-engineer-sweden/) |
+| 土木工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12701/civil-engineer/) |
+| 前沿部署工程师 - 软件工程师 - 意大利 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12705/forward-deployed-engineer-software-engineer-italy/) |
+| 前部署工程师 - 软件工程师 - 荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12704/forward-deployed-engineer-software-engineer-netherlands/) |
+| 前沿部署工程师 - 软件工程师 - 法国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12702/forward-deployed-engineer-software-engineer-france/) |
+| 前沿部署工程师 - 软件工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12703/forward-deployed-engineer-software-engineer-canada/) |
 | 前哨工程师 - 软件工程师 - 比利时 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12699/forward-deployed-engineer-software-engineer-belgium/) |
 | API客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12700/account-executive-api/) |
 | 财务与战略、产品情报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12697/finance-strategy-product-intelligence/) |
@@ -31,18 +43,6 @@
 | 开发者关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12685/developer-relations/) |
 | 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
-| 视听运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| GTM云合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12682/partner-director-gtm-cloud-partnerships/) |
-| 产品营销负责人，业务线与行业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
-| API模型与研究产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
-| 社交媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
-| 高级解决方案架构师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architect/) |
-| 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
-| 业务运营经理/总监 – FCM及经纪业务运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12668/business-operations-manager-director-fcm-brokerage-operations/) |
-| 业务运营经理/总监 – 客户入职与合作伙伴 (OG.com) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12657/business-operations-manager-director-client-onboarding-partnerships-ogcom/) |
-| 平台软件工程师（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
-| Staff+ 软件工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 23:41 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
