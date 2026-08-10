@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2201</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2197</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Developer Relations | On-site | [View →](https://www.remotejobscan.com/job/12685/developer-relations/) |
+| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | Partner Director, GTM Cloud Partnerships | On-site | [View →](https://www.remotejobscan.com/job/12682/partner-director-gtm-cloud-partnerships/) |
@@ -41,8 +43,6 @@
 | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| Infrastructure Engineer - Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/12651/infrastructure-engineer-kubernetes-platform/) |
-| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/12649/finance-strategy-deal-strategy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
