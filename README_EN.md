@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2199</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2201</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer - Software Engineer - Belgium | On-site | [View →](https://www.remotejobscan.com/job/12699/forward-deployed-engineer-software-engineer-belgium/) |
+| Account Executive, API | Hybrid | [View →](https://www.remotejobscan.com/job/12700/account-executive-api/) |
+| Finance & Strategy, Product Intelligence | On-site | [View →](https://www.remotejobscan.com/job/12697/finance-strategy-product-intelligence/) |
+| Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/12698/deployment-strategist-latam/) |
 | Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | Developer Relations | On-site | [View →](https://www.remotejobscan.com/job/12685/developer-relations/) |
 | Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
@@ -39,10 +43,6 @@
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
 | Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
-| Director of AML & Virtual Asset Compliance | Remote | [View →](https://www.remotejobscan.com/job/12656/director-of-aml-virtual-asset-compliance/) |
-| International Indirect Tax, VAT/GST | On-site | [View →](https://www.remotejobscan.com/job/12655/international-indirect-tax-vatgst/) |
-| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
