@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2188</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2189</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Infrastructure Engineer - Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/12651/infrastructure-engineer-kubernetes-platform/) |
+| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/12649/finance-strategy-deal-strategy/) |
+| Infrastructure Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/12652/infrastructure-engineer-core-infrastructure/) |
 | Commissioning Project Lead, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
 | Commissioning Program Manager, Infrastructure Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
 | Maintenance Analyst, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12648/maintenance-analyst-data-center-delivery/) |
@@ -39,9 +42,6 @@
 | Senior Financial Product Manager 资深理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
 | Staff Software Engineer, Continuous Integration | On-site | [View →](https://www.remotejobscan.com/job/12607/staff-software-engineer-continuous-integration/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
-| Tech Lead Manager, Education | Hybrid | [View →](https://www.remotejobscan.com/job/12599/tech-lead-manager-education/) |
-| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| Researcher, Frontier Risk Mitigations | On-site | [View →](https://www.remotejobscan.com/job/12578/researcher-frontier-risk-mitigations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
