@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2187</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2190</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/hrbp/) |
+| 印度首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
+| 音频工程主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12630/audio-engineering-lead/) |
 | Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
 | 持续集成Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12607/staff-software-engineer-continuous-integration/) |
 | 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
@@ -97,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
