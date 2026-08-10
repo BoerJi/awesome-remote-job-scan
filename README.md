@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2195</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2199</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品营销负责人，业务线与行业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
+| API模型与研究产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
+| 社交媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
+| 高级解决方案架构师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architect/) |
+| 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
+| 业务运营经理/总监 – FCM及经纪业务运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12668/business-operations-manager-director-fcm-brokerage-operations/) |
 | 业务运营经理/总监 – 客户入职与合作伙伴 (OG.com) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12657/business-operations-manager-director-client-onboarding-partnerships-ogcom/) |
 | 平台软件工程师（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
@@ -37,12 +43,6 @@
 | 基础设施工程师 - 核心基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12652/infrastructure-engineer-core-infrastructure/) |
 | 数据中心交付工程启动项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
 | 基础设施交付认证项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
-| 数据中心交付维护分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12648/maintenance-analyst-data-center-delivery/) |
-| 数据中心OFE战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-lead/) |
-| 平台产品运营负责人 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12640/platform-product-operations-lead-payward-services/) |
-| 土耳其区机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
-| 产品经理II - 风险欺诈 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
-| 欺诈产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12638/product-manager-ii-fraud/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2195</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2199</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Lead, Lines of Business & Industries | Hybrid | [View →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
+| Product Marketing Lead, API Models & Research | Hybrid | [View →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
+| Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
+| Senior Manager, Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architect/) |
+| Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
+| Business Operations Manager / Director – FCM & Brokerage Operations | Hybrid | [View →](https://www.remotejobscan.com/job/12668/business-operations-manager-director-fcm-brokerage-operations/) |
 | Business Operations Manager / Director – Client Onboarding & Partnerships (OG.com) | Hybrid | [View →](https://www.remotejobscan.com/job/12657/business-operations-manager-director-client-onboarding-partnerships-ogcom/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
@@ -37,11 +43,6 @@
 | Infrastructure Engineer - Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/12652/infrastructure-engineer-core-infrastructure/) |
 | Commissioning Project Lead, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
 | Commissioning Program Manager, Infrastructure Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
-| Maintenance Analyst, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12648/maintenance-analyst-data-center-delivery/) |
-| Data Center OFE Strategic Sourcing Lead | Remote | [View →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-lead/) |
-| Platform Product Operations Lead - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/12640/platform-product-operations-lead-payward-services/) |
-| Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
-| Product Manager II - Fraud | Remote | [View →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
