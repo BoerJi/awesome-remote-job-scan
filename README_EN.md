@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commissioning Project Lead, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
+| Commissioning Program Manager, Infrastructure Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
+| Maintenance Analyst, Data Center Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/12648/maintenance-analyst-data-center-delivery/) |
+| Data Center OFE Strategic Sourcing Lead | Remote | [View →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-lead/) |
 | Platform Product Operations Lead - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/12640/platform-product-operations-lead-payward-services/) |
 | Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
 | Product Manager II - Fraud | Remote | [View →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
@@ -38,10 +42,6 @@
 | Tech Lead Manager, Education | Hybrid | [View →](https://www.remotejobscan.com/job/12599/tech-lead-manager-education/) |
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | Researcher, Frontier Risk Mitigations | On-site | [View →](https://www.remotejobscan.com/job/12578/researcher-frontier-risk-mitigations/) |
-| IT Engineer | On-site | [View →](https://www.remotejobscan.com/job/11959/it-engineer/) |
-| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
-| Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
-| Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

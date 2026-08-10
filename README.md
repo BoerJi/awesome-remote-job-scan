@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心交付工程启动项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12646/commissioning-project-lead-data-center-delivery/) |
+| 基础设施交付认证项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12647/commissioning-program-manager-infrastructure-delivery/) |
+| 数据中心交付维护分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12648/maintenance-analyst-data-center-delivery/) |
+| 数据中心OFE战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-lead/) |
 | 平台产品运营负责人 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12640/platform-product-operations-lead-payward-services/) |
 | 土耳其区机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
 | 产品经理II - 风险欺诈 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
@@ -39,10 +43,6 @@
 | 教育技术主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12599/tech-lead-manager-education/) |
 | 向前部署工程师，财务[首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | 研究员，前沿风险缓解 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12578/researcher-frontier-risk-mitigations/) |
-| IT工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11959/it-engineer/) |
-| GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
-| 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
-| 推理与后训练部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
