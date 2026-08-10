@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（16 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/hrbp/) |
 | 印度首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
 | 音频工程主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12630/audio-engineering-lead/) |
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

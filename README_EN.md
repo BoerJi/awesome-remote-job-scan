@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/9058/hrbp/) |
 | Chief of Staff - India | Remote | [View →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
 | Audio Engineering Lead | Remote | [View →](https://www.remotejobscan.com/job/12630/audio-engineering-lead/) |
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
