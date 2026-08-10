@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2189</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2195</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务运营经理/总监 – 客户入职与合作伙伴 (OG.com) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12657/business-operations-manager-director-client-onboarding-partnerships-ogcom/) |
+| 平台软件工程师（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
+| Staff+ 后端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9664/staff-software-engineer-backend/) |
+| Staff+ 软件工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
+| 反洗钱与虚拟资产合规总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12656/director-of-aml-virtual-asset-compliance/) |
+| 国际间接税，增值税/商品及服务税 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12655/international-indirect-tax-vatgst/) |
+| 合规前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| 前哨部署工程师，财务 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
+| 前派工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | 基础设施工程师 - Kubernetes平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12651/infrastructure-engineer-kubernetes-platform/) |
 | 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12649/finance-strategy-deal-strategy/) |
 | 基础设施工程师 - 核心基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12652/infrastructure-engineer-core-infrastructure/) |
@@ -34,15 +43,6 @@
 | 土耳其区机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
 | 产品经理II - 风险欺诈 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
 | 欺诈产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12638/product-manager-ii-fraud/) |
-| 法律助理、实体管理与公司治理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12255/paralegal-entity-management-corporate-governance/) |
-| 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
-| 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
-| 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/hrbp/) |
-| 印度首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
-| 音频工程主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12630/audio-engineering-lead/) |
-| Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
-| 持续集成Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12607/staff-software-engineer-continuous-integration/) |
-| 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
