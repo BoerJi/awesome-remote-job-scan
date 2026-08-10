@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2186</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2183</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律助理、实体管理与公司治理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12255/paralegal-entity-management-corporate-governance/) |
+| 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
 | 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9058/hrbp/) |
 | 印度首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

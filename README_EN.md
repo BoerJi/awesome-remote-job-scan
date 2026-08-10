@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2186</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2183</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Paralegal, Entity Management & Corporate Governance | Remote | [View →](https://www.remotejobscan.com/job/12255/paralegal-entity-management-corporate-governance/) |
+| Staff Software Engineer, Front-End | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/9058/hrbp/) |
 | Chief of Staff - India | Remote | [View →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
