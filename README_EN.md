@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2180</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2181</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Researcher, Frontier Risk Mitigations | On-site | [View →](https://www.remotejobscan.com/job/12578/researcher-frontier-risk-mitigations/) |
 | IT Engineer | On-site | [View →](https://www.remotejobscan.com/job/11959/it-engineer/) |
 | Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
 | Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
@@ -92,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
