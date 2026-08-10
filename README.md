@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2188</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2187</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Financial Product Manager 资深理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7318/senior-financial-product-manager/) |
 | 持续集成Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12607/staff-software-engineer-continuous-integration/) |
-| 印度首席运营官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12623/chief-of-staff-india/) |
 | 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7948/kol-business-development-manager-turkey/) |
 | 教育技术主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12599/tech-lead-manager-education/) |
 | 向前部署工程师，财务[首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
@@ -97,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
