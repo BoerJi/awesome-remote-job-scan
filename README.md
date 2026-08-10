@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2183</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台产品运营负责人 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12640/platform-product-operations-lead-payward-services/) |
+| 土耳其区机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
+| 产品经理II - 风险欺诈 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
+| 欺诈产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12638/product-manager-ii-fraud/) |
 | 法律助理、实体管理与公司治理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12255/paralegal-entity-management-corporate-governance/) |
 | 前端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
 | 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
@@ -39,8 +43,6 @@
 | GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
 | 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
 | 推理与后训练部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
-| 收益运营与用户增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12568/earn-operations-user-growth/) |
-| 电气调试主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12525/electrical-commissioning-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-10 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

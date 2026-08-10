@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2183</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Platform Product Operations Lead - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/12640/platform-product-operations-lead-payward-services/) |
+| Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
+| Product Manager II - Fraud | Remote | [View →](https://www.remotejobscan.com/job/12639/product-manager-ii-fraud/) |
 | Paralegal, Entity Management & Corporate Governance | Remote | [View →](https://www.remotejobscan.com/job/12255/paralegal-entity-management-corporate-governance/) |
 | Staff Software Engineer, Front-End | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-front-end/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
@@ -39,8 +42,6 @@
 | Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
 | Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
 | Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
-| Earn Operations & User Growth | Remote | [View →](https://www.remotejobscan.com/job/12568/earn-operations-user-growth/) |
-| Electrical Commissioning Lead | On-site | [View →](https://www.remotejobscan.com/job/12525/electrical-commissioning-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
