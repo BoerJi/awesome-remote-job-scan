@@ -14,21 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2175</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2172</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Electrical Commissioning Lead | On-site | [View →](https://www.remotejobscan.com/job/12525/electrical-commissioning-lead/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
-| Real Estate Lead, Data Center Site Acquisition | Remote | [View →](https://www.remotejobscan.com/job/12425/real-estate-lead-data-center-site-acquisition/) |
-| Power Trading Lead | Remote | [View →](https://www.remotejobscan.com/job/12424/power-trading-lead/) |
-| New Geography and International Growth Lead | Remote | [View →](https://www.remotejobscan.com/job/12423/new-geography-and-international-growth-lead/) |
-| Strategic Sourcing Manager, Data Center Infrastructure: Mechanical | On-site | [View →](https://www.remotejobscan.com/job/12422/strategic-sourcing-manager-data-center-infrastructure-mechanical/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -91,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-10 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
