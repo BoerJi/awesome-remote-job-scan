@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2232</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2242</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 硬件整合财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12850/finance-manager-hardware-consolidations/) |
+| AI安全与防护技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12852/technical-program-manager-ai-safety-safeguards/) |
+| 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12849/staff-researcher-cybersecurity-products/) |
+| 美国高级VIP关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
+| 高级移动工程师（卡与支付） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12848/senior-mobile-engineer-card-payment/) |
+| 执行器设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12851/actuator-design-engineer/) |
+| Next.js 技术团队经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
+| 收入会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12845/manager-revenue-accounting/) |
+| 高级项目经理，消费设备安全运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12846/senior-program-manager-consumer-device-safety-operations/) |
+| 计算资格技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
+| 产品经理，Claude Tag | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
 | 韩国计算国家负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12838/compute-country-lead-korea/) |
 | 日本计算国家负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12837/compute-country-lead-japan/) |
 | 高级经理，订单到现金 — AI产品与云合作伙伴关系 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12044/senior-manager-order-to-cash-ai-products-cloud-partnerships/) |
@@ -32,16 +43,6 @@
 | 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
 | 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
 | 支付平台后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
-| AI基础设施运营、需求规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12804/ai-infrastructure-operations-demand-planning/) |
-| 基础设施容量规划师，需求规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12805/infrastructure-capacity-planner-demand-planning/) |
-| 软件工程师，集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12803/software-engineer-integrations/) |
-| 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12622/head-of-finance-us/) |
-| 高级全栈工程师，北工具与检索 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12801/senior-full-stack-engineer-north-tools-retrieval/) |
-| 战略客户总监 - 波兰 - 政府与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12785/strategic-account-executive-poland-government-utilities/) |
-| 高级/资深移动软件工程师 — 核心业务（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
-| 首席全球市场官 - 法国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12781/chief-of-staff-gtm-france/) |
-| Senior Financial Expert 高级金融专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12800/senior-financial-expert/) |
-| 高级PMO/项目经理，付费广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

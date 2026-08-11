@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2232</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2242</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Manager - Hardware Consolidations | Hybrid | [View →](https://www.remotejobscan.com/job/12850/finance-manager-hardware-consolidations/) |
+| Technical Program Manager, AI Safety & Safeguards | Hybrid | [View →](https://www.remotejobscan.com/job/12852/technical-program-manager-ai-safety-safeguards/) |
+| Staff+ Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12849/staff-researcher-cybersecurity-products/) |
+| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
+| Senior Mobile Engineer (Card & Payment) | On-site | [View →](https://www.remotejobscan.com/job/12848/senior-mobile-engineer-card-payment/) |
+| Actuator Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12851/actuator-design-engineer/) |
+| Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
+| Manager, Revenue Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/12845/manager-revenue-accounting/) |
+| Senior Program Manager, Consumer Device Safety Operations | On-site | [View →](https://www.remotejobscan.com/job/12846/senior-program-manager-consumer-device-safety-operations/) |
+| Technical Program Manager, Compute Qualification | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
+| Product Manager, Claude Tag | On-site | [View →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
 | Compute Country Lead, Korea | On-site | [View →](https://www.remotejobscan.com/job/12838/compute-country-lead-korea/) |
 | Compute Country Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/12837/compute-country-lead-japan/) |
 | Senior Manager, Order to Cash — AI Products & Cloud Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/12044/senior-manager-order-to-cash-ai-products-cloud-partnerships/) |
@@ -32,16 +43,6 @@
 | Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
 | Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
-| AI Infrastructure Operations, Demand Planning | On-site | [View →](https://www.remotejobscan.com/job/12804/ai-infrastructure-operations-demand-planning/) |
-| Infrastructure Capacity Planner, Demand Planning | On-site | [View →](https://www.remotejobscan.com/job/12805/infrastructure-capacity-planner-demand-planning/) |
-| Software Engineer, Integrations | Remote | [View →](https://www.remotejobscan.com/job/12803/software-engineer-integrations/) |
-| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/12622/head-of-finance-us/) |
-| Senior Full-Stack Engineer, North Tools & Retrieval | Remote | [View →](https://www.remotejobscan.com/job/12801/senior-full-stack-engineer-north-tools-retrieval/) |
-| Strategic Account Executive - Poland - Government & Utilities | On-site | [View →](https://www.remotejobscan.com/job/12785/strategic-account-executive-poland-government-utilities/) |
-| Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
-| Chief of Staff GTM - France | Remote | [View →](https://www.remotejobscan.com/job/12781/chief-of-staff-gtm-france/) |
-| Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12800/senior-financial-expert/) |
-| Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
