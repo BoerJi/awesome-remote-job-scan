@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2218</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2222</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Online Advertising Manager | Remote | [View →](https://www.remotejobscan.com/job/12144/online-advertising-manager/) |
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
+| Binance Acceleration Program - Product Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
 | Software Engineer, Research Tools | On-site | [View →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
@@ -40,9 +43,6 @@
 | Federal Account Director, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
 | Partner Alliance Manager – Regional & Specialist Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
 | Technical Commodity Manager - Robotics | On-site | [View →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
-| APAC Communications | Remote | [View →](https://www.remotejobscan.com/job/12712/apac-communications/) |
-| Forward Deployed Engineer - Software Engineer - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12711/forward-deployed-engineer-software-engineer-sweden/) |
-| Deployment Strategist - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

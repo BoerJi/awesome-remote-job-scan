@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2222</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 在线广告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12144/online-advertising-manager/) |
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
+| 币安加速计划-产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
 | 研究工具软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
 | 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
@@ -40,9 +43,6 @@
 | 联邦账户总监，国家安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
 | 合作伙伴联盟经理 - 区域及专业系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
 | 技术商品经理 - 机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
-| 亚太区通讯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12712/apac-communications/) |
-| 瑞典-前沿部署工程师-软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12711/forward-deployed-engineer-software-engineer-sweden/) |
-| 部署策略师 - 瑞典 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
