@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2234</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2233</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compute Country Lead, Korea | On-site | [View →](https://www.remotejobscan.com/job/12838/compute-country-lead-korea/) |
+| Compute Country Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/12837/compute-country-lead-japan/) |
+| Senior Manager, Order to Cash — AI Products & Cloud Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/12044/senior-manager-order-to-cash-ai-products-cloud-partnerships/) |
+| APAC Tax Lead | On-site | [View →](https://www.remotejobscan.com/job/12834/apac-tax-lead/) |
 | Counsel - Institutional | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-institutional/) |
 | Institution Operation Manager | Remote | [View →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
 | Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
@@ -38,10 +42,6 @@
 | Chief of Staff GTM - France | Remote | [View →](https://www.remotejobscan.com/job/12781/chief-of-staff-gtm-france/) |
 | Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12800/senior-financial-expert/) |
 | Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
-| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
-| Binance Acceleration Program - Product Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
-| Software Engineer, Research Tools | On-site | [View →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
-| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
