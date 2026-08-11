@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2242</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Software Engineer, Enterprise Technology Vertical | On-site | [View →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
+| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
+| Enterprise Sales Manager, Energy | Hybrid | [View →](https://www.remotejobscan.com/job/12860/enterprise-sales-manager-energy/) |
+| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
+| Order Management & Billing Lead — Cloud Marketplaces & Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/12861/order-management-billing-lead-cloud-marketplaces-partnerships/) |
+| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/12857/customer-success-dach/) |
+| Software Engineer, Desktop | On-site | [View →](https://www.remotejobscan.com/job/12855/software-engineer-desktop/) |
+| Compute Country Lead, Canada | On-site | [View →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
+| Product Designer, People Products | On-site | [View →](https://www.remotejobscan.com/job/12854/product-designer-people-products/) |
 | Finance Manager - Hardware Consolidations | Hybrid | [View →](https://www.remotejobscan.com/job/12850/finance-manager-hardware-consolidations/) |
 | Technical Program Manager, AI Safety & Safeguards | Hybrid | [View →](https://www.remotejobscan.com/job/12852/technical-program-manager-ai-safety-safeguards/) |
 | Staff+ Researcher, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/12849/staff-researcher-cybersecurity-products/) |
@@ -34,15 +43,6 @@
 | Senior Program Manager, Consumer Device Safety Operations | On-site | [View →](https://www.remotejobscan.com/job/12846/senior-program-manager-consumer-device-safety-operations/) |
 | Technical Program Manager, Compute Qualification | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
 | Product Manager, Claude Tag | On-site | [View →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
-| Compute Country Lead, Korea | On-site | [View →](https://www.remotejobscan.com/job/12838/compute-country-lead-korea/) |
-| Compute Country Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/12837/compute-country-lead-japan/) |
-| Senior Manager, Order to Cash — AI Products & Cloud Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/12044/senior-manager-order-to-cash-ai-products-cloud-partnerships/) |
-| APAC Tax Lead | On-site | [View →](https://www.remotejobscan.com/job/12834/apac-tax-lead/) |
-| Counsel - Institutional | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-institutional/) |
-| Institution Operation Manager | Remote | [View →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
-| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
-| Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
-| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

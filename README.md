@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2242</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席软件工程师，企业技术垂直 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
+| FDE智能平台工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
+| 能源企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12860/enterprise-sales-manager-energy/) |
+| GPU集群技术支持工程师 - 美国周末班 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12014/technical-support-engineer-gpu-clusters-us-weekends/) |
+| 订单管理与计费主管—云市场与合作伙伴关系 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12861/order-management-billing-lead-cloud-marketplaces-partnerships/) |
+| 德语区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12857/customer-success-dach/) |
+| 桌面软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12855/software-engineer-desktop/) |
+| Compute加拿大国家负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
+| 产品设计师，People产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12854/product-designer-people-products/) |
 | 硬件整合财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12850/finance-manager-hardware-consolidations/) |
 | AI安全与防护技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12852/technical-program-manager-ai-safety-safeguards/) |
 | 网络安全产品研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12849/staff-researcher-cybersecurity-products/) |
@@ -34,15 +43,6 @@
 | 高级项目经理，消费设备安全运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12846/senior-program-manager-consumer-device-safety-operations/) |
 | 计算资格技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
 | 产品经理，Claude Tag | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
-| 韩国计算国家负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12838/compute-country-lead-korea/) |
-| 日本计算国家负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12837/compute-country-lead-japan/) |
-| 高级经理，订单到现金 — AI产品与云合作伙伴关系 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12044/senior-manager-order-to-cash-ai-products-cloud-partnerships/) |
-| 亚太地区税务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12834/apac-tax-lead/) |
-| 机构法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-institutional/) |
-| 机构运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
-| 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
-| 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
-| 支付平台后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
