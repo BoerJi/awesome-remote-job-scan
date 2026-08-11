@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel - Institutional | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-institutional/) |
 | Institution Operation Manager | Remote | [View →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
 | Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
 | Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
@@ -41,7 +42,6 @@
 | Binance Acceleration Program - Product Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
 | Software Engineer, Research Tools | On-site | [View →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

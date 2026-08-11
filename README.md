@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机构法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-institutional/) |
 | 机构运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
 | 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
 | 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
@@ -41,7 +42,6 @@
 | 币安加速计划-产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
 | 研究工具软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
 | 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
