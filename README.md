@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2216</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2219</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
+| 高级/资深工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
+| 高级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 | 安全保障机器学习基础设施团队高级站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12716/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | 前部署工程师，基础设施专家（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
 | 韩国基础设施专家，前沿部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12730/forward-deployed-engineer-infrastructure-specialist-south-korea/) |
@@ -40,9 +43,6 @@
 | 前沿部署工程师 - 软件工程师 - 意大利 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12705/forward-deployed-engineer-software-engineer-italy/) |
 | 前部署工程师 - 软件工程师 - 荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12704/forward-deployed-engineer-software-engineer-netherlands/) |
 | 前沿部署工程师 - 软件工程师 - 法国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12702/forward-deployed-engineer-software-engineer-france/) |
-| 前沿部署工程师 - 软件工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12703/forward-deployed-engineer-software-engineer-canada/) |
-| 前哨工程师 - 软件工程师 - 比利时 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12699/forward-deployed-engineer-software-engineer-belgium/) |
-| API客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12700/account-executive-api/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

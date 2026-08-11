@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2216</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2219</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
+| Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
+| Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 | Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote | [View →](https://www.remotejobscan.com/job/12716/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
 | Forward Deployed Engineer, Infrastructure Specialist (South Korea) | Remote | [View →](https://www.remotejobscan.com/job/12730/forward-deployed-engineer-infrastructure-specialist-south-korea/) |
@@ -40,9 +43,6 @@
 | Forward Deployed Engineer - Software Engineer - Italy | Remote | [View →](https://www.remotejobscan.com/job/12705/forward-deployed-engineer-software-engineer-italy/) |
 | Forward Deployed Engineer - Software Engineer - Netherlands | Remote | [View →](https://www.remotejobscan.com/job/12704/forward-deployed-engineer-software-engineer-netherlands/) |
 | Forward Deployed Engineer - Software Engineer - France | Remote | [View →](https://www.remotejobscan.com/job/12702/forward-deployed-engineer-software-engineer-france/) |
-| Forward Deployed Engineer - Software Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12703/forward-deployed-engineer-software-engineer-canada/) |
-| Forward Deployed Engineer - Software Engineer - Belgium | On-site | [View →](https://www.remotejobscan.com/job/12699/forward-deployed-engineer-software-engineer-belgium/) |
-| Account Executive, API | Hybrid | [View →](https://www.remotejobscan.com/job/12700/account-executive-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
