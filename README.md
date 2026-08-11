@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级PMO/项目经理，付费广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
 | 在线广告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12144/online-advertising-manager/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | 币安加速计划-产品数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
@@ -41,8 +42,6 @@
 | 房地产投资组合经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
 | 美国高级VIP关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | 联邦账户总监，国家安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
-| 合作伙伴联盟经理 - 区域及专业系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
-| 技术商品经理 - 机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

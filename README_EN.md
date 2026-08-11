@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
 | Online Advertising Manager | Remote | [View →](https://www.remotejobscan.com/job/12144/online-advertising-manager/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | Binance Acceleration Program - Product Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/12761/binance-acceleration-program-product-data-analyst/) |
@@ -41,8 +42,6 @@
 | Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
 | Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | Federal Account Director, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
-| Partner Alliance Manager – Regional & Specialist Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
-| Technical Commodity Manager - Robotics | On-site | [View →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
