@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2259</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2263</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
+| Regional Director, Enterprise Sales (DMV) | Remote | [View →](https://www.remotejobscan.com/job/12894/regional-director-enterprise-sales-dmv/) |
+| Regional Director, Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/12893/regional-director-enterprise-sales/) |
+| Strategic Account Executive - Energy (Oil and Gas) & Utilities | Remote | [View →](https://www.remotejobscan.com/job/12891/strategic-account-executive-energy-oil-and-gas-utilities/) |
+| Deployment Strategist Lead - Canada | Hybrid | [View →](https://www.remotejobscan.com/job/12890/deployment-strategist-lead-canada/) |
+| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
+| Finance & Strategy, Deal Velocity | On-site | [View →](https://www.remotejobscan.com/job/12883/finance-strategy-deal-velocity/) |
 | Office Manager | On-site | [View →](https://www.remotejobscan.com/job/12882/office-manager/) |
 | User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
 | Manager, Infrastructure Capex Accounting | On-site | [View →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
@@ -35,13 +42,6 @@
 | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| Environment, Health and Safety Specialist | On-site | [View →](https://www.remotejobscan.com/job/12871/environment-health-and-safety-specialist/) |
-| Health and Safety Specialist | On-site | [View →](https://www.remotejobscan.com/job/12872/health-and-safety-specialist/) |
-| Customer Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/customer-support-engineer-gpu-cluster-india/) |
-| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
-| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
-| Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2263</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
+| 区域总监，企业销售（DMV） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12894/regional-director-enterprise-sales-dmv/) |
+| 区域企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12893/regional-director-enterprise-sales/) |
+| 战略客户总监 - 能源（石油和天然气）及公用事业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12891/strategic-account-executive-energy-oil-and-gas-utilities/) |
+| 加拿大部署策略主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12890/deployment-strategist-lead-canada/) |
+| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
+| 财务与战略、交易速度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12883/finance-strategy-deal-velocity/) |
 | 行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12882/office-manager/) |
 | 用户安全与风险运营分析师 - 全球响应（周末轮班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
 | 基础设施资本支出会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
@@ -35,14 +42,6 @@
 | Anthropic研究员项目，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
 | Anthropic研究员计划，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| 环境、健康与安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12871/environment-health-and-safety-specialist/) |
-| 环境、健康与安全专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12870/environment-health-and-safety-specialist/) |
-| 健康与安全专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12872/health-and-safety-specialist/) |
-| 客户支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/customer-support-engineer-gpu-cluster-india/) |
-| 推理技术支持工程师（印度周末） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
-| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
-| 拉美合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
