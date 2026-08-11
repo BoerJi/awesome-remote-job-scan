@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2223</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
+| 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
+| 支付平台后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
+| AI基础设施运营、需求规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12804/ai-infrastructure-operations-demand-planning/) |
+| 基础设施容量规划师，需求规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12805/infrastructure-capacity-planner-demand-planning/) |
 | 软件工程师，集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12803/software-engineer-integrations/) |
 | 美国财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12622/head-of-finance-us/) |
 | 高级全栈工程师，北工具与检索 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12801/senior-full-stack-engineer-north-tools-retrieval/) |
@@ -37,11 +42,6 @@
 | 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
 | 企业工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9421/engineering-manager-enterprise/) |
-| AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| 人员安全管理专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12736/personnel-security-management-specialist/) |
-| 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
-| 高级/资深工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
-| 高级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

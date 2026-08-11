@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2223</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
+| Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
+| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
+| AI Infrastructure Operations, Demand Planning | On-site | [View →](https://www.remotejobscan.com/job/12804/ai-infrastructure-operations-demand-planning/) |
+| Infrastructure Capacity Planner, Demand Planning | On-site | [View →](https://www.remotejobscan.com/job/12805/infrastructure-capacity-planner-demand-planning/) |
 | Software Engineer, Integrations | Remote | [View →](https://www.remotejobscan.com/job/12803/software-engineer-integrations/) |
 | Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/12622/head-of-finance-us/) |
 | Senior Full-Stack Engineer, North Tools & Retrieval | Remote | [View →](https://www.remotejobscan.com/job/12801/senior-full-stack-engineer-north-tools-retrieval/) |
@@ -37,11 +42,6 @@
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
 | Engineering Manager, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9421/engineering-manager-enterprise/) |
-| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| Personnel Security Management Specialist | Remote | [View →](https://www.remotejobscan.com/job/12736/personnel-security-management-specialist/) |
-| Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
-| Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
-| Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
