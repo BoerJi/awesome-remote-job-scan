@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2243</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2249</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
+| 合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12863/head-of-compliance/) |
+| 高级合作伙伴账户经理 – 全球系统集成商联盟 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12706/senior-partner-account-manager-global-systems-integrator-alliances/) |
 | 首席软件工程师，企业技术垂直 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
 | FDE智能平台工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
 | 能源企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12860/enterprise-sales-manager-energy/) |
@@ -39,10 +42,6 @@
 | 高级移动工程师（卡与支付） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12848/senior-mobile-engineer-card-payment/) |
 | 执行器设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12851/actuator-design-engineer/) |
 | Next.js 技术团队经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| 收入会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12845/manager-revenue-accounting/) |
-| 高级项目经理，消费设备安全运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12846/senior-program-manager-consumer-device-safety-operations/) |
-| 计算资格技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
-| 产品经理，Claude Tag | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2243</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2249</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
+| Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/12863/head-of-compliance/) |
+| Senior Partner Account Manager – Global Systems Integrator Alliances | On-site | [View →](https://www.remotejobscan.com/job/12706/senior-partner-account-manager-global-systems-integrator-alliances/) |
 | Principal Software Engineer, Enterprise Technology Vertical | On-site | [View →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
 | Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
 | Enterprise Sales Manager, Energy | Hybrid | [View →](https://www.remotejobscan.com/job/12860/enterprise-sales-manager-energy/) |
@@ -39,10 +42,6 @@
 | Senior Mobile Engineer (Card & Payment) | On-site | [View →](https://www.remotejobscan.com/job/12848/senior-mobile-engineer-card-payment/) |
 | Actuator Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12851/actuator-design-engineer/) |
 | Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| Manager, Revenue Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/12845/manager-revenue-accounting/) |
-| Senior Program Manager, Consumer Device Safety Operations | On-site | [View →](https://www.remotejobscan.com/job/12846/senior-program-manager-consumer-device-safety-operations/) |
-| Technical Program Manager, Compute Qualification | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-program-manager-compute-qualification/) |
-| Product Manager, Claude Tag | On-site | [View →](https://www.remotejobscan.com/job/11973/product-manager-claude-tag/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
