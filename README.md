@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2214</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
+| 企业工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9421/engineering-manager-enterprise/) |
 | AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | 人员安全管理专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12736/personnel-security-management-specialist/) |
 | 初级产品经理，DevOps和AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
@@ -41,8 +43,6 @@
 | 部署策略师 - 瑞典 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
 | 欧洲通讯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12708/europe-communications/) |
 | 瑞典企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12709/enterprise-solutions-engineer-sweden/) |
-| 土木工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12701/civil-engineer/) |
-| 前沿部署工程师 - 软件工程师 - 意大利 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12705/forward-deployed-engineer-software-engineer-italy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
