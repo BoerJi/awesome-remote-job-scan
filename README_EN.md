@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2227</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2219</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive - Poland - Government & Utilities | On-site | [View →](https://www.remotejobscan.com/job/12785/strategic-account-executive-poland-government-utilities/) |
+| Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
+| Chief of Staff GTM - France | Remote | [View →](https://www.remotejobscan.com/job/12781/chief-of-staff-gtm-france/) |
 | Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
 | Online Advertising Manager | Remote | [View →](https://www.remotejobscan.com/job/12144/online-advertising-manager/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
@@ -39,9 +42,6 @@
 | Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote | [View →](https://www.remotejobscan.com/job/12716/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
 | Forward Deployed Engineer, Infrastructure Specialist (South Korea) | Remote | [View →](https://www.remotejobscan.com/job/12730/forward-deployed-engineer-infrastructure-specialist-south-korea/) |
-| Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
-| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
-| Federal Account Director, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
