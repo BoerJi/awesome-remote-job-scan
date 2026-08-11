@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2214</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2223</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Research Tools | On-site | [View →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
+| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
 | Engineering Manager, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9421/engineering-manager-enterprise/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
@@ -41,8 +43,6 @@
 | APAC Communications | Remote | [View →](https://www.remotejobscan.com/job/12712/apac-communications/) |
 | Forward Deployed Engineer - Software Engineer - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12711/forward-deployed-engineer-software-engineer-sweden/) |
 | Deployment Strategist - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
-| Europe Communications | Remote | [View →](https://www.remotejobscan.com/job/12708/europe-communications/) |
-| Enterprise Solutions Engineer - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12709/enterprise-solutions-engineer-sweden/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
