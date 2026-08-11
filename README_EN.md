@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2235</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2236</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institution Operation Manager | Remote | [View →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
 | Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
 | Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
@@ -41,7 +42,6 @@
 | Software Engineer, Research Tools | On-site | [View →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
-| Engineering Manager, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/9421/engineering-manager-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

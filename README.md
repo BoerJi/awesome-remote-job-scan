@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2236</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机构运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
 | 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12818/commercial-counsel-india/) |
 | 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12817/enterprise-account-executive-retail/) |
 | 支付平台后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9321/staff-software-engineer-backend-payments-platform/) |
@@ -41,7 +42,6 @@
 | 研究工具软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9634/software-engineer-research-tools/) |
 | 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
-| 企业工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9421/engineering-manager-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
