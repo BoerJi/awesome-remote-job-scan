@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2219</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2237</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Integrations | Remote | [View →](https://www.remotejobscan.com/job/12803/software-engineer-integrations/) |
+| Head of Finance, US | Remote | [View →](https://www.remotejobscan.com/job/12622/head-of-finance-us/) |
+| Senior Full-Stack Engineer, North Tools & Retrieval | Remote | [View →](https://www.remotejobscan.com/job/12801/senior-full-stack-engineer-north-tools-retrieval/) |
 | Strategic Account Executive - Poland - Government & Utilities | On-site | [View →](https://www.remotejobscan.com/job/12785/strategic-account-executive-poland-government-utilities/) |
 | Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
 | Chief of Staff GTM - France | Remote | [View →](https://www.remotejobscan.com/job/12781/chief-of-staff-gtm-france/) |
+| Senior Financial Expert 高级金融专家 | Remote | [View →](https://www.remotejobscan.com/job/12800/senior-financial-expert/) |
 | Senior PMO / Project Manager, Paid Ads | On-site | [View →](https://www.remotejobscan.com/job/8870/senior-pmo-project-manager-paid-ads/) |
 | Online Advertising Manager | Remote | [View →](https://www.remotejobscan.com/job/12144/online-advertising-manager/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/12762/senior-ai-application-development-engineeragent-architect-ai-agent/) |
@@ -38,10 +42,6 @@
 | Personnel Security Management Specialist | Remote | [View →](https://www.remotejobscan.com/job/12736/personnel-security-management-specialist/) |
 | Junior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/8788/junior-product-manager-devops-and-ai/) |
 | Senior/Staff Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/6621/seniorstaff-engineer-ai-agent-development/) |
-| Senior Product Manager, DevOps and AI | On-site | [View →](https://www.remotejobscan.com/job/6618/senior-product-manager-devops-and-ai/) |
-| Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote | [View →](https://www.remotejobscan.com/job/12716/staff-site-reliability-engineer-safeguards-ml-infra/) |
-| Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
-| Forward Deployed Engineer, Infrastructure Specialist (South Korea) | Remote | [View →](https://www.remotejobscan.com/job/12730/forward-deployed-engineer-infrastructure-specialist-south-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
