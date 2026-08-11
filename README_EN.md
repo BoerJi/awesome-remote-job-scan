@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>2284</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2252</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,30 +23,29 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
-| Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
-| Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
-| Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
-| Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
-| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
-| Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
-| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
-| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
-| Research Analyst Intern | Remote | [View →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
-| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
-| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
-| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
-| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
+| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
+| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Environment, Health and Safety Specialist | On-site | [View →](https://www.remotejobscan.com/job/12871/environment-health-and-safety-specialist/) |
+| Health and Safety Specialist | On-site | [View →](https://www.remotejobscan.com/job/12872/health-and-safety-specialist/) |
+| Customer Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/customer-support-engineer-gpu-cluster-india/) |
+| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
+| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
+| Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
+| Backend Software Engineer - Codex for Finance | Hybrid | [View →](https://www.remotejobscan.com/job/12869/backend-software-engineer-codex-for-finance/) |
+| Technical Systems Program Manager, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/12868/technical-systems-program-manager-user-operations/) |
+| Commercial Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
+| Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/12863/head-of-compliance/) |
+| Senior Partner Account Manager – Global Systems Integrator Alliances | On-site | [View →](https://www.remotejobscan.com/job/12706/senior-partner-account-manager-global-systems-integrator-alliances/) |
+| Principal Software Engineer, Enterprise Technology Vertical | On-site | [View →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
+| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（49 companies）
+## 🏢 Companies Tracked（48 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -57,7 +56,6 @@
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
-| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
