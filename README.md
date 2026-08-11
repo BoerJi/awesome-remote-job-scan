@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2251</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12882/office-manager/) |
+| 用户安全与风险运营分析师 - 全球响应（周末轮班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
+| 基础设施资本支出会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
+| 高级VIP关系经理，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
+| 集成营销经理，ChatGPT学生项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12879/integrated-marketing-manager-chatgpt-for-students/) |
+| 业务发展助理（开发者生态系统） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12878/business-development-associate-developer-ecosystem/) |
+| 用户生命周期增长营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12877/growth-marketing-manager-lifecycle/) |
+| CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 | Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | Anthropic研究员项目，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
@@ -35,13 +43,6 @@
 | 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
 | 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
 | 拉美合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
-| 后端软件工程师 - Codex for Finance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12869/backend-software-engineer-codex-for-finance/) |
-| 用户运营技术系统项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12868/technical-systems-program-manager-user-operations/) |
-| 商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
-| 合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12863/head-of-compliance/) |
-| 高级合作伙伴账户经理 – 全球系统集成商联盟 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12706/senior-partner-account-manager-global-systems-integrator-alliances/) |
-| 首席软件工程师，企业技术垂直 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
-| FDE智能平台工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

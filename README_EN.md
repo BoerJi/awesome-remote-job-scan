@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2251</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Office Manager | On-site | [View →](https://www.remotejobscan.com/job/12882/office-manager/) |
+| User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
+| Manager, Infrastructure Capex Accounting | On-site | [View →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
+| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
+| Integrated Marketing Manager, ChatGPT for Students | On-site | [View →](https://www.remotejobscan.com/job/12879/integrated-marketing-manager-chatgpt-for-students/) |
+| Business Development Associate (Developer Ecosystem) | Remote | [View →](https://www.remotejobscan.com/job/12878/business-development-associate-developer-ecosystem/) |
+| Growth Marketing Manager (Lifecycle) | Remote | [View →](https://www.remotejobscan.com/job/12877/growth-marketing-manager-lifecycle/) |
+| Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
@@ -34,13 +42,6 @@
 | Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
 | Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/8777/head-of-compliance-latam/) |
-| Backend Software Engineer - Codex for Finance | Hybrid | [View →](https://www.remotejobscan.com/job/12869/backend-software-engineer-codex-for-finance/) |
-| Technical Systems Program Manager, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/12868/technical-systems-program-manager-user-operations/) |
-| Commercial Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
-| Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/12863/head-of-compliance/) |
-| Senior Partner Account Manager – Global Systems Integrator Alliances | On-site | [View →](https://www.remotejobscan.com/job/12706/senior-partner-account-manager-global-systems-integrator-alliances/) |
-| Principal Software Engineer, Enterprise Technology Vertical | On-site | [View →](https://www.remotejobscan.com/job/12859/principal-software-engineer-enterprise-technology-vertical/) |
-| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
