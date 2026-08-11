@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2212</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2213</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国高级VIP关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
+| 联邦账户总监，国家安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
 | 合作伙伴联盟经理 - 区域及专业系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
 | 技术商品经理 - 机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
 | 亚太区通讯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12712/apac-communications/) |
@@ -41,8 +43,6 @@
 | 拉美地区部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12698/deployment-strategist-latam/) |
 | 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | 开发者关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12685/developer-relations/) |
-| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
-| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-11 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

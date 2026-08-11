@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2212</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2213</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
+| Federal Account Director, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
 | Partner Alliance Manager – Regional & Specialist Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
 | Technical Commodity Manager - Robotics | On-site | [View →](https://www.remotejobscan.com/job/12707/technical-commodity-manager-robotics/) |
 | APAC Communications | Remote | [View →](https://www.remotejobscan.com/job/12712/apac-communications/) |
@@ -41,8 +43,6 @@
 | Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/12698/deployment-strategist-latam/) |
 | Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | Developer Relations | On-site | [View →](https://www.remotejobscan.com/job/12685/developer-relations/) |
-| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
-| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
