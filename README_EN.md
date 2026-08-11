@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2213</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2219</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote | [View →](https://www.remotejobscan.com/job/12716/staff-site-reliability-engineer-safeguards-ml-infra/) |
+| Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
+| Forward Deployed Engineer, Infrastructure Specialist (South Korea) | Remote | [View →](https://www.remotejobscan.com/job/12730/forward-deployed-engineer-infrastructure-specialist-south-korea/) |
+| Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
 | Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | Federal Account Director, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/12715/federal-account-director-national-security/) |
 | Partner Alliance Manager – Regional & Specialist Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/12706/partner-alliance-manager-regional-specialist-systems-integrators/) |
@@ -39,10 +43,6 @@
 | Forward Deployed Engineer - Software Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12703/forward-deployed-engineer-software-engineer-canada/) |
 | Forward Deployed Engineer - Software Engineer - Belgium | On-site | [View →](https://www.remotejobscan.com/job/12699/forward-deployed-engineer-software-engineer-belgium/) |
 | Account Executive, API | Hybrid | [View →](https://www.remotejobscan.com/job/12700/account-executive-api/) |
-| Finance & Strategy, Product Intelligence | On-site | [View →](https://www.remotejobscan.com/job/12697/finance-strategy-product-intelligence/) |
-| Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/12698/deployment-strategist-latam/) |
-| Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
-| Developer Relations | On-site | [View →](https://www.remotejobscan.com/job/12685/developer-relations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-11 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
