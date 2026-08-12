@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2235</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2228</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Manager - South Asia | Remote | [View →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
+| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
+| Product Marketing Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
 | Senior Engineering Manager, Core Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
 | Senior Business Strategy Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
@@ -39,9 +43,6 @@
 | Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 | Sanctions Advisory Specialist | Remote | [View →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
 | Senior/Staff Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
-| Head of Impact & Sustainability | Remote | [View →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
-| Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
-| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

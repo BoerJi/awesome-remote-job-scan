@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2228</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 南亚产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
+| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
+| 产品营销运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
 | 核心自动化高级工程经理（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
 | 高级商业策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
@@ -39,9 +43,6 @@
 | CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 | 制裁顾问专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
 | 高级/资深产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
-| 影响与可持续发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
-| 前端工程师，AI可观察性与评估平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
-| 推理技术支持工程师（印度周末） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
