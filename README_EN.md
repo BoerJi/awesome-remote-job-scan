@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2194</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2196</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Listing Operation officer | Remote | [View →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
+| Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
+| Sanctions Advisory Specialist | Remote | [View →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
+| Senior/Staff Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 | Head of Impact & Sustainability | Remote | [View →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
 | Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
 | Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
@@ -38,10 +42,6 @@
 | Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | Regional Director, Enterprise Sales (DMV) | Remote | [View →](https://www.remotejobscan.com/job/12894/regional-director-enterprise-sales-dmv/) |
 | Regional Director, Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/12893/regional-director-enterprise-sales/) |
-| Strategic Account Executive - Energy (Oil and Gas) & Utilities | Remote | [View →](https://www.remotejobscan.com/job/12891/strategic-account-executive-energy-oil-and-gas-utilities/) |
-| Deployment Strategist Lead - Canada | Hybrid | [View →](https://www.remotejobscan.com/job/12890/deployment-strategist-lead-canada/) |
-| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Finance & Strategy, Deal Velocity | On-site | [View →](https://www.remotejobscan.com/job/12883/finance-strategy-deal-velocity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
