@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2224</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
+| 法国战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13013/strategic-account-executive-france/) |
+| 高级/资深工程师 - 交易中台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
+| Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
+| 基础设施（分布式系统）高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12997/staff-software-engineer-infrastructure-distributed-systems/) |
+| Technical Expert (Unified Account UTA Direction） 技术专家（美股期权 UTA 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12148/technical-expert-unified-account-uta-direction-uta/) |
+| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
+| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
+| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| 高级/资深移动软件工程师，核心（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
+| 高级基础设施工程师，集群基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9654/staff-infrastructure-engineer-cluster-infrastructure/) |
+| 高级软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9642/staff-software-engineer-node-infra/) |
+| Kubernetes平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9640/staff-software-engineer-kubernetes-platform/) |
 | 机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
 | 搜索引擎架构师（大模型方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12970/job-12970/) |
 | 南亚产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
-| 产品营销运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
-| 核心自动化高级工程经理（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
-| 高级商业策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
-| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
-| 工程经理（技术领导经理，代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
-| 技术团队成员（软件工程师，加速团队） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
-| 技术专家（软件工程师，API平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
-| API平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
-| 工程站点负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12961/engineering-site-lead/) |
-| 战略财务、B2B合作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10584/strategic-finance-b2b-partnerships/) |
-| 解决方案架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/solutions-architect-nyc/) |
-| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| 中东GTM首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
-| Listing Operation officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
-| CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

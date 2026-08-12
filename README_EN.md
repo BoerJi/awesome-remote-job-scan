@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2224</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
+| Strategic Account Executive - France | Remote | [View →](https://www.remotejobscan.com/job/13013/strategic-account-executive-france/) |
+| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
+| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
+| Staff Software Engineer, Infrastructure (Distributed Systems) | On-site | [View →](https://www.remotejobscan.com/job/12997/staff-software-engineer-infrastructure-distributed-systems/) |
+| Technical Expert (Unified Account UTA Direction） 技术专家（美股期权 UTA 方向） | Remote | [View →](https://www.remotejobscan.com/job/12148/technical-expert-unified-account-uta-direction-uta/) |
+| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
+| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
+| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
+| Staff Infrastructure Engineer, Cluster Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9654/staff-infrastructure-engineer-cluster-infrastructure/) |
+| Staff Software Engineer, Node Infra | On-site | [View →](https://www.remotejobscan.com/job/9642/staff-software-engineer-node-infra/) |
+| Staff Software Engineer, Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/9640/staff-software-engineer-kubernetes-platform/) |
 | Institutional Sales Manager | Remote | [View →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
 | 搜索引擎架构师（大模型方向） | Remote | [View →](https://www.remotejobscan.com/job/12970/job-12970/) |
 | Product Marketing Manager - South Asia | Remote | [View →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
-| Product Marketing Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
-| Senior Engineering Manager, Core Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
-| Senior Business Strategy Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
-| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
-| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
-| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
-| Member of Technical Staff (Software Engineer, API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
-| Engineering Manager (API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
-| Engineering Site Lead | On-site | [View →](https://www.remotejobscan.com/job/12961/engineering-site-lead/) |
-| Strategic Finance, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/10584/strategic-finance-b2b-partnerships/) |
-| Solutions Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/solutions-architect-nyc/) |
-| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| GTM Chief of Staff - Middle East | Remote | [View →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
-| Listing Operation officer | Remote | [View →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
-| Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
