@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心自动化高级工程经理（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
+| 高级商业策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
 | 工程经理（技术领导经理，代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
 | 技术团队成员（软件工程师，加速团队） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
@@ -40,8 +42,6 @@
 | 影响与可持续发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
 | 前端工程师，AI可观察性与评估平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
 | 推理技术支持工程师（印度周末） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| 技术支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
-| 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12904/product-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 07:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

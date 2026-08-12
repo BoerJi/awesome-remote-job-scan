@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2229</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Engineering Manager, Core Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
+| Senior Business Strategy Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
@@ -40,8 +42,6 @@
 | Head of Impact & Sustainability | Remote | [View →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
 | Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
 | Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
-| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/12904/product-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 07:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
