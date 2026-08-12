@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2253</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Public Sector Partnerships Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
+| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
+| AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
+| Product Marketing - Agents - Government | Remote | [View →](https://www.remotejobscan.com/job/13068/product-marketing-agents-government/) |
+| Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13065/associate-corporate-development/) |
+| Member of Technical Staff (Software Engineer, Multimodal) | On-site | [View →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
+| Software Engineer, GPU Infrastructure - ChatGPT Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
+| Senior Content Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13064/senior-content-manager/) |
+| Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
+| VP of Finance | Remote | [View →](https://www.remotejobscan.com/job/13060/vp-of-finance/) |
+| Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13036/it-support-engineer/) |
 | Manager, Partner Applied AI Engineering (AWS) | Hybrid | [View →](https://www.remotejobscan.com/job/13051/manager-partner-applied-ai-engineering-aws/) |
 | Site Reliability Engineer - Telemetry | On-site | [View →](https://www.remotejobscan.com/job/13050/site-reliability-engineer-telemetry/) |
@@ -31,17 +42,6 @@
 | Staff+ Infrastructure Engineer, Cluster Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9636/staff-infrastructure-engineer-cluster-infrastructure/) |
 | People Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/12210/people-operations-associate/) |
 | Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
-| Sales Development - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/13034/sales-development-southern-europe/) |
-| Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search) | On-site | [View →](https://www.remotejobscan.com/job/13028/member-of-technical-staff-machine-learning-engineer-ranking-quality-search/) |
-| Strategic Deals Leader, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
-| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
-| Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
-| Strategic Account Executive - France | Remote | [View →](https://www.remotejobscan.com/job/13013/strategic-account-executive-france/) |
-| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
-| Staff Software Engineer, Infrastructure (Distributed Systems) | On-site | [View →](https://www.remotejobscan.com/job/12997/staff-software-engineer-infrastructure-distributed-systems/) |
-| Technical Expert (Unified Account UTA Direction） 技术专家（美股期权 UTA 方向） | Remote | [View →](https://www.remotejobscan.com/job/12148/technical-expert-unified-account-uta-direction-uta/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
