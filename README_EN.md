@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2253</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2251</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
 | Strategic Account Executive - France | Remote | [View →](https://www.remotejobscan.com/job/13013/strategic-account-executive-france/) |
 | Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
@@ -41,8 +43,6 @@
 | Institutional Sales Manager | Remote | [View →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
 | 搜索引擎架构师（大模型方向） | Remote | [View →](https://www.remotejobscan.com/job/12970/job-12970/) |
 | Product Marketing Manager - South Asia | Remote | [View →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

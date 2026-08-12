@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2253</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2251</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
 | 法国战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13013/strategic-account-executive-france/) |
 | 高级/资深工程师 - 交易中台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
@@ -41,8 +43,6 @@
 | 机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
 | 搜索引擎架构师（大模型方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12970/job-12970/) |
 | 南亚产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
