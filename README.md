@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2287</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2292</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13118/business-development-us/) |
+| GTM战略与运营，叠加 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13119/gtm-strategy-operations-overlay/) |
+| 产品设计师II，设计系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
+| 亚太区业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13117/business-development-apac/) |
+| 货币与银行运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
+| 政府整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13114/integrated-marketing-manager-government/) |
 | 全球福利主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
 | Martech工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
@@ -36,12 +42,6 @@
 | 部署架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-san-francisco/) |
 | 高级客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
 | 高级内部审计师，技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13109/senior-internal-auditor-technology/) |
-| 高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
-| 高级内部审计师（技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13108/senior-internal-auditor-technology/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13102/it-support-engineer/) |
-| 战略金融，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
-| 高级风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13101/senior-risk-manager/) |
-| 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13100/sr-technical-sourcer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
