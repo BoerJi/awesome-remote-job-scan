@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2272</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2287</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,23 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global Benefits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
+| Martech Engineer | Remote | [View →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
+| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
+| Internal Audit Financial Crime & Conduct Manager | Remote | [View →](https://www.remotejobscan.com/job/13105/internal-audit-financial-crime-conduct-manager/) |
+| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/13107/internal-audit-manager/) |
+| Deployed Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/deployed-architect-remote/) |
+| Deployed Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-austin/) |
+| Deployed Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-dallas/) |
+| Deployed Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-nyc/) |
+| Applied AI Architect, Commercial | On-site | [View →](https://www.remotejobscan.com/job/9347/applied-ai-architect-commercial/) |
+| Deployed Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/deployed-architect-san-francisco/) |
+| Senior Account Executive | On-site | [View →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
+| Senior Internal Auditor, Technology | Remote | [View →](https://www.remotejobscan.com/job/13109/senior-internal-auditor-technology/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13102/it-support-engineer/) |
 | Strategic Finance, B2B Product | Hybrid | [View →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/13101/senior-risk-manager/) |
 | Sr. Technical Sourcer | On-site | [View →](https://www.remotejobscan.com/job/13100/sr-technical-sourcer/) |
-| Technical Recruiter, AI | On-site | [View →](https://www.remotejobscan.com/job/13099/technical-recruiter-ai/) |
-| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
-| Premium Support Engineer (Tokyo) | Remote | [View →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
-| Manager, Customer Success - Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
-| Treasury Manager, Global Cash & Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13083/treasury-manager-global-cash-operations/) |
-| M&A Tax Director | Remote | [View →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
-| Sr. Manager, Cash Application | On-site | [View →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
-| AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer/) |
-| Machine Learning Data Scientist, Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/13082/machine-learning-data-scientist-forecasting/) |
-| Public Sector Partnerships Lead - Colombia | Remote | [View →](https://www.remotejobscan.com/job/13086/public-sector-partnerships-lead-colombia/) |
-| Public Sector Partnerships Lead - France | Remote | [View →](https://www.remotejobscan.com/job/13084/public-sector-partnerships-lead-france/) |
-| Public Sector Partnerships Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13085/public-sector-partnerships-lead-india/) |
-| Public Sector Partnerships - Canada | Remote | [View →](https://www.remotejobscan.com/job/13087/public-sector-partnerships-canada/) |
-| Public Sector Partnerships Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
-| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

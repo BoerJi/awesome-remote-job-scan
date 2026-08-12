@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2272</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2287</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球福利主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
+| Martech工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
+| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
+| 内部审计金融犯罪与行为经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13105/internal-audit-financial-crime-conduct-manager/) |
+| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13107/internal-audit-manager/) |
+| 部署架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/deployed-architect-remote/) |
+| 部署架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-austin/) |
+| 部署架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-dallas/) |
+| 部署架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-nyc/) |
+| 商业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9347/applied-ai-architect-commercial/) |
+| 部署架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-san-francisco/) |
+| 高级客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
+| 高级内部审计师，技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13109/senior-internal-auditor-technology/) |
+| 高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
+| 高级内部审计师（技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13108/senior-internal-auditor-technology/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13102/it-support-engineer/) |
 | 战略金融，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | 高级风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13101/senior-risk-manager/) |
 | 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13100/sr-technical-sourcer/) |
-| AI技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13099/technical-recruiter-ai/) |
-| 美国高级VIP关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
-| 东京高级支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
-| 有益部署客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
-| 全球现金与运营 Treasury 经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13083/treasury-manager-global-cash-operations/) |
-| 并购税务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
-| 高级应收账款经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
-| 视听工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer/) |
-| 音频视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
-| 机器学习数据科学家，预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13082/machine-learning-data-scientist-forecasting/) |
-| 哥伦比亚公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13086/public-sector-partnerships-lead-colombia/) |
-| 法国公共部门合作伙伴关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13084/public-sector-partnerships-lead-france/) |
-| 印度公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13085/public-sector-partnerships-lead-india/) |
-| 加拿大公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13087/public-sector-partnerships-canada/) |
-| 中东公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
-| AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
