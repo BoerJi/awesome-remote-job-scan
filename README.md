@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2271</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2270</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12904/product-counsel/) |
+| 后端工程师（Java）- KYC技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12903/backend-engineer-java-kyc-tech/) |
 | 战略云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
 | Staff+ 软件工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | 解决方案产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
@@ -40,8 +42,6 @@
 | 行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12882/office-manager/) |
 | 用户安全与风险运营分析师 - 全球响应（周末轮班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
 | 基础设施资本支出会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
-| 高级VIP关系经理，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
-| 集成营销经理，ChatGPT学生项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12879/integrated-marketing-manager-chatgpt-for-students/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

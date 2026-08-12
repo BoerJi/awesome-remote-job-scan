@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2271</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2270</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/12904/product-counsel/) |
+| Backend Engineer (Java) - KYC Tech | Remote | [View →](https://www.remotejobscan.com/job/12903/backend-engineer-java-kyc-tech/) |
 | Strategic Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
 | Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | Solutions Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
@@ -40,8 +42,6 @@
 | Office Manager | On-site | [View →](https://www.remotejobscan.com/job/12882/office-manager/) |
 | User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
 | Manager, Infrastructure Capex Accounting | On-site | [View →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
-| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
-| Integrated Marketing Manager, ChatGPT for Students | On-site | [View →](https://www.remotejobscan.com/job/12879/integrated-marketing-manager-chatgpt-for-students/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
