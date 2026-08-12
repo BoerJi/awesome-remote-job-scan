@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2268</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2274</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | Premium Support Engineer (Tokyo) | Remote | [View →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
 | Manager, Customer Success - Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
 | Treasury Manager, Global Cash & Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13083/treasury-manager-global-cash-operations/) |
@@ -41,7 +42,6 @@
 | Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13065/associate-corporate-development/) |
 | Member of Technical Staff (Software Engineer, Multimodal) | On-site | [View →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
 | Software Engineer, GPU Infrastructure - ChatGPT Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
-| Senior Content Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13064/senior-content-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

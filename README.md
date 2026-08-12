@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2274</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国高级VIP关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | 东京高级支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
 | 有益部署客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
 | 全球现金与运营 Treasury 经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13083/treasury-manager-global-cash-operations/) |
@@ -42,7 +43,6 @@
 | 公司发展部副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13065/associate-corporate-development/) |
 | 技术团队成员（多模态软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
 | GPU基础设施软件工程师 - ChatGPT工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
-| 高级内容经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13064/senior-content-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
