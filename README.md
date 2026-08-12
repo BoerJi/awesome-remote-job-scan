@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2196</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2218</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 解决方案架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/solutions-architect-nyc/) |
+| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
+| 中东GTM首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
 | Listing Operation officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
 | CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 | 制裁顾问专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
@@ -39,9 +42,6 @@
 | 设计系统技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12899/member-of-technical-staff-design-systems/) |
 | 企业开发，交易负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12898/corporate-development-deal-lead/) |
 | 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
-| 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
-| 区域总监，企业销售（DMV） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12894/regional-director-enterprise-sales-dmv/) |
-| 区域企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12893/regional-director-enterprise-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

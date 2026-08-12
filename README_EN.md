@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2196</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2218</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/solutions-architect-nyc/) |
+| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
+| GTM Chief of Staff - Middle East | Remote | [View →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
 | Listing Operation officer | Remote | [View →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
 | Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
 | Sanctions Advisory Specialist | Remote | [View →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
@@ -39,9 +42,6 @@
 | Member of Technical Staff, Design Systems | Hybrid | [View →](https://www.remotejobscan.com/job/12899/member-of-technical-staff-design-systems/) |
 | Corporate Development, Deal Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12898/corporate-development-deal-lead/) |
 | Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
-| Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
-| Regional Director, Enterprise Sales (DMV) | Remote | [View →](https://www.remotejobscan.com/job/12894/regional-director-enterprise-sales-dmv/) |
-| Regional Director, Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/12893/regional-director-enterprise-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
