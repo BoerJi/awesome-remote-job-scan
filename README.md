@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2291</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2294</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
+| 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
+| 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
+| 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
+| 麦肯锡联盟合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13124/partner-director-mckinsey-alliance/) |
+| 知识工作产品营销主管，GTM战略 - Claude for Knowledge Work | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| 高级服务项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13121/executive-services-program-manager/) |
+| 移动端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
 | 美国业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13118/business-development-us/) |
 | GTM战略与运营，叠加 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13119/gtm-strategy-operations-overlay/) |
 | 产品设计师II，设计系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
@@ -34,14 +42,6 @@
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
 | 内部审计金融犯罪与行为经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13105/internal-audit-financial-crime-conduct-manager/) |
 | 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13107/internal-audit-manager/) |
-| 部署架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/deployed-architect-remote/) |
-| 部署架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-austin/) |
-| 部署架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-dallas/) |
-| 部署架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-nyc/) |
-| 商业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9347/applied-ai-architect-commercial/) |
-| 部署架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-san-francisco/) |
-| 高级客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
-| 高级内部审计师，技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13109/senior-internal-auditor-technology/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

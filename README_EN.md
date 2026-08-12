@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2291</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2294</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
+| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
+| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
+| Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
+| Partner Director, McKinsey Alliance | On-site | [View →](https://www.remotejobscan.com/job/13124/partner-director-mckinsey-alliance/) |
+| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| Executive Services Program Manager | Remote | [View →](https://www.remotejobscan.com/job/13121/executive-services-program-manager/) |
+| Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
 | Business Development, US | Remote | [View →](https://www.remotejobscan.com/job/13118/business-development-us/) |
 | GTM Strategy & Operations, Overlay | Hybrid | [View →](https://www.remotejobscan.com/job/13119/gtm-strategy-operations-overlay/) |
 | Product Designer II, Design Systems | Remote | [View →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
@@ -34,14 +42,6 @@
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
 | Internal Audit Financial Crime & Conduct Manager | Remote | [View →](https://www.remotejobscan.com/job/13105/internal-audit-financial-crime-conduct-manager/) |
 | Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/13107/internal-audit-manager/) |
-| Deployed Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/deployed-architect-remote/) |
-| Deployed Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-austin/) |
-| Deployed Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-dallas/) |
-| Deployed Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-nyc/) |
-| Applied AI Architect, Commercial | On-site | [View →](https://www.remotejobscan.com/job/9347/applied-ai-architect-commercial/) |
-| Deployed Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/deployed-architect-san-francisco/) |
-| Senior Account Executive | On-site | [View →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
-| Senior Internal Auditor, Technology | Remote | [View →](https://www.remotejobscan.com/job/13109/senior-internal-auditor-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
