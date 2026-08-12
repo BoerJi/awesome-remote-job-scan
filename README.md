@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2253</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2255</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13036/it-support-engineer/) |
+| AWS合作伙伴应用人工智能工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13051/manager-partner-applied-ai-engineering-aws/) |
 | 站点可靠性工程师 - 远程监控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13050/site-reliability-engineer-telemetry/) |
 | Staff+ 软件工程师，Kubernetes 平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9639/staff-software-engineer-kubernetes-platform/) |
 | Staff+ 软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9641/staff-software-engineer-node-infra/) |
@@ -40,9 +42,6 @@
 | Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
 | 基础设施（分布式系统）高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12997/staff-software-engineer-infrastructure-distributed-systems/) |
 | Technical Expert (Unified Account UTA Direction） 技术专家（美股期权 UTA 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12148/technical-expert-unified-account-uta-direction-uta/) |
-| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
-| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
-| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
