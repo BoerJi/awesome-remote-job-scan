@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2261</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Premium Support Engineer (Tokyo) | Remote | [View →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
+| Manager, Customer Success - Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
+| Treasury Manager, Global Cash & Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13083/treasury-manager-global-cash-operations/) |
+| M&A Tax Director | Remote | [View →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
+| Sr. Manager, Cash Application | On-site | [View →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
+| AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer/) |
+| Machine Learning Data Scientist, Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/13082/machine-learning-data-scientist-forecasting/) |
+| Public Sector Partnerships Lead - Colombia | Remote | [View →](https://www.remotejobscan.com/job/13086/public-sector-partnerships-lead-colombia/) |
+| Public Sector Partnerships Lead - France | Remote | [View →](https://www.remotejobscan.com/job/13084/public-sector-partnerships-lead-france/) |
+| Public Sector Partnerships Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13085/public-sector-partnerships-lead-india/) |
+| Public Sector Partnerships - Canada | Remote | [View →](https://www.remotejobscan.com/job/13087/public-sector-partnerships-canada/) |
 | Public Sector Partnerships Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
@@ -31,17 +42,6 @@
 | Member of Technical Staff (Software Engineer, Multimodal) | On-site | [View →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
 | Software Engineer, GPU Infrastructure - ChatGPT Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
 | Senior Content Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13064/senior-content-manager/) |
-| Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| VP of Finance | Remote | [View →](https://www.remotejobscan.com/job/13060/vp-of-finance/) |
-| Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13036/it-support-engineer/) |
-| Manager, Partner Applied AI Engineering (AWS) | Hybrid | [View →](https://www.remotejobscan.com/job/13051/manager-partner-applied-ai-engineering-aws/) |
-| Site Reliability Engineer - Telemetry | On-site | [View →](https://www.remotejobscan.com/job/13050/site-reliability-engineer-telemetry/) |
-| Staff+ Software Engineer, Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/9639/staff-software-engineer-kubernetes-platform/) |
-| Staff+ Software Engineer, Node Infra | On-site | [View →](https://www.remotejobscan.com/job/9641/staff-software-engineer-node-infra/) |
-| Staff+ Infrastructure Engineer, Cluster Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9636/staff-infrastructure-engineer-cluster-infrastructure/) |
-| People Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/12210/people-operations-associate/) |
-| Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

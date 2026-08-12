@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2261</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 东京高级支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
+| 有益部署客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
+| 全球现金与运营 Treasury 经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13083/treasury-manager-global-cash-operations/) |
+| 并购税务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
+| 高级应收账款经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
+| 视听工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer/) |
+| 音频视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
+| 机器学习数据科学家，预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13082/machine-learning-data-scientist-forecasting/) |
+| 哥伦比亚公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13086/public-sector-partnerships-lead-colombia/) |
+| 法国公共部门合作伙伴关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13084/public-sector-partnerships-lead-france/) |
+| 印度公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13085/public-sector-partnerships-lead-india/) |
+| 加拿大公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13087/public-sector-partnerships-canada/) |
 | 中东公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
 | AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | 音视频制作专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
@@ -31,17 +43,6 @@
 | 技术团队成员（多模态软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
 | GPU基础设施软件工程师 - ChatGPT工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
 | 高级内容经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13064/senior-content-manager/) |
-| 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| 财务副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13060/vp-of-finance/) |
-| 执行业务中心市场主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13036/it-support-engineer/) |
-| AWS合作伙伴应用人工智能工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13051/manager-partner-applied-ai-engineering-aws/) |
-| 站点可靠性工程师 - 远程监控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13050/site-reliability-engineer-telemetry/) |
-| Staff+ 软件工程师，Kubernetes 平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9639/staff-software-engineer-kubernetes-platform/) |
-| Staff+ 软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9641/staff-software-engineer-node-infra/) |
-| 高级基础设施工程师，集群基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9636/staff-infrastructure-engineer-cluster-infrastructure/) |
-| 人事运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12210/people-operations-associate/) |
-| 前部署工程师，基础设施专家（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
