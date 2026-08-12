@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2257</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2251</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
+| Sales Development - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/13034/sales-development-southern-europe/) |
 | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search) | On-site | [View →](https://www.remotejobscan.com/job/13028/member-of-technical-staff-machine-learning-engineer-ranking-quality-search/) |
 | Strategic Deals Leader, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
-| Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/13027/recruiter/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
@@ -42,7 +43,6 @@
 | Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
 | Staff Infrastructure Engineer, Cluster Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9654/staff-infrastructure-engineer-cluster-infrastructure/) |
 | Staff Software Engineer, Node Infra | On-site | [View →](https://www.remotejobscan.com/job/9642/staff-software-engineer-node-infra/) |
-| Staff Software Engineer, Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/9640/staff-software-engineer-kubernetes-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
