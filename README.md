@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2271</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
+| Staff+ 软件工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
+| 解决方案产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
+| GenUI产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12900/product-designer-genui/) |
+| 设计系统技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12899/member-of-technical-staff-design-systems/) |
+| 企业开发，交易负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12898/corporate-development-deal-lead/) |
+| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
 | 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | 区域总监，企业销售（DMV） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12894/regional-director-enterprise-sales-dmv/) |
 | 区域企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12893/regional-director-enterprise-sales/) |
@@ -35,13 +42,6 @@
 | 基础设施资本支出会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
 | 高级VIP关系经理，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | 集成营销经理，ChatGPT学生项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12879/integrated-marketing-manager-chatgpt-for-students/) |
-| 业务发展助理（开发者生态系统） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12878/business-development-associate-developer-ecosystem/) |
-| 用户生命周期增长营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12877/growth-marketing-manager-lifecycle/) |
-| CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
-| Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| Anthropic研究员项目，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
-| Anthropic研究员计划，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
