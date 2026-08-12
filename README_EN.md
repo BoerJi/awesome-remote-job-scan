@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2270</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2195</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Impact & Sustainability | Remote | [View →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
+| Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
+| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/12904/product-counsel/) |
-| Backend Engineer (Java) - KYC Tech | Remote | [View →](https://www.remotejobscan.com/job/12903/backend-engineer-java-kyc-tech/) |
 | Strategic Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
 | Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | Solutions Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
@@ -39,9 +42,6 @@
 | Deployment Strategist Lead - Canada | Hybrid | [View →](https://www.remotejobscan.com/job/12890/deployment-strategist-lead-canada/) |
 | Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | Finance & Strategy, Deal Velocity | On-site | [View →](https://www.remotejobscan.com/job/12883/finance-strategy-deal-velocity/) |
-| Office Manager | On-site | [View →](https://www.remotejobscan.com/job/12882/office-manager/) |
-| User Safety & Risk Operations Analyst - Global Response (Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
-| Manager, Infrastructure Capex Accounting | On-site | [View →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 01:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

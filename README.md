@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2270</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2195</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 影响与可持续发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12908/head-of-impact-sustainability/) |
+| 前端工程师，AI可观察性与评估平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12905/frontend-engineer-ai-observability-evals-platform/) |
+| 推理技术支持工程师（印度周末） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| 技术支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12904/product-counsel/) |
-| 后端工程师（Java）- KYC技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12903/backend-engineer-java-kyc-tech/) |
 | 战略云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
 | Staff+ 软件工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | 解决方案产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
@@ -39,9 +42,6 @@
 | 加拿大部署策略主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12890/deployment-strategist-lead-canada/) |
 | 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | 财务与战略、交易速度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12883/finance-strategy-deal-velocity/) |
-| 行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12882/office-manager/) |
-| 用户安全与风险运营分析师 - 全球响应（周末轮班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12881/user-safety-risk-operations-analyst-global-response-weekend-shift/) |
-| 基础设施资本支出会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12880/manager-infrastructure-capex-accounting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 01:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
