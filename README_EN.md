@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2267</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -27,7 +27,6 @@
 | Staff+ Software Engineer, Kubernetes Platform | On-site | [View →](https://www.remotejobscan.com/job/9639/staff-software-engineer-kubernetes-platform/) |
 | Staff+ Software Engineer, Node Infra | On-site | [View →](https://www.remotejobscan.com/job/9641/staff-software-engineer-node-infra/) |
 | Staff+ Infrastructure Engineer, Cluster Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9636/staff-infrastructure-engineer-cluster-infrastructure/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13036/it-support-engineer/) |
 | People Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/12210/people-operations-associate/) |
 | Forward Deployed Engineer, Infrastructure Specialist (Singapore) | Remote | [View →](https://www.remotejobscan.com/job/12731/forward-deployed-engineer-infrastructure-specialist-singapore/) |
 | Sales Development - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/13034/sales-development-southern-europe/) |
@@ -42,6 +41,8 @@
 | Staff Software Engineer, Infrastructure (Distributed Systems) | On-site | [View →](https://www.remotejobscan.com/job/12997/staff-software-engineer-infrastructure-distributed-systems/) |
 | Technical Expert (Unified Account UTA Direction） 技术专家（美股期权 UTA 方向） | Remote | [View →](https://www.remotejobscan.com/job/12148/technical-expert-unified-account-uta-direction-uta/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
+| Live Streaming Growth Operations(Part-time) 直播增长运营（兼职） | Remote | [View →](https://www.remotejobscan.com/job/8937/live-streaming-growth-operationspart-time/) |
+| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
