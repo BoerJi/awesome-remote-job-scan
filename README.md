@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2228</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
+| 搜索引擎架构师（大模型方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12970/job-12970/) |
 | 南亚产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
@@ -41,8 +43,6 @@
 | 中东GTM首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
 | Listing Operation officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
 | CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
-| 制裁顾问专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
-| 高级/资深产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 07:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

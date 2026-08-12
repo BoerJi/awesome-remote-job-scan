@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2228</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Sales Manager | Remote | [View →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
+| 搜索引擎架构师（大模型方向） | Remote | [View →](https://www.remotejobscan.com/job/12970/job-12970/) |
 | Product Marketing Manager - South Asia | Remote | [View →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
@@ -41,8 +43,6 @@
 | GTM Chief of Staff - Middle East | Remote | [View →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
 | Listing Operation officer | Remote | [View →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
 | Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
-| Sanctions Advisory Specialist | Remote | [View →](https://www.remotejobscan.com/job/12912/sanctions-advisory-specialist/) |
-| Senior/Staff Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/9097/seniorstaff-product-manager-user-center/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 07:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
