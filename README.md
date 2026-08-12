@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2251</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2257</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术专家（机器学习工程师，排名质量 - 搜索） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13028/member-of-technical-staff-machine-learning-engineer-ranking-quality-search/) |
+| 计算与基础设施战略交易负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
+| 招聘官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13027/recruiter/) |
 | DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12088/compliance-analyst/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/6859/overseas-operations-manager-p2p/) |
@@ -40,9 +43,6 @@
 | 高级基础设施工程师，集群基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9654/staff-infrastructure-engineer-cluster-infrastructure/) |
 | 高级软件工程师，节点基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9642/staff-software-engineer-node-infra/) |
 | Kubernetes平台高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9640/staff-software-engineer-kubernetes-platform/) |
-| 机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7603/institutional-sales-manager/) |
-| 搜索引擎架构师（大模型方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12970/job-12970/) |
-| 南亚产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12969/product-marketing-manager-south-asia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
