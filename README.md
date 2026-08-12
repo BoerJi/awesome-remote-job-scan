@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2274</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2272</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13102/it-support-engineer/) |
+| 战略金融，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
+| 高级风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13101/senior-risk-manager/) |
+| 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13100/sr-technical-sourcer/) |
+| AI技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13099/technical-recruiter-ai/) |
 | 美国高级VIP关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | 东京高级支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
 | 有益部署客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
@@ -38,11 +43,6 @@
 | 加拿大公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13087/public-sector-partnerships-canada/) |
 | 中东公共部门合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
 | AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| 音视频制作专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
-| 产品营销 - 代理 - 政府 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13068/product-marketing-agents-government/) |
-| 公司发展部副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13065/associate-corporate-development/) |
-| 技术团队成员（多模态软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
-| GPU基础设施软件工程师 - ChatGPT工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

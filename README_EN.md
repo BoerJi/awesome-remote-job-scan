@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2274</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2272</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13102/it-support-engineer/) |
+| Strategic Finance, B2B Product | Hybrid | [View →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
+| Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/13101/senior-risk-manager/) |
+| Sr. Technical Sourcer | On-site | [View →](https://www.remotejobscan.com/job/13100/sr-technical-sourcer/) |
+| Technical Recruiter, AI | On-site | [View →](https://www.remotejobscan.com/job/13099/technical-recruiter-ai/) |
 | Sr. VIP Relationship Manager, US | On-site | [View →](https://www.remotejobscan.com/job/12713/sr-vip-relationship-manager-us/) |
 | Premium Support Engineer (Tokyo) | Remote | [View →](https://www.remotejobscan.com/job/13088/premium-support-engineer-tokyo/) |
 | Manager, Customer Success - Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/13071/manager-customer-success-beneficial-deployments/) |
@@ -37,11 +42,6 @@
 | Public Sector Partnerships - Canada | Remote | [View →](https://www.remotejobscan.com/job/13087/public-sector-partnerships-canada/) |
 | Public Sector Partnerships Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13067/public-sector-partnerships-lead-middle-east/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| AV Production Specialist | On-site | [View →](https://www.remotejobscan.com/job/12016/av-production-specialist/) |
-| Product Marketing - Agents - Government | Remote | [View →](https://www.remotejobscan.com/job/13068/product-marketing-agents-government/) |
-| Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13065/associate-corporate-development/) |
-| Member of Technical Staff (Software Engineer, Multimodal) | On-site | [View →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
-| Software Engineer, GPU Infrastructure - ChatGPT Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/10560/software-engineer-gpu-infrastructure-chatgpt-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
