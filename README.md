@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2231</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
+| 工程经理（技术领导经理，代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
+| 技术团队成员（软件工程师，加速团队） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| 技术专家（软件工程师，API平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
+| API平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
+| 工程站点负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12961/engineering-site-lead/) |
+| 战略财务、B2B合作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10584/strategic-finance-b2b-partnerships/) |
 | 解决方案架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/solutions-architect-nyc/) |
 | 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | 中东GTM首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
@@ -35,13 +42,6 @@
 | 推理技术支持工程师（印度周末） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 | 技术支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12904/product-counsel/) |
-| 战略云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
-| Staff+ 软件工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
-| 解决方案产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
-| GenUI产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12900/product-designer-genui/) |
-| 设计系统技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12899/member-of-technical-staff-design-systems/) |
-| 企业开发，交易负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12898/corporate-development-deal-lead/) |
-| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-12 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

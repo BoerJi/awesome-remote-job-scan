@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2218</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2231</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11644/member-of-technical-staff-ai-software-engineer-agents/) |
+| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
+| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| Member of Technical Staff (Software Engineer, API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
+| Engineering Manager (API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
+| Engineering Site Lead | On-site | [View →](https://www.remotejobscan.com/job/12961/engineering-site-lead/) |
+| Strategic Finance, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/10584/strategic-finance-b2b-partnerships/) |
 | Solutions Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/solutions-architect-nyc/) |
 | Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | GTM Chief of Staff - Middle East | Remote | [View →](https://www.remotejobscan.com/job/12932/gtm-chief-of-staff-middle-east/) |
@@ -35,13 +42,6 @@
 | Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 | Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/12904/product-counsel/) |
-| Strategic Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/12901/strategic-cloud-partner-enablement-lead/) |
-| Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
-| Solutions Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/12902/solutions-product-marketing-manager/) |
-| Product Designer, GenUI | Hybrid | [View →](https://www.remotejobscan.com/job/12900/product-designer-genui/) |
-| Member of Technical Staff, Design Systems | Hybrid | [View →](https://www.remotejobscan.com/job/12899/member-of-technical-staff-design-systems/) |
-| Corporate Development, Deal Lead | Hybrid | [View →](https://www.remotejobscan.com/job/12898/corporate-development-deal-lead/) |
-| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-12 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
