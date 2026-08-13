@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>47</strong> companies · <strong>2243</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>2295</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,31 +23,30 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Head of Applied AI Architects, Beneficial Deployments (Non-profits & Higher Ed) | On-site | [View →](https://www.remotejobscan.com/job/9470/head-of-applied-ai-architects-beneficial-deployments-non-profits-higher-ed/) |
-| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13236/senior-account-executive/) |
-| Senior Associate, Business Development | Remote | [View →](https://www.remotejobscan.com/job/9192/senior-associate-business-development/) |
-| Life Sciences Counsel | On-site | [View →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
-| Security Software Engineer, Detection & Response Platform | On-site | [View →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
-| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
-| Senior University Recruiting Program Manager | On-site | [View →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
-| Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
-| Head of Global Renewals | On-site | [View →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
-| Senior Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/13228/senior-frontend-engineer-ai-observability-evals-platform/) |
-| B2B Growth Marketer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
-| Manager, Web Engineering | On-site | [View →](https://www.remotejobscan.com/job/9501/manager-web-engineering/) |
-| Staff Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
-| Finance & Strategy, Machines (FP&A) | On-site | [View →](https://www.remotejobscan.com/job/13217/finance-strategy-machines-fpa/) |
-| Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
-| Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
-| Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
-| Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
-| Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
-| Strategic Finance Senior Associate - Revenue | On-site | [View →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
+| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
+| Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
+| Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
+| Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
+| Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
+| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
+| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
+| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| Research Analyst Intern | Remote | [View →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
+| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
+| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
+| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
+| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
+| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（47 companies）
+## 🏢 Companies Tracked（49 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -58,6 +57,7 @@
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
+| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
@@ -98,12 +98,13 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
+| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [View jobs →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
