@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
 | PCBA制造工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | 高级资金部助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
 | 高级税务专员，转让定价 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
@@ -42,7 +43,6 @@
 | 高级资金申请经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
 | 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
-| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
