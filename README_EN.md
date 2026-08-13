@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2315</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2314</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
+| Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
+| Strategic Finance Senior Associate - Revenue | On-site | [View →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
+| Senior Associate, Financial Services Partnerships | Remote | [View →](https://www.remotejobscan.com/job/9192/senior-associate-financial-services-partnerships/) |
+| Technical Program Manager, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13215/technical-program-manager-enterprise/) |
+| Technical Program Manager, Cloud AI Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13216/technical-program-manager-cloud-ai-partnerships/) |
+| Full Stack Software Engineer - Codex for Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13214/full-stack-software-engineer-codex-for-finance/) |
+| Technical Recruiter (London, Serbia) | Hybrid | [View →](https://www.remotejobscan.com/job/13211/technical-recruiter-london-serbia/) |
+| ISV Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
+| Partnerships Staff - Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/13209/partnerships-staff-cyber/) |
+| Program Lead, ISV & Marketplace Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13210/program-lead-isv-marketplace-partnerships/) |
 | Solutions Engineer (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
-| Strategic Sourcing Business Partner, G&A | On-site | [View →](https://www.remotejobscan.com/job/13206/strategic-sourcing-business-partner-ga/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 | Senior Technical Account Manager | Remote | [View →](https://www.remotejobscan.com/job/13204/senior-technical-account-manager/) |
 | Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | Finance & Strategy, Compute Accelerator | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute-accelerator/) |
 | Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | Supply Chain Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
-| Technical Program Manager, Infrastructure Delivery Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13202/technical-program-manager-infrastructure-delivery-operations/) |
-| Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/13193/enterprise-account-executive-digital-native-business-munich/) |
-| Operations Lead — Taiwan | Remote | [View →](https://www.remotejobscan.com/job/13194/operations-lead-taiwan/) |
-| Senior Accountant, Financial Operations | Remote | [View →](https://www.remotejobscan.com/job/13192/senior-accountant-financial-operations/) |
-| Internal Control Analyst | Remote | [View →](https://www.remotejobscan.com/job/13185/internal-control-analyst/) |
-| Senior Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
-| Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
-| Key Account VIP BD | Remote | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
-| Senior CS System Analyst (Support Systems & Automation Analyst) | Remote | [View →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
-| Member of Technical Staff, Agentic Environments | Remote | [View →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

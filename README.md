@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2314</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理与后训练前沿部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
+| 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
+| 战略财务高级分析师 - 收入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
+| 高级助理，金融服务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9192/senior-associate-financial-services-partnerships/) |
+| 企业技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13215/technical-program-manager-enterprise/) |
+| 云AI合作伙伴技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13216/technical-program-manager-cloud-ai-partnerships/) |
+| 全栈软件工程师 - Codex for Finance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13214/full-stack-software-engineer-codex-for-finance/) |
+| 技术招聘专员（伦敦，塞尔维亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13211/technical-recruiter-london-serbia/) |
+| ISV合作伙伴关系负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
+| 网络安全合作伙伴团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13209/partnerships-staff-cyber/) |
+| ISV与市场合作伙伴关系项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13210/program-lead-isv-marketplace-partnerships/) |
 | 解决方案工程师（德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
-| G&A战略采购业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13206/strategic-sourcing-business-partner-ga/) |
 | 远程部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 | 高级技术客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13204/senior-technical-account-manager/) |
 | 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | 财务与战略、计算加速器 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute-accelerator/) |
 | 金融服务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| 财务与战略、机器（经理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | 工业计算供应链经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
-| 基础设施交付运营技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13202/technical-program-manager-infrastructure-delivery-operations/) |
-| 企业客户经理，数字原生业务 - 慕尼黑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13193/enterprise-account-executive-digital-native-business-munich/) |
-| 台灣運營主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13194/operations-lead-taiwan/) |
-| 高级会计师，财务运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13192/senior-accountant-financial-operations/) |
-| 内部风控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13185/internal-control-analyst/) |
-| 高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
-| 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
-| 核心客户VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
-| 高级客户支持系统分析师（支持系统与自动化分析师） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
-| 技术团队成员，自主环境 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
