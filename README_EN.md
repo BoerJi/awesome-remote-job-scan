@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2316</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Global Renewals | On-site | [View →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
+| Senior Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/13228/senior-frontend-engineer-ai-observability-evals-platform/) |
+| B2B Growth Marketer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
 | Manager, Web Engineering | On-site | [View →](https://www.remotejobscan.com/job/9501/manager-web-engineering/) |
 | Staff Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
 | Finance & Strategy, Machines (FP&A) | On-site | [View →](https://www.remotejobscan.com/job/13217/finance-strategy-machines-fpa/) |
@@ -40,9 +43,6 @@
 | ISV Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
 | Partnerships Staff - Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/13209/partnerships-staff-cyber/) |
 | Program Lead, ISV & Marketplace Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13210/program-lead-isv-marketplace-partnerships/) |
-| Solutions Engineer (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
-| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
-| Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

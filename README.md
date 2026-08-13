@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球续约负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
+| 高级前端工程师，AI可观测性与评估平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13228/senior-frontend-engineer-ai-observability-evals-platform/) |
+| B2B增长营销经理 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
 | Web工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9501/manager-web-engineering/) |
 | 教育领域高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
 | 财务与战略、机器（财务规划与分析） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13217/finance-strategy-machines-fpa/) |
@@ -40,9 +43,6 @@
 | ISV合作伙伴关系负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
 | 网络安全合作伙伴团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13209/partnerships-staff-cyber/) |
 | ISV与市场合作伙伴关系项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13210/program-lead-isv-marketplace-partnerships/) |
-| 解决方案工程师（德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
-| 远程部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
-| 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
