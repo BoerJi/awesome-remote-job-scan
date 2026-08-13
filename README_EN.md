@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2296</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2293</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
+| Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
+| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
 | PCBA Manufacturing Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | Senior Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
@@ -40,9 +43,6 @@
 | Strategic Sourcing Manager, Data Center Infrastructure: Electrical | On-site | [View →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
 | Forward Deployed Engineer - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
 | Commercial Operations Program Manager | Remote | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
-| Sr. Manager, Cash Application | On-site | [View →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
-| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

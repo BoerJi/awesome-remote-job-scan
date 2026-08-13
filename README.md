@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2296</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2293</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
+| Financial Product Manager 金融产品经理（衍生品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
+| Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
 | PCBA制造工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | 高级资金部助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
@@ -40,9 +43,6 @@
 | 数据中心基础设施电气战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
 | 悉尼前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
 | 商业运营项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
-| 高级资金申请经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
-| 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
-| 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
