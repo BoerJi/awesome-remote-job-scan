@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2293</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2294</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 | Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | Senior Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
 | Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
@@ -40,9 +43,6 @@
 | Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
 | Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| Strategic Sourcing Manager, Data Center Infrastructure: Electrical | On-site | [View →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
-| Forward Deployed Engineer - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
