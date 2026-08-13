@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2294</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Systems & Process Transformation Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/13170/hr-systems-process-transformation-senior-manager/) |
+| GTM Strategy & Operations Lead, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/13174/gtm-strategy-operations-lead-ads-solutions/) |
+| B2B Field Marketer - EMEA | Remote | [View →](https://www.remotejobscan.com/job/13175/b2b-field-marketer-emea/) |
+| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
+| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
+| Binance Accelerator Program - Global Affiliate BD | Remote | [View →](https://www.remotejobscan.com/job/13171/binance-accelerator-program-global-affiliate-bd/) |
 | Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | Senior Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
 | Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
@@ -37,12 +43,6 @@
 | Engineering Manager, Artifacts | Hybrid | [View →](https://www.remotejobscan.com/job/13158/engineering-manager-artifacts/) |
 | Machine Learning Engineer, API Multicloud | On-site | [View →](https://www.remotejobscan.com/job/13152/machine-learning-engineer-api-multicloud/) |
 | Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/12806/key-account-manager/) |
-| Binance Accelerator Program - LLM Recommendation & Agentic AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/13143/binance-accelerator-program-llm-recommendation-agentic-ai-engineer/) |
-| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
-| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
-| Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
-| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
