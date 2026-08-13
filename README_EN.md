@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2322</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Applied AI Architects, Beneficial Deployments (Non-profits & Higher Ed) | On-site | [View →](https://www.remotejobscan.com/job/9470/head-of-applied-ai-architects-beneficial-deployments-non-profits-higher-ed/) |
+| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13236/senior-account-executive/) |
+| Senior Associate, Business Development | Remote | [View →](https://www.remotejobscan.com/job/9192/senior-associate-business-development/) |
+| Life Sciences Counsel | On-site | [View →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
 | Security Software Engineer, Detection & Response Platform | On-site | [View →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
 | Senior University Recruiting Program Manager | On-site | [View →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
@@ -39,15 +43,11 @@
 | Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
 | Strategic Finance Senior Associate - Revenue | On-site | [View →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
-| Technical Program Manager, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13215/technical-program-manager-enterprise/) |
-| Technical Program Manager, Cloud AI Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13216/technical-program-manager-cloud-ai-partnerships/) |
-| Full Stack Software Engineer - Codex for Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13214/full-stack-software-engineer-codex-for-finance/) |
-| Technical Recruiter (London, Serbia) | Hybrid | [View →](https://www.remotejobscan.com/job/13211/technical-recruiter-london-serbia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -98,13 +98,12 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
-| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [View jobs →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2322</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，有益部署（非营利与高等教育）负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9470/head-of-applied-ai-architects-beneficial-deployments-non-profits-higher-ed/) |
+| 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13236/senior-account-executive/) |
+| 高级业务发展助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9192/senior-associate-business-development/) |
+| 生命科学顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
 | 安全软件工程师，检测与响应平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
 | 高级大学招聘项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
@@ -39,15 +43,11 @@
 | 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
 | 战略财务高级分析师 - 收入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
-| 企业技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13215/technical-program-manager-enterprise/) |
-| 云AI合作伙伴技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13216/technical-program-manager-cloud-ai-partnerships/) |
-| 全栈软件工程师 - Codex for Finance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13214/full-stack-software-engineer-codex-for-finance/) |
-| 技术招聘专员（伦敦，塞尔维亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13211/technical-recruiter-london-serbia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（47 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -98,13 +98,12 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [查看职位 →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [查看职位 →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [查看职位 →](https://www.remotejobscan.com/?company=united-stables) |
-| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [查看职位 →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
