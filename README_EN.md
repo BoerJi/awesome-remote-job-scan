@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2288</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2294</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
+| Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
+| Engineering Manager, Artifacts | Hybrid | [View →](https://www.remotejobscan.com/job/13158/engineering-manager-artifacts/) |
+| Machine Learning Engineer, API Multicloud | On-site | [View →](https://www.remotejobscan.com/job/13152/machine-learning-engineer-api-multicloud/) |
 | Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/12806/key-account-manager/) |
 | Binance Accelerator Program - LLM Recommendation & Agentic AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/13143/binance-accelerator-program-llm-recommendation-agentic-ai-engineer/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
@@ -39,10 +43,6 @@
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 | Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
-| Partner Director, McKinsey Alliance | On-site | [View →](https://www.remotejobscan.com/job/13124/partner-director-mckinsey-alliance/) |
-| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
