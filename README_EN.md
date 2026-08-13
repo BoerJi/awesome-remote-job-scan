@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2294</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2293</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Manager, Cash Application | On-site | [View →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
+| Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
+| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 | Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
@@ -40,8 +43,6 @@
 | Global Benefits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
 | Martech Engineer | Remote | [View →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
-| Internal Audit Financial Crime & Conduct Manager | Remote | [View →](https://www.remotejobscan.com/job/13105/internal-audit-financial-crime-conduct-manager/) |
-| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/13107/internal-audit-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

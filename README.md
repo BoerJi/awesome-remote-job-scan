@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2294</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2293</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级资金申请经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
+| 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
+| 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 | 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
@@ -40,8 +43,6 @@
 | 全球福利主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
 | Martech工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
-| 内部审计金融犯罪与行为经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13105/internal-audit-financial-crime-conduct-manager/) |
-| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13107/internal-audit-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
