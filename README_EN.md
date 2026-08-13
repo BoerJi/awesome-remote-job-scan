@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2291</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2289</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Sourcing Manager, Data Center Infrastructure: Electrical | On-site | [View →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
+| Forward Deployed Engineer - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
+| Commercial Operations Program Manager | Remote | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
 | Sr. Manager, Cash Application | On-site | [View →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
 | Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
@@ -40,9 +43,6 @@
 | Business Development, APAC | Remote | [View →](https://www.remotejobscan.com/job/13117/business-development-apac/) |
 | Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | Integrated Marketing Manager, Government | Hybrid | [View →](https://www.remotejobscan.com/job/13114/integrated-marketing-manager-government/) |
-| Global Benefits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
-| Martech Engineer | Remote | [View →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

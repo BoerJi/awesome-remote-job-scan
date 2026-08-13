@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2291</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2289</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心基础设施电气战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
+| 悉尼前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
+| 商业运营项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
 | 高级资金申请经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13073/sr-manager-cash-application/) |
 | 云合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
@@ -40,9 +43,6 @@
 | 亚太区业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13117/business-development-apac/) |
 | 货币与银行运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | 政府整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13114/integrated-marketing-manager-government/) |
-| 全球福利主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
-| Martech工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13110/martech-engineer/) |
-| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13104/forward-deployed-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
