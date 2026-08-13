@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2311</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2310</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
+| Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
+| Supply Chain Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
+| Technical Program Manager, Infrastructure Delivery Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13202/technical-program-manager-infrastructure-delivery-operations/) |
 | Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/13193/enterprise-account-executive-digital-native-business-munich/) |
 | Operations Lead — Taiwan | Remote | [View →](https://www.remotejobscan.com/job/13194/operations-lead-taiwan/) |
 | Senior Accountant, Financial Operations | Remote | [View →](https://www.remotejobscan.com/job/13192/senior-accountant-financial-operations/) |
@@ -39,10 +43,6 @@
 | Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
-| Binance Accelerator Program - Global Affiliate BD | Remote | [View →](https://www.remotejobscan.com/job/13171/binance-accelerator-program-global-affiliate-bd/) |
-| Senior Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
-| Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
