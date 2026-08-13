@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2307</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2310</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部风控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13185/internal-control-analyst/) |
+| 高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
+| 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 | 核心客户VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 | 高级客户支持系统分析师（支持系统与自动化分析师） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
 | 技术团队成员，自主环境 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
@@ -40,9 +43,6 @@
 | Financial Product Manager 金融产品经理（衍生品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| PCBA制造工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
-| 高级资金部助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
-| 高级税务专员，转让定价 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2307</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2310</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Control Analyst | Remote | [View →](https://www.remotejobscan.com/job/13185/internal-control-analyst/) |
+| Senior Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
+| Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 | Key Account VIP BD | Remote | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 | Senior CS System Analyst (Support Systems & Automation Analyst) | Remote | [View →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
 | Member of Technical Staff, Agentic Environments | Remote | [View →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
@@ -40,9 +43,6 @@
 | Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| PCBA Manufacturing Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
-| Senior Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
-| Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
