@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2293</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2296</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| PCBA Manufacturing Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | Senior Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
 | Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
 | Engineering Manager, Artifacts | Hybrid | [View →](https://www.remotejobscan.com/job/13158/engineering-manager-artifacts/) |
@@ -42,7 +43,6 @@
 | Cloud Partner Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-partner-enablement-lead/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 | Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9283/senior-software-engineer-developer-infrastructure/) |
-| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
