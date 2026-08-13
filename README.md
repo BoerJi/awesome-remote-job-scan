@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2310</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2309</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理，数字原生业务 - 慕尼黑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13193/enterprise-account-executive-digital-native-business-munich/) |
+| 台灣運營主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13194/operations-lead-taiwan/) |
+| 高级会计师，财务运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13192/senior-accountant-financial-operations/) |
 | 内部风控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13185/internal-control-analyst/) |
 | 高级客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
 | 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
@@ -40,9 +43,6 @@
 | 币安加速器计划 - 全球联盟业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13171/binance-accelerator-program-global-affiliate-bd/) |
 | 财务与战略、机器 (经理) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | 高级行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
-| Financial Product Manager 金融产品经理（衍生品） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
-| 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
