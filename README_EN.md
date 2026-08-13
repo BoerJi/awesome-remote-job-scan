@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2289</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2290</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
+| Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
+| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 | Strategic Sourcing Manager, Data Center Infrastructure: Electrical | On-site | [View →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
 | Forward Deployed Engineer - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
 | Commercial Operations Program Manager | Remote | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
@@ -38,11 +43,6 @@
 | Executive Services Program Manager | Remote | [View →](https://www.remotejobscan.com/job/13121/executive-services-program-manager/) |
 | Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
 | Business Development, US | Remote | [View →](https://www.remotejobscan.com/job/13118/business-development-us/) |
-| GTM Strategy & Operations, Overlay | Hybrid | [View →](https://www.remotejobscan.com/job/13119/gtm-strategy-operations-overlay/) |
-| Product Designer II, Design Systems | Remote | [View →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
-| Business Development, APAC | Remote | [View →](https://www.remotejobscan.com/job/13117/business-development-apac/) |
-| Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| Integrated Marketing Manager, Government | Hybrid | [View →](https://www.remotejobscan.com/job/13114/integrated-marketing-manager-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
