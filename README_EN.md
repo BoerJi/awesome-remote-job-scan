@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | Senior Executive Assistant | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant/) |
 | Financial Product Manager 金融产品经理（衍生品） | Remote | [View →](https://www.remotejobscan.com/job/8978/financial-product-manager/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/11717/options-front-end-trading-product-manager/) |
@@ -42,7 +43,6 @@
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 | Strategic Sourcing Manager, Data Center Infrastructure: Electrical | On-site | [View →](https://www.remotejobscan.com/job/13135/strategic-sourcing-manager-data-center-infrastructure-electrical/) |
 | Forward Deployed Engineer - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/13134/forward-deployed-engineer-sydney/) |
-| Commercial Operations Program Manager | Remote | [View →](https://www.remotejobscan.com/job/12875/commercial-operations-program-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
