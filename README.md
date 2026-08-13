@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2314</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2316</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9501/manager-web-engineering/) |
+| 教育领域高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
+| 财务与战略、机器（财务规划与分析） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13217/finance-strategy-machines-fpa/) |
+| 新产品市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
+| 财务与战略、机器（经理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | 推理与后训练前沿部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
@@ -38,11 +43,6 @@
 | 解决方案工程师（德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
 | 远程部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| 高级技术客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13204/senior-technical-account-manager/) |
-| 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
-| 财务与战略、计算加速器 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute-accelerator/) |
-| 金融服务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| 工业计算供应链经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2314</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2316</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Web Engineering | On-site | [View →](https://www.remotejobscan.com/job/9501/manager-web-engineering/) |
+| Staff Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
+| Finance & Strategy, Machines (FP&A) | On-site | [View →](https://www.remotejobscan.com/job/13217/finance-strategy-machines-fpa/) |
+| Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
+| Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
@@ -38,11 +43,6 @@
 | Solutions Engineer (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| Senior Technical Account Manager | Remote | [View →](https://www.remotejobscan.com/job/13204/senior-technical-account-manager/) |
-| Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
-| Finance & Strategy, Compute Accelerator | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute-accelerator/) |
-| Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| Supply Chain Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
