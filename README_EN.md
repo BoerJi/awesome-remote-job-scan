@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2318</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2322</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Software Engineer, Detection & Response Platform | On-site | [View →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
+| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
+| Senior University Recruiting Program Manager | On-site | [View →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
+| Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
 | Head of Global Renewals | On-site | [View →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
 | Senior Frontend Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/13228/senior-frontend-engineer-ai-observability-evals-platform/) |
 | B2B Growth Marketer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
@@ -35,14 +39,10 @@
 | Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
 | Strategic Finance Senior Associate - Revenue | On-site | [View →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
-| Senior Associate, Financial Services Partnerships | Remote | [View →](https://www.remotejobscan.com/job/9192/senior-associate-financial-services-partnerships/) |
 | Technical Program Manager, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13215/technical-program-manager-enterprise/) |
 | Technical Program Manager, Cloud AI Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13216/technical-program-manager-cloud-ai-partnerships/) |
 | Full Stack Software Engineer - Codex for Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13214/full-stack-software-engineer-codex-for-finance/) |
 | Technical Recruiter (London, Serbia) | Hybrid | [View →](https://www.remotejobscan.com/job/13211/technical-recruiter-london-serbia/) |
-| ISV Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
-| Partnerships Staff - Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/13209/partnerships-staff-cyber/) |
-| Program Lead, ISV & Marketplace Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13210/program-lead-isv-marketplace-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

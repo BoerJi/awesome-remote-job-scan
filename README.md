@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2318</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2322</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全软件工程师，检测与响应平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
+| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8409/senior-accountant/) |
+| 高级大学招聘项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
+| 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
 | 全球续约负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
 | 高级前端工程师，AI可观测性与评估平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13228/senior-frontend-engineer-ai-observability-evals-platform/) |
 | B2B增长营销经理 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12067/b2b-growth-marketer-canada/) |
@@ -35,14 +39,10 @@
 | 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
 | 战略财务高级分析师 - 收入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
-| 高级助理，金融服务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9192/senior-associate-financial-services-partnerships/) |
 | 企业技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13215/technical-program-manager-enterprise/) |
 | 云AI合作伙伴技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13216/technical-program-manager-cloud-ai-partnerships/) |
 | 全栈软件工程师 - Codex for Finance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13214/full-stack-software-engineer-codex-for-finance/) |
 | 技术招聘专员（伦敦，塞尔维亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13211/technical-recruiter-london-serbia/) |
-| ISV合作伙伴关系负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
-| 网络安全合作伙伴团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13209/partnerships-staff-cyber/) |
-| ISV与市场合作伙伴关系项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13210/program-lead-isv-marketplace-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
