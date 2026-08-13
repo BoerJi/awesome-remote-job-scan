@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2290</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2288</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/12806/key-account-manager/) |
+| Binance Accelerator Program - LLM Recommendation & Agentic AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/13143/binance-accelerator-program-llm-recommendation-agentic-ai-engineer/) |
+| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
 | Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
 | Financial Product Manager 金融产品经理（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
 | Partner Director, McKinsey Alliance | On-site | [View →](https://www.remotejobscan.com/job/13124/partner-director-mckinsey-alliance/) |
 | Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| Executive Services Program Manager | Remote | [View →](https://www.remotejobscan.com/job/13121/executive-services-program-manager/) |
-| Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
-| Business Development, US | Remote | [View →](https://www.remotejobscan.com/job/13118/business-development-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2290</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2288</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12806/key-account-manager/) |
+| 币安加速器项目 - LLM推荐与代理AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13143/binance-accelerator-program-llm-recommendation-agentic-ai-engineer/) |
+| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
 | Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11664/head-of-live-streaming-business/) |
 | Financial Product Manager 金融产品经理（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8979/financial-product-manager/) |
@@ -40,9 +43,6 @@
 | 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/software-engineer-infrastructure-interpretability/) |
 | 麦肯锡联盟合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13124/partner-director-mckinsey-alliance/) |
 | 知识工作产品营销主管，GTM战略 - Claude for Knowledge Work | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| 高级服务项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13121/executive-services-program-manager/) |
-| 移动端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
-| 美国业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13118/business-development-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
