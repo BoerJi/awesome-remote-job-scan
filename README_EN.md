@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2303</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2307</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Key Account VIP BD | Remote | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| Senior CS System Analyst (Support Systems & Automation Analyst) | Remote | [View →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
+| Member of Technical Staff, Agentic Environments | Remote | [View →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
 | HR Systems & Process Transformation Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/13170/hr-systems-process-transformation-senior-manager/) |
 | GTM Strategy & Operations Lead, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/13174/gtm-strategy-operations-lead-ads-solutions/) |
 | B2B Field Marketer - EMEA | Remote | [View →](https://www.remotejobscan.com/job/13175/b2b-field-marketer-emea/) |
@@ -40,9 +43,6 @@
 | PCBA Manufacturing Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | Senior Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
 | Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
-| Engineering Manager, Artifacts | Hybrid | [View →](https://www.remotejobscan.com/job/13158/engineering-manager-artifacts/) |
-| Machine Learning Engineer, API Multicloud | On-site | [View →](https://www.remotejobscan.com/job/13152/machine-learning-engineer-api-multicloud/) |
-| Key Account Manager | Remote | [View →](https://www.remotejobscan.com/job/12806/key-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

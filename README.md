@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2307</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心客户VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| 高级客户支持系统分析师（支持系统与自动化分析师） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
+| 技术团队成员，自主环境 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
 | 人力资源系统与流程转型高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13170/hr-systems-process-transformation-senior-manager/) |
 | GTM策略与运营负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13174/gtm-strategy-operations-lead-ads-solutions/) |
 | B2B现场营销经理 - EMEA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13175/b2b-field-marketer-emea/) |
@@ -40,9 +43,6 @@
 | PCBA制造工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12111/pcba-manufacturing-engineer/) |
 | 高级资金部助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13154/senior-treasury-associate/) |
 | 高级税务专员，转让定价 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13153/senior-tax-associate-transfer-pricing/) |
-| 文物工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13158/engineering-manager-artifacts/) |
-| 机器学习工程师，API 多云 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13152/machine-learning-engineer-api-multicloud/) |
-| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12806/key-account-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
