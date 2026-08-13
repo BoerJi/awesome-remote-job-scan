@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2310</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Engineer (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
+| Strategic Sourcing Business Partner, G&A | On-site | [View →](https://www.remotejobscan.com/job/13206/strategic-sourcing-business-partner-ga/) |
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
+| Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
+| Senior Technical Account Manager | Remote | [View →](https://www.remotejobscan.com/job/13204/senior-technical-account-manager/) |
+| Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
+| Finance & Strategy, Compute Accelerator | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute-accelerator/) |
 | Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
 | Finance & Strategy, Machines (Manager) | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | Supply Chain Manager, Industrial Compute | Hybrid | [View →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
@@ -36,13 +43,6 @@
 | Key Account VIP BD | Remote | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 | Senior CS System Analyst (Support Systems & Automation Analyst) | Remote | [View →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
 | Member of Technical Staff, Agentic Environments | Remote | [View →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
-| HR Systems & Process Transformation Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/13170/hr-systems-process-transformation-senior-manager/) |
-| GTM Strategy & Operations Lead, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/13174/gtm-strategy-operations-lead-ads-solutions/) |
-| B2B Field Marketer - EMEA | Remote | [View →](https://www.remotejobscan.com/job/13175/b2b-field-marketer-emea/) |
-| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-13 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

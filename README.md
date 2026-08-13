@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2310</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2315</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 解决方案工程师（德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13207/solutions-engineer-texas/) |
+| G&A战略采购业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13206/strategic-sourcing-business-partner-ga/) |
+| 远程部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
+| 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
+| 高级技术客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13204/senior-technical-account-manager/) |
+| 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
+| 财务与战略、计算加速器 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute-accelerator/) |
 | 金融服务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
 | 财务与战略、机器（经理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-machines-manager/) |
 | 工业计算供应链经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13201/supply-chain-manager-industrial-compute/) |
@@ -36,13 +43,6 @@
 | 核心客户VIP业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 | 高级客户支持系统分析师（支持系统与自动化分析师） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
 | 技术团队成员，自主环境 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13176/member-of-technical-staff-agentic-environments/) |
-| 人力资源系统与流程转型高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13170/hr-systems-process-transformation-senior-manager/) |
-| GTM策略与运营负责人，广告解决方案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13174/gtm-strategy-operations-lead-ads-solutions/) |
-| B2B现场营销经理 - EMEA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13175/b2b-field-marketer-emea/) |
-| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| 定价Staff应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-13 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
