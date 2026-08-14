@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2341</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2331</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13307/partner-engineer/) |
 | 越南VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13299/vip-relationship-manager-vietnam/) |
 | 日本区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
 | 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
@@ -42,7 +43,6 @@
 | Web3 Researcher Web3研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12799/web3-researcher-web3/) |
 | 销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13272/sales-director/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13274/product-designer/) |
-| Visual Designer 视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12163/visual-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

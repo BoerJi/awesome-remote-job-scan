@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2341</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2331</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Engineer | On-site | [View →](https://www.remotejobscan.com/job/13307/partner-engineer/) |
 | VIP Relationship Manager, Vietnam | Remote | [View →](https://www.remotejobscan.com/job/13299/vip-relationship-manager-vietnam/) |
 | Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
@@ -42,7 +43,6 @@
 | Web3 Researcher Web3研究员 | Remote | [View →](https://www.remotejobscan.com/job/12799/web3-researcher-web3/) |
 | Sales Director | On-site | [View →](https://www.remotejobscan.com/job/13272/sales-director/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13274/product-designer/) |
-| Visual Designer 视觉设计师 | Remote | [View →](https://www.remotejobscan.com/job/12163/visual-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
