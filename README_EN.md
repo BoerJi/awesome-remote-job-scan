@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2329</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2346</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff DevOps Engineer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/13340/staff-devops-engineer-platform/) |
+| Product Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/13338/product-compliance-manager/) |
+| Engineering Manager - Customer Experience AI | Remote | [View →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
+| Compute Country Lead, Canada | Remote | [View →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
+| Research Engineer, LangSmith Engine | On-site | [View →](https://www.remotejobscan.com/job/13339/research-engineer-langsmith-engine/) |
+| Product Designer, Identity | Hybrid | [View →](https://www.remotejobscan.com/job/13337/product-designer-identity/) |
+| Customer Enablement Lead - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/customer-enablement-lead-builder/) |
+| Product Policy Research and Advisory Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13325/product-policy-research-and-advisory-partnerships/) |
+| Product Marketing Lead, ChatGPT Work | Hybrid | [View →](https://www.remotejobscan.com/job/13323/product-marketing-lead-chatgpt-work/) |
+| Product Marketing Manager, IT Admin and Governance | Hybrid | [View →](https://www.remotejobscan.com/job/13322/product-marketing-manager-it-admin-and-governance/) |
 | Head of Marketing Technology (MarTech) | Hybrid | [View →](https://www.remotejobscan.com/job/13321/head-of-marketing-technology-martech/) |
 | Proposal Manager (Global) | Remote | [View →](https://www.remotejobscan.com/job/13319/proposal-manager-global/) |
 | Finance & Strategy, Machines | On-site | [View →](https://www.remotejobscan.com/job/13217/finance-strategy-machines/) |
@@ -33,14 +43,6 @@
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
 | Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
 | Product Marketing Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
-| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13111/senior-account-executive/) |
-| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/13315/commercial-counsel/) |
-| Government Affairs Lead - Middle East (UAE or Saudi Arabia based) | Hybrid | [View →](https://www.remotejobscan.com/job/13314/government-affairs-lead-middle-east-uae-or-saudi-arabia-based/) |
-| Partner Engineer | On-site | [View →](https://www.remotejobscan.com/job/13307/partner-engineer/) |
-| VIP Relationship Manager, Vietnam | Remote | [View →](https://www.remotejobscan.com/job/13299/vip-relationship-manager-vietnam/) |
-| Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
-| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
