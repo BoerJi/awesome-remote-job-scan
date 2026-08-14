@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2334</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2339</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器计划 - 合规/制裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13286/binance-accelerator-program-compliancesanctions/) |
+| 全栈工程师 - KYC技术（完全远程！） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13287/full-stack-engineer-kyc-tech-fully-remote/) |
+| 云安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13285/cloud-security-engineer/) |
 | 活动运营（初级/应届生） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13284/job-13284/) |
+| Offline DWH Development Engineer 离线数仓开发工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
 | 战略合作伙伴发展、数据与产品合作——有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13279/strategic-partner-development-data-product-partnerships-beneficial-deployments/) |
 | 战略合作伙伴开发、产品合作——半导体 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13280/strategic-partner-development-product-partnerships-semiconductors/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -39,9 +43,6 @@
 | 欧洲合规官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13270/compliance-officer-europe/) |
 | 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
 | 活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
-| 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
-| 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| 网络工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

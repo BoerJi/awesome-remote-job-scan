@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2334</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2339</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Compliance/Sanctions | Remote | [View →](https://www.remotejobscan.com/job/13286/binance-accelerator-program-compliancesanctions/) |
+| Full Stack Engineer - KYC Tech (fully remote!) | Remote | [View →](https://www.remotejobscan.com/job/13287/full-stack-engineer-kyc-tech-fully-remote/) |
+| Cloud Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13285/cloud-security-engineer/) |
 | 活动运营（初级/应届生） | Remote | [View →](https://www.remotejobscan.com/job/13284/job-13284/) |
+| Offline DWH Development Engineer 离线数仓开发工程师 出海 | Remote | [View →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
 | Strategic Partner Development, Data & Product Partnerships – Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/13279/strategic-partner-development-data-product-partnerships-beneficial-deployments/) |
 | Strategic Partner Development, Product Partnerships – Semiconductors | On-site | [View →](https://www.remotejobscan.com/job/13280/strategic-partner-development-product-partnerships-semiconductors/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -39,9 +43,6 @@
 | Compliance Officer, Europe | Hybrid | [View →](https://www.remotejobscan.com/job/13270/compliance-officer-europe/) |
 | PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
 | Campaign Operation | Remote | [View →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
-| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
-| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| Network Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
