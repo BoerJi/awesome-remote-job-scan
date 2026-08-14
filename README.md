@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2339</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2342</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/growth-operations-manager/) |
+| 产品营销经理 — 市场推广执行支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13290/product-marketing-manager-gtm-execution-support/) |
+| 数据工程师，数据基础架构 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13291/data-engineer-data-foundations/) |
 | 币安加速器计划 - 合规/制裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13286/binance-accelerator-program-compliancesanctions/) |
 | 全栈工程师 - KYC技术（完全远程！） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13287/full-stack-engineer-kyc-tech-fully-remote/) |
 | 云安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13285/cloud-security-engineer/) |
@@ -40,9 +43,6 @@
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
 | 支付合作业务发展（数字银行） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 | 关键客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development/) |
-| 欧洲合规官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13270/compliance-officer-europe/) |
-| 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
-| 活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
