@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2353</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2356</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
+| Deployed Architect, Post-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
+| Deployed Architect, Post-Sales (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
+| Deployed Architect, Post-Sales (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
+| Deployed Architect, Post-Sales (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
+| Account Manager, Renewals & Expansion | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
+| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
+| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13348/applied-ai-engineer-digital-natives/) |
+| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13349/account-director-digital-natives/) |
+| Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
+| Technical Specialist, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/13347/technical-specialist-claude-code/) |
 | Product Marketing Lead, Lines of Business & Industries | Hybrid | [View →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
 | Staff + Senior Software Engineer, Inference Deployment | On-site | [View →](https://www.remotejobscan.com/job/9658/staff-senior-software-engineer-inference-deployment/) |
 | Staff + Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference/) |
@@ -31,18 +42,6 @@
 | Finance Systems Engineer, Finance and Strategy | On-site | [View →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
 | Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
 | Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/9074/product-counsel/) |
-| Integrated Marketing Manager, Brand & Customer | Hybrid | [View →](https://www.remotejobscan.com/job/13346/integrated-marketing-manager-brand-customer/) |
-| Demo Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13345/demo-studio-lead/) |
-| Strategic Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/13342/strategic-account-executive-industries/) |
-| IP Counsel, Patents | On-site | [View →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
-| Staff DevOps Engineer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/13340/staff-devops-engineer-platform/) |
-| Product Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/13338/product-compliance-manager/) |
-| Engineering Manager - Customer Experience AI | Remote | [View →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
-| Compute Country Lead, Canada | Remote | [View →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
-| Research Engineer, LangSmith Engine | On-site | [View →](https://www.remotejobscan.com/job/13339/research-engineer-langsmith-engine/) |
-| Product Designer, Identity | Hybrid | [View →](https://www.remotejobscan.com/job/13337/product-designer-identity/) |
-| Customer Enablement Lead - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/customer-enablement-lead-builder/) |
-| Product Policy Research and Advisory Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13325/product-policy-research-and-advisory-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

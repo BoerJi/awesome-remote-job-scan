@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2353</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2356</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 部署架构师，售后支持（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
+| 部署架构师，售後支持（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
+| 部署架构师，售后（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
+| 部署架构师，售后（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
+| 部署架构师，售后（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
+| 续约与拓展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
+| 定价 Staff 应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
+| 应用AI工程师，数字原住民 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13348/applied-ai-engineer-digital-natives/) |
+| 数字原生客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13349/account-director-digital-natives/) |
+| 前派驻工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
+| Claude代码技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13347/technical-specialist-claude-code/) |
 | 业务与行业产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
 | 高级+员工软件工程师，推理部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9658/staff-senior-software-engineer-inference-deployment/) |
 | 推理方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference/) |
@@ -31,18 +42,6 @@
 | 财务系统工程师，财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
 | 运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
 | 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9074/product-counsel/) |
-| 整合营销经理，品牌与客户 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13346/integrated-marketing-manager-brand-customer/) |
-| 演示工作室负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13345/demo-studio-lead/) |
-| 战略行业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13342/strategic-account-executive-industries/) |
-| 知识产权顾问，专利 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
-| 高级平台DevOps工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13340/staff-devops-engineer-platform/) |
-| 产品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13338/product-compliance-manager/) |
-| 客户体验AI工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
-| 加拿大计算国家负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
-| LangSmith引擎研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13339/research-engineer-langsmith-engine/) |
-| 产品设计师，身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13337/product-designer-identity/) |
-| 客户赋能主管 - 构建者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13324/customer-enablement-lead-builder/) |
-| 产品政策研究与顾问合作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13325/product-policy-research-and-advisory-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
