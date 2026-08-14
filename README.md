@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2330</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2333</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略合作伙伴发展、数据与产品合作——有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13279/strategic-partner-development-data-product-partnerships-beneficial-deployments/) |
+| 战略合作伙伴开发、产品合作——半导体 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13280/strategic-partner-development-product-partnerships-semiconductors/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| 资金官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
+| Web3 Researcher Web3研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12799/web3-researcher-web3/) |
 | 销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13272/sales-director/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13274/product-designer/) |
 | Visual Designer 视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12163/visual-designer/) |
@@ -37,11 +42,6 @@
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | 网络工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 | 法律运营助理，运营管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| 客户项目经理，联合营销与衡量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
-| 社区与企业营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
-| 产品设计师，设计系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13256/product-designer-design-systems/) |
-| 产品市场运营经理，研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
-| 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

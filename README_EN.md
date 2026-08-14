@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2330</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2333</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Partner Development, Data & Product Partnerships – Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/13279/strategic-partner-development-data-product-partnerships-beneficial-deployments/) |
+| Strategic Partner Development, Product Partnerships – Semiconductors | On-site | [View →](https://www.remotejobscan.com/job/13280/strategic-partner-development-product-partnerships-semiconductors/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| Treasury Officer | Remote | [View →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
+| Web3 Researcher Web3研究员 | Remote | [View →](https://www.remotejobscan.com/job/12799/web3-researcher-web3/) |
 | Sales Director | On-site | [View →](https://www.remotejobscan.com/job/13272/sales-director/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13274/product-designer/) |
 | Visual Designer 视觉设计师 | Remote | [View →](https://www.remotejobscan.com/job/12163/visual-designer/) |
@@ -37,11 +42,6 @@
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | Network Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
-| Head of Community, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
-| Product Designer, Design Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13256/product-designer-design-systems/) |
-| Product Marketing Operations Manager, Research | On-site | [View →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
-| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
