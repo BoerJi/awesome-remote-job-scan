@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2316</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2335</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Network Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13261/network-engineer/) |
+| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
+| Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
+| Head of Community, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
+| Product Designer, Design Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13256/product-designer-design-systems/) |
+| Product Marketing Operations Manager, Research | On-site | [View →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
+| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
+| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
+| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| Partner Marketing Manager, Launches | On-site | [View →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
+| Compute Country Lead, Canada | Remote | [View →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
 | Head of Deal Strategy, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/13245/head-of-deal-strategy-apac/) |
 | Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
@@ -31,17 +42,6 @@
 | Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
 | Senior Software Engineer - Frontend - Coinbase Card team | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
 | Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| Commercial Account Manager | On-site | [View →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
-| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13240/technical-deployment-lead/) |
-| Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Senior Manager, Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architect/) |
-| Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| People Operations Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
-| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| Account Executive, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
-| Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
-| Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

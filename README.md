@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2335</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13261/network-engineer/) |
+| 法律运营助理，运营管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
+| 客户项目经理，联合营销与衡量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
+| 社区与企业营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
+| 产品设计师，设计系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13256/product-designer-design-systems/) |
+| 产品市场运营经理，研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
+| 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
+| 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
+| 产品营销主管，GTM策略 - Claude知识工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| 合作伙伴营销经理，发布 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
+| 加拿大计算国家负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
 | 亚太区交易策略负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13245/head-of-deal-strategy-apac/) |
 | 嵌入式产品运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | 系统集成商合作伙伴赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
@@ -31,16 +42,6 @@
 | 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
 | 高级前端工程师 - Coinbase Card团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
 | Next.js技术团队经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| 商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/commercial-account-manager/) |
-| 技术部署负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13240/technical-deployment-lead/) |
-| 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| 解决方案架构高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architect/) |
-| 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| 人事运营集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
-| 大中华区合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| 社区工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12051/community-engineer/) |
-| 技术团队成员，内部代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
