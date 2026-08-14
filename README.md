@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2336</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2335</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | 增长运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/growth-operations-manager/) |
 | 产品营销经理 — 市场推广执行支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13290/product-marketing-manager-gtm-execution-support/) |
@@ -42,7 +43,6 @@
 | Visual Designer 视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12163/visual-designer/) |
 | 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
-| 支付合作业务发展（数字银行） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

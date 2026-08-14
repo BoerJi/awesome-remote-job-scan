@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2336</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2335</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/11524/spot-onchain-product-operations/) |
 | Growth Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/11589/growth-operations-manager/) |
 | Product Marketing Manager — GTM Execution Support | Remote | [View →](https://www.remotejobscan.com/job/13290/product-marketing-manager-gtm-execution-support/) |
@@ -42,7 +43,6 @@
 | Visual Designer 视觉设计师 | Remote | [View →](https://www.remotejobscan.com/job/12163/visual-designer/) |
 | Listing Operation officer | Remote | [View →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
-| Payment Partnership BD (Digital Bank) | Remote | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
