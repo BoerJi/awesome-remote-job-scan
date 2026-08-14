@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13313/senior-account-executive/) |
 | 合作伙伴工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13307/partner-engineer/) |
 | 越南VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13299/vip-relationship-manager-vietnam/) |
 | 日本区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
@@ -42,7 +43,6 @@
 | 资金官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 | Web3 Researcher Web3研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12799/web3-researcher-web3/) |
 | 销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13272/sales-director/) |
-| Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13274/product-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

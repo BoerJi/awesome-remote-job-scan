@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13313/senior-account-executive/) |
 | Partner Engineer | On-site | [View →](https://www.remotejobscan.com/job/13307/partner-engineer/) |
 | VIP Relationship Manager, Vietnam | Remote | [View →](https://www.remotejobscan.com/job/13299/vip-relationship-manager-vietnam/) |
 | Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/11582/account-executive-japan/) |
@@ -42,7 +43,6 @@
 | Treasury Officer | Remote | [View →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 | Web3 Researcher Web3研究员 | Remote | [View →](https://www.remotejobscan.com/job/12799/web3-researcher-web3/) |
 | Sales Director | On-site | [View →](https://www.remotejobscan.com/job/13272/sales-director/) |
-| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13274/product-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
