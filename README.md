@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2357</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2361</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级顾问，AI产品（企业/API） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
+| 专业服务商业主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13359/professional-services-commercial-lead/) |
+| IT支持工程师，应用管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
+| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
+| AI运营工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
+| 战略业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
+| 全球技术合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
 | 纽约销售主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
 | 市场营销活动制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
 | 部署架构师，售后支持（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
@@ -35,13 +42,6 @@
 | 应用AI工程师，数字原住民 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13348/applied-ai-engineer-digital-natives/) |
 | 数字原生客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13349/account-director-digital-natives/) |
 | 前派驻工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
-| Claude代码技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13347/technical-specialist-claude-code/) |
-| 业务与行业产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
-| 高级+员工软件工程师，推理部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9658/staff-senior-software-engineer-inference-deployment/) |
-| 推理方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference/) |
-| 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| API模型与研究产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
-| 财务系统工程师，财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2357</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2361</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Counsel, AI Product (Enterprise/API) | Hybrid | [View →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
+| Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13359/professional-services-commercial-lead/) |
+| IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
+| Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
+| AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
+| Strategic Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
+| Global Technology Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
 | Sales Leader (New York) | Hybrid | [View →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
 | Marketing Events Producer | On-site | [View →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
 | Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
@@ -35,13 +42,6 @@
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13348/applied-ai-engineer-digital-natives/) |
 | Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13349/account-director-digital-natives/) |
 | Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
-| Technical Specialist, Claude Code | On-site | [View →](https://www.remotejobscan.com/job/13347/technical-specialist-claude-code/) |
-| Product Marketing Lead, Lines of Business & Industries | Hybrid | [View →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
-| Staff + Senior Software Engineer, Inference Deployment | On-site | [View →](https://www.remotejobscan.com/job/9658/staff-senior-software-engineer-inference-deployment/) |
-| Staff + Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference/) |
-| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| Product Marketing Lead, API Models & Research | Hybrid | [View →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
-| Finance Systems Engineer, Finance and Strategy | On-site | [View →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
