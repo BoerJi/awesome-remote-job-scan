@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2346</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2354</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Lead, Lines of Business & Industries | Hybrid | [View →](https://www.remotejobscan.com/job/12680/product-marketing-lead-lines-of-business-industries/) |
+| Staff + Senior Software Engineer, Inference Deployment | On-site | [View →](https://www.remotejobscan.com/job/9658/staff-senior-software-engineer-inference-deployment/) |
+| Staff + Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference/) |
+| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
+| Product Marketing Lead, API Models & Research | Hybrid | [View →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
+| Finance Systems Engineer, Finance and Strategy | On-site | [View →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
+| Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
+| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/9074/product-counsel/) |
+| Integrated Marketing Manager, Brand & Customer | Hybrid | [View →](https://www.remotejobscan.com/job/13346/integrated-marketing-manager-brand-customer/) |
+| Demo Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13345/demo-studio-lead/) |
 | Strategic Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/13342/strategic-account-executive-industries/) |
 | IP Counsel, Patents | On-site | [View →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
 | Staff DevOps Engineer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/13340/staff-devops-engineer-platform/) |
@@ -33,16 +43,6 @@
 | Product Designer, Identity | Hybrid | [View →](https://www.remotejobscan.com/job/13337/product-designer-identity/) |
 | Customer Enablement Lead - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/customer-enablement-lead-builder/) |
 | Product Policy Research and Advisory Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13325/product-policy-research-and-advisory-partnerships/) |
-| Product Marketing Lead, ChatGPT Work | Hybrid | [View →](https://www.remotejobscan.com/job/13323/product-marketing-lead-chatgpt-work/) |
-| Product Marketing Manager, IT Admin and Governance | Hybrid | [View →](https://www.remotejobscan.com/job/13322/product-marketing-manager-it-admin-and-governance/) |
-| Head of Marketing Technology (MarTech) | Hybrid | [View →](https://www.remotejobscan.com/job/13321/head-of-marketing-technology-martech/) |
-| Proposal Manager (Global) | Remote | [View →](https://www.remotejobscan.com/job/13319/proposal-manager-global/) |
-| Finance & Strategy, Machines | On-site | [View →](https://www.remotejobscan.com/job/13217/finance-strategy-machines/) |
-| Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
-| Head of Community, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
-| Partner Marketing Manager, Launches | On-site | [View →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
-| Product Marketing Operations Manager, Research | On-site | [View →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
-| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
