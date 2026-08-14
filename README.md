@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略行业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13342/strategic-account-executive-industries/) |
+| 知识产权顾问，专利 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
 | 高级平台DevOps工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13340/staff-devops-engineer-platform/) |
 | 产品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13338/product-compliance-manager/) |
 | 客户体验AI工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
@@ -41,8 +43,6 @@
 | 合作伙伴市场经理，发布 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
 | 产品营销运营经理，研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
 | 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| 产品营销主管，GTM策略 - 知识工作者Claude | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| 产品营销运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

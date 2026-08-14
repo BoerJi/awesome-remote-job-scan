@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/13342/strategic-account-executive-industries/) |
+| IP Counsel, Patents | On-site | [View →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
 | Staff DevOps Engineer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/13340/staff-devops-engineer-platform/) |
 | Product Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/13338/product-compliance-manager/) |
 | Engineering Manager - Customer Experience AI | Remote | [View →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
@@ -41,8 +43,6 @@
 | Partner Marketing Manager, Launches | On-site | [View →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
 | Product Marketing Operations Manager, Research | On-site | [View →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| Product Marketing Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/12967/product-marketing-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
