@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2333</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2334</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 活动运营（初级/应届生） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13284/job-13284/) |
 | 战略合作伙伴发展、数据与产品合作——有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13279/strategic-partner-development-data-product-partnerships-beneficial-deployments/) |
 | 战略合作伙伴开发、产品合作——半导体 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13280/strategic-partner-development-product-partnerships-semiconductors/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -41,7 +42,6 @@
 | 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | 网络工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13261/network-engineer/) |
-| 法律运营助理，运营管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 05:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 06:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
