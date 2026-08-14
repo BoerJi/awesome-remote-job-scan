@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2356</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2357</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 纽约销售主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
+| 市场营销活动制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
 | 部署架构师，售后支持（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
 | 部署架构师，售後支持（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
 | 部署架构师，售后（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
@@ -40,8 +42,6 @@
 | 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | API模型与研究产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
 | 财务系统工程师，财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
-| 运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
-| 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9074/product-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2356</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2357</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Leader (New York) | Hybrid | [View →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
+| Marketing Events Producer | On-site | [View →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
 | Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
 | Deployed Architect, Post-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
 | Deployed Architect, Post-Sales (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
@@ -40,8 +42,6 @@
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | Product Marketing Lead, API Models & Research | Hybrid | [View →](https://www.remotejobscan.com/job/12681/product-marketing-lead-api-models-research/) |
 | Finance Systems Engineer, Finance and Strategy | On-site | [View →](https://www.remotejobscan.com/job/13343/finance-systems-engineer-finance-and-strategy/) |
-| Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9234/operations-senior-associate/) |
-| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/9074/product-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
