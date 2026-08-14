@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2333</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2330</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13272/sales-director/) |
+| Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13274/product-designer/) |
+| Visual Designer 视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12163/visual-designer/) |
+| 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
+| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
+| 支付合作业务发展（数字银行） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
+| 关键客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development/) |
+| 欧洲合规官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13270/compliance-officer-europe/) |
 | 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
 | 活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
 | 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| 资金管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 | 网络工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 | 法律运营助理，运营管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | 客户项目经理，联合营销与衡量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
@@ -35,13 +42,6 @@
 | 产品设计师，设计系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13256/product-designer-design-systems/) |
 | 产品市场运营经理，研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| 知识工作者产品营销经理 - 核心产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| 产品营销主管，GTM策略 - Claude知识工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| 合作伙伴营销经理，发布 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
-| 加拿大计算国家负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
-| 亚太区交易策略负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13245/head-of-deal-strategy-apac/) |
-| 嵌入式产品运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
-| 系统集成商合作伙伴赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-14 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

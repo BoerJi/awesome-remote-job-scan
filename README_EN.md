@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2333</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2330</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Director | On-site | [View →](https://www.remotejobscan.com/job/13272/sales-director/) |
+| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13274/product-designer/) |
+| Visual Designer 视觉设计师 | Remote | [View →](https://www.remotejobscan.com/job/12163/visual-designer/) |
+| Listing Operation officer | Remote | [View →](https://www.remotejobscan.com/job/12918/listing-operation-officer/) |
+| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
+| Payment Partnership BD (Digital Bank) | Remote | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
+| Key Account VIP Business Development | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development/) |
+| Compliance Officer, Europe | Hybrid | [View →](https://www.remotejobscan.com/job/13270/compliance-officer-europe/) |
 | PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
 | Campaign Operation | Remote | [View →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| Treasury Officer | On-site | [View →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 | Network Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
@@ -35,13 +42,6 @@
 | Product Designer, Design Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13256/product-designer-design-systems/) |
 | Product Marketing Operations Manager, Research | On-site | [View →](https://www.remotejobscan.com/job/13247/product-marketing-operations-manager-research/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/13125/product-marketing-manager-knowledge-work-core-products/) |
-| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/13122/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| Partner Marketing Manager, Launches | On-site | [View →](https://www.remotejobscan.com/job/13246/partner-marketing-manager-launches/) |
-| Compute Country Lead, Canada | Remote | [View →](https://www.remotejobscan.com/job/12853/compute-country-lead-canada/) |
-| Head of Deal Strategy, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/13245/head-of-deal-strategy-apac/) |
-| Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
-| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
