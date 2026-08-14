@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2335</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2333</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
+| Campaign Operation | Remote | [View →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
+| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
+| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
+| Treasury Officer | On-site | [View →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 | Network Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13261/network-engineer/) |
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
@@ -37,11 +42,6 @@
 | Head of Deal Strategy, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/13245/head-of-deal-strategy-apac/) |
 | Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13131/partner-enablement-lead-system-integrators/) |
-| Product and Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/11138/product-and-solutions-marketing-manager/) |
-| Forward Deployed Engineer - Software Engineer - North America | Remote | [View →](https://www.remotejobscan.com/job/13244/forward-deployed-engineer-software-engineer-north-america/) |
-| Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
-| Senior Software Engineer - Frontend - Coinbase Card team | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-software-engineer-frontend-coinbase-card-team/) |
-| Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-14 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
