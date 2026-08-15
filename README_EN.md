@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2365</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2377</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
+| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Global Intelligence Analyst | Remote | [View →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
+| Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
+| Senior Counsel, Product | Remote | [View →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
+| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
+| Senior Counsel, Shareholder Litigation | Remote | [View →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
+| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| AMLCO & Senior Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
+| Paralegal, Litigation | Remote | [View →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
+| Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| Sr. Executive Sourcer | Hybrid | [View →](https://www.remotejobscan.com/job/13391/sr-executive-sourcer/) |
+| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
 | Pre-training Distributed Systems Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
 | Optical Interconnect System Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13385/optical-interconnect-system-engineer/) |
-| Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
-| Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| Executive Support Senior Program Manager, Tech Advisor | Remote | [View →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
-| Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
-| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| Manager, Corporate Network Engineering | On-site | [View →](https://www.remotejobscan.com/job/13381/manager-corporate-network-engineering/) |
-| AI Support Engineer - Toronto | Remote | [View →](https://www.remotejobscan.com/job/13379/ai-support-engineer-toronto/) |
-| Senior Support Engineer - Toronto | Remote | [View →](https://www.remotejobscan.com/job/13378/senior-support-engineer-toronto/) |
-| Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
-| Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
-| IT Software Architect, Software Governance and GTM Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
-| Software Engineer, Compute Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/10286/software-engineer-compute-infrastructure/) |
-| Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
-| Senior Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/13371/senior-counsel-commercial-infrastructure/) |
-| Strategy & Operations Lead, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13366/strategy-operations-lead-enterprise-marketing/) |
-| Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/13365/staff-software-engineer-safeguards-data/) |
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

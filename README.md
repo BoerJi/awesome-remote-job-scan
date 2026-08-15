@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2365</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2377</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
+| 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| Forward Deployed Engineer, Legal [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| 全球情报分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
+| 合规、威胁与风险评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
+| 高级产品法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
+| 商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| 诉讼律师助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
+| 高级律师，股东诉讼 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
+| 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| 反洗钱合规主管及高级合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
+| 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
+| 金融服务法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| 高级执行招聘师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13391/sr-executive-sourcer/) |
+| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | 机器财务与战略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
 | 预训练分布式系统技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
 | 光学互连系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13385/optical-interconnect-system-engineer/) |
-| 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
-| 特定期货与银行运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| 高管支持高级项目经理，技术顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
-| 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
-| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| 企业网络工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13381/manager-corporate-network-engineering/) |
-| AI支持工程师 - 多伦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13379/ai-support-engineer-toronto/) |
-| 高级支持工程师 - 多伦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13378/senior-support-engineer-toronto/) |
-| 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
-| 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
-| IT软件架构师，软件治理和GTM系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
-| 计算基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10286/software-engineer-compute-infrastructure/) |
-| 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
-| 高级商法顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13371/senior-counsel-commercial-infrastructure/) |
-| 企业营销策略与运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13366/strategy-operations-lead-enterprise-marketing/) |
-| Staff+ 软件工程师，安全防护数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13365/staff-software-engineer-safeguards-data/) |
-| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
