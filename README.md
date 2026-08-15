@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2375</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程实习生（2027年夏季） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13413/software-engineering-intern-summer-2027/) |
 | 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | Forward Deployed Engineer, Legal [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
@@ -42,7 +43,6 @@
 | Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | 机器财务与战略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
 | 预训练分布式系统技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
-| 光学互连系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13385/optical-interconnect-system-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

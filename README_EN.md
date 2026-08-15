@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2375</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2376</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineering Intern (Summer 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/13413/software-engineering-intern-summer-2027/) |
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
@@ -42,7 +43,6 @@
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
 | Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
 | Pre-training Distributed Systems Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
-| Optical Interconnect System Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13385/optical-interconnect-system-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
