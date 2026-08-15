@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2382</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
+| Pre-training Distributed Systems Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
+| Optical Interconnect System Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13385/optical-interconnect-system-engineer/) |
 | Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | Executive Support Senior Program Manager, Tech Advisor | Remote | [View →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
@@ -40,9 +43,6 @@
 | Strategy & Operations Lead, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13366/strategy-operations-lead-enterprise-marketing/) |
 | Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/13365/staff-software-engineer-safeguards-data/) |
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
-| Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
-| Staff+ Software Engineer, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/13357/staff-software-engineer-grc-platform/) |
-| Senior Counsel, AI Product (Enterprise/API) | Hybrid | [View →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

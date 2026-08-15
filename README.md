@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2378</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2382</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机器财务与战略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
+| 预训练分布式系统技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
+| 光学互连系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13385/optical-interconnect-system-engineer/) |
 | 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | 特定期货与银行运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | 高管支持高级项目经理，技术顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
@@ -40,9 +43,6 @@
 | 企业营销策略与运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13366/strategy-operations-lead-enterprise-marketing/) |
 | Staff+ 软件工程师，安全防护数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13365/staff-software-engineer-safeguards-data/) |
 | 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
-| 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
-| Staff+ 软件工程师，GRC 平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13357/staff-software-engineer-grc-platform/) |
-| 高级顾问，AI产品（企业/API） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
