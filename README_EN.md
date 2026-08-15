@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2376</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2373</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
 | Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | IT Software Architect, Software Governance and GTM Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
@@ -43,6 +42,7 @@
 | AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | Strategic Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
 | Global Technology Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
+| Sales Leader (New York) | Hybrid | [View →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 00:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 01:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

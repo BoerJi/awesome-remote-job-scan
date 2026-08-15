@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2373</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
 | 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | IT软件架构师，软件治理和GTM系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
@@ -43,6 +42,7 @@
 | AI运营工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | 战略业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
 | 全球技术合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
+| 纽约销售主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 00:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 01:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
