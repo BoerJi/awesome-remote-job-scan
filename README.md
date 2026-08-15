@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2373</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2379</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 特定期货与银行运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
+| 高管支持高级项目经理，技术顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
+| 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
+| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
+| 企业网络工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13381/manager-corporate-network-engineering/) |
+| AI支持工程师 - 多伦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13379/ai-support-engineer-toronto/) |
+| 高级支持工程师 - 多伦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13378/senior-support-engineer-toronto/) |
 | 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | IT软件架构师，软件治理和GTM系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
@@ -36,13 +43,6 @@
 | 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | Staff+ 软件工程师，GRC 平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13357/staff-software-engineer-grc-platform/) |
 | 高级顾问，AI产品（企业/API） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
-| 专业服务商业主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13359/professional-services-commercial-lead/) |
-| IT支持工程师，应用管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
-| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
-| AI运营工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
-| 战略业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
-| 全球技术合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
-| 纽约销售主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
