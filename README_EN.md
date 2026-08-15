@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2361</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2376</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
+| Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
+| Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
+| IT Software Architect, Software Governance and GTM Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
+| Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
+| Software Engineer, Compute Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/10286/software-engineer-compute-infrastructure/) |
+| Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
+| Senior Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/13371/senior-counsel-commercial-infrastructure/) |
+| Strategy & Operations Lead, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13366/strategy-operations-lead-enterprise-marketing/) |
+| Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/13365/staff-software-engineer-safeguards-data/) |
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
+| Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
+| Staff+ Software Engineer, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/13357/staff-software-engineer-grc-platform/) |
 | Senior Counsel, AI Product (Enterprise/API) | Hybrid | [View →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
 | Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13359/professional-services-commercial-lead/) |
 | IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
@@ -30,18 +43,6 @@
 | AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | Strategic Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
 | Global Technology Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
-| Sales Leader (New York) | Hybrid | [View →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
-| Marketing Events Producer | On-site | [View →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
-| Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
-| Deployed Architect, Post-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
-| Deployed Architect, Post-Sales (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
-| Deployed Architect, Post-Sales (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
-| Deployed Architect, Post-Sales (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
-| Account Manager, Renewals & Expansion | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
-| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13348/applied-ai-engineer-digital-natives/) |
-| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13349/account-director-digital-natives/) |
-| Director of Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

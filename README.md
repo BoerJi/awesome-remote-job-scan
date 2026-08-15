@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2361</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
+| 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
+| 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
+| IT软件架构师，软件治理和GTM系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
+| 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
+| 计算基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10286/software-engineer-compute-infrastructure/) |
+| 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
+| 高级商法顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13371/senior-counsel-commercial-infrastructure/) |
+| 企业营销策略与运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13366/strategy-operations-lead-enterprise-marketing/) |
+| Staff+ 软件工程师，安全防护数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13365/staff-software-engineer-safeguards-data/) |
+| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
+| 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
+| Staff+ 软件工程师，GRC 平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13357/staff-software-engineer-grc-platform/) |
 | 高级顾问，AI产品（企业/API） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13360/senior-counsel-ai-product-enterpriseapi/) |
 | 专业服务商业主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13359/professional-services-commercial-lead/) |
 | IT支持工程师，应用管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
@@ -30,18 +43,6 @@
 | AI运营工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | 战略业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13356/strategic-business-development-lead/) |
 | 全球技术合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13353/global-technology-partner-manager/) |
-| 纽约销售主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13351/sales-leader-new-york/) |
-| 市场营销活动制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12058/marketing-events-producer/) |
-| 部署架构师，售后支持（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
-| 部署架构师，售後支持（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
-| 部署架构师，售后（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
-| 部署架构师，售后（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
-| 部署架构师，售后（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
-| 续约与拓展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
-| 定价 Staff 应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| 应用AI工程师，数字原住民 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13348/applied-ai-engineer-digital-natives/) |
-| 数字原生客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13349/account-director-digital-natives/) |
-| 前派驻工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-forward-deployed-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
