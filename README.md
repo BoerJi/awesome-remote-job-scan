@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2375</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2377</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台生态系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13414/staff-software-engineer-platform-ecosystem/) |
+| 平台 Staff+ 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | 软件工程实习生（2027年夏季） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13413/software-engineering-intern-summer-2027/) |
 | 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
@@ -41,8 +43,6 @@
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
 | 高级执行招聘师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13391/sr-executive-sourcer/) |
 | Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| 机器财务与战略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
-| 预训练分布式系统技术主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

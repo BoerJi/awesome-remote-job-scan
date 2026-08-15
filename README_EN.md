@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2375</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2377</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Platform Ecosystem | On-site | [View →](https://www.remotejobscan.com/job/13414/staff-software-engineer-platform-ecosystem/) |
+| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Software Engineering Intern (Summer 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/13413/software-engineering-intern-summer-2027/) |
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
@@ -41,8 +43,6 @@
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
 | Sr. Executive Sourcer | Hybrid | [View →](https://www.remotejobscan.com/job/13391/sr-executive-sourcer/) |
 | Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/9016/futures-user-operations/) |
-| Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/13165/finance-strategy-manager-machines/) |
-| Pre-training Distributed Systems Tech Lead / Manager | On-site | [View →](https://www.remotejobscan.com/job/11485/pre-training-distributed-systems-tech-lead-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
