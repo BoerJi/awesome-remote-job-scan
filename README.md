@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | 特定期货与银行运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | 高管支持高级项目经理，技术顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
 | 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
@@ -33,7 +34,6 @@
 | 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | 新市场与变现产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | IT软件架构师，软件治理和GTM系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
-| 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | 计算基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10286/software-engineer-compute-infrastructure/) |
 | 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
 | 高级商法顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13371/senior-counsel-commercial-infrastructure/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-15 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

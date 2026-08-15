@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | Executive Support Senior Program Manager, Tech Advisor | Remote | [View →](https://www.remotejobscan.com/job/13380/executive-support-senior-program-manager-tech-advisor/) |
 | Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
@@ -33,7 +34,6 @@
 | Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | Product Manager, New Markets and Monetization | On-site | [View →](https://www.remotejobscan.com/job/12885/product-manager-new-markets-and-monetization/) |
 | IT Software Architect, Software Governance and GTM Systems | Hybrid | [View →](https://www.remotejobscan.com/job/13377/it-software-architect-software-governance-and-gtm-systems/) |
-| Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | Software Engineer, Compute Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/10286/software-engineer-compute-infrastructure/) |
 | Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
 | Senior Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/13371/senior-counsel-commercial-infrastructure/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-15 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
