@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Customer Marketing Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13415/customer-marketing-manager-industries/) |
 | Staff+ Software Engineer, Platform Ecosystem | On-site | [View →](https://www.remotejobscan.com/job/13414/staff-software-engineer-platform-ecosystem/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Software Engineering Intern (Summer 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/13413/software-engineering-intern-summer-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-16 18:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-16 19:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
