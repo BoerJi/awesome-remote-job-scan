@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,20 +27,6 @@
 | Staff+ Software Engineer, Platform Ecosystem | On-site | [View →](https://www.remotejobscan.com/job/13414/staff-software-engineer-platform-ecosystem/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Software Engineering Intern (Summer 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/13413/software-engineering-intern-summer-2027/) |
-| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| Global Intelligence Analyst | Remote | [View →](https://www.remotejobscan.com/job/9211/global-intelligence-analyst/) |
-| Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
-| Senior Counsel, Product | Remote | [View →](https://www.remotejobscan.com/job/9254/senior-counsel-product/) |
-| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
-| Senior Counsel, Shareholder Litigation | Remote | [View →](https://www.remotejobscan.com/job/9255/senior-counsel-shareholder-litigation/) |
-| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
-| AMLCO & Senior Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
-| Paralegal, Litigation | Remote | [View →](https://www.remotejobscan.com/job/9235/paralegal-litigation/) |
-| Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-16 04:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-16 05:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
