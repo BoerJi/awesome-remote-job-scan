@@ -14,17 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2380</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2381</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（2 个精选职位）
+## 🆕 今日更新（3 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 | 哥伦比亚战略客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13443/strategic-account-executive-colombia/) |
-| 行业客户营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13415/customer-marketing-manager-industries/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-16 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-16 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

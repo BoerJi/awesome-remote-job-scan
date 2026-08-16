@@ -14,17 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2380</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2381</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（2 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 | Strategic Account Executive - Colombia | Remote | [View →](https://www.remotejobscan.com/job/13443/strategic-account-executive-colombia/) |
-| Customer Marketing Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13415/customer-marketing-manager-industries/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-16 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-16 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
