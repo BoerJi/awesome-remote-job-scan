@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2417</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师 - 软件工程师 - 沙特阿拉伯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13609/forward-deployed-engineer-software-engineer-saudi-arabia/) |
+| 高级社交媒体专家（合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13610/executive-social-media-specialist-contract/) |
+| 网络安全软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
+| 前部署工程师 - 软件工程师 - 丹麦 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13608/forward-deployed-engineer-software-engineer-denmark/) |
+| 前哨部署工程师 - 软件工程师 - 德国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13607/forward-deployed-engineer-software-engineer-germany/) |
 | 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
 | AI 加速器软件技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
 | 企业情报专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
@@ -36,11 +41,6 @@
 | 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | 收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
 | 软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13586/software-engineer-rust-consumer/) |
-| 高级运营分析师，用户安全与风险运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13587/senior-operations-analyst-user-safety-risk-operations/) |
-| 争议与退款程序经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13588/dispute-and-chargebacks-program-manager/) |
-| 企业首席顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13584/principal-counsel-corporate/) |
-| 产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13582/product-marketing-manager/) |
-| 推理高级软件工程师（Staff + Senior） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13581/staff-senior-software-engineer-inference/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

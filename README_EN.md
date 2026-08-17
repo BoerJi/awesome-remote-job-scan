@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2417</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer - Software Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13609/forward-deployed-engineer-software-engineer-saudi-arabia/) |
+| Executive Social Media Specialist (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/13610/executive-social-media-specialist-contract/) |
+| Software Engineering Manager, Network Security | On-site | [View →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
+| Forward Deployed Engineer - Software Engineer - Denmark | Remote | [View →](https://www.remotejobscan.com/job/13608/forward-deployed-engineer-software-engineer-denmark/) |
+| Forward Deployed Engineer - Software Engineer - Germany | Remote | [View →](https://www.remotejobscan.com/job/13607/forward-deployed-engineer-software-engineer-germany/) |
 | Sr. Technical Recruiter | On-site | [View →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
 | Technical Program Manager, AI Accelerator Software | Hybrid | [View →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
 | Enterprise Intelligence Specialist | On-site | [View →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
@@ -37,11 +42,6 @@
 | Senior Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9631/senior-software-engineer-full-stack/) |
 | Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
 | Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/13586/software-engineer-rust-consumer/) |
-| Senior Operations Analyst, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13587/senior-operations-analyst-user-safety-risk-operations/) |
-| Dispute and Chargebacks, Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13588/dispute-and-chargebacks-program-manager/) |
-| Principal Counsel, Corporate | On-site | [View →](https://www.remotejobscan.com/job/13584/principal-counsel-corporate/) |
-| Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13582/product-marketing-manager/) |
-| Staff + Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/13581/staff-senior-software-engineer-inference/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
