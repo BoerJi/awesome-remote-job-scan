@@ -19,10 +19,13 @@
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| UI Designer UI 设计师 | Remote | [View →](https://www.remotejobscan.com/job/12937/ui-designer-ui/) |
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
 | Hungarian Translator | Remote | [View →](https://www.remotejobscan.com/job/13509/hungarian-translator/) |
 | HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
 | Sales Development Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
@@ -97,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

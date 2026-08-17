@@ -19,10 +19,13 @@
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（16 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| UI Designer UI 设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12937/ui-designer-ui/) |
+| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
 | 匈牙利翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13509/hungarian-translator/) |
 | 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
 | 亚太区销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
@@ -97,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
