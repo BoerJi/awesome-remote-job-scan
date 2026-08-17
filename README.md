@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2398</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2406</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内容营销经理，需求生成 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13567/content-marketing-manager-demand-generation/) |
+| 高级产品经理，模型API与开发者体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13565/senior-product-manager-model-apis-developer-experience/) |
+| 部署策略师 - 法国 - 全球扩张 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13568/deployment-strategist-france-global-expansion/) |
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
+| 网络安全数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13566/data-scientist-cybersecurity/) |
+| 演示工作室负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13345/demo-studio-lead/) |
+| 变现合作伙伴战略经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13563/strategic-partner-manager-monetization-partnerships/) |
+| 财富战略与转型负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13561/head-of-treasury-strategy-transformation/) |
+| 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13562/account-director-startups/) |
 | 安全工程师 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13560/security-engineer-detection-response/) |
 | 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
 | 人员系统主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13559/people-systems-lead/) |
@@ -34,15 +43,6 @@
 | 多语言技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13554/member-of-technical-staff-multilingual/) |
 | 企业客户经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
 | 社区参与负责人 - 俄亥俄州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13550/community-engagement-lead-ohio/) |
-| 成长型客户经理、初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
-| 初创企业增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
-| 合规高级数据分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13547/compliance-senior-data-analyst/) |
-| 合规数据分析师，保加利亚 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13546/compliance-data-analyst-bulgaria/) |
-| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
-| 技术团队成员，内部代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| 保加利亚内部控制与测试经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13548/internal-controls-and-testing-manager-bulgaria/) |
-| 高级客户总监 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
-| HCLS客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13543/customer-success-manager-hcls/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

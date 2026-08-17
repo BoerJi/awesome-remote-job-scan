@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2398</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2406</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Content Marketing Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/13567/content-marketing-manager-demand-generation/) |
+| Senior Product Manager, Model APIs & Developer Experience | On-site | [View →](https://www.remotejobscan.com/job/13565/senior-product-manager-model-apis-developer-experience/) |
+| Deployment Strategist - France - Global Expansion | Remote | [View →](https://www.remotejobscan.com/job/13568/deployment-strategist-france-global-expansion/) |
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
+| Data Scientist, Cybersecurity | Remote | [View →](https://www.remotejobscan.com/job/13566/data-scientist-cybersecurity/) |
+| Demo Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13345/demo-studio-lead/) |
+| Strategic Partner Manager, Monetization Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13563/strategic-partner-manager-monetization-partnerships/) |
+| Head of Treasury Strategy & Transformation | Remote | [View →](https://www.remotejobscan.com/job/13561/head-of-treasury-strategy-transformation/) |
+| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/13562/account-director-startups/) |
 | Security Engineer - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/13560/security-engineer-detection-response/) |
 | Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
 | People Systems Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13559/people-systems-lead/) |
@@ -34,15 +43,6 @@
 | Member of Technical Staff, Multilingual | Remote | [View →](https://www.remotejobscan.com/job/13554/member-of-technical-staff-multilingual/) |
 | Enterprise Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
 | Community Engagement Lead - Ohio | Remote | [View →](https://www.remotejobscan.com/job/13550/community-engagement-lead-ohio/) |
-| Manager, Growth Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
-| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
-| Compliance Senior Data Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13547/compliance-senior-data-analyst/) |
-| Compliance Data Analyst, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/13546/compliance-data-analyst-bulgaria/) |
-| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
-| Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| Internal Controls and Testing Manager, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/13548/internal-controls-and-testing-manager-bulgaria/) |
-| Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
-| Customer Success Manager, HCLS | On-site | [View →](https://www.remotejobscan.com/job/13543/customer-success-manager-hcls/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
