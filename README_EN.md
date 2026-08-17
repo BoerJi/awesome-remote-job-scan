@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2418</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2417</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Technical Recruiter | On-site | [View →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
+| Technical Program Manager, AI Accelerator Software | Hybrid | [View →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
+| Enterprise Intelligence Specialist | On-site | [View →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
+| Deployment Strategist - Switzerland - Global Expansion | On-site | [View →](https://www.remotejobscan.com/job/13595/deployment-strategist-switzerland-global-expansion/) |
+| Physical Security Design Engineer and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
+| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
+| Head of Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/13590/head-of-enterprise-risk/) |
+| Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
+| Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
+| Regional Safety & Security Manager, Americas | On-site | [View →](https://www.remotejobscan.com/job/13592/regional-safety-security-manager-americas/) |
 | Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | Senior Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9631/senior-software-engineer-full-stack/) |
 | Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
@@ -32,17 +42,6 @@
 | Principal Counsel, Corporate | On-site | [View →](https://www.remotejobscan.com/job/13584/principal-counsel-corporate/) |
 | Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13582/product-marketing-manager/) |
 | Staff + Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/13581/staff-senior-software-engineer-inference/) |
-| Litigation Paralegal | Hybrid | [View →](https://www.remotejobscan.com/job/13583/litigation-paralegal/) |
-| Marketing Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13576/marketing-operations-manager/) |
-| Media Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13580/media-manager/) |
-| Deployment Strategist - Saudi Arabia - Global Expansion | On-site | [View →](https://www.remotejobscan.com/job/13579/deployment-strategist-saudi-arabia-global-expansion/) |
-| Deployment Strategist Lead - UAE | Remote | [View →](https://www.remotejobscan.com/job/13577/deployment-strategist-lead-uae/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| Software Engineer, Research Data Platform | On-site | [View →](https://www.remotejobscan.com/job/13575/software-engineer-research-data-platform/) |
-| Engineering Manager, Research Data Platform | On-site | [View →](https://www.remotejobscan.com/job/13573/engineering-manager-research-data-platform/) |
-| Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13578/deployment-strategist-lead-middle-east/) |
-| Deployment Strategist Lead - Poland | Remote | [View →](https://www.remotejobscan.com/job/13571/deployment-strategist-lead-poland/) |
-| Platform Accounting Analyst - US | Remote | [View →](https://www.remotejobscan.com/job/13570/platform-accounting-analyst-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

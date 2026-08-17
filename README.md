@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2418</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2417</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
+| AI 加速器软件技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
+| 企业情报专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
+| 部署策略师 - 瑞士 - 全球扩张 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13595/deployment-strategist-switzerland-global-expansion/) |
+| 物理安全设计工程师和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
+| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
+| 企业风险管理负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13590/head-of-enterprise-risk/) |
+| 部署工程师（纽约初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
+| 部署工程师（早期职业-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
+| 美洲地区安全与安保经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13592/regional-safety-security-manager-americas/) |
 | 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
 | 收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
 | 软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13586/software-engineer-rust-consumer/) |
@@ -31,17 +41,6 @@
 | 企业首席顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13584/principal-counsel-corporate/) |
 | 产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13582/product-marketing-manager/) |
 | 推理高级软件工程师（Staff + Senior） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13581/staff-senior-software-engineer-inference/) |
-| 诉讼助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13583/litigation-paralegal/) |
-| 市场运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13576/marketing-operations-manager/) |
-| 媒体经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13580/media-manager/) |
-| 部署策略师 - 沙特阿拉伯 - 全球扩张 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13579/deployment-strategist-saudi-arabia-global-expansion/) |
-| 部署策略主管 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13577/deployment-strategist-lead-uae/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| 研究数据平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13575/software-engineer-research-data-platform/) |
-| 研究数据平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13573/engineering-manager-research-data-platform/) |
-| 中东地区部署策略负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13578/deployment-strategist-lead-middle-east/) |
-| 部署策略主管 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13571/deployment-strategist-lead-poland/) |
-| 平台会计分析师 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13570/platform-accounting-analyst-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
