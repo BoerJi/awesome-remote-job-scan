@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2431</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台工程经理 - FinHub（金融智能） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
+| 云AI合作伙伴技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
+| 支持交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13612/support-delivery-lead/) |
+| 面向未来的软件工程师 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13614/forward-deployed-software-engineer-uae/) |
+| 亚马逊 GTM 合作伙伴关系，企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13611/amazon-gtm-partnerships-enterprise/) |
+| 前沿部署工程师 - 软件工程师 - 瑞士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13613/forward-deployed-engineer-software-engineer-switzerland/) |
 | 前沿部署工程师 - 软件工程师 - 沙特阿拉伯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13609/forward-deployed-engineer-software-engineer-saudi-arabia/) |
 | 高级社交媒体专家（合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13610/executive-social-media-specialist-contract/) |
 | 网络安全软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
@@ -36,11 +42,6 @@
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 | 企业风险管理负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13590/head-of-enterprise-risk/) |
 | 部署工程师（纽约初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
-| 部署工程师（早期职业-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
-| 美洲地区安全与安保经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13592/regional-safety-security-manager-americas/) |
-| 高级全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
-| 收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
-| 软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13586/software-engineer-rust-consumer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

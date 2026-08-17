@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2431</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager - Platform (FinHub - Financial Intelligence) | Remote | [View →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
+| Technical Program Manager, Cloud AI Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
+| Support Delivery Lead | On-site | [View →](https://www.remotejobscan.com/job/13612/support-delivery-lead/) |
+| Forward Deployed Software Engineer - UAE | Remote | [View →](https://www.remotejobscan.com/job/13614/forward-deployed-software-engineer-uae/) |
+| Amazon GTM Partnerships, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/amazon-gtm-partnerships-enterprise/) |
+| Forward Deployed Engineer - Software Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13613/forward-deployed-engineer-software-engineer-switzerland/) |
 | Forward Deployed Engineer - Software Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13609/forward-deployed-engineer-software-engineer-saudi-arabia/) |
 | Executive Social Media Specialist (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/13610/executive-social-media-specialist-contract/) |
 | Software Engineering Manager, Network Security | On-site | [View →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
@@ -36,12 +42,6 @@
 | Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 | Head of Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/13590/head-of-enterprise-risk/) |
 | Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
-| Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
-| Regional Safety & Security Manager, Americas | On-site | [View →](https://www.remotejobscan.com/job/13592/regional-safety-security-manager-americas/) |
-| Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
-| Senior Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9631/senior-software-engineer-full-stack/) |
-| Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
-| Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/13586/software-engineer-rust-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
