@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2382</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Product Engineer, Full Stack - Agents | Hybrid | [View →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | Chief of Staff - India | Remote | [View →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

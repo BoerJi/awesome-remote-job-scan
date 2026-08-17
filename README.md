@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2382</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2378</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（11 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
 | 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 全栈产品工程师 - 代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | 印度首席助手 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
