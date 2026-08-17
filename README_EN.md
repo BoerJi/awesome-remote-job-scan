@@ -14,16 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2380</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
+| Hungarian Translator | Remote | [View →](https://www.remotejobscan.com/job/13509/hungarian-translator/) |
+| HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
+| Sales Development Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Product Engineer, Full Stack - Agents | Hybrid | [View →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | Chief of Staff - India | Remote | [View →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
@@ -95,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
