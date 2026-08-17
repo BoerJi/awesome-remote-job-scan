@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 全栈产品工程师 - 代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | 印度首席助手 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Product Engineer, Full Stack - Agents | Hybrid | [View →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | Chief of Staff - India | Remote | [View →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
