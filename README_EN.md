@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2406</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2416</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Media Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13580/media-manager/) |
+| Deployment Strategist - Saudi Arabia - Global Expansion | On-site | [View →](https://www.remotejobscan.com/job/13579/deployment-strategist-saudi-arabia-global-expansion/) |
+| Deployment Strategist Lead - UAE | Remote | [View →](https://www.remotejobscan.com/job/13577/deployment-strategist-lead-uae/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
+| Software Engineer, Research Data Platform | On-site | [View →](https://www.remotejobscan.com/job/13575/software-engineer-research-data-platform/) |
+| Engineering Manager, Research Data Platform | On-site | [View →](https://www.remotejobscan.com/job/13573/engineering-manager-research-data-platform/) |
+| Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13578/deployment-strategist-lead-middle-east/) |
+| Deployment Strategist Lead - Poland | Remote | [View →](https://www.remotejobscan.com/job/13571/deployment-strategist-lead-poland/) |
+| Platform Accounting Analyst - US | Remote | [View →](https://www.remotejobscan.com/job/13570/platform-accounting-analyst-us/) |
+| Deployment Strategist - Denmark - Global Expansion | Remote | [View →](https://www.remotejobscan.com/job/13572/deployment-strategist-denmark-global-expansion/) |
 | Content Marketing Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/13567/content-marketing-manager-demand-generation/) |
 | Senior Product Manager, Model APIs & Developer Experience | On-site | [View →](https://www.remotejobscan.com/job/13565/senior-product-manager-model-apis-developer-experience/) |
 | Deployment Strategist - France - Global Expansion | Remote | [View →](https://www.remotejobscan.com/job/13568/deployment-strategist-france-global-expansion/) |
@@ -33,16 +43,6 @@
 | Head of Treasury Strategy & Transformation | Remote | [View →](https://www.remotejobscan.com/job/13561/head-of-treasury-strategy-transformation/) |
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/13562/account-director-startups/) |
 | Security Engineer - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/13560/security-engineer-detection-response/) |
-| Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
-| People Systems Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13559/people-systems-lead/) |
-| Software Engineer, Model Deployment - ChatGPT Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/10560/software-engineer-model-deployment-chatgpt-engineering/) |
-| Senior Staff Software Engineer, API | On-site | [View →](https://www.remotejobscan.com/job/9638/senior-staff-software-engineer-api/) |
-| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| Global Onboarding | On-site | [View →](https://www.remotejobscan.com/job/13555/global-onboarding/) |
-| Member of Technical Staff - RL Environments | Hybrid | [View →](https://www.remotejobscan.com/job/13556/member-of-technical-staff-rl-environments/) |
-| Member of Technical Staff, Multilingual | Remote | [View →](https://www.remotejobscan.com/job/13554/member-of-technical-staff-multilingual/) |
-| Enterprise Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
-| Community Engagement Lead - Ohio | Remote | [View →](https://www.remotejobscan.com/job/13550/community-engagement-lead-ohio/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
