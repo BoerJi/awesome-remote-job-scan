@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2385</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2389</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规高级数据分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13547/compliance-senior-data-analyst/) |
+| 合规数据分析师，保加利亚 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13546/compliance-data-analyst-bulgaria/) |
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
+| 技术团队成员，内部代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
+| 保加利亚内部控制与测试经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13548/internal-controls-and-testing-manager-bulgaria/) |
+| 高级客户总监 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
+| HCLS客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13543/customer-success-manager-hcls/) |
+| 客户成功经理，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13542/customer-success-manager-gsi/) |
+| 金融服务客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/customer-success-manager-financial-services/) |
+| 半导体行业客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13544/customer-success-manager-semiconductor/) |
 | 企业客户经理，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-industries/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | 外部事务，美国联邦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
 | 集团税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
-| 成长型客户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12587/vip-customer-support-mandarin-6-days/) |
 | 中文客服专员（6天） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
-| 成长账户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
 | 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
 | 欧盟机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7955/institutional-business-development-managereu/) |
 | DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| UI Designer UI 设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12937/ui-designer-ui/) |
-| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
-| 匈牙利翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13509/hungarian-translator/) |
-| 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
-| 亚太区销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
-| 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
-| 全栈产品工程师 - 代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
-| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

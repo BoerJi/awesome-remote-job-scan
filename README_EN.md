@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2385</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2389</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Senior Data Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13547/compliance-senior-data-analyst/) |
+| Compliance Data Analyst, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/13546/compliance-data-analyst-bulgaria/) |
+| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
+| Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
+| Internal Controls and Testing Manager, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/13548/internal-controls-and-testing-manager-bulgaria/) |
+| Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
+| Customer Success Manager, HCLS | On-site | [View →](https://www.remotejobscan.com/job/13543/customer-success-manager-hcls/) |
+| Customer Success Manager, GSI | On-site | [View →](https://www.remotejobscan.com/job/13542/customer-success-manager-gsi/) |
+| Customer Success Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/customer-success-manager-financial-services/) |
+| Customer Success Manager, Semiconductor | On-site | [View →](https://www.remotejobscan.com/job/13544/customer-success-manager-semiconductor/) |
 | Enterprise Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-industries/) |
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | External Affairs, US Federal | On-site | [View →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
 | Group Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
-| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/12587/vip-customer-support-mandarin-6-days/) |
 | CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
-| Manager, Growth Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
 | Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
 | Institutional Business Development Manager（EU） | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-managereu/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| UI Designer UI 设计师 | Remote | [View →](https://www.remotejobscan.com/job/12937/ui-designer-ui/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
-| Hungarian Translator | Remote | [View →](https://www.remotejobscan.com/job/13509/hungarian-translator/) |
-| HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/11786/hr-business-partner/) |
-| Sales Development Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
-| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
-| Product Engineer, Full Stack - Agents | Hybrid | [View →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
-| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
