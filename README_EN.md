@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2383</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2387</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
+| Enterprise Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-industries/) |
+| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | External Affairs, US Federal | On-site | [View →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
 | Group Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
@@ -41,8 +42,6 @@
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Product Engineer, Full Stack - Agents | Hybrid | [View →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
-| Offline DWH Development Engineer 离线数仓开发工程师 出海 | Remote | [View →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

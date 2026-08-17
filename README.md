@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2383</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2387</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
+| 企业客户经理，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-industries/) |
+| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | 外部事务，美国联邦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
 | 集团税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
 | 成长型客户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
@@ -41,8 +42,6 @@
 | 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 全栈产品工程师 - 代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
-| Offline DWH Development Engineer 离线数仓开发工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
