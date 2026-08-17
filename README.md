@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2383</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
+| 外部事务，美国联邦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
+| 集团税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
+| 成长型客户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12587/vip-customer-support-mandarin-6-days/) |
 | 中文客服专员（6天） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
 | 成长账户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
@@ -39,9 +43,6 @@
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Offline DWH Development Engineer 离线数仓开发工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
-| Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13462/product-designer/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
-| 哥伦比亚战略客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13443/strategic-account-executive-colombia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
