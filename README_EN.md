@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2380</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2376</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/12587/vip-customer-support-mandarin-6-days/) |
+| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
+| Manager, Growth Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
+| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
+| Institutional Business Development Manager（EU） | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-managereu/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | UI Designer UI 设计师 | Remote | [View →](https://www.remotejobscan.com/job/12937/ui-designer-ui/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
@@ -31,7 +36,6 @@
 | Sales Development Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | Product Engineer, Full Stack - Agents | Hybrid | [View →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
-| Chief of Staff - India | Remote | [View →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Offline DWH Development Engineer 离线数仓开发工程师 出海 | Remote | [View →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
@@ -100,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

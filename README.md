@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2380</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12587/vip-customer-support-mandarin-6-days/) |
+| 中文客服专员（6天） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
+| 成长账户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
+| 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
+| 欧盟机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7955/institutional-business-development-managereu/) |
 | DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | UI Designer UI 设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12937/ui-designer-ui/) |
 | 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
@@ -31,7 +36,6 @@
 | 亚太区销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13508/sales-development-lead-apac/) |
 | 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 全栈产品工程师 - 代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13494/product-engineer-full-stack-agents/) |
-| 印度首席助手 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13493/chief-of-staff-india/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Offline DWH Development Engineer 离线数仓开发工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13281/offline-dwh-development-engineer/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12618/api-tech-support-api-european-time-zones-api/) |
@@ -100,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
