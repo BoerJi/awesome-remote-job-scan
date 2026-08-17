@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2416</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2418</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9680/staff-software-engineer-full-stack/) |
+| Senior Software Engineer, Full-stack | On-site | [View →](https://www.remotejobscan.com/job/9631/senior-software-engineer-full-stack/) |
+| Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/13585/director-revenue-accounting/) |
+| Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/13586/software-engineer-rust-consumer/) |
+| Senior Operations Analyst, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/13587/senior-operations-analyst-user-safety-risk-operations/) |
+| Dispute and Chargebacks, Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13588/dispute-and-chargebacks-program-manager/) |
+| Principal Counsel, Corporate | On-site | [View →](https://www.remotejobscan.com/job/13584/principal-counsel-corporate/) |
+| Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13582/product-marketing-manager/) |
+| Staff + Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/13581/staff-senior-software-engineer-inference/) |
+| Litigation Paralegal | Hybrid | [View →](https://www.remotejobscan.com/job/13583/litigation-paralegal/) |
+| Marketing Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13576/marketing-operations-manager/) |
 | Media Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13580/media-manager/) |
 | Deployment Strategist - Saudi Arabia - Global Expansion | On-site | [View →](https://www.remotejobscan.com/job/13579/deployment-strategist-saudi-arabia-global-expansion/) |
 | Deployment Strategist Lead - UAE | Remote | [View →](https://www.remotejobscan.com/job/13577/deployment-strategist-lead-uae/) |
@@ -32,17 +43,6 @@
 | Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/13578/deployment-strategist-lead-middle-east/) |
 | Deployment Strategist Lead - Poland | Remote | [View →](https://www.remotejobscan.com/job/13571/deployment-strategist-lead-poland/) |
 | Platform Accounting Analyst - US | Remote | [View →](https://www.remotejobscan.com/job/13570/platform-accounting-analyst-us/) |
-| Deployment Strategist - Denmark - Global Expansion | Remote | [View →](https://www.remotejobscan.com/job/13572/deployment-strategist-denmark-global-expansion/) |
-| Content Marketing Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/13567/content-marketing-manager-demand-generation/) |
-| Senior Product Manager, Model APIs & Developer Experience | On-site | [View →](https://www.remotejobscan.com/job/13565/senior-product-manager-model-apis-developer-experience/) |
-| Deployment Strategist - France - Global Expansion | Remote | [View →](https://www.remotejobscan.com/job/13568/deployment-strategist-france-global-expansion/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| Data Scientist, Cybersecurity | Remote | [View →](https://www.remotejobscan.com/job/13566/data-scientist-cybersecurity/) |
-| Demo Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13345/demo-studio-lead/) |
-| Strategic Partner Manager, Monetization Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/13563/strategic-partner-manager-monetization-partnerships/) |
-| Head of Treasury Strategy & Transformation | Remote | [View →](https://www.remotejobscan.com/job/13561/head-of-treasury-strategy-transformation/) |
-| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/13562/account-director-startups/) |
-| Security Engineer - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/13560/security-engineer-detection-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
