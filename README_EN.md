@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2389</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2394</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff, Multilingual | Remote | [View →](https://www.remotejobscan.com/job/13554/member-of-technical-staff-multilingual/) |
+| Enterprise Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
+| Community Engagement Lead - Ohio | Remote | [View →](https://www.remotejobscan.com/job/13550/community-engagement-lead-ohio/) |
+| Manager, Growth Account Executives, Startups | On-site | [View →](https://www.remotejobscan.com/job/13517/manager-growth-account-executives-startups/) |
+| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
 | Compliance Senior Data Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13547/compliance-senior-data-analyst/) |
 | Compliance Data Analyst, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/13546/compliance-data-analyst-bulgaria/) |
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
@@ -37,11 +42,6 @@
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | External Affairs, US Federal | On-site | [View →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
 | Group Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
-| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/12587/vip-customer-support-mandarin-6-days/) |
-| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
-| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
-| Institutional Business Development Manager（EU） | Remote | [View →](https://www.remotejobscan.com/job/7955/institutional-business-development-managereu/) |
-| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
