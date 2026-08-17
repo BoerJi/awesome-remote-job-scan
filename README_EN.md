@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2394</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2398</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Engineer - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/13560/security-engineer-detection-response/) |
+| Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
+| People Systems Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13559/people-systems-lead/) |
+| Software Engineer, Model Deployment - ChatGPT Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/10560/software-engineer-model-deployment-chatgpt-engineering/) |
+| Senior Staff Software Engineer, API | On-site | [View →](https://www.remotejobscan.com/job/9638/senior-staff-software-engineer-api/) |
+| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| Global Onboarding | On-site | [View →](https://www.remotejobscan.com/job/13555/global-onboarding/) |
+| Member of Technical Staff - RL Environments | Hybrid | [View →](https://www.remotejobscan.com/job/13556/member-of-technical-staff-rl-environments/) |
 | Member of Technical Staff, Multilingual | Remote | [View →](https://www.remotejobscan.com/job/13554/member-of-technical-staff-multilingual/) |
 | Enterprise Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
 | Community Engagement Lead - Ohio | Remote | [View →](https://www.remotejobscan.com/job/13550/community-engagement-lead-ohio/) |
@@ -35,13 +43,6 @@
 | Internal Controls and Testing Manager, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/13548/internal-controls-and-testing-manager-bulgaria/) |
 | Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
 | Customer Success Manager, HCLS | On-site | [View →](https://www.remotejobscan.com/job/13543/customer-success-manager-hcls/) |
-| Customer Success Manager, GSI | On-site | [View →](https://www.remotejobscan.com/job/13542/customer-success-manager-gsi/) |
-| Customer Success Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/customer-success-manager-financial-services/) |
-| Customer Success Manager, Semiconductor | On-site | [View →](https://www.remotejobscan.com/job/13544/customer-success-manager-semiconductor/) |
-| Enterprise Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-industries/) |
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
-| External Affairs, US Federal | On-site | [View →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
-| Group Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-17 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

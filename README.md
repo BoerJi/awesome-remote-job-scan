@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2394</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2398</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全工程师 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13560/security-engineer-detection-response/) |
+| 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
+| 人员系统主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13559/people-systems-lead/) |
+| 软件工程师，模型部署 - ChatGPT工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10560/software-engineer-model-deployment-chatgpt-engineering/) |
+| 高级Staff软件工程师，API | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9638/senior-staff-software-engineer-api/) |
+| 战略财务高级助理 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| 全球入职流程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13555/global-onboarding/) |
+| 技术团队成员 - 强化学习环境 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13556/member-of-technical-staff-rl-environments/) |
 | 多语言技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13554/member-of-technical-staff-multilingual/) |
 | 企业客户经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
 | 社区参与负责人 - 俄亥俄州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13550/community-engagement-lead-ohio/) |
@@ -35,13 +43,6 @@
 | 保加利亚内部控制与测试经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13548/internal-controls-and-testing-manager-bulgaria/) |
 | 高级客户总监 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
 | HCLS客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13543/customer-success-manager-hcls/) |
-| 客户成功经理，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13542/customer-success-manager-gsi/) |
-| 金融服务客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/customer-success-manager-financial-services/) |
-| 半导体行业客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13544/customer-success-manager-semiconductor/) |
-| 企业客户经理，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-industries/) |
-| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
-| 外部事务，美国联邦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13527/external-affairs-us-federal/) |
-| 集团税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13526/group-tax-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
