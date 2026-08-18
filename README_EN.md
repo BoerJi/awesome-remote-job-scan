@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2427</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2433</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
+| Institutional BD Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/12598/institutional-bd-manager-brazil/) |
+| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
 | Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
 | Partner Director, Tokyo | On-site | [View →](https://www.remotejobscan.com/job/13666/partner-director-tokyo/) |
 | Growth & Partnerships Manager - Staking Products | Remote | [View →](https://www.remotejobscan.com/job/13665/growth-partnerships-manager-staking-products/) |
@@ -39,9 +42,6 @@
 | Senior Associate, Financial and Management Reporting | Hybrid | [View →](https://www.remotejobscan.com/job/13638/senior-associate-financial-and-management-reporting/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13635/product-designer/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
-| Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
-| Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
