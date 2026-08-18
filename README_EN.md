@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2427</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,12 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13635/product-designer/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
 | Life Sciences Operator, Lead | On-site | [View →](https://www.remotejobscan.com/job/9487/life-sciences-operator-lead/) |
 | Physical Security Design Engineer and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
