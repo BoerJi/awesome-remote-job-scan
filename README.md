@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2433</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| CRM产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
+| 企业解决方案工程师 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13699/enterprise-solutions-engineer-poland/) |
+| 增长客户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
+| 媒体客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13695/account-director-media/) |
+| 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
+| 高级人才项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13237/senior-talent-program-manager/) |
+| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
+| 高级招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
+| 招聘高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
+| 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9221/hr-business-partner/) |
+| 高级薪酬业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9309/senior-compensation-business-partner/) |
+| 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
 | 亚太区执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13692/executive-business-partner-apac/) |
 | 印度执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13693/executive-business-partner-india/) |
@@ -30,18 +42,6 @@
 | 高级软件工程师，简单交易体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13691/senior-software-engineer-simple-trade-experience/) |
 | 风险策略分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
 | 政府销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
-| 高级产品经理 - 混合化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
-| 土耳其区机构BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
-| 巴西机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12598/institutional-bd-manager-brazil/) |
-| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| 高级社区与活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
-| 东京合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13666/partner-director-tokyo/) |
-| 增长与合作伙伴经理 - 质押产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13665/growth-partnerships-manager-staking-products/) |
-| 产品经理 - 钱包 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13663/product-manager-wallet/) |
-| 产品经理 - 清算和结算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13662/product-manager-clearing-and-settlement/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
-| 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
-| 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

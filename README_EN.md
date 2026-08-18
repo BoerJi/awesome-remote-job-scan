@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2433</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager - CRM | Remote | [View →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
+| Enterprise Solutions Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13699/enterprise-solutions-engineer-poland/) |
+| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
+| Account Director, Media | Remote | [View →](https://www.remotejobscan.com/job/13695/account-director-media/) |
+| Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
+| Senior Talent Program Manager | Remote | [View →](https://www.remotejobscan.com/job/13237/senior-talent-program-manager/) |
+| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
+| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
+| Senior Manager, Recruiting | Remote | [View →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
+| HR Business Partner | Remote | [View →](https://www.remotejobscan.com/job/9221/hr-business-partner/) |
+| Senior Compensation Business Partner | Remote | [View →](https://www.remotejobscan.com/job/9309/senior-compensation-business-partner/) |
+| Senior Payroll Specialist | Remote | [View →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
 | Executive Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/13692/executive-business-partner-apac/) |
 | Executive Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/13693/executive-business-partner-india/) |
@@ -30,18 +42,6 @@
 | Senior Software Engineer, Simple Trade Experience | Remote | [View →](https://www.remotejobscan.com/job/13691/senior-software-engineer-simple-trade-experience/) |
 | Risk Strategy Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
 | Sales Development - Government | Remote | [View →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
-| Sr Product Manager - Hybridisation | Remote | [View →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
-| Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
-| Institutional BD Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/12598/institutional-bd-manager-brazil/) |
-| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
-| Partner Director, Tokyo | On-site | [View →](https://www.remotejobscan.com/job/13666/partner-director-tokyo/) |
-| Growth & Partnerships Manager - Staking Products | Remote | [View →](https://www.remotejobscan.com/job/13665/growth-partnerships-manager-staking-products/) |
-| Product Manager - Wallet | Remote | [View →](https://www.remotejobscan.com/job/13663/product-manager-wallet/) |
-| Product Manager - Clearing and Settlement | Remote | [View →](https://www.remotejobscan.com/job/13662/product-manager-clearing-and-settlement/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
-| Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
-| 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
