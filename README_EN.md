@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2433</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
+| Customer Success Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13704/customer-success-manager-industries/) |
+| Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13701/partner-sales-manager-systems-integrators/) |
+| Manager, Customer Success GSI | On-site | [View →](https://www.remotejobscan.com/job/13700/manager-customer-success-gsi/) |
+| Forward Deployed Engineer - Software Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13703/forward-deployed-engineer-software-engineer-poland/) |
 | Product Manager - CRM | Remote | [View →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
 | Enterprise Solutions Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13699/enterprise-solutions-engineer-poland/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
@@ -36,12 +41,6 @@
 | Senior Compensation Business Partner | Remote | [View →](https://www.remotejobscan.com/job/9309/senior-compensation-business-partner/) |
 | Senior Payroll Specialist | Remote | [View →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
-| Executive Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/13692/executive-business-partner-apac/) |
-| Executive Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/13693/executive-business-partner-india/) |
-| Senior Director, Solutions Architecture, APAC | Remote | [View →](https://www.remotejobscan.com/job/13694/senior-director-solutions-architecture-apac/) |
-| Senior Software Engineer, Simple Trade Experience | Remote | [View →](https://www.remotejobscan.com/job/13691/senior-software-engineer-simple-trade-experience/) |
-| Risk Strategy Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
-| Sales Development - Government | Remote | [View →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

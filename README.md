@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2433</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2432</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
+| 行业客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13704/customer-success-manager-industries/) |
+| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13701/partner-sales-manager-systems-integrators/) |
+| 客户成功GSI经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13700/manager-customer-success-gsi/) |
+| 前沿部署工程师 - 软件工程师 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13703/forward-deployed-engineer-software-engineer-poland/) |
 | CRM产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
 | 企业解决方案工程师 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13699/enterprise-solutions-engineer-poland/) |
 | 增长客户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
@@ -36,12 +41,6 @@
 | 高级薪酬业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9309/senior-compensation-business-partner/) |
 | 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
-| 亚太区执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13692/executive-business-partner-apac/) |
-| 印度执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13693/executive-business-partner-india/) |
-| 亚太区解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13694/senior-director-solutions-architecture-apac/) |
-| 高级软件工程师，简单交易体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13691/senior-software-engineer-simple-trade-experience/) |
-| 风险策略分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
-| 政府销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
