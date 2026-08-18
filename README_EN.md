@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2434</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Community and Events Lead | Remote | [View →](https://www.remotejobscan.com/job/11931/senior-community-and-events-lead/) |
+| Partner Director, Tokyo | On-site | [View →](https://www.remotejobscan.com/job/13666/partner-director-tokyo/) |
+| Growth & Partnerships Manager - Staking Products | Remote | [View →](https://www.remotejobscan.com/job/13665/growth-partnerships-manager-staking-products/) |
+| Product Manager - Wallet | Remote | [View →](https://www.remotejobscan.com/job/13663/product-manager-wallet/) |
+| Product Manager - Clearing and Settlement | Remote | [View →](https://www.remotejobscan.com/job/13662/product-manager-clearing-and-settlement/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
 | Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
 | 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
@@ -37,11 +42,6 @@
 | Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
-| Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| Life Sciences Operator, Lead | On-site | [View →](https://www.remotejobscan.com/job/9487/life-sciences-operator-lead/) |
-| Physical Security Design Engineer and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
-| Engineering Manager - Platform (FinHub - Financial Intelligence) | Remote | [View →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
-| Technical Program Manager, Cloud AI Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
