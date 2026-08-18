@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Platform Software Engineer, Ingestion | On-site | [View →](https://www.remotejobscan.com/job/13733/platform-software-engineer-ingestion/) |
+| Product Design Leadership, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/13732/product-design-leadership-growth/) |
+| Software Engineer, Plugin Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/13731/software-engineer-plugin-developer-platform/) |
+| Enterprise Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/13722/enterprise-account-executive-tech/) |
 | Lead, Data Center Security Delivery (Construction to Operations) | Remote | [View →](https://www.remotejobscan.com/job/13718/lead-data-center-security-delivery-construction-to-operations/) |
 | Technical Program Manager, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13717/technical-program-manager-enterprise/) |
 | Physical Security Design Lead and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-lead-and-contract-document-specialist/) |
@@ -38,9 +42,6 @@
 | Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
 | Customer Success Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13704/customer-success-manager-industries/) |
-| Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13701/partner-sales-manager-systems-integrators/) |
-| Manager, Customer Success GSI | On-site | [View →](https://www.remotejobscan.com/job/13700/manager-customer-success-gsi/) |
-| Forward Deployed Engineer - Software Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13703/forward-deployed-engineer-software-engineer-poland/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
