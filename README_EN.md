@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2436</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead, Data Center Security Delivery (Construction to Operations) | Remote | [View →](https://www.remotejobscan.com/job/13718/lead-data-center-security-delivery-construction-to-operations/) |
+| Technical Program Manager, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13717/technical-program-manager-enterprise/) |
 | Physical Security Design Lead and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-lead-and-contract-document-specialist/) |
 | Staff+ Software Engineer, Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9671/staff-software-engineer-data-infrastructure/) |
 | Technical Program Manager, AI Safety & Safeguards | On-site | [View →](https://www.remotejobscan.com/job/13715/technical-program-manager-ai-safety-safeguards/) |
@@ -39,7 +41,6 @@
 | Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13701/partner-sales-manager-systems-integrators/) |
 | Manager, Customer Success GSI | On-site | [View →](https://www.remotejobscan.com/job/13700/manager-customer-success-gsi/) |
 | Forward Deployed Engineer - Software Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13703/forward-deployed-engineer-software-engineer-poland/) |
-| Product Manager - CRM | Remote | [View →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
