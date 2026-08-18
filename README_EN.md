@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2433</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr Product Manager - Hybridisation | Remote | [View →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
 | Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
 | Institutional BD Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/12598/institutional-bd-manager-brazil/) |
 | Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
@@ -40,8 +41,6 @@
 | Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | Account Manager, Renewals & Expansion | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
 | Senior Associate, Financial and Management Reporting | Hybrid | [View →](https://www.remotejobscan.com/job/13638/senior-associate-financial-and-management-reporting/) |
-| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13635/product-designer/) |
-| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

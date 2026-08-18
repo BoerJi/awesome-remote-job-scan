@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2433</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2437</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理 - 混合化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
 | 土耳其区机构BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
 | 巴西机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12598/institutional-bd-manager-brazil/) |
 | Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
@@ -41,8 +42,6 @@
 | 续约与拓展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
 | 续约与拓展业务客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion/) |
 | 高级财务及管理报告助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13638/senior-associate-financial-and-management-reporting/) |
-| Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13635/product-designer/) |
-| 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
