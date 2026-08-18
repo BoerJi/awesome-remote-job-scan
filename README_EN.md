@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
+| Executive Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/13692/executive-business-partner-apac/) |
+| Executive Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/13693/executive-business-partner-india/) |
+| Senior Director, Solutions Architecture, APAC | Remote | [View →](https://www.remotejobscan.com/job/13694/senior-director-solutions-architecture-apac/) |
+| Senior Software Engineer, Simple Trade Experience | Remote | [View →](https://www.remotejobscan.com/job/13691/senior-software-engineer-simple-trade-experience/) |
 | Risk Strategy Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
 | Sales Development - Government | Remote | [View →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
 | Sr Product Manager - Hybridisation | Remote | [View →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
@@ -37,11 +42,6 @@
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
 | Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
 | 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
-| Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/13479/marketing-growth-algorithm-engineer/) |
-| Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
-| Account Manager, Renewals & Expansion | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

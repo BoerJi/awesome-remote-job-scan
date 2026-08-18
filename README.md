@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2432</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
+| 亚太区执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13692/executive-business-partner-apac/) |
+| 印度执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13693/executive-business-partner-india/) |
+| 亚太区解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13694/senior-director-solutions-architecture-apac/) |
+| 高级软件工程师，简单交易体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13691/senior-software-engineer-simple-trade-experience/) |
 | 风险策略分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
 | 政府销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
 | 高级产品经理 - 混合化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
@@ -37,11 +42,6 @@
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
 | 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
 | 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
-| Marketing Growth Algorithm Engineer 营销增长算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13479/marketing-growth-algorithm-engineer/) |
-| 顶级客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
-| 续约与拓展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
