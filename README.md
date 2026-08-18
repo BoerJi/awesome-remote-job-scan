@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2427</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2436</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
+| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
+| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
+| Marketing Growth Algorithm Engineer 营销增长算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13479/marketing-growth-algorithm-engineer/) |
+| 顶级客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
+| 续约与拓展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
+| 续约与拓展业务客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion/) |
+| 高级财务及管理报告助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13638/senior-associate-financial-and-management-reporting/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13635/product-designer/) |
 | 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | 社区工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | 现场工程运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | 解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
 | 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
 | 生命科学运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9487/life-sciences-operator-lead/) |
 | 物理安全设计工程师和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
 | 平台工程经理 - FinHub（金融智能） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
 | 云AI合作伙伴技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
 | 支持交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13612/support-delivery-lead/) |
 | 面向未来的软件工程师 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13614/forward-deployed-software-engineer-uae/) |
-| 亚马逊 GTM 合作伙伴关系，企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13611/amazon-gtm-partnerships-enterprise/) |
-| 前沿部署工程师 - 软件工程师 - 瑞士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13613/forward-deployed-engineer-software-engineer-switzerland/) |
-| 前沿部署工程师 - 软件工程师 - 沙特阿拉伯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13609/forward-deployed-engineer-software-engineer-saudi-arabia/) |
-| 高级社交媒体专家（合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13610/executive-social-media-specialist-contract/) |
-| 网络安全软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
-| 前部署工程师 - 软件工程师 - 丹麦 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13608/forward-deployed-engineer-software-engineer-denmark/) |
-| 前哨部署工程师 - 软件工程师 - 德国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13607/forward-deployed-engineer-software-engineer-germany/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

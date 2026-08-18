@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2427</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2436</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
+| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
+| AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
+| Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/13479/marketing-growth-algorithm-engineer/) |
+| Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
+| Account Manager, Renewals & Expansion | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
+| Senior Associate, Financial and Management Reporting | Hybrid | [View →](https://www.remotejobscan.com/job/13638/senior-associate-financial-and-management-reporting/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/13635/product-designer/) |
 | Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
 | Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
 | Life Sciences Operator, Lead | On-site | [View →](https://www.remotejobscan.com/job/9487/life-sciences-operator-lead/) |
 | Physical Security Design Engineer and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
 | Engineering Manager - Platform (FinHub - Financial Intelligence) | Remote | [View →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
 | Technical Program Manager, Cloud AI Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
 | Support Delivery Lead | On-site | [View →](https://www.remotejobscan.com/job/13612/support-delivery-lead/) |
 | Forward Deployed Software Engineer - UAE | Remote | [View →](https://www.remotejobscan.com/job/13614/forward-deployed-software-engineer-uae/) |
-| Amazon GTM Partnerships, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/amazon-gtm-partnerships-enterprise/) |
-| Forward Deployed Engineer - Software Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13613/forward-deployed-engineer-software-engineer-switzerland/) |
-| Forward Deployed Engineer - Software Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13609/forward-deployed-engineer-software-engineer-saudi-arabia/) |
-| Executive Social Media Specialist (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/13610/executive-social-media-specialist-contract/) |
-| Software Engineering Manager, Network Security | On-site | [View →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
-| Forward Deployed Engineer - Software Engineer - Denmark | Remote | [View →](https://www.remotejobscan.com/job/13608/forward-deployed-engineer-software-engineer-denmark/) |
-| Forward Deployed Engineer - Software Engineer - Germany | Remote | [View →](https://www.remotejobscan.com/job/13607/forward-deployed-engineer-software-engineer-germany/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
