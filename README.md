@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2434</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2432</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
+| 社区工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12051/community-engineer/) |
+| 现场工程运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
+| 解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
 | 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 | 顶级客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
@@ -39,9 +43,6 @@
 | 网络安全软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
 | 前部署工程师 - 软件工程师 - 丹麦 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13608/forward-deployed-engineer-software-engineer-denmark/) |
 | 前哨部署工程师 - 软件工程师 - 德国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13607/forward-deployed-engineer-software-engineer-germany/) |
-| 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
-| AI 加速器软件技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
-| 企业情报专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

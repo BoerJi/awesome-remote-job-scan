@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2434</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
+| Community Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/12051/community-engineer/) |
+| Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
+| Solutions Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/13629/solutions-marketing-manager/) |
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 | Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
@@ -39,9 +43,6 @@
 | Software Engineering Manager, Network Security | On-site | [View →](https://www.remotejobscan.com/job/13600/software-engineering-manager-network-security/) |
 | Forward Deployed Engineer - Software Engineer - Denmark | Remote | [View →](https://www.remotejobscan.com/job/13608/forward-deployed-engineer-software-engineer-denmark/) |
 | Forward Deployed Engineer - Software Engineer - Germany | Remote | [View →](https://www.remotejobscan.com/job/13607/forward-deployed-engineer-software-engineer-germany/) |
-| Sr. Technical Recruiter | On-site | [View →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
-| Technical Program Manager, AI Accelerator Software | Hybrid | [View →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
-| Enterprise Intelligence Specialist | On-site | [View →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
