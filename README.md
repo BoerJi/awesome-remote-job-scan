@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2434</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2437</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 物理安全设计主管和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13591/physical-security-design-lead-and-contract-document-specialist/) |
+| Staff+ 软件工程师，数据基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9671/staff-software-engineer-data-infrastructure/) |
+| AI安全与防护技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13715/technical-program-manager-ai-safety-safeguards/) |
+| Staff+ 隐私软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/customer-success-manager-strategics/) |
+| 公共部门应用AI架构师（国家安全） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13710/applied-ai-architect-public-sector-national-security/) |
 | Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13706/vercel-development-representative-startups/) |
 | 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13705/partner-enablement-lead-system-integrators/) |
 | 网络红队专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13709/red-team-specialist-cyber/) |
@@ -34,12 +40,6 @@
 | 客户成功GSI经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13700/manager-customer-success-gsi/) |
 | 前沿部署工程师 - 软件工程师 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13703/forward-deployed-engineer-software-engineer-poland/) |
 | CRM产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
-| 企业解决方案工程师 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13699/enterprise-solutions-engineer-poland/) |
-| 增长客户经理，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
-| 媒体客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13695/account-director-media/) |
-| 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
-| 高级人才项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13237/senior-talent-program-manager/) |
-| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

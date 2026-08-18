@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2434</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Physical Security Design Lead and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-lead-and-contract-document-specialist/) |
+| Staff+ Software Engineer, Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9671/staff-software-engineer-data-infrastructure/) |
+| Technical Program Manager, AI Safety & Safeguards | On-site | [View →](https://www.remotejobscan.com/job/13715/technical-program-manager-ai-safety-safeguards/) |
+| Staff+ Software Engineer, Privacy | On-site | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-strategics/) |
+| Applied AI Architect, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/13710/applied-ai-architect-public-sector-national-security/) |
 | Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/13706/vercel-development-representative-startups/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13705/partner-enablement-lead-system-integrators/) |
 | Red Team Specialist - Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/13709/red-team-specialist-cyber/) |
@@ -34,12 +40,6 @@
 | Manager, Customer Success GSI | On-site | [View →](https://www.remotejobscan.com/job/13700/manager-customer-success-gsi/) |
 | Forward Deployed Engineer - Software Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13703/forward-deployed-engineer-software-engineer-poland/) |
 | Product Manager - CRM | Remote | [View →](https://www.remotejobscan.com/job/13697/product-manager-crm/) |
-| Enterprise Solutions Engineer - Poland | Remote | [View →](https://www.remotejobscan.com/job/13699/enterprise-solutions-engineer-poland/) |
-| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
-| Account Director, Media | Remote | [View →](https://www.remotejobscan.com/job/13695/account-director-media/) |
-| Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13361/chief-of-staff/) |
-| Senior Talent Program Manager | Remote | [View →](https://www.remotejobscan.com/job/13237/senior-talent-program-manager/) |
-| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12241/principal-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
