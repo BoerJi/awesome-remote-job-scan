@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk Strategy Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13687/risk-strategy-analyst/) |
+| Sales Development - Government | Remote | [View →](https://www.remotejobscan.com/job/13686/sales-development-government/) |
 | Sr Product Manager - Hybridisation | Remote | [View →](https://www.remotejobscan.com/job/13685/sr-product-manager-hybridisation/) |
 | Institutional BD Manager - Turkish | Remote | [View →](https://www.remotejobscan.com/job/12601/institutional-bd-manager-turkish/) |
 | Institutional BD Manager - Brazil | Remote | [View →](https://www.remotejobscan.com/job/12598/institutional-bd-manager-brazil/) |
@@ -40,7 +42,6 @@
 | Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/13479/marketing-growth-algorithm-engineer/) |
 | Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | Account Manager, Renewals & Expansion | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion/) |
-| Senior Associate, Financial and Management Reporting | Hybrid | [View →](https://www.remotejobscan.com/job/13638/senior-associate-financial-and-management-reporting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
