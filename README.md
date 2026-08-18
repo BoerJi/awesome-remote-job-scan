@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2431</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -38,10 +38,10 @@
 | AI 加速器软件技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
 | 企业情报专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
 | 部署策略师 - 瑞士 - 全球扩张 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13595/deployment-strategist-switzerland-global-expansion/) |
-| 物理安全设计工程师和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 | 企业风险管理负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13590/head-of-enterprise-risk/) |
 | 部署工程师（纽约初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
+| 部署工程师（早期职业-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-17 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
