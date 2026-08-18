@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2431</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2434</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
+| Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
 | Life Sciences Operator, Lead | On-site | [View →](https://www.remotejobscan.com/job/9487/life-sciences-operator-lead/) |
 | Physical Security Design Engineer and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
@@ -40,8 +42,6 @@
 | Sr. Technical Recruiter | On-site | [View →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
 | Technical Program Manager, AI Accelerator Software | Hybrid | [View →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
 | Enterprise Intelligence Specialist | On-site | [View →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
-| Deployment Strategist - Switzerland - Global Expansion | On-site | [View →](https://www.remotejobscan.com/job/13595/deployment-strategist-switzerland-global-expansion/) |
-| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

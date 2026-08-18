@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2431</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2434</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
+| 顶级客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
 | 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13617/customer-success-manager-strategics/) |
 | 生命科学运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9487/life-sciences-operator-lead/) |
 | 物理安全设计工程师和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
@@ -40,8 +42,6 @@
 | 高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13599/sr-technical-recruiter/) |
 | AI 加速器软件技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13598/technical-program-manager-ai-accelerator-software/) |
 | 企业情报专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13589/enterprise-intelligence-specialist/) |
-| 部署策略师 - 瑞士 - 全球扩张 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13595/deployment-strategist-switzerland-global-expansion/) |
-| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12124/software-engineer-cdp-stablecoin/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
