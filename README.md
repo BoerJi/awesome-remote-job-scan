@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2436</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2432</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
+| 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
 | 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
@@ -41,8 +43,6 @@
 | 物理安全设计工程师和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
 | 平台工程经理 - FinHub（金融智能） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
 | 云AI合作伙伴技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
-| 支持交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13612/support-delivery-lead/) |
-| 面向未来的软件工程师 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13614/forward-deployed-software-engineer-uae/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

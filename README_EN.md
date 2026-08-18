@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2436</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13645/customer-success-manager/) |
+| Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13644/customer-success-manager-strategics/) |
 | 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | AI Algorithm Engineer (Agent Direction)AI 算法工程师（Agent 方向） | Remote | [View →](https://www.remotejobscan.com/job/12750/ai-algorithm-engineer-agent-directionai-agent/) |
@@ -40,8 +42,6 @@
 | Physical Security Design Engineer and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/13591/physical-security-design-engineer-and-contract-document-specialist/) |
 | Engineering Manager - Platform (FinHub - Financial Intelligence) | Remote | [View →](https://www.remotejobscan.com/job/13615/engineering-manager-platform-finhub-financial-intelligence/) |
 | Technical Program Manager, Cloud AI Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13616/technical-program-manager-cloud-ai-partnerships/) |
-| Support Delivery Lead | On-site | [View →](https://www.remotejobscan.com/job/13612/support-delivery-lead/) |
-| Forward Deployed Software Engineer - UAE | Remote | [View →](https://www.remotejobscan.com/job/13614/forward-deployed-software-engineer-uae/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
