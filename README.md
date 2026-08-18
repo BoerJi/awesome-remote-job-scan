@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
+| 高管业务中心市场负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
+| IT支持工程师，应用管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
+| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | 平台软件工程师，摄取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13733/platform-software-engineer-ingestion/) |
 | 产品设计领导力与增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13732/product-design-leadership-growth/) |
 | 插件开发者平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13731/software-engineer-plugin-developer-platform/) |
@@ -39,9 +43,6 @@
 | 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13705/partner-enablement-lead-system-integrators/) |
 | 网络红队专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13709/red-team-specialist-cyber/) |
 | 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13708/applied-ai-engineer/) |
-| 顶级客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| 行业客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13704/customer-success-manager-industries/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

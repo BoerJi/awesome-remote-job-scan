@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
+| Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
+| IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
+| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | Platform Software Engineer, Ingestion | On-site | [View →](https://www.remotejobscan.com/job/13733/platform-software-engineer-ingestion/) |
 | Product Design Leadership, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/13732/product-design-leadership-growth/) |
 | Software Engineer, Plugin Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/13731/software-engineer-plugin-developer-platform/) |
@@ -39,9 +43,6 @@
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13705/partner-enablement-lead-system-integrators/) |
 | Red Team Specialist - Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/13709/red-team-specialist-cyber/) |
 | Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13708/applied-ai-engineer/) |
-| Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| Customer Success Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13704/customer-success-manager-industries/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
