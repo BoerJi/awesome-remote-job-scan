@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2356</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Proposals Lead | Remote | [View →](https://www.remotejobscan.com/job/13738/enterprise-proposals-lead/) |
+| Head of Technical Success, Government | Hybrid | [View →](https://www.remotejobscan.com/job/13736/head-of-technical-success-government/) |
+| Proposal Manager - United States | Remote | [View →](https://www.remotejobscan.com/job/13737/proposal-manager-united-states/) |
+| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13735/partner-enablement-lead-system-integrators/) |
+| Solutions Engineer (Chicago) | Remote | [View →](https://www.remotejobscan.com/job/13739/solutions-engineer-chicago/) |
+| Enterprise Account Executive (Boston) | On-site | [View →](https://www.remotejobscan.com/job/13734/enterprise-account-executive-boston/) |
 | Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
-| Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
 | IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | Platform Software Engineer, Ingestion | On-site | [View →](https://www.remotejobscan.com/job/13733/platform-software-engineer-ingestion/) |
@@ -38,16 +43,11 @@
 | Technical Program Manager, AI Safety & Safeguards | On-site | [View →](https://www.remotejobscan.com/job/13715/technical-program-manager-ai-safety-safeguards/) |
 | Staff+ Software Engineer, Privacy | On-site | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | Customer Success Manager, Strategics | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-strategics/) |
-| Applied AI Architect, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/13710/applied-ai-architect-public-sector-national-security/) |
-| Vercel Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/13706/vercel-development-representative-startups/) |
-| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13705/partner-enablement-lead-system-integrators/) |
-| Red Team Specialist - Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/13709/red-team-specialist-cyber/) |
-| Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13708/applied-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -98,13 +98,12 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
-| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [View jobs →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-18 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

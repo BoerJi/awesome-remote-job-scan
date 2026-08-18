@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2437</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2356</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业提案主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13738/enterprise-proposals-lead/) |
+| 政府技术成功负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13736/head-of-technical-success-government/) |
+| 提案经理 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13737/proposal-manager-united-states/) |
+| 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13735/partner-enablement-lead-system-integrators/) |
+| 解决方案工程师（芝加哥） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13739/solutions-engineer-chicago/) |
+| 企业客户经理（波士顿） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13734/enterprise-account-executive-boston/) |
 | 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
-| 高管业务中心市场负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
 | IT支持工程师，应用管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | 平台软件工程师，摄取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13733/platform-software-engineer-ingestion/) |
@@ -38,16 +43,11 @@
 | AI安全与防护技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13715/technical-program-manager-ai-safety-safeguards/) |
 | Staff+ 隐私软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | 战略客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/customer-success-manager-strategics/) |
-| 公共部门应用AI架构师（国家安全） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13710/applied-ai-architect-public-sector-national-security/) |
-| Vercel 开发代表，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13706/vercel-development-representative-startups/) |
-| 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13705/partner-enablement-lead-system-integrators/) |
-| 网络红队专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13709/red-team-specialist-cyber/) |
-| 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13708/applied-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（47 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -98,13 +98,12 @@
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [查看职位 →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [查看职位 →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [查看职位 →](https://www.remotejobscan.com/?company=united-stables) |
-| <img src="images/vercel.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Vercel"> | <a href="https://vercel.com/">Vercel</a> | [查看职位 →](https://www.remotejobscan.com/?company=vercel) |
 
 ---
 
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-18 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
