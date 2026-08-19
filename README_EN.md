@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2469</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2471</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
+| Strategic Delivery Lead, DoW CDAO | Hybrid | [View →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
+| Account Executive, META | Remote | [View →](https://www.remotejobscan.com/job/13870/account-executive-meta/) |
+| Solutions Architect - UAE | Remote | [View →](https://www.remotejobscan.com/job/13869/solutions-architect-uae/) |
 | Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/13865/applied-ai-architect-startups/) |
 | Technical Program Manager, AI Delivery | On-site | [View →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
 | Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
@@ -36,12 +41,6 @@
 | Partner Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13847/partner-solutions-architect-applied-ai/) |
 | Solution Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13832/solution-architect-applied-ai/) |
 | Institutional BD Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/13833/institutional-bd-manager-latam/) |
-| Member of Technical Staff, North Modelling (Evals) | Hybrid | [View →](https://www.remotejobscan.com/job/13846/member-of-technical-staff-north-modelling-evals/) |
-| Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | On-site | [View →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
-| Law Enforcement Specialist – UAE | On-site | [View →](https://www.remotejobscan.com/job/13819/law-enforcement-specialist-uae/) |
-| Product Marketing Manager-Perps | Remote | [View →](https://www.remotejobscan.com/job/13835/product-marketing-manager-perps/) |
-| Institutional BD Manager - Korean | Remote | [View →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
-| Account Executive - Korea | Remote | [View →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
