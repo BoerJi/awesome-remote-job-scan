@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2493</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2498</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
+| Tax Director, Business Advisory and Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
+| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
+| Events Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
 | Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
 | Director, Infrastructure Supply Chain Accounting | On-site | [View →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
 | Customer Success Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/13911/customer-success-manager-uae/) |
@@ -38,10 +43,6 @@
 | Lead, Corporate Technical Accounting and Strategic Transactions | Hybrid | [View →](https://www.remotejobscan.com/job/13903/lead-corporate-technical-accounting-and-strategic-transactions/) |
 | Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
 | Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/13901/strategic-sourcing-business-partner-rd-operations/) |
-| Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/13904/strategic-partner-manager/) |
-| Business Operations Partner, Transportation Program | Hybrid | [View →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
-| DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
