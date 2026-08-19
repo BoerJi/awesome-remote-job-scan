@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2489</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2496</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
+| 法国客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
+| 基础设施供应链会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
+| 客户成功经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13911/customer-success-manager-uae/) |
+| 售后部署架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
+| 部署架构师，售后（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
+| 部署架构师，售后（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
+| 部署架构师，售后支持（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
+| 部署架构师，售后（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
 | BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | 数据中心电气工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
 | 数据中心机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
@@ -34,13 +42,6 @@
 | 战略合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13904/strategic-partner-manager/) |
 | 交通项目业务运营合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
 | DevOps / AgentOps工程师，GTM系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
-| 企业部署 - 行政总长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 社区参与经理，数据中心（澳大利亚） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13891/community-engagement-manager-data-centres-australia/) |
-| 社区参与经理，数据中心（加拿大） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13887/community-engagement-manager-data-centres-canada/) |
-| 社区参与经理，数据中心（德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-texas/) |
-| EAA CX资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

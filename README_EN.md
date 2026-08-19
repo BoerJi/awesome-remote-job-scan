@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2489</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2496</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
+| Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
+| Director, Infrastructure Supply Chain Accounting | On-site | [View →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
+| Customer Success Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/13911/customer-success-manager-uae/) |
+| Deployed Architect, Post-Sales (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
+| Deployed Architect, Post-Sales (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
+| Deployed Architect, Post-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
+| Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
+| Deployed Architect, Post-Sales (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
 | BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Data Center Electrical Engineer | On-site | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
 | Data Center Mechanical Engineer | On-site | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
@@ -34,13 +42,6 @@
 | Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/13904/strategic-partner-manager/) |
 | Business Operations Partner, Transportation Program | Hybrid | [View →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
 | DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
-| Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Community Engagement Manager, Data Centres (Australia) | Remote | [View →](https://www.remotejobscan.com/job/13891/community-engagement-manager-data-centres-australia/) |
-| Community Engagement Manager, Data Centres (Canada) | Remote | [View →](https://www.remotejobscan.com/job/13887/community-engagement-manager-data-centres-canada/) |
-| Community Engagement Manager, Data Centers (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-texas/) |
-| Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
