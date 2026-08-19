@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2477</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2488</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| Community Engagement Manager, Data Centres (Australia) | Remote | [View →](https://www.remotejobscan.com/job/13891/community-engagement-manager-data-centres-australia/) |
+| Community Engagement Manager, Data Centres (Canada) | Remote | [View →](https://www.remotejobscan.com/job/13887/community-engagement-manager-data-centres-canada/) |
+| Community Engagement Manager, Data Centers (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-texas/) |
+| Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 | Growth Manager: Activation & Retention - UAE | On-site | [View →](https://www.remotejobscan.com/job/13879/growth-manager-activation-retention-uae/) |
 | VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/13880/vip-relationship-manager/) |
 | Assistant General Counsel - Commercial (Partnerships) | Remote | [View →](https://www.remotejobscan.com/job/13883/assistant-general-counsel-commercial-partnerships/) |
@@ -35,11 +41,6 @@
 | Program Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
 | Enterprise Account Executive, DOW/IC | On-site | [View →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
-| Strategic Delivery Lead, DoW CDAO | Hybrid | [View →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
-| Account Executive, META | Remote | [View →](https://www.remotejobscan.com/job/13870/account-executive-meta/) |
-| Solutions Architect - UAE | Remote | [View →](https://www.remotejobscan.com/job/13869/solutions-architect-uae/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

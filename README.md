@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2477</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2488</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业部署 - 行政总长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| 社区参与经理，数据中心（澳大利亚） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13891/community-engagement-manager-data-centres-australia/) |
+| 社区参与经理，数据中心（加拿大） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13887/community-engagement-manager-data-centres-canada/) |
+| 社区参与经理，数据中心（德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-texas/) |
+| EAA CX资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 | 增长经理：激活与留存 - 阿联酋 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13879/growth-manager-activation-retention-uae/) |
 | VIP客户关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13880/vip-relationship-manager/) |
 | 助理总法律顾问 - 商业（合作） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13883/assistant-general-counsel-commercial-partnerships/) |
@@ -36,11 +42,6 @@
 | 人类数据项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
 | 企业客户经理，DOW/IC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
-| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
-| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
-| 战略交付主管，国防部CDAO | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
-| META 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13870/account-executive-meta/) |
-| 解决方案架构师 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13869/solutions-architect-uae/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
