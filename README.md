@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2455</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2457</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
+| 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | 企业开发助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
 | 高级产品经理，AI风险策略（买卖加密货币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
 | 产品经理 — 交易体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
@@ -41,8 +43,6 @@
 | 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
 | 硬件财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13756/hardware-finance-manager/) |
 | 国际云采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
-| 企业提案主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13738/enterprise-proposals-lead/) |
-| 企业客户经理（费城） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13744/enterprise-account-executive-philadelphia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

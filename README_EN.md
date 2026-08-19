@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2455</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2457</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - Korea | Remote | [View →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
+| 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
 | Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | On-site | [View →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
 | Product Manager — Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
@@ -41,8 +43,6 @@
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
 | Hardware Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13756/hardware-finance-manager/) |
 | Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
-| Enterprise Proposals Lead | Remote | [View →](https://www.remotejobscan.com/job/13738/enterprise-proposals-lead/) |
-| Enterprise Account Executive (Philadelphia) | Remote | [View →](https://www.remotejobscan.com/job/13744/enterprise-account-executive-philadelphia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
