@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DevOps / AgentOps工程师，GTM系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 | 企业部署 - 行政总长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 社区参与经理，数据中心（澳大利亚） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13891/community-engagement-manager-data-centres-australia/) |
@@ -39,9 +41,6 @@
 | 全球事务参与与拓展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
 | 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 | 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| 人类数据项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
-| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
-| 企业客户经理，DOW/IC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

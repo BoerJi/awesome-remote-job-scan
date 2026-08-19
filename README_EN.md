@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 | Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Community Engagement Manager, Data Centres (Australia) | Remote | [View →](https://www.remotejobscan.com/job/13891/community-engagement-manager-data-centres-australia/) |
@@ -38,9 +40,6 @@
 | Engagement and Outreach Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 | Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| Program Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
-| Enterprise Account Executive, DOW/IC | On-site | [View →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
