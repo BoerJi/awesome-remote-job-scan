@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2455</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2449</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Systems Analyst, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
 | Business Support | Remote | [View →](https://www.remotejobscan.com/job/13771/business-support/) |
 | Hardware Strategic Sourcing & Manufacturing Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13794/hardware-strategic-sourcing-manufacturing-partnerships-manager/) |
@@ -42,7 +43,6 @@
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/13742/executive-assistant/) |
 | Front End Engineer, Marketing | On-site | [View →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
 | Protective Intelligence & Threat Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13743/protective-intelligence-threat-analyst/) |
-| Product Manager, ChatGPT and Codex App Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/13740/product-manager-chatgpt-and-codex-app-ecosystem/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

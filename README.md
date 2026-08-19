@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2455</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2449</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业系统分析师，安全工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
 | 业务支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13771/business-support/) |
 | 硬件战略采购与制造合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13794/hardware-strategic-sourcing-manufacturing-partnerships-manager/) |
@@ -42,7 +43,6 @@
 | 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13742/executive-assistant/) |
 | 前端工程师，市场营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
 | 保护性情报与威胁分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13743/protective-intelligence-threat-analyst/) |
-| ChatGPT和Codex应用生态系统产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13740/product-manager-chatgpt-and-codex-app-ecosystem/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
