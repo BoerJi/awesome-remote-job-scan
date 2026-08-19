@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2438</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2445</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Product Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
+| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
+| Hardware Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13756/hardware-finance-manager/) |
+| Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
 | Enterprise Proposals Lead | Remote | [View →](https://www.remotejobscan.com/job/13738/enterprise-proposals-lead/) |
 | Enterprise Account Executive (Philadelphia) | Remote | [View →](https://www.remotejobscan.com/job/13744/enterprise-account-executive-philadelphia/) |
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/13742/executive-assistant/) |
@@ -39,10 +43,6 @@
 | Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
 | Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
 | Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
-| Global Benefits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11567/global-benefits-lead/) |
-| Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
