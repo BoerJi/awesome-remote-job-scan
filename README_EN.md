@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2487</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2489</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
+| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
+| Data Center Electrical Engineer | On-site | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
+| Data Center Mechanical Engineer | On-site | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
+| Infrastructure Engineer, Database | On-site | [View →](https://www.remotejobscan.com/job/13909/infrastructure-engineer-database/) |
+| Lead, Corporate Technical Accounting and Strategic Transactions | Hybrid | [View →](https://www.remotejobscan.com/job/13903/lead-corporate-technical-accounting-and-strategic-transactions/) |
+| Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
+| Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/13901/strategic-sourcing-business-partner-rd-operations/) |
+| Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/13904/strategic-partner-manager/) |
 | Business Operations Partner, Transportation Program | Hybrid | [View →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
 | DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
@@ -32,14 +41,6 @@
 | Community Engagement Manager, Data Centres (Canada) | Remote | [View →](https://www.remotejobscan.com/job/13887/community-engagement-manager-data-centres-canada/) |
 | Community Engagement Manager, Data Centers (Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-texas/) |
 | Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
-| Growth Manager: Activation & Retention - UAE | On-site | [View →](https://www.remotejobscan.com/job/13879/growth-manager-activation-retention-uae/) |
-| VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/13880/vip-relationship-manager/) |
-| Assistant General Counsel - Commercial (Partnerships) | Remote | [View →](https://www.remotejobscan.com/job/13883/assistant-general-counsel-commercial-partnerships/) |
-| Product Manager, Public Sector | Remote | [View →](https://www.remotejobscan.com/job/13881/product-manager-public-sector/) |
-| ASIC Package SI/PI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13885/asic-package-sipi-engineer/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13877/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Engagement and Outreach Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
-| Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
