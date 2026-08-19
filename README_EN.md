@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2474</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2477</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Manager: Activation & Retention - UAE | On-site | [View →](https://www.remotejobscan.com/job/13879/growth-manager-activation-retention-uae/) |
+| VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/13880/vip-relationship-manager/) |
+| Assistant General Counsel - Commercial (Partnerships) | Remote | [View →](https://www.remotejobscan.com/job/13883/assistant-general-counsel-commercial-partnerships/) |
+| Product Manager, Public Sector | Remote | [View →](https://www.remotejobscan.com/job/13881/product-manager-public-sector/) |
+| ASIC Package SI/PI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/13885/asic-package-sipi-engineer/) |
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13877/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Engagement and Outreach Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
+| Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
+| Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
 | Program Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
 | Enterprise Account Executive, DOW/IC | On-site | [View →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
@@ -31,16 +40,6 @@
 | Strategic Delivery Lead, DoW CDAO | Hybrid | [View →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
 | Account Executive, META | Remote | [View →](https://www.remotejobscan.com/job/13870/account-executive-meta/) |
 | Solutions Architect - UAE | Remote | [View →](https://www.remotejobscan.com/job/13869/solutions-architect-uae/) |
-| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/13865/applied-ai-architect-startups/) |
-| Technical Program Manager, AI Delivery | On-site | [View →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
-| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
-| Field Marketing Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
-| Forward Deployed Engineer, Infrastructure Specialist (France) | Hybrid | [View →](https://www.remotejobscan.com/job/13859/forward-deployed-engineer-infrastructure-specialist-france/) |
-| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13856/solutions-architect-applied-ai/) |
-| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
-| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
-| Risk & Control Specialist 风控审核 欧洲站 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

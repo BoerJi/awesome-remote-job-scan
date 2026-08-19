@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2474</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2477</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长经理：激活与留存 - 阿联酋 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13879/growth-manager-activation-retention-uae/) |
+| VIP客户关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13880/vip-relationship-manager/) |
+| 助理总法律顾问 - 商业（合作） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13883/assistant-general-counsel-commercial-partnerships/) |
+| 商业总法律顾问助理（合作伙伴） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13882/assistant-general-counsel-commercial-partnerships/) |
+| 公共部门产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13881/product-manager-public-sector/) |
+| ASIC封装信号完整性/电源完整性工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13885/asic-package-sipi-engineer/) |
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13877/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 全球事务参与与拓展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
+| 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
+| 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
 | 人类数据项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
 | 企业客户经理，DOW/IC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
@@ -31,16 +41,6 @@
 | 战略交付主管，国防部CDAO | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
 | META 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13870/account-executive-meta/) |
 | 解决方案架构师 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13869/solutions-architect-uae/) |
-| 应用AI架构师，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13865/applied-ai-architect-startups/) |
-| AI交付技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
-| 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
-| 亚太区现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
-| 前部署工程师，基础设施专家（法国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13859/forward-deployed-engineer-infrastructure-specialist-france/) |
-| 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/solutions-architect-applied-ai/) |
-| 业务发展经理（斯洛伐克与捷克共和国） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
-| 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
-| Risk & Control Specialist 风控审核 欧洲站 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
