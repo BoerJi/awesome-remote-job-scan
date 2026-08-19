@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2496</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2493</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 | Position | Location | Details |
 |---|---|---|
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
 | Director, Infrastructure Supply Chain Accounting | On-site | [View →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
 | Customer Success Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/13911/customer-success-manager-uae/) |
@@ -42,6 +41,7 @@
 | Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/13904/strategic-partner-manager/) |
 | Business Operations Partner, Transportation Program | Hybrid | [View →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
 | DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
