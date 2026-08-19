@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2445</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2450</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Account Manager - Online Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
+| AI-Native Mobile Engineer - New Grad | On-site | [View →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
+| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
+| Staff+ Software Engineer, Platform Connectivity | On-site | [View →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
 | Staff+ Software Engineer, Product Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
 | Hardware Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13756/hardware-finance-manager/) |
@@ -39,10 +43,6 @@
 | People Operations Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
 | Account Executive, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
 | Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
-| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| Member of the Technical Staff, Internal Agent | Remote | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
-| Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
