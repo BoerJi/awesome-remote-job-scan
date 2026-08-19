@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2471</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2475</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
+| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
+| Enterprise Account Executive, DOW/IC | On-site | [View →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
 | Strategic Delivery Lead, DoW CDAO | Hybrid | [View →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
@@ -38,9 +41,6 @@
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
 | Risk & Control Specialist 风控审核 欧洲站 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
-| Partner Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13847/partner-solutions-architect-applied-ai/) |
-| Solution Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13832/solution-architect-applied-ai/) |
-| Institutional BD Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/13833/institutional-bd-manager-latam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

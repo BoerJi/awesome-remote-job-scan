@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2471</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2475</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人类数据项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13873/program-manager-human-data/) |
+| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13871/applied-ai-engineer-enterprise/) |
+| 企业客户经理，DOW/IC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
 | 战略交付主管，国防部CDAO | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13868/strategic-delivery-lead-dow-cdao/) |
@@ -38,9 +41,6 @@
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
 | Risk & Control Specialist 风控审核 欧洲站 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
-| 应用人工智能合作伙伴解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13847/partner-solutions-architect-applied-ai/) |
-| 应用 AI 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13832/solution-architect-applied-ai/) |
-| 拉美机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13833/institutional-bd-manager-latam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
