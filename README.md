@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2448</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2472</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
+| Risk & Control Specialist 风控审核 欧洲站 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
+| 应用人工智能合作伙伴解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13847/partner-solutions-architect-applied-ai/) |
+| 应用 AI 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13832/solution-architect-applied-ai/) |
+| 拉美机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13833/institutional-bd-manager-latam/) |
+| 技术团队成员，北建模（评估） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13846/member-of-technical-staff-north-modelling-evals/) |
 | 高级产品经理，AI风险策略（买入/卖出加密货币） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
 | 阿联酋执法专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13819/law-enforcement-specialist-uae/) |
+| 产品营销经理-Perps | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13835/product-marketing-manager-perps/) |
 | 机构BD经理 - 韩语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
 | 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
 | 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
@@ -34,15 +42,6 @@
 | 商业系统分析师，安全工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
 | 业务支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13771/business-support/) |
-| 硬件战略采购与制造合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13794/hardware-strategic-sourcing-manufacturing-partnerships-manager/) |
-| 合规运营分析师（反洗钱-KYC与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Surface, OG 商品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13770/merchandising-operations-manager-surface-og/) |
-| 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
-| 高级账户经理 - 在线企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
-| 平台 Staff+ 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ 平台连接软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
-| Staff+ 软件工程师，产品沙箱 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
-| 系统集成商合作伙伴赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

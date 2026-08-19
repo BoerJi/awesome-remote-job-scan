@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2448</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2472</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
+| Risk & Control Specialist 风控审核 欧洲站 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
+| Partner Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13847/partner-solutions-architect-applied-ai/) |
+| Solution Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13832/solution-architect-applied-ai/) |
+| Institutional BD Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/13833/institutional-bd-manager-latam/) |
+| Member of Technical Staff, North Modelling (Evals) | Hybrid | [View →](https://www.remotejobscan.com/job/13846/member-of-technical-staff-north-modelling-evals/) |
 | Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | On-site | [View →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
 | Law Enforcement Specialist – UAE | On-site | [View →](https://www.remotejobscan.com/job/13819/law-enforcement-specialist-uae/) |
+| Product Marketing Manager-Perps | Remote | [View →](https://www.remotejobscan.com/job/13835/product-marketing-manager-perps/) |
 | Institutional BD Manager - Korean | Remote | [View →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
 | Account Executive - Korea | Remote | [View →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
 | 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
@@ -34,15 +42,6 @@
 | Business Systems Analyst, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
 | Business Support | Remote | [View →](https://www.remotejobscan.com/job/13771/business-support/) |
-| Hardware Strategic Sourcing & Manufacturing Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13794/hardware-strategic-sourcing-manufacturing-partnerships-manager/) |
-| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Merchandising Operations Manager - Surface, OG | Hybrid | [View →](https://www.remotejobscan.com/job/13770/merchandising-operations-manager-surface-og/) |
-| Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
-| Senior Account Manager - Online Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
-| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ Software Engineer, Platform Connectivity | On-site | [View →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
-| Staff+ Software Engineer, Product Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
-| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
