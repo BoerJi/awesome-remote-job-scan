@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2469</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2471</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/13865/applied-ai-architect-startups/) |
+| Technical Program Manager, AI Delivery | On-site | [View →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
+| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
+| Field Marketing Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
 | Forward Deployed Engineer, Infrastructure Specialist (France) | Hybrid | [View →](https://www.remotejobscan.com/job/13859/forward-deployed-engineer-infrastructure-specialist-france/) |
 | Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13856/solutions-architect-applied-ai/) |
 | Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
@@ -38,10 +42,6 @@
 | Product Marketing Manager-Perps | Remote | [View →](https://www.remotejobscan.com/job/13835/product-marketing-manager-perps/) |
 | Institutional BD Manager - Korean | Remote | [View →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
 | Account Executive - Korea | Remote | [View →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
-| 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
-| Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
-| Product Manager — Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
-| Product Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

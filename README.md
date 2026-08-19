@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2469</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2471</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13865/applied-ai-architect-startups/) |
+| AI交付技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
+| 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
+| 亚太区现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
 | 前部署工程师，基础设施专家（法国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13859/forward-deployed-engineer-infrastructure-specialist-france/) |
 | 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/solutions-architect-applied-ai/) |
 | 业务发展经理（斯洛伐克与捷克共和国） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
@@ -38,10 +42,6 @@
 | 产品营销经理-Perps | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13835/product-marketing-manager-perps/) |
 | 机构BD经理 - 韩语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
 | 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
-| 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
-| 企业开发助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
-| 产品经理 — 交易体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
-| 应用人工智能产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
