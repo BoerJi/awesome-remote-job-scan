@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2449</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2443</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/regional-affiliate-specialist/) |
+| 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
 | 高级账户经理 - 在线企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
 | AI原生移动工程师-应届生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
 | 平台 Staff+ 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
@@ -41,8 +43,6 @@
 | 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
 | Next.js技术团队负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
 | 人员运营集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
-| 商业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
-| 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

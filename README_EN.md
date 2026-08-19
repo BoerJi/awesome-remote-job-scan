@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2449</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2443</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/8708/regional-affiliate-specialist/) |
+| Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
 | Senior Account Manager - Online Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
 | AI-Native Mobile Engineer - New Grad | On-site | [View →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
@@ -41,8 +43,6 @@
 | Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
 | Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
 | People Operations Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
-| Account Executive, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/12101/account-executive-commercial/) |
-| Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
