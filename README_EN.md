@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2447</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2450</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | On-site | [View →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
+| Law Enforcement Specialist – UAE | On-site | [View →](https://www.remotejobscan.com/job/13819/law-enforcement-specialist-uae/) |
 | Institutional BD Manager - Korean | Remote | [View →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | Account Executive - Korea | Remote | [View →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
@@ -40,8 +42,6 @@
 | Senior Account Manager - Online Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Platform Connectivity | On-site | [View →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
-| Staff+ Software Engineer, Product Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
-| Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
