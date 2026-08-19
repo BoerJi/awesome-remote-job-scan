@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2449</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2451</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager — Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
+| Product Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
 | Business Systems Analyst, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
 | Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
 | Business Support | Remote | [View →](https://www.remotejobscan.com/job/13771/business-support/) |
@@ -31,7 +33,6 @@
 | Merchandising Operations Manager - Surface, OG | Hybrid | [View →](https://www.remotejobscan.com/job/13770/merchandising-operations-manager-surface-og/) |
 | Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
 | Senior Account Manager - Online Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
-| AI-Native Mobile Engineer - New Grad | On-site | [View →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Platform Connectivity | On-site | [View →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
 | Staff+ Software Engineer, Product Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
@@ -42,7 +43,6 @@
 | Enterprise Account Executive (Philadelphia) | Remote | [View →](https://www.remotejobscan.com/job/13744/enterprise-account-executive-philadelphia/) |
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/13742/executive-assistant/) |
 | Front End Engineer, Marketing | On-site | [View →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
-| Protective Intelligence & Threat Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13743/protective-intelligence-threat-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

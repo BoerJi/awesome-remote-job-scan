@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2449</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2451</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理 — 交易体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
+| 应用人工智能产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
 | 商业系统分析师，安全工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
 | 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
 | 业务支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13771/business-support/) |
@@ -31,7 +33,6 @@
 | Surface, OG 商品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13770/merchandising-operations-manager-surface-og/) |
 | 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
 | 高级账户经理 - 在线企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
-| AI原生移动工程师-应届生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
 | 平台 Staff+ 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ 平台连接软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
 | Staff+ 软件工程师，产品沙箱 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
@@ -42,7 +43,6 @@
 | 企业客户经理（费城） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13744/enterprise-account-executive-philadelphia/) |
 | 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13742/executive-assistant/) |
 | 前端工程师，市场营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
-| 保护性情报与威胁分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13743/protective-intelligence-threat-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
