@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2457</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2447</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional BD Manager - Korean | Remote | [View →](https://www.remotejobscan.com/job/13816/institutional-bd-manager-korean/) |
+| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | Account Executive - Korea | Remote | [View →](https://www.remotejobscan.com/job/13815/account-executive-korea/) |
 | 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
-| Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | On-site | [View →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
 | Product Manager — Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
 | Product Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
 | Business Systems Analyst, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
@@ -41,8 +42,6 @@
 | Staff+ Software Engineer, Platform Connectivity | On-site | [View →](https://www.remotejobscan.com/job/13759/staff-software-engineer-platform-connectivity/) |
 | Staff+ Software Engineer, Product Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/13758/staff-software-engineer-product-sandboxing/) |
 | Partner Enablement Lead, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/13757/partner-enablement-lead-system-integrators/) |
-| Hardware Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13756/hardware-finance-manager/) |
-| Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
