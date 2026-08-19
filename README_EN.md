@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2472</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2474</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Infrastructure Specialist (France) | Hybrid | [View →](https://www.remotejobscan.com/job/13859/forward-deployed-engineer-infrastructure-specialist-france/) |
+| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13856/solutions-architect-applied-ai/) |
+| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
 | Risk & Control Specialist 风控审核 欧洲站 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
@@ -39,9 +42,6 @@
 | Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
 | Product Manager — Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
 | Product Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
-| Business Systems Analyst, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
-| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
-| Business Support | Remote | [View →](https://www.remotejobscan.com/job/13771/business-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

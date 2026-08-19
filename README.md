@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2472</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2474</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前部署工程师，基础设施专家（法国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13859/forward-deployed-engineer-infrastructure-specialist-france/) |
+| 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/solutions-architect-applied-ai/) |
+| 业务发展经理（斯洛伐克与捷克共和国） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9152/business-development-manager-slovakia-czech-republic/) |
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13831/customer-success-manager/) |
 | Risk & Control Specialist 风控审核 欧洲站 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
@@ -39,9 +42,6 @@
 | 企业开发助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
 | 产品经理 — 交易体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
 | 应用人工智能产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
-| 商业系统分析师，安全工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
-| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
-| 业务支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13771/business-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
