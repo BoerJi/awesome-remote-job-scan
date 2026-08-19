@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2451</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2455</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/13814/associate-corporate-development/) |
+| Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | On-site | [View →](https://www.remotejobscan.com/job/13811/senior-product-manager-ai-risk-strategy-buysell-crypto/) |
 | Product Manager — Trading Experience | Hybrid | [View →](https://www.remotejobscan.com/job/13804/product-manager-trading-experience/) |
 | Product Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13797/product-engineer-applied-ai/) |
 | Business Systems Analyst, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/11427/business-systems-analyst-security-engineering/) |
@@ -41,8 +43,6 @@
 | Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
 | Enterprise Proposals Lead | Remote | [View →](https://www.remotejobscan.com/job/13738/enterprise-proposals-lead/) |
 | Enterprise Account Executive (Philadelphia) | Remote | [View →](https://www.remotejobscan.com/job/13744/enterprise-account-executive-philadelphia/) |
-| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/13742/executive-assistant/) |
-| Front End Engineer, Marketing | On-site | [View →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
