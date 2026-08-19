@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2443</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2455</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/8708/regional-affiliate-specialist/) |
+| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
+| Business Support | Remote | [View →](https://www.remotejobscan.com/job/13771/business-support/) |
+| Hardware Strategic Sourcing & Manufacturing Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13794/hardware-strategic-sourcing-manufacturing-partnerships-manager/) |
+| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| Merchandising Operations Manager - Surface, OG | Hybrid | [View →](https://www.remotejobscan.com/job/13770/merchandising-operations-manager-surface-og/) |
 | Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
 | Senior Account Manager - Online Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
 | AI-Native Mobile Engineer - New Grad | On-site | [View →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
@@ -39,10 +43,6 @@
 | Front End Engineer, Marketing | On-site | [View →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
 | Protective Intelligence & Threat Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/13743/protective-intelligence-threat-analyst/) |
 | Product Manager, ChatGPT and Codex App Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/13740/product-manager-chatgpt-and-codex-app-ecosystem/) |
-| Marketing Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13576/marketing-operations-manager/) |
-| Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| People Operations Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

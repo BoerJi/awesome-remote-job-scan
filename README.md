@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2443</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2455</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8708/regional-affiliate-specialist/) |
+| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13190/customer-support-korean-vip-in-app-chat/) |
+| 业务支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13771/business-support/) |
+| 硬件战略采购与制造合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13794/hardware-strategic-sourcing-manufacturing-partnerships-manager/) |
+| 合规运营分析师（反洗钱-KYC与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| Surface, OG 商品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13770/merchandising-operations-manager-surface-og/) |
 | 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12039/affiliate-business-development-manager/) |
 | 高级账户经理 - 在线企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13762/senior-account-manager-online-enterprise/) |
 | AI原生移动工程师-应届生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13761/ai-native-mobile-engineer-new-grad/) |
@@ -39,10 +43,6 @@
 | 前端工程师，市场营销 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13741/front-end-engineer-marketing/) |
 | 保护性情报与威胁分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13743/protective-intelligence-threat-analyst/) |
 | ChatGPT和Codex应用生态系统产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13740/product-manager-chatgpt-and-codex-app-ecosystem/) |
-| 市场运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13576/marketing-operations-manager/) |
-| 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| Next.js技术团队负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| 人员运营集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/people-operations-integrations-developer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
