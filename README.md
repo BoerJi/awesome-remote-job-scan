@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2488</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2487</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交通项目业务运营合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
 | DevOps / AgentOps工程师，GTM系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 | 企业部署 - 行政总长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
@@ -40,7 +41,6 @@
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13877/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 全球事务参与与拓展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
 | 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| 高级财务系统管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-19 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

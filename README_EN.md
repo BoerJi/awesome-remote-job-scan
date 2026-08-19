@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2488</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2487</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Operations Partner, Transportation Program | Hybrid | [View →](https://www.remotejobscan.com/job/10482/business-operations-partner-transportation-program/) |
 | DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13453/solutions-architect/) |
 | Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/13899/enterprise-deployment-chief-of-staff/) |
@@ -39,7 +40,6 @@
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13877/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Engagement and Outreach Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/13878/engagement-and-outreach-lead-global-affairs/) |
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/13136/head-of-strategic-institutions/) |
-| Senior Financial Systems Administrator | Remote | [View →](https://www.remotejobscan.com/job/12276/senior-financial-systems-administrator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-19 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
