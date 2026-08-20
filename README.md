@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2522</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2526</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 激活专家，纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
+| 旧金山激活专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
+| 战略情报经理，保护情报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9331/strategic-intelligence-manager-protective-intelligence/) |
+| 保险企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14015/enterprise-account-executive-insurance/) |
+| 房地产与工作场所数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14018/data-scientist-real-estate-workplace/) |
+| 网络安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14016/product-manager-cyber-security/) |
+| 合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13701/partner-sales-manager/) |
+| 区块链平台节点高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/senior-software-engineer-blockchain-platform-nodes/) |
+| 战略与运营、产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14013/strategy-operations-product-partnerships/) |
+| 商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14014/commercial-account-executive/) |
+| 平台Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ 软件工程师，Claude 管理代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14007/staff-software-engineer-claude-managed-agents/) |
 | 平台分发高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
 | 企业销售主管（韩国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
@@ -30,17 +41,6 @@
 | 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13847/applied-ai-architect-partnerships/) |
-| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| 渠道账户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9365/channel-account-manager-si/) |
-| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13992/applied-ai-engineer-enterprise/) |
-| 前派部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
-| 中文支持客户专员（6天班制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
-| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
-| 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
-| 前端软件工程师 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13986/software-engineer-frontend-payments/) |
-| 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
-| 币安加速器项目 - AI与平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

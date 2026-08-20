@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2522</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2526</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
+| Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
+| Strategic Intelligence Manager, Protective Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9331/strategic-intelligence-manager-protective-intelligence/) |
+| Enterprise Account Executive, Insurance | On-site | [View →](https://www.remotejobscan.com/job/14015/enterprise-account-executive-insurance/) |
+| Data Scientist, Real Estate & Workplace | Hybrid | [View →](https://www.remotejobscan.com/job/14018/data-scientist-real-estate-workplace/) |
+| Product Manager, Cyber Security | On-site | [View →](https://www.remotejobscan.com/job/14016/product-manager-cyber-security/) |
+| Partner Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/13701/partner-sales-manager/) |
+| Senior Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/senior-software-engineer-blockchain-platform-nodes/) |
+| Strategy & Operations, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/14013/strategy-operations-product-partnerships/) |
+| Commercial Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14014/commercial-account-executive/) |
+| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Claude Managed Agents | On-site | [View →](https://www.remotejobscan.com/job/14007/staff-software-engineer-claude-managed-agents/) |
 | Staff+ Software Engineer, Platform Distribution | On-site | [View →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
 | Enterprise Sales Lead (Korea) | Remote | [View →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
@@ -30,17 +41,6 @@
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13847/applied-ai-architect-partnerships/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| Channel Account Manager, SI | On-site | [View →](https://www.remotejobscan.com/job/9365/channel-account-manager-si/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13992/applied-ai-engineer-enterprise/) |
-| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
-| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
-| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
-| Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
-| Software Engineer - Frontend - Payments | Remote | [View →](https://www.remotejobscan.com/job/13986/software-engineer-frontend-payments/) |
-| Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
-| Binance Accelerator Program - AI & Platform Product Manager | Remote | [View →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
