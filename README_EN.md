@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2513</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2516</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst (Enhanced Due Diligence) - 12months contract | Remote | [View →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
+| Business Systems Analyst | Remote | [View →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
+| Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
+| Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
+| Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/13943/software-engineer-data-platform-team/) |
 | Binance Accelerator Program - QA | Hybrid | [View →](https://www.remotejobscan.com/job/13934/binance-accelerator-program-qa/) |
 | Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/6836/fraud-risk-strategy-expert/) |
 | Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
@@ -38,10 +43,6 @@
 | RE/RS, Data Understanding - Foundations | Hybrid | [View →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
 | Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
 | Strategic Deals & Commercial Architecture Lead — Marketplaces & Partnership | Hybrid | [View →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
-| Senior Copywriter | Remote | [View →](https://www.remotejobscan.com/job/13919/senior-copywriter/) |
-| Software Engineer, Trainium | Hybrid | [View →](https://www.remotejobscan.com/job/13918/software-engineer-trainium/) |
-| Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
-| Tax Director, Business Advisory and Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
