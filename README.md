@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2518</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2517</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 中文支持客户专员（6天班制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
+| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
+| 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
+| 前端软件工程师 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13986/software-engineer-frontend-payments/) |
 | 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | 币安加速器项目 - AI与平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
 | 高级软件工程师 - AI赋能合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13965/senior-software-engineer-ai-enablement-compliance/) |
@@ -38,10 +42,6 @@
 | 合规分析师（增强尽职调查）- 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | 业务系统分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
 | 旧金山激活专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
-| 激活专员，纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
-| 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13943/software-engineer-data-platform-team/) |
-| 币安加速器计划 - 测试工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13934/binance-accelerator-program-qa/) |
-| 欺诈风险策略专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6836/fraud-risk-strategy-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2518</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2517</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
+| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
+| Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
+| Software Engineer - Frontend - Payments | Remote | [View →](https://www.remotejobscan.com/job/13986/software-engineer-frontend-payments/) |
 | Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | Binance Accelerator Program - AI & Platform Product Manager | Remote | [View →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
 | Senior Software Engineer - AI Enablement Compliance | Remote | [View →](https://www.remotejobscan.com/job/13965/senior-software-engineer-ai-enablement-compliance/) |
@@ -38,10 +42,6 @@
 | Compliance Analyst (Enhanced Due Diligence) - 12months contract | Remote | [View →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | Business Systems Analyst | Remote | [View →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
 | Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
-| Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
-| Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/13943/software-engineer-data-platform-team/) |
-| Binance Accelerator Program - QA | Hybrid | [View →](https://www.remotejobscan.com/job/13934/binance-accelerator-program-qa/) |
-| Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/6836/fraud-risk-strategy-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
