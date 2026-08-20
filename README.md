@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2498</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2506</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 预销售项目主管，前沿部署工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
+| 高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
+| RE/RS，数据理解 - 基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
+| 专业服务商业负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
+| 战略交易与商业架构负责人—市场与合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
+| 高级文案 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13919/senior-copywriter/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
+| 软件工程师，Trainium | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13918/software-engineer-trainium/) |
 | 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | 税务总监，业务咨询与战略财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
 | AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
@@ -35,14 +43,6 @@
 | 部署架构师，售后（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
 | 部署架构师，售后（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
 | 部署架构师，售后支持（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
-| 部署架构师，售后（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
-| BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| 数据中心电气工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
-| 数据中心机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
-| 数据库基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13909/infrastructure-engineer-database/) |
-| 企业技术会计与战略交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13903/lead-corporate-technical-accounting-and-strategic-transactions/) |
-| 前端软件工程师（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| 研发运营战略采购业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13901/strategic-sourcing-business-partner-rd-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

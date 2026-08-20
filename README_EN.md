@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2498</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2506</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
+| Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
+| RE/RS, Data Understanding - Foundations | Hybrid | [View →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
+| Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
+| Strategic Deals & Commercial Architecture Lead — Marketplaces & Partnership | Hybrid | [View →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
+| Senior Copywriter | Remote | [View →](https://www.remotejobscan.com/job/13919/senior-copywriter/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
+| Software Engineer, Trainium | Hybrid | [View →](https://www.remotejobscan.com/job/13918/software-engineer-trainium/) |
 | Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | Tax Director, Business Advisory and Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
@@ -35,14 +43,6 @@
 | Deployed Architect, Post-Sales (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
 | Deployed Architect, Post-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
 | Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
-| Deployed Architect, Post-Sales (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/11067/deployed-architect-post-sales-san-francisco/) |
-| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Data Center Electrical Engineer | On-site | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
-| Data Center Mechanical Engineer | On-site | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
-| Infrastructure Engineer, Database | On-site | [View →](https://www.remotejobscan.com/job/13909/infrastructure-engineer-database/) |
-| Lead, Corporate Technical Accounting and Strategic Transactions | Hybrid | [View →](https://www.remotejobscan.com/job/13903/lead-corporate-technical-accounting-and-strategic-transactions/) |
-| Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/13901/strategic-sourcing-business-partner-rd-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
