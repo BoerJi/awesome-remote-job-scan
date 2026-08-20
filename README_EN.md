@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2521</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2520</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 | Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
@@ -42,7 +43,6 @@
 | Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
 | Enterprise Solutions Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
 | Enterprise Solutions Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
-| Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

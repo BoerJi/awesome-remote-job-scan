@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2521</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2520</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3大数据工程师（员工/高级员工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 | 金融服务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
@@ -42,7 +43,6 @@
 | 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
 | 企业解决方案工程师 - 沙特阿拉伯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
 | 瑞士企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
-| 高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
