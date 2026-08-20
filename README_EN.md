@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Support Engineer - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14028/ai-support-engineer-tokyo/) |
+| Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/14027/business-systems-analyst-gtm-systems/) |
 | Field Marketer - North America | Remote | [View →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
 | Staff+ Software Engineer, Platform Portability | On-site | [View →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
@@ -40,7 +42,6 @@
 | Staff+ Software Engineer, Platform Distribution | On-site | [View →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
 | Enterprise Sales Lead (Korea) | Remote | [View →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
 | HR Coordinator- Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
-| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

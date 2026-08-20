@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI支持工程师 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14028/ai-support-engineer-tokyo/) |
+| GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14027/business-systems-analyst-gtm-systems/) |
 | 北美现场营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
 | 平台可移植性Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | 激活专家，纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
@@ -40,7 +42,6 @@
 | 平台分发高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
 | 企业销售主管（韩国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
 | 阿姆斯特丹人力资源协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
-| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
