@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2507</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2513</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - QA | Hybrid | [View →](https://www.remotejobscan.com/job/13934/binance-accelerator-program-qa/) |
+| Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/6836/fraud-risk-strategy-expert/) |
 | Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
 | Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
@@ -40,8 +42,6 @@
 | Software Engineer, Trainium | Hybrid | [View →](https://www.remotejobscan.com/job/13918/software-engineer-trainium/) |
 | Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | Tax Director, Business Advisory and Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
-| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
