@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2531</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2528</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
+| 人员项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14031/people-project-manager/) |
+| 商业应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14029/manager-of-applied-ai-architecture-commercial/) |
+| 高级人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14030/senior-hr-business-partner/) |
 | AI支持工程师 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14028/ai-support-engineer-tokyo/) |
 | GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14027/business-systems-analyst-gtm-systems/) |
 | 北美现场营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
@@ -38,10 +42,6 @@
 | 战略与运营、产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14013/strategy-operations-product-partnerships/) |
 | 商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14014/commercial-account-executive/) |
 | 平台Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ 软件工程师，Claude 管理代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14007/staff-software-engineer-claude-managed-agents/) |
-| 平台分发高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
-| 企业销售主管（韩国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
-| 阿姆斯特丹人力资源协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

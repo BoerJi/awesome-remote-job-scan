@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2531</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2528</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
+| People Project Manager | Remote | [View →](https://www.remotejobscan.com/job/14031/people-project-manager/) |
+| Manager of Applied AI Architecture, Commercial | On-site | [View →](https://www.remotejobscan.com/job/14029/manager-of-applied-ai-architecture-commercial/) |
+| Senior HR Business Partner | Remote | [View →](https://www.remotejobscan.com/job/14030/senior-hr-business-partner/) |
 | AI Support Engineer - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14028/ai-support-engineer-tokyo/) |
 | Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/14027/business-systems-analyst-gtm-systems/) |
 | Field Marketer - North America | Remote | [View →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
@@ -38,10 +42,6 @@
 | Strategy & Operations, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/14013/strategy-operations-product-partnerships/) |
 | Commercial Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14014/commercial-account-executive/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ Software Engineer, Claude Managed Agents | On-site | [View →](https://www.remotejobscan.com/job/14007/staff-software-engineer-claude-managed-agents/) |
-| Staff+ Software Engineer, Platform Distribution | On-site | [View →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
-| Enterprise Sales Lead (Korea) | Remote | [View →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
-| HR Coordinator- Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
