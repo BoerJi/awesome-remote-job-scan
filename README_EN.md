@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2511</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2507</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
+| Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
 | Technical Program Manager, Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
 | Strategy & Operations - Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
@@ -40,8 +42,6 @@
 | Tax Director, Business Advisory and Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
-| Events Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
-| Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
