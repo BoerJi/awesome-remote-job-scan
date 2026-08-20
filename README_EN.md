@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2526</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2532</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Revenue Controls | On-site | [View →](https://www.remotejobscan.com/job/14020/director-revenue-controls/) |
+| Field Marketer - North America | Remote | [View →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
+| Staff+ Software Engineer, Platform Portability | On-site | [View →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
 | Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 | Strategic Intelligence Manager, Protective Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9331/strategic-intelligence-manager-protective-intelligence/) |
@@ -39,8 +42,6 @@
 | Enterprise Sales Lead (Korea) | Remote | [View →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
 | HR Coordinator- Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

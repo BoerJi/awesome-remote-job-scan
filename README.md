@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2526</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2532</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 收入控制总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14020/director-revenue-controls/) |
+| 北美现场营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
+| 平台可移植性Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | 激活专家，纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
 | 旧金山激活专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 | 战略情报经理，保护情报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9331/strategic-intelligence-manager-protective-intelligence/) |
@@ -39,8 +42,6 @@
 | 企业销售主管（韩国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
 | 阿姆斯特丹人力资源协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
 | 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
