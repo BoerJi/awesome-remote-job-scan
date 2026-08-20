@@ -23,7 +23,6 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Director, Revenue Controls | On-site | [View →](https://www.remotejobscan.com/job/14020/director-revenue-controls/) |
 | Field Marketer - North America | Remote | [View →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
 | Staff+ Software Engineer, Platform Portability | On-site | [View →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 18:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 19:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,7 +23,6 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 收入控制总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14020/director-revenue-controls/) |
 | 北美现场营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
 | 平台可移植性Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | 激活专家，纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 18:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 19:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
