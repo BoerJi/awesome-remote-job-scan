@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2519</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2509</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
+| 币安加速器项目 - AI与平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
+| 高级软件工程师 - AI赋能合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13965/senior-software-engineer-ai-enablement-compliance/) |
+| 高级软件工程师 - AI赋能HR | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13966/senior-software-engineer-ai-enablement-hr/) |
+| 亚太地区现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 衍生品销售分析师（消费级销售） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
@@ -37,11 +42,6 @@
 | 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13943/software-engineer-data-platform-team/) |
 | 币安加速器计划 - 测试工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13934/binance-accelerator-program-qa/) |
 | 欺诈风险策略专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6836/fraud-risk-strategy-expert/) |
-| 预销售项目主管，前部署工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
-| 客户尽职调查运营团队负责人（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
-| 收入运营技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
-| 战略与运营 - 前沿 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

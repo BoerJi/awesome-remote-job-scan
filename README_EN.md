@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2519</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2509</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
+| Binance Accelerator Program - AI & Platform Product Manager | Remote | [View →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
+| Senior Software Engineer - AI Enablement Compliance | Remote | [View →](https://www.remotejobscan.com/job/13965/senior-software-engineer-ai-enablement-compliance/) |
+| Senior Software Engineer - AI Enablement HR | Remote | [View →](https://www.remotejobscan.com/job/13966/senior-software-engineer-ai-enablement-hr/) |
+| Field Marketing Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
@@ -37,11 +42,6 @@
 | Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/13943/software-engineer-data-platform-team/) |
 | Binance Accelerator Program - QA | Hybrid | [View →](https://www.remotejobscan.com/job/13934/binance-accelerator-program-qa/) |
 | Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/6836/fraud-risk-strategy-expert/) |
-| Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
-| Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
-| Technical Program Manager, Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
-| Strategy & Operations - Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
