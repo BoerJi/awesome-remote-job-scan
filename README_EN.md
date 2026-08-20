@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2517</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2522</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13847/applied-ai-architect-partnerships/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | Channel Account Manager, SI | On-site | [View →](https://www.remotejobscan.com/job/9365/channel-account-manager-si/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13992/applied-ai-engineer-enterprise/) |
@@ -37,12 +41,6 @@
 | Senior Software Engineer - AI Enablement HR | Remote | [View →](https://www.remotejobscan.com/job/13966/senior-software-engineer-ai-enablement-hr/) |
 | Field Marketing Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
-| Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

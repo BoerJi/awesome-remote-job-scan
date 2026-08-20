@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2517</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2522</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13847/applied-ai-architect-partnerships/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | 渠道账户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9365/channel-account-manager-si/) |
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13992/applied-ai-engineer-enterprise/) |
@@ -37,12 +41,6 @@
 | 高级软件工程师 - AI赋能HR | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13966/senior-software-engineer-ai-enablement-hr/) |
 | 亚太地区现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 衍生品销售分析师（消费级销售） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| Web3大数据工程师（员工/高级员工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
-| 金融服务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
