@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2520</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2514</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
+| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
+| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
 | Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 | Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
 | Compliance Analyst (Enhanced Due Diligence) - 12months contract | Remote | [View →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | Business Systems Analyst | Remote | [View →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
 | Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
@@ -40,9 +42,6 @@
 | Technical Program Manager, Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
 | Strategy & Operations - Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
 | Model Policy (Rodrigo) | Hybrid | [View →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
-| Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
-| Enterprise Solutions Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
-| Enterprise Solutions Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
