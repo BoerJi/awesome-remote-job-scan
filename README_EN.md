@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2542</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2544</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Program Manager, Actuators | Hybrid | [View →](https://www.remotejobscan.com/job/14050/technical-program-manager-actuators/) |
+| Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
+| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
+| Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
+| Customer Complaints Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/14047/customer-complaints-senior-manager/) |
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
 | Recruiting Coordinator, Technical | Hybrid | [View →](https://www.remotejobscan.com/job/14046/recruiting-coordinator-technical/) |
 | Account Executive - Public Sector (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14044/account-executive-public-sector-asean/) |
 | Enterprise Account Executive - Industries Generalist (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14045/enterprise-account-executive-industries-generalist-asean/) |
@@ -36,13 +43,6 @@
 | GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | People Project Manager | Remote | [View →](https://www.remotejobscan.com/job/14031/people-project-manager/) |
 | Manager of Applied AI Architecture, Commercial | On-site | [View →](https://www.remotejobscan.com/job/14029/manager-of-applied-ai-architecture-commercial/) |
-| Senior HR Business Partner | Remote | [View →](https://www.remotejobscan.com/job/14030/senior-hr-business-partner/) |
-| AI Support Engineer - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14028/ai-support-engineer-tokyo/) |
-| Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/14027/business-systems-analyst-gtm-systems/) |
-| Field Marketer - North America | Remote | [View →](https://www.remotejobscan.com/job/14026/field-marketer-north-america/) |
-| Staff+ Software Engineer, Platform Portability | On-site | [View →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
-| Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
-| Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
