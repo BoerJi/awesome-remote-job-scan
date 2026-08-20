@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2544</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2545</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
+| Data Engineer, Monetization Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
+| Software Engineer, Private Computing | Hybrid | [View →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
+| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| Technical Program Manager, Sensors | Hybrid | [View →](https://www.remotejobscan.com/job/14051/technical-program-manager-sensors/) |
 | Technical Program Manager, Actuators | Hybrid | [View →](https://www.remotejobscan.com/job/14050/technical-program-manager-actuators/) |
 | Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
 | Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
@@ -37,12 +42,6 @@
 | Account Executive - DNB | On-site | [View →](https://www.remotejobscan.com/job/14043/account-executive-dnb/) |
 | Senior Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
 | Customer Success Manager - Public Sector & Defense, France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-public-sector-defense-france/) |
-| Product Manufacturing Engineer - PCBA | On-site | [View →](https://www.remotejobscan.com/job/14041/product-manufacturing-engineer-pcba/) |
-| Enterprise Account Executive - Industries Generalist | On-site | [View →](https://www.remotejobscan.com/job/14034/enterprise-account-executive-industries-generalist/) |
-| Manager, Applied AI Engineering, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/14035/manager-applied-ai-engineering-beneficial-deployments-life-sciences/) |
-| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| People Project Manager | Remote | [View →](https://www.remotejobscan.com/job/14031/people-project-manager/) |
-| Manager of Applied AI Architecture, Commercial | On-site | [View →](https://www.remotejobscan.com/job/14029/manager-of-applied-ai-architecture-commercial/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

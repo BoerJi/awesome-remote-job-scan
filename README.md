@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2544</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2545</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
+| 数据工程师，变现数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
+| 隐私计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
+| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| 传感器技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14051/technical-program-manager-sensors/) |
 | 执行器技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14050/technical-program-manager-actuators/) |
 | 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
 | 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
@@ -37,12 +42,6 @@
 | DNB 账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14043/account-executive-dnb/) |
 | 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
 | 客户成功经理 - 公共部门与国防，法国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13912/customer-success-manager-public-sector-defense-france/) |
-| PCBA产品制造工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14041/product-manufacturing-engineer-pcba/) |
-| 企业客户经理 - 行业通才 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14034/enterprise-account-executive-industries-generalist/) |
-| 应用AI工程经理，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14035/manager-applied-ai-engineering-beneficial-deployments-life-sciences/) |
-| GTM策略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| 人员项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14031/people-project-manager/) |
-| 商业应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14029/manager-of-applied-ai-architecture-commercial/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
