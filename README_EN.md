@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2528</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2542</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
+| Recruiting Coordinator, Technical | Hybrid | [View →](https://www.remotejobscan.com/job/14046/recruiting-coordinator-technical/) |
+| Account Executive - Public Sector (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14044/account-executive-public-sector-asean/) |
+| Enterprise Account Executive - Industries Generalist (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14045/enterprise-account-executive-industries-generalist-asean/) |
+| Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
+| Account Executive - DNB | On-site | [View →](https://www.remotejobscan.com/job/14043/account-executive-dnb/) |
+| Senior Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
+| Customer Success Manager - Public Sector & Defense, France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-public-sector-defense-france/) |
+| Product Manufacturing Engineer - PCBA | On-site | [View →](https://www.remotejobscan.com/job/14041/product-manufacturing-engineer-pcba/) |
+| Enterprise Account Executive - Industries Generalist | On-site | [View →](https://www.remotejobscan.com/job/14034/enterprise-account-executive-industries-generalist/) |
+| Manager, Applied AI Engineering, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/14035/manager-applied-ai-engineering-beneficial-deployments-life-sciences/) |
+| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | People Project Manager | Remote | [View →](https://www.remotejobscan.com/job/14031/people-project-manager/) |
 | Manager of Applied AI Architecture, Commercial | On-site | [View →](https://www.remotejobscan.com/job/14029/manager-of-applied-ai-architecture-commercial/) |
 | Senior HR Business Partner | Remote | [View →](https://www.remotejobscan.com/job/14030/senior-hr-business-partner/) |
@@ -33,15 +43,6 @@
 | Staff+ Software Engineer, Platform Portability | On-site | [View →](https://www.remotejobscan.com/job/14019/staff-software-engineer-platform-portability/) |
 | Activation Specialist, NYC | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
 | Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
-| Strategic Intelligence Manager, Protective Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9331/strategic-intelligence-manager-protective-intelligence/) |
-| Enterprise Account Executive, Insurance | On-site | [View →](https://www.remotejobscan.com/job/14015/enterprise-account-executive-insurance/) |
-| Data Scientist, Real Estate & Workplace | Hybrid | [View →](https://www.remotejobscan.com/job/14018/data-scientist-real-estate-workplace/) |
-| Product Manager, Cyber Security | On-site | [View →](https://www.remotejobscan.com/job/14016/product-manager-cyber-security/) |
-| Partner Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/13701/partner-sales-manager/) |
-| Senior Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/senior-software-engineer-blockchain-platform-nodes/) |
-| Strategy & Operations, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/14013/strategy-operations-product-partnerships/) |
-| Commercial Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14014/commercial-account-executive/) |
-| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
