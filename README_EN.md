@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2512</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2511</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -30,7 +30,6 @@
 | Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
 | Enterprise Solutions Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
 | Enterprise Solutions Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
-| Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
 | Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
 | RE/RS, Data Understanding - Foundations | Hybrid | [View →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
 | Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
@@ -42,6 +41,7 @@
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
 | Events Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
+| Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 02:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 03:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
