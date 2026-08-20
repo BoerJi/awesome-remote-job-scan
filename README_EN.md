@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2506</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2511</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Operations - Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
+| Model Policy (Rodrigo) | Hybrid | [View →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
+| Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
+| Enterprise Solutions Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
+| Enterprise Solutions Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
 | Pre-Sales Program Lead, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
 | Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
 | RE/RS, Data Understanding - Foundations | Hybrid | [View →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
@@ -38,11 +43,6 @@
 | Events Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
 | Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
 | Director, Infrastructure Supply Chain Accounting | On-site | [View →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
-| Customer Success Manager - UAE | Remote | [View →](https://www.remotejobscan.com/job/13911/customer-success-manager-uae/) |
-| Deployed Architect, Post-Sales (Remote) | Remote | [View →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
-| Deployed Architect, Post-Sales (Austin) | Remote | [View →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
-| Deployed Architect, Post-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
-| Deployed Architect, Post-Sales (NYC) | On-site | [View →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

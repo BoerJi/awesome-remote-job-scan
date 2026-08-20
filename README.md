@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2506</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2511</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略与运营 - 前沿 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
+| 模型政策（罗德里戈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
+| 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
+| 企业解决方案工程师 - 沙特阿拉伯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
+| 瑞士企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
 | 预销售项目主管，前沿部署工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13920/pre-sales-program-lead-forward-deployed-engineering/) |
 | 高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
 | RE/RS，数据理解 - 基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
@@ -38,11 +43,6 @@
 | 北美活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
 | 法国客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
 | 基础设施供应链会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
-| 客户成功经理 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13911/customer-success-manager-uae/) |
-| 售后部署架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11103/deployed-architect-post-sales-remote/) |
-| 部署架构师，售后（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11093/deployed-architect-post-sales-austin/) |
-| 部署架构师，售后（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11094/deployed-architect-post-sales-dallas/) |
-| 部署架构师，售后支持（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12946/deployed-architect-post-sales-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
