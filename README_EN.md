@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Claude Managed Agents | On-site | [View →](https://www.remotejobscan.com/job/14007/staff-software-engineer-claude-managed-agents/) |
+| Staff+ Software Engineer, Platform Distribution | On-site | [View →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
+| Enterprise Sales Lead (Korea) | Remote | [View →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
+| HR Coordinator- Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
@@ -37,10 +41,6 @@
 | Software Engineer - Frontend - Payments | Remote | [View →](https://www.remotejobscan.com/job/13986/software-engineer-frontend-payments/) |
 | Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | Binance Accelerator Program - AI & Platform Product Manager | Remote | [View →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
-| Senior Software Engineer - AI Enablement Compliance | Remote | [View →](https://www.remotejobscan.com/job/13965/senior-software-engineer-ai-enablement-compliance/) |
-| Senior Software Engineer - AI Enablement HR | Remote | [View →](https://www.remotejobscan.com/job/13966/senior-software-engineer-ai-enablement-hr/) |
-| Field Marketing Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

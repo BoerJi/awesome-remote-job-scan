@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 软件工程师，Claude 管理代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14007/staff-software-engineer-claude-managed-agents/) |
+| 平台分发高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14008/staff-software-engineer-platform-distribution/) |
+| 企业销售主管（韩国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14011/enterprise-sales-lead-korea/) |
+| 阿姆斯特丹人力资源协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
 | 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
@@ -37,10 +41,6 @@
 | 前端软件工程师 - 支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13986/software-engineer-frontend-payments/) |
 | 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | 币安加速器项目 - AI与平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13968/binance-accelerator-program-ai-platform-product-manager/) |
-| 高级软件工程师 - AI赋能合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13965/senior-software-engineer-ai-enablement-compliance/) |
-| 高级软件工程师 - AI赋能HR | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13966/senior-software-engineer-ai-enablement-hr/) |
-| 亚太地区现场营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13862/field-marketing-manager-apac/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
