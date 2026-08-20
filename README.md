@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2511</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2512</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
+| 收入运营技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
 | 战略与运营 - 前沿 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
 | 模型政策（罗德里戈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
 | 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
@@ -34,15 +36,12 @@
 | 专业服务商业负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
 | 战略交易与商业架构负责人—市场与合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
 | 高级文案 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13919/senior-copywriter/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | 软件工程师，Trainium | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13918/software-engineer-trainium/) |
 | 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | 税务总监，业务咨询与战略财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
 | AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
 | 北美活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
-| 法国客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
-| 基础设施供应链会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

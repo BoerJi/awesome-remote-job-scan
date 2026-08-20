@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2511</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2512</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
+| Technical Program Manager, Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
 | Strategy & Operations - Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
 | Model Policy (Rodrigo) | Hybrid | [View →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
 | Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/13926/deployment-strategist-lead-india/) |
@@ -34,15 +36,12 @@
 | Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
 | Strategic Deals & Commercial Architecture Lead — Marketplaces & Partnership | Hybrid | [View →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
 | Senior Copywriter | Remote | [View →](https://www.remotejobscan.com/job/13919/senior-copywriter/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Software Engineer, Trainium | Hybrid | [View →](https://www.remotejobscan.com/job/13918/software-engineer-trainium/) |
 | Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | Tax Director, Business Advisory and Strategic Finance | Hybrid | [View →](https://www.remotejobscan.com/job/13915/tax-director-business-advisory-and-strategic-finance/) |
 | AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
 | Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/13906/business-development-representative/) |
 | Events Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/13913/events-lead-north-america/) |
-| Customer Success Manager - France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-france/) |
-| Director, Infrastructure Supply Chain Accounting | On-site | [View →](https://www.remotejobscan.com/job/13910/director-infrastructure-supply-chain-accounting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
