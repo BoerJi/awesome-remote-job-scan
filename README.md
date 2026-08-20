@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | 中文支持客户专员（6天班制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
 | 工程运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
@@ -41,7 +42,6 @@
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 合规分析师（增强尽职调查）- 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | 业务系统分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
-| 旧金山激活专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 12:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 13:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

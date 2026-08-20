@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
 | Engineering Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/8804/engineering-operations-lead/) |
@@ -41,7 +42,6 @@
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Compliance Analyst (Enhanced Due Diligence) - 12months contract | Remote | [View →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | Business Systems Analyst | Remote | [View →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
-| Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 12:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 13:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
