@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2514</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2519</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
@@ -41,7 +42,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
 | Technical Program Manager, Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
 | Strategy & Operations - Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
-| Model Policy (Rodrigo) | Hybrid | [View →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

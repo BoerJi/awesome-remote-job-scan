@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2514</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2519</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 衍生品销售分析师（消费级销售） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
@@ -41,7 +42,6 @@
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
 | 收入运营技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13928/technical-program-manager-revenue-operations/) |
 | 战略与运营 - 前沿 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/strategy-operations-frontier/) |
-| 模型政策（罗德里戈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10333/model-policy-rodrigo/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
