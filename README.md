@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2516</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2521</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融服务顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| 应用人工智能解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
 | 合规分析师（增强尽职调查）- 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | 业务系统分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
 | 旧金山激活专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
@@ -40,9 +43,6 @@
 | 企业解决方案工程师 - 沙特阿拉伯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
 | 瑞士企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
 | 高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
-| RE/RS，数据理解 - 基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
-| 专业服务商业负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
-| 战略交易与商业架构负责人—市场与合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-20 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

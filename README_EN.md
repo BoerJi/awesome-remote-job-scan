@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2516</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2521</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
 | Compliance Analyst (Enhanced Due Diligence) - 12months contract | Remote | [View →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
 | Business Systems Analyst | Remote | [View →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
 | Activation Specialist, San Francisco | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
@@ -40,9 +43,6 @@
 | Enterprise Solutions Engineer - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/13925/enterprise-solutions-engineer-saudi-arabia/) |
 | Enterprise Solutions Engineer - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/13924/enterprise-solutions-engineer-switzerland/) |
 | Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/13922/senior-product-manager/) |
-| RE/RS, Data Understanding - Foundations | Hybrid | [View →](https://www.remotejobscan.com/job/13921/rers-data-understanding-foundations/) |
-| Professional Services Commercial Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13916/professional-services-commercial-lead/) |
-| Strategic Deals & Commercial Architecture Lead — Marketplaces & Partnership | Hybrid | [View →](https://www.remotejobscan.com/job/13917/strategic-deals-commercial-architecture-lead-marketplaces-partnership/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
