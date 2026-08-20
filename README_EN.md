@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2511</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2517</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
+| Channel Account Manager, SI | On-site | [View →](https://www.remotejobscan.com/job/9365/channel-account-manager-si/) |
+| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13992/applied-ai-engineer-enterprise/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/13205/manager-forward-deployed-engineering/) |
 | CS Specialist (Mandarin) 6 days | Remote | [View →](https://www.remotejobscan.com/job/12813/cs-specialist-mandarin-6-days/) |
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/13981/vip-customer-support-mandarin-6-days/) |
@@ -36,12 +39,10 @@
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13516/solutions-architect-applied-ai/) |
 | Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
 | Counsel - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/9204/counsel-financial-services/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Compliance Analyst (Enhanced Due Diligence) - 12months contract | Remote | [View →](https://www.remotejobscan.com/job/13948/compliance-analyst-enhanced-due-diligence-12months-contract/) |
-| Business Systems Analyst | Remote | [View →](https://www.remotejobscan.com/job/13947/business-systems-analyst/) |
+| Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/13953/solutions-architect-applied-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-20 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
