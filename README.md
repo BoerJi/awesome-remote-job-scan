@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM战略与运营负责人，经销商与生态系统项目（亚太区） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
 | 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 | 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
 | 数字原生业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14088/account-director-digital-native/) |
@@ -42,7 +43,6 @@
 | 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14066/head-of-gtm-enablement-global-lead/) |
 | 机器学习工程师，多模态感知与认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 | 企业安全工程师，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
-| 社交媒体支持专员（周末班，周日至周四） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

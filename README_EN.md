@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Strategy & Operations Lead, Reseller & Ecosystem Programs (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
 | Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 | Head of Vulnerability Disclosure & Security Community | Remote | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
 | Account Director, Digital Native | Hybrid | [View →](https://www.remotejobscan.com/job/14088/account-director-digital-native/) |
@@ -42,7 +43,6 @@
 | Head of GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/14066/head-of-gtm-enablement-global-lead/) |
 | Machine Learning Engineer, Multimodal Perception and Authentication | Hybrid | [View →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 | Security Engineer, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
-| Social Media Support Specialist (Weekend Shift, Sunday to Thursday) | Hybrid | [View →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
