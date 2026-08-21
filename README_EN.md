@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>2277</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>2297</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -41,7 +41,7 @@
 | Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
 | Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
 | Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
-| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
+| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 17:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 18:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
