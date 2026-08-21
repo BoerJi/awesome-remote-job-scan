@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2545</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2549</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
+| 社交营销经理，开发者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
+| 数据中心供应规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
+| 客户关系专员 - Voice | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
+| AEO/GEO/SEO 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
 | GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
 | 数据工程师，变现数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
 | 隐私计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
@@ -37,11 +42,6 @@
 | 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
 | 技术招聘协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14046/recruiting-coordinator-technical/) |
 | 公共部门客户经理 - 东南亚 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14044/account-executive-public-sector-asean/) |
-| 企业客户经理 - 行业通用专家（东南亚） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14045/enterprise-account-executive-industries-generalist-asean/) |
-| 高级基础设施工程师，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
-| DNB 账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14043/account-executive-dnb/) |
-| 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
-| 客户成功经理 - 公共部门与国防，法国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13912/customer-success-manager-public-sector-defense-france/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

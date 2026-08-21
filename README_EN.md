@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2545</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2549</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
+| Social Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
+| Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
+| Client Engagement Specialist - Voice | Remote | [View →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
+| AEO/GEO/SEO Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
 | Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
 | Data Engineer, Monetization Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
 | Software Engineer, Private Computing | Hybrid | [View →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
@@ -37,11 +42,6 @@
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
 | Recruiting Coordinator, Technical | Hybrid | [View →](https://www.remotejobscan.com/job/14046/recruiting-coordinator-technical/) |
 | Account Executive - Public Sector (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14044/account-executive-public-sector-asean/) |
-| Enterprise Account Executive - Industries Generalist (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14045/enterprise-account-executive-industries-generalist-asean/) |
-| Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
-| Account Executive - DNB | On-site | [View →](https://www.remotejobscan.com/job/14043/account-executive-dnb/) |
-| Senior Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
-| Customer Success Manager - Public Sector & Defense, France | On-site | [View →](https://www.remotejobscan.com/job/13912/customer-success-manager-public-sector-defense-france/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
