@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2567</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2574</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 信贷与信用产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
+| GTM加速 Program Manager | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14120/program-manager-gtm-acceleration/) |
+| 企业客户经理，国防与情报机构 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
+| 会计、收入内部控制 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14118/accounting-revenue-internal-controls/) |
 | 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
 | 规模化销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14117/scaled-sales-lead-beneficial-deployments/) |
 | 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13702/partner-sales-manager-systems-integrators/) |
@@ -37,10 +41,6 @@
 | 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | 反洗钱合规主管及高级合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| 企业客户经理 - 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
-| 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
-| 韩国消费者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
