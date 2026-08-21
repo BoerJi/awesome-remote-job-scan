@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2562</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2564</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
+| Partner Director, ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
+| Futures BD Manager | On-site | [View →](https://www.remotejobscan.com/job/5564/futures-bd-manager/) |
+| Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
+| KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
+| Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
+| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | Finance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/14090/finance-associate/) |
 | GTM Strategy & Operations Lead, Reseller & Ecosystem Programs (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
 | Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
@@ -36,13 +43,6 @@
 | Operational Senior Audit Manager, LACC | Remote | [View →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
 | Risk & Control Specialist 风控审核 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
 | Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
-| Manager Applied AI Architecture, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/14067/manager-applied-ai-architecture-financial-services/) |
-| Manager Applied AI Architecture, Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
-| Social Media Support Specialist (NYC, Weekend Shift, Sunday to Thursday) | Hybrid | [View →](https://www.remotejobscan.com/job/14070/social-media-support-specialist-nyc-weekend-shift-sunday-to-thursday/) |
-| Senior Commercial Counsel, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/14069/senior-commercial-counsel-apac/) |
-| Business Development Associate - Vietnam | Remote | [View →](https://www.remotejobscan.com/job/14063/business-development-associate-vietnam/) |
-| Head of GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/14066/head-of-gtm-enablement-global-lead/) |
-| Machine Learning Engineer, Multimodal Perception and Authentication | Hybrid | [View →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2562</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2564</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
+| 大中华区合作伙伴总监，澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
+| 期货业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5564/futures-bd-manager/) |
+| 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
+| KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
+| 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
+| 高级/资深工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | 财务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14090/finance-associate/) |
 | GTM战略与运营负责人，经销商与生态系统项目（亚太区） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
 | 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
@@ -36,13 +43,6 @@
 | 运营高级审计经理，拉美加勒比区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
 | Risk & Control Specialist 风控审核 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
 | 数据中心供应规划负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
-| 金融服务业应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14067/manager-applied-ai-architecture-financial-services/) |
-| 医疗健康与生命科学应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
-| 社交媒体支持专员（纽约，周末班，周日至周四） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14070/social-media-support-specialist-nyc-weekend-shift-sunday-to-thursday/) |
-| 亚太区高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14069/senior-commercial-counsel-apac/) |
-| 越南业务发展助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14063/business-development-associate-vietnam/) |
-| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14066/head-of-gtm-enablement-global-lead/) |
-| 机器学习工程师，多模态感知与认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
