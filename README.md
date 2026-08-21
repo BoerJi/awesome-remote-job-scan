@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2560</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2562</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
+| 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
+| 数字原生业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14088/account-director-digital-native/) |
+| 高级网络安全政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14087/senior-cyber-policy-lead/) |
+| 网络安全保障政策分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
 | 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | 韩国合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
@@ -38,11 +43,6 @@
 | 机器学习工程师，多模态感知与认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 | 企业安全工程师，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
 | 社交媒体支持专员（周末班，周日至周四） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
-| 战略交易负责人，计算与基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
-| 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
-| 社交营销经理，开发者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
-| 客户关系专员 - Voice | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
-| AEO/GEO/SEO 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

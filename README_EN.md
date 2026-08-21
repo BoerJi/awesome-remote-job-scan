@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2560</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2562</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
+| Head of Vulnerability Disclosure & Security Community | Remote | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
+| Account Director, Digital Native | Hybrid | [View →](https://www.remotejobscan.com/job/14088/account-director-digital-native/) |
+| Senior Cyber Policy Lead | On-site | [View →](https://www.remotejobscan.com/job/14087/senior-cyber-policy-lead/) |
+| Safeguards Policy Analyst, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Partner Director, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
@@ -38,11 +43,6 @@
 | Machine Learning Engineer, Multimodal Perception and Authentication | Hybrid | [View →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 | Security Engineer, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
 | Social Media Support Specialist (Weekend Shift, Sunday to Thursday) | Hybrid | [View →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
-| Strategic Deals Leader, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
-| Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
-| Social Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
-| Client Engagement Specialist - Voice | Remote | [View →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
-| AEO/GEO/SEO Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
