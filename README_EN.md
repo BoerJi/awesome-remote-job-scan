@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2363</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2367</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
+| Applied AI Architect - EDU | On-site | [View →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
+| Electrical Engineer, Actuator test infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
+| Product Manager II, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
 | Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
 | Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
 | Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
@@ -39,9 +43,6 @@
 | Product Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
 | ISV Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
 | Product Manager, Youth | Hybrid | [View →](https://www.remotejobscan.com/job/14147/product-manager-youth/) |
-| Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
-| Technical Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14144/technical-operations-analyst/) |
-| Incident Manager - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/14142/incident-manager-detection-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

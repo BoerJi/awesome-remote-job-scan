@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2363</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2367</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
+| 教育应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
+| 执行器测试基础设施电气工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
+| 高级产品经理，工作空间和多用户 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
 | 渠道账户经理，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
 | 会计分析与BI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
 | 战略财务经理，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
@@ -39,10 +43,6 @@
 | 网络安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
 | ISV合作主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
 | 青年产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14147/product-manager-youth/) |
-| 战略采购业务合作伙伴，研发运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
-| 技术运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14144/technical-operations-analyst/) |
-| 事件经理 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14142/incident-manager-detection-response/) |
-| 事故管理员 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14143/incident-manager-detection-response/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
