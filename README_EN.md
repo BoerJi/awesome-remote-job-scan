@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2569</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2570</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
+| Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | Partner Account Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/14105/partner-account-manager-dach/) |
 | Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
 | Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
@@ -38,10 +41,6 @@
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 | Partner Director, ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
 | KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
-| Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
-| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| Finance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/14090/finance-associate/) |
-| GTM Strategy & Operations Lead, Reseller & Ecosystem Programs (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

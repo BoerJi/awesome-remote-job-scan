@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2569</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2570</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| P2P合作伙伴运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
+| Senior Manager / Director, Growth Operation | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | DACH合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14105/partner-account-manager-dach/) |
 | 合规、威胁与风险评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
 | 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
@@ -39,10 +42,6 @@
 | 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 | 大中华区合作伙伴总监，澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
 | KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
-| 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
-| 高级/资深工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| 财务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14090/finance-associate/) |
-| GTM战略与运营负责人，经销商与生态系统项目（亚太区） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
