@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2549</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2551</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Machine Learning Engineer, Multimodal Perception and Authentication | Hybrid | [View →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
+| Security Engineer, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
+| Social Media Support Specialist (Weekend Shift, Sunday to Thursday) | Hybrid | [View →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
+| Strategic Deals Leader, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
 | Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 | Social Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
 | Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
@@ -38,10 +42,6 @@
 | Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
-| Customer Complaints Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/14047/customer-complaints-senior-manager/) |
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
-| Recruiting Coordinator, Technical | Hybrid | [View →](https://www.remotejobscan.com/job/14046/recruiting-coordinator-technical/) |
-| Account Executive - Public Sector (ASEAN) | On-site | [View →](https://www.remotejobscan.com/job/14044/account-executive-public-sector-asean/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
