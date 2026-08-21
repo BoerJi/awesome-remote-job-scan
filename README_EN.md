@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2555</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2560</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| Partner Director, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
+| Operational Senior Audit Manager, LACC | Remote | [View →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
+| Risk & Control Specialist 风控审核 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
 | Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 | Manager Applied AI Architecture, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/14067/manager-applied-ai-architecture-financial-services/) |
 | Manager Applied AI Architecture, Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
@@ -38,10 +43,6 @@
 | Social Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
 | Client Engagement Specialist - Voice | Remote | [View →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
 | AEO/GEO/SEO Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
-| Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
-| Data Engineer, Monetization Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
-| Software Engineer, Private Computing | Hybrid | [View →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
