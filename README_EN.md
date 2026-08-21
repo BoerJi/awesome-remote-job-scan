@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2357</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2363</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
+| Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
+| Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
+| Senior Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-platform-access-authorization/) |
+| Research Engineer / Research Scientist, Health | On-site | [View →](https://www.remotejobscan.com/job/14156/research-engineer-research-scientist-health/) |
+| Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
+| Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
 | Data Center Operations Lead - Partner Site Operations | Remote | [View →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
 | Product Marketing Manager, Cybersecurity | Hybrid | [View →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
@@ -35,12 +42,6 @@
 | Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | Technical Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14144/technical-operations-analyst/) |
 | Incident Manager - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/14142/incident-manager-detection-response/) |
-| Senior Staff Technical Risk Architect, Unified Training | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-training/) |
-| Senior Manufacturing Quality Engineer, Data Center Power & Cooling | On-site | [View →](https://www.remotejobscan.com/job/14140/senior-manufacturing-quality-engineer-data-center-power-cooling/) |
-| Product Manager, Business Technology | On-site | [View →](https://www.remotejobscan.com/job/14138/product-manager-business-technology/) |
-| Tax Director, Provision & Compliance | Remote | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| Senior Full-Stack Engineer (North Admin) | Remote | [View →](https://www.remotejobscan.com/job/14136/senior-full-stack-engineer-north-admin/) |
-| Software Engineer, API Safety | Hybrid | [View →](https://www.remotejobscan.com/job/14135/software-engineer-api-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

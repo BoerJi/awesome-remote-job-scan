@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2357</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2363</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 渠道账户经理，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
+| 会计分析与BI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
+| 战略财务经理，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
+| 高级软件工程师（平台-访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-platform-access-authorization/) |
+| 研究工程师 / 研究科学家，健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14156/research-engineer-research-scientist-health/) |
+| 高级会计，经纪及衍生品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
+| 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
 | 数据中心运营主管 - 合作站点运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
 | 网络安全产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
@@ -36,13 +43,6 @@
 | 技术运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14144/technical-operations-analyst/) |
 | 事件经理 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14142/incident-manager-detection-response/) |
 | 事故管理员 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14143/incident-manager-detection-response/) |
-| 高级技术风险架构师，统一培训 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-training/) |
-| 数据中心电源与冷却高级制造质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14140/senior-manufacturing-quality-engineer-data-center-power-cooling/) |
-| 产品经理，商务技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14138/product-manager-business-technology/) |
-| 商业技术产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14139/product-manager-business-technology/) |
-| 税务总监，预估与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| 高级全栈工程师（北行政） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14136/senior-full-stack-engineer-north-admin/) |
-| API安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14135/software-engineer-api-safety/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
