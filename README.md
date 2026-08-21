@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2551</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2557</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心供应规划负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
+| 金融服务业应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14067/manager-applied-ai-architecture-financial-services/) |
+| 医疗健康与生命科学应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
+| 社交媒体支持专员（纽约，周末班，周日至周四） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14070/social-media-support-specialist-nyc-weekend-shift-sunday-to-thursday/) |
+| 亚太区高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14069/senior-commercial-counsel-apac/) |
+| 越南业务发展助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14063/business-development-associate-vietnam/) |
+| 全球GTM赋能负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14066/head-of-gtm-enablement-global-lead/) |
 | 机器学习工程师，多模态感知与认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 | 企业安全工程师，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
 | 社交媒体支持专员（周末班，周日至周四） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
 | 战略交易负责人，计算与基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
 | 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 | 社交营销经理，开发者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
-| 数据中心供应规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 | 客户关系专员 - Voice | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
 | AEO/GEO/SEO 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
 | GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
 | 数据工程师，变现数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
 | 隐私计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
 | 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| 传感器技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14051/technical-program-manager-sensors/) |
-| 执行器技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14050/technical-program-manager-actuators/) |
-| 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
-| 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| 销售领导者赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
-| 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

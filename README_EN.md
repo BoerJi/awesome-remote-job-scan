@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2551</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2557</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
+| Manager Applied AI Architecture, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/14067/manager-applied-ai-architecture-financial-services/) |
+| Manager Applied AI Architecture, Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
+| Social Media Support Specialist (NYC, Weekend Shift, Sunday to Thursday) | Hybrid | [View →](https://www.remotejobscan.com/job/14070/social-media-support-specialist-nyc-weekend-shift-sunday-to-thursday/) |
+| Senior Commercial Counsel, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/14069/senior-commercial-counsel-apac/) |
+| Business Development Associate - Vietnam | Remote | [View →](https://www.remotejobscan.com/job/14063/business-development-associate-vietnam/) |
+| Head of GTM Enablement - Global Lead | Remote | [View →](https://www.remotejobscan.com/job/14066/head-of-gtm-enablement-global-lead/) |
 | Machine Learning Engineer, Multimodal Perception and Authentication | Hybrid | [View →](https://www.remotejobscan.com/job/14061/machine-learning-engineer-multimodal-perception-and-authentication/) |
 | Security Engineer, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/14060/security-engineer-corporate-security/) |
 | Social Media Support Specialist (Weekend Shift, Sunday to Thursday) | Hybrid | [View →](https://www.remotejobscan.com/job/14062/social-media-support-specialist-weekend-shift-sunday-to-thursday/) |
 | Strategic Deals Leader, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/13021/strategic-deals-leader-compute-infrastructure/) |
 | Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 | Social Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14059/social-marketing-manager-developers/) |
-| Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 | Client Engagement Specialist - Voice | Remote | [View →](https://www.remotejobscan.com/job/14054/client-engagement-specialist-voice/) |
 | AEO/GEO/SEO Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14055/aeogeoseo-lead/) |
 | Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
 | Data Engineer, Monetization Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14052/data-engineer-monetization-data-platform/) |
 | Software Engineer, Private Computing | Hybrid | [View →](https://www.remotejobscan.com/job/10457/software-engineer-private-computing/) |
 | Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| Technical Program Manager, Sensors | Hybrid | [View →](https://www.remotejobscan.com/job/14051/technical-program-manager-sensors/) |
-| Technical Program Manager, Actuators | Hybrid | [View →](https://www.remotejobscan.com/job/14050/technical-program-manager-actuators/) |
-| Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
-| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
-| Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
