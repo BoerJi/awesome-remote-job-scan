@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2564</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2567</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
+| 规模化销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14117/scaled-sales-lead-beneficial-deployments/) |
+| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13702/partner-sales-manager-systems-integrators/) |
+| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14110/senior-compliance-analyst/) |
 | 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14108/startup-account-executive/) |
 | 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | P2P合作伙伴运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
@@ -37,11 +41,6 @@
 | 企业客户经理 - 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
 | 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | 韩国消费者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13785/localization-project-manager-pmo/) |
-| 技术会计财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
-| 财务经理，技术会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14097/finance-manager-technical-accounting/) |
-| 战略沟通与媒体关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
-| 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

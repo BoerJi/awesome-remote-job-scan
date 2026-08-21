@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2564</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2567</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Smart Contract Engineer | Remote | [View →](https://www.remotejobscan.com/job/8935/staff-smart-contract-engineer/) |
+| Scaled Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/14117/scaled-sales-lead-beneficial-deployments/) |
+| Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13702/partner-sales-manager-systems-integrators/) |
+| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14110/senior-compliance-analyst/) |
 | Startup Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14108/startup-account-executive/) |
 | Enterprise Account Executive - Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
@@ -37,10 +41,6 @@
 | Enterprise Account Executive - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
 | Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | Consumer Marketing Lead, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/13785/localization-project-manager-pmo/) |
-| Finance Manager, Technical Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
-| Head of Strategic Communications & Media Relations | Remote | [View →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
-| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
