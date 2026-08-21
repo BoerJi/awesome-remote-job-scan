@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2564</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2569</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Manager, Technical Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
+| Head of Strategic Communications & Media Relations | Remote | [View →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 | Partner Director, ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
 | Futures BD Manager | On-site | [View →](https://www.remotejobscan.com/job/5564/futures-bd-manager/) |
@@ -40,9 +42,6 @@
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Partner Director, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
-| Operational Senior Audit Manager, LACC | Remote | [View →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
-| Risk & Control Specialist 风控审核 | Remote | [View →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
-| Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

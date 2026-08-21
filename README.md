@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2564</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2569</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术会计财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
+| 财务经理，技术会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14097/finance-manager-technical-accounting/) |
+| 战略沟通与媒体关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 | 大中华区合作伙伴总监，澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
 | 期货业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5564/futures-bd-manager/) |
@@ -40,9 +43,6 @@
 | 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | 韩国合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
-| 运营高级审计经理，拉美加勒比区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5869/operational-senior-audit-manager-lacc/) |
-| Risk & Control Specialist 风控审核 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13848/risk-control-specialist/) |
-| 数据中心供应规划负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
