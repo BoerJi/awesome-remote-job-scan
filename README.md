@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2566</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2562</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
+| 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | 韩国消费者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13785/localization-project-manager-pmo/) |
 | 技术会计财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
@@ -41,8 +43,6 @@
 | 高级网络安全政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14087/senior-cyber-policy-lead/) |
 | 网络安全保障政策分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
 | 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| 韩国合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

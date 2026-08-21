@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2566</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2562</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
+| Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | Consumer Marketing Lead, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/13785/localization-project-manager-pmo/) |
 | Finance Manager, Technical Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
@@ -40,8 +42,6 @@
 | Senior Cyber Policy Lead | On-site | [View →](https://www.remotejobscan.com/job/14087/senior-cyber-policy-lead/) |
 | Safeguards Policy Analyst, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| Partner Director, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14084/partner-director-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
