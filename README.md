@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2569</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2566</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 韩国消费者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13785/localization-project-manager-pmo/) |
 | 技术会计财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
 | 财务经理，技术会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14097/finance-manager-technical-accounting/) |
 | 战略沟通与媒体关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 | 大中华区合作伙伴总监，澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
-| 期货业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5564/futures-bd-manager/) |
-| 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 | 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 | 高级/资深工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

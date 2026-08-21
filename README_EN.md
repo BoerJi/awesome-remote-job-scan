@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2569</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2566</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,12 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Consumer Marketing Lead, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/13785/localization-project-manager-pmo/) |
 | Finance Manager, Technical Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
 | Head of Strategic Communications & Media Relations | Remote | [View →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
 | Partner Director, ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
-| Futures BD Manager | On-site | [View →](https://www.remotejobscan.com/job/5564/futures-bd-manager/) |
-| Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 | Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 | Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
