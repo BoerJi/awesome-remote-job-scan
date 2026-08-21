@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2574</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2572</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/13706/business-development-representative-startups/) |
 | Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | Program Manager, GTM Acceleration | Hybrid | [View →](https://www.remotejobscan.com/job/14120/program-manager-gtm-acceleration/) |
 | Enterprise Account Executive, DoW/IC | On-site | [View →](https://www.remotejobscan.com/job/9433/enterprise-account-executive-dowic/) |
@@ -40,7 +41,6 @@
 | Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
 | Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
 | AMLCO & Senior Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
