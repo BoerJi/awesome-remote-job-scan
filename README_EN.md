@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2562</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2569</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Account Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/14105/partner-account-manager-dach/) |
+| Compliance, Threat & Risk Assessment Manager | Remote | [View →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
+| Manager, Derivatives Compliance | Remote | [View →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| AMLCO & Senior Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | Enterprise Account Executive - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
 | Senior Institutional Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | Consumer Marketing Lead, Korea | Hybrid | [View →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
@@ -36,12 +42,6 @@
 | Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | Finance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/14090/finance-associate/) |
 | GTM Strategy & Operations Lead, Reseller & Ecosystem Programs (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
-| Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
-| Head of Vulnerability Disclosure & Security Community | Remote | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
-| Account Director, Digital Native | Hybrid | [View →](https://www.remotejobscan.com/job/14088/account-director-digital-native/) |
-| Senior Cyber Policy Lead | On-site | [View →](https://www.remotejobscan.com/job/14087/senior-cyber-policy-lead/) |
-| Safeguards Policy Analyst, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2562</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2569</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DACH合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14105/partner-account-manager-dach/) |
+| 合规、威胁与风险评估经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9197/compliance-threat-risk-assessment-manager/) |
+| 衍生品合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/manager-derivatives-compliance/) |
+| 反洗钱合规主管及高级合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9188/amlco-senior-compliance-associate/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | 企业客户经理 - 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14100/enterprise-account-executive-life-sciences/) |
 | 高级机构销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/5553/senior-institutional-sales-manager/) |
 | 韩国消费者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14098/consumer-marketing-lead-korea/) |
@@ -37,12 +43,6 @@
 | 高级/资深工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | 财务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14090/finance-associate/) |
 | GTM战略与运营负责人，经销商与生态系统项目（亚太区） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14089/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac/) |
-| 产品营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
-| 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
-| 数字原生业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14088/account-director-digital-native/) |
-| 高级网络安全政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14087/senior-cyber-policy-lead/) |
-| 网络安全保障政策分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
-| 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
