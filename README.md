@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2354</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2357</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
+| 数据中心运营主管 - 合作站点运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
+| 网络安全产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
+| APAC Community Lead (Contract) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14149/apac-community-lead-contract/) |
+| 企业客户经理（密苏里州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
 | 数据中心物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
 | 网络安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
 | ISV合作主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
@@ -38,11 +43,6 @@
 | 税务总监，预估与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
 | 高级全栈工程师（北行政） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14136/senior-full-stack-engineer-north-admin/) |
 | API安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14135/software-engineer-api-safety/) |
-| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| 网络安全保障政策分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
-| 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
-| 数据中心供应规划负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

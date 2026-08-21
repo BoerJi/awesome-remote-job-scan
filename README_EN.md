@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2354</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2357</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
+| Data Center Operations Lead - Partner Site Operations | Remote | [View →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
+| Product Marketing Manager, Cybersecurity | Hybrid | [View →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
+| APAC Community Lead (Contract) | Remote | [View →](https://www.remotejobscan.com/job/14149/apac-community-lead-contract/) |
+| Enterprise Account Executive (Missouri) | On-site | [View →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
 | Data Center Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
 | Product Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
 | ISV Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
@@ -36,11 +41,6 @@
 | Tax Director, Provision & Compliance | Remote | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
 | Senior Full-Stack Engineer (North Admin) | Remote | [View →](https://www.remotejobscan.com/job/14136/senior-full-stack-engineer-north-admin/) |
 | Software Engineer, API Safety | Hybrid | [View →](https://www.remotejobscan.com/job/14135/software-engineer-api-safety/) |
-| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| Safeguards Policy Analyst, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14086/safeguards-policy-analyst-cyber-harms/) |
-| Head of Vulnerability Disclosure & Security Community | Remote | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
-| Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
