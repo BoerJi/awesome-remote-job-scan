@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2570</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2564</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14108/startup-account-executive/) |
+| 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | P2P合作伙伴运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 | Senior Manager / Director, Growth Operation | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
@@ -40,8 +42,6 @@
 | 财务经理，技术会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14097/finance-manager-technical-accounting/) |
 | 战略沟通与媒体关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
-| 大中华区合作伙伴总监，澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
-| KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-21 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

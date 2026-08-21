@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2570</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2564</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Startup Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14108/startup-account-executive/) |
+| Enterprise Account Executive - Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | P2P Partner Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/11876/p2p-partner-operations-lead/) |
 | Senior Manager / Director, Growth Operation | On-site | [View →](https://www.remotejobscan.com/job/11289/senior-manager-director-growth-operation/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
@@ -39,8 +41,6 @@
 | Finance Manager, Technical Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/14096/finance-manager-technical-accounting/) |
 | Head of Strategic Communications & Media Relations | Remote | [View →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14091/account-director-startups/) |
-| Partner Director, ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/14092/partner-director-anz/) |
-| KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-21 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
