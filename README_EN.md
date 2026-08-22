@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2379</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2380</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
 | Safety & Security Counsel, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
 | Safety & Security Counsel | On-site | [View →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 | Deployed Engineer (Atlanta) | On-site | [View →](https://www.remotejobscan.com/job/11091/deployed-engineer-atlanta/) |
@@ -41,7 +42,6 @@
 | Staff Software Engineer, Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
 | Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
 | Applied AI Architect - EDU | On-site | [View →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
-| Electrical Engineer, Actuator test infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
