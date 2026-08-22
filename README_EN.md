@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2367</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2368</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
+| Staff Software Engineer, Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
 | Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
 | Applied AI Architect - EDU | On-site | [View →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
 | Electrical Engineer, Actuator test infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
@@ -41,8 +43,6 @@
 | Enterprise Account Executive (Missouri) | On-site | [View →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
 | Data Center Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
 | Product Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
-| ISV Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
-| Product Manager, Youth | Hybrid | [View →](https://www.remotejobscan.com/job/14147/product-manager-youth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

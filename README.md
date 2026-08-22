@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2367</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2368</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
+| 高级软件工程师，产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
 | 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
 | 教育应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
 | 执行器测试基础设施电气工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
@@ -41,8 +43,6 @@
 | 企业客户经理（密苏里州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
 | 数据中心物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
 | 网络安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
-| ISV合作主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13208/isv-partnerships-lead/) |
-| 青年产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14147/product-manager-youth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
