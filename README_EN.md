@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,7 +41,6 @@
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | Staff Software Engineer, Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
-| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

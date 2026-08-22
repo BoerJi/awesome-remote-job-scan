@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -42,7 +42,6 @@
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | 高级软件工程师，产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
-| 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
