@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2367</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safety & Security Counsel, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
+| Safety & Security Counsel | On-site | [View →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
+| Policy Design Manager, Conventional Weapons | Remote | [View →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
+| Senior Safeguards Policy Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14167/senior-safeguards-policy-lead-cyber-harms/) |
 | Data Center Operations Lead - Partner Site Operations | Remote | [View →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
 | Senior Frontend Platform Engineer, Design Systems | On-site | [View →](https://www.remotejobscan.com/job/14164/senior-frontend-platform-engineer-design-systems/) |
 | Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-ai-native/) |
@@ -38,11 +42,6 @@
 | Product Manager II, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
 | Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
 | Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
-| Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| Senior Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-platform-access-authorization/) |
-| Research Engineer / Research Scientist, Health | On-site | [View →](https://www.remotejobscan.com/job/14156/research-engineer-research-scientist-health/) |
-| Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
-| Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
