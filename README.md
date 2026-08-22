@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2379</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲、中东和非洲区安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
+| 欧洲、中东、非洲安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14172/safety-security-counsel-emea/) |
+| 安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 | 部署工程师（亚特兰大） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11091/deployed-engineer-atlanta/) |
 | 战略财务，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
@@ -40,9 +43,6 @@
 | 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
 | 教育应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
 | 执行器测试基础设施电气工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
-| 高级产品经理，工作空间和多用户 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
-| 渠道账户经理，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
-| 会计分析与BI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
