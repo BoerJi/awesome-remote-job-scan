@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2365</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2370</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-ai-native/) |
+| Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
+| Legal Ops Associate | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | Staff Software Engineer, Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
@@ -38,11 +42,7 @@
 | Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
 | Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
-| Data Center Operations Lead - Partner Site Operations | Remote | [View →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
 | Product Marketing Manager, Cybersecurity | Hybrid | [View →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
-| APAC Community Lead (Contract) | Remote | [View →](https://www.remotejobscan.com/job/14149/apac-community-lead-contract/) |
-| Enterprise Account Executive (Missouri) | On-site | [View →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
-| Data Center Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
