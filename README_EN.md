@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2368</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2365</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | Staff Software Engineer, Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
 | Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
@@ -42,7 +43,6 @@
 | APAC Community Lead (Contract) | Remote | [View →](https://www.remotejobscan.com/job/14149/apac-community-lead-contract/) |
 | Enterprise Account Executive (Missouri) | On-site | [View →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
 | Data Center Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
-| Product Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

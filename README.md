@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2368</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2365</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | 高级软件工程师，产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
 | 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
@@ -42,7 +43,6 @@
 | APAC Community Lead (Contract) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14149/apac-community-lead-contract/) |
 | 企业客户经理（密苏里州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11838/enterprise-account-executive-missouri/) |
 | 数据中心物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14146/data-center-physical-security-systems-engineer/) |
-| 网络安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14016/product-manager-cybersecurity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
