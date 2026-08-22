@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Finance, B2B Product | Hybrid | [View →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | Safety & Security Counsel, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
 | Safety & Security Counsel | On-site | [View →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
@@ -41,7 +42,6 @@
 | Applied AI Architect - EDU | On-site | [View →](https://www.remotejobscan.com/job/10130/applied-ai-architect-edu/) |
 | Electrical Engineer, Actuator test infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
 | Product Manager II, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
-| Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
