@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2379</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,8 +39,6 @@
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
 | Legal Ops Associate | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
-| Staff Software Engineer, Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
