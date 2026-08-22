@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2374</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | Safety & Security Counsel, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
 | Safety & Security Counsel | On-site | [View →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 | Policy Design Manager, Conventional Weapons | Remote | [View →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
@@ -41,7 +42,6 @@
 | Electrical Engineer, Actuator test infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
 | Product Manager II, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
 | Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
-| Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

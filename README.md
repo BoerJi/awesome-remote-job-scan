@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2374</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2378</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | EMEA安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
 | 安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 | 常规武器政策设计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
@@ -41,7 +42,6 @@
 | 执行器测试基础设施电气工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14159/electrical-engineer-actuator-test-infrastructure/) |
 | 高级产品经理，工作空间和多用户 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
 | 渠道账户经理，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
-| 会计分析与BI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14155/accounting-analytics-bi-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
