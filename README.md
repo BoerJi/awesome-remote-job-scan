@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2370</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2367</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心运营主管 - 合作站点运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
+| 高级前端平台工程师，设计系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14164/senior-frontend-platform-engineer-design-systems/) |
 | AI原生客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12279/account-executive-ai-native/) |
 | 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
@@ -41,8 +43,6 @@
 | 研究工程师 / 研究科学家，健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14156/research-engineer-research-scientist-health/) |
 | 高级会计，经纪及衍生品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
 | 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
-| 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
-| 网络安全产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-22 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2370</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2367</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Operations Lead - Partner Site Operations | Remote | [View →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
+| Senior Frontend Platform Engineer, Design Systems | On-site | [View →](https://www.remotejobscan.com/job/14164/senior-frontend-platform-engineer-design-systems/) |
 | Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-ai-native/) |
 | Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
@@ -41,8 +43,6 @@
 | Research Engineer / Research Scientist, Health | On-site | [View →](https://www.remotejobscan.com/job/14156/research-engineer-research-scientist-health/) |
 | Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
 | Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
-| Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/14151/senior-data-scientist/) |
-| Product Marketing Manager, Cybersecurity | Hybrid | [View →](https://www.remotejobscan.com/job/14150/product-marketing-manager-cybersecurity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-22 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
