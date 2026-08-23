@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,7 +32,6 @@
 | Safety & Security Counsel, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
 | Safety & Security Counsel | On-site | [View →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 | Deployed Engineer (Atlanta) | On-site | [View →](https://www.remotejobscan.com/job/11091/deployed-engineer-atlanta/) |
-| Strategic Finance, B2B Product | Hybrid | [View →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 12:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 13:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

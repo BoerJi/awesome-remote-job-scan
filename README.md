@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,7 +33,6 @@
 | 欧洲、中东、非洲安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14172/safety-security-counsel-emea/) |
 | 安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 | 部署工程师（亚特兰大） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11091/deployed-engineer-atlanta/) |
-| 战略财务，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 12:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 13:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
