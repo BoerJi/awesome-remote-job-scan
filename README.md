@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,7 +33,6 @@
 | 部署工程师（亚特兰大） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11091/deployed-engineer-atlanta/) |
 | 战略财务，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
-| 常规武器政策设计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 03:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 04:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
