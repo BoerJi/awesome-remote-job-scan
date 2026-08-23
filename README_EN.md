@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2377</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2379</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
+| Developer Experience Engineer | Remote | [View →](https://www.remotejobscan.com/job/14246/developer-experience-engineer/) |
 | Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment | On-site | [View →](https://www.remotejobscan.com/job/14244/strategic-sourcing-manager-data-center-infrastructure-owner-furnished-equipment/) |
 | Strategic Delivery Lead, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/14213/strategic-delivery-lead-intelligence-community/) |
 | Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
@@ -90,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
