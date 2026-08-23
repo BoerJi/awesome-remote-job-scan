@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2379</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2377</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,10 +35,6 @@
 | Senior Safeguards Policy Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14167/senior-safeguards-policy-lead-cyber-harms/) |
 | Data Center Operations Lead - Partner Site Operations | Remote | [View →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
 | Senior Frontend Platform Engineer, Design Systems | On-site | [View →](https://www.remotejobscan.com/job/14164/senior-frontend-platform-engineer-design-systems/) |
-| Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/12279/account-executive-ai-native/) |
-| Partnerships Business Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
-| Legal Ops Associate | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

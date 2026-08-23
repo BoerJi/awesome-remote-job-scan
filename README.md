@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2379</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2377</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（13 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -36,10 +36,6 @@
 | 高级安全政策主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14167/senior-safeguards-policy-lead-cyber-harms/) |
 | 数据中心运营主管 - 合作站点运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
 | 高级前端平台工程师，设计系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14164/senior-frontend-platform-engineer-design-systems/) |
-| AI原生客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12279/account-executive-ai-native/) |
-| 合作伙伴业务运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13363/partnerships-business-operations-manager/) |
-| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13364/partner-success-lead/) |
-| 法律运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
