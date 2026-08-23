@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2373</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2376</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,7 +32,6 @@
 | 欧洲、中东和非洲区安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
 | 欧洲、中东、非洲安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14172/safety-security-counsel-emea/) |
 | 安全与安全顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
-| 部署工程师（亚特兰大） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11091/deployed-engineer-atlanta/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
