@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2372</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2368</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Strategic Finance, B2B Product | Hybrid | [View →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | Policy Design Manager, Conventional Weapons | Remote | [View →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
-| Senior Safeguards Policy Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14167/senior-safeguards-policy-lead-cyber-harms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

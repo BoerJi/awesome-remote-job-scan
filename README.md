@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2372</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2368</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（11 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -34,7 +34,6 @@
 | 战略财务，B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13103/strategic-finance-b2b-product/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | 常规武器政策设计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
-| 高级安全政策主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14167/senior-safeguards-policy-lead-cyber-harms/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
