@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2376</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2374</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -29,8 +29,6 @@
 | Business Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | Data Center Supply Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 | Lead / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
-| Safety & Security Counsel, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14171/safety-security-counsel-emea/) |
-| Safety & Security Counsel | On-site | [View →](https://www.remotejobscan.com/job/14170/safety-security-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-23 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
