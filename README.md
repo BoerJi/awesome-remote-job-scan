@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2377</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2372</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
 | 业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14161/business-systems-analyst/) |
 | 数据中心供应规划负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14053/data-center-supply-planning-lead/) |
 | Lead / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
@@ -34,8 +35,6 @@
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | 常规武器政策设计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
 | 高级安全政策主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14167/senior-safeguards-policy-lead-cyber-harms/) |
-| 数据中心运营主管 - 合作站点运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14152/data-center-operations-lead-partner-site-operations/) |
-| 高级前端平台工程师，设计系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14164/senior-frontend-platform-engineer-design-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-23 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
