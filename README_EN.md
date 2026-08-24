@@ -14,16 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2391</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2393</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| Derivatives Trader | Hybrid | [View →](https://www.remotejobscan.com/job/14271/derivatives-trader/) |
+| Growth Workflow Manager, Organic Growth | Remote | [View →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
+| Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
+| Enterprise Account Executive, Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
+| Derivatives Trader | Hybrid | [View →](https://www.remotejobscan.com/job/14273/derivatives-trader/) |
 | Account Director, Startups | Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14270/account-director-startups-tokyo/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/14266/product-designer/) |
 | Product Designer - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/14265/product-designer-predictions-og/) |
@@ -98,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

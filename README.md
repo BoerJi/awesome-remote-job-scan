@@ -14,16 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2391</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2393</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 衍生品交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14271/derivatives-trader/) |
+| 有机增长增长工作流经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
+| Senior Earn Growth Specialist 理财与借贷增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
+| 制造业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
+| 衍生品交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14273/derivatives-trader/) |
 | 东京初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14270/account-director-startups-tokyo/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14266/product-designer/) |
 | 产品设计师 - 预测，OG | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14265/product-designer-predictions-og/) |
@@ -98,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
