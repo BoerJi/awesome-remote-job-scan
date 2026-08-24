@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2378</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2381</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Agentic Platform (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
+| Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
 | Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
 | Manufacturing Quality Engineer – Datacenter Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/14248/manufacturing-quality-engineer-datacenter-infrastructure/) |
 | BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
@@ -92,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
