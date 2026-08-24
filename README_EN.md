@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2388</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2396</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Manager - Campaigns | Remote | [View →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
+| Software Engineer, Model Runtime | Hybrid | [View →](https://www.remotejobscan.com/job/14339/software-engineer-model-runtime/) |
+| Performance Marketing Manager, Global | Remote | [View →](https://www.remotejobscan.com/job/14332/performance-marketing-manager-global/) |
+| Partner Account Manager - Spain, Italy & MEA | On-site | [View →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
+| Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/14328/software-engineer-data-platform-team/) |
 | Data Center Mechanical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
 | Data Center Electrical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
 | Security Software Engineer, Detection & Response Platform | On-site | [View →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
-| Growth Manager (Localisation) | Remote | [View →](https://www.remotejobscan.com/job/14319/growth-manager-localisation/) |
 | Transaction Principal, EU | On-site | [View →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
 | Transaction Manager | Remote | [View →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
 | Reporting and Controls Lead, Data Center Capacity Delivery | Remote | [View →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
@@ -39,10 +43,6 @@
 | Environmental Health & Safety Manager, Data Center Construction and Operations | Remote | [View →](https://www.remotejobscan.com/job/14314/environmental-health-safety-manager-data-center-construction-and-operations/) |
 | Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
 | Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
-| Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
-| Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
-| Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
-| Creative Partnerships | Remote | [View →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

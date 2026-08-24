@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2388</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2396</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长经理 - 活动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
+| 模型运行时软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14339/software-engineer-model-runtime/) |
+| 全球绩效营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14332/performance-marketing-manager-global/) |
+| 合作伙伴账户经理 - 西班牙、意大利及中东非地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
+| 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14328/software-engineer-data-platform-team/) |
 | 数据中心机械工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
 | 数据中心电气工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
 | 安全软件工程师，检测与响应平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
-| 本地化增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14319/growth-manager-localisation/) |
 | 欧洲交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
 | 交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
 | 数据中心容量交付报告与控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
@@ -39,10 +43,6 @@
 | 数据中心建设与运营环境健康与安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14314/environmental-health-safety-manager-data-center-construction-and-operations/) |
 | 合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
 | 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
-| 政府赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
-| 高级软件工程师 - 全栈 - 增长产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
-| 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
-| 创意合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
