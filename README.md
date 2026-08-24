@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2402</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2409</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台核心自动化后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
+| 欺诈、支付与银行负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14358/head-of-fraud-payments-banking/) |
+| 初创企业增长计划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14360/growth-programs-lead-startups/) |
+| 成长型客户经理，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
+| 产品政策经理，产品风险 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14352/product-policy-manager-product-risk/) |
+| Staff + 高级软件工程师，规模化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
+| 战略合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
+| 销售发展总监（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14356/sales-development-director-nyc/) |
+| 销售发展总监（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14355/sales-development-director-san-francisco/) |
 | AI 加速器运行时软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14347/software-engineer-ai-accelerator-runtime/) |
 | 系统软件工程师，硅片启动 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14348/systems-software-engineer-silicon-bringup/) |
 | 高管业务中心市场主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
@@ -33,16 +42,6 @@
 | 集成营销经理，开发者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14343/integrated-marketing-manager-developers/) |
 | AI支持工程师 - 都柏林（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14345/ai-support-engineer-dublin-weekend-shift/) |
 | 增长经理 - 活动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
-| 模型运行时软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14339/software-engineer-model-runtime/) |
-| 全球绩效营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14332/performance-marketing-manager-global/) |
-| 合作伙伴账户经理 - 西班牙、意大利及中东非地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
-| 数据平台团队软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14328/software-engineer-data-platform-team/) |
-| 数据中心机械工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
-| 数据中心电气工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
-| 安全软件工程师，检测与响应平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
-| 欧洲交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
-| 交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
-| 数据中心容量交付报告与控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

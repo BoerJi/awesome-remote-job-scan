@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2402</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2409</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
+| Head of Fraud, Payments & Banking | Remote | [View →](https://www.remotejobscan.com/job/14358/head-of-fraud-payments-banking/) |
+| Growth Programs Lead, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14360/growth-programs-lead-startups/) |
+| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
+| Product Policy Manager, Product Risk | Remote | [View →](https://www.remotejobscan.com/job/14352/product-policy-manager-product-risk/) |
+| Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
+| Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
+| Sales Development Director (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14356/sales-development-director-nyc/) |
+| Sales Development Director (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14355/sales-development-director-san-francisco/) |
 | Software Engineer, AI accelerator Runtime | Hybrid | [View →](https://www.remotejobscan.com/job/14347/software-engineer-ai-accelerator-runtime/) |
 | Systems Software Engineer, Silicon Bringup | Hybrid | [View →](https://www.remotejobscan.com/job/14348/systems-software-engineer-silicon-bringup/) |
 | Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
@@ -33,16 +42,6 @@
 | Integrated Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14343/integrated-marketing-manager-developers/) |
 | AI Support Engineer - Dublin (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/14345/ai-support-engineer-dublin-weekend-shift/) |
 | Growth Manager - Campaigns | Remote | [View →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
-| Software Engineer, Model Runtime | Hybrid | [View →](https://www.remotejobscan.com/job/14339/software-engineer-model-runtime/) |
-| Performance Marketing Manager, Global | Remote | [View →](https://www.remotejobscan.com/job/14332/performance-marketing-manager-global/) |
-| Partner Account Manager - Spain, Italy & MEA | On-site | [View →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
-| Software Engineer, Data Platform Team | Remote | [View →](https://www.remotejobscan.com/job/14328/software-engineer-data-platform-team/) |
-| Data Center Mechanical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
-| Data Center Electrical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
-| Security Software Engineer, Detection & Response Platform | On-site | [View →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
-| Transaction Principal, EU | On-site | [View →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
-| Transaction Manager | Remote | [View →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
-| Reporting and Controls Lead, Data Center Capacity Delivery | Remote | [View →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
