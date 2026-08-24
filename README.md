@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2381</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2385</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | 前沿部署工程师，智能平台（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 | 前沿部署工程师，基础设施专家（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
 | 渠道账户经理，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
@@ -30,8 +31,6 @@
 | BIM设计师与协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
 | 开发者体验工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14246/developer-experience-engineer/) |
 | 战略采购经理，数据中心基础设施，自有设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14244/strategic-sourcing-manager-data-center-infrastructure-owner-furnished-equipment/) |
-| 战略交付负责人，情报界 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14213/strategic-delivery-lead-intelligence-community/) |
-| 收入战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

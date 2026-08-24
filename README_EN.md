@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2381</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2385</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | Forward Deployed Engineer, Agentic Platform (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 | Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
 | Channel Account Manager, Reseller | On-site | [View →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
@@ -30,8 +31,6 @@
 | BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
 | Developer Experience Engineer | Remote | [View →](https://www.remotejobscan.com/job/14246/developer-experience-engineer/) |
 | Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment | On-site | [View →](https://www.remotejobscan.com/job/14244/strategic-sourcing-manager-data-center-infrastructure-owner-furnished-equipment/) |
-| Strategic Delivery Lead, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/14213/strategic-delivery-lead-intelligence-community/) |
-| Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
