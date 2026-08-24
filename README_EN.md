@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2393</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2390</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Lead, Northeast Asia | Remote | [View →](https://www.remotejobscan.com/job/14278/growth-lead-northeast-asia/) |
 | Growth Workflow Manager, Organic Growth | Remote | [View →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
 | Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
 | Enterprise Account Executive, Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
