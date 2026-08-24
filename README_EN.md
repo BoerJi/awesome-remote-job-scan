@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2409</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2416</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Staff Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
+| Software Engineer, Business Technology | On-site | [View →](https://www.remotejobscan.com/job/14368/software-engineer-business-technology/) |
+| Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
+| IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
+| Data Center Sourcing Manager | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager/) |
+| Compute Strategy & Transactions, GPT-Infra | On-site | [View →](https://www.remotejobscan.com/job/14367/compute-strategy-transactions-gpt-infra/) |
+| Partnerships Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnerships-manager/) |
+| Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/14362/account-executive-startups/) |
+| Director of Compensation Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/11031/director-of-compensation-strategy/) |
+| Associate Manager, Internal Audit | Remote | [View →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
+| Account Executive-Startups, EMEA (French Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
 | Head of Fraud, Payments & Banking | Remote | [View →](https://www.remotejobscan.com/job/14358/head-of-fraud-payments-banking/) |
 | Growth Programs Lead, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14360/growth-programs-lead-startups/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
@@ -32,16 +41,6 @@
 | Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
 | Sales Development Director (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14356/sales-development-director-nyc/) |
 | Sales Development Director (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14355/sales-development-director-san-francisco/) |
-| Software Engineer, AI accelerator Runtime | Hybrid | [View →](https://www.remotejobscan.com/job/14347/software-engineer-ai-accelerator-runtime/) |
-| Systems Software Engineer, Silicon Bringup | Hybrid | [View →](https://www.remotejobscan.com/job/14348/systems-software-engineer-silicon-bringup/) |
-| Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
-| Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
-| Integrated Marketing Manager, Product & Model Launches | Hybrid | [View →](https://www.remotejobscan.com/job/14344/integrated-marketing-manager-product-model-launches/) |
-| Senior Media Manager | On-site | [View →](https://www.remotejobscan.com/job/14341/senior-media-manager/) |
-| Staff IT Technical Program Manager | Remote | [View →](https://www.remotejobscan.com/job/14340/staff-it-technical-program-manager/) |
-| Integrated Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14343/integrated-marketing-manager-developers/) |
-| AI Support Engineer - Dublin (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/14345/ai-support-engineer-dublin-weekend-shift/) |
-| Growth Manager - Campaigns | Remote | [View →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
