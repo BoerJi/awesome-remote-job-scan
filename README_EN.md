@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
+| IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | Senior Cyber Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
 | Solution Architect (APAC) | Remote | [View →](https://www.remotejobscan.com/job/14382/solution-architect-apac/) |
 | Solution Architect (London) | Remote | [View →](https://www.remotejobscan.com/job/14377/solution-architect-london/) |
@@ -40,8 +42,6 @@
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | Software Engineer, Business Technology | On-site | [View →](https://www.remotejobscan.com/job/14368/software-engineer-business-technology/) |
 | Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| Data Center Sourcing Manager | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager/) |
-| Compute Strategy & Transactions, GPT-Infra | On-site | [View →](https://www.remotejobscan.com/job/14367/compute-strategy-transactions-gpt-infra/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

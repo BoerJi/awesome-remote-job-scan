@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
+| 知识产权顾问、商标与域名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | 高级网络安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
 | 大中华区解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14382/solution-architect-apac/) |
 | 解决方案架构师（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/solution-architect-london/) |
@@ -40,8 +42,6 @@
 | 国家安全销售负责人（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | 商业技术软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14368/software-engineer-business-technology/) |
 | 平台战略财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| 数据中心采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager/) |
-| 计算策略与交易、GPT基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14367/compute-strategy-transactions-gpt-infra/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
