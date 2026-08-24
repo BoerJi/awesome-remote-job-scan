@@ -23,13 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 渠道账户经理，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14157/channel-account-manager-reseller/) |
 | 数据中心基础设施制造质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14248/manufacturing-quality-engineer-datacenter-infrastructure/) |
 | BIM设计师与协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
 | 开发者体验工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14246/developer-experience-engineer/) |
 | 战略采购经理，数据中心基础设施，自有设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14244/strategic-sourcing-manager-data-center-infrastructure-owner-furnished-equipment/) |
 | 战略交付负责人，情报界 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14213/strategic-delivery-lead-intelligence-community/) |
 | 收入战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
