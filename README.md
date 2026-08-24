@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2379</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2388</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,23 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心机械工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
+| 数据中心电气工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
+| 安全软件工程师，检测与响应平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
+| 本地化增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14319/growth-manager-localisation/) |
+| 欧洲交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
+| 交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
+| 数据中心容量交付报告与控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
+| EMEA区域数据中心容量交付区域经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14320/regional-manager-emea-data-center-capacity-delivery/) |
+| 数据中心运维维修项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14318/repairs-program-lead-data-center-operations/) |
+| 高级技术风险架构师，统一交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
+| 产品工程师 - 制造运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14317/product-engineer-manufacturing-operations/) |
+| 数据中心硬件制造工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14316/manufacturing-engineer-data-center-hardware/) |
+| 全球供应链经理 - 合同制造 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14315/global-supply-manager-contract-manufacturing/) |
+| 数据中心建设与运营环境健康与安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14314/environmental-health-safety-manager-data-center-construction-and-operations/) |
 | 合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
 | 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
 | 政府赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
 | 高级软件工程师 - 全栈 - 增长产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
 | 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 | 创意合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
-| 内部管理平台高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14279/lead-product-manager-internal-management-platform/) |
-| 大中华区增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14278/growth-lead-northeast-asia/) |
-| 有机增长增长工作流经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
-| Senior Earn Growth Specialist 理财与借贷增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
-| 制造业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
-| 衍生品交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14273/derivatives-trader/) |
-| 东京初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14270/account-director-startups-tokyo/) |
-| Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14266/product-designer/) |
-| 产品设计师 - 预测，OG | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14265/product-designer-predictions-og/) |
-| 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14264/finance-strategy-gtm-post-sales/) |
-| 借贷与信贷产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

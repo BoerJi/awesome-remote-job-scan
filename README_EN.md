@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2379</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2388</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Mechanical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
+| Data Center Electrical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
+| Security Software Engineer, Detection & Response Platform | On-site | [View →](https://www.remotejobscan.com/job/9618/security-software-engineer-detection-response-platform/) |
+| Growth Manager (Localisation) | Remote | [View →](https://www.remotejobscan.com/job/14319/growth-manager-localisation/) |
+| Transaction Principal, EU | On-site | [View →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
+| Transaction Manager | Remote | [View →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
+| Reporting and Controls Lead, Data Center Capacity Delivery | Remote | [View →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
+| Regional Manager EMEA, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14320/regional-manager-emea-data-center-capacity-delivery/) |
+| Repairs Program Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/14318/repairs-program-lead-data-center-operations/) |
+| Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
+| Product Engineer - Manufacturing Operations | Remote | [View →](https://www.remotejobscan.com/job/14317/product-engineer-manufacturing-operations/) |
+| Manufacturing Engineer - Data Center Hardware | Remote | [View →](https://www.remotejobscan.com/job/14316/manufacturing-engineer-data-center-hardware/) |
+| Global Supply Manager - Contract Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/14315/global-supply-manager-contract-manufacturing/) |
+| Environmental Health & Safety Manager, Data Center Construction and Operations | Remote | [View →](https://www.remotejobscan.com/job/14314/environmental-health-safety-manager-data-center-construction-and-operations/) |
 | Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
 | Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
 | Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
 | Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
 | Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 | Creative Partnerships | Remote | [View →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
-| Lead Product Manager – Internal Management Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14279/lead-product-manager-internal-management-platform/) |
-| Growth Lead, Northeast Asia | Remote | [View →](https://www.remotejobscan.com/job/14278/growth-lead-northeast-asia/) |
-| Growth Workflow Manager, Organic Growth | Remote | [View →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
-| Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
-| Enterprise Account Executive, Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
-| Derivatives Trader | Hybrid | [View →](https://www.remotejobscan.com/job/14273/derivatives-trader/) |
-| Account Director, Startups | Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14270/account-director-startups-tokyo/) |
-| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/14266/product-designer/) |
-| Product Designer - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/14265/product-designer-predictions-og/) |
-| Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/14264/finance-strategy-gtm-post-sales/) |
-| Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
