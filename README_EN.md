@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
+| Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
 | Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 | Creative Partnerships | Remote | [View →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
 | Lead Product Manager – Internal Management Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14279/lead-product-manager-internal-management-platform/) |
@@ -38,8 +40,6 @@
 | Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | Forward Deployed Engineer, Agentic Platform (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
-| Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
-| Manufacturing Quality Engineer – Datacenter Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/14248/manufacturing-quality-engineer-datacenter-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
