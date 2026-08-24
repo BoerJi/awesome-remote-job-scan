@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2396</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2401</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 联邦部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
+| 集成营销经理，产品与模型发布 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14344/integrated-marketing-manager-product-model-launches/) |
+| 高级媒体经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14341/senior-media-manager/) |
+| 高级IT技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14340/staff-it-technical-program-manager/) |
+| 集成营销经理，开发者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14343/integrated-marketing-manager-developers/) |
+| AI支持工程师 - 都柏林（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14345/ai-support-engineer-dublin-weekend-shift/) |
 | 增长经理 - 活动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
 | 模型运行时软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14339/software-engineer-model-runtime/) |
 | 全球绩效营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14332/performance-marketing-manager-global/) |
@@ -37,12 +43,6 @@
 | EMEA区域数据中心容量交付区域经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14320/regional-manager-emea-data-center-capacity-delivery/) |
 | 数据中心运维维修项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14318/repairs-program-lead-data-center-operations/) |
 | 高级技术风险架构师，统一交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
-| 产品工程师 - 制造运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14317/product-engineer-manufacturing-operations/) |
-| 数据中心硬件制造工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14316/manufacturing-engineer-data-center-hardware/) |
-| 全球供应链经理 - 合同制造 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14315/global-supply-manager-contract-manufacturing/) |
-| 数据中心建设与运营环境健康与安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14314/environmental-health-safety-manager-data-center-construction-and-operations/) |
-| 合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
-| 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

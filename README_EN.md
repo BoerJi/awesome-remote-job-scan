@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2396</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2401</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
+| Integrated Marketing Manager, Product & Model Launches | Hybrid | [View →](https://www.remotejobscan.com/job/14344/integrated-marketing-manager-product-model-launches/) |
+| Senior Media Manager | On-site | [View →](https://www.remotejobscan.com/job/14341/senior-media-manager/) |
+| Staff IT Technical Program Manager | Remote | [View →](https://www.remotejobscan.com/job/14340/staff-it-technical-program-manager/) |
+| Integrated Marketing Manager, Developers | Hybrid | [View →](https://www.remotejobscan.com/job/14343/integrated-marketing-manager-developers/) |
+| AI Support Engineer - Dublin (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/14345/ai-support-engineer-dublin-weekend-shift/) |
 | Growth Manager - Campaigns | Remote | [View →](https://www.remotejobscan.com/job/14319/growth-manager-campaigns/) |
 | Software Engineer, Model Runtime | Hybrid | [View →](https://www.remotejobscan.com/job/14339/software-engineer-model-runtime/) |
 | Performance Marketing Manager, Global | Remote | [View →](https://www.remotejobscan.com/job/14332/performance-marketing-manager-global/) |
@@ -37,12 +43,6 @@
 | Regional Manager EMEA, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14320/regional-manager-emea-data-center-capacity-delivery/) |
 | Repairs Program Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/14318/repairs-program-lead-data-center-operations/) |
 | Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
-| Product Engineer - Manufacturing Operations | Remote | [View →](https://www.remotejobscan.com/job/14317/product-engineer-manufacturing-operations/) |
-| Manufacturing Engineer - Data Center Hardware | Remote | [View →](https://www.remotejobscan.com/job/14316/manufacturing-engineer-data-center-hardware/) |
-| Global Supply Manager - Contract Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/14315/global-supply-manager-contract-manufacturing/) |
-| Environmental Health & Safety Manager, Data Center Construction and Operations | Remote | [View →](https://www.remotejobscan.com/job/14314/environmental-health-safety-manager-data-center-construction-and-operations/) |
-| Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
-| Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
