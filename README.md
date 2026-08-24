@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2390</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2396</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
+| 创意合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
+| 内部管理平台高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14279/lead-product-manager-internal-management-platform/) |
 | 大中华区增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14278/growth-lead-northeast-asia/) |
 | 有机增长增长工作流经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
 | Senior Earn Growth Specialist 理财与借贷增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
@@ -37,9 +40,6 @@
 | 前沿部署工程师，智能平台（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 | 前沿部署工程师，基础设施专家（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
 | 数据中心基础设施制造质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14248/manufacturing-quality-engineer-datacenter-infrastructure/) |
-| BIM设计师与协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
-| 开发者体验工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14246/developer-experience-engineer/) |
-| 战略采购经理，数据中心基础设施，自有设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14244/strategic-sourcing-manager-data-center-infrastructure-owner-furnished-equipment/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

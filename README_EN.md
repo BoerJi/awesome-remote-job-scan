@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2390</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2396</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
+| Creative Partnerships | Remote | [View →](https://www.remotejobscan.com/job/14280/creative-partnerships/) |
+| Lead Product Manager – Internal Management Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14279/lead-product-manager-internal-management-platform/) |
 | Growth Lead, Northeast Asia | Remote | [View →](https://www.remotejobscan.com/job/14278/growth-lead-northeast-asia/) |
 | Growth Workflow Manager, Organic Growth | Remote | [View →](https://www.remotejobscan.com/job/11616/growth-workflow-manager-organic-growth/) |
 | Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
@@ -37,9 +40,6 @@
 | Forward Deployed Engineer, Agentic Platform (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 | Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
 | Manufacturing Quality Engineer – Datacenter Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/14248/manufacturing-quality-engineer-datacenter-infrastructure/) |
-| BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/14245/bim-designer-coordinator/) |
-| Developer Experience Engineer | Remote | [View →](https://www.remotejobscan.com/job/14246/developer-experience-engineer/) |
-| Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment | On-site | [View →](https://www.remotejobscan.com/job/14244/strategic-sourcing-manager-data-center-infrastructure-owner-furnished-equipment/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
