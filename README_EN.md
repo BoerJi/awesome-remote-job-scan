@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2416</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,24 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Cyber Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
+| Solution Architect (APAC) | Remote | [View →](https://www.remotejobscan.com/job/14382/solution-architect-apac/) |
+| Solution Architect (London) | Remote | [View →](https://www.remotejobscan.com/job/14377/solution-architect-london/) |
+| Solution Architect (Amsterdam) | Remote | [View →](https://www.remotejobscan.com/job/14376/solution-architect-amsterdam/) |
+| Solution Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
+| Solution Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
+| Solution Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
+| Solution Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
+| Solution Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
+| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/14373/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
+| IT Systems Engineer, Mobile Client Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/14372/it-systems-engineer-mobile-client-platform-engineer/) |
+| Staff Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
+| Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
+| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | Software Engineer, Business Technology | On-site | [View →](https://www.remotejobscan.com/job/14368/software-engineer-business-technology/) |
 | Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | Data Center Sourcing Manager | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager/) |
 | Compute Strategy & Transactions, GPT-Infra | On-site | [View →](https://www.remotejobscan.com/job/14367/compute-strategy-transactions-gpt-infra/) |
-| Partnerships Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnerships-manager/) |
-| Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/14362/account-executive-startups/) |
-| Director of Compensation Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/11031/director-of-compensation-strategy/) |
-| Associate Manager, Internal Audit | Remote | [View →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
-| Account Executive-Startups, EMEA (French Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
-| Head of Fraud, Payments & Banking | Remote | [View →](https://www.remotejobscan.com/job/14358/head-of-fraud-payments-banking/) |
-| Growth Programs Lead, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/14360/growth-programs-lead-startups/) |
-| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
-| Product Policy Manager, Product Risk | Remote | [View →](https://www.remotejobscan.com/job/14352/product-policy-manager-product-risk/) |
-| Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
-| Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
-| Sales Development Director (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14356/sales-development-director-nyc/) |
-| Sales Development Director (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14355/sales-development-director-san-francisco/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2416</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,24 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级网络安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
+| 大中华区解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14382/solution-architect-apac/) |
+| 解决方案架构师（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/solution-architect-london/) |
+| 解决方案架构师（阿姆斯特丹） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14376/solution-architect-amsterdam/) |
+| 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
+| 解决方案架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
+| 解决方案架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
+| 解决方案架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
+| 解决方案架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
+| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14373/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
+| IT系统工程师，移动客户端平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14372/it-systems-engineer-mobile-client-platform-engineer/) |
+| 平台（核心AI自动化）后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
+| 国家及地方政府销售负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
+| 国家安全销售负责人（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | 商业技术软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14368/software-engineer-business-technology/) |
 | 平台战略财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| 知识产权顾问，商标及域名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | 数据中心采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager/) |
 | 计算策略与交易、GPT基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14367/compute-strategy-transactions-gpt-infra/) |
-| 合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14366/partnerships-manager/) |
-| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14362/account-executive-startups/) |
-| 薪酬战略总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11031/director-of-compensation-strategy/) |
-| 内部审计副经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
-| 初创企业客户经理-欧洲、中东、非洲 (法语 speaker) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
-| 欺诈、支付与银行负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14358/head-of-fraud-payments-banking/) |
-| 初创企业增长计划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14360/growth-programs-lead-startups/) |
-| 成长型客户经理，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9467/growth-account-executive-startups/) |
-| 产品政策经理，产品风险 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14352/product-policy-manager-product-risk/) |
-| Staff + 高级软件工程师，规模化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
-| 战略合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
-| 销售发展总监（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14356/sales-development-director-nyc/) |
-| 销售发展总监（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14355/sales-development-director-san-francisco/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
