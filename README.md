@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2401</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2402</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI 加速器运行时软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14347/software-engineer-ai-accelerator-runtime/) |
+| 系统软件工程师，硅片启动 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14348/systems-software-engineer-silicon-bringup/) |
+| 高管业务中心市场主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
 | 联邦部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
 | 集成营销经理，产品与模型发布 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14344/integrated-marketing-manager-product-model-launches/) |
 | 高级媒体经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14341/senior-media-manager/) |
@@ -40,9 +43,6 @@
 | 欧洲交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
 | 交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
 | 数据中心容量交付报告与控制主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
-| EMEA区域数据中心容量交付区域经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14320/regional-manager-emea-data-center-capacity-delivery/) |
-| 数据中心运维维修项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14318/repairs-program-lead-data-center-operations/) |
-| 高级技术风险架构师，统一交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2401</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2402</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, AI accelerator Runtime | Hybrid | [View →](https://www.remotejobscan.com/job/14347/software-engineer-ai-accelerator-runtime/) |
+| Systems Software Engineer, Silicon Bringup | Hybrid | [View →](https://www.remotejobscan.com/job/14348/systems-software-engineer-silicon-bringup/) |
+| Executive Business Center Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-business-center-marketing-lead/) |
 | Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
 | Integrated Marketing Manager, Product & Model Launches | Hybrid | [View →](https://www.remotejobscan.com/job/14344/integrated-marketing-manager-product-model-launches/) |
 | Senior Media Manager | On-site | [View →](https://www.remotejobscan.com/job/14341/senior-media-manager/) |
@@ -40,9 +43,6 @@
 | Transaction Principal, EU | On-site | [View →](https://www.remotejobscan.com/job/14323/transaction-principal-eu/) |
 | Transaction Manager | Remote | [View →](https://www.remotejobscan.com/job/14322/transaction-manager/) |
 | Reporting and Controls Lead, Data Center Capacity Delivery | Remote | [View →](https://www.remotejobscan.com/job/14321/reporting-and-controls-lead-data-center-capacity-delivery/) |
-| Regional Manager EMEA, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14320/regional-manager-emea-data-center-capacity-delivery/) |
-| Repairs Program Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/14318/repairs-program-lead-data-center-operations/) |
-| Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
