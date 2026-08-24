@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2383</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2386</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 系统集成商合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager-systems-integrators/) |
+| 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
 | 政府赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
 | 高级软件工程师 - 全栈 - 增长产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
 | 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
@@ -38,8 +40,6 @@
 | 产品设计师 - 预测，OG | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14265/product-designer-predictions-og/) |
 | 财务与战略、GTM - 售后销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14264/finance-strategy-gtm-post-sales/) |
 | 借贷与信贷产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
-| 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
-| 前沿部署工程师，智能平台（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2383</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2386</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Account Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager-systems-integrators/) |
+| Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/14301/business-intelligence-data-analyst/) |
 | Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/14300/enablement-lead-government/) |
 | Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/14299/senior-software-engineer-full-stack-growth-product/) |
 | Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
@@ -38,8 +40,6 @@
 | Product Designer - Predictions, OG | Hybrid | [View →](https://www.remotejobscan.com/job/14265/product-designer-predictions-og/) |
 | Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/14264/finance-strategy-gtm-post-sales/) |
 | Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
-| Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
-| Forward Deployed Engineer, Agentic Platform (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
