@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2383</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2384</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | Forward Deployed Engineer, Agentic Platform (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 | Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector) | Remote | [View →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-24 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

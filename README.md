@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2383</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2384</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 借贷与信贷产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | 前沿部署工程师，智能平台（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14258/forward-deployed-engineer-agentic-platform-uk-public-sector/) |
 | 前沿部署工程师，基础设施专家（英国公共部门） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14257/forward-deployed-engineer-infrastructure-specialist-uk-public-sector/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-24 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
