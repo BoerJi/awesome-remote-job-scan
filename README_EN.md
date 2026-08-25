@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2450</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2460</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Backend Engineer, Vaults | On-site | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Global Mobility Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
+| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| Customer Support Supervisor | On-site | [View →](https://www.remotejobscan.com/job/14500/customer-support-supervisor/) |
+| Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
+| Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
+| Strategy & Operations Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/14503/strategy-operations-manager-communications/) |
+| Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
+| Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
+| Business Operations Manager - Nashville | On-site | [View →](https://www.remotejobscan.com/job/14496/business-operations-manager-nashville/) |
+| Data Center Mechanical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
+| Data Center Electrical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
+| Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/9218/head-of-finance-canada/) |
+| Director of Product Design | Hybrid | [View →](https://www.remotejobscan.com/job/14498/director-of-product-design/) |
+| Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
+| Data Center Sourcing Manager, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
+| Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | Sales Leader Enablement | Remote | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | US Regional Manager, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14489/us-regional-manager-data-center-capacity-delivery/) |
-| Regional Manager APAC, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14488/regional-manager-apac-data-center-capacity-delivery/) |
-| Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
-| Social & Technical Content Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14486/social-technical-content-manager/) |
-| Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/14483/senior-enterprise-product-manager-fpa/) |
-| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| Senior Deal Desk Analyst | Remote | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| Senior Ecosystem Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14481/senior-ecosystem-marketing-manager/) |
-| Change Management & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14479/change-management-communications-manager/) |
-| Global Power Delivery Equipment Lead | Remote | [View →](https://www.remotejobscan.com/job/14477/global-power-delivery-equipment-lead/) |
-| Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
-| Supply Chain Delivery Manager, Data Center Power & Cooling OFE | Remote | [View →](https://www.remotejobscan.com/job/14478/supply-chain-delivery-manager-data-center-power-cooling-ofe/) |
-| Energy Scheduling & Portfolio Lead | Remote | [View →](https://www.remotejobscan.com/job/14476/energy-scheduling-portfolio-lead/) |
-| Lab Operations Manager, Systems Integration | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14475/lab-operations-manager-systems-integration-consumer-devices/) |
-| Data Center Energy Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14469/data-center-energy-lead-emea/) |
-| Product Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
-| Manager, Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14468/manager-applied-ai-architect-enterprise-tech/) |
-| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2450</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2460</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Vaults 团队资深后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| 全球流动税务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
+| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| 客户支持主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14500/customer-support-supervisor/) |
+| 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
+| 技术专家（AI研究员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
+| 战略与运营经理，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14503/strategy-operations-manager-communications/) |
+| 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
+| 高级会计，经纪和衍生品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
+| 业务运营经理 - 拉斯维加斯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14496/business-operations-manager-nashville/) |
+| 数据中心机械工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
+| 数据中心电气工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
+| 加拿大财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9218/head-of-finance-canada/) |
+| 产品设计总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14498/director-of-product-design/) |
+| 加拿大公共部门客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
+| 硅片数据中心采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
+| 衍生品销售分析师（消费级销售） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
 | 销售领导者赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | 美国区域数据中心容量交付经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14489/us-regional-manager-data-center-capacity-delivery/) |
-| 亚太地区数据中心产能交付区域经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14488/regional-manager-apac-data-center-capacity-delivery/) |
-| 企业客户经理 - 能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
-| 社交与技术内容经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14486/social-technical-content-manager/) |
-| 高级企业产品经理，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/senior-enterprise-product-manager-fpa/) |
-| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| 前端软件工程师（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
-| 高级交易台分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| 高级生态系统营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14481/senior-ecosystem-marketing-manager/) |
-| 变革管理与沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14479/change-management-communications-manager/) |
-| 全球电力交付设备负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14477/global-power-delivery-equipment-lead/) |
-| 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
-| 数据中心电源与冷却OFE供应链交付经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14478/supply-chain-delivery-manager-data-center-power-cooling-ofe/) |
-| 能源调度与组合负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14476/energy-scheduling-portfolio-lead/) |
-| 实验室运营经理，系统集成 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14475/lab-operations-manager-systems-integration-consumer-devices/) |
-| EMEA数据中心能源主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14469/data-center-energy-lead-emea/) |
-| 产品沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
-| 应用AI架构师、企业技术部经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14468/manager-applied-ai-architect-enterprise-tech/) |
-| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
