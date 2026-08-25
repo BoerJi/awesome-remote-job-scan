@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2466</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2471</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
+| 销售领导者赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
+| 技术团队成员（软件工程师，代理框架） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
 | IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
 | 数据中心组合负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
 | 半导体技术部署主管 - 德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
@@ -39,9 +42,6 @@
 | 高级会计，经纪和衍生品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
 | 业务运营经理 - 拉斯维加斯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14496/business-operations-manager-nashville/) |
 | 数据中心机械工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
-| 数据中心电气工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
-| 加拿大财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9218/head-of-finance-canada/) |
-| 产品设计总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14498/director-of-product-design/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
