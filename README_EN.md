@@ -23,9 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
+| Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
+| Manager, Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14468/manager-applied-ai-architect-enterprise-tech/) |
+| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
+| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| Data Center Sourcing Manager, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
+| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
 | Product Manager, Learning | Hybrid | [View →](https://www.remotejobscan.com/job/14466/product-manager-learning/) |
 | Partner Account Manager - Spain, Italy & MEA | On-site | [View →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
-| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/9346/applied-ai-architect-digital-natives-business/) |
 | Platform Security Engineer, DRTM / Secure Launch | On-site | [View →](https://www.remotejobscan.com/job/14465/platform-security-engineer-drtm-secure-launch/) |
 | Associate Manager, SAM | On-site | [View →](https://www.remotejobscan.com/job/9193/associate-manager-sam/) |
 | Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
@@ -35,13 +41,6 @@
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
 | Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
-| Revenue Strategy & Operations - LATAM | Remote | [View →](https://www.remotejobscan.com/job/14463/revenue-strategy-operations-latam/) |
-| Compliance Officer, Europe (Relocation to Malta) | Hybrid | [View →](https://www.remotejobscan.com/job/14462/compliance-officer-europe-relocation-to-malta/) |
-| Staff Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
-| Senior Associate, FCM | Remote | [View →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
-| Revenue Strategy & Operations - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14460/revenue-strategy-operations-emea/) |
-| Revenue Strategy & Operations - North America | Remote | [View →](https://www.remotejobscan.com/job/14461/revenue-strategy-operations-north-america/) |
-| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/14459/deployment-strategist-canada/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

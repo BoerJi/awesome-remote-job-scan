@@ -23,9 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
+| 加拿大公共部门客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
+| 应用AI架构师、企业技术部经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14468/manager-applied-ai-architect-enterprise-tech/) |
+| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
+| 欧洲、中东、非洲地区合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| 硅芯片数据中心采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
+| 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
 | 学习产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14466/product-manager-learning/) |
 | 西班牙、意大利及中东非地区合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
-| 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9346/applied-ai-architect-digital-natives-business/) |
 | 平台安全工程师，DRTM / 安全启动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14465/platform-security-engineer-drtm-secure-launch/) |
 | 高级经理，SAM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9193/associate-manager-sam/) |
 | 高级技术风险架构师，统一交易平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
@@ -35,13 +41,6 @@
 | 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
 | 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
-| 收入策略与运营 - 拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14463/revenue-strategy-operations-latam/) |
-| 欧洲合规官（调任至马耳他） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14462/compliance-officer-europe-relocation-to-malta/) |
-| 教育领域高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
-| FCM高级副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
-| 收入战略与运营 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14460/revenue-strategy-operations-emea/) |
-| 北美营收策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14461/revenue-strategy-operations-north-america/) |
-| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14459/deployment-strategist-canada/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
