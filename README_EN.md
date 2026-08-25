@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2426</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
+| Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
+| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/13827/api-tech-support-api-european-time-zones-api/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
+| Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
+| Office & Workspace Administrator | On-site | [View →](https://www.remotejobscan.com/job/14430/office-workspace-administrator/) |
 | Compliance Head & MLRO, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/14410/compliance-head-mlro-pakistan/) |
 | Compliance Head & MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/compliance-head-mlro-indonesia/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
@@ -36,12 +42,6 @@
 | Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
 | Head of Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/head-of-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
-| Finance Transformation Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
-| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
-| Solution Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
-| Solution Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
-| Solution Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
-| Solution Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
