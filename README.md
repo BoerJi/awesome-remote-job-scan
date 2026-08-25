@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2433</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM策略与运营负责人，经销商计划（欧洲、中东、非洲） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14398/gtm-strategy-operations-lead-reseller-programs-emea/) |
+| 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
+| 资金管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
+| 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
+| 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
+| SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
+| 活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
+| 内部控制操作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | 资金市场主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14389/head-of-treasury-markets/) |
 | 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
@@ -35,14 +43,6 @@
 | 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-financial-analyst/) |
 | 数据科学家，产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14385/data-scientist-product/) |
 | 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
-| 知识产权顾问、商标与域名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
-| 高级网络安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
-| 大中华区解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14382/solution-architect-apac/) |
-| 解决方案架构师（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/solution-architect-london/) |
-| 解决方案架构师（阿姆斯特丹） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14376/solution-architect-amsterdam/) |
-| 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
-| 解决方案架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
-| 解决方案架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
