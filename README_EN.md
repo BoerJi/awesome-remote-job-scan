@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2448</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2450</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Staff Backend Engineer, Vaults | On-site | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Sales Leader Enablement | Remote | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
+| US Regional Manager, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14489/us-regional-manager-data-center-capacity-delivery/) |
+| Regional Manager APAC, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14488/regional-manager-apac-data-center-capacity-delivery/) |
+| Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
+| Social & Technical Content Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14486/social-technical-content-manager/) |
+| Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/14483/senior-enterprise-product-manager-fpa/) |
+| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/9286/software-engineer-frontend-coinbase-advisor-agentic-trading/) |
+| Senior Deal Desk Analyst | Remote | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
 | Senior Ecosystem Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14481/senior-ecosystem-marketing-manager/) |
 | Change Management & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14479/change-management-communications-manager/) |
 | Global Power Delivery Equipment Lead | Remote | [View →](https://www.remotejobscan.com/job/14477/global-power-delivery-equipment-lead/) |
 | Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
 | Supply Chain Delivery Manager, Data Center Power & Cooling OFE | Remote | [View →](https://www.remotejobscan.com/job/14478/supply-chain-delivery-manager-data-center-power-cooling-ofe/) |
-| Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
 | Energy Scheduling & Portfolio Lead | Remote | [View →](https://www.remotejobscan.com/job/14476/energy-scheduling-portfolio-lead/) |
 | Lab Operations Manager, Systems Integration | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14475/lab-operations-manager-systems-integration-consumer-devices/) |
 | Data Center Energy Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14469/data-center-energy-lead-emea/) |
 | Product Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
-| Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
 | Manager, Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14468/manager-applied-ai-architect-enterprise-tech/) |
 | Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
-| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| Data Center Sourcing Manager, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
-| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
-| Product Manager, Learning | Hybrid | [View →](https://www.remotejobscan.com/job/14466/product-manager-learning/) |
-| Partner Account Manager - Spain, Italy & MEA | On-site | [View →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
