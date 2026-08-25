@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2434</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Research Scientist | On-site | [View →](https://www.remotejobscan.com/job/14388/people-research-scientist/) |
+| AWS GTM Partnership, Startups | On-site | [View →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-startups/) |
+| AWS GTM Partnerships, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/aws-gtm-partnerships-enterprise/) |
+| Security Controls Assurance Lead | On-site | [View →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
 | AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | Forward Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14387/forward-deployed-engineer/) |
 | Senior Financial Analyst | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-financial-analyst/) |
 | Data Scientist, Product | On-site | [View →](https://www.remotejobscan.com/job/14385/data-scientist-product/) |
-| People Research Scientist | On-site | [View →](https://www.remotejobscan.com/job/14386/people-research-scientist/) |
 | Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | Senior Cyber Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
@@ -40,9 +43,6 @@
 | Solution Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
 | Solution Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
 | Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
-| Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/14373/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
-| IT Systems Engineer, Mobile Client Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/14372/it-systems-engineer-mobile-client-platform-engineer/) |
-| Staff Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
