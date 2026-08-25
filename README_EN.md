@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2431</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/14440/senior-tax-associate-transfer-pricing/) |
+| KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
+| Staff Applied Scientist, Financial Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
+| Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
 | Senior Data Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
 | Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/13827/api-tech-support-api-european-time-zones-api/) |
@@ -38,10 +43,6 @@
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
 | Enterprise Account Executive - Retail/CPG | On-site | [View →](https://www.remotejobscan.com/job/14405/enterprise-account-executive-retailcpg/) |
-| Sales Director, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
-| Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
-| Head of Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/head-of-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

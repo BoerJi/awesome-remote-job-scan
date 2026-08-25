@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2431</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级税务专员，转让定价 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14440/senior-tax-associate-transfer-pricing/) |
+| 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
+| 财务预测高级应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
+| 重点客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
 | 高级数据工程师 - 金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
 | 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13827/api-tech-support-api-european-time-zones-api/) |
@@ -38,10 +43,6 @@
 | 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | 研发效率平台高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
 | 企业客户经理 - 零售/快速消费品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14405/enterprise-account-executive-retailcpg/) |
-| 企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
-| 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
-| 亚太、中东及非洲诉讼与调查主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/head-of-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
