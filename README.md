@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2434</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
+| 资金市场主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14389/head-of-treasury-markets/) |
+| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 | 人员研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14388/people-research-scientist/) |
 | AWS GTM合作，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-startups/) |
 | AWS GTM合作伙伴关系，企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13611/aws-gtm-partnerships-enterprise/) |
@@ -40,9 +43,6 @@
 | 解决方案架构师（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
 | 解决方案架构师（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
 | 解决方案架构师（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
-| 解决方案架构师（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
-| 解决方案架构师（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
-| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

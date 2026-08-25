@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2434</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
+| Head of Treasury Markets | Hybrid | [View →](https://www.remotejobscan.com/job/14389/head-of-treasury-markets/) |
+| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 | People Research Scientist | On-site | [View →](https://www.remotejobscan.com/job/14388/people-research-scientist/) |
 | AWS GTM Partnership, Startups | On-site | [View →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-startups/) |
 | AWS GTM Partnerships, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/aws-gtm-partnerships-enterprise/) |
@@ -40,9 +43,6 @@
 | Solution Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
 | Solution Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
 | Solution Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
-| Solution Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
-| Solution Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
-| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
