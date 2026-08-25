@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Head & MLRO, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/14410/compliance-head-mlro-pakistan/) |
+| Compliance Head & MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/compliance-head-mlro-indonesia/) |
+| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
+| Binance Accelerator Program - User Experience Product Manager | Remote | [View →](https://www.remotejobscan.com/job/14408/binance-accelerator-program-user-experience-product-manager/) |
 | Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 | Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
@@ -38,10 +42,6 @@
 | Solution Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
 | Solution Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
 | Solution Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
-| Solution Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
-| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
-| Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
-| Senior Manager, Workforce Accounting | On-site | [View →](https://www.remotejobscan.com/job/14399/senior-manager-workforce-accounting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
