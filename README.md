@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2425</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 零售/快速消费品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14405/enterprise-account-executive-retailcpg/) |
+| 企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
+| 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
 | 亚太、中东及非洲诉讼与调查主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/head-of-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 | 财务转型经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
@@ -39,9 +42,6 @@
 | GTM策略与运营负责人，经销商计划（欧洲、中东、非洲） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14398/gtm-strategy-operations-lead-reseller-programs-emea/) |
 | 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
 | 资金管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
-| 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
-| 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
