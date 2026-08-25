@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2432</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
+| Forward Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14387/forward-deployed-engineer/) |
+| Senior Financial Analyst | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-financial-analyst/) |
+| Data Scientist, Product | On-site | [View →](https://www.remotejobscan.com/job/14385/data-scientist-product/) |
+| People Research Scientist | On-site | [View →](https://www.remotejobscan.com/job/14386/people-research-scientist/) |
 | Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | Senior Cyber Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/8758/senior-cyber-security-engineer/) |
@@ -38,10 +43,6 @@
 | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/14373/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | IT Systems Engineer, Mobile Client Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/14372/it-systems-engineer-mobile-client-platform-engineer/) |
 | Staff Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/14357/staff-software-engineer-backend-platform-core-ai-automation/) |
-| Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
-| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| Software Engineer, Business Technology | On-site | [View →](https://www.remotejobscan.com/job/14368/software-engineer-business-technology/) |
-| Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
