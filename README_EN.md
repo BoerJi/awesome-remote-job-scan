@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2433</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
+| Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
+| Senior Manager, Workforce Accounting | On-site | [View →](https://www.remotejobscan.com/job/14399/senior-manager-workforce-accounting/) |
+| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | GTM Strategy & Operations Lead, Reseller Programs (EMEA) | Hybrid | [View →](https://www.remotejobscan.com/job/14398/gtm-strategy-operations-lead-reseller-programs-emea/) |
 | PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
 | Treasury Officer | Remote | [View →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
@@ -30,7 +34,6 @@
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
 | Campaign Operation | Remote | [View →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
-| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | Head of Treasury Markets | Hybrid | [View →](https://www.remotejobscan.com/job/14389/head-of-treasury-markets/) |
 | Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
@@ -40,9 +43,6 @@
 | Security Controls Assurance Lead | On-site | [View →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
 | AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | Forward Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14387/forward-deployed-engineer/) |
-| Senior Financial Analyst | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-financial-analyst/) |
-| Data Scientist, Product | On-site | [View →](https://www.remotejobscan.com/job/14385/data-scientist-product/) |
-| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

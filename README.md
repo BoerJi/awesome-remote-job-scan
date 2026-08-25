@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2433</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2429</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部控制操作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
+| 高级会计师，内部公司和合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
+| 高级经理，员工会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14399/senior-manager-workforce-accounting/) |
+| 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | GTM策略与运营负责人，经销商计划（欧洲、中东、非洲） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14398/gtm-strategy-operations-lead-reseller-programs-emea/) |
 | 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
 | 资金管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
@@ -30,7 +34,6 @@
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
 | 活动运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13267/campaign-operation/) |
-| 内部控制操作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | 资金市场主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14389/head-of-treasury-markets/) |
 | 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
@@ -40,9 +43,6 @@
 | 安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
 | AI运营工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
 | 前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14387/forward-deployed-engineer/) |
-| 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-financial-analyst/) |
-| 数据科学家，产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14385/data-scientist-product/) |
-| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14383/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
