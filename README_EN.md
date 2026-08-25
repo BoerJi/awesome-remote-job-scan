@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solution Architect (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/solution-architect-nyc/) |
+| Solution Architect (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/solution-architect-austin/) |
+| Solution Architect (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/solution-architect-dallas/) |
+| Solution Architect (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/solution-architect-remote/) |
+| Solution Architect (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/solution-architect-san-francisco/) |
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 | Senior Manager, Workforce Accounting | On-site | [View →](https://www.remotejobscan.com/job/14399/senior-manager-workforce-accounting/) |
@@ -38,11 +43,6 @@
 | Head of Treasury Markets | Hybrid | [View →](https://www.remotejobscan.com/job/14389/head-of-treasury-markets/) |
 | Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 | People Research Scientist | On-site | [View →](https://www.remotejobscan.com/job/14388/people-research-scientist/) |
-| AWS GTM Partnership, Startups | On-site | [View →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-startups/) |
-| AWS GTM Partnerships, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/aws-gtm-partnerships-enterprise/) |
-| Security Controls Assurance Lead | On-site | [View →](https://www.remotejobscan.com/job/9615/security-controls-assurance-lead/) |
-| AI Operations Engineer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13352/ai-operations-engineer-partnerships/) |
-| Forward Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14387/forward-deployed-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
