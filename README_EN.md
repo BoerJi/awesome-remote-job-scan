@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2443</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Learning | Hybrid | [View →](https://www.remotejobscan.com/job/14466/product-manager-learning/) |
+| Partner Account Manager - Spain, Italy & MEA | On-site | [View →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
+| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/9346/applied-ai-architect-digital-natives-business/) |
+| Platform Security Engineer, DRTM / Secure Launch | On-site | [View →](https://www.remotejobscan.com/job/14465/platform-security-engineer-drtm-secure-launch/) |
+| Associate Manager, SAM | On-site | [View →](https://www.remotejobscan.com/job/9193/associate-manager-sam/) |
+| Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
+| Sr. Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
+| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
+| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
+| Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
+| Revenue Strategy & Operations - LATAM | Remote | [View →](https://www.remotejobscan.com/job/14463/revenue-strategy-operations-latam/) |
+| Compliance Officer, Europe (Relocation to Malta) | Hybrid | [View →](https://www.remotejobscan.com/job/14462/compliance-officer-europe-relocation-to-malta/) |
+| Staff Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
+| Senior Associate, FCM | Remote | [View →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
 | Revenue Strategy & Operations - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14460/revenue-strategy-operations-emea/) |
 | Revenue Strategy & Operations - North America | Remote | [View →](https://www.remotejobscan.com/job/14461/revenue-strategy-operations-north-america/) |
 | Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/14459/deployment-strategist-canada/) |
-| Lead / Expert, DEX Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14458/lead-expert-dex-ecosystem-growth/) |
-| Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
-| Lead / Expert, DeFi Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14452/lead-expert-defi-ecosystem-growth/) |
-| Member of Technical Staff (Software Engineer, AI Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-ai-systems/) |
-| Senior Analytics Engineer (Platform - Financial Analytics) | Remote | [View →](https://www.remotejobscan.com/job/9250/senior-analytics-engineer-platform-financial-analytics/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| AWS Partnerships Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/14445/aws-partnerships-lead-dach/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
-| Head of Scaled, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/14443/head-of-scaled-ads-solutions/) |
-| Strategic Account Executive - Switzerland - Consumer & Retail | On-site | [View →](https://www.remotejobscan.com/job/14444/strategic-account-executive-switzerland-consumer-retail/) |
-| Technical Operations Analyst, User Safety & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/14144/technical-operations-analyst-user-safety-risk/) |
-| Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/14440/senior-tax-associate-transfer-pricing/) |
-| KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
-| Staff Applied Scientist, Financial Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
-| Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

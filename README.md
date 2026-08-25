@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2437</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2443</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 学习产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14466/product-manager-learning/) |
+| 西班牙、意大利及中东非地区合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
+| 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9346/applied-ai-architect-digital-natives-business/) |
+| 平台安全工程师，DRTM / 安全启动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14465/platform-security-engineer-drtm-secure-launch/) |
+| 高级经理，SAM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9193/associate-manager-sam/) |
+| 高级技术风险架构师，统一交易平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
+| 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
+| 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
+| 机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
+| 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
+| 收入策略与运营 - 拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14463/revenue-strategy-operations-latam/) |
+| 欧洲合规官（调任至马耳他） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14462/compliance-officer-europe-relocation-to-malta/) |
+| 教育领域高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/staff-software-engineer-education/) |
+| FCM高级副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9252/senior-associate-fcm/) |
 | 收入战略与运营 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14460/revenue-strategy-operations-emea/) |
 | 北美营收策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14461/revenue-strategy-operations-north-america/) |
 | 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14459/deployment-strategist-canada/) |
-| Lead / Expert, DEX Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14458/lead-expert-dex-ecosystem-growth/) |
-| 高级合作伙伴销售经理，系统集成商 - 欧洲中东 & 北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
-| Lead / Expert, DeFi Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14452/lead-expert-defi-ecosystem-growth/) |
-| 技术团队成员（软件工程师，AI系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-ai-systems/) |
-| 高级分析工程师（平台 - 金融分析） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9250/senior-analytics-engineer-platform-financial-analytics/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| 日本合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| AWS合作伙伴关系主管，德法瑞地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14445/aws-partnerships-lead-dach/) |
-| 应用AI架构师，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
-| 规模化广告解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14443/head-of-scaled-ads-solutions/) |
-| 瑞士战略客户经理 - 消费与零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14444/strategic-account-executive-switzerland-consumer-retail/) |
-| 技术运营分析师，用户安全与风险 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14144/technical-operations-analyst-user-safety-risk/) |
-| 高级税务专员，转让定价 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14440/senior-tax-associate-transfer-pricing/) |
-| 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
-| 财务预测高级应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
-| 重点客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
