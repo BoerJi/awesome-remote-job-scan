@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2442</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2448</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Backend Engineer, Vaults | On-site | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Senior Ecosystem Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14481/senior-ecosystem-marketing-manager/) |
+| Change Management & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14479/change-management-communications-manager/) |
+| Global Power Delivery Equipment Lead | Remote | [View →](https://www.remotejobscan.com/job/14477/global-power-delivery-equipment-lead/) |
+| Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
+| Supply Chain Delivery Manager, Data Center Power & Cooling OFE | Remote | [View →](https://www.remotejobscan.com/job/14478/supply-chain-delivery-manager-data-center-power-cooling-ofe/) |
+| Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/9248/senior-accountant-brokerage-and-derivatives/) |
+| Energy Scheduling & Portfolio Lead | Remote | [View →](https://www.remotejobscan.com/job/14476/energy-scheduling-portfolio-lead/) |
+| Lab Operations Manager, Systems Integration | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14475/lab-operations-manager-systems-integration-consumer-devices/) |
+| Data Center Energy Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14469/data-center-energy-lead-emea/) |
 | Product Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
 | Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
 | Manager, Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14468/manager-applied-ai-architect-enterprise-tech/) |
@@ -32,15 +42,6 @@
 | Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
 | Product Manager, Learning | Hybrid | [View →](https://www.remotejobscan.com/job/14466/product-manager-learning/) |
 | Partner Account Manager - Spain, Italy & MEA | On-site | [View →](https://www.remotejobscan.com/job/14329/partner-account-manager-spain-italy-mea/) |
-| Platform Security Engineer, DRTM / Secure Launch | On-site | [View →](https://www.remotejobscan.com/job/14465/platform-security-engineer-drtm-secure-launch/) |
-| Associate Manager, SAM | On-site | [View →](https://www.remotejobscan.com/job/9193/associate-manager-sam/) |
-| Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
-| Sr. Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
-| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
-| Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
