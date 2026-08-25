@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2431</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2429</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13866/applied-ai-architect-industries/) |
+| Head of Scaled, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/14443/head-of-scaled-ads-solutions/) |
+| Strategic Account Executive - Switzerland - Consumer & Retail | On-site | [View →](https://www.remotejobscan.com/job/14444/strategic-account-executive-switzerland-consumer-retail/) |
+| Technical Operations Analyst, User Safety & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/14144/technical-operations-analyst-user-safety-risk/) |
 | Senior Tax Associate, Transfer Pricing | Hybrid | [View →](https://www.remotejobscan.com/job/14440/senior-tax-associate-transfer-pricing/) |
 | KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
 | Staff Applied Scientist, Financial Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
@@ -39,10 +43,6 @@
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/13519/growth-account-executive-startups/) |
 | Binance Accelerator Program - User Experience Product Manager | Remote | [View →](https://www.remotejobscan.com/job/14408/binance-accelerator-program-user-experience-product-manager/) |
 | Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| Enterprise Account Executive - Retail/CPG | On-site | [View →](https://www.remotejobscan.com/job/14405/enterprise-account-executive-retailcpg/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
