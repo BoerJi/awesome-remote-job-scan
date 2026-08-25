@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2428</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2437</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 收入战略与运营 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14460/revenue-strategy-operations-emea/) |
+| 北美营收策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14461/revenue-strategy-operations-north-america/) |
+| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14459/deployment-strategist-canada/) |
+| Lead / Expert, DEX Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14458/lead-expert-dex-ecosystem-growth/) |
+| 高级合作伙伴销售经理，系统集成商 - 欧洲中东 & 北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
+| Lead / Expert, DeFi Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14452/lead-expert-defi-ecosystem-growth/) |
+| 技术团队成员（软件工程师，AI系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-ai-systems/) |
+| 高级分析工程师（平台 - 金融分析） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9250/senior-analytics-engineer-platform-financial-analytics/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | 日本合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
@@ -35,14 +43,6 @@
 | 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
 | 财务预测高级应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
 | 重点客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
-| 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
-| 高级数据工程师 - 金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
-| 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13827/api-tech-support-api-european-time-zones-api/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
-| 办公与工作空间管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14430/office-workspace-administrator/) |
-| 合规主管及反洗钱合规官，巴基斯坦 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14410/compliance-head-mlro-pakistan/) |
-| 合规主管 & 反洗钱报告官，印度尼西亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14409/compliance-head-mlro-indonesia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2428</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2437</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Revenue Strategy & Operations - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14460/revenue-strategy-operations-emea/) |
+| Revenue Strategy & Operations - North America | Remote | [View →](https://www.remotejobscan.com/job/14461/revenue-strategy-operations-north-america/) |
+| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/14459/deployment-strategist-canada/) |
+| Lead / Expert, DEX Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14458/lead-expert-dex-ecosystem-growth/) |
+| Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
+| Lead / Expert, DeFi Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14452/lead-expert-defi-ecosystem-growth/) |
+| Member of Technical Staff (Software Engineer, AI Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-ai-systems/) |
+| Senior Analytics Engineer (Platform - Financial Analytics) | Remote | [View →](https://www.remotejobscan.com/job/9250/senior-analytics-engineer-platform-financial-analytics/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
@@ -35,14 +43,6 @@
 | KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/14065/kol-business-development-manager-latam/) |
 | Staff Applied Scientist, Financial Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/14436/staff-applied-scientist-financial-forecasting/) |
 | Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
-| Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
-| Senior Data Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
-| Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/13827/api-tech-support-api-european-time-zones-api/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13516/applied-ai-architect/) |
-| Office & Workspace Administrator | On-site | [View →](https://www.remotejobscan.com/job/14430/office-workspace-administrator/) |
-| Compliance Head & MLRO, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/14410/compliance-head-mlro-pakistan/) |
-| Compliance Head & MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/compliance-head-mlro-indonesia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
