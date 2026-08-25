@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2460</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2467</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
+| Data Center Portfolio Lead | On-site | [View →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
+| Technical Deployment Lead, Semiconductors - Texas | Remote | [View →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
+| Discovery Operations Lead, Litigation & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/14501/discovery-operations-lead-litigation-regulatory/) |
+| Regulatory Investigations Counsel | On-site | [View →](https://www.remotejobscan.com/job/14504/regulatory-investigations-counsel/) |
 | Staff Backend Engineer, Vaults | On-site | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | Global Mobility Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
@@ -37,11 +42,6 @@
 | Data Center Electrical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
 | Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/9218/head-of-finance-canada/) |
 | Director of Product Design | Hybrid | [View →](https://www.remotejobscan.com/job/14498/director-of-product-design/) |
-| Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
-| Data Center Sourcing Manager, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
-| Derivative Sales Analyst (Prosumer Sales) | Remote | [View →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
-| Sales Leader Enablement | Remote | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
-| US Regional Manager, Data Center Capacity Delivery | On-site | [View →](https://www.remotejobscan.com/job/14489/us-regional-manager-data-center-capacity-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

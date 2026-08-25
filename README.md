@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2460</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2467</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
+| 数据中心组合负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
+| 半导体技术部署主管 - 德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
+| 诉讼与监管发现运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14501/discovery-operations-lead-litigation-regulatory/) |
+| 监管调查律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14504/regulatory-investigations-counsel/) |
 | Vaults 团队资深后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 全球流动税务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
 | 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
@@ -37,11 +42,6 @@
 | 数据中心电气工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13907/data-center-electrical-engineer/) |
 | 加拿大财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9218/head-of-finance-canada/) |
 | 产品设计总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14498/director-of-product-design/) |
-| 加拿大公共部门客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
-| 硅片数据中心采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/data-center-sourcing-manager-silicon/) |
-| 衍生品销售分析师（消费级销售） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9207/derivative-sales-analyst-prosumer-sales/) |
-| 销售领导者赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
-| 美国区域数据中心容量交付经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14489/us-regional-manager-data-center-capacity-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
