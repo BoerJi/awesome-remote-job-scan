@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
+| 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
+| 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
+| 研发效率平台高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
 | 企业客户经理 - 零售/快速消费品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14405/enterprise-account-executive-retailcpg/) |
 | 企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
 | 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
@@ -38,10 +42,6 @@
 | 内部控制操作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 高级会计师，内部公司和合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 | 高级经理，员工会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14399/senior-manager-workforce-accounting/) |
-| 法律运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| GTM策略与运营负责人，经销商计划（欧洲、中东、非洲） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14398/gtm-strategy-operations-lead-reseller-programs-emea/) |
-| 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
-| 资金管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-25 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

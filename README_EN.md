@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
+| Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
+| Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
+| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
 | Enterprise Account Executive - Retail/CPG | On-site | [View →](https://www.remotejobscan.com/job/14405/enterprise-account-executive-retailcpg/) |
 | Sales Director, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
 | Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
@@ -38,10 +42,6 @@
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 | Senior Manager, Workforce Accounting | On-site | [View →](https://www.remotejobscan.com/job/14399/senior-manager-workforce-accounting/) |
-| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| GTM Strategy & Operations Lead, Reseller Programs (EMEA) | Hybrid | [View →](https://www.remotejobscan.com/job/14398/gtm-strategy-operations-lead-reseller-programs-emea/) |
-| PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
-| Treasury Officer | Remote | [View →](https://www.remotejobscan.com/job/13265/treasury-officer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-25 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
