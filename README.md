@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2454</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2471</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
+| 亚太、中东及非洲地区诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| 应用支持工程师，迪拜，OEX | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14527/application-support-engineer-dubai-oex/) |
+| Data Analyst 数据分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14528/data-analyst/) |
 | 战略合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
 | 变现合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
 | ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
@@ -38,11 +43,6 @@
 | 技术团队成员（软件工程师，代理框架） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
 | IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
 | 半导体技术部署主管 - 德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
-| 诉讼与监管发现运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14501/discovery-operations-lead-litigation-regulatory/) |
-| 监管调查律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14504/regulatory-investigations-counsel/) |
-| Vaults 团队资深后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| 全球流动税务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
-| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

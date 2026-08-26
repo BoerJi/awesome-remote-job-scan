@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2454</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2471</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive - Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
+| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| Application Support Engineer, Dubai, OEX | Hybrid | [View →](https://www.remotejobscan.com/job/14527/application-support-engineer-dubai-oex/) |
+| Data Analyst 数据分析 | Remote | [View →](https://www.remotejobscan.com/job/14528/data-analyst/) |
 | Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
 | Partner Manager, Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
 | ICT Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
@@ -38,11 +42,6 @@
 | Member of Technical Staff (Software Engineer, Agent Harness) | On-site | [View →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
 | Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
 | Technical Deployment Lead, Semiconductors - Texas | Remote | [View →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
-| Discovery Operations Lead, Litigation & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/14501/discovery-operations-lead-litigation-regulatory/) |
-| Regulatory Investigations Counsel | On-site | [View →](https://www.remotejobscan.com/job/14504/regulatory-investigations-counsel/) |
-| Staff Backend Engineer, Vaults | On-site | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| Global Mobility Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
-| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
