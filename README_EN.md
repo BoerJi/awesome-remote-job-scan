@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2485</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2486</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
+| Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
+| Workday Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14622/workday-engineer/) |
+| Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
 | Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/14621/customer-success-dach/) |
 | Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 | Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
@@ -39,10 +43,6 @@
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
 | Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
 | Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
-| Compliance Manager (US) | Remote | [View →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
-| Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/14591/senior-software-engineer-frontend-consumer/) |
-| Senior Payroll Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/14587/senior-payroll-manager-apac/) |
-| Institution Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
