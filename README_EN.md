@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2473</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2456</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Partner Manager | Remote | [View →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
+| Partner Manager, Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
+| ICT Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
 | Data Center Portfolio Lead | Remote | [View →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
 | AWS GTM Partnership Lead, Startups | On-site | [View →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-lead-startups/) |
 | AWS GTM Partnership Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/aws-gtm-partnership-lead-enterprise/) |
@@ -40,8 +43,6 @@
 | Staff Backend Engineer, Vaults | On-site | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | Global Mobility Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| Customer Support Supervisor | On-site | [View →](https://www.remotejobscan.com/job/14500/customer-support-supervisor/) |
-| Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

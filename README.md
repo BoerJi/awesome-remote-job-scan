@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2473</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2456</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
+| 变现合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
+| ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
 | 数据中心组合负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
 | AWS GTM合作伙伴负责人，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-lead-startups/) |
 | AWS GTM合作业务负责人，企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13611/aws-gtm-partnership-lead-enterprise/) |
@@ -40,8 +43,6 @@
 | Vaults 团队资深后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 全球流动税务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14502/global-mobility-tax-manager/) |
 | 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| 客户支持主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14500/customer-support-supervisor/) |
-| 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
