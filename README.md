@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2467</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2468</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员（软件工程师，模型平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
 | 美国合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 | 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | 亚太、中东及非洲地区诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
@@ -42,7 +43,6 @@
 | AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 | 销售领导者赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | 技术团队成员（软件工程师，代理框架） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
-| IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
