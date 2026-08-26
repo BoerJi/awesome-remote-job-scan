@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2483</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2482</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,14 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14609/applied-ai-architect/) |
+| 基础设施税务高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 | 北欧解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14606/talent-acquisition-partner/) |
-| 内部审计主管—财务与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
 | 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
 | 集团财务服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
-| 内部审计主管—技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
 | 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
-| 内部审计主管 — 合规与金融犯罪 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14594/internal-audit-lead-compliance-financial-crime/) |
 | 美国合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | 高级前端工程师 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14591/senior-software-engineer-frontend-consumer/) |
 | 亚太区高级薪酬经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14587/senior-payroll-manager-apac/) |
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2483</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2482</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,14 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/14609/applied-ai-architect/) |
+| Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 | Solutions Architect - Nordics | Remote | [View →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/14606/talent-acquisition-partner/) |
-| Internal Audit Lead — Finance & Operations | Remote | [View →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
 | Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
-| Internal Audit Lead — Technology | Remote | [View →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
 | Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
-| Internal Audit Lead — Compliance & Financial Crime | Remote | [View →](https://www.remotejobscan.com/job/14594/internal-audit-lead-compliance-financial-crime/) |
 | Compliance Manager (US) | Remote | [View →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/14591/senior-software-engineer-frontend-consumer/) |
 | Senior Payroll Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/14587/senior-payroll-manager-apac/) |
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
