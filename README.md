@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2498</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2502</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国市场拓展项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14649/gtm-programs-manager-amer/) |
+| 前部署工程师 (FDE)，法律-NYC | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14650/forward-deployed-engineer-fde-legal-nyc/) |
+| AWS合作伙伴市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14651/partner-marketing-manager-aws/) |
+| 技术合作伙伴与独立软件供应商合作伙伴营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14652/partner-marketing-manager-technology-partners-isvs/) |
+| GCP与Oracle合作伙伴营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14647/partner-marketing-manager-gcp-oracle/) |
+| 技术团队成员（桌面应用软件工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14648/member-of-technical-staff-software-engineer-desktop-apps/) |
+| 操作系统工程师 | 消费电子 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
+| 合规调查经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14645/compliance-investigations-manager/) |
 | 商业运营经理，商业营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14642/business-operations-manager-business-marketing/) |
 | 业务营销资源经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14643/resource-manager-business-marketing/) |
 | 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
@@ -35,14 +43,6 @@
 | 战略采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
 | SOX经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14630/engineering-manager-pro/) |
-| 核心基础设施高级数据库管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14629/senior-database-administrator-core-infrastructure/) |
-| 初级/中级/高级软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
-| EMEA应用AI策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
-| 云合作伙伴营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
-| 市场领先产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14632/lead-product-designer-marketplace/) |
-| 汽车行业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
-| 首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14631/lead-product-designer/) |
-| 社交媒体支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2498</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2502</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Programs Manager, AMER | On-site | [View →](https://www.remotejobscan.com/job/14649/gtm-programs-manager-amer/) |
+| Forward Deployed Engineer (FDE), Legal-NYC | Hybrid | [View →](https://www.remotejobscan.com/job/14650/forward-deployed-engineer-fde-legal-nyc/) |
+| Partner Marketing Manager, AWS | Hybrid | [View →](https://www.remotejobscan.com/job/14651/partner-marketing-manager-aws/) |
+| Partner Marketing Manager, Technology Partners & ISVs | Hybrid | [View →](https://www.remotejobscan.com/job/14652/partner-marketing-manager-technology-partners-isvs/) |
+| Partner Marketing Manager, GCP & Oracle | Hybrid | [View →](https://www.remotejobscan.com/job/14647/partner-marketing-manager-gcp-oracle/) |
+| Member of Technical Staff (Software Engineer, Desktop Apps) | Hybrid | [View →](https://www.remotejobscan.com/job/14648/member-of-technical-staff-software-engineer-desktop-apps/) |
+| Operating Systems Engineer | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
+| Compliance Investigations Manager | Remote | [View →](https://www.remotejobscan.com/job/14645/compliance-investigations-manager/) |
 | Business Operations Manager, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14642/business-operations-manager-business-marketing/) |
 | Resource Manager, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14643/resource-manager-business-marketing/) |
 | Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
@@ -35,14 +43,6 @@
 | Strategic Sourcing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
 | SOX Manager | Remote | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | Engineering Manager - Pro | Remote | [View →](https://www.remotejobscan.com/job/14630/engineering-manager-pro/) |
-| Senior Database Administrator - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/14629/senior-database-administrator-core-infrastructure/) |
-| Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Applied AI Strategist, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
-| Partner Marketing Lead, Cloud | On-site | [View →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
-| Lead Product Designer, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/14632/lead-product-designer-marketplace/) |
-| Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
-| Lead Product Designer | Remote | [View →](https://www.remotejobscan.com/job/14631/lead-product-designer/) |
-| Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
