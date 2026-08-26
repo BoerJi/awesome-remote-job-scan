@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2471</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2481</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,23 +23,23 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部审计主管—财务与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
+| 集团财务服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
+| 内部审计主管—技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
+| 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
+| 内部审计主管 — 合规与金融犯罪 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14594/internal-audit-lead-compliance-financial-crime/) |
+| 美国合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
+| 高级前端工程师 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14591/senior-software-engineer-frontend-consumer/) |
+| 亚太区高级薪酬经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14587/senior-payroll-manager-apac/) |
+| 机构营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
 | SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
+| 产品营销经理-Perps | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14605/product-marketing-manager-perps/) |
 | 交易风险引擎产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14583/product-manager-director-trading-risk-engine/) |
 | 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | 交易风控产品经理/总监（参数管理与价格保护） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14586/product-manager-director-trading-risk-parameter-management-price-protection/) |
 | 资本市场监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager-capital-markets/) |
 | 技术团队成员（软件工程师，模型平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
-| 美国合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
-| 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
-| 亚太、中东及非洲地区诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 应用支持工程师，迪拜，OEX | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14527/application-support-engineer-dubai-oex/) |
-| Data Analyst 数据分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14528/data-analyst/) |
-| 战略合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14354/strategic-partner-manager/) |
-| 变现合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
-| ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
-| 数据中心组合负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
