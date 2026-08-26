@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2471</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2473</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,13 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Portfolio Lead | Remote | [View →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
+| AWS GTM Partnership Lead, Startups | On-site | [View →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-lead-startups/) |
+| AWS GTM Partnership Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/aws-gtm-partnership-lead-enterprise/) |
+| Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
+| IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | People Operations Manager, Data & Reporting | Remote | [View →](https://www.remotejobscan.com/job/14525/people-operations-manager-data-reporting/) |
 | Partner Marketing Lead, Cloud | On-site | [View →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
 | AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 | Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | Member of Technical Staff (Software Engineer, Agent Harness) | On-site | [View →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
 | Manager, IT Support | On-site | [View →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
-| Data Center Portfolio Lead | On-site | [View →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
 | Technical Deployment Lead, Semiconductors - Texas | Remote | [View →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
 | Discovery Operations Lead, Litigation & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/14501/discovery-operations-lead-litigation-regulatory/) |
 | Regulatory Investigations Counsel | On-site | [View →](https://www.remotejobscan.com/job/14504/regulatory-investigations-counsel/) |
@@ -38,10 +42,6 @@
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | Customer Support Supervisor | On-site | [View →](https://www.remotejobscan.com/job/14500/customer-support-supervisor/) |
 | Operations Manager, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
-| Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
-| Strategy & Operations Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/14503/strategy-operations-manager-communications/) |
-| Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
-| Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2471</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2473</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心组合负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
+| AWS GTM合作伙伴负责人，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-lead-startups/) |
+| AWS GTM合作业务负责人，企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13611/aws-gtm-partnership-lead-enterprise/) |
+| 平台战略财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
+| IT服务台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
 | 数据与报告人事运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14525/people-operations-manager-data-reporting/) |
 | 云合作伙伴营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
 | AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 | 销售领导者赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | 技术团队成员（软件工程师，代理框架） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
 | IT支持经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14509/manager-it-support/) |
-| 数据中心组合负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
 | 半导体技术部署主管 - 德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14507/technical-deployment-lead-semiconductors-texas/) |
 | 诉讼与监管发现运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14501/discovery-operations-lead-litigation-regulatory/) |
 | 监管调查律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14504/regulatory-investigations-counsel/) |
@@ -38,10 +42,6 @@
 | 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | 客户支持主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14500/customer-support-supervisor/) |
 | 百慕大运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9232/operations-manager-bermuda/) |
-| 技术专家（AI研究员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
-| 战略与运营经理，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14503/strategy-operations-manager-communications/) |
-| 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
-| 高级会计，经纪和衍生品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
