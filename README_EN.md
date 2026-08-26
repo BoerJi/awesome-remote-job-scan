@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2487</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2485</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/14621/customer-success-dach/) |
 | Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 | Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
@@ -42,7 +43,6 @@
 | Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/14591/senior-software-engineer-frontend-consumer/) |
 | Senior Payroll Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/14587/senior-payroll-manager-apac/) |
 | Institution Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
-| SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
