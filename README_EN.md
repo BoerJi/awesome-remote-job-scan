@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2509</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2511</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Operations, Platform Product - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
+| AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
+| Forward Deployed Engineer, Perplexity Computer | On-site | [View →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
+| Customer Success Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech/) |
 | Activation Specialist (NYC) | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
 | Activation Specialist (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 | Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 | Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
-| AI Engineer, Enablement | On-site | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Ai Deployment Manager - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
 | Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
@@ -39,9 +42,6 @@
 | Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 | Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
 | GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
-| Program Manager - IT Operations | Hybrid | [View →](https://www.remotejobscan.com/job/14659/program-manager-it-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
