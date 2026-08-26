@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2493</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2498</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Operations Manager, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14642/business-operations-manager-business-marketing/) |
+| Resource Manager, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14643/resource-manager-business-marketing/) |
+| Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
+| Global Mobility Manager, Strategic Initiatives | Hybrid | [View →](https://www.remotejobscan.com/job/14641/global-mobility-manager-strategic-initiatives/) |
+| Product Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/14644/product-manager-multimodal-safety/) |
+| Head of Sales Strategy, Global GTM | On-site | [View →](https://www.remotejobscan.com/job/14640/head-of-sales-strategy-global-gtm/) |
+| Product Designer, Core Apps | On-site | [View →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
 | Growth PM | Remote | [View →](https://www.remotejobscan.com/job/14635/growth-pm/) |
 | AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
 | Strategic Sourcing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
@@ -36,13 +43,6 @@
 | Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
 | Lead Product Designer | Remote | [View →](https://www.remotejobscan.com/job/14631/lead-product-designer/) |
 | Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
-| Workday Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14622/workday-engineer/) |
-| Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/14621/customer-success-dach/) |
-| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
-| Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
-| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| Partner Marketing Manager - North America | Remote | [View →](https://www.remotejobscan.com/job/14612/partner-marketing-manager-north-america/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

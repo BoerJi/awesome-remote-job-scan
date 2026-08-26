@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2493</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2498</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业运营经理，商业营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14642/business-operations-manager-business-marketing/) |
+| 业务营销资源经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14643/resource-manager-business-marketing/) |
+| 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
+| 全球流动经理，战略项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14641/global-mobility-manager-strategic-initiatives/) |
+| 多模态安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14644/product-manager-multimodal-safety/) |
+| 全球销售战略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14640/head-of-sales-strategy-global-gtm/) |
+| 核心应用产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
 | 增长产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14635/growth-pm/) |
 | AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
 | 战略采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
@@ -36,13 +43,6 @@
 | 汽车行业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
 | 首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14631/lead-product-designer/) |
 | 社交媒体支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
-| Workday工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14622/workday-engineer/) |
-| 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| DACH地区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14621/customer-success-dach/) |
-| 技术部署负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
-| 国家及地方政府销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
-| 国家安全销售负责人（DoW/IC） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| 北美合作伙伴营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14612/partner-marketing-manager-north-america/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
