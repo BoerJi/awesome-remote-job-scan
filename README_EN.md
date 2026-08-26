@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2509</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2506</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
+| Program Manager - IT Operations | Hybrid | [View →](https://www.remotejobscan.com/job/14659/program-manager-it-operations/) |
+| Manager, Applied AI Engineering (Digital Natives) | Hybrid | [View →](https://www.remotejobscan.com/job/14658/manager-applied-ai-engineering-digital-natives/) |
+| Corporate Development Integration Lead | On-site | [View →](https://www.remotejobscan.com/job/14657/corporate-development-integration-lead/) |
 | Analytics Engineer, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14655/analytics-engineer-gtm/) |
 | Contract Technical Sourcer | Remote | [View →](https://www.remotejobscan.com/job/14654/contract-technical-sourcer/) |
 | Cyber Operations Strategist, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/14656/cyber-operations-strategist-critical-harm-operations/) |
@@ -39,10 +43,6 @@
 | Operating Systems Engineer | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
 | Compliance Investigations Manager | Remote | [View →](https://www.remotejobscan.com/job/14645/compliance-investigations-manager/) |
 | Business Operations Manager, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14642/business-operations-manager-business-marketing/) |
-| Resource Manager, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14643/resource-manager-business-marketing/) |
-| Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
-| Global Mobility Manager, Strategic Initiatives | Hybrid | [View →](https://www.remotejobscan.com/job/14641/global-mobility-manager-strategic-initiatives/) |
-| Product Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/14644/product-manager-multimodal-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
