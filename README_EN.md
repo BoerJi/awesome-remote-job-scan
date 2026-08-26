@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2481</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2483</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Architect - Nordics | Remote | [View →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
+| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/14606/talent-acquisition-partner/) |
 | Internal Audit Lead — Finance & Operations | Remote | [View →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
 | Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
 | Internal Audit Lead — Technology | Remote | [View →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
 | Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
@@ -38,8 +41,6 @@
 | Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | Product Manager / Director, Trading Risk (Parameter Management & Price Protection) | On-site | [View →](https://www.remotejobscan.com/job/14586/product-manager-director-trading-risk-parameter-management-price-protection/) |
-| Regulatory Compliance Manager - Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager-capital-markets/) |
-| Member of Technical Staff (Software Engineer, Model Platform) | On-site | [View →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

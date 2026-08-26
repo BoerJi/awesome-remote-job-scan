@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2481</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2483</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 北欧解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
+| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14606/talent-acquisition-partner/) |
 | 内部审计主管—财务与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
+| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
 | 集团财务服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
 | 内部审计主管—技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
 | 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
@@ -38,8 +41,6 @@
 | 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | 交易风控产品经理/总监（参数管理与价格保护） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14586/product-manager-director-trading-risk-parameter-management-price-protection/) |
-| 资本市场监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager-capital-markets/) |
-| 技术团队成员（软件工程师，模型平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
