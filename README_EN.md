@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2482</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2487</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
+| Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
+| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
+| Partner Marketing Manager - North America | Remote | [View →](https://www.remotejobscan.com/job/14612/partner-marketing-manager-north-america/) |
+| Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/14611/enterprise-account-executive-digital-native-business-munich/) |
+| Internal Audit Lead — Compliance & Financial Crime | Remote | [View →](https://www.remotejobscan.com/job/14594/internal-audit-lead-compliance-financial-crime/) |
+| Internal Audit Lead — Technology | Remote | [View →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
+| Internal Audit Lead — Finance & Operations | Remote | [View →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/14609/applied-ai-architect/) |
 | Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 | Solutions Architect - Nordics | Remote | [View →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
@@ -35,11 +43,6 @@
 | Senior Payroll Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/14587/senior-payroll-manager-apac/) |
 | Institution Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
 | SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
-| Product Marketing Manager-Perps | Remote | [View →](https://www.remotejobscan.com/job/14605/product-marketing-manager-perps/) |
-| Product Manager / Director, Trading Risk Engine | On-site | [View →](https://www.remotejobscan.com/job/14583/product-manager-director-trading-risk-engine/) |
-| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
-| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
-| Product Manager / Director, Trading Risk (Parameter Management & Price Protection) | On-site | [View →](https://www.remotejobscan.com/job/14586/product-manager-director-trading-risk-parameter-management-price-protection/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
