@@ -23,7 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
+| Activation Specialist (NYC) | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
+| Activation Specialist (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
+| Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
+| Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
+| AI Engineer, Enablement | On-site | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
+| Ai Deployment Manager - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
+| Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
+| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
+| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
 | Analyst II, Treasury Operations | Remote | [View →](https://www.remotejobscan.com/job/14663/analyst-ii-treasury-operations/) |
 | Technical Program Manager, Billing | On-site | [View →](https://www.remotejobscan.com/job/14662/technical-program-manager-billing/) |
 | Compliance, Trade Surveillance Associate | Remote | [View →](https://www.remotejobscan.com/job/14661/compliance-trade-surveillance-associate/) |
@@ -34,15 +42,6 @@
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
 | Program Manager - IT Operations | Hybrid | [View →](https://www.remotejobscan.com/job/14659/program-manager-it-operations/) |
-| Manager, Applied AI Engineering (Digital Natives) | Hybrid | [View →](https://www.remotejobscan.com/job/14658/manager-applied-ai-engineering-digital-natives/) |
-| Corporate Development Integration Lead | On-site | [View →](https://www.remotejobscan.com/job/14657/corporate-development-integration-lead/) |
-| Analytics Engineer, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14655/analytics-engineer-gtm/) |
-| Contract Technical Sourcer | Remote | [View →](https://www.remotejobscan.com/job/14654/contract-technical-sourcer/) |
-| Cyber Operations Strategist, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/14656/cyber-operations-strategist-critical-harm-operations/) |
-| Senior Software Engineer, CDP - Money Movement | Remote | [View →](https://www.remotejobscan.com/job/9280/senior-software-engineer-cdp-money-movement/) |
-| Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
-| Senior Mobile Engineer (iOS or Android) | Remote | [View →](https://www.remotejobscan.com/job/14653/senior-mobile-engineer-ios-or-android/) |
-| Strategy & Operations, Applied AI - AMER | On-site | [View →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

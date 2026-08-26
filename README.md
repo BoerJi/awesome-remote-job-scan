@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 激活专家（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
+| 激活专家（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
+| 续约与拓展客户经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
+| 账户经理，续订与拓展（东海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
+| AI工程师，赋能团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
+| AI部署经理 - 构建者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
+| 国家及地方政府销售负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
+| 国家安全销售总监（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
+| 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
 | 资金运营分析师II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14663/analyst-ii-treasury-operations/) |
 | 计费技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14662/technical-program-manager-billing/) |
@@ -34,15 +43,6 @@
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
 | IT运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14659/program-manager-it-operations/) |
-| 应用AI工程经理（数字原住民） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14658/manager-applied-ai-engineering-digital-natives/) |
-| 企业开发整合负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14657/corporate-development-integration-lead/) |
-| GTM分析工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14655/analytics-engineer-gtm/) |
-| 合同技术招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14654/contract-technical-sourcer/) |
-| 网络安全运营策略师，关键危害运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14656/cyber-operations-strategist-critical-harm-operations/) |
-| 高级软件工程师，CDP - 资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9280/senior-software-engineer-cdp-money-movement/) |
-| 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
-| 高级移动工程师（iOS或Android） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14653/senior-mobile-engineer-ios-or-android/) |
-| 战略与运营、应用人工智能 - 美洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
