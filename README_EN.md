@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Operations Manager, Data & Reporting | Remote | [View →](https://www.remotejobscan.com/job/14525/people-operations-manager-data-reporting/) |
+| Partner Marketing Lead, Cloud | On-site | [View →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
 | AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 | Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | Member of Technical Staff (Software Engineer, Agent Harness) | On-site | [View →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
@@ -40,8 +42,6 @@
 | Strategy & Operations Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/14503/strategy-operations-manager-communications/) |
 | Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
 | Senior Accountant, Brokerage and Derivatives | On-site | [View →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
-| Business Operations Manager - Nashville | On-site | [View →](https://www.remotejobscan.com/job/14496/business-operations-manager-nashville/) |
-| Data Center Mechanical Engineer | Remote | [View →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据与报告人事运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14525/people-operations-manager-data-reporting/) |
+| 云合作伙伴营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
 | AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 | 销售领导者赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 | 技术团队成员（软件工程师，代理框架） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
@@ -40,8 +42,6 @@
 | 战略与运营经理，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14503/strategy-operations-manager-communications/) |
 | 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
 | 高级会计，经纪和衍生品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14495/senior-accountant-brokerage-and-derivatives/) |
-| 业务运营经理 - 拉斯维加斯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14496/business-operations-manager-nashville/) |
-| 数据中心机械工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13908/data-center-mechanical-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
