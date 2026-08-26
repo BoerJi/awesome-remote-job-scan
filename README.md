@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2502</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2509</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM分析工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14655/analytics-engineer-gtm/) |
+| 合同技术招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14654/contract-technical-sourcer/) |
+| 网络安全运营策略师，关键危害运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14656/cyber-operations-strategist-critical-harm-operations/) |
+| 高级软件工程师，CDP - 资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9280/senior-software-engineer-cdp-money-movement/) |
+| 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
+| 高级移动工程师（iOS或Android） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14653/senior-mobile-engineer-ios-or-android/) |
+| 战略与运营、应用人工智能 - 美洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 | 美国市场拓展项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14649/gtm-programs-manager-amer/) |
 | 前部署工程师 (FDE)，法律-NYC | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14650/forward-deployed-engineer-fde-legal-nyc/) |
 | AWS合作伙伴市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14651/partner-marketing-manager-aws/) |
@@ -36,13 +43,6 @@
 | 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
 | 全球流动经理，战略项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14641/global-mobility-manager-strategic-initiatives/) |
 | 多模态安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14644/product-manager-multimodal-safety/) |
-| 全球销售战略总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14640/head-of-sales-strategy-global-gtm/) |
-| 核心应用产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
-| 增长产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14635/growth-pm/) |
-| AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
-| 战略采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
-| SOX经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
-| 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14630/engineering-manager-pro/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

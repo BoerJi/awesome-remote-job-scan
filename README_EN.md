@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2502</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2509</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Analytics Engineer, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14655/analytics-engineer-gtm/) |
+| Contract Technical Sourcer | Remote | [View →](https://www.remotejobscan.com/job/14654/contract-technical-sourcer/) |
+| Cyber Operations Strategist, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/14656/cyber-operations-strategist-critical-harm-operations/) |
+| Senior Software Engineer, CDP - Money Movement | Remote | [View →](https://www.remotejobscan.com/job/9280/senior-software-engineer-cdp-money-movement/) |
+| Enterprise Integrated Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
+| Senior Mobile Engineer (iOS or Android) | Remote | [View →](https://www.remotejobscan.com/job/14653/senior-mobile-engineer-ios-or-android/) |
+| Strategy & Operations, Applied AI - AMER | On-site | [View →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
 | GTM Programs Manager, AMER | On-site | [View →](https://www.remotejobscan.com/job/14649/gtm-programs-manager-amer/) |
 | Forward Deployed Engineer (FDE), Legal-NYC | Hybrid | [View →](https://www.remotejobscan.com/job/14650/forward-deployed-engineer-fde-legal-nyc/) |
 | Partner Marketing Manager, AWS | Hybrid | [View →](https://www.remotejobscan.com/job/14651/partner-marketing-manager-aws/) |
@@ -36,13 +43,6 @@
 | Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
 | Global Mobility Manager, Strategic Initiatives | Hybrid | [View →](https://www.remotejobscan.com/job/14641/global-mobility-manager-strategic-initiatives/) |
 | Product Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/14644/product-manager-multimodal-safety/) |
-| Head of Sales Strategy, Global GTM | On-site | [View →](https://www.remotejobscan.com/job/14640/head-of-sales-strategy-global-gtm/) |
-| Product Designer, Core Apps | On-site | [View →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
-| Growth PM | Remote | [View →](https://www.remotejobscan.com/job/14635/growth-pm/) |
-| AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
-| Strategic Sourcing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
-| SOX Manager | Remote | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
-| Engineering Manager - Pro | Remote | [View →](https://www.remotejobscan.com/job/14630/engineering-manager-pro/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
