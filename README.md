@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2467</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2472</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
+| 交易风险引擎产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14583/product-manager-director-trading-risk-engine/) |
+| 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
+| 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
+| 交易风控产品经理/总监（参数管理与价格保护） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14586/product-manager-director-trading-risk-parameter-management-price-protection/) |
 | 资本市场监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager-capital-markets/) |
 | 技术团队成员（软件工程师，模型平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
 | 美国合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
@@ -35,14 +40,6 @@
 | 变现合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
 | ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
 | 数据中心组合负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
-| AWS GTM合作伙伴负责人，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-lead-startups/) |
-| AWS GTM合作业务负责人，企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13611/aws-gtm-partnership-lead-enterprise/) |
-| 平台战略财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| IT服务台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
-| 数据与报告人事运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14525/people-operations-manager-data-reporting/) |
-| 云合作伙伴营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
-| AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
-| 销售领导者赋能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

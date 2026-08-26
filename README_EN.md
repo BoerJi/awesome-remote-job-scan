@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2467</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2472</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
+| Product Manager / Director, Trading Risk Engine | On-site | [View →](https://www.remotejobscan.com/job/14583/product-manager-director-trading-risk-engine/) |
+| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
+| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
+| Product Manager / Director, Trading Risk (Parameter Management & Price Protection) | On-site | [View →](https://www.remotejobscan.com/job/14586/product-manager-director-trading-risk-parameter-management-price-protection/) |
 | Regulatory Compliance Manager - Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager-capital-markets/) |
 | Member of Technical Staff (Software Engineer, Model Platform) | On-site | [View →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
 | Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
@@ -34,14 +39,6 @@
 | Partner Manager, Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/14526/partner-manager-monetization/) |
 | ICT Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
 | Data Center Portfolio Lead | Remote | [View →](https://www.remotejobscan.com/job/14508/data-center-portfolio-lead/) |
-| AWS GTM Partnership Lead, Startups | On-site | [View →](https://www.remotejobscan.com/job/9338/aws-gtm-partnership-lead-startups/) |
-| AWS GTM Partnership Lead, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/13611/aws-gtm-partnership-lead-enterprise/) |
-| Strategic Finance Manager, Platform | Remote | [View →](https://www.remotejobscan.com/job/14154/strategic-finance-manager-platform/) |
-| IT Service Desk Engineer | Remote | [View →](https://www.remotejobscan.com/job/11904/it-service-desk-engineer/) |
-| People Operations Manager, Data & Reporting | Remote | [View →](https://www.remotejobscan.com/job/14525/people-operations-manager-data-reporting/) |
-| Partner Marketing Lead, Cloud | On-site | [View →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
-| AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
-| Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
