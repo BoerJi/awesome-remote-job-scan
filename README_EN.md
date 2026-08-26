@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2463</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2469</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regulatory Compliance Manager - Capital Markets | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager-capital-markets/) |
 | Member of Technical Staff (Software Engineer, Model Platform) | On-site | [View →](https://www.remotejobscan.com/job/14457/member-of-technical-staff-software-engineer-model-platform/) |
 | Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 | Enterprise Account Executive - Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
@@ -41,7 +42,6 @@
 | Partner Marketing Lead, Cloud | On-site | [View →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
 | AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 | Sales Leader Enablement | On-site | [View →](https://www.remotejobscan.com/job/14049/sales-leader-enablement/) |
-| Member of Technical Staff (Software Engineer, Agent Harness) | On-site | [View →](https://www.remotejobscan.com/job/14520/member-of-technical-staff-software-engineer-agent-harness/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
