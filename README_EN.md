@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2486</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2493</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth PM | Remote | [View →](https://www.remotejobscan.com/job/14635/growth-pm/) |
+| AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
+| Strategic Sourcing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
+| SOX Manager | Remote | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
+| Engineering Manager - Pro | Remote | [View →](https://www.remotejobscan.com/job/14630/engineering-manager-pro/) |
+| Senior Database Administrator - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/14629/senior-database-administrator-core-infrastructure/) |
+| Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Applied AI Strategist, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
+| Partner Marketing Lead, Cloud | On-site | [View →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
+| Lead Product Designer, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/14632/lead-product-designer-marketplace/) |
 | Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
+| Lead Product Designer | Remote | [View →](https://www.remotejobscan.com/job/14631/lead-product-designer/) |
 | Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
 | Workday Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/14622/workday-engineer/) |
 | Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
@@ -32,17 +43,6 @@
 | Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | Partner Marketing Manager - North America | Remote | [View →](https://www.remotejobscan.com/job/14612/partner-marketing-manager-north-america/) |
-| Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/14611/enterprise-account-executive-digital-native-business-munich/) |
-| Internal Audit Lead — Compliance & Financial Crime | Remote | [View →](https://www.remotejobscan.com/job/14594/internal-audit-lead-compliance-financial-crime/) |
-| Internal Audit Lead — Technology | Remote | [View →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
-| Internal Audit Lead — Finance & Operations | Remote | [View →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/14609/applied-ai-architect/) |
-| Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
-| Solutions Architect - Nordics | Remote | [View →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
-| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/14606/talent-acquisition-partner/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
-| Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
-| Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-26 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

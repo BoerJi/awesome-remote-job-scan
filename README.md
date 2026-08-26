@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2486</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2493</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14635/growth-pm/) |
+| AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
+| 战略采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14628/strategic-sourcing-manager/) |
+| SOX经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
+| 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14630/engineering-manager-pro/) |
+| 核心基础设施高级数据库管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14629/senior-database-administrator-core-infrastructure/) |
+| 初级/中级/高级软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
+| EMEA应用AI策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
+| 云合作伙伴营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14521/partner-marketing-lead-cloud/) |
+| 市场领先产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14632/lead-product-designer-marketplace/) |
 | 汽车行业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
+| 首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14631/lead-product-designer/) |
 | 社交媒体支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14623/social-support-specialist-i/) |
 | Workday工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14622/workday-engineer/) |
 | 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
@@ -32,17 +43,6 @@
 | 国家及地方政府销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | 国家安全销售负责人（DoW/IC） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | 北美合作伙伴营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14612/partner-marketing-manager-north-america/) |
-| 企业客户经理，数字原生业务 - 慕尼黑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14611/enterprise-account-executive-digital-native-business-munich/) |
-| 内部审计主管 — 合规与金融犯罪 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14594/internal-audit-lead-compliance-financial-crime/) |
-| 内部审计主管—技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14593/internal-audit-lead-technology/) |
-| 内部审计主管—财务与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14592/internal-audit-lead-finance-operations/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14609/applied-ai-architect/) |
-| 基础设施税务高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
-| 北欧解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14608/solutions-architect-nordics/) |
-| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14606/talent-acquisition-partner/) |
-| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14607/applied-ai-architect-industries/) |
-| 集团财务服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-group-treasury-services/) |
-| 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11884/senior-customer-support-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
