@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2503</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2509</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
+| 资金运营分析师II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14663/analyst-ii-treasury-operations/) |
+| 计费技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14662/technical-program-manager-billing/) |
+| 合规、交易监控专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/compliance-trade-surveillance-associate/) |
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
+| 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
+| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
+| GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
 | IT运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14659/program-manager-it-operations/) |
 | 应用AI工程经理（数字原住民） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14658/manager-applied-ai-engineering-digital-natives/) |
@@ -34,15 +43,6 @@
 | 企业整合营销活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13362/enterprise-integrated-campaign-manager/) |
 | 高级移动工程师（iOS或Android） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14653/senior-mobile-engineer-ios-or-android/) |
 | 战略与运营、应用人工智能 - 美洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12229/strategy-operations-applied-ai-amer/) |
-| 美国市场拓展项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14649/gtm-programs-manager-amer/) |
-| 前部署工程师 (FDE)，法律-NYC | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14650/forward-deployed-engineer-fde-legal-nyc/) |
-| AWS合作伙伴市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14651/partner-marketing-manager-aws/) |
-| 技术合作伙伴与独立软件供应商合作伙伴营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14652/partner-marketing-manager-technology-partners-isvs/) |
-| GCP与Oracle合作伙伴营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14647/partner-marketing-manager-gcp-oracle/) |
-| 技术团队成员（桌面应用软件工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14648/member-of-technical-staff-software-engineer-desktop-apps/) |
-| 操作系统工程师 | 消费电子 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
-| 合规调查经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14645/compliance-investigations-manager/) |
-| 商业运营经理，商业营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14642/business-operations-manager-business-marketing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-26 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
