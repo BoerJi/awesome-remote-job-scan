@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2519</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2526</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Adoption Strategist - APAC | Remote | [View →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
@@ -40,9 +43,6 @@
 | AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Forward Deployed Engineer, Perplexity Computer | On-site | [View →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
 | Events and Partnerships Manager, MENA | Remote | [View →](https://www.remotejobscan.com/job/14677/events-and-partnerships-manager-mena/) |
-| Institutional Client Services (LATAM - 12 Month Contract) | Remote | [View →](https://www.remotejobscan.com/job/14680/institutional-client-services-latam-12-month-contract/) |
-| Customer Success Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech/) |
-| Activation Specialist (NYC) | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

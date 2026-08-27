@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2519</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2526</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | 亚太地区采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
 | 技术团队成员（加速方向软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | 沟通专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
@@ -40,9 +43,6 @@
 | AI工程师，赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Perplexity Computer 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
 | 中东地区活动与合作伙伴关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14677/events-and-partnerships-manager-mena/) |
-| 机构客户服务（拉丁美洲 - 12个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14680/institutional-client-services-latam-12-month-contract/) |
-| 技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech/) |
-| 激活专家（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
