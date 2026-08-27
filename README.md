@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2536</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2531</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | 员工/高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
 | 移动端Staff/高级Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
 | 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
-| 基础设施税务高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 | 公共关系专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | 应用AI工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
 | Staff+ 软件工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2536</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2531</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Channel Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | Staff / Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
 | Staff / Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
 | Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
-| Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 | Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
 | Staff+ Software Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
