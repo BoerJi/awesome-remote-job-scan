@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 | KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/14568/kol-business-development-manager-brazil/) |
 | Product Manager, Safeguards (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
@@ -41,8 +43,6 @@
 | Adoption Strategist - APAC | Remote | [View →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
-| Partnership Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
-| Executive Programs Narrative Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

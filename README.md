@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规运营分析师（反洗钱 - 知识产权和交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 | 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14568/kol-business-development-manager-brazil/) |
 | 网络安全防护产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
@@ -41,8 +43,6 @@
 | 亚太地区采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
 | 技术团队成员（加速方向软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | 沟通专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
-| 合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
-| 高管项目叙事负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
