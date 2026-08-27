@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2526</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2528</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师/高级软件工程师，移动增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
+| 并购公司律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
+| 高级软件工程师，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
+| 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| 产品经理 – KYC / 合规 / 风险 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14694/product-manager-kyc-compliance-risk/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | 亚太地区采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
 | 技术团队成员（加速方向软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
@@ -38,11 +43,6 @@
 | 高级产品经理 - 开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14673/senior-product-manager-developer-platform/) |
 | 高级产品经理 - 生态系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14672/senior-product-manager-ecosystem/) |
 | 产品负责人，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
-| GTM项目总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14668/head-of-gtm-programs/) |
-| Payward Services 平台产品运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
-| AI工程师，赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
-| Perplexity Computer 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
-| 中东地区活动与合作伙伴关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14677/events-and-partnerships-manager-mena/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2526</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2528</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software / Senior Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
+| Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
+| Senior Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
+| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Product Manager – KYC / Compliance / Risk | Hybrid | [View →](https://www.remotejobscan.com/job/14694/product-manager-kyc-compliance-risk/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Adoption Strategist - APAC | Remote | [View →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
@@ -38,11 +43,6 @@
 | Senior Product Manager - Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14673/senior-product-manager-developer-platform/) |
 | Senior Product Manager - Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/14672/senior-product-manager-ecosystem/) |
 | Product Lead, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
-| Head of GTM Programs | Remote | [View →](https://www.remotejobscan.com/job/14668/head-of-gtm-programs/) |
-| Head of Operations, Platform Product - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
-| AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
-| Forward Deployed Engineer, Perplexity Computer | On-site | [View →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
-| Events and Partnerships Manager, MENA | Remote | [View →](https://www.remotejobscan.com/job/14677/events-and-partnerships-manager-mena/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
