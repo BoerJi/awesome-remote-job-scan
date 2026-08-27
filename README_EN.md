@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2518</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2519</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Adoption Strategist - APAC | Remote | [View →](https://www.remotejobscan.com/job/14681/adoption-strategist-apac/) |
+| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | Partnership Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
 | Executive Programs Narrative Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
 | Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
@@ -36,13 +39,10 @@
 | Head of Operations, Platform Product - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
 | AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Forward Deployed Engineer, Perplexity Computer | On-site | [View →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
+| Events and Partnerships Manager, MENA | Remote | [View →](https://www.remotejobscan.com/job/14677/events-and-partnerships-manager-mena/) |
+| Institutional Client Services (LATAM - 12 Month Contract) | Remote | [View →](https://www.remotejobscan.com/job/14680/institutional-client-services-latam-12-month-contract/) |
 | Customer Success Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech/) |
 | Activation Specialist (NYC) | On-site | [View →](https://www.remotejobscan.com/job/13946/activation-specialist-nyc/) |
-| Activation Specialist (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
-| Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
-| Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
-| Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
-| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
