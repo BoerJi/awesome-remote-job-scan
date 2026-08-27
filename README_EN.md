@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff / Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
+| Staff / Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
+| Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
+| Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
+| Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
 | Staff+ Software Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
 | Staff+ Research Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
@@ -37,11 +43,6 @@
 | Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | SRE Team Leader SRE组组长 | Remote | [View →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
 | CS Specialist (Russian) | Remote | [View →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
-| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/quantitative-trader/) |
-| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

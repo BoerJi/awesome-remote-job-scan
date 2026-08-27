@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 员工/高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
+| 移动端Staff/高级Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
+| 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
+| 基础设施税务高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
+| 公共关系专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | 应用AI工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
 | Staff+ 软件工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
 | Staff+ 研究工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
@@ -37,11 +43,6 @@
 | 合规与许可证经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | SRE Team Leader SRE组组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
 | 俄语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
-| 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/quantitative-trader/) |
-| 合规运营分析师（反洗钱 - 知识产权和交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
