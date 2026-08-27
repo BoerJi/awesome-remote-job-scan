@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2511</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2512</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品负责人，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
+| GTM项目总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14668/head-of-gtm-programs/) |
+| 合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14366/partnerships-manager/) |
 | Payward Services 平台产品运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
 | AI工程师，赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Perplexity Computer 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
@@ -31,7 +34,6 @@
 | 激活专家（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13945/activation-specialist-san-francisco/) |
 | 续约与拓展客户经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 | 账户经理，续订与拓展（东海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
-| AI部署经理 - 构建者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
 | 国家及地方政府销售负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | 国家安全销售总监（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
@@ -41,8 +43,6 @@
 | 合规、交易监控专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/compliance-trade-surveillance-associate/) |
 | IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
 | 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
-| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
-| GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
