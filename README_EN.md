@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2529</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2537</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
+| Staff+ Software Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
+| Staff+ Research Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
 | Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 | Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14721/payments-risk-analyst-ii/) |
 | PR & Content Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/pr-content-manager/) |
@@ -38,9 +41,6 @@
 | Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/quantitative-trader/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
-| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/14568/kol-business-development-manager-brazil/) |
-| Product Manager, Safeguards (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
