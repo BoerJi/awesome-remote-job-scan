@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理，有益部署（实验室） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14769/product-manager-beneficial-deployments-labs/) |
+| 国家安全销售负责人（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
+| 技术专家（软件工程师，多模态） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
+| 技术团队成员 (AI软件工程师，智能体) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
+| 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
+| 技术团队成员（加速团队软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| 技术团队成员（软件工程师，API平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
+| API 平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
+| 工程经理（技术领导经理，代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
+| 战略采购专员-专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14768/strategic-sourcing-specialist-professional-services/) |
+| 硬件工程师，测试 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14767/hardware-engineer-test/) |
+| ChatGPT品牌策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14766/brand-strategist-chatgpt/) |
+| 数据中心电源与冷却制造质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14140/manufacturing-quality-engineer-data-center-power-cooling/) |
+| 数据中心OFE战略采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-manager/) |
 | 全球续约负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
 | 高级客户投诉经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | iOS资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
 | 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | 企业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14765/corporate-counsel/) |
 | 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
-| 美国商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14764/commercial-counsel-us/) |
-| 网页视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
-| 站点工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
-| 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
-| 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
-| 支持交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14760/support-delivery-lead/) |
-| 产品设计师，市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14758/product-designer-marketplace/) |
-| 核心应用产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
-| 高级产品设计师，增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
-| 文案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13064/writer/) |
-| 公共关系专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
-| 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
-| 欧洲、中东、非洲及大中华区市场拓展财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
-| 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Beneficial Deployments (Labs) | On-site | [View →](https://www.remotejobscan.com/job/14769/product-manager-beneficial-deployments-labs/) |
+| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
+| Member of Technical Staff (Software Engineer, Multimodal) | On-site | [View →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
+| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
+| Member of Technical Staff (Secure Intelligence Institute) | On-site | [View →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
+| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| Member of Technical Staff (Software Engineer, API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
+| Engineering Manager (API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
+| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
+| Strategic Sourcing Specialist - Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14768/strategic-sourcing-specialist-professional-services/) |
+| Hardware Engineer, Test | Hybrid | [View →](https://www.remotejobscan.com/job/14767/hardware-engineer-test/) |
+| Brand Strategist, ChatGPT | On-site | [View →](https://www.remotejobscan.com/job/14766/brand-strategist-chatgpt/) |
+| Manufacturing Quality Engineer, Data Center Power & Cooling | On-site | [View →](https://www.remotejobscan.com/job/14140/manufacturing-quality-engineer-data-center-power-cooling/) |
+| Data Center OFE Strategic Sourcing Manager | Remote | [View →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-manager/) |
 | Head of Global Renewals | On-site | [View →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
 | Senior Manager, Customer Complaints | On-site | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | Staff Software Engineer, iOS | On-site | [View →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
 | Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
 | Corporate Counsel | Remote | [View →](https://www.remotejobscan.com/job/14765/corporate-counsel/) |
 | Senior Payroll Specialist | Remote | [View →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
-| Commercial Counsel - US | Remote | [View →](https://www.remotejobscan.com/job/14764/commercial-counsel-us/) |
-| Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
-| Site Engineer | Remote | [View →](https://www.remotejobscan.com/job/9791/site-engineer/) |
-| Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
-| Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
-| Support Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14760/support-delivery-lead/) |
-| Product Designer, Marketplace | Hybrid | [View →](https://www.remotejobscan.com/job/14758/product-designer-marketplace/) |
-| Product Designer, Core Apps | On-site | [View →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
-| Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
-| Writer | Hybrid | [View →](https://www.remotejobscan.com/job/13064/writer/) |
-| Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
-| US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
-| Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
-| Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
