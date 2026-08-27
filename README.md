@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2537</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2536</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -41,6 +41,7 @@
 | 量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/quantitative-trader/) |
 | 合规运营分析师（反洗钱 - 知识产权和交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 14:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 15:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

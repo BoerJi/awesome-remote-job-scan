@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2537</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2536</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -41,6 +41,7 @@
 | Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/quantitative-trader/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
+| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 14:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 15:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
