@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2541</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2547</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品与工程事故响应经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9478/incident-response-manager-product-engineering/) |
+| 推理性能高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9685/staff-software-engineer-inference-velocity/) |
+| 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14770/executive-assistant/) |
+| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| 高级软件工程师，数据层 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
 | 产品经理，有益部署（实验室） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14769/product-manager-beneficial-deployments-labs/) |
 | 国家安全销售负责人（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | 技术专家（软件工程师，多模态） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
@@ -38,11 +43,6 @@
 | 数据中心电源与冷却制造质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14140/manufacturing-quality-engineer-data-center-power-cooling/) |
 | 数据中心OFE战略采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-manager/) |
 | 全球续约负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
-| 高级客户投诉经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
-| iOS资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
-| 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
-| 企业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14765/corporate-counsel/) |
-| 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

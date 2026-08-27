@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2541</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2547</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Incident Response Manager - Product & Engineering | Remote | [View →](https://www.remotejobscan.com/job/9478/incident-response-manager-product-engineering/) |
+| Staff Software Engineer, Inference Velocity | Remote | [View →](https://www.remotejobscan.com/job/9685/staff-software-engineer-inference-velocity/) |
+| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/14770/executive-assistant/) |
+| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| Senior Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
 | Product Manager, Beneficial Deployments (Labs) | On-site | [View →](https://www.remotejobscan.com/job/14769/product-manager-beneficial-deployments-labs/) |
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | Member of Technical Staff (Software Engineer, Multimodal) | On-site | [View →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
@@ -38,11 +43,6 @@
 | Manufacturing Quality Engineer, Data Center Power & Cooling | On-site | [View →](https://www.remotejobscan.com/job/14140/manufacturing-quality-engineer-data-center-power-cooling/) |
 | Data Center OFE Strategic Sourcing Manager | Remote | [View →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-manager/) |
 | Head of Global Renewals | On-site | [View →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
-| Senior Manager, Customer Complaints | On-site | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
-| Staff Software Engineer, iOS | On-site | [View →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
-| Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
-| Corporate Counsel | Remote | [View →](https://www.remotejobscan.com/job/14765/corporate-counsel/) |
-| Senior Payroll Specialist | Remote | [View →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
