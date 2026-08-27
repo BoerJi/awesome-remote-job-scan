@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2527</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2529</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
+| Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14721/payments-risk-analyst-ii/) |
 | PR & Content Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/pr-content-manager/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
 | Independent Non-Executive Director (Resident), Seychelles | On-site | [View →](https://www.remotejobscan.com/job/14719/independent-non-executive-director-resident-seychelles/) |
@@ -39,8 +41,6 @@
 | CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
 | KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/14568/kol-business-development-manager-brazil/) |
 | Product Manager, Safeguards (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
-| Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
-| Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
