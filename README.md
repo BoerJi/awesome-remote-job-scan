@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2528</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2535</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
+| Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
+| 人员系统与自动化经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
 | 软件工程师/高级软件工程师，移动增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
 | 并购公司律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | 高级软件工程师，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
@@ -40,9 +43,6 @@
 | 人类数据数据操作经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14670/data-operations-manager-human-data/) |
 | AI部署经理 - 构建者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
 | 南美洲负责人，全球事务（圣保罗） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14671/south-america-lead-global-affairs-sao-paulo/) |
-| 高级产品经理 - 开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14673/senior-product-manager-developer-platform/) |
-| 高级产品经理 - 生态系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14672/senior-product-manager-ecosystem/) |
-| 产品负责人，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

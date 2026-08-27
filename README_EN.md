@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2528</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2535</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
+| Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
+| People Systems and Automation Manager | Remote | [View →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
 | Software / Senior Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | Senior Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
@@ -40,9 +43,6 @@
 | Data Operations Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/14670/data-operations-manager-human-data/) |
 | AI Deployment Manager - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
 | South America Lead, Global Affairs (Sao Paulo) | On-site | [View →](https://www.remotejobscan.com/job/14671/south-america-lead-global-affairs-sao-paulo/) |
-| Senior Product Manager - Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14673/senior-product-manager-developer-platform/) |
-| Senior Product Manager - Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/14672/senior-product-manager-ecosystem/) |
-| Product Lead, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
