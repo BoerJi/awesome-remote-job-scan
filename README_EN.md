@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2531</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2538</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
+| US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
+| Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
+| Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
+| Software Engineer, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/14752/software-engineer-infrastructure/) |
+| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
+| Applied AI Strategist, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
+| Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
+| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
+| Forward Deployed Engineer (FDE), Legal-SF | Hybrid | [View →](https://www.remotejobscan.com/job/14753/forward-deployed-engineer-fde-legal-sf/) |
 | Channel Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | Staff / Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
 | Staff / Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
 | Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
-| Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
 | Staff+ Software Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
 | Staff+ Research Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
 | Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 | Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14721/payments-risk-analyst-ii/) |
-| PR & Content Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/pr-content-manager/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
-| Independent Non-Executive Director (Resident), Seychelles | On-site | [View →](https://www.remotejobscan.com/job/14719/independent-non-executive-director-resident-seychelles/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/14716/customer-support-specialist-ii/) |
-| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/14717/spot-onchain-product-operations/) |
-| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
-| Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
-| SRE Team Leader SRE组组长 | Remote | [View →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
-| CS Specialist (Russian) | Remote | [View →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

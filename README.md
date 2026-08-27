@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2531</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2538</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共关系专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
+| 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
+| 欧洲、中东、非洲及大中华区市场拓展财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
+| 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
+| 基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14752/software-engineer-infrastructure/) |
+| 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
+| EMEA应用AI策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
+| 基础设施税务高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
+| Compute平台高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
+| 前部署工程师 (FDE)，法律-SF | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14753/forward-deployed-engineer-fde-legal-sf/) |
 | 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | 员工/高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
 | 移动端Staff/高级Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
 | 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
-| 公共关系专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | 应用AI工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
 | Staff+ 软件工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
 | Staff+ 研究工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
 | 筛查分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 | 支付风险分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14721/payments-risk-analyst-ii/) |
-| 公关与内容经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14720/pr-content-manager/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
-| 塞舌尔居民独立非执行董事 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14719/independent-non-executive-director-resident-seychelles/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14716/customer-support-specialist-ii/) |
-| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14717/spot-onchain-product-operations/) |
-| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
-| 合规与许可证经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
-| SRE Team Leader SRE组组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
-| 俄语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
