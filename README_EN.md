@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2527</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2531</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
+| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/14568/kol-business-development-manager-brazil/) |
+| Product Manager, Safeguards (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
 | Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
@@ -40,9 +43,6 @@
 | Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | Partnership Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
 | Executive Programs Narrative Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
-| Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
-| Data Operations Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/14670/data-operations-manager-human-data/) |
-| AI Deployment Manager - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

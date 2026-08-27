@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2527</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2531</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14546/cfd-business-development-manager-brazil/) |
+| 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14568/kol-business-development-manager-brazil/) |
+| 网络安全防护产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
 | 客户尽职调查运营团队负责人（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
@@ -40,9 +43,6 @@
 | 沟通专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | 合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
 | 高管项目叙事负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
-| Compute Platform (Routing)高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
-| 人类数据数据操作经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14670/data-operations-manager-human-data/) |
-| AI部署经理 - 构建者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
