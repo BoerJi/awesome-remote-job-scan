@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| PR & Content Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/pr-content-manager/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13856/applied-ai-architect/) |
+| Independent Non-Executive Director (Resident), Seychelles | On-site | [View →](https://www.remotejobscan.com/job/14719/independent-non-executive-director-resident-seychelles/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/14716/customer-support-specialist-ii/) |
+| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/14717/spot-onchain-product-operations/) |
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
 | Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | SRE Team Leader SRE组组长 | Remote | [View →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
@@ -36,11 +41,6 @@
 | Product Manager, Safeguards (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9537/product-manager-safeguards-cyber/) |
 | Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
-| Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
-| People Systems and Automation Manager | Remote | [View →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
-| Software / Senior Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
-| Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
-| Senior Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
