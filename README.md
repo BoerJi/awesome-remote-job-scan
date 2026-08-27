@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2512</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2518</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
+| 高管项目叙事负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
+| Compute Platform (Routing)高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
+| 人类数据数据操作经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14670/data-operations-manager-human-data/) |
+| AI部署经理 - 构建者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
+| 南美洲负责人，全球事务（圣保罗） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14671/south-america-lead-global-affairs-sao-paulo/) |
+| 高级产品经理 - 开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14673/senior-product-manager-developer-platform/) |
+| 高级产品经理 - 生态系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14672/senior-product-manager-ecosystem/) |
 | 产品负责人，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
 | GTM项目总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14668/head-of-gtm-programs/) |
-| 合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14366/partnerships-manager/) |
 | Payward Services 平台产品运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
 | AI工程师，赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Perplexity Computer 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
@@ -36,13 +43,6 @@
 | 账户经理，续订与拓展（东海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
 | 国家及地方政府销售负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | 国家安全销售总监（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| 前线部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
-| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13529/forward-deployed-engineer/) |
-| 资金运营分析师II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14663/analyst-ii-treasury-operations/) |
-| 计费技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14662/technical-program-manager-billing/) |
-| 合规、交易监控专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/compliance-trade-surveillance-associate/) |
-| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
-| 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

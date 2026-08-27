@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2512</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2518</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnership Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnership-sales-manager/) |
+| Executive Programs Narrative Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14675/executive-programs-narrative-lead/) |
+| Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
+| Data Operations Manager, Human Data | On-site | [View →](https://www.remotejobscan.com/job/14670/data-operations-manager-human-data/) |
+| AI Deployment Manager - Builder | On-site | [View →](https://www.remotejobscan.com/job/13324/ai-deployment-manager-builder/) |
+| South America Lead, Global Affairs (Sao Paulo) | On-site | [View →](https://www.remotejobscan.com/job/14671/south-america-lead-global-affairs-sao-paulo/) |
+| Senior Product Manager - Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14673/senior-product-manager-developer-platform/) |
+| Senior Product Manager - Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/14672/senior-product-manager-ecosystem/) |
 | Product Lead, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/14669/product-lead-developer-experience/) |
 | Head of GTM Programs | Remote | [View →](https://www.remotejobscan.com/job/14668/head-of-gtm-programs/) |
-| Partnerships Manager | On-site | [View →](https://www.remotejobscan.com/job/14366/partnerships-manager/) |
 | Head of Operations, Platform Product - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/14666/head-of-operations-platform-product-payward-services/) |
 | AI Engineer, Enablement | Remote | [View →](https://www.remotejobscan.com/job/14664/ai-engineer-enablement/) |
 | Forward Deployed Engineer, Perplexity Computer | On-site | [View →](https://www.remotejobscan.com/job/14667/forward-deployed-engineer-perplexity-computer/) |
@@ -36,12 +43,6 @@
 | Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
 | Head of State and Local Government Sales | Remote | [View →](https://www.remotejobscan.com/job/14371/head-of-state-and-local-government-sales/) |
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/13528/forward-deployed-engineer/) |
-| Analyst II, Treasury Operations | Remote | [View →](https://www.remotejobscan.com/job/14663/analyst-ii-treasury-operations/) |
-| Technical Program Manager, Billing | On-site | [View →](https://www.remotejobscan.com/job/14662/technical-program-manager-billing/) |
-| Compliance, Trade Surveillance Associate | Remote | [View →](https://www.remotejobscan.com/job/14661/compliance-trade-surveillance-associate/) |
-| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/11871/it-systems-engineer/) |
-| Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
