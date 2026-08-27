@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2547</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>2574</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,31 +23,30 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 产品与工程事故响应经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9478/incident-response-manager-product-engineering/) |
-| 推理性能高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9685/staff-software-engineer-inference-velocity/) |
-| 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14770/executive-assistant/) |
-| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
-| 高级软件工程师，数据层 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11546/senior-software-engineer-data-layer/) |
-| 产品经理，有益部署（实验室） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14769/product-manager-beneficial-deployments-labs/) |
-| 国家安全销售负责人（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| 技术专家（软件工程师，多模态） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13063/member-of-technical-staff-software-engineer-multimodal/) |
-| 技术团队成员 (AI软件工程师，智能体) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14660/member-of-technical-staff-ai-software-engineer-agents/) |
-| 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
-| 技术团队成员（加速团队软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
-| 技术团队成员（软件工程师，API平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
-| API 平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
-| 工程经理（技术领导经理，代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11221/engineering-manager-tlm-agents/) |
-| 战略采购专员-专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14768/strategic-sourcing-specialist-professional-services/) |
-| 硬件工程师，测试 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14767/hardware-engineer-test/) |
-| ChatGPT品牌策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14766/brand-strategist-chatgpt/) |
-| 数据中心电源与冷却制造质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14140/manufacturing-quality-engineer-data-center-power-cooling/) |
-| 数据中心OFE战略采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12643/data-center-ofe-strategic-sourcing-manager/) |
-| 全球续约负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
+| 企业通信总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| 企业发言人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
+| 社区运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7911/community-operation/) |
+| 研究与投资实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
+| 内容编辑/SEO专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| 全球市场经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
+| 社区专员/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
+| 创意文案撰稿人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
+| 数据仓库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
+| 高级深度学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| 研究分析师实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
+| 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
+| 业务拓展与战略合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
+| 客户服务代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative/) |
+| 合作伙伴与业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| 机构客户增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
+| 数据产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（49 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -58,6 +57,7 @@
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [查看职位 →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
+| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [查看职位 →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [查看职位 →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [查看职位 →](https://www.remotejobscan.com/?company=bybit) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
