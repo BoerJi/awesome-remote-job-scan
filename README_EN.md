@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Site Engineer | Remote | [View →](https://www.remotejobscan.com/job/9791/site-engineer/) |
+| Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
+| Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
+| Support Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14760/support-delivery-lead/) |
+| Product Designer, Marketplace | Hybrid | [View →](https://www.remotejobscan.com/job/14758/product-designer-marketplace/) |
+| Product Designer, Core Apps | On-site | [View →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
+| Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
+| Writer | Hybrid | [View →](https://www.remotejobscan.com/job/13064/writer/) |
 | Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
@@ -35,14 +43,6 @@
 | Forward Deployed Engineer (FDE), Legal-SF | Hybrid | [View →](https://www.remotejobscan.com/job/14753/forward-deployed-engineer-fde-legal-sf/) |
 | Channel Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | Staff / Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
-| Staff / Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
-| Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
-| Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
-| Staff+ Software Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
-| Staff+ Research Engineer, RL Data Platform | On-site | [View →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
-| Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
-| Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14721/payments-risk-analyst-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

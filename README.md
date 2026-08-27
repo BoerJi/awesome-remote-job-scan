@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 站点工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
+| 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
+| 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
+| 支持交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14760/support-delivery-lead/) |
+| 产品设计师，市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14758/product-designer-marketplace/) |
+| 核心应用产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14636/product-designer-core-apps/) |
+| 高级产品设计师，增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
+| 文案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13064/writer/) |
 | 公共关系专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/communications-generalist/) |
 | 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
 | 欧洲、中东、非洲及大中华区市场拓展财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
@@ -35,14 +43,6 @@
 | 前部署工程师 (FDE)，法律-SF | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14753/forward-deployed-engineer-fde-legal-sf/) |
 | 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | 员工/高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
-| 移动端Staff/高级Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
-| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
-| 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14740/customer-success-southern-europe/) |
-| 应用AI工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
-| Staff+ 软件工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14729/staff-software-engineer-rl-data-platform/) |
-| Staff+ 研究工程师，RL 数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14728/staff-research-engineer-rl-data-platform/) |
-| 筛查分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
-| 支付风险分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14721/payments-risk-analyst-ii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
