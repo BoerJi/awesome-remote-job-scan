@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2525</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2527</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
+| 合规与许可证经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | SRE Team Leader SRE组组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
 | 俄语客户专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
 | 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
@@ -39,9 +41,6 @@
 | 软件工程师/高级软件工程师，移动增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
 | 并购公司律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | 高级软件工程师，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
-| 高级软件工程师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

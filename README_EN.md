@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2525</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2527</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
+| Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | SRE Team Leader SRE组组长 | Remote | [View →](https://www.remotejobscan.com/job/12971/sre-team-leader-sre/) |
 | CS Specialist (Russian) | Remote | [View →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
@@ -39,9 +41,6 @@
 | Software / Senior Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile-growth/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | Senior Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/14691/senior-software-engineer-payment/) |
-| Senior Software Engineer, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9290/senior-software-engineer-consumer/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
