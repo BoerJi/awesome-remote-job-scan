@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2537</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2542</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Global Renewals | On-site | [View →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
+| Senior Manager, Customer Complaints | On-site | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| Staff Software Engineer, iOS | On-site | [View →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
+| Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
+| Corporate Counsel | Remote | [View →](https://www.remotejobscan.com/job/14765/corporate-counsel/) |
+| Senior Payroll Specialist | Remote | [View →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
+| Commercial Counsel - US | Remote | [View →](https://www.remotejobscan.com/job/14764/commercial-counsel-us/) |
+| Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
 | Site Engineer | Remote | [View →](https://www.remotejobscan.com/job/9791/site-engineer/) |
 | Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
 | Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
@@ -35,14 +43,6 @@
 | US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
 | Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
-| Software Engineer, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/14752/software-engineer-infrastructure/) |
-| Applied AI Architect, Digital Natives Business | On-site | [View →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
-| Applied AI Strategist, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
-| Senior Manager, Infrastructure Tax | Remote | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
-| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
-| Forward Deployed Engineer (FDE), Legal-SF | Hybrid | [View →](https://www.remotejobscan.com/job/14753/forward-deployed-engineer-fde-legal-sf/) |
-| Channel Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
-| Staff / Senior Staff Software Engineer, Mobile Growth | On-site | [View →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-27 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

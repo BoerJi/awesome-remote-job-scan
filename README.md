@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2537</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2542</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球续约负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13225/head-of-global-renewals/) |
+| 高级客户投诉经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| iOS资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
+| 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
+| 企业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14765/corporate-counsel/) |
+| 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
+| 美国商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14764/commercial-counsel-us/) |
+| 网页视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
 | 站点工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
 | 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
 | 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13203/finance-strategy-compute/) |
@@ -35,14 +43,6 @@
 | 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14757/us-congressional-lead-global-affairs/) |
 | 欧洲、中东、非洲及大中华区市场拓展财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14748/finance-strategy-gtm-emea/) |
 | 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
-| 基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14752/software-engineer-infrastructure/) |
-| 应用AI架构师，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14464/applied-ai-architect-digital-natives-business/) |
-| EMEA应用AI策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14626/applied-ai-strategist-emea/) |
-| 基础设施税务高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
-| Compute平台高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9287/senior-software-engineer-compute-platform/) |
-| 前部署工程师 (FDE)，法律-SF | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14753/forward-deployed-engineer-fde-legal-sf/) |
-| 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
-| 员工/高级移动增长软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8894/staff-senior-staff-software-engineer-mobile-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-27 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
