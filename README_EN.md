@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2591</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2595</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Support Specialist, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/14877/senior-support-specialist-ads/) |
+| Forward Deployed Engineer, Sovereign AI | Hybrid | [View →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
+| Software Engineer, Astral | Hybrid | [View →](https://www.remotejobscan.com/job/14878/software-engineer-astral/) |
+| Senior Product Manager, CX & AI Tooling | On-site | [View →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
+| Software Engineer, Financial Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/14876/software-engineer-financial-engineering/) |
+| Senior Vendor Manager - SMB Sales | Hybrid | [View →](https://www.remotejobscan.com/job/14875/senior-vendor-manager-smb-sales/) |
 | Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/11417/senior-director-solutions-architecture-americas/) |
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13313/senior-account-executive/) |
 | Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/14868/enterprise-account-executive-retail/) |
@@ -37,12 +43,6 @@
 | Business Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/14871/business-operations-manager/) |
 | Accountant, Cyprus | Remote | [View →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| Reseller Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
-| Solutions Engineering, Ads Solutions (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/14857/solutions-engineering-ads-solutions-singapore/) |
-| Revenue Leader - Mid-Market, India | Remote | [View →](https://www.remotejobscan.com/job/14858/revenue-leader-mid-market-india/) |
-| Strategic Finance, International & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
-| Public Relations Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
-| Customer Success - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

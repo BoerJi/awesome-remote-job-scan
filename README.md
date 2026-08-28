@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2591</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2595</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级广告支持专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14877/senior-support-specialist-ads/) |
+| 前沿部署工程师，主权AI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
+| Astral软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14878/software-engineer-astral/) |
+| 高级产品经理，客户体验与AI工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9269/senior-product-manager-cx-ai-tooling/) |
+| 金融工程软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14876/software-engineer-financial-engineering/) |
+| 高级供应商经理 - SMB销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14875/senior-vendor-manager-smb-sales/) |
 | 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11417/senior-director-solutions-architecture-americas/) |
 | 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13313/senior-account-executive/) |
 | 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14868/enterprise-account-executive-retail/) |
@@ -37,12 +43,6 @@
 | 业务运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14871/business-operations-manager/) |
 | 塞浦路斯会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | 储值库后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| 渠道赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
-| 解决方案工程，广告解决方案（新加坡） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14857/solutions-engineering-ads-solutions-singapore/) |
-| Mid-Market 销售负责人 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14858/revenue-leader-mid-market-india/) |
-| 战略财务、国际与市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
-| 公共关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
-| 客户成功 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
