@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2554</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2558</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
+| Senior Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
+| Senior Support Specialist, Ads | Remote | [View →](https://www.remotejobscan.com/job/14789/senior-support-specialist-ads/) |
+| Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Product Design Manager, Growth - Consumer | Hybrid | [View →](https://www.remotejobscan.com/job/14782/product-design-manager-growth-consumer/) |
 | Deployed Architect, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
 | Deployed Architect, Professional Services (Amsterdam) | Remote | [View →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
@@ -39,10 +43,6 @@
 | Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
 | Public Policy Associate | On-site | [View →](https://www.remotejobscan.com/job/14779/public-policy-associate/) |
 | Deployed Architect, Professional Services (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
-| Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
-| Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
-| Strategic Deals Lead, Cloud Compute | On-site | [View →](https://www.remotejobscan.com/job/14773/strategic-deals-lead-cloud-compute/) |
-| Manager, Product Communications | Remote | [View →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
