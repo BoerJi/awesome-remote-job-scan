@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2583</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2585</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
+| 客户成功 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
 | 高级数据平台工程师 - 财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
 | 数据基础设施研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
 | 研究工程师 - 网络爬虫 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
@@ -40,8 +42,6 @@
 | Test Engineer - 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12153/test-engineer/) |
 | AV 工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
 | 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
-| 企业客户总监 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
-| 高级支持工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

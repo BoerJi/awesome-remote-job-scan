@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2583</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2585</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Public Relations Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
+| Customer Success - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
 | Staff Data Platform Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
 | Research Engineer - Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
 | Research Engineer - Web Crawlers | Remote | [View →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
@@ -40,8 +42,6 @@
 | Test Engineer - 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/12153/test-engineer/) |
 | AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13069/av-engineer/) |
 | Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
-| Account Director, Enterprise - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
-| Manager, Senior Support Engineering | On-site | [View →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
