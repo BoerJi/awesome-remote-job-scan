@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2574</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2586</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI与产品合规高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14920/senior-counsel-ai-product-compliance/) |
+| 营销模板 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14919/marketing-template/) |
+| 高级前端工程师（消费-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
+| 权益代币化会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| 客户经理（中市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
+| 商业沟通主管，网络安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14912/business-communications-lead-cybersecurity/) |
+| 技术项目经理，公共部门与国防AI交付，加拿大 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
+| AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14910/regulatory-counsel-ai-regulation-us/) |
+| 多云信任与安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
+| PwC合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
+| 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14907/creative-director/) |
+| 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | 初创企业内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
 | 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 | 安全响应运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14905/safety-response-operations-lead/) |
@@ -31,18 +43,6 @@
 | 日本合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| 合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| 日本计算国家负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12837/compute-country-lead-japan/) |
-| 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11337/product-support-specialist/) |
-| 东京人才合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9518/people-partner-tokyo/) |
-| 数据中心电气工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9394/data-center-electrical-engineer/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9345/applied-ai-architect/) |
-| 财务与战略，韩国GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
-| 企业客户经理，企业集团 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9431/enterprise-account-executive-conglomerate/) |
-| 企业客户经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13551/enterprise-account-executive-financial-services/) |
-| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| 前沿部署工程师，智能平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14897/forward-deployed-engineer-agentic-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
