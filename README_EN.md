@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2563</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2564</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
-| People Team Marketing Communications Specialist | Remote | [View →](https://www.remotejobscan.com/job/14790/people-team-marketing-communications-specialist/) |
+| Applied AI Architect, Edu | Hybrid | [View →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
+| Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
 | Marketing Scientist | Hybrid | [View →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
 | Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | Senior Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
@@ -42,7 +43,6 @@
 | GTM Engineer | On-site | [View →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
 | Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 | Incident Management Lead, Data Center Security | Remote | [View →](https://www.remotejobscan.com/job/14775/incident-management-lead-data-center-security/) |
-| Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

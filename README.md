@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2563</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2564</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 人才团队市场营销沟通专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/people-team-marketing-communications-specialist/) |
+| 教育应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
+| 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
 | 市场科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
 | 应用AI架构师，战略企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | 高级内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
@@ -42,7 +43,6 @@
 | GTM工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
 | 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 | 数据中心安全事件管理负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14775/incident-management-lead-data-center-security/) |
-| 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
