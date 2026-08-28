@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2575</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2574</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
+| Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 | Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 | Enterprise Account Executive, Financial Services & Insurance | On-site | [View →](https://www.remotejobscan.com/job/9440/enterprise-account-executive-financial-services-insurance/) |
 | Test Engineer - 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/12153/test-engineer/) |
@@ -40,8 +42,6 @@
 | Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | Senior Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
 | Senior Support Specialist, Ads | Remote | [View →](https://www.remotejobscan.com/job/14789/senior-support-specialist-ads/) |
-| Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
-| Product Design Manager, Growth - Consumer | Hybrid | [View →](https://www.remotejobscan.com/job/14782/product-design-manager-growth-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
