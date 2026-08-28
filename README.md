@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2585</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2582</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 储值库后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| 解决方案工程，广告解决方案（新加坡） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14857/solutions-engineering-ads-solutions-singapore/) |
+| Mid-Market 销售负责人 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14858/revenue-leader-mid-market-india/) |
+| 战略财务、国际与市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
 | 公共关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
 | 客户成功 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
 | 高级数据平台工程师 - 财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
@@ -38,10 +42,6 @@
 | 欧洲、中东、非洲及亚洲区销售与战略财务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 | 日本及韩国经销商运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 | 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
-| 金融服务与保险企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9440/enterprise-account-executive-financial-services-insurance/) |
-| Test Engineer - 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12153/test-engineer/) |
-| AV 工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
-| 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

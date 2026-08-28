@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2585</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2582</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Solutions Engineering, Ads Solutions (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/14857/solutions-engineering-ads-solutions-singapore/) |
+| Revenue Leader - Mid-Market, India | Remote | [View →](https://www.remotejobscan.com/job/14858/revenue-leader-mid-market-india/) |
+| Strategic Finance, International & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
 | Public Relations Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
 | Customer Success - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
 | Staff Data Platform Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
@@ -38,10 +42,6 @@
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 | Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 | Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
-| Enterprise Account Executive, Financial Services & Insurance | On-site | [View →](https://www.remotejobscan.com/job/9440/enterprise-account-executive-financial-services-insurance/) |
-| Test Engineer - 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/12153/test-engineer/) |
-| AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13069/av-engineer/) |
-| Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
