@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2588</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2592</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11417/senior-director-solutions-architecture-americas/) |
+| 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13313/senior-account-executive/) |
 | 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14868/enterprise-account-executive-retail/) |
+| 制造业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
+| 企业客户经理 - 能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
+| 法律专家，执法 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14874/legal-specialist-law-enforcement/) |
+| 应用AI架构师，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
+| 信任与安全广告运营分析师，数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14873/trust-safety-ads-operations-analyst-data/) |
+| 信任与安全广告运营分析师，项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14872/trust-safety-ads-operations-analyst-programs/) |
+| 社交支持高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11895/social-support-senior-manager/) |
+| 高级计算会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
+| 业务运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14871/business-operations-manager/) |
 | 塞浦路斯会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | 储值库后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 渠道赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
@@ -32,16 +43,6 @@
 | 战略财务、国际与市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
 | 公共关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
 | 客户成功 - 欧美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
-| 高级数据平台工程师 - 财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
-| 数据基础设施研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
-| 研究工程师 - 网络爬虫 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
-| 英国及爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
-| 推理研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14846/research-engineer-inference/) |
-| 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| 企业客户经理 - 零售/快速消费品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
-| 产品总监（支付与卡） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
-| 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2588</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2592</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/11417/senior-director-solutions-architecture-americas/) |
+| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13313/senior-account-executive/) |
 | Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/14868/enterprise-account-executive-retail/) |
+| Enterprise Account Executive, Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/14272/enterprise-account-executive-manufacturing/) |
+| Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
+| Legal Specialist, Law Enforcement | On-site | [View →](https://www.remotejobscan.com/job/14874/legal-specialist-law-enforcement/) |
+| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
+| Trust & Safety Ads Operations Analyst, Data | On-site | [View →](https://www.remotejobscan.com/job/14873/trust-safety-ads-operations-analyst-data/) |
+| Trust & Safety Ads Operations Analyst, Programs | On-site | [View →](https://www.remotejobscan.com/job/14872/trust-safety-ads-operations-analyst-programs/) |
+| Social Support Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/11895/social-support-senior-manager/) |
+| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
+| Business Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/14871/business-operations-manager/) |
 | Accountant, Cyprus | Remote | [View →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | Reseller Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
@@ -32,16 +43,6 @@
 | Strategic Finance, International & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
 | Public Relations Manager | Remote | [View →](https://www.remotejobscan.com/job/14720/public-relations-manager/) |
 | Customer Success - EMEA | Remote | [View →](https://www.remotejobscan.com/job/14854/customer-success-emea/) |
-| Staff Data Platform Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
-| Research Engineer - Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
-| Research Engineer - Web Crawlers | Remote | [View →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
-| Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
-| Research Engineer - Inference | Remote | [View →](https://www.remotejobscan.com/job/14846/research-engineer-inference/) |
-| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
-| Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
-| Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
