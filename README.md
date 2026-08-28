@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2573</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2565</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
+| 企业客户经理 - 零售/快速消费品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
+| 产品总监（支付与卡） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 | 欧洲、中东、非洲及亚洲区销售与战略财务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 | 日本及韩国经销商运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
@@ -37,11 +41,6 @@
 | 法币产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
 | 产品市场经理，Prime & Markets | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | 政府业务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14797/account-director-government/) |
-| 教育应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
-| 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
-| 市场科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
-| 应用AI架构师，战略企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
-| 高级内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2573</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2565</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
+| Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
+| Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 | Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
@@ -37,11 +41,6 @@
 | Product Manager / Director, Fiat | On-site | [View →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
 | Product Marketing Manager, Prime & Markets | Remote | [View →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | Account Director, Government | Remote | [View →](https://www.remotejobscan.com/job/14797/account-director-government/) |
-| Applied AI Architect, Edu | Hybrid | [View →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
-| Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
-| Marketing Scientist | Hybrid | [View →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
-| Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
-| Senior Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
