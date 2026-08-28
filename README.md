@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2582</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2583</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级数据平台工程师 - 财务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
 | 数据基础设施研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
 | 研究工程师 - 网络爬虫 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
 | 英国及爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
@@ -41,7 +42,6 @@
 | 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 | 企业客户总监 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | 高级支持工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
-| 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
