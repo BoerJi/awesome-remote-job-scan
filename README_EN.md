@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2571</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2575</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
+| Enterprise Account Executive, Financial Services & Insurance | On-site | [View →](https://www.remotejobscan.com/job/9440/enterprise-account-executive-financial-services-insurance/) |
+| Test Engineer - 测试工程师 | Remote | [View →](https://www.remotejobscan.com/job/12153/test-engineer/) |
+| AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13069/av-engineer/) |
+| Growth Manager/Director- KuCoin EU | Remote | [View →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 | Account Director, Enterprise - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | Manager, Senior Support Engineering | On-site | [View →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 | Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
@@ -37,11 +42,6 @@
 | Senior Support Specialist, Ads | Remote | [View →](https://www.remotejobscan.com/job/14789/senior-support-specialist-ads/) |
 | Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Product Design Manager, Growth - Consumer | Hybrid | [View →](https://www.remotejobscan.com/job/14782/product-design-manager-growth-consumer/) |
-| Deployed Architect, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
-| Deployed Architect, Professional Services (Amsterdam) | Remote | [View →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
-| Deployed Architect, Professional Services (London) | Remote | [View →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
-| Staff Software Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
-| Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

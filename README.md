@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2571</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2575</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
+| 金融服务与保险企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9440/enterprise-account-executive-financial-services-insurance/) |
+| Test Engineer - 测试工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12153/test-engineer/) |
+| AV 工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
+| 增长经理/总监- KuCoin EU | 远程 | [查看详情 →](https://www.remotejobscan.com/job/5533/growth-managerdirector-kucoin-eu/) |
 | 企业客户总监 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | 高级支持工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 | 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
@@ -37,11 +42,6 @@
 | 高级广告支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14789/senior-support-specialist-ads/) |
 | 硬件平台安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | 产品设计经理，增长 - 消费者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14782/product-design-manager-growth-consumer/) |
-| 部署架构师，专业服务（亚太区） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
-| 部署架构师，专业服务（阿姆斯特丹） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
-| 部署架构师，专业服务（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
-| 高级产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
-| 高级会计师，内部公司及合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
