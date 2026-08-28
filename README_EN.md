@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2586</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2588</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive - Retail | On-site | [View →](https://www.remotejobscan.com/job/14868/enterprise-account-executive-retail/) |
 | Accountant, Cyprus | Remote | [View →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | Reseller Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
@@ -41,7 +42,6 @@
 | Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
 | Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
-| Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

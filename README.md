@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2586</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2588</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14868/enterprise-account-executive-retail/) |
 | 塞浦路斯会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | 储值库后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 渠道赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
@@ -41,7 +42,6 @@
 | 企业客户经理 - 零售/快速消费品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
 | 产品总监（支付与卡） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
-| 欧洲、中东、非洲及亚洲区销售与战略财务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
