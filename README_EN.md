@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2582</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2586</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accountant, Cyprus | Remote | [View →](https://www.remotejobscan.com/job/9310/accountant-cyprus/) |
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Reseller Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/14859/reseller-enablement-lead/) |
 | Solutions Engineering, Ads Solutions (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/14857/solutions-engineering-ads-solutions-singapore/) |
 | Revenue Leader - Mid-Market, India | Remote | [View →](https://www.remotejobscan.com/job/14858/revenue-leader-mid-market-india/) |
 | Strategic Finance, International & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/14856/strategic-finance-international-marketing/) |
@@ -40,8 +42,6 @@
 | Product Director (Pay & Card) | On-site | [View →](https://www.remotejobscan.com/job/6892/product-director-pay-card/) |
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
-| Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
-| Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
