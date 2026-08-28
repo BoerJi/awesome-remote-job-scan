@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2574</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2573</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 | 欧洲、中东、非洲及亚洲区销售与战略财务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 | 日本及韩国经销商运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 | 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
@@ -41,7 +42,6 @@
 | 市场科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
 | 应用AI架构师，战略企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | 高级内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
-| 高级广告支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14789/senior-support-specialist-ads/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

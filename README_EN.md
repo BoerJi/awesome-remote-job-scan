@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2574</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2573</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/14810/finance-strategy-gtm-emea/) |
 | Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 | Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
@@ -41,7 +42,6 @@
 | Marketing Scientist | Hybrid | [View →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
 | Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | Senior Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/senior-internal-communications-manager/) |
-| Senior Support Specialist, Ads | Remote | [View →](https://www.remotejobscan.com/job/14789/senior-support-specialist-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
