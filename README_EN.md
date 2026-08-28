@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Enterprise - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | Manager, Senior Support Engineering | On-site | [View →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 | Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | Product Manager / Director, Fiat | On-site | [View →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
@@ -41,7 +42,6 @@
 | Deployed Architect, Professional Services (London) | Remote | [View →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
 | Staff Software Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
 | Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
-| Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

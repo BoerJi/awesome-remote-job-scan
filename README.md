@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户总监 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | 高级支持工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 | 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | 法币产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
@@ -41,7 +42,6 @@
 | 部署架构师，专业服务（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
 | 高级产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
 | 高级会计师，内部公司及合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
-| 部署工程师，专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
