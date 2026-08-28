@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2564</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2562</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政府业务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14797/account-director-government/) |
 | 教育应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
 | 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
 | 市场科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14794/marketing-scientist/) |
@@ -42,7 +43,6 @@
 | 诉讼总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14780/director-litigation/) |
 | GTM工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
 | 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
-| 数据中心安全事件管理负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14775/incident-management-lead-data-center-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
