@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2565</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2582</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer - Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
+| Research Engineer - Web Crawlers | Remote | [View →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
+| Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
+| Research Engineer - Inference | Remote | [View →](https://www.remotejobscan.com/job/14846/research-engineer-inference/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
@@ -38,9 +42,6 @@
 | Account Director, Enterprise - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | Manager, Senior Support Engineering | On-site | [View →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 | Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
-| Product Manager / Director, Fiat | On-site | [View →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
-| Product Marketing Manager, Prime & Markets | Remote | [View →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
-| Account Director, Government | Remote | [View →](https://www.remotejobscan.com/job/14797/account-director-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

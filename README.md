@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2565</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2582</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据基础设施研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14851/research-engineer-data-infrastructure/) |
+| 研究工程师 - 网络爬虫 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14850/research-engineer-web-crawlers/) |
+| 英国及爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
+| 推理研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14846/research-engineer-inference/) |
 | 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | 企业客户经理 - 零售/快速消费品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
@@ -38,9 +42,6 @@
 | 企业客户总监 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14807/account-director-enterprise-tokyo/) |
 | 高级支持工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14806/manager-senior-support-engineering/) |
 | 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
-| 法币产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
-| 产品市场经理，Prime & Markets | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
-| 政府业务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14797/account-director-government/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
