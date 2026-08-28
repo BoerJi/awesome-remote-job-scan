@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2562</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2570</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
+| Product Manager / Director, Fiat | On-site | [View →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
+| Product Marketing Manager, Prime & Markets | Remote | [View →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | Account Director, Government | Remote | [View →](https://www.remotejobscan.com/job/14797/account-director-government/) |
 | Applied AI Architect, Edu | Hybrid | [View →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
 | Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
@@ -39,10 +42,6 @@
 | Senior Accountant, Intercompany and Consolidations | On-site | [View →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 | Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
 | Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
-| Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
-| Director, Litigation | On-site | [View →](https://www.remotejobscan.com/job/14780/director-litigation/) |
-| GTM Engineer | On-site | [View →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
-| Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-28 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

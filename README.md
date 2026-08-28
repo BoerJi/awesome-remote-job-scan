@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2562</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2570</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
+| 法币产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14803/product-manager-director-fiat/) |
+| 产品市场经理，Prime & Markets | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | 政府业务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14797/account-director-government/) |
 | 教育应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14796/applied-ai-architect-edu/) |
 | 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
@@ -39,10 +42,6 @@
 | 高级会计师，内部公司及合并 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14400/senior-accountant-intercompany-and-consolidations/) |
 | 部署工程师，专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
 | 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
-| 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
-| 诉讼总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14780/director-litigation/) |
-| GTM工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
-| 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-28 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
