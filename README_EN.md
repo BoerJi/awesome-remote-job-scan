@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2588</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2590</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
 | Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer/) |
 | Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
@@ -41,7 +42,6 @@
 | Creative Director | Remote | [View →](https://www.remotejobscan.com/job/14907/creative-director/) |
 | Startup Content Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
 | Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
-| Safety Response Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14905/safety-response-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

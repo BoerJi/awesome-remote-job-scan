@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2588</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2590</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM数据分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
 | 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | 音频视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer/) |
 | 衍生品交易监控助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
@@ -42,7 +43,6 @@
 | 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14907/creative-director/) |
 | 初创企业内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
 | 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
-| 安全响应运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14905/safety-response-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
