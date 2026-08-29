@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2592</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2591</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 | Safeguards Enforcement Lead, Cyber Harms | Remote | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
@@ -41,7 +42,6 @@
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/14910/regulatory-counsel-ai-regulation-us/) |
 | Product Manager, Multi-Cloud Trust & Safety | On-site | [View →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
 | Partner Director, PwC | On-site | [View →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
-| Creative Director | Remote | [View →](https://www.remotejobscan.com/job/14907/creative-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

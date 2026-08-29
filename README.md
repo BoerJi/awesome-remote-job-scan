@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2592</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2591</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 | 网络安全保护执行主管，网络危害 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
 | 技术团队成员（软件工程师，加速团队） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | GTM数据分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
@@ -42,7 +43,6 @@
 | AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14910/regulatory-counsel-ai-regulation-us/) |
 | 多云信任与安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
 | PwC合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
-| 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14907/creative-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
