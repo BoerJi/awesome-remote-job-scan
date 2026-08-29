@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2593</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2594</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive - Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | Director, Finance Systems - Revenue Systems Engineering | On-site | [View →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
 | Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
@@ -41,7 +42,6 @@
 | Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 | Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
 | Account Executive (Mid Market) | Hybrid | [View →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
-| Business Communications Lead, Cybersecurity | Hybrid | [View →](https://www.remotejobscan.com/job/14912/business-communications-lead-cybersecurity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

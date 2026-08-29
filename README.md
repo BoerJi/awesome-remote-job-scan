@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2593</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2594</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | 财务系统总监 - 收入系统工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
 | 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
@@ -42,7 +43,6 @@
 | 高级前端工程师（消费-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
 | 权益代币化会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
 | 客户经理（中市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
-| 商业沟通主管，网络安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14912/business-communications-lead-cybersecurity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
