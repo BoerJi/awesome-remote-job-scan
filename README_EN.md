@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safeguards Enforcement Lead, Cyber Harms | Remote | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
 | Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer/) |
@@ -40,8 +42,6 @@
 | Product Manager, Multi-Cloud Trust & Safety | On-site | [View →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
 | Partner Director, PwC | On-site | [View →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
 | Creative Director | Remote | [View →](https://www.remotejobscan.com/job/14907/creative-director/) |
-| Startup Content Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
-| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全保护执行主管，网络危害 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| 技术团队成员（软件工程师，加速团队） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | GTM数据分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
 | 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | 音频视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer/) |
@@ -41,8 +43,6 @@
 | 多云信任与安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
 | PwC合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
 | 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14907/creative-director/) |
-| 初创企业内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
-| 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
