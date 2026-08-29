@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2592</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2593</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | Director, Finance Systems - Revenue Systems Engineering | On-site | [View →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
 | Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 | Safeguards Enforcement Lead, Cyber Harms | Remote | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
@@ -41,7 +42,6 @@
 | Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
 | Account Executive (Mid Market) | Hybrid | [View →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
 | Business Communications Lead, Cybersecurity | Hybrid | [View →](https://www.remotejobscan.com/job/14912/business-communications-lead-cybersecurity/) |
-| Technical Program Manager, AI Delivery for Public Sector & Defence, Canada | Hybrid | [View →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
