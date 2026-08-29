@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2586</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2588</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
+| AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer/) |
+| Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
+| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 | Senior Counsel, AI & Product Compliance | Hybrid | [View →](https://www.remotejobscan.com/job/14920/senior-counsel-ai-product-compliance/) |
 | Marketing Template | Hybrid | [View →](https://www.remotejobscan.com/job/14919/marketing-template/) |
 | Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
@@ -34,15 +39,9 @@
 | Product Manager, Multi-Cloud Trust & Safety | On-site | [View →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
 | Partner Director, PwC | On-site | [View →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
 | Creative Director | Remote | [View →](https://www.remotejobscan.com/job/14907/creative-director/) |
-| Senior Payroll Specialist | Remote | [View →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | Startup Content Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
 | Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 | Safety Response Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/14905/safety-response-operations-lead/) |
-| Incident Manager - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/14143/incident-manager-detection-response/) |
-| Research Engineer, Production Model Post-Training | On-site | [View →](https://www.remotejobscan.com/job/9575/research-engineer-production-model-post-training/) |
-| Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

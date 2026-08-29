@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2586</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2588</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
+| 音频视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer/) |
+| 衍生品交易监控助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
+| 音视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
+| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| 安全平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 | AI与产品合规高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14920/senior-counsel-ai-product-compliance/) |
 | 营销模板 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14919/marketing-template/) |
 | 高级前端工程师（消费-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
@@ -34,15 +40,9 @@
 | 多云信任与安全产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14909/product-manager-multi-cloud-trust-safety/) |
 | PwC合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14906/partner-director-pwc/) |
 | 创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14907/creative-director/) |
-| 高级薪酬专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9267/senior-payroll-specialist/) |
 | 初创企业内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14904/startup-content-marketing-manager/) |
 | 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13863/technical-deployment-lead/) |
 | 安全响应运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14905/safety-response-operations-lead/) |
-| 事件管理 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14143/incident-manager-detection-response/) |
-| 研究工程师，生产模型后训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9575/research-engineer-production-model-post-training/) |
-| 日本合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13927/it-support-engineer/) |
-| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
