@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,11 +37,6 @@
 | Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
 | Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
 | Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
-| Senior Counsel, AI & Product Compliance | Hybrid | [View →](https://www.remotejobscan.com/job/14920/senior-counsel-ai-product-compliance/) |
-| Marketing Template | Hybrid | [View →](https://www.remotejobscan.com/job/14919/marketing-template/) |
-| Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
-| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| Account Executive (Mid Market) | Hybrid | [View →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

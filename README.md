@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -38,11 +38,6 @@
 | 音视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
 | 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
 | 安全平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
-| AI与产品合规高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14920/senior-counsel-ai-product-compliance/) |
-| 营销模板 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14919/marketing-template/) |
-| 高级前端工程师（消费-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9285/senior-software-engineer-frontend-consumer-payments/) |
-| 权益代币化会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| 客户经理（中市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
