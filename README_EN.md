@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,11 +32,6 @@
 | Market Data Lead | Remote | [View →](https://www.remotejobscan.com/job/14935/market-data-lead/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
-| Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
-| AV Engineer | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer/) |
-| Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
-| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
-| Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-29 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

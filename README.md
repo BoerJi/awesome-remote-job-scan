@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,12 +32,6 @@
 | 市场数据主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14935/market-data-lead/) |
 | 技术团队成员（软件工程师，加速团队） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 | GTM数据分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
-| 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
-| 音频视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer/) |
-| 衍生品交易监控助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
-| 音视频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer/) |
-| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
-| 安全平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-29 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
