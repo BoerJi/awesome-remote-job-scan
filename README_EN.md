@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2594</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2589</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,7 +31,6 @@
 | Traditional Finance PMO (CEO Office) | Remote | [View →](https://www.remotejobscan.com/job/14936/traditional-finance-pmo-ceo-office/) |
 | Market Data Lead | Remote | [View →](https://www.remotejobscan.com/job/14935/market-data-lead/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
-| GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/14925/gtm-data-analytics-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
