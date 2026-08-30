@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2592</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2594</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -29,8 +29,6 @@
 | Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 | Safeguards Enforcement Lead, Cyber Harms | Remote | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
 | Traditional Finance PMO (CEO Office) | Remote | [View →](https://www.remotejobscan.com/job/14936/traditional-finance-pmo-ceo-office/) |
-| Market Data Lead | Remote | [View →](https://www.remotejobscan.com/job/14935/market-data-lead/) |
-| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
