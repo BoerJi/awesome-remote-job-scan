@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,8 +27,6 @@
 | Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | Director, Finance Systems - Revenue Systems Engineering | On-site | [View →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
 | Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
-| Safeguards Enforcement Lead, Cyber Harms | Remote | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
-| Traditional Finance PMO (CEO Office) | Remote | [View →](https://www.remotejobscan.com/job/14936/traditional-finance-pmo-ceo-office/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -91,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 02:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 03:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

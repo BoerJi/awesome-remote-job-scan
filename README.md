@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（6 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,8 +27,6 @@
 | 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | 财务系统总监 - 收入系统工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
 | 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
-| 网络安全保护执行主管，网络危害 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
-| 传统金融PMO（CEO办公室） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14936/traditional-finance-pmo-ceo-office/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -91,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-30 02:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-30 03:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
