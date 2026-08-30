@@ -19,14 +19,13 @@
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（3 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 企业客户经理 - 数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | 财务系统总监 - 收入系统工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
-| 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +88,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-30 03:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-30 04:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,14 +19,13 @@
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Enterprise Account Executive - Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/14107/enterprise-account-executive-digital-native-business/) |
 | Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/14702/product-manager-growth/) |
 | Director, Finance Systems - Revenue Systems Engineering | On-site | [View →](https://www.remotejobscan.com/job/14937/director-finance-systems-revenue-systems-engineering/) |
-| Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 03:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-30 04:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
