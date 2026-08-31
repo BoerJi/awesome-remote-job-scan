@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2589</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2597</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| 运营招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15037/operations-recruiter/) |
+| 欧洲、中东、非洲地区客户专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15036/account-associate-emea/) |
+| 战略体验负责人，高管项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15035/strategic-experiences-lead-executive-programs/) |
 | 国家安全销售主管（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | 硅片战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/strategic-sourcing-lead-silicon/) |
 | 安全平台高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15024/staff-software-engineer-security-platform/) |
@@ -39,10 +43,6 @@
 | 联邦政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15020/account-director-federal-civilian/) |
 | 投资与流动性主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | 高级风险分析助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| 销售财务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10628/sales-finance/) |
-| 产品经理，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
-| 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| 前端工程经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15012/engineering-manager-frontend-consumer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

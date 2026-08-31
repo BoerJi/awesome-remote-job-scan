@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2589</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2597</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| Operations Recruiter | On-site | [View →](https://www.remotejobscan.com/job/15037/operations-recruiter/) |
+| Account Associate - EMEA | On-site | [View →](https://www.remotejobscan.com/job/15036/account-associate-emea/) |
+| Strategic Experiences Lead, Executive Programs | Hybrid | [View →](https://www.remotejobscan.com/job/15035/strategic-experiences-lead-executive-programs/) |
 | Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
 | Strategic Sourcing Lead, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/strategic-sourcing-lead-silicon/) |
 | Staff Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/15024/staff-software-engineer-security-platform/) |
@@ -39,10 +43,6 @@
 | Account Director, Federal Civilian | Hybrid | [View →](https://www.remotejobscan.com/job/15020/account-director-federal-civilian/) |
 | Treasury Director, Investments & Liquidity | Remote | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | Senior Associate, Risk Analytics | Remote | [View →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| Sales Finance | Remote | [View →](https://www.remotejobscan.com/job/10628/sales-finance/) |
-| Product Manager, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
-| Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| Engineering Manager - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/15012/engineering-manager-frontend-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
