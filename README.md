@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2600</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2597</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | 企业客户经理，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 | 收入策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 | 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
@@ -39,7 +40,6 @@
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | Earn Product Manager 理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14998/earn-product-manager/) |
 | 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
-| 币安加速器计划 - 产品运营（收益 & 传统金融） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15003/binance-accelerator-program-product-operations-earn-tradfi/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
