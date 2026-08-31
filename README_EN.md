@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2600</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2614</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Integrated Marketing Lead, Brand & Policy | Hybrid | [View →](https://www.remotejobscan.com/job/15058/integrated-marketing-lead-brand-policy/) |
+| Engineering Manager, Core Services | On-site | [View →](https://www.remotejobscan.com/job/15055/engineering-manager-core-services/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
+| Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
+| AI Support Engineer, Government - Washington, D.C. | Hybrid | [View →](https://www.remotejobscan.com/job/15057/ai-support-engineer-government-washington-dc/) |
+| AI Support Engineer, Government - San Francisco, CA | Hybrid | [View →](https://www.remotejobscan.com/job/15056/ai-support-engineer-government-san-francisco-ca/) |
+| Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/15052/operations-senior-associate/) |
+| Cyber Operations Lead, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15049/cyber-operations-lead-critical-harm-operations/) |
+| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/15048/account-director-startups/) |
+| Lead, Technical Accounting (Compute Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
+| Scaled Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
 | Research Program Manager | On-site | [View →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
 | Internal Communications Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
@@ -32,17 +43,6 @@
 | Account Director, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/15041/account-director-higher-education/) |
 | Policy and Partnerships Lead CEE and Baltics, Global Affairs | Remote | [View →](https://www.remotejobscan.com/job/15039/policy-and-partnerships-lead-cee-and-baltics-global-affairs/) |
 | Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| Operations Recruiter | On-site | [View →](https://www.remotejobscan.com/job/15037/operations-recruiter/) |
-| Account Associate - EMEA | On-site | [View →](https://www.remotejobscan.com/job/15036/account-associate-emea/) |
-| Strategic Experiences Lead, Executive Programs | Hybrid | [View →](https://www.remotejobscan.com/job/15035/strategic-experiences-lead-executive-programs/) |
-| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| Strategic Sourcing Lead, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/strategic-sourcing-lead-silicon/) |
-| Staff Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/15024/staff-software-engineer-security-platform/) |
-| Applied AI Research (Capabilities) | On-site | [View →](https://www.remotejobscan.com/job/15025/applied-ai-research-capabilities/) |
-| Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
-| Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
-| Systems Integration Engineer, Build Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2600</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2614</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 整合营销主管，品牌与政策 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15058/integrated-marketing-lead-brand-policy/) |
+| 核心服务工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15055/engineering-manager-core-services/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
+| AI支持工程师，政府 - 华盛顿特区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15057/ai-support-engineer-government-washington-dc/) |
+| AI支持工程师，政府 - 圣弗朗西斯科，CA | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15056/ai-support-engineer-government-san-francisco-ca/) |
+| 运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15052/operations-senior-associate/) |
+| 网络安全运营主管，关键伤害运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15049/cyber-operations-lead-critical-harm-operations/) |
+| 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15048/account-director-startups/) |
+| 计算基础设施技术会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
+| 规模化合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
 | 研究项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
 | 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | 前派部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
@@ -32,17 +42,6 @@
 | 高等教育客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15041/account-director-higher-education/) |
 | 中欧和波罗的海政策与合作伙伴关系负责人，全球事务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15039/policy-and-partnerships-lead-cee-and-baltics-global-affairs/) |
 | 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| 运营招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15037/operations-recruiter/) |
-| 欧洲、中东、非洲地区客户专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15036/account-associate-emea/) |
-| 战略体验负责人，高管项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15035/strategic-experiences-lead-executive-programs/) |
-| 国家安全销售主管（国防部/情报局） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
-| 硅片战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14363/strategic-sourcing-lead-silicon/) |
-| 安全平台高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15024/staff-software-engineer-security-platform/) |
-| 应用AI研究（能力） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15025/applied-ai-research-capabilities/) |
-| 高级客户经理 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
-| 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
-| 系统集成工程师，构建系统 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
