@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2590</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2592</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 | Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/14984/compliance-specialist/) |
 | Senior Software Engineer, Trading Systems (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-trading-systems-full-stack-react/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -88,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
