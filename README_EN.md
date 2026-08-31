@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2604</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2602</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Program Manager | On-site | [View →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
+| Internal Communications Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
 | Software Engineer, Safety Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
 | Mid-Market Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
@@ -41,8 +43,6 @@
 | Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
 | Systems Integration Engineer, Build Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
-| People Research Data Scientist, AI Fairness & Bias | Hybrid | [View →](https://www.remotejobscan.com/job/15022/people-research-data-scientist-ai-fairness-bias/) |
-| Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

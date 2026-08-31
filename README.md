@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2604</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2602</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
+| 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | 前派部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
 | 软件工程师，安全工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
 | 中市场客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
@@ -41,8 +43,6 @@
 | 高级客户经理 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
 | 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
 | 系统集成工程师，构建系统 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
-| 人力资源研究数据科学家，AI公平性与偏见 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15022/people-research-data-scientist-ai-fairness-bias/) |
-| 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
