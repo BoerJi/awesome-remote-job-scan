@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2597</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2593</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 做市风控主管 | Remote | [View →](https://www.remotejobscan.com/job/14713/job-14713/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | Enterprise Account Executive, Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 | Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
@@ -36,7 +37,6 @@
 | Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
 | Enterprise Account Executive, Conglomerate | On-site | [View →](https://www.remotejobscan.com/job/9431/enterprise-account-executive-conglomerate/) |
 | Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
-| Partner Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/9516/partner-solutions-architect-applied-ai/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/14998/earn-product-manager/) |
 | Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
