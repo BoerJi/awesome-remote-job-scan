@@ -14,16 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2592</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2585</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/14998/earn-product-manager/) |
+| Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
+| Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/15002/applied-ai-architect/) |
 | Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
+| Binance Accelerator Program - Product Operations (Earn & TradFi) | Remote | [View →](https://www.remotejobscan.com/job/15003/binance-accelerator-program-product-operations-earn-tradfi/) |
 | Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/14984/compliance-specialist/) |
 | Senior Software Engineer, Trading Systems (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-trading-systems-full-stack-react/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -89,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

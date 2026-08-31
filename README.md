@@ -14,16 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2592</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2585</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Earn Product Manager 理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14998/earn-product-manager/) |
+| 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
+| 应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15002/applied-ai-architect/) |
 | 收入战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
+| 币安加速器计划 - 产品运营（收益 & 传统金融） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15003/binance-accelerator-program-product-operations-earn-tradfi/) |
 | 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14984/compliance-specialist/) |
 | 高级软件工程师，交易系统（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-trading-systems-full-stack-react/) |
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -89,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
