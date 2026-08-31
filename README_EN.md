@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2598</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2600</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
+| Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 | Channel Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
 | Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
 | Senior Software Engineer - Rust - Backend - Pro | Remote | [View →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
@@ -38,8 +40,6 @@
 | Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/14998/earn-product-manager/) |
 | Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
 | Binance Accelerator Program - Product Operations (Earn & TradFi) | Remote | [View →](https://www.remotejobscan.com/job/15003/binance-accelerator-program-product-operations-earn-tradfi/) |
-| Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/14984/compliance-specialist/) |
-| Senior Software Engineer, Trading Systems (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-trading-systems-full-stack-react/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
