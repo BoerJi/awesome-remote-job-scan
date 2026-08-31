@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2593</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2594</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售财务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10628/sales-finance/) |
+| 产品经理，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
+| 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
 | 前端工程经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15012/engineering-manager-frontend-consumer/) |
 | 企业应用AI工程师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15014/manager-applied-ai-engineering-enterprise/) |
 | 应用AI工程经理（初创企业） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15013/manager-applied-ai-engineering-startups/) |
@@ -39,9 +42,6 @@
 | 企业客户经理，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 | 收入策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 | 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
-| 日本合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
-| 高级软件工程师 - Rust - 后端 - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
-| 企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
