@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2597</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2604</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前派部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
+| 软件工程师，安全工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
+| 中市场客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
+| 风险投资合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15040/vc-partnerships-manager/) |
+| 高等教育客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15041/account-director-higher-education/) |
+| 中欧和波罗的海政策与合作伙伴关系负责人，全球事务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15039/policy-and-partnerships-lead-cee-and-baltics-global-affairs/) |
+| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 | GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 | 运营招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15037/operations-recruiter/) |
 | 欧洲、中东、非洲地区客户专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15036/account-associate-emea/) |
@@ -36,13 +43,6 @@
 | 系统集成工程师，构建系统 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
 | 人力资源研究数据科学家，AI公平性与偏见 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15022/people-research-data-scientist-ai-fairness-bias/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
-| GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
-| 高级交易运营专员（经纪商） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| 机器学习基础设施高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
-| 特币与银行运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| 联邦政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15020/account-director-federal-civilian/) |
-| 投资与流动性主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
-| 高级风险分析助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

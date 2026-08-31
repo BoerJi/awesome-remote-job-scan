@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2597</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2604</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
+| Software Engineer, Safety Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
+| Mid-Market Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
+| VC Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15040/vc-partnerships-manager/) |
+| Account Director, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/15041/account-director-higher-education/) |
+| Policy and Partnerships Lead CEE and Baltics, Global Affairs | Remote | [View →](https://www.remotejobscan.com/job/15039/policy-and-partnerships-lead-cee-and-baltics-global-affairs/) |
+| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 | Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 | Operations Recruiter | On-site | [View →](https://www.remotejobscan.com/job/15037/operations-recruiter/) |
 | Account Associate - EMEA | On-site | [View →](https://www.remotejobscan.com/job/15036/account-associate-emea/) |
@@ -36,13 +43,6 @@
 | Systems Integration Engineer, Build Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
 | People Research Data Scientist, AI Fairness & Bias | Hybrid | [View →](https://www.remotejobscan.com/job/15022/people-research-data-scientist-ai-fairness-bias/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
-| Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
-| Senior Associate, Trading Operations (Broker Dealer) | Remote | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
-| Senior Technical Program Manager, Machine Learning Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
-| Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| Account Director, Federal Civilian | Hybrid | [View →](https://www.remotejobscan.com/job/15020/account-director-federal-civilian/) |
-| Treasury Director, Investments & Liquidity | Remote | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
-| Senior Associate, Risk Analytics | Remote | [View →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
