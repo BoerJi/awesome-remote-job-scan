@@ -14,23 +14,32 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2585</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2598</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Channel Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/14741/channel-partner-manager/) |
+| Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
+| Senior Software Engineer - Rust - Backend - Pro | Remote | [View →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
+| Sales Director, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
+| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
+| Finance & Strategy, GTM - Korea | On-site | [View →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
+| Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
+| Enterprise Account Executive, Conglomerate | On-site | [View →](https://www.remotejobscan.com/job/9431/enterprise-account-executive-conglomerate/) |
+| Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
+| Partner Solutions Architect, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/9516/partner-solutions-architect-applied-ai/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/14998/earn-product-manager/) |
 | Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
-| Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/15002/applied-ai-architect/) |
-| Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/14212/revenue-strategy-operations/) |
 | Binance Accelerator Program - Product Operations (Earn & TradFi) | Remote | [View →](https://www.remotejobscan.com/job/15003/binance-accelerator-program-product-operations-earn-tradfi/) |
 | Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/14984/compliance-specialist/) |
 | Senior Software Engineer, Trading Systems (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-trading-systems-full-stack-react/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
