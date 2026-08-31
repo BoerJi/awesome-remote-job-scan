@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2589</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2595</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
+| Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
+| Systems Integration Engineer, Build Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
+| People Research Data Scientist, AI Fairness & Bias | Hybrid | [View →](https://www.remotejobscan.com/job/15022/people-research-data-scientist-ai-fairness-bias/) |
+| Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
+| Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
+| Senior Associate, Trading Operations (Broker Dealer) | Remote | [View →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
+| Senior Technical Program Manager, Machine Learning Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
+| Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | Account Director, Federal Civilian | Hybrid | [View →](https://www.remotejobscan.com/job/15020/account-director-federal-civilian/) |
 | Treasury Director, Investments & Liquidity | Remote | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | Senior Associate, Risk Analytics | Remote | [View →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
@@ -34,14 +43,6 @@
 | Manager, Applied AI Engineering (Startups) | Hybrid | [View →](https://www.remotejobscan.com/job/15013/manager-applied-ai-engineering-startups/) |
 | Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
 | PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
-| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
-| Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
-| Trading Initiatives & Business Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15010/trading-initiatives-business-manager/) |
-| API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
-| 做市风控主管 | Remote | [View →](https://www.remotejobscan.com/job/14713/job-14713/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

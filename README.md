@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2589</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2595</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户经理 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
+| 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
+| 系统集成工程师，构建系统 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
+| 人力资源研究数据科学家，AI公平性与偏见 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15022/people-research-data-scientist-ai-fairness-bias/) |
+| 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10845/senior-security-engineer/) |
+| GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11414/engineering-manager-gpu-infrastructure/) |
+| 高级交易运营专员（经纪商） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9138/senior-associate-trading-operations-broker-dealer/) |
+| 机器学习基础设施高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
+| 特币与银行运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | 联邦政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15020/account-director-federal-civilian/) |
 | 投资与流动性主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | 高级风险分析助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
@@ -34,14 +43,6 @@
 | 应用AI工程经理（初创企业） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15013/manager-applied-ai-engineering-startups/) |
 | 企业客户经理 - 能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
 | 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
-| 高级/首席移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| 应用AI架构师，工业领域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
-| 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
-| 交易倡议与业务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15010/trading-initiatives-business-manager/) |
-| API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
-| 做市风控主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14713/job-14713/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
