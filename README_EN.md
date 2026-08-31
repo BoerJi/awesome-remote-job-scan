@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2595</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2589</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of National Security Sales (DoW/IC) | On-site | [View →](https://www.remotejobscan.com/job/14370/head-of-national-security-sales-dowic/) |
+| Strategic Sourcing Lead, Silicon | Remote | [View →](https://www.remotejobscan.com/job/14363/strategic-sourcing-lead-silicon/) |
+| Staff Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/15024/staff-software-engineer-security-platform/) |
+| Applied AI Research (Capabilities) | On-site | [View →](https://www.remotejobscan.com/job/15025/applied-ai-research-capabilities/) |
 | Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/13545/senior-account-executive-montrealatlantic-canada/) |
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/11903/business-development-representative/) |
 | Systems Integration Engineer, Build Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15023/systems-integration-engineer-build-systems-consumer-devices/) |
@@ -39,10 +43,6 @@
 | Product Manager, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
 | Engineering Manager - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/15012/engineering-manager-frontend-consumer/) |
-| Manager, Applied AI Engineering (Enterprise) | Hybrid | [View →](https://www.remotejobscan.com/job/15014/manager-applied-ai-engineering-enterprise/) |
-| Manager, Applied AI Engineering (Startups) | Hybrid | [View →](https://www.remotejobscan.com/job/15013/manager-applied-ai-engineering-startups/) |
-| Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
-| PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
