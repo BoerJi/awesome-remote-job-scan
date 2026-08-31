@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/14984/compliance-specialist/) |
 | Senior Software Engineer, Trading Systems (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-trading-systems-full-stack-react/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -87,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
