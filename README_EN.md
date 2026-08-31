@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2612</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2615</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
+| Software Engineer, Integrity Foundations - London | On-site | [View →](https://www.remotejobscan.com/job/15059/software-engineer-integrity-foundations-london/) |
+| Legal Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15060/legal-operations-manager/) |
 | Integrated Marketing Lead, Brand & Policy | Hybrid | [View →](https://www.remotejobscan.com/job/15058/integrated-marketing-lead-brand-policy/) |
 | Engineering Manager, Core Services | On-site | [View →](https://www.remotejobscan.com/job/15055/engineering-manager-core-services/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Safety Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
 | Mid-Market Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
 | VC Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15040/vc-partnerships-manager/) |
-| Account Director, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/15041/account-director-higher-education/) |
-| Policy and Partnerships Lead CEE and Baltics, Global Affairs | Remote | [View →](https://www.remotejobscan.com/job/15039/policy-and-partnerships-lead-cee-and-baltics-global-affairs/) |
-| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2612</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2615</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心基础设施架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
+| 软件工程师，诚信基础 - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15059/software-engineer-integrity-foundations-london/) |
+| 法务运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15060/legal-operations-manager/) |
 | 整合营销主管，品牌与政策 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15058/integrated-marketing-lead-brand-policy/) |
 | 核心服务工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15055/engineering-manager-core-services/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
@@ -39,9 +42,6 @@
 | 软件工程师，安全工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
 | 中市场客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
 | 风险投资合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15040/vc-partnerships-manager/) |
-| 高等教育客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15041/account-director-higher-education/) |
-| 中欧和波罗的海政策与合作伙伴关系负责人，全球事务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15039/policy-and-partnerships-lead-cee-and-baltics-global-affairs/) |
-| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
