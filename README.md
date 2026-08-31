@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2594</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2596</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
+| 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
 | 高级/首席移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | 应用AI架构师，工业领域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
@@ -39,8 +41,6 @@
 | 企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| 财务与战略，韩国GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
-| 企业账户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

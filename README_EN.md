@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2594</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2596</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
+| PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/13495/applied-ai-architect-industries/) |
@@ -39,8 +41,6 @@
 | Sales Director, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| Finance & Strategy, GTM - Korea | On-site | [View →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
-| Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
