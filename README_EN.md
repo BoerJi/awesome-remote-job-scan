@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2596</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2594</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/15012/engineering-manager-frontend-consumer/) |
+| Manager, Applied AI Engineering (Enterprise) | Hybrid | [View →](https://www.remotejobscan.com/job/15014/manager-applied-ai-engineering-enterprise/) |
+| Manager, Applied AI Engineering (Startups) | Hybrid | [View →](https://www.remotejobscan.com/job/15013/manager-applied-ai-engineering-startups/) |
 | Enterprise Account Executive - Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
 | PMO | Remote | [View →](https://www.remotejobscan.com/job/13266/pmo/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
@@ -39,8 +42,6 @@
 | Head of Partnerships, Japan | On-site | [View →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
 | Senior Software Engineer - Rust - Backend - Pro | Remote | [View →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
 | Sales Director, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-08-31 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

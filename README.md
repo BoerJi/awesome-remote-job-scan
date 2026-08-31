@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2596</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2594</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前端工程经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15012/engineering-manager-frontend-consumer/) |
+| 企业应用AI工程师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15014/manager-applied-ai-engineering-enterprise/) |
+| 应用AI工程经理（初创企业） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15013/manager-applied-ai-engineering-startups/) |
 | 企业客户经理 - 能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14487/enterprise-account-executive-energy-utilities/) |
 | 项目管理办公室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13266/pmo/) |
 | 高级/首席移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
@@ -39,8 +42,6 @@
 | 日本合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14431/head-of-partnerships-japan/) |
 | 高级软件工程师 - Rust - 后端 - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
 | 企业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14406/sales-director-enterprise/) |
-| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-08-31 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
