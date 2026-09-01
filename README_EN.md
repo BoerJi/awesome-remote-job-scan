@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2612</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2616</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Account Executive - Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
+| Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15064/counsel-product/) |
+| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | Software Engineer, Integrity Foundations - London | On-site | [View →](https://www.remotejobscan.com/job/15059/software-engineer-integrity-foundations-london/) |
 | Legal Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15060/legal-operations-manager/) |
@@ -40,9 +43,6 @@
 | Research Program Manager | On-site | [View →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
 | Internal Communications Manager, Tech | On-site | [View →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
-| Software Engineer, Safety Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
-| Mid-Market Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
-| VC Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15040/vc-partnerships-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

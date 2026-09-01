@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2612</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2616</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业销售客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
+| 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15064/counsel-product/) |
+| BDR赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | 数据中心基础设施架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | 软件工程师，诚信基础 - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15059/software-engineer-integrity-foundations-london/) |
 | 法务运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15060/legal-operations-manager/) |
@@ -39,9 +42,6 @@
 | 研究项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
 | 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
 | 前派部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
-| 软件工程师，安全工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15043/software-engineer-safety-engineering/) |
-| 中市场客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15044/mid-market-account-manager/) |
-| 风险投资合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15040/vc-partnerships-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
