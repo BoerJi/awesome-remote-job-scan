@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务总监（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15119/customer-success-manager/) |
+| 运营专员 - 海湾Binance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
 | Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
 | P2P合作伙伴运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
 | 大中华区业务拓展副理（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
@@ -39,9 +42,6 @@
 | GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 | 企业客户经理，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
-| AI代理安全架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
-| 政府应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
-| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

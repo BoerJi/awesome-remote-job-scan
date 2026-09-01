@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/15119/customer-success-manager/) |
+| Operations Specialist - Gulf Binance | Hybrid | [View →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
 | Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
 | P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
 | Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
@@ -39,9 +42,6 @@
 | GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
 | Enterprise Account Executive, Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
-| AI Agent Security Architect | Hybrid | [View →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
-| Applied AI Architect, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
-| Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
