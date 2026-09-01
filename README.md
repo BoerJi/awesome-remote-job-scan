@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2616</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2615</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政府应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 | GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 企业销售客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
@@ -41,7 +42,6 @@
 | 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15048/account-director-startups/) |
 | 计算基础设施技术会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
 | 规模化合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
-| 研究项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

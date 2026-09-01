@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2616</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2615</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 | GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Manager, Account Executive - Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
@@ -42,7 +43,6 @@
 | Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/15048/account-director-startups/) |
 | Lead, Technical Accounting (Compute Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
 | Scaled Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
-| Research Program Manager | On-site | [View →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
