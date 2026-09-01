@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2626</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2625</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead/Manager Site Reliability Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-site-reliability-engineering-team-amsterdam/) |
+| AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
+| Community & Events Manager (Turkey) | Remote | [View →](https://www.remotejobscan.com/job/15126/community-events-manager-turkey/) |
 | AI Product Manager – Cross-Border Payments | Hybrid | [View →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
 | Compliance Analyst - KYB | Remote | [View →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
 | Communications Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
@@ -39,9 +42,6 @@
 | Administrative Business Partner, GTM | On-site | [View →](https://www.remotejobscan.com/job/15101/administrative-business-partner-gtm/) |
 | Legal Counsel - Commercial, Marketing & IP - EMEA (Remote) | On-site | [View →](https://www.remotejobscan.com/job/15100/legal-counsel-commercial-marketing-ip-emea-remote/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
-| Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
-| Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
-| Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2626</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2625</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 阿姆斯特丹站点可靠性工程团队负责人/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-site-reliability-engineering-team-amsterdam/) |
+| AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
+| 社区与活动经理（土耳其） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15126/community-events-manager-turkey/) |
 | AI产品经理 - 跨境支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
 | 合规分析师 - KYB | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
 | DACH地区沟通主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
@@ -39,9 +42,6 @@
 | 行政业务合作伙伴，GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15101/administrative-business-partner-gtm/) |
 | 法律顾问 - 商业、营销与知识产权 - EMEA (远程) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15100/legal-counsel-commercial-marketing-ip-emea-remote/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
-| 企业客户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
-| 企业客户经理 - 零售/快消品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
-| 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
