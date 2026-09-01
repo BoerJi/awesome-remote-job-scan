@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2635</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2638</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Platform Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15147/platform-product-partnerships-lead/) |
+| Data Scientist - AI Safety | Hybrid | [View →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
+| Senior Staff Software Engineer, Finhub | Remote | [View →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
+| Senior Staff Software Engineer, Payments | Remote | [View →](https://www.remotejobscan.com/job/9297/senior-staff-software-engineer-payments/) |
 | Engineering Manager, Scheduler and Fleet Efficiency | On-site | [View →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
 | Technical Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
 | Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
@@ -37,12 +41,6 @@
 | Strategic Account Executive, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15139/strategic-account-executive-life-sciences/) |
 | Strategic Account Executive, Retail & Commercial Banking | On-site | [View →](https://www.remotejobscan.com/job/15140/strategic-account-executive-retail-commercial-banking/) |
 | Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
-| AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
-| Community & Events Manager (Turkey) | Remote | [View →](https://www.remotejobscan.com/job/15126/community-events-manager-turkey/) |
-| AI Product Manager – Cross-Border Payments | Hybrid | [View →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
-| Compliance Analyst - KYB | Remote | [View →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
-| Communications Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
-| Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

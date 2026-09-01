@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2635</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2638</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台产品合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15147/platform-product-partnerships-lead/) |
+| 数据科学家 - AI安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
+| 高级核心软件工程师，Finhub | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
+| Finhub高级Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15146/senior-staff-software-engineer-finhub/) |
+| 高级staff软件工程师，支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9297/senior-staff-software-engineer-payments/) |
 | 调度与舰队效率工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
 | 技术项目经理，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
 | 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
@@ -37,12 +42,6 @@
 | 生命科学领域战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15139/strategic-account-executive-life-sciences/) |
 | 零售与商业银行战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15140/strategic-account-executive-retail-commercial-banking/) |
 | 企业客户经理，汽车行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
-| AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
-| 社区与活动经理（土耳其） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15126/community-events-manager-turkey/) |
-| AI产品经理 - 跨境支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
-| 合规分析师 - KYB | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
-| DACH地区沟通主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
-| 财务总监（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
