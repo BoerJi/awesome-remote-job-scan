@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2643</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2641</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15159/head-of-corporate-development/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
 | Chief Information Security Officer (CISO) | Hybrid | [View →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
 | Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
@@ -40,7 +41,6 @@
 | Senior Staff Software Engineer, Payments | Remote | [View →](https://www.remotejobscan.com/job/9297/senior-staff-software-engineer-payments/) |
 | Engineering Manager, Scheduler and Fleet Efficiency | On-site | [View →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
 | Technical Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
-| Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

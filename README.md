@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2643</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2641</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业发展战略负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15159/head-of-corporate-development/) |
 | 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
 | 首席信息安全官 (CISO) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
 | 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
@@ -41,7 +42,6 @@
 | 高级staff软件工程师，支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9297/senior-staff-software-engineer-payments/) |
 | 调度与舰队效率工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
 | 技术项目经理，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
-| 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
