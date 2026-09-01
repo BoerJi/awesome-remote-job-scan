@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2632</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2635</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Scheduler and Fleet Efficiency | On-site | [View →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
+| Technical Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
+| Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
+| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
 | Lead/Manager AI Infra Systems Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
 | Strategic Account Executive, Investment Banking & Capital Markets | On-site | [View →](https://www.remotejobscan.com/job/15138/strategic-account-executive-investment-banking-capital-markets/) |
@@ -39,10 +43,6 @@
 | Compliance Analyst - KYB | Remote | [View →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
 | Communications Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
 | Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/15119/customer-success-manager/) |
-| Operations Specialist - Gulf Binance | Hybrid | [View →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
-| Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
-| P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 16:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
