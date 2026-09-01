@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2643</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2639</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Cyber Evaluations Engineer | On-site | [View →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
+| Technical Program Manager, Foundations Data and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15177/technical-program-manager-foundations-data-and-operations/) |
+| Applied AI Engineer, Cyber, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15175/applied-ai-engineer-cyber-government/) |
+| Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
+| Infrastructure Sourcing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15176/infrastructure-sourcing-operations-lead/) |
 | Strategic Deals Lead, Compute Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
 | Technical Product Marketing Manager (Staff) | On-site | [View →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
 | Deal Strategy, AMER | Hybrid | [View →](https://www.remotejobscan.com/job/15171/deal-strategy-amer/) |
@@ -38,11 +43,6 @@
 | Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | Strategic Finance Lead — AI | Hybrid | [View →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
 | Strategic Finance Lead — Compute | Hybrid | [View →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
-| Security Engineer - Threat Intel | Remote | [View →](https://www.remotejobscan.com/job/15160/security-engineer-threat-intel/) |
-| Head of Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15159/head-of-corporate-development/) |
-| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
-| Chief Information Security Officer (CISO) | Hybrid | [View →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
-| Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

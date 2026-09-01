@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2643</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2639</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全评估工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
+| 基础数据与运营技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15177/technical-program-manager-foundations-data-and-operations/) |
+| 应用AI工程师，网络安全，政府 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15175/applied-ai-engineer-cyber-government/) |
+| 销售赋能主管，GTM入职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
+| 基础设施采购运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15176/infrastructure-sourcing-operations-lead/) |
 | 战略交易负责人，计算合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
 | 技术产品营销经理（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
 | 美国区交易策略 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15171/deal-strategy-amer/) |
@@ -38,11 +43,6 @@
 | 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | AI战略财务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
 | 战略财务主管—计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
-| 安全工程师 - 威胁情报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15160/security-engineer-threat-intel/) |
-| 企业发展战略负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15159/head-of-corporate-development/) |
-| 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
-| 首席信息安全官 (CISO) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
-| 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
