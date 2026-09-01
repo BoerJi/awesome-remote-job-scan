@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2638</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2632</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
+| Strategic Finance Lead — AI | Hybrid | [View →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
+| Strategic Finance Lead — Compute | Hybrid | [View →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
+| Security Engineer - Threat Intel | Remote | [View →](https://www.remotejobscan.com/job/15160/security-engineer-threat-intel/) |
 | Head of Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15159/head-of-corporate-development/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
 | Chief Information Security Officer (CISO) | Hybrid | [View →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
@@ -38,9 +42,6 @@
 | Platform Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15147/platform-product-partnerships-lead/) |
 | Data Scientist - AI Safety | Hybrid | [View →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
 | Senior Staff Software Engineer, Finhub | Remote | [View →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
-| Senior Staff Software Engineer, Payments | Remote | [View →](https://www.remotejobscan.com/job/9297/senior-staff-software-engineer-payments/) |
-| Engineering Manager, Scheduler and Fleet Efficiency | On-site | [View →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
-| Technical Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

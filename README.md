@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2638</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2632</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
+| AI战略财务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
+| 战略财务主管—计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
+| 安全工程师 - 威胁情报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15160/security-engineer-threat-intel/) |
 | 企业发展战略负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15159/head-of-corporate-development/) |
 | 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
 | 首席信息安全官 (CISO) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
@@ -39,9 +43,6 @@
 | 数据科学家 - AI安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
 | 高级核心软件工程师，Finhub | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
 | Finhub高级Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15146/senior-staff-software-engineer-finhub/) |
-| 高级staff软件工程师，支付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9297/senior-staff-software-engineer-payments/) |
-| 调度与舰队效率工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
-| 技术项目经理，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
