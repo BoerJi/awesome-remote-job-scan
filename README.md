@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2622</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2625</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
+| P2P合作伙伴运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
+| 大中华区业务拓展副理（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
+| 欧洲中东地区（德语）客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
+| 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15108/manager-applied-ai-architects/) |
 | 高级软件工程师—基础设施代理系统英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 行政业务合作伙伴，GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15101/administrative-business-partner-gtm/) |
@@ -37,12 +42,6 @@
 | AI代理安全架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
 | 政府应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| 企业销售客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
-| 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15064/counsel-product/) |
-| BDR赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| 数据中心基础设施架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
-| 软件工程师，诚信基础 - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15059/software-engineer-integrity-foundations-london/) |
-| 法务运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15060/legal-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

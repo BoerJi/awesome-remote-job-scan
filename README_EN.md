@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2622</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2625</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
+| P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
+| Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
+| Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
+| Manager, Applied AI Architects | Hybrid | [View →](https://www.remotejobscan.com/job/15108/manager-applied-ai-architects/) |
 | Senior Software Engineer — Infra Agent Systems UK | On-site | [View →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Administrative Business Partner, GTM | On-site | [View →](https://www.remotejobscan.com/job/15101/administrative-business-partner-gtm/) |
@@ -37,12 +42,6 @@
 | AI Agent Security Architect | Hybrid | [View →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
 | Applied AI Architect, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| Manager, Account Executive - Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
-| Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15064/counsel-product/) |
-| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
-| Software Engineer, Integrity Foundations - London | On-site | [View →](https://www.remotejobscan.com/job/15059/software-engineer-integrity-foundations-london/) |
-| Legal Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15060/legal-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
