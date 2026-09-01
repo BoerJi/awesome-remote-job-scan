@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2625</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2626</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI产品经理 - 跨境支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
+| 合规分析师 - KYB | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
+| DACH地区沟通主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
 | 财务总监（集团合并与报告团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15119/customer-success-manager/) |
 | 运营专员 - 海湾Binance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
@@ -39,9 +42,6 @@
 | 企业客户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
 | 企业客户经理 - 零售/快消品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
 | 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
-| GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
-| 企业客户经理，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

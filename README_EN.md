@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2625</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2626</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Product Manager – Cross-Border Payments | Hybrid | [View →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
+| Compliance Analyst - KYB | Remote | [View →](https://www.remotejobscan.com/job/15125/compliance-analyst-kyb/) |
+| Communications Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/15122/communications-lead-dach/) |
 | Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/15119/customer-success-manager/) |
 | Operations Specialist - Gulf Binance | Hybrid | [View →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
@@ -39,9 +42,6 @@
 | Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
 | Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
 | Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
-| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
-| Enterprise Account Executive, Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
