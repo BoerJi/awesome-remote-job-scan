@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2632</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2643</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略交易负责人，计算合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
+| 技术产品营销经理（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
+| 美国区交易策略 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15171/deal-strategy-amer/) |
+| 企业开发寻源主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15165/sourcing-lead-corporate-development/) |
+| EMEA交易策略主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15172/head-of-deal-strategy-emea/) |
+| AWS全球系统合作伙伴业务拓展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
+| 高级软件工程师，开发者基础设施（测试基础设施） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
+| 企业事务高级项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
+| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
+| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15164/account-manager-corporate/) |
 | 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | AI战略财务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
 | 战略财务主管—计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
@@ -31,18 +43,6 @@
 | 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
 | 首席信息安全官 (CISO) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
 | 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
-| 高级软件工程师，扩展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
-| 年度基本工资范围（不含股权和奖金） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15153/annual-base-salary-range-excluding-equity-and-bonus/) |
-| 系统测试工程师，端到端验证 | 消费类设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
-| 产品生命周期保障项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15154/program-manager-product-lifecycle-assurance/) |
-| 应付账款专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist/) |
-| 推理基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15151/engineering-manager-inference-infrastructure/) |
-| 隐私分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy/) |
-| 高级全栈软件工程师，CMS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15152/senior-full-stack-software-engineer-cms/) |
-| 平台产品合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15147/platform-product-partnerships-lead/) |
-| 数据科学家 - AI安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
-| 高级核心软件工程师，Finhub | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
-| Finhub高级Staff软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15146/senior-staff-software-engineer-finhub/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

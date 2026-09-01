@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2632</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2643</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Deals Lead, Compute Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
+| Technical Product Marketing Manager (Staff) | On-site | [View →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
+| Deal Strategy, AMER | Hybrid | [View →](https://www.remotejobscan.com/job/15171/deal-strategy-amer/) |
+| Sourcing Lead, Corporate Development | On-site | [View →](https://www.remotejobscan.com/job/15165/sourcing-lead-corporate-development/) |
+| Head of Deal Strategy, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/15172/head-of-deal-strategy-emea/) |
+| AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
+| Staff Software Engineer, Developer Infrastructure (Test Infrastructure) | Remote | [View →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
+| Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
+| Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
+| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Account Manager - Corporate | Remote | [View →](https://www.remotejobscan.com/job/15164/account-manager-corporate/) |
 | Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | Strategic Finance Lead — AI | Hybrid | [View →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
 | Strategic Finance Lead — Compute | Hybrid | [View →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
@@ -31,17 +43,6 @@
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
 | Chief Information Security Officer (CISO) | Hybrid | [View →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
 | Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
-| Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
-| Annual base salary range (excluding equity and bonus) | Remote | [View →](https://www.remotejobscan.com/job/15153/annual-base-salary-range-excluding-equity-and-bonus/) |
-| Systems Test Engineer, End-to-End Validation | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
-| Program Manager, Product Lifecycle Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/15154/program-manager-product-lifecycle-assurance/) |
-| Accounts Payable Specialist | Remote | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist/) |
-| Engineering Manager, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15151/engineering-manager-inference-infrastructure/) |
-| Analyst, Privacy | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy/) |
-| Senior Full-Stack Software Engineer, CMS | Remote | [View →](https://www.remotejobscan.com/job/15152/senior-full-stack-software-engineer-cms/) |
-| Platform Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15147/platform-product-partnerships-lead/) |
-| Data Scientist - AI Safety | Hybrid | [View →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
-| Senior Staff Software Engineer, Finhub | Remote | [View →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
