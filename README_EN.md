@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2639</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2651</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, FDE Infrastructure (NORAM) | Remote | [View →](https://www.remotejobscan.com/job/10924/engineering-manager-fde-infrastructure-noram/) |
+| Forward Deployed Engineer, Infrastructure Specialist (Public Sector) | Hybrid | [View →](https://www.remotejobscan.com/job/10892/forward-deployed-engineer-infrastructure-specialist-public-sector/) |
+| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
+| Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
+| Forward Deployed Engineer, Infrastructure Specialist (North America) | Hybrid | [View →](https://www.remotejobscan.com/job/15189/forward-deployed-engineer-infrastructure-specialist-north-america/) |
+| Forward Deployed Engineer, Sovereign AI | Hybrid | [View →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
+| Senior Manager, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/15182/senior-manager-it-sox/) |
+| Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/15183/senior-compliance-analyst-canada/) |
+| Director, US International Tax Planning | Remote | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
+| Head of Business Controls | On-site | [View →](https://www.remotejobscan.com/job/15181/head-of-business-controls/) |
+| Marketing Scientist - EMEA (London) | Hybrid | [View →](https://www.remotejobscan.com/job/15184/marketing-scientist-emea-london/) |
+| Researcher, Alignment Interpretability | On-site | [View →](https://www.remotejobscan.com/job/15185/researcher-alignment-interpretability/) |
+| Strategic Deals Lead, Compute Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15178/strategic-deals-lead-compute-infrastructure/) |
 | Cyber Evaluations Engineer | On-site | [View →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
 | Technical Program Manager, Foundations Data and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15177/technical-program-manager-foundations-data-and-operations/) |
 | Applied AI Engineer, Cyber, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15175/applied-ai-engineer-cyber-government/) |
@@ -30,19 +43,6 @@
 | Infrastructure Sourcing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15176/infrastructure-sourcing-operations-lead/) |
 | Strategic Deals Lead, Compute Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
 | Technical Product Marketing Manager (Staff) | On-site | [View →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
-| Deal Strategy, AMER | Hybrid | [View →](https://www.remotejobscan.com/job/15171/deal-strategy-amer/) |
-| Sourcing Lead, Corporate Development | On-site | [View →](https://www.remotejobscan.com/job/15165/sourcing-lead-corporate-development/) |
-| Head of Deal Strategy, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/15172/head-of-deal-strategy-emea/) |
-| AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
-| Staff Software Engineer, Developer Infrastructure (Test Infrastructure) | Remote | [View →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
-| Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
-| Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
-| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Account Manager - Corporate | Remote | [View →](https://www.remotejobscan.com/job/15164/account-manager-corporate/) |
-| Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
-| Strategic Finance Lead — AI | Hybrid | [View →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
-| Strategic Finance Lead — Compute | Hybrid | [View →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2639</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2651</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| FDE基础设施工程经理（北美） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10924/engineering-manager-fde-infrastructure-noram/) |
+| 前部署工程师，基础设施专家（公共部门） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10892/forward-deployed-engineer-infrastructure-specialist-public-sector/) |
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
+| 数据层软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
+| 北美基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15189/forward-deployed-engineer-infrastructure-specialist-north-america/) |
+| 主权AI前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
+| 高级经理，IT SOX | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15182/senior-manager-it-sox/) |
+| 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15183/senior-compliance-analyst-canada/) |
+| 美国国际税务规划总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
+| 业务控制主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15181/head-of-business-controls/) |
+| 市场科学家 - EMEA（伦敦） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15184/marketing-scientist-emea-london/) |
+| 对齐可解释性研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15185/researcher-alignment-interpretability/) |
+| 战略交易主管，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15178/strategic-deals-lead-compute-infrastructure/) |
 | 网络安全评估工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
 | 基础数据与运营技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15177/technical-program-manager-foundations-data-and-operations/) |
 | 应用AI工程师，网络安全，政府 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15175/applied-ai-engineer-cyber-government/) |
@@ -30,19 +43,6 @@
 | 基础设施采购运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15176/infrastructure-sourcing-operations-lead/) |
 | 战略交易负责人，计算合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
 | 技术产品营销经理（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
-| 美国区交易策略 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15171/deal-strategy-amer/) |
-| 企业开发寻源主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15165/sourcing-lead-corporate-development/) |
-| EMEA交易策略主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15172/head-of-deal-strategy-emea/) |
-| AWS全球系统合作伙伴业务拓展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
-| 高级软件工程师，开发者基础设施（测试基础设施） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
-| 企业事务高级项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12082/senior-program-manager-corporate-affairs/) |
-| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
-| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15164/account-manager-corporate/) |
-| 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
-| AI战略财务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15162/strategic-finance-lead-ai/) |
-| 战略财务主管—计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15161/strategic-finance-lead-compute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
