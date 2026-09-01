@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2637</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2642</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
+| Annual base salary range (excluding equity and bonus) | Remote | [View →](https://www.remotejobscan.com/job/15153/annual-base-salary-range-excluding-equity-and-bonus/) |
+| Systems Test Engineer, End-to-End Validation | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
+| Program Manager, Product Lifecycle Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/15154/program-manager-product-lifecycle-assurance/) |
+| Accounts Payable Specialist | Remote | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist/) |
+| Engineering Manager, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15151/engineering-manager-inference-infrastructure/) |
+| Analyst, Privacy | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy/) |
+| Senior Full-Stack Software Engineer, CMS | Remote | [View →](https://www.remotejobscan.com/job/15152/senior-full-stack-software-engineer-cms/) |
 | Platform Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15147/platform-product-partnerships-lead/) |
 | Data Scientist - AI Safety | Hybrid | [View →](https://www.remotejobscan.com/job/15148/data-scientist-ai-safety/) |
 | Senior Staff Software Engineer, Finhub | Remote | [View →](https://www.remotejobscan.com/job/15145/senior-staff-software-engineer-finhub/) |
@@ -33,14 +41,6 @@
 | Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
 | Lead/Manager AI Infra Systems Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
-| Strategic Account Executive, Investment Banking & Capital Markets | On-site | [View →](https://www.remotejobscan.com/job/15138/strategic-account-executive-investment-banking-capital-markets/) |
-| Strategic Account Executive, Insurance | On-site | [View →](https://www.remotejobscan.com/job/15137/strategic-account-executive-insurance/) |
-| Strategic Account Executive, Asset & Wealth Management | On-site | [View →](https://www.remotejobscan.com/job/15134/strategic-account-executive-asset-wealth-management/) |
-| Strategic Account Executive, Canada Financial Services - FSI | On-site | [View →](https://www.remotejobscan.com/job/15135/strategic-account-executive-canada-financial-services-fsi/) |
-| Strategic Account Executive, Healthcare | On-site | [View →](https://www.remotejobscan.com/job/15136/strategic-account-executive-healthcare/) |
-| Strategic Account Executive, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15139/strategic-account-executive-life-sciences/) |
-| Strategic Account Executive, Retail & Commercial Banking | On-site | [View →](https://www.remotejobscan.com/job/15140/strategic-account-executive-retail-commercial-banking/) |
-| Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
