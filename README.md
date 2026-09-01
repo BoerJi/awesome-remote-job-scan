@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2642</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2643</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
+| 首席信息安全官 (CISO) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
+| 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | 高级软件工程师，扩展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
 | 年度基本工资范围（不含股权和奖金） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15153/annual-base-salary-range-excluding-equity-and-bonus/) |
 | 系统测试工程师，端到端验证 | 消费类设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
@@ -39,9 +42,6 @@
 | 调度与舰队效率工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
 | 技术项目经理，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
 | 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
-| 合规代理体验产品经理（集团级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| 技术合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| AI基础设施系统工程团队（阿姆斯特丹）负责人/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

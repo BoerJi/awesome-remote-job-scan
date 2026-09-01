@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2642</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2643</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/15157/product-finance-strategy-monetization/) |
+| Chief Information Security Officer (CISO) | Hybrid | [View →](https://www.remotejobscan.com/job/10912/chief-information-security-officer-ciso/) |
+| Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/14353/staff-sr-software-engineer-scaling/) |
 | Annual base salary range (excluding equity and bonus) | Remote | [View →](https://www.remotejobscan.com/job/15153/annual-base-salary-range-excluding-equity-and-bonus/) |
 | Systems Test Engineer, End-to-End Validation | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
@@ -38,9 +41,6 @@
 | Engineering Manager, Scheduler and Fleet Efficiency | On-site | [View →](https://www.remotejobscan.com/job/15143/engineering-manager-scheduler-and-fleet-efficiency/) |
 | Technical Program Manager, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15144/technical-program-manager-partnerships/) |
 | Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
-| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| Lead/Manager AI Infra Systems Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
