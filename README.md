@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2611</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2610</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI代理安全架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
 | 政府应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 企业销售客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
 | 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15064/counsel-product/) |
 | BDR赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

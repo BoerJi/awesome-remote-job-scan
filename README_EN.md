@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2611</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2610</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Agent Security Architect | Hybrid | [View →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
 | Applied AI Architect, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Manager, Account Executive - Enterprise Sales | On-site | [View →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
 | Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15064/counsel-product/) |
 | BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
