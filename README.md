@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
+| GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 企业销售客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9488/manager-account-executive-enterprise-sales/) |
 | 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15064/counsel-product/) |
 | BDR赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
@@ -40,8 +42,6 @@
 | 计算基础设施技术会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
 | 规模化合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
 | 研究项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15045/research-program-manager/) |
-| 内部沟通经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12268/internal-communications-manager-tech/) |
-| 前派部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15042/manager-forward-deployed-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
