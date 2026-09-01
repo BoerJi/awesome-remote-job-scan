@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2610</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2619</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
+| Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
+| Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
+| Enterprise Account Executive, Telecommunications | On-site | [View →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
+| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| Enterprise Account Executive, System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
+| Enterprise Account Executive, Digital Native Business | On-site | [View →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 | AI Agent Security Architect | Hybrid | [View →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
 | Applied AI Architect, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
@@ -36,13 +43,6 @@
 | Engineering Manager, Core Services | On-site | [View →](https://www.remotejobscan.com/job/15055/engineering-manager-core-services/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
 | Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
-| AI Support Engineer, Government - Washington, D.C. | Hybrid | [View →](https://www.remotejobscan.com/job/15057/ai-support-engineer-government-washington-dc/) |
-| AI Support Engineer, Government - San Francisco, CA | Hybrid | [View →](https://www.remotejobscan.com/job/15056/ai-support-engineer-government-san-francisco-ca/) |
-| Operations Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/15052/operations-senior-associate/) |
-| Cyber Operations Lead, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15049/cyber-operations-lead-critical-harm-operations/) |
-| Account Director, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/15048/account-director-startups/) |
-| Lead, Technical Accounting (Compute Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
-| Scaled Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

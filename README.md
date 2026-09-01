@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2610</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2619</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
+| 企业客户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9441/enterprise-account-executive-fsi/) |
+| 企业客户经理 - 零售/快消品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
+| 电信企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14056/enterprise-account-executive-telecommunications/) |
+| GRC分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| 企业客户经理，系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14931/enterprise-account-executive-system-integrators/) |
+| 企业客户经理，数字原生业务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15007/enterprise-account-executive-digital-native-business/) |
 | AI代理安全架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15073/ai-agent-security-architect/) |
 | 政府应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15066/applied-ai-architect-government/) |
 | Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
@@ -35,13 +42,6 @@
 | 整合营销主管，品牌与政策 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15058/integrated-marketing-lead-brand-policy/) |
 | 核心服务工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15055/engineering-manager-core-services/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
-| AI支持工程师，政府 - 华盛顿特区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15057/ai-support-engineer-government-washington-dc/) |
-| AI支持工程师，政府 - 圣弗朗西斯科，CA | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15056/ai-support-engineer-government-san-francisco-ca/) |
-| 运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15052/operations-senior-associate/) |
-| 网络安全运营主管，关键伤害运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15049/cyber-operations-lead-critical-harm-operations/) |
-| 初创企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15048/account-director-startups/) |
-| 计算基础设施技术会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15051/lead-technical-accounting-compute-infrastructure/) |
-| 规模化合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15050/scaled-partnerships-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
