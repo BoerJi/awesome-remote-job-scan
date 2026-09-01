@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2626</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2633</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Lead/Manager Site Reliability Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-site-reliability-engineering-team-amsterdam/) |
+| Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
+| Lead/Manager AI Infra Systems Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
+| Strategic Account Executive, Investment Banking & Capital Markets | On-site | [View →](https://www.remotejobscan.com/job/15138/strategic-account-executive-investment-banking-capital-markets/) |
+| Strategic Account Executive, Insurance | On-site | [View →](https://www.remotejobscan.com/job/15137/strategic-account-executive-insurance/) |
+| Strategic Account Executive, Asset & Wealth Management | On-site | [View →](https://www.remotejobscan.com/job/15134/strategic-account-executive-asset-wealth-management/) |
+| Strategic Account Executive, Canada Financial Services - FSI | On-site | [View →](https://www.remotejobscan.com/job/15135/strategic-account-executive-canada-financial-services-fsi/) |
+| Strategic Account Executive, Healthcare | On-site | [View →](https://www.remotejobscan.com/job/15136/strategic-account-executive-healthcare/) |
+| Strategic Account Executive, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15139/strategic-account-executive-life-sciences/) |
+| Strategic Account Executive, Retail & Commercial Banking | On-site | [View →](https://www.remotejobscan.com/job/15140/strategic-account-executive-retail-commercial-banking/) |
+| Enterprise Account Executive, Automotive | On-site | [View →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
 | AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | Community & Events Manager (Turkey) | Remote | [View →](https://www.remotejobscan.com/job/15126/community-events-manager-turkey/) |
 | AI Product Manager – Cross-Border Payments | Hybrid | [View →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
@@ -34,14 +43,6 @@
 | Operations Specialist - Gulf Binance | Hybrid | [View →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
 | Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
 | P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
-| Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
-| Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
-| Manager, Applied AI Architects | Hybrid | [View →](https://www.remotejobscan.com/job/15108/manager-applied-ai-architects/) |
-| Senior Software Engineer — Infra Agent Systems UK | On-site | [View →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Administrative Business Partner, GTM | On-site | [View →](https://www.remotejobscan.com/job/15101/administrative-business-partner-gtm/) |
-| Legal Counsel - Commercial, Marketing & IP - EMEA (Remote) | On-site | [View →](https://www.remotejobscan.com/job/15100/legal-counsel-commercial-marketing-ip-emea-remote/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-01 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

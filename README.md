@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2626</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2633</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 阿姆斯特丹站点可靠性工程团队负责人/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-site-reliability-engineering-team-amsterdam/) |
+| 技术合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
+| AI基础设施系统工程团队（阿姆斯特丹）负责人/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
+| 战略客户经理，投资银行与资本市场 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15138/strategic-account-executive-investment-banking-capital-markets/) |
+| 保险战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15137/strategic-account-executive-insurance/) |
+| 战略客户总监，资产管理与财富管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15134/strategic-account-executive-asset-wealth-management/) |
+| 战略客户总监，加拿大金融服务 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15135/strategic-account-executive-canada-financial-services-fsi/) |
+| 战略客户总监，医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15136/strategic-account-executive-healthcare/) |
+| 生命科学领域战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15139/strategic-account-executive-life-sciences/) |
+| 零售与商业银行战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15140/strategic-account-executive-retail-commercial-banking/) |
+| 企业客户经理，汽车行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14624/enterprise-account-executive-automotive/) |
 | AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | 社区与活动经理（土耳其） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15126/community-events-manager-turkey/) |
 | AI产品经理 - 跨境支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15124/ai-product-manager-cross-border-payments/) |
@@ -34,14 +43,6 @@
 | 运营专员 - 海湾Binance | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15120/operations-specialist-gulf-binance/) |
 | Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
 | P2P合作伙伴运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15109/p2p-partner-operations-director/) |
-| 大中华区业务拓展副理（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
-| 欧洲中东地区（德语）客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
-| 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15108/manager-applied-ai-architects/) |
-| 高级软件工程师—基础设施代理系统英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 行政业务合作伙伴，GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15101/administrative-business-partner-gtm/) |
-| 法律顾问 - 商业、营销与知识产权 - EMEA (远程) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15100/legal-counsel-commercial-marketing-ip-emea-remote/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-01 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
