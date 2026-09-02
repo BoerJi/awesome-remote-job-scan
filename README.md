@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2697</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2704</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
+| 高级客户总监 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
+| 制造行业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15280/senior-account-executive-manufacturing/) |
+| 高级客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15283/senior-account-executive-financial-services/) |
+| 技术项目经理，开发者体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15278/technical-program-manager-developer-experience/) |
+| 支持项目经理，支持交付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15277/support-program-manager-support-delivery/) |
+| 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15279/chief-of-staff/) |
+| 模型部署与容量技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15276/technical-program-manager-model-deployment-capacity/) |
+| 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
+| Ona产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15275/product-engineer-ona/) |
 | 人力资源（人员）并购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15274/hr-people-ma-lead/) |
 | 高级客户投诉经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | 技术运营会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15273/manager-technical-operational-accounting/) |
@@ -33,16 +43,6 @@
 | 现场营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15270/field-marketing-manager/) |
 | 高级欺诈数据科学家（信用卡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist-credit-card/) |
 | 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| 知识工作赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15269/enablement-lead-knowledge-work/) |
-| 合作伙伴账户管理及生态业务发展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15268/head-of-partner-account-management-ecosystem-bd/) |
-| 安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11946/security-compliance-analyst/) |
-| 产品经理，商务技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15267/product-manager-business-technology/) |
-| 应用AI架构师，网络安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15265/applied-ai-architect-cyber/) |
-| 高管招聘主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15266/executive-search-lead/) |
-| 高级市场项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
-| Next.js技术团队负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
-| Next.js技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
-| 平台沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9375/platform-communications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
