@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compensation & Total Rewards | Remote | [View →](https://www.remotejobscan.com/job/15241/compensation-total-rewards/) |
+| Partner Success Manager | On-site | [View →](https://www.remotejobscan.com/job/15239/partner-success-manager/) |
+| Software Engineer II - React Native - Krak | Remote | [View →](https://www.remotejobscan.com/job/15238/software-engineer-ii-react-native-krak/) |
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/15237/business-development-representative/) |
 | Content Strategist (Social Media) | Remote | [View →](https://www.remotejobscan.com/job/15236/content-strategist-social-media/) |
 | Customer Success (Polish Speaking) | Remote | [View →](https://www.remotejobscan.com/job/15235/customer-success-polish-speaking/) |
@@ -40,9 +43,6 @@
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | Legal Intern (3-6 months, Full Time) | Remote | [View →](https://www.remotejobscan.com/job/15224/legal-intern-3-6-months-full-time/) |
 | Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
-| Senior Channel Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-channel-operations-manager/) |
-| Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
-| Applied AI Architect, Education | Hybrid | [View →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

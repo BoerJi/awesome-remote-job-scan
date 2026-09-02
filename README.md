@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 薪酬与整体回报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15241/compensation-total-rewards/) |
+| 合作伙伴成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15239/partner-success-manager/) |
+| 软件工程师II - React Native - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15238/software-engineer-ii-react-native-krak/) |
 | 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15237/business-development-representative/) |
 | 社交媒体内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15236/content-strategist-social-media/) |
 | 客户成功（波兰语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15235/customer-success-polish-speaking/) |
@@ -40,9 +43,6 @@
 | Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 法务实习生（3-6个月，全职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15224/legal-intern-3-6-months-full-time/) |
 | 高级/资深风险控制数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
-| Senior Channel Operations Manager | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15223/senior-channel-operations-manager/) |
-| 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
-| 教育领域应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
