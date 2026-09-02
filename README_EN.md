@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2668</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2664</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/15237/business-development-representative/) |
 | Content Strategist (Social Media) | Remote | [View →](https://www.remotejobscan.com/job/15236/content-strategist-social-media/) |
 | Customer Success (Polish Speaking) | Remote | [View →](https://www.remotejobscan.com/job/15235/customer-success-polish-speaking/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
@@ -42,7 +43,6 @@
 | Senior Channel Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-channel-operations-manager/) |
 | Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | Applied AI Architect, Education | Hybrid | [View →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
-| Manager, APAC Recruiting | On-site | [View →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
