@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2683</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2687</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9375/platform-communications/) |
+| 高级客户经理 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
+| 企业通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
+| 政策沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9527/policy-communications/) |
+| 高级投诉经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| AI科学合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| 高级机构销售助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
 | 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15253/senior-program-manager-corporate-affairs/) |
 | SMB增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
 | 移动应用产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
@@ -36,13 +43,6 @@
 | 增长产品设计师（高级） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15256/lead-product-designer-growth/) |
 | 安全防护工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
 | 客户成功 - EMEA - 北欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15249/customer-success-emea-nordics/) |
-| 技术团队成员（TPM，推理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15250/member-of-technical-staff-tpm-inference/) |
-| 资金与银行运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| 多边交易设施（MTF）合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15244/head-of-compliance-multilateral-trading-facility-mtf/) |
-| 观察与剖析团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15245/staff-software-engineer-observability-profiling/) |
-| 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15247/senior-quality-engineer/) |
-| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
-| 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15242/senior-software-engineer-frontend-consumer-payments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

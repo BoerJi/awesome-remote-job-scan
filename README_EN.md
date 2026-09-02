@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2683</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2687</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Platform Communications | On-site | [View →](https://www.remotejobscan.com/job/9375/platform-communications/) |
+| Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
+| Enterprise Communications | On-site | [View →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
+| Policy Communications | On-site | [View →](https://www.remotejobscan.com/job/9527/policy-communications/) |
+| Senior Manager, Customer Complaints | On-site | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| Senior Associate, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
 | Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/15253/senior-program-manager-corporate-affairs/) |
 | Product Manager, SMB Growth | On-site | [View →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
 | Product Manager, Mobile Apps | On-site | [View →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
@@ -36,13 +43,6 @@
 | Lead Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/15256/lead-product-designer-growth/) |
 | Engineering Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
 | Customer Success - EMEA - Nordics | Remote | [View →](https://www.remotejobscan.com/job/15249/customer-success-emea-nordics/) |
-| Member of Technical Staff (TPM, Inference) | On-site | [View →](https://www.remotejobscan.com/job/15250/member-of-technical-staff-tpm-inference/) |
-| Specialist, Treasury & Banking Operations | Remote | [View →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
-| Head of Compliance: Multilateral Trading Facility (MTF) | On-site | [View →](https://www.remotejobscan.com/job/15244/head-of-compliance-multilateral-trading-facility-mtf/) |
-| Staff Software Engineer, Observability & Profiling | On-site | [View →](https://www.remotejobscan.com/job/15245/staff-software-engineer-observability-profiling/) |
-| Senior Quality Engineer | Remote | [View →](https://www.remotejobscan.com/job/15247/senior-quality-engineer/) |
-| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
-| Senior Software Engineer, Frontend (Consumer - Payments) | Remote | [View →](https://www.remotejobscan.com/job/15242/senior-software-engineer-frontend-consumer-payments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
