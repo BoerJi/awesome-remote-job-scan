@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2687</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2691</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Cyber | On-site | [View →](https://www.remotejobscan.com/job/15265/applied-ai-architect-cyber/) |
+| Executive Search Lead | Remote | [View →](https://www.remotejobscan.com/job/15266/executive-search-lead/) |
+| Executive Marketing Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
+| Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
+| Member of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
 | Platform Communications | On-site | [View →](https://www.remotejobscan.com/job/9375/platform-communications/) |
 | Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | Enterprise Communications | On-site | [View →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
@@ -38,11 +43,6 @@
 | Product Manager, Core Experience | On-site | [View →](https://www.remotejobscan.com/job/15259/product-manager-core-experience/) |
 | Global Public Policy Manager, Compute, Infrastructure & Sovereign AI | Remote | [View →](https://www.remotejobscan.com/job/15252/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
 | Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/15254/motion-designer/) |
-| Brand Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/15255/brand-designer-growth/) |
-| Lead Product Designer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/15257/lead-product-designer-enterprise/) |
-| Lead Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/15256/lead-product-designer-growth/) |
-| Engineering Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
-| Customer Success - EMEA - Nordics | Remote | [View →](https://www.remotejobscan.com/job/15249/customer-success-emea-nordics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2687</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2691</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，网络安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15265/applied-ai-architect-cyber/) |
+| 高管招聘主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15266/executive-search-lead/) |
+| 高级市场项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
+| Next.js技术团队负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
+| Next.js技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
 | 平台沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9375/platform-communications/) |
 | 高级客户经理 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | 企业通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
@@ -38,11 +43,6 @@
 | 产品经理，核心体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15259/product-manager-core-experience/) |
 | 全球公共政策经理，计算、基础设施与主权AI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15252/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
 | 动画设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15254/motion-designer/) |
-| 增长品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15255/brand-designer-growth/) |
-| 企业级产品首席设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15257/lead-product-designer-enterprise/) |
-| 增长产品设计师（高级） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15256/lead-product-designer-growth/) |
-| 安全防护工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
-| 客户成功 - EMEA - 北欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15249/customer-success-emea-nordics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
