@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2658</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2659</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Manager, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
+| Learning Experiences Creator | Hybrid | [View →](https://www.remotejobscan.com/job/15208/learning-experiences-creator/) |
 | Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 | Partner Marketing Manager, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/15207/partner-marketing-manager-ads/) |
 | Safeguards Enforcement Analyst, Conventional Weapons | Remote | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
@@ -41,8 +43,6 @@
 | Technical Program Manager, Enterprise Readiness | On-site | [View →](https://www.remotejobscan.com/job/15196/technical-program-manager-enterprise-readiness/) |
 | People Partner, G&A | On-site | [View →](https://www.remotejobscan.com/job/15194/people-partner-ga/) |
 | PCB Layout Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15190/pcb-layout-engineer-robotics/) |
-| Forward Deployed Engineer, Agentic Platform (West Coast) | Remote | [View →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
-| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
