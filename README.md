@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2669</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2684</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15253/senior-program-manager-corporate-affairs/) |
+| SMB增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
+| 移动应用产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
+| AI能力产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15260/product-manager-ai-capabilities/) |
+| 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15261/product-manager-growth/) |
+| 产品经理，核心体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15259/product-manager-core-experience/) |
+| 全球公共政策经理，计算、基础设施与主权AI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15252/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
+| 动画设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15254/motion-designer/) |
+| 增长品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15255/brand-designer-growth/) |
+| 企业级产品首席设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15257/lead-product-designer-enterprise/) |
+| 增长产品设计师（高级） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15256/lead-product-designer-growth/) |
+| 安全防护工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
+| 客户成功 - EMEA - 北欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15249/customer-success-emea-nordics/) |
+| 技术团队成员（TPM，推理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15250/member-of-technical-staff-tpm-inference/) |
+| 资金与银行运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13116/specialist-treasury-banking-operations/) |
 | 多边交易设施（MTF）合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15244/head-of-compliance-multilateral-trading-facility-mtf/) |
 | 观察与剖析团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15245/staff-software-engineer-observability-profiling/) |
 | 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15247/senior-quality-engineer/) |
 | 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 | 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15242/senior-software-engineer-frontend-consumer-payments/) |
-| 财务系统与自动化经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10952/finance-systems-and-automation-manager/) |
-| 法国和南欧传播主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15240/communications-lead-france-and-southern-europe/) |
-| 薪酬与整体回报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15241/compensation-total-rewards/) |
-| 合作伙伴成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15239/partner-success-manager/) |
-| 软件工程师II - React Native - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15238/software-engineer-ii-react-native-krak/) |
-| 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15237/business-development-representative/) |
-| 社交媒体内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15236/content-strategist-social-media/) |
-| 客户成功（波兰语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15235/customer-success-polish-speaking/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 币安加速器计划 - 关键账户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15233/binance-accelerator-program-key-account-operations/) |
-| FATCA/CRS 合规，高级经理/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/fatcacrs-compliance-senior-managermanager/) |
-| 机器学习研究工程师实习 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15231/internship-machine-learning-research-engineer/) |
-| 技术团队成员（搜索质量分析师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15232/member-of-technical-staff-search-quality-analyst/) |
-| (PD) 核心高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-core/) |
-| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
