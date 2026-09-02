@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2657</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2658</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
+| Partner Marketing Manager, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/15207/partner-marketing-manager-ads/) |
+| Safeguards Enforcement Analyst, Conventional Weapons | Remote | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
+| Safeguards Enforcement Lead, User Well-Being | Remote | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
+| Senior Talent Acquisition Operations Specialist (Contract) | Remote | [View →](https://www.remotejobscan.com/job/15204/senior-talent-acquisition-operations-specialist-contract/) |
 | PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
 | Senior Growth Specialist — Link Growth | Remote | [View →](https://www.remotejobscan.com/job/15200/senior-growth-specialist-link-growth/) |
 | Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
@@ -38,11 +43,6 @@
 | PCB Layout Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15190/pcb-layout-engineer-robotics/) |
 | Forward Deployed Engineer, Agentic Platform (West Coast) | Remote | [View →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
 | Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
-| Forward Deployed Engineer, Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/15191/forward-deployed-engineer-agentic-platform/) |
-| Engineering Manager, FDE Infrastructure (NORAM) | Remote | [View →](https://www.remotejobscan.com/job/10924/engineering-manager-fde-infrastructure-noram/) |
-| Forward Deployed Engineer, Infrastructure Specialist (Public Sector) | Hybrid | [View →](https://www.remotejobscan.com/job/10892/forward-deployed-engineer-infrastructure-specialist-public-sector/) |
-| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
-| Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
