@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2662</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2664</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲中东地区客户经理（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 初级/高级或员工软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 欧洲中东市场客户经理-法语 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
+| Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| 法务实习生（3-6个月，全职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15224/legal-intern-3-6-months-full-time/) |
+| 高级/资深风险控制数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
+| Senior Channel Operations Manager | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15223/senior-channel-operations-manager/) |
 | 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | 教育领域应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 | 亚太区招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
@@ -34,14 +42,6 @@
 | 合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | Staff+ 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
-| 欧盟机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15188/institutional-business-development-managereu/) |
-| 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
-| 机构运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
-| 机构营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
-| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
-| KYC/KYB分析师 - 日语口语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
-| 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

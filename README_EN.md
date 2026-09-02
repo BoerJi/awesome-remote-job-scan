@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2662</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2664</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Junior/Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
+| Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Legal Intern (3-6 months, Full Time) | Remote | [View →](https://www.remotejobscan.com/job/15224/legal-intern-3-6-months-full-time/) |
+| Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
+| Senior Channel Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-channel-operations-manager/) |
 | Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | Applied AI Architect, Education | Hybrid | [View →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 | Manager, APAC Recruiting | On-site | [View →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
@@ -34,14 +42,6 @@
 | Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
 | Staff+ Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
-| Institutional Business Development Manager（EU） | Remote | [View →](https://www.remotejobscan.com/job/15188/institutional-business-development-managereu/) |
-| Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
-| Institution Operation Manager | Remote | [View →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
-| Institution Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
-| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
-| KYC/KYB Analyst - Japanese Speaker | Remote | [View →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
-| Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
