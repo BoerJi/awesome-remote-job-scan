@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enablement Lead - Knowledge Work | Hybrid | [View →](https://www.remotejobscan.com/job/15269/enablement-lead-knowledge-work/) |
+| Head of Partner Account Management & Ecosystem BD | On-site | [View →](https://www.remotejobscan.com/job/15268/head-of-partner-account-management-ecosystem-bd/) |
+| Security Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11946/security-compliance-analyst/) |
+| Product Manager, Business Technology | Remote | [View →](https://www.remotejobscan.com/job/15267/product-manager-business-technology/) |
 | Applied AI Architect, Cyber | On-site | [View →](https://www.remotejobscan.com/job/15265/applied-ai-architect-cyber/) |
 | Executive Search Lead | Remote | [View →](https://www.remotejobscan.com/job/15266/executive-search-lead/) |
 | Executive Marketing Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
@@ -39,10 +43,6 @@
 | Product Manager, SMB Growth | On-site | [View →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
 | Product Manager, Mobile Apps | On-site | [View →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
 | Product Manager, AI Capabilities | On-site | [View →](https://www.remotejobscan.com/job/15260/product-manager-ai-capabilities/) |
-| Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/15261/product-manager-growth/) |
-| Product Manager, Core Experience | On-site | [View →](https://www.remotejobscan.com/job/15259/product-manager-core-experience/) |
-| Global Public Policy Manager, Compute, Infrastructure & Sovereign AI | Remote | [View →](https://www.remotejobscan.com/job/15252/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
-| Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/15254/motion-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 知识工作赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15269/enablement-lead-knowledge-work/) |
+| 合作伙伴账户管理及生态业务发展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15268/head-of-partner-account-management-ecosystem-bd/) |
+| 安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11946/security-compliance-analyst/) |
+| 产品经理，商务技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15267/product-manager-business-technology/) |
 | 应用AI架构师，网络安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15265/applied-ai-architect-cyber/) |
 | 高管招聘主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15266/executive-search-lead/) |
 | 高级市场项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
@@ -39,10 +43,6 @@
 | SMB增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
 | 移动应用产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
 | AI能力产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15260/product-manager-ai-capabilities/) |
-| 增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15261/product-manager-growth/) |
-| 产品经理，核心体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15259/product-manager-core-experience/) |
-| 全球公共政策经理，计算、基础设施与主权AI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15252/global-public-policy-manager-compute-infrastructure-sovereign-ai/) |
-| 动画设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15254/motion-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
