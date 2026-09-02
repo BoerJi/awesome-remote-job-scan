@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2663</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2669</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 多边交易设施（MTF）合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15244/head-of-compliance-multilateral-trading-facility-mtf/) |
+| 观察与剖析团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15245/staff-software-engineer-observability-profiling/) |
+| 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15247/senior-quality-engineer/) |
+| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| 高级前端工程师（消费者-支付） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15242/senior-software-engineer-frontend-consumer-payments/) |
+| 财务系统与自动化经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10952/finance-systems-and-automation-manager/) |
+| 法国和南欧传播主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15240/communications-lead-france-and-southern-europe/) |
 | 薪酬与整体回报 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15241/compensation-total-rewards/) |
 | 合作伙伴成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15239/partner-success-manager/) |
 | 软件工程师II - React Native - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15238/software-engineer-ii-react-native-krak/) |
@@ -36,13 +43,6 @@
 | 技术团队成员（搜索质量分析师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15232/member-of-technical-staff-search-quality-analyst/) |
 | (PD) 核心高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-core/) |
 | 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
-| 欧洲中东地区客户经理（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 初级/高级或员工软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 欧洲中东市场客户经理-法语 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/account-associate-emea-french-speaking/) |
-| Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| 法务实习生（3-6个月，全职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15224/legal-intern-3-6-months-full-time/) |
-| 高级/资深风险控制数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
