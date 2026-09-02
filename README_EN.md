@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2667</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2668</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Content Strategist (Social Media) | Remote | [View →](https://www.remotejobscan.com/job/15236/content-strategist-social-media/) |
+| Customer Success (Polish Speaking) | Remote | [View →](https://www.remotejobscan.com/job/15235/customer-success-polish-speaking/) |
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Binance Accelerator Program - Key Account Operations | Remote | [View →](https://www.remotejobscan.com/job/15233/binance-accelerator-program-key-account-operations/) |
 | FATCA/CRS Compliance, Senior Manager/Manager | Remote | [View →](https://www.remotejobscan.com/job/15227/fatcacrs-compliance-senior-managermanager/) |
 | Internship - Machine Learning Research Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15231/internship-machine-learning-research-engineer/) |
@@ -40,9 +43,6 @@
 | Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | Applied AI Architect, Education | Hybrid | [View →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 | Manager, APAC Recruiting | On-site | [View →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
-| Manager, Product Communications | Remote | [View →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2667</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2668</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社交媒体内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15236/content-strategist-social-media/) |
+| 客户成功（波兰语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15235/customer-success-polish-speaking/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | 币安加速器计划 - 关键账户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15233/binance-accelerator-program-key-account-operations/) |
 | FATCA/CRS 合规，高级经理/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/fatcacrs-compliance-senior-managermanager/) |
 | 机器学习研究工程师实习 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15231/internship-machine-learning-research-engineer/) |
@@ -40,9 +43,6 @@
 | 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | 教育领域应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 | 亚太区招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
-| 产品通信经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
