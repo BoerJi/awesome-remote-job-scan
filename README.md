@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2652</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2658</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
+| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
+| 企业客户经理 - 零售/快消品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
+| 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15093/finance-bi-analyst/) |
+| 合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
+| Staff+ 软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
+| 欧盟机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15188/institutional-business-development-managereu/) |
+| 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
+| 机构运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12145/institution-operation-manager/) |
+| 机构营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14588/institution-marketing-manager/) |
+| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | KYC/KYB分析师 - 日语口语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
 | 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
 | 生物安全研究经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
 | 学习体验创建者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15208/learning-experiences-creator/) |
 | 集团合并与报告团队财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 | 广告合作伙伴营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15207/partner-marketing-manager-ads/) |
-| 常规武器保障执行分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
-| 用户福祉安全执行主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
-| 高级人才招聘运营专员（合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15204/senior-talent-acquisition-operations-specialist-contract/) |
-| PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| 高级增长专家 — 链接增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15200/senior-growth-specialist-link-growth/) |
-| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
-| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9221/hr-business-partner/) |
-| 人事专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15195/people-specialist/) |
-| 交易主管，企业发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15192/deal-lead-corporate-development/) |
-| AI支持工程师 - 东京（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
-| AI支持工程师 - 新加坡（韩语口语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15197/ai-support-engineer-singapore-korean-speaking/) |
-| 企业就绪技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15196/technical-program-manager-enterprise-readiness/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
