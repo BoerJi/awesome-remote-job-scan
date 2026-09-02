@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2694</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2697</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源（人员）并购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15274/hr-people-ma-lead/) |
+| 高级客户投诉经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| 技术运营会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15273/manager-technical-operational-accounting/) |
+| Codex 部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15272/codex-deployment-engineer/) |
 | 大客户经理，Meta | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15271/mega-account-executive-meta/) |
 | 高级技术项目经理，客户体验代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 | Vaults 团队资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
@@ -39,10 +43,6 @@
 | Next.js技术团队负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
 | Next.js技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
 | 平台沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9375/platform-communications/) |
-| 高级客户经理 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
-| 企业通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
-| 政策沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9527/policy-communications/) |
-| AI科学合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

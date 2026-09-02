@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2694</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2697</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR (People) M&A Lead | Remote | [View →](https://www.remotejobscan.com/job/15274/hr-people-ma-lead/) |
+| Senior Manager, Customer Complaints | Remote | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| Manager, Technical & Operational Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/15273/manager-technical-operational-accounting/) |
+| Codex Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15272/codex-deployment-engineer/) |
 | Mega Account Executive, Meta | On-site | [View →](https://www.remotejobscan.com/job/15271/mega-account-executive-meta/) |
 | Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
@@ -39,10 +43,6 @@
 | Manager of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/manager-of-the-technical-staff-nextjs/) |
 | Member of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
 | Platform Communications | On-site | [View →](https://www.remotejobscan.com/job/9375/platform-communications/) |
-| Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
-| Enterprise Communications | On-site | [View →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
-| Policy Communications | On-site | [View →](https://www.remotejobscan.com/job/9527/policy-communications/) |
-| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
