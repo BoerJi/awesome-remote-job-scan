@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2666</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2667</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器计划 - 关键账户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15233/binance-accelerator-program-key-account-operations/) |
+| FATCA/CRS 合规，高级经理/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/fatcacrs-compliance-senior-managermanager/) |
 | 机器学习研究工程师实习 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15231/internship-machine-learning-research-engineer/) |
 | 技术团队成员（搜索质量分析师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15232/member-of-technical-staff-search-quality-analyst/) |
 | (PD) 核心高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-core/) |
@@ -41,8 +43,6 @@
 | 产品通信经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| 企业客户经理 - 零售/快消品/贸易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
-| 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15093/finance-bi-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

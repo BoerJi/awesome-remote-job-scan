@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2666</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2667</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Key Account Operations | Remote | [View →](https://www.remotejobscan.com/job/15233/binance-accelerator-program-key-account-operations/) |
+| FATCA/CRS Compliance, Senior Manager/Manager | Remote | [View →](https://www.remotejobscan.com/job/15227/fatcacrs-compliance-senior-managermanager/) |
 | Internship - Machine Learning Research Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15231/internship-machine-learning-research-engineer/) |
 | Member of Technical Staff (Search Quality Analyst) | Hybrid | [View →](https://www.remotejobscan.com/job/15232/member-of-technical-staff-search-quality-analyst/) |
 | (PD) Senior Product Designer, Core | On-site | [View →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-core/) |
@@ -41,8 +43,6 @@
 | Manager, Product Communications | Remote | [View →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
-| Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
-| Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15093/finance-bi-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
