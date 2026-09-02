@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2661</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2662</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | 教育领域应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 | 亚太区招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
 | 产品通信经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
@@ -41,7 +42,6 @@
 | 量化交易-测试开发负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | KYC/KYB分析师 - 日语口语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
 | 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
-| 生物安全研究经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

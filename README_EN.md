@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2661</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2662</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15091/regional-affiliate-specialist/) |
 | Applied AI Architect, Education | Hybrid | [View →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
 | Manager, APAC Recruiting | On-site | [View →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
 | Manager, Product Communications | Remote | [View →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
@@ -41,7 +42,6 @@
 | 量化交易-测试开发负责人 | Remote | [View →](https://www.remotejobscan.com/job/13639/job-13639/) |
 | KYC/KYB Analyst - Japanese Speaker | Remote | [View →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
-| Research Manager, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
