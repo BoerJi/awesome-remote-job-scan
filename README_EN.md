@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2691</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2694</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Mega Account Executive, Meta | On-site | [View →](https://www.remotejobscan.com/job/15271/mega-account-executive-meta/) |
+| Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
+| Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| Field Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15270/field-marketing-manager/) |
+| Senior Fraud Data Scientist (Credit Card) | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist-credit-card/) |
+| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | Enablement Lead - Knowledge Work | Hybrid | [View →](https://www.remotejobscan.com/job/15269/enablement-lead-knowledge-work/) |
 | Head of Partner Account Management & Ecosystem BD | On-site | [View →](https://www.remotejobscan.com/job/15268/head-of-partner-account-management-ecosystem-bd/) |
 | Security Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11946/security-compliance-analyst/) |
@@ -36,13 +42,7 @@
 | Senior Account Executive - US Public Sector (Civilian and Federal) | Remote | [View →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | Enterprise Communications | On-site | [View →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
 | Policy Communications | On-site | [View →](https://www.remotejobscan.com/job/9527/policy-communications/) |
-| Senior Manager, Customer Complaints | On-site | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
-| Senior Associate, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
-| Senior Program Manager, Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/15253/senior-program-manager-corporate-affairs/) |
-| Product Manager, SMB Growth | On-site | [View →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
-| Product Manager, Mobile Apps | On-site | [View →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
-| Product Manager, AI Capabilities | On-site | [View →](https://www.remotejobscan.com/job/15260/product-manager-ai-capabilities/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

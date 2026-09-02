@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2691</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2694</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 大客户经理，Meta | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15271/mega-account-executive-meta/) |
+| 高级技术项目经理，客户体验代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
+| Vaults 团队资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
+| 现场营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15270/field-marketing-manager/) |
+| 高级欺诈数据科学家（信用卡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist-credit-card/) |
+| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | 知识工作赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15269/enablement-lead-knowledge-work/) |
 | 合作伙伴账户管理及生态业务发展负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15268/head-of-partner-account-management-ecosystem-bd/) |
 | 安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11946/security-compliance-analyst/) |
@@ -36,13 +42,7 @@
 | 高级客户经理 - 美国公共部门（平民和联邦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10855/senior-account-executive-us-public-sector-civilian-and-federal/) |
 | 企业通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9373/enterprise-communications/) |
 | 政策沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9527/policy-communications/) |
-| 高级投诉经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | AI科学合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
-| 高级机构销售助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
-| 高级项目经理，企业事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15253/senior-program-manager-corporate-affairs/) |
-| SMB增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15262/product-manager-smb-growth/) |
-| 移动应用产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15258/product-manager-mobile-apps/) |
-| AI能力产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15260/product-manager-ai-capabilities/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
