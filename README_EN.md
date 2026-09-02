@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2658</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2661</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Education | Hybrid | [View →](https://www.remotejobscan.com/job/15218/applied-ai-architect-education/) |
+| Manager, APAC Recruiting | On-site | [View →](https://www.remotejobscan.com/job/15217/manager-apac-recruiting/) |
+| Manager, Product Communications | Remote | [View →](https://www.remotejobscan.com/job/14676/manager-product-communications/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
@@ -39,9 +42,6 @@
 | KYC/KYB Analyst - Japanese Speaker | Remote | [View →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
 | Research Manager, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
-| Learning Experiences Creator | Hybrid | [View →](https://www.remotejobscan.com/job/15208/learning-experiences-creator/) |
-| Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
-| Partner Marketing Manager, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/15207/partner-marketing-manager-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
