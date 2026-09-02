@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2664</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2666</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internship - Machine Learning Research Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15231/internship-machine-learning-research-engineer/) |
+| Member of Technical Staff (Search Quality Analyst) | Hybrid | [View →](https://www.remotejobscan.com/job/15232/member-of-technical-staff-search-quality-analyst/) |
+| (PD) Senior Product Designer, Core | On-site | [View →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-core/) |
+| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/9131/senior-business-development-manager/) |
 | Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/account-associate-emea-german-speaking/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Junior/Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -39,9 +43,6 @@
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/13797/applied-ai-engineer/) |
 | Enterprise Account Executive - Retail / CPG / Trading | On-site | [View →](https://www.remotejobscan.com/job/14812/enterprise-account-executive-retail-cpg-trading/) |
 | Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15093/finance-bi-analyst/) |
-| Partner Account Manager | On-site | [View →](https://www.remotejobscan.com/job/14303/partner-account-manager/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/13953/applied-ai-architect/) |
-| Staff+ Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
