@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2651</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2659</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人事专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15195/people-specialist/) |
+| 交易主管，企业发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15192/deal-lead-corporate-development/) |
+| AI支持工程师 - 东京（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
+| AI支持工程师 - 新加坡（韩语口语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15197/ai-support-engineer-singapore-korean-speaking/) |
+| 企业就绪技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15196/technical-program-manager-enterprise-readiness/) |
+| 人事合作伙伴，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15194/people-partner-ga/) |
+| PCB布局工程师，机器人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15190/pcb-layout-engineer-robotics/) |
+| 前沿部署工程师，自主平台（西海岸） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
+| FDE智能平台工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
+| 前瞻部署工程师，智能代理平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15191/forward-deployed-engineer-agentic-platform/) |
 | FDE基础设施工程经理（北美） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10924/engineering-manager-fde-infrastructure-noram/) |
 | 前部署工程师，基础设施专家（公共部门） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10892/forward-deployed-engineer-infrastructure-specialist-public-sector/) |
 | 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
@@ -33,16 +43,6 @@
 | 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15183/senior-compliance-analyst-canada/) |
 | 美国国际税务规划总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
 | 业务控制主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15181/head-of-business-controls/) |
-| 市场科学家 - EMEA（伦敦） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15184/marketing-scientist-emea-london/) |
-| 对齐可解释性研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15185/researcher-alignment-interpretability/) |
-| 战略交易主管，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15178/strategic-deals-lead-compute-infrastructure/) |
-| 网络安全评估工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
-| 基础数据与运营技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15177/technical-program-manager-foundations-data-and-operations/) |
-| 应用AI工程师，网络安全，政府 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15175/applied-ai-engineer-cyber-government/) |
-| 销售赋能主管，GTM入职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| 基础设施采购运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15176/infrastructure-sourcing-operations-lead/) |
-| 战略交易负责人，计算合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
-| 技术产品营销经理（高级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

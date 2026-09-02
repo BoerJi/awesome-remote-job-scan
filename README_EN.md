@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2651</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2659</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Specialist | On-site | [View →](https://www.remotejobscan.com/job/15195/people-specialist/) |
+| Deal Lead, Corporate Development | On-site | [View →](https://www.remotejobscan.com/job/15192/deal-lead-corporate-development/) |
+| AI Support Engineer - Tokyo (Korean Speaking) | On-site | [View →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
+| AI Support Engineer - Singapore (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15197/ai-support-engineer-singapore-korean-speaking/) |
+| Technical Program Manager, Enterprise Readiness | On-site | [View →](https://www.remotejobscan.com/job/15196/technical-program-manager-enterprise-readiness/) |
+| People Partner, G&A | On-site | [View →](https://www.remotejobscan.com/job/15194/people-partner-ga/) |
+| PCB Layout Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15190/pcb-layout-engineer-robotics/) |
+| Forward Deployed Engineer, Agentic Platform (West Coast) | Remote | [View →](https://www.remotejobscan.com/job/10858/forward-deployed-engineer-agentic-platform-west-coast/) |
+| Engineering Manager, FDE Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/12862/engineering-manager-fde-agentic-platform/) |
+| Forward Deployed Engineer, Agentic Platform | Remote | [View →](https://www.remotejobscan.com/job/15191/forward-deployed-engineer-agentic-platform/) |
 | Engineering Manager, FDE Infrastructure (NORAM) | Remote | [View →](https://www.remotejobscan.com/job/10924/engineering-manager-fde-infrastructure-noram/) |
 | Forward Deployed Engineer, Infrastructure Specialist (Public Sector) | Hybrid | [View →](https://www.remotejobscan.com/job/10892/forward-deployed-engineer-infrastructure-specialist-public-sector/) |
 | Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
@@ -33,16 +43,6 @@
 | Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/15183/senior-compliance-analyst-canada/) |
 | Director, US International Tax Planning | Remote | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
 | Head of Business Controls | On-site | [View →](https://www.remotejobscan.com/job/15181/head-of-business-controls/) |
-| Marketing Scientist - EMEA (London) | Hybrid | [View →](https://www.remotejobscan.com/job/15184/marketing-scientist-emea-london/) |
-| Researcher, Alignment Interpretability | On-site | [View →](https://www.remotejobscan.com/job/15185/researcher-alignment-interpretability/) |
-| Strategic Deals Lead, Compute Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15178/strategic-deals-lead-compute-infrastructure/) |
-| Cyber Evaluations Engineer | On-site | [View →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
-| Technical Program Manager, Foundations Data and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15177/technical-program-manager-foundations-data-and-operations/) |
-| Applied AI Engineer, Cyber, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15175/applied-ai-engineer-cyber-government/) |
-| Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| Infrastructure Sourcing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15176/infrastructure-sourcing-operations-lead/) |
-| Strategic Deals Lead, Compute Partnerships | On-site | [View →](https://www.remotejobscan.com/job/15166/strategic-deals-lead-compute-partnerships/) |
-| Technical Product Marketing Manager (Staff) | On-site | [View →](https://www.remotejobscan.com/job/11852/technical-product-marketing-manager-staff/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
