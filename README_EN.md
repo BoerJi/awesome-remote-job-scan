@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2657</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2658</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
+| HR Business Partner | Remote | [View →](https://www.remotejobscan.com/job/9221/hr-business-partner/) |
 | People Specialist | On-site | [View →](https://www.remotejobscan.com/job/15195/people-specialist/) |
 | Deal Lead, Corporate Development | On-site | [View →](https://www.remotejobscan.com/job/15192/deal-lead-corporate-development/) |
 | AI Support Engineer - Tokyo (Korean Speaking) | On-site | [View →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
@@ -39,10 +43,6 @@
 | Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
 | Forward Deployed Engineer, Infrastructure Specialist (North America) | Hybrid | [View →](https://www.remotejobscan.com/job/15189/forward-deployed-engineer-infrastructure-specialist-north-america/) |
 | Forward Deployed Engineer, Sovereign AI | Hybrid | [View →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
-| Senior Manager, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/15182/senior-manager-it-sox/) |
-| Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/15183/senior-compliance-analyst-canada/) |
-| Director, US International Tax Planning | Remote | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
-| Head of Business Controls | On-site | [View →](https://www.remotejobscan.com/job/15181/head-of-business-controls/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

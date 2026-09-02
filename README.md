@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2657</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2658</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
+| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
+| 人力资源业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9221/hr-business-partner/) |
 | 人事专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15195/people-specialist/) |
 | 交易主管，企业发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15192/deal-lead-corporate-development/) |
 | AI支持工程师 - 东京（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
@@ -39,10 +43,6 @@
 | 数据层软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
 | 北美基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15189/forward-deployed-engineer-infrastructure-specialist-north-america/) |
 | 主权AI前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
-| 高级经理，IT SOX | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15182/senior-manager-it-sox/) |
-| 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15183/senior-compliance-analyst-canada/) |
-| 美国国际税务规划总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
-| 业务控制主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15181/head-of-business-controls/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
