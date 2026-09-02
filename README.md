@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2658</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2657</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级增长专家 — 链接增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15200/senior-growth-specialist-link-growth/) |
 | GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 | 经济流动性合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 | 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
@@ -42,7 +43,6 @@
 | 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
 | 数据层软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
 | 北美基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15189/forward-deployed-engineer-infrastructure-specialist-north-america/) |
-| 主权AI前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

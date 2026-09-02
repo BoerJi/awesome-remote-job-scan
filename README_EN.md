@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2658</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2657</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Growth Specialist — Link Growth | Remote | [View →](https://www.remotejobscan.com/job/15200/senior-growth-specialist-link-growth/) |
 | Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 | Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/14374/economic-mobility-partnerships-manager-career-pathways/) |
 | Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
@@ -42,7 +43,6 @@
 | Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
 | Software Engineer, Data Layer | Remote | [View →](https://www.remotejobscan.com/job/15186/software-engineer-data-layer/) |
 | Forward Deployed Engineer, Infrastructure Specialist (North America) | Hybrid | [View →](https://www.remotejobscan.com/job/15189/forward-deployed-engineer-infrastructure-specialist-north-america/) |
-| Forward Deployed Engineer, Sovereign AI | Hybrid | [View →](https://www.remotejobscan.com/job/10865/forward-deployed-engineer-sovereign-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
