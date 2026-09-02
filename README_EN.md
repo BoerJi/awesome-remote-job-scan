@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2659</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2652</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KYC/KYB Analyst - Japanese Speaker | Remote | [View →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
+| Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
 | Research Manager, Biological Safety | On-site | [View →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
 | Learning Experiences Creator | Hybrid | [View →](https://www.remotejobscan.com/job/15208/learning-experiences-creator/) |
 | Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
@@ -41,8 +43,6 @@
 | AI Support Engineer - Tokyo (Korean Speaking) | On-site | [View →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
 | AI Support Engineer - Singapore (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15197/ai-support-engineer-singapore-korean-speaking/) |
 | Technical Program Manager, Enterprise Readiness | On-site | [View →](https://www.remotejobscan.com/job/15196/technical-program-manager-enterprise-readiness/) |
-| People Partner, G&A | On-site | [View →](https://www.remotejobscan.com/job/15194/people-partner-ga/) |
-| PCB Layout Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15190/pcb-layout-engineer-robotics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-02 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

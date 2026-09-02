@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2659</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2652</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KYC/KYB分析师 - 日语口语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15210/kyckyb-analyst-japanese-speaker/) |
+| 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15212/technical-customer-support-specialist/) |
 | 生物安全研究经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15209/research-manager-biological-safety/) |
 | 学习体验创建者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15208/learning-experiences-creator/) |
 | 集团合并与报告团队财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
@@ -41,8 +43,6 @@
 | AI支持工程师 - 东京（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15198/ai-support-engineer-tokyo-korean-speaking/) |
 | AI支持工程师 - 新加坡（韩语口语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15197/ai-support-engineer-singapore-korean-speaking/) |
 | 企业就绪技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15196/technical-program-manager-enterprise-readiness/) |
-| 人事合作伙伴，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15194/people-partner-ga/) |
-| PCB布局工程师，机器人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15190/pcb-layout-engineer-robotics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-02 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
