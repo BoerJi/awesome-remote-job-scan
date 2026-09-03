@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2717</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2721</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
+| Software Engineer, Native Learning Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/15445/software-engineer-native-learning-experiences/) |
+| Senior University Recruiting Program Manager | On-site | [View →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
+| Senior Technical Recruiter, AI/ML Research | On-site | [View →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
+| HR Coordinator- Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
+| Commercial Counsel-Infrastructure and GTM | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
+| Strategic Finance Senior Associate - Revenue | On-site | [View →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
+| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
+| Senior Product Manager, Compliance & Platform Experience | Hybrid | [View →](https://www.remotejobscan.com/job/15443/senior-product-manager-compliance-platform-experience/) |
+| Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
+| Senior Business Systems Analyst, Finance Systems (Assets & Lease Management) | On-site | [View →](https://www.remotejobscan.com/job/9620/senior-business-systems-analyst-finance-systems-assets-lease-management/) |
+| Senior Business Systems Analyst, Finance Systems | On-site | [View →](https://www.remotejobscan.com/job/9619/senior-business-systems-analyst-finance-systems/) |
 | Senior Employee Relations Partner | Hybrid | [View →](https://www.remotejobscan.com/job/15441/senior-employee-relations-partner/) |
 | Web Designer | Hybrid | [View →](https://www.remotejobscan.com/job/15440/web-designer/) |
 | Associate General Counsel, Commercial (Silicon) | On-site | [View →](https://www.remotejobscan.com/job/15439/associate-general-counsel-commercial-silicon/) |
@@ -30,19 +43,6 @@
 | Senior Software Engineer — Infra Agent Systems UK | On-site | [View →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
 | Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
 | Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/9868/solutions-architect-inference/) |
-| Lead/Manager Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9839/leadmanager-together-cloud-infrastructure/) |
-| Lead/Manager AI Infra Systems Engineering Team (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Junior/Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
-| AI infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
-| Threat Intelligence Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/15436/threat-intelligence-platform-engineer/) |
-| Lead - US Government Affairs & Public Policy | Hybrid | [View →](https://www.remotejobscan.com/job/15428/lead-us-government-affairs-public-policy/) |
-| Product Marketing Manager, Prime & Markets | Remote | [View →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
-| Staff Software Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
-| Researcher, Agent Safety, Oversight and System Mitigations | On-site | [View →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
-| Researcher, Agent Safety, Training and Evaluations | On-site | [View →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

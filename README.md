@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2717</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2721</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
+| 原生学习体验软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15445/software-engineer-native-learning-experiences/) |
+| 高级大学招聘项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
+| 高级技术招聘专员，AI/ML研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
+| 阿姆斯特丹人力资源协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
+| 基础设施与GTM商业顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
+| 战略财务高级助理 - 收入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
+| 战略财务高级助理 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
+| 合规与平台体验高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15443/senior-product-manager-compliance-platform-experience/) |
+| 研究顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15442/research-counsel/) |
+| 高级业务系统分析师，财务系统（资产与租赁管理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9620/senior-business-systems-analyst-finance-systems-assets-lease-management/) |
+| 高级业务系统分析师，财务系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9619/senior-business-systems-analyst-finance-systems/) |
 | 高级员工关系合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15441/senior-employee-relations-partner/) |
 | 网页设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15440/web-designer/) |
 | 硅谷商业总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15439/associate-general-counsel-commercial-silicon/) |
@@ -30,19 +43,6 @@
 | 高级软件工程师 — 基础设施代理系统 英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
 | 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
 | 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9868/solutions-architect-inference/) |
-| 联合云基础设施主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9839/leadmanager-together-cloud-infrastructure/) |
-| Lead/Manager AI基础设施系统工程团队（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 初级/高级或员工软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
-| AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
-| 威胁情报平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15436/threat-intelligence-platform-engineer/) |
-| 美国政府事务与公共政策主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15428/lead-us-government-affairs-public-policy/) |
-| 产品市场经理，Prime & Markets | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
-| 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
-| 研究员，代理安全、监督和系统缓解 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
-| 研究科学家，代理安全、培训与评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
