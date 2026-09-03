@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2711</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2709</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15327/controls-and-governance-manager-okx-sg/) |
+| 亚太、中东及非洲诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
+| 合规运营分析师（反洗钱 - 知识产权与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| (PD) 高级产品设计师，聊天体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
 | 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Senior Earn Growth Specialist 理财与借贷增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -37,12 +43,6 @@
 | 资深软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
 | 云计算战略交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14773/strategic-deals-lead-cloud-compute/) |
 | AWS GTM 公共部门与非营利组织合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15294/aws-gtm-partnership-lead-public-sector-nonprofits/) |
-| 工程人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15284/people-partner-engineering/) |
-| 人才吸引与雇主品牌专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15290/talent-attraction-and-employer-brand-specialist/) |
-| 人才寻访员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
-| 虚拟活动经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15293/virtual-events-manager/) |
-| 早期职业与实习生专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15291/early-careers-interns-specialist/) |
-| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

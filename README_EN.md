@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2711</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2709</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Controls and Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/15327/controls-and-governance-manager-okx-sg/) |
+| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
+| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| (PD) Senior Product Designer, Chat Experience | On-site | [View →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -37,12 +42,6 @@
 | Staff+ Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
 | Strategic Deals Lead, Cloud Compute | On-site | [View →](https://www.remotejobscan.com/job/14773/strategic-deals-lead-cloud-compute/) |
 | AWS GTM Partnership Lead, Public Sector & Nonprofits | On-site | [View →](https://www.remotejobscan.com/job/15294/aws-gtm-partnership-lead-public-sector-nonprofits/) |
-| People Partner, Engineering | On-site | [View →](https://www.remotejobscan.com/job/15284/people-partner-engineering/) |
-| Talent Attraction and Employer Brand Specialist | On-site | [View →](https://www.remotejobscan.com/job/15290/talent-attraction-and-employer-brand-specialist/) |
-| Talent Sourcer, G&A | On-site | [View →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
-| Virtual Events Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15293/virtual-events-manager/) |
-| Early Careers & Interns Specialist | On-site | [View →](https://www.remotejobscan.com/job/15291/early-careers-interns-specialist/) |
-| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
