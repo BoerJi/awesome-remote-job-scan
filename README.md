@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2718</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2713</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
+| Senior Earn Growth Specialist 理财与借贷增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| 内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
+| 高级软件工程师 - 区块链网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
 | 大企业销售发展经理 (美洲) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15300/sales-development-manager-enterprise-amer/) |
 | 亚太区政府关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15297/government-relations-apac/) |
 | 数字原生新业务客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15299/account-director-digital-native-new-business/) |
@@ -38,11 +43,6 @@
 | 虚拟活动经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15293/virtual-events-manager/) |
 | 早期职业与实习生专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15291/early-careers-interns-specialist/) |
 | 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| DACH地区部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15286/deployment-strategist-lead-dach/) |
-| 部署策略主管 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15285/deployment-strategist-lead-poland/) |
-| AWS合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
-| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
-| 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
