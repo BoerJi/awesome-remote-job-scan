@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2713</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2721</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太区政府关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15297/government-relations-apac/) |
+| 数字原生新业务客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15299/account-director-digital-native-new-business/) |
+| 数字原生大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15298/account-director-digital-native-large-enterprise/) |
+| 数字原生企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15295/account-director-digital-native-enterprise/) |
+| 数字原住民增长客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15296/account-director-digital-natives-growth/) |
+| 资深软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
+| 云计算战略交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14773/strategic-deals-lead-cloud-compute/) |
+| AWS GTM 公共部门与非营利组织合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15294/aws-gtm-partnership-lead-public-sector-nonprofits/) |
 | 工程人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15284/people-partner-engineering/) |
 | 人才吸引与雇主品牌专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15290/talent-attraction-and-employer-brand-specialist/) |
 | 人才寻访员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
@@ -35,14 +43,6 @@
 | 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | 高级客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
-| 高级客户总监 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
-| 制造行业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15280/senior-account-executive-manufacturing/) |
-| 高级客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15283/senior-account-executive-financial-services/) |
-| 技术项目经理，开发者体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15278/technical-program-manager-developer-experience/) |
-| 支持项目经理，支持交付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15277/support-program-manager-support-delivery/) |
-| 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15279/chief-of-staff/) |
-| 模型部署与容量技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15276/technical-program-manager-model-deployment-capacity/) |
-| 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

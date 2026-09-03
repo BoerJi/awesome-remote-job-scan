@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2713</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2721</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Government Relations - APAC | Remote | [View →](https://www.remotejobscan.com/job/15297/government-relations-apac/) |
+| Account Director, Digital Native New Business | On-site | [View →](https://www.remotejobscan.com/job/15299/account-director-digital-native-new-business/) |
+| Account Director, Digital Native Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15298/account-director-digital-native-large-enterprise/) |
+| Account Director, Digital Native Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15295/account-director-digital-native-enterprise/) |
+| Account Director, Digital Natives Growth | Hybrid | [View →](https://www.remotejobscan.com/job/15296/account-director-digital-natives-growth/) |
+| Staff+ Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
+| Strategic Deals Lead, Cloud Compute | On-site | [View →](https://www.remotejobscan.com/job/14773/strategic-deals-lead-cloud-compute/) |
+| AWS GTM Partnership Lead, Public Sector & Nonprofits | On-site | [View →](https://www.remotejobscan.com/job/15294/aws-gtm-partnership-lead-public-sector-nonprofits/) |
 | People Partner, Engineering | On-site | [View →](https://www.remotejobscan.com/job/15284/people-partner-engineering/) |
 | Talent Attraction and Employer Brand Specialist | On-site | [View →](https://www.remotejobscan.com/job/15290/talent-attraction-and-employer-brand-specialist/) |
 | Talent Sourcer, G&A | On-site | [View →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
@@ -35,14 +43,6 @@
 | Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
-| Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
-| Senior Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/15280/senior-account-executive-manufacturing/) |
-| Senior Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/15283/senior-account-executive-financial-services/) |
-| Technical Program Manager, Developer Experience | On-site | [View →](https://www.remotejobscan.com/job/15278/technical-program-manager-developer-experience/) |
-| Support Program Manager, Support Delivery | On-site | [View →](https://www.remotejobscan.com/job/15277/support-program-manager-support-delivery/) |
-| Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/15279/chief-of-staff/) |
-| Technical Program Manager, Model Deployment & Capacity | On-site | [View →](https://www.remotejobscan.com/job/15276/technical-program-manager-model-deployment-capacity/) |
-| Head of Vulnerability Disclosure & Security Community | Remote | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
