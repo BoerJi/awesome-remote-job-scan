@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2700</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2717</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级员工关系合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15441/senior-employee-relations-partner/) |
+| 网页设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15440/web-designer/) |
+| 硅谷商业总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15439/associate-general-counsel-commercial-silicon/) |
+| 高级软件工程师 Together 云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-together-cloud-infrastructure/) |
+| 高级软件工程师 — 基础设施代理系统 英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
+| 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
+| 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
+| 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9868/solutions-architect-inference/) |
+| 联合云基础设施主管/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9839/leadmanager-together-cloud-infrastructure/) |
+| Lead/Manager AI基础设施系统工程团队（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team-amsterdam/) |
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 初级/高级或员工软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13877/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
+| AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
+| 威胁情报平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15436/threat-intelligence-platform-engineer/) |
 | 美国政府事务与公共政策主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15428/lead-us-government-affairs-public-policy/) |
 | 产品市场经理，Prime & Markets | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
 | 研究员，代理安全、监督和系统缓解 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
 | 研究科学家，代理安全、培训与评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
-| 研究人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15421/people-partner-research/) |
-| EMEA 销售开发经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
-| 推理基础设施资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference-infrastructure/) |
-| 非营利及教育领域的EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-education-emea/) |
-| 非营利与教育领域的EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15401/sales-manager-nonprofit-education-emea/) |
-| 币安加速器项目 - 软件工程师（Ledger） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15419/binance-accelerator-program-software-engineer-ledger/) |
-| HPC基础设施工程师 - GPU集群 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15409/hpc-infrastructure-engineer-gpu-clusters/) |
-| 币安加速器项目 - 软件工程师（对账） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15420/binance-accelerator-program-software-engineer-reconciliation/) |
-| 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15399/manager-applied-ai-architects/) |
-| 梦想工作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8767/dream-job/) |
-| 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
-| 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
-| 战略与业务发展助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8760/strategy-business-development-associate/) |
-| 资本市场增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
-| Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
