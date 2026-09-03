@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2731</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2725</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
 | 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | 高级关联公司发展专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
@@ -42,7 +43,6 @@
 | EMEA广告销售供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15446/emea-vendor-lead-ad-sales/) |
 | 信贷与信用产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | 内部审计高级副理，运营与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
-| 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2731</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2725</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| TPM Manager, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
 | Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | Sr. Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
@@ -42,7 +43,6 @@
 | EMEA Vendor Lead, Ad Sales | Hybrid | [View →](https://www.remotejobscan.com/job/15446/emea-vendor-lead-ad-sales/) |
 | Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | Internal Audit Senior Associate, Operations & Compliance | Remote | [View →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
-| Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
