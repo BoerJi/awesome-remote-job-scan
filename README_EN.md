@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2711</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2697</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| C2C CS Specialist (Chinese) | Remote | [View →](https://www.remotejobscan.com/job/14845/c2c-cs-specialist-chinese/) |
+| Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/15334/app-review-intern/) |
 | Senior CS System Analyst (Support Systems & Automation Analyst) | Remote | [View →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
@@ -40,8 +42,6 @@
 | Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
 | Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
-| Senior Software Engineer - Blockchain Network | Remote | [View →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
-| Sales Development Manager, Enterprise (AMER) | Hybrid | [View →](https://www.remotejobscan.com/job/15300/sales-development-manager-enterprise-amer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

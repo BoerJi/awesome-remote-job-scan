@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2711</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2697</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| C2C客户服务专家（中文） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14845/c2c-cs-specialist-chinese/) |
+| 高级资产管理产品经理（资金划转、存取款） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15334/app-review-intern/) |
 | 高级客户支持系统分析师（支持系统与自动化分析师） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
@@ -41,8 +43,6 @@
 | Senior Earn Growth Specialist 理财与借贷增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
 | 内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
-| 高级软件工程师 - 区块链网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9279/senior-software-engineer-blockchain-network/) |
-| 大企业销售发展经理 (美洲) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15300/sales-development-manager-enterprise-amer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
