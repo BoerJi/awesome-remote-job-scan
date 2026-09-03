@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2697</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2708</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/15327/controls-governance-manager-okx-sg/) |
+| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
+| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
+| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/15113/cs-specialist-portuguese-spanish/) |
+| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/14617/vip-customer-support-mandarin-6-days/) |
 | C2C CS Specialist (Chinese) | Remote | [View →](https://www.remotejobscan.com/job/14845/c2c-cs-specialist-chinese/) |
 | Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
@@ -34,14 +39,9 @@
 | Senior Product Designer, Wallets | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
 | Senior Product Designer, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/15331/senior-product-designer-web3-growth/) |
 | CS Specialist (Russian) | Remote | [View →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
-| Controls and Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/15327/controls-and-governance-manager-okx-sg/) |
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | (PD) Senior Product Designer, Chat Experience | On-site | [View →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| Senior Earn Growth Specialist 理财与借贷增长专家 | Remote | [View →](https://www.remotejobscan.com/job/14274/senior-earn-growth-specialist/) |
-| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
-| Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
