@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2709</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2713</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品设计师，钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
+| Web3增长资深产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15331/senior-product-designer-web3-growth/) |
+| 俄语客服专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
 | 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15327/controls-and-governance-manager-okx-sg/) |
-| 亚太、中东及非洲诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | 合规运营分析师（反洗钱 - 知识产权与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
@@ -41,8 +43,6 @@
 | 数字原生企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15295/account-director-digital-native-enterprise/) |
 | 数字原住民增长客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15296/account-director-digital-natives-growth/) |
 | 资深软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
-| 云计算战略交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14773/strategic-deals-lead-cloud-compute/) |
-| AWS GTM 公共部门与非营利组织合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15294/aws-gtm-partnership-lead-public-sector-nonprofits/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
