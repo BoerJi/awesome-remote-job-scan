@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2704</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2713</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 工程人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15284/people-partner-engineering/) |
+| 人才吸引与雇主品牌专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15290/talent-attraction-and-employer-brand-specialist/) |
+| 人才寻访员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
+| 虚拟活动经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15293/virtual-events-manager/) |
+| 早期职业与实习生专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15291/early-careers-interns-specialist/) |
+| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
+| DACH地区部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15286/deployment-strategist-lead-dach/) |
+| 部署策略主管 - 波兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15285/deployment-strategist-lead-poland/) |
+| AWS合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
+| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
+| 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | 高级客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
 | 高级客户总监 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
 | 制造行业高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15280/senior-account-executive-manufacturing/) |
@@ -32,17 +43,6 @@
 | 首席行政官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15279/chief-of-staff/) |
 | 模型部署与容量技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15276/technical-program-manager-model-deployment-capacity/) |
 | 漏洞披露与安全社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
-| Ona产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15275/product-engineer-ona/) |
-| 人力资源（人员）并购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15274/hr-people-ma-lead/) |
-| 高级客户投诉经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
-| 技术运营会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15273/manager-technical-operational-accounting/) |
-| Codex 部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15272/codex-deployment-engineer/) |
-| 大客户经理，Meta | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15271/mega-account-executive-meta/) |
-| 高级技术项目经理，客户体验代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
-| Vaults 团队资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| 现场营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15270/field-marketing-manager/) |
-| 高级欺诈数据科学家（信用卡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist-credit-card/) |
-| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

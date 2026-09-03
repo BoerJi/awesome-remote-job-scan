@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2704</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2713</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Partner, Engineering | On-site | [View →](https://www.remotejobscan.com/job/15284/people-partner-engineering/) |
+| Talent Attraction and Employer Brand Specialist | On-site | [View →](https://www.remotejobscan.com/job/15290/talent-attraction-and-employer-brand-specialist/) |
+| Talent Sourcer, G&A | On-site | [View →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
+| Virtual Events Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15293/virtual-events-manager/) |
+| Early Careers & Interns Specialist | On-site | [View →](https://www.remotejobscan.com/job/15291/early-careers-interns-specialist/) |
+| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
+| Deployment Strategist Lead - DACH | Remote | [View →](https://www.remotejobscan.com/job/15286/deployment-strategist-lead-dach/) |
+| Deployment Strategist Lead - Poland | Remote | [View →](https://www.remotejobscan.com/job/15285/deployment-strategist-lead-poland/) |
+| Partner Development Manager - AWS | Remote | [View →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
+| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
+| Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
 | Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
 | Senior Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/15280/senior-account-executive-manufacturing/) |
@@ -32,17 +43,6 @@
 | Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/15279/chief-of-staff/) |
 | Technical Program Manager, Model Deployment & Capacity | On-site | [View →](https://www.remotejobscan.com/job/15276/technical-program-manager-model-deployment-capacity/) |
 | Head of Vulnerability Disclosure & Security Community | Remote | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
-| Product Engineer, Ona | Hybrid | [View →](https://www.remotejobscan.com/job/15275/product-engineer-ona/) |
-| HR (People) M&A Lead | Remote | [View →](https://www.remotejobscan.com/job/15274/hr-people-ma-lead/) |
-| Senior Manager, Customer Complaints | Remote | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
-| Manager, Technical & Operational Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/15273/manager-technical-operational-accounting/) |
-| Codex Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15272/codex-deployment-engineer/) |
-| Mega Account Executive, Meta | On-site | [View →](https://www.remotejobscan.com/job/15271/mega-account-executive-meta/) |
-| Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
-| Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| Field Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15270/field-marketing-manager/) |
-| Senior Fraud Data Scientist (Credit Card) | Remote | [View →](https://www.remotejobscan.com/job/8289/senior-fraud-data-scientist-credit-card/) |
-| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
