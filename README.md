@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2710</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2701</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国政府事务与公共政策主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15428/lead-us-government-affairs-public-policy/) |
+| 产品市场经理，Prime & Markets | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
 | 研究员，代理安全、监督和系统缓解 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
 | 研究科学家，代理安全、培训与评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
@@ -41,8 +43,6 @@
 | 战略与业务发展助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8760/strategy-business-development-associate/) |
 | 资本市场增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
 | Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15327/controls-governance-manager-okx-sg/) |
-| 高级/专家工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

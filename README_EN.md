@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2710</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2701</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead - US Government Affairs & Public Policy | Hybrid | [View →](https://www.remotejobscan.com/job/15428/lead-us-government-affairs-public-policy/) |
+| Product Marketing Manager, Prime & Markets | Remote | [View →](https://www.remotejobscan.com/job/14798/product-marketing-manager-prime-markets/) |
 | Staff Software Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
 | Researcher, Agent Safety, Oversight and System Mitigations | On-site | [View →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
 | Researcher, Agent Safety, Training and Evaluations | On-site | [View →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
@@ -40,8 +42,6 @@
 | Strategy & Business Development Associate | On-site | [View →](https://www.remotejobscan.com/job/8760/strategy-business-development-associate/) |
 | Director, Capital Markets Growth | On-site | [View →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
-| Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/15327/controls-governance-manager-okx-sg/) |
-| Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
