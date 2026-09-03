@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2718</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2731</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
+| Sr. Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
+| Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
+| Senior Software Engineer, GPU Infrastructure (HPC) | Hybrid | [View →](https://www.remotejobscan.com/job/15453/senior-software-engineer-gpu-infrastructure-hpc/) |
+| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| Account Director, Tech | Hybrid | [View →](https://www.remotejobscan.com/job/15451/account-director-tech/) |
+| Technical Program Manager, AI Delivery | On-site | [View →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
+| Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15449/program-specialist-ma/) |
+| Manager, Security Engineering | On-site | [View →](https://www.remotejobscan.com/job/10911/manager-security-engineering/) |
+| Scale Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scale-growth-account-executive-ai-native/) |
+| Senior Technical Program Manager, Machine Learning Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
+| Technical Program Manager, AI Delivery for Public Sector & Defence, Canada | Hybrid | [View →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
+| Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15454/engineering-manager-gpu-infrastructure/) |
 | Executive Programs Lead, Americas | Hybrid | [View →](https://www.remotejobscan.com/job/15448/executive-programs-lead-americas/) |
 | Senior Data Scientist, CX Analytics | Remote | [View →](https://www.remotejobscan.com/job/9256/senior-data-scientist-cx-analytics/) |
 | Full Stack Software Engineer, Product Explorations | Hybrid | [View →](https://www.remotejobscan.com/job/15447/full-stack-software-engineer-product-explorations/) |
@@ -30,19 +43,6 @@
 | Accounting Manager, Lending & Credit Products | Remote | [View →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | Internal Audit Senior Associate, Operations & Compliance | Remote | [View →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
 | Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
-| Software Engineer, Native Learning Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/15445/software-engineer-native-learning-experiences/) |
-| Senior University Recruiting Program Manager | On-site | [View →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
-| Senior Technical Recruiter, AI/ML Research | On-site | [View →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
-| HR Coordinator- Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
-| Commercial Counsel-Infrastructure and GTM | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
-| Strategic Finance Senior Associate - Revenue | On-site | [View →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
-| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
-| Senior Product Manager, Compliance & Platform Experience | Hybrid | [View →](https://www.remotejobscan.com/job/15443/senior-product-manager-compliance-platform-experience/) |
-| Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
-| Senior Business Systems Analyst, Finance Systems (Assets & Lease Management) | On-site | [View →](https://www.remotejobscan.com/job/9620/senior-business-systems-analyst-finance-systems-assets-lease-management/) |
-| Senior Business Systems Analyst, Finance Systems | On-site | [View →](https://www.remotejobscan.com/job/9619/senior-business-systems-analyst-finance-systems/) |
-| Senior Employee Relations Partner | Hybrid | [View →](https://www.remotejobscan.com/job/15441/senior-employee-relations-partner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

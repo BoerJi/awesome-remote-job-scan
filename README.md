@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2718</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2731</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
+| 高级关联公司发展专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
+| 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
+| 高级软件工程师，GPU基础设施（HPC） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15453/senior-software-engineer-gpu-infrastructure-hpc/) |
+| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| 技术客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15451/account-director-tech/) |
+| AI交付技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
+| 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15449/program-specialist-ma/) |
+| 安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10911/manager-security-engineering/) |
+| AI原生业务增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scale-growth-account-executive-ai-native/) |
+| 机器学习基础设施高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
+| 技术项目经理，AI交付，公共部门及国 defence，加拿大 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
+| GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15454/engineering-manager-gpu-infrastructure/) |
 | 美洲高管项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15448/executive-programs-lead-americas/) |
 | 高级数据科学家，客户体验分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9256/senior-data-scientist-cx-analytics/) |
 | 全栈软件工程师，产品探索 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15447/full-stack-software-engineer-product-explorations/) |
@@ -30,19 +43,6 @@
 | 信贷与信用产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
 | 内部审计高级副理，运营与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
 | 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
-| 原生学习体验软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15445/software-engineer-native-learning-experiences/) |
-| 高级大学招聘项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
-| 高级技术招聘专员，AI/ML研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
-| 阿姆斯特丹人力资源协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14009/hr-coordinator-amsterdam/) |
-| 基础设施与GTM商业顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
-| 战略财务高级助理 - 收入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13213/strategic-finance-senior-associate-revenue/) |
-| 战略财务高级助理 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
-| 合规与平台体验高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15443/senior-product-manager-compliance-platform-experience/) |
-| 研究顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15442/research-counsel/) |
-| 高级业务系统分析师，财务系统（资产与租赁管理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9620/senior-business-systems-analyst-finance-systems-assets-lease-management/) |
-| 高级业务系统分析师，财务系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9619/senior-business-systems-analyst-finance-systems/) |
-| 高级员工关系合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15441/senior-employee-relations-partner/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
