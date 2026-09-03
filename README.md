@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 高级产品设计师，钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
 | Web3增长资深产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15331/senior-product-designer-web3-growth/) |
 | 俄语客服专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
@@ -42,7 +43,6 @@
 | 数字原生大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15298/account-director-digital-native-large-enterprise/) |
 | 数字原生企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15295/account-director-digital-native-enterprise/) |
 | 数字原住民增长客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15296/account-director-digital-natives-growth/) |
-| 资深软件工程师，基础设施，可解释性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

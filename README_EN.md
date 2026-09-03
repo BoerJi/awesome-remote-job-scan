@@ -23,11 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Senior Product Designer, Wallets | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
 | Senior Product Designer, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/15331/senior-product-designer-web3-growth/) |
 | CS Specialist (Russian) | Remote | [View →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
 | Controls and Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/15327/controls-and-governance-manager-okx-sg/) |
-| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | (PD) Senior Product Designer, Chat Experience | On-site | [View →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
@@ -42,7 +42,6 @@
 | Account Director, Digital Native Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15298/account-director-digital-native-large-enterprise/) |
 | Account Director, Digital Native Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15295/account-director-digital-native-enterprise/) |
 | Account Director, Digital Natives Growth | Hybrid | [View →](https://www.remotejobscan.com/job/15296/account-director-digital-natives-growth/) |
-| Staff+ Software Engineer, Infrastructure, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/13123/staff-software-engineer-infrastructure-interpretability/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
