@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2706</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2693</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
 | 葡萄牙语与西班牙语客服专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15113/cs-specialist-portuguese-spanish/) |
 | VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14617/vip-customer-support-mandarin-6-days/) |
-| C2C客户服务专家（中文） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14845/c2c-cs-specialist-chinese/) |
 | 高级资产管理产品经理（资金划转、存取款） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15334/app-review-intern/) |
@@ -43,6 +42,7 @@
 | 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | 合规运营分析师（反洗钱 - 知识产权与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | (PD) 高级产品设计师，聊天体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
+| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

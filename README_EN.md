@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2706</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2693</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
 | CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/15113/cs-specialist-portuguese-spanish/) |
 | VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/14617/vip-customer-support-mandarin-6-days/) |
-| C2C CS Specialist (Chinese) | Remote | [View →](https://www.remotejobscan.com/job/14845/c2c-cs-specialist-chinese/) |
 | Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/15334/app-review-intern/) |
@@ -42,6 +41,7 @@
 | Legal Expert | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-expert/) |
 | Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
 | (PD) Senior Product Designer, Chat Experience | On-site | [View →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
+| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
