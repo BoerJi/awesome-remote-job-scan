@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2721</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2720</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 大企业销售发展经理 (美洲) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15300/sales-development-manager-enterprise-amer/) |
 | 亚太区政府关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15297/government-relations-apac/) |
 | 数字原生新业务客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15299/account-director-digital-native-new-business/) |
 | 数字原生大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15298/account-director-digital-native-large-enterprise/) |
@@ -42,7 +43,6 @@
 | AWS合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
 | 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
-| 高级客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

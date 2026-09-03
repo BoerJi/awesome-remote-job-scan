@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2721</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2720</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Manager, Enterprise (AMER) | Hybrid | [View →](https://www.remotejobscan.com/job/15300/sales-development-manager-enterprise-amer/) |
 | Government Relations - APAC | Remote | [View →](https://www.remotejobscan.com/job/15297/government-relations-apac/) |
 | Account Director, Digital Native New Business | On-site | [View →](https://www.remotejobscan.com/job/15299/account-director-digital-native-new-business/) |
 | Account Director, Digital Native Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15298/account-director-digital-native-large-enterprise/) |
@@ -42,7 +43,6 @@
 | Partner Development Manager - AWS | Remote | [View →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
 | Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
-| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/15281/senior-account-executive/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
