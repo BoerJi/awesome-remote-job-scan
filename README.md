@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2700</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2699</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理基础设施资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference-infrastructure/) |
+| 非营利及教育领域的EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-education-emea/) |
+| 非营利与教育领域的EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15401/sales-manager-nonprofit-education-emea/) |
+| HPC基础设施工程师 - GPU集群 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15409/hpc-infrastructure-engineer-gpu-clusters/) |
 | 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15399/manager-applied-ai-architects/) |
 | 梦想工作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8767/dream-job/) |
 | 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
@@ -39,10 +43,6 @@
 | 质量专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
 | 应用审核实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15334/app-review-intern/) |
 | 高级客户支持系统分析师（支持系统与自动化分析师） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
-| 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| 销售发展 - 澳新 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15337/sales-development-anz/) |
-| 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 高级产品设计师，钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

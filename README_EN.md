@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2700</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2699</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff + Senior Software Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference-infrastructure/) |
+| Sales Manager, Nonprofit & Education, EMEA | On-site | [View →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-education-emea/) |
+| HPC Infrastructure Engineer - GPU Clusters | Remote | [View →](https://www.remotejobscan.com/job/15409/hpc-infrastructure-engineer-gpu-clusters/) |
 | Manager, Applied AI Architects | Hybrid | [View →](https://www.remotejobscan.com/job/15399/manager-applied-ai-architects/) |
 | Dream Job | Remote | [View →](https://www.remotejobscan.com/job/8767/dream-job/) |
 | Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
@@ -39,10 +42,6 @@
 | QA Specialist | Remote | [View →](https://www.remotejobscan.com/job/15333/qa-specialist/) |
 | App Review Intern | Remote | [View →](https://www.remotejobscan.com/job/15334/app-review-intern/) |
 | Senior CS System Analyst (Support Systems & Automation Analyst) | Remote | [View →](https://www.remotejobscan.com/job/13178/senior-cs-system-analyst-support-systems-automation-analyst/) |
-| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| Sales Development - ANZ | Remote | [View →](https://www.remotejobscan.com/job/15337/sales-development-anz/) |
-| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Senior Product Designer, Wallets | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
