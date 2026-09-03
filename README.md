@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2693</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2694</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 梦想工作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8767/dream-job/) |
+| 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
+| 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
+| 战略与业务发展助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8760/strategy-business-development-associate/) |
+| 资本市场增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8808/director-capital-markets-growth/) |
+| Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15327/controls-governance-manager-okx-sg/) |
 | 高级/专家工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
 | Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
@@ -37,12 +43,6 @@
 | 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 高级产品设计师，钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
 | Web3增长资深产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15331/senior-product-designer-web3-growth/) |
-| 俄语客服专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14710/cs-specialist-russian/) |
-| 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 法律专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-expert/) |
-| 合规运营分析师（反洗钱 - 知识产权与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| (PD) 高级产品设计师，聊天体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15226/pd-senior-product-designer-chat-experience/) |
-| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
