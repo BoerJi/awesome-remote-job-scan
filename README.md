@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2721</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2718</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美洲高管项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15448/executive-programs-lead-americas/) |
+| 高级数据科学家，客户体验分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9256/senior-data-scientist-cx-analytics/) |
+| 全栈软件工程师，产品探索 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15447/full-stack-software-engineer-product-explorations/) |
+| EMEA广告销售供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15446/emea-vendor-lead-ad-sales/) |
+| 信贷与信用产品会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9187/accounting-manager-lending-credit-products/) |
+| 内部审计高级副理，运营与合规 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12272/internal-audit-senior-associate-operations-compliance/) |
 | 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
 | 原生学习体验软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15445/software-engineer-native-learning-experiences/) |
 | 高级大学招聘项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13226/senior-university-recruiting-program-manager/) |
@@ -37,12 +43,6 @@
 | 高级业务系统分析师，财务系统（资产与租赁管理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9620/senior-business-systems-analyst-finance-systems-assets-lease-management/) |
 | 高级业务系统分析师，财务系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9619/senior-business-systems-analyst-finance-systems/) |
 | 高级员工关系合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15441/senior-employee-relations-partner/) |
-| 网页设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15440/web-designer/) |
-| 硅谷商业总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15439/associate-general-counsel-commercial-silicon/) |
-| 高级软件工程师 Together 云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-together-cloud-infrastructure/) |
-| 高级软件工程师 — 基础设施代理系统 英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
-| 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
-| 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
