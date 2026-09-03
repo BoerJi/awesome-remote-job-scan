@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2707</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2710</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
+| 研究员，代理安全、监督和系统缓解 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
+| 研究科学家，代理安全、培训与评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
 | 研究人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15421/people-partner-research/) |
 | EMEA 销售开发经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
 | 推理基础设施资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference-infrastructure/) |
@@ -40,9 +43,6 @@
 | Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15327/controls-governance-manager-okx-sg/) |
 | 高级/专家工程师 - 交易中台平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| Staff / Senior Staff Software Engineer, 匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
-| 葡萄牙语与西班牙语客服专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15113/cs-specialist-portuguese-spanish/) |
-| VIP客户支持（普通话）- 6天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14617/vip-customer-support-mandarin-6-days/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-03 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

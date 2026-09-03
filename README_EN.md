@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2707</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2710</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
+| Researcher, Agent Safety, Oversight and System Mitigations | On-site | [View →](https://www.remotejobscan.com/job/15427/researcher-agent-safety-oversight-and-system-mitigations/) |
+| Researcher, Agent Safety, Training and Evaluations | On-site | [View →](https://www.remotejobscan.com/job/15426/researcher-agent-safety-training-and-evaluations/) |
 | People Partner, Research | On-site | [View →](https://www.remotejobscan.com/job/15421/people-partner-research/) |
 | Manager, Sales Development - EMEA | On-site | [View →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
 | Staff + Senior Software Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9657/staff-senior-software-engineer-inference-infrastructure/) |
@@ -39,9 +42,6 @@
 | Staff Backend Engineer, Vaults | Remote | [View →](https://www.remotejobscan.com/job/14482/staff-backend-engineer-vaults/) |
 | Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/15327/controls-governance-manager-okx-sg/) |
 | Senior/Staff Engineer - Exchange Middle Platform | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-exchange-middle-platform/) |
-| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/7520/staff-senior-staff-software-engineer-matching-engine/) |
-| CS Specialist (Portuguese & Spanish) | Remote | [View →](https://www.remotejobscan.com/job/15113/cs-specialist-portuguese-spanish/) |
-| VIP Customer Support (Mandarin) - 6 days | Remote | [View →](https://www.remotejobscan.com/job/14617/vip-customer-support-mandarin-6-days/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
