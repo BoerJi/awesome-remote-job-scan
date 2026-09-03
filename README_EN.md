@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2694</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2700</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Applied AI Architects | Hybrid | [View →](https://www.remotejobscan.com/job/15399/manager-applied-ai-architects/) |
 | Dream Job | Remote | [View →](https://www.remotejobscan.com/job/8767/dream-job/) |
 | Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/8809/solutions-engineer/) |
 | Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
@@ -42,7 +43,6 @@
 | Sales Development - ANZ | Remote | [View →](https://www.remotejobscan.com/job/15337/sales-development-anz/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Senior Product Designer, Wallets | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-wallets/) |
-| Senior Product Designer, Web3 Growth | On-site | [View →](https://www.remotejobscan.com/job/15331/senior-product-designer-web3-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-03 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
