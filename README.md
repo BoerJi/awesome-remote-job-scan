@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2757</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2759</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SF地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10588/account-associate-sf/) |
+| 全球健康合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
+| 制裁合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15560/sanctions-compliance-lead/) |
+| 业务发展经理 - Hungry | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungry/) |
+| 仓库与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
+| 高级支持工程师 - 新加坡 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15562/senior-support-engineer-singapore/) |
 | 企业客户经理（佛罗里达州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15557/enterprise-account-executive-florida/) |
 | 企业客户经理（亚特兰大） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15558/enterprise-account-executive-atlanta/) |
 | 全球事务代理标准专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15555/agent-standards-specialist-global-affairs/) |
@@ -37,11 +43,6 @@
 | 高级软件工程师，客户洞察 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11848/senior-software-engineer-customer-insights/) |
 | 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
 | 应用人工智能研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
-| 技术收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15546/director-technical-revenue-accounting/) |
-| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
-| 部署架构师，专业服务（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
-| 部署架构师，专业服务（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
-| 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
