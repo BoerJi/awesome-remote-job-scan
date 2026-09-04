@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2767</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2761</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务与战略、计算（中央） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15578/finance-strategy-compute-central/) |
+| 高级核心软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
+| 能源监管主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15577/energy-regulatory-lead/) |
 | 高级市场数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
 | 高级网络工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15572/senior-network-engineer/) |
 | 硬件系统规划负责人 (1P) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
@@ -40,9 +43,6 @@
 | SF地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10588/account-associate-sf/) |
 | 全球健康合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | 制裁合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15560/sanctions-compliance-lead/) |
-| 业务发展经理 - Hungry | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungry/) |
-| 仓库与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
-| 高级支持工程师 - 新加坡 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15562/senior-support-engineer-singapore/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

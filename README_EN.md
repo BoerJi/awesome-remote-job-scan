@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2767</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2761</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy, Compute (Central) | On-site | [View →](https://www.remotejobscan.com/job/15578/finance-strategy-compute-central/) |
+| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
+| Energy Regulatory Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15577/energy-regulatory-lead/) |
 | Senior Market Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
 | Senior Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/15572/senior-network-engineer/) |
 | Hardware Systems Planning Lead (1P) | On-site | [View →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
@@ -40,9 +43,6 @@
 | Account Associate - SF | Hybrid | [View →](https://www.remotejobscan.com/job/10588/account-associate-sf/) |
 | Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | Sanctions Compliance Lead | On-site | [View →](https://www.remotejobscan.com/job/15560/sanctions-compliance-lead/) |
-| Business Development Manager - Hungry | On-site | [View →](https://www.remotejobscan.com/job/15559/business-development-manager-hungry/) |
-| Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
-| Senior Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/15562/senior-support-engineer-singapore/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
