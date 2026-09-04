@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2745</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2736</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| FCM Tech Lead | Remote | [View →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
+| Risk Control Platform Product Manager 风控平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15509/risk-control-platform-product-manager/) |
+| Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| Senior Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
-| Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Compliance Manager (US) | Remote | [View →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
@@ -42,7 +43,6 @@
 | Sales Strategy, Operational Excellence | On-site | [View →](https://www.remotejobscan.com/job/15459/sales-strategy-operational-excellence/) |
 | Marketing Manager - Central Africa | Remote | [View →](https://www.remotejobscan.com/job/15483/marketing-manager-central-africa/) |
 | TPM Manager, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
-| Binance Accelerator Program - Events | Remote | [View →](https://www.remotejobscan.com/job/15479/binance-accelerator-program-events/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
