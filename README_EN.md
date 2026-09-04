@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2745</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2742</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel - Regulatory (UK) | Remote | [View →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
+| Senior Growth Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
+| FIU Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
 | Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | Partner Solutions Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
@@ -40,9 +43,6 @@
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
 | Enterprise Account Executive - DNB | On-site | [View →](https://www.remotejobscan.com/job/15490/enterprise-account-executive-dnb/) |
 | Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
-| Senior Compliance Analyst, Canada | Hybrid | [View →](https://www.remotejobscan.com/job/15486/senior-compliance-analyst-canada/) |
-| Data Infrastructure Engineer, Pre-training | On-site | [View →](https://www.remotejobscan.com/job/15477/data-infrastructure-engineer-pre-training/) |
-| Manager, Technical Deployment (Financial Services) | On-site | [View →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
