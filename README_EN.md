@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
 | Senior Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15537/senior-tax-manager/) |
 | Counsel - Regulatory (UK) | Remote | [View →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
 | Senior Growth Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
@@ -42,7 +43,6 @@
 | Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 | Field Marketing Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/15499/field-marketing-lead-apac/) |
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
-| Enterprise Account Executive - DNB | On-site | [View →](https://www.remotejobscan.com/job/15490/enterprise-account-executive-dnb/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
