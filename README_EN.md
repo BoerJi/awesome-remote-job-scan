@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2747</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2745</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
+| Senior Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
+| Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Compliance Manager (US) | Remote | [View →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
@@ -40,9 +43,6 @@
 | Marketing Manager - Central Africa | Remote | [View →](https://www.remotejobscan.com/job/15483/marketing-manager-central-africa/) |
 | TPM Manager, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
 | Binance Accelerator Program - Events | Remote | [View →](https://www.remotejobscan.com/job/15479/binance-accelerator-program-events/) |
-| Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
-| Sr. Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
-| Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
