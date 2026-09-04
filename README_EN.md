@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2748</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2752</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
+| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
+| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
+| Senior Software Engineer, Customer Insights | On-site | [View →](https://www.remotejobscan.com/job/11848/senior-software-engineer-customer-insights/) |
 | Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
 | Applied AI, Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
 | Director, Technical Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/15546/director-technical-revenue-accounting/) |
@@ -38,10 +42,6 @@
 | Customer Complaints Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/15538/customer-complaints-senior-manager/) |
 | Manager, Sales Development - EMEA | On-site | [View →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
 | Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
-| Senior Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15537/senior-tax-manager/) |
-| Counsel - Regulatory (UK) | Remote | [View →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
-| Senior Growth Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
-| FIU Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
