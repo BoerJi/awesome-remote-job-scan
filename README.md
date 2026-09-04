@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2758</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2763</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场数据与分析工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
+| 研究与教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
+| 技术团队成员，内部代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
+| 首席应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15568/lead-applied-ai-engineer/) |
+| 高级后端软件工程师（资金流动） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15569/senior-software-engineer-backend-money-movement/) |
+| G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15566/ga-recruiter/) |
+| 基础设施系统与工具技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15564/technical-program-manager-infrastructure-systems-tooling/) |
+| 生命科学企业发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
 | SF地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10588/account-associate-sf/) |
 | 全球健康合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | 制裁合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15560/sanctions-compliance-lead/) |
@@ -35,14 +43,6 @@
 | 旅行广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15556/client-partner-ads-solutions-travel/) |
 | 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
 | 增长营销、创意与广告运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15554/growth-marketing-creative-and-ad-operations/) |
-| Staff+ 软件工程师，安全防护人类审查工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
-| Staff+ 网站可靠性工程师，安全 ML 基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
-| 基础设施租赁会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
-| 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
-| 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| 高级软件工程师，客户洞察 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11848/senior-software-engineer-customer-insights/) |
-| 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
-| 应用人工智能研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

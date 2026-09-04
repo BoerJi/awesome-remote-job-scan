@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2758</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2763</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Market Data & Analytics | Remote | [View →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
+| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
+| Member of the Technical Staff, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
+| Lead Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/15568/lead-applied-ai-engineer/) |
+| Senior Software Engineer, Backend (Money Movement) | Remote | [View →](https://www.remotejobscan.com/job/15569/senior-software-engineer-backend-money-movement/) |
+| G&A Recruiter | On-site | [View →](https://www.remotejobscan.com/job/15566/ga-recruiter/) |
+| Technical Program Manager, Infrastructure Systems & Tooling | Hybrid | [View →](https://www.remotejobscan.com/job/15564/technical-program-manager-infrastructure-systems-tooling/) |
+| Corporate Development Lead, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
 | Account Associate - SF | Hybrid | [View →](https://www.remotejobscan.com/job/10588/account-associate-sf/) |
 | Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | Sanctions Compliance Lead | On-site | [View →](https://www.remotejobscan.com/job/15560/sanctions-compliance-lead/) |
@@ -35,14 +43,6 @@
 | Client Partner, Ads Solutions - Travel | Hybrid | [View →](https://www.remotejobscan.com/job/15556/client-partner-ads-solutions-travel/) |
 | Partner Sales Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
 | Growth Marketing, Creative and Ad Operations | On-site | [View →](https://www.remotejobscan.com/job/15554/growth-marketing-creative-and-ad-operations/) |
-| Staff+ Software Engineer, Safeguards Human Review Tooling | On-site | [View →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
-| Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote | [View →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
-| Senior Manager, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
-| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
-| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| Senior Software Engineer, Customer Insights | On-site | [View →](https://www.remotejobscan.com/job/11848/senior-software-engineer-customer-insights/) |
-| Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
-| Applied AI, Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
