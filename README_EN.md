@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2742</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2748</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Tax Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15537/senior-tax-manager/) |
 | Counsel - Regulatory (UK) | Remote | [View →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
 | Senior Growth Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
 | FIU Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
@@ -42,7 +43,6 @@
 | Field Marketing Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/15499/field-marketing-lead-apac/) |
 | Staff+ Software Engineer, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
 | Enterprise Account Executive - DNB | On-site | [View →](https://www.remotejobscan.com/job/15490/enterprise-account-executive-dnb/) |
-| Reseller Operations Manager, Japan & Korea | On-site | [View →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

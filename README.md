@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2742</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2748</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级税务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15537/senior-tax-manager/) |
 | 英国监管顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
 | Senior Growth Operations Manager | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
 | FIU合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
@@ -42,7 +43,6 @@
 | 亚太区现场营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15499/field-marketing-lead-apac/) |
 | Staff+ 软件工程师，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
 | 企业客户经理 - DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15490/enterprise-account-executive-dnb/) |
-| 日本及韩国经销商运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
