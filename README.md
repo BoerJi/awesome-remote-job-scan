@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2734</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2748</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 部署架构师，专业服务（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
+| 部署架构师，专业服务（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
+| 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
+| 部署架构师，专业服务（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
+| 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
+| 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
+| 部署工程师，专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
+| 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
 | 客户投诉高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15538/customer-complaints-senior-manager/) |
 | EMEA 销售开发经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
 | 高级合作伙伴销售经理，系统集成商 - 欧美 & 北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
@@ -35,14 +43,6 @@
 | 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | 高级基础设施工程师，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
 | 交易基础设施工程师（高级职位） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
-| 法律运营助理，运营管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| CFM技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
-| Risk Control Platform Product Manager 风控平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15509/risk-control-platform-product-manager/) |
-| Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
-| 土耳其KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| 合规经理（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
-| 美国合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

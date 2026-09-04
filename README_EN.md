@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2734</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2748</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
+| Deployed Architect, Professional Services (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
+| Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
+| Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
+| Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
+| Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
+| Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
+| Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
 | Customer Complaints Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/15538/customer-complaints-senior-manager/) |
 | Manager, Sales Development - EMEA | On-site | [View →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
 | Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
@@ -35,14 +43,6 @@
 | 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
 | Senior Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
 | Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
-| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
-| FCM Tech Lead | Remote | [View →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
-| Risk Control Platform Product Manager 风控平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15509/risk-control-platform-product-manager/) |
-| Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
-| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| Compliance Manager (US) | Remote | [View →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
-| Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
