@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2763</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2764</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
+| 硬件市场策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15570/strategy-and-operations-lead-hardware/) |
+| 英国商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15571/commercial-account-executive-uk/) |
 | 市场数据与分析工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
 | 研究与教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | 技术团队成员，内部代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
@@ -40,9 +43,6 @@
 | 企业客户经理（佛罗里达州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15557/enterprise-account-executive-florida/) |
 | 企业客户经理（亚特兰大） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15558/enterprise-account-executive-atlanta/) |
 | 全球事务代理标准专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15555/agent-standards-specialist-global-affairs/) |
-| 旅行广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15556/client-partner-ads-solutions-travel/) |
-| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
-| 增长营销、创意与广告运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15554/growth-marketing-creative-and-ad-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
