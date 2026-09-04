@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2739</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2747</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | 合规经理（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | 美国合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 | 亚太区现场营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15499/field-marketing-lead-apac/) |
@@ -42,7 +43,6 @@
 | 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | 高级关联公司发展专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
-| 高级软件工程师，GPU基础设施（HPC） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15453/senior-software-engineer-gpu-infrastructure-hpc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

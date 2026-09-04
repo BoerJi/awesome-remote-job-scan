@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2739</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2747</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Compliance Manager (US) | Remote | [View →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | Head of Compliance (US) | Remote | [View →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
 | Field Marketing Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/15499/field-marketing-lead-apac/) |
@@ -42,7 +43,6 @@
 | Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | Sr. Associate, Corporate Development | Remote | [View →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
-| Senior Software Engineer, GPU Infrastructure (HPC) | Hybrid | [View →](https://www.remotejobscan.com/job/15453/senior-software-engineer-gpu-infrastructure-hpc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
