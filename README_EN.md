@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2748</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2750</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Technical Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/15546/director-technical-revenue-accounting/) |
+| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
 | Deployed Architect, Professional Services (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
 | Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
@@ -40,9 +42,6 @@
 | FIU Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
 | Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | Partner Solutions Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
-| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| Senior Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
-| Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

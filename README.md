@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2748</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2750</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15546/director-technical-revenue-accounting/) |
+| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | 部署架构师，专业服务（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
 | 部署架构师，专业服务（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
 | 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
@@ -40,9 +42,6 @@
 | FIU合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
 | Institutional Clients Operations 资管机构运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | 合作伙伴解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
-| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
-| 高级基础设施工程师，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
-| 交易基础设施工程师（高级职位） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
