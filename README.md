@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2732</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2733</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,12 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据基础设施工程师，预训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/data-infrastructure-engineer-pre-training/) |
 | 金融服务技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
 | 合规 - 反洗钱经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15460/compliance-aml-manager/) |
 | 州和地方政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15461/account-director-state-and-local-government/) |
 | 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
 | 销售策略与运营卓越 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15459/sales-strategy-operational-excellence/) |
+| 中非地区市场经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15483/marketing-manager-central-africa/) |
 | 基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
+| 币安加速器计划 - 活动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15479/binance-accelerator-program-events/) |
 | 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | 高级关联公司发展专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15456/sr-associate-corporate-development/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
@@ -40,9 +43,6 @@
 | 安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10911/manager-security-engineering/) |
 | AI原生业务增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scale-growth-account-executive-ai-native/) |
 | 机器学习基础设施高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
-| 技术项目经理，AI交付，公共部门及国 defence，加拿大 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
-| GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15454/engineering-manager-gpu-infrastructure/) |
-| 美洲高管项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15448/executive-programs-lead-americas/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
