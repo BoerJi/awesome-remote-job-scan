@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2735</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2745</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Institutional Clients Operations 资管机构运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
+| 合作伙伴解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
+| 量化开发工程师-高频交易系统方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| 高级基础设施工程师，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
+| 交易基础设施工程师（高级职位） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
+| 法律运营助理，运营管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | CFM技术负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
 | Risk Control Platform Product Manager 风控平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15509/risk-control-platform-product-manager/) |
 | Institutional Relationship Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
@@ -37,12 +43,6 @@
 | 加拿大高级合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15486/senior-compliance-analyst-canada/) |
 | 数据基础设施工程师，预训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/data-infrastructure-engineer-pre-training/) |
 | 金融服务技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
-| 合规 - 反洗钱经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15460/compliance-aml-manager/) |
-| 州和地方政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15461/account-director-state-and-local-government/) |
-| 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
-| 销售策略与运营卓越 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15459/sales-strategy-operational-excellence/) |
-| 中非地区市场经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15483/marketing-manager-central-africa/) |
-| 基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

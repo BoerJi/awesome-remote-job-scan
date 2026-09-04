@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2735</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2745</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
+| Partner Solutions Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
+| 量化开发工程师-高频交易系统方向 | Remote | [View →](https://www.remotejobscan.com/job/8385/job-8385/) |
+| Senior Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/15508/senior-infrastructure-engineer-trading/) |
+| Staff Infrastructure Engineer, Trading | Remote | [View →](https://www.remotejobscan.com/job/14042/staff-infrastructure-engineer-trading/) |
+| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/13257/legal-ops-associate-oc-management/) |
 | FCM Tech Lead | Remote | [View →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
 | Risk Control Platform Product Manager 风控平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15509/risk-control-platform-product-manager/) |
 | Institutional Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-manager/) |
@@ -37,12 +43,6 @@
 | Senior Compliance Analyst, Canada | Hybrid | [View →](https://www.remotejobscan.com/job/15486/senior-compliance-analyst-canada/) |
 | Data Infrastructure Engineer, Pre-training | On-site | [View →](https://www.remotejobscan.com/job/15477/data-infrastructure-engineer-pre-training/) |
 | Manager, Technical Deployment (Financial Services) | On-site | [View →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
-| Compliance - AML Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15460/compliance-aml-manager/) |
-| Account Director, State and Local Government | Hybrid | [View →](https://www.remotejobscan.com/job/15461/account-director-state-and-local-government/) |
-| Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
-| Sales Strategy, Operational Excellence | On-site | [View →](https://www.remotejobscan.com/job/15459/sales-strategy-operational-excellence/) |
-| Marketing Manager - Central Africa | Remote | [View →](https://www.remotejobscan.com/job/15483/marketing-manager-central-africa/) |
-| TPM Manager, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15458/tpm-manager-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
