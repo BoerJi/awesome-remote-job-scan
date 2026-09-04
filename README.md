@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2764</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2767</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级市场数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
+| 高级网络工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15572/senior-network-engineer/) |
+| 硬件系统规划负责人 (1P) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
 | 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
 | 硬件市场策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15570/strategy-and-operations-lead-hardware/) |
 | 英国商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15571/commercial-account-executive-uk/) |
@@ -40,9 +43,6 @@
 | 业务发展经理 - Hungry | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungry/) |
 | 仓库与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
 | 高级支持工程师 - 新加坡 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15562/senior-support-engineer-singapore/) |
-| 企业客户经理（佛罗里达州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15557/enterprise-account-executive-florida/) |
-| 企业客户经理（亚特兰大） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15558/enterprise-account-executive-atlanta/) |
-| 全球事务代理标准专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15555/agent-standards-specialist-global-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

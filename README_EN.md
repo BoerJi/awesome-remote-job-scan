@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2764</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2767</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Market Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
+| Senior Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/15572/senior-network-engineer/) |
+| Hardware Systems Planning Lead (1P) | On-site | [View →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
 | Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
 | Strategy and Operations Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/15570/strategy-and-operations-lead-hardware/) |
 | Commercial Account Executive (UK) | On-site | [View →](https://www.remotejobscan.com/job/15571/commercial-account-executive-uk/) |
@@ -40,9 +43,6 @@
 | Business Development Manager - Hungry | On-site | [View →](https://www.remotejobscan.com/job/15559/business-development-manager-hungry/) |
 | Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
 | Senior Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/15562/senior-support-engineer-singapore/) |
-| Enterprise Account Executive (Florida) | Remote | [View →](https://www.remotejobscan.com/job/15557/enterprise-account-executive-florida/) |
-| Enterprise Account Executive (Atlanta) | Hybrid | [View →](https://www.remotejobscan.com/job/15558/enterprise-account-executive-atlanta/) |
-| Agent Standards Specialist, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/15555/agent-standards-specialist-global-affairs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
