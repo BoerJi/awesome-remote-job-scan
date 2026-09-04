@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2748</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2735</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户投诉高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15538/customer-complaints-senior-manager/) |
 | EMEA 销售开发经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
 | 高级合作伙伴销售经理，系统集成商 - 欧美 & 北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
 | 高级税务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15537/senior-tax-manager/) |
@@ -42,7 +43,6 @@
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | 合规经理（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14595/compliance-manager-us/) |
 | 美国合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14542/head-of-compliance-us/) |
-| 亚太区现场营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15499/field-marketing-lead-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
