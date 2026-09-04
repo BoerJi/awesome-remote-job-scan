@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2752</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2758</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理（佛罗里达州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15557/enterprise-account-executive-florida/) |
+| 企业客户经理（亚特兰大） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15558/enterprise-account-executive-atlanta/) |
+| 全球事务代理标准专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15555/agent-standards-specialist-global-affairs/) |
+| 旅行广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15556/client-partner-ads-solutions-travel/) |
+| 系统集成商合作伙伴销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13355/partner-sales-manager-systems-integrators/) |
+| 增长营销、创意与广告运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15554/growth-marketing-creative-and-ad-operations/) |
+| Staff+ 软件工程师，安全防护人类审查工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
+| Staff+ 网站可靠性工程师，安全 ML 基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | 基础设施租赁会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
 | 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
@@ -34,14 +42,6 @@
 | 部署架构师，专业服务（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
 | 部署架构师，专业服务（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
 | 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
-| 部署架构师，专业服务（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
-| 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
-| 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
-| 部署工程师，专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
-| 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
-| 客户投诉高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15538/customer-complaints-senior-manager/) |
-| EMEA 销售开发经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15418/manager-sales-development-emea/) |
-| 高级合作伙伴销售经理，系统集成商 - 欧美 & 北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14453/senior-partner-sales-manager-systems-integrators-emea-north/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
