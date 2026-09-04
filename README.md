@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2732</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2737</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15490/enterprise-account-executive-dnb/) |
+| 日本及韩国经销商运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14808/reseller-operations-manager-japan-korea/) |
+| 加拿大高级合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15486/senior-compliance-analyst-canada/) |
 | 数据基础设施工程师，预训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/data-infrastructure-engineer-pre-training/) |
 | 金融服务技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
 | 合规 - 反洗钱经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15460/compliance-aml-manager/) |
@@ -40,9 +43,6 @@
 | 技术客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15451/account-director-tech/) |
 | AI交付技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13864/technical-program-manager-ai-delivery/) |
 | 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15449/program-specialist-ma/) |
-| 安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10911/manager-security-engineering/) |
-| AI原生业务增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scale-growth-account-executive-ai-native/) |
-| 机器学习基础设施高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15021/senior-technical-program-manager-machine-learning-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
