@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2727</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2732</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融服务技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
 | 合规 - 反洗钱经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15460/compliance-aml-manager/) |
 | 州和地方政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15461/account-director-state-and-local-government/) |
 | 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
@@ -42,7 +43,6 @@
 | 技术项目经理，AI交付，公共部门及国 defence，加拿大 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
 | GPU基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15454/engineering-manager-gpu-infrastructure/) |
 | 美洲高管项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15448/executive-programs-lead-americas/) |
-| 高级数据科学家，客户体验分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9256/senior-data-scientist-cx-analytics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2727</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2732</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Technical Deployment (Financial Services) | On-site | [View →](https://www.remotejobscan.com/job/15468/manager-technical-deployment-financial-services/) |
 | Compliance - AML Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15460/compliance-aml-manager/) |
 | Account Director, State and Local Government | Hybrid | [View →](https://www.remotejobscan.com/job/15461/account-director-state-and-local-government/) |
 | Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
@@ -42,7 +43,6 @@
 | Technical Program Manager, AI Delivery for Public Sector & Defence, Canada | Hybrid | [View →](https://www.remotejobscan.com/job/10927/technical-program-manager-ai-delivery-for-public-sector-defence-canada/) |
 | Engineering Manager, GPU Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15454/engineering-manager-gpu-infrastructure/) |
 | Executive Programs Lead, Americas | Hybrid | [View →](https://www.remotejobscan.com/job/15448/executive-programs-lead-americas/) |
-| Senior Data Scientist, CX Analytics | Remote | [View →](https://www.remotejobscan.com/job/9256/senior-data-scientist-cx-analytics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
