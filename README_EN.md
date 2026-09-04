@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2750</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2748</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
+| Applied AI, Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
 | Director, Technical Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/15546/director-technical-revenue-accounting/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
@@ -40,8 +42,6 @@
 | Counsel - Regulatory (UK) | Remote | [View →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
 | Senior Growth Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
 | FIU Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
-| Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
-| Partner Solutions Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-04 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2750</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2748</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
+| 应用人工智能研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
 | 技术收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15546/director-technical-revenue-accounting/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8874/senior-staff-software-engineer-mobile-infrastructure/) |
 | 部署架构师，专业服务（纽约市） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
@@ -40,8 +42,6 @@
 | 英国监管顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15530/counsel-regulatory-uk/) |
 | Senior Growth Operations Manager | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15223/senior-growth-operations-manager/) |
 | FIU合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15529/fiu-compliance-associate/) |
-| Institutional Clients Operations 资管机构运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
-| 合作伙伴解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15526/partner-solutions-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-04 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
