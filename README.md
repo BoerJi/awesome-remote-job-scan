@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2774</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2775</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Statsig产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15608/product-manager-statsig/) |
 | 项目组0 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15592/cohort-0/) |
 | 软件工程师，HSM基础设施安全，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | 产品设计师，评估与提示 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15581/product-designer-evals-prompts/) |
@@ -42,7 +43,6 @@
 | 英国商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15571/commercial-account-executive-uk/) |
 | 市场数据与分析工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
 | 研究与教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
-| 技术团队成员，内部代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
