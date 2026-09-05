@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 项目组0 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15592/cohort-0/) |
 | 软件工程师，HSM基础设施安全，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | 产品设计师，评估与提示 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15581/product-designer-evals-prompts/) |
 | 高级专项项目安全经理（CSSO/CPSO） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15584/senior-special-programs-security-manager-cssocpso/) |
@@ -42,7 +43,6 @@
 | 市场数据与分析工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
 | 研究与教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | 技术团队成员，内部代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| 首席应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15568/lead-applied-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

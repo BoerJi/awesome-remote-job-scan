@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Cohort 0 | Hybrid | [View →](https://www.remotejobscan.com/job/15592/cohort-0/) |
 | Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | Product Designer, Evals & Prompts | On-site | [View →](https://www.remotejobscan.com/job/15581/product-designer-evals-prompts/) |
 | Senior Special Programs Security Manager (CSSO/CPSO) | Hybrid | [View →](https://www.remotejobscan.com/job/15584/senior-special-programs-security-manager-cssocpso/) |
@@ -42,7 +43,6 @@
 | Engineering Manager, Market Data & Analytics | Remote | [View →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
 | Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | Member of the Technical Staff, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
-| Lead Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/15568/lead-applied-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
