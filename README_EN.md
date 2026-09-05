@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2773</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2774</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Host Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/15625/software-engineer-host-assurance/) |
 | FP&A Manager/Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | Member of Technical Staff (Software Engineer, Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/15609/member-of-technical-staff-software-engineer-infrastructure/) |
 | Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
@@ -42,7 +43,6 @@
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Energy Regulatory Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15577/energy-regulatory-lead/) |
 | Senior Market Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
-| Senior Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/15572/senior-network-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
