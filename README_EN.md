@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,12 +34,6 @@
 | Product Manager, Statsig | Hybrid | [View →](https://www.remotejobscan.com/job/15608/product-manager-statsig/) |
 | Cohort 0 | Hybrid | [View →](https://www.remotejobscan.com/job/15592/cohort-0/) |
 | Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
-| Product Designer, Evals & Prompts | On-site | [View →](https://www.remotejobscan.com/job/15581/product-designer-evals-prompts/) |
-| Senior Special Programs Security Manager (CSSO/CPSO) | Hybrid | [View →](https://www.remotejobscan.com/job/15584/senior-special-programs-security-manager-cssocpso/) |
-| Personnel Security Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/15583/personnel-security-specialist/) |
-| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/15579/finance-strategy-datacenter-strategic-initiatives/) |
-| Senior Manager, Infrastructure Asset Accounting | On-site | [View →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
-| Procurement Operations Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
