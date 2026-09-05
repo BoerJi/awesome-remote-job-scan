@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2761</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2768</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
+| Product Designer, Evals & Prompts | On-site | [View →](https://www.remotejobscan.com/job/15581/product-designer-evals-prompts/) |
+| Senior Special Programs Security Manager (CSSO/CPSO) | Hybrid | [View →](https://www.remotejobscan.com/job/15584/senior-special-programs-security-manager-cssocpso/) |
+| Personnel Security Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/15583/personnel-security-specialist/) |
+| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/15579/finance-strategy-datacenter-strategic-initiatives/) |
+| Senior Manager, Infrastructure Asset Accounting | On-site | [View →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
+| Procurement Operations Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
 | Finance & Strategy, Compute (Central) | On-site | [View →](https://www.remotejobscan.com/job/15578/finance-strategy-compute-central/) |
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Energy Regulatory Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15577/energy-regulatory-lead/) |
@@ -36,13 +43,6 @@
 | Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | Member of the Technical Staff, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/member-of-the-technical-staff-internal-agent/) |
 | Lead Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/15568/lead-applied-ai-engineer/) |
-| Senior Software Engineer, Backend (Money Movement) | Remote | [View →](https://www.remotejobscan.com/job/15569/senior-software-engineer-backend-money-movement/) |
-| G&A Recruiter | On-site | [View →](https://www.remotejobscan.com/job/15566/ga-recruiter/) |
-| Technical Program Manager, Infrastructure Systems & Tooling | Hybrid | [View →](https://www.remotejobscan.com/job/15564/technical-program-manager-infrastructure-systems-tooling/) |
-| Corporate Development Lead, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
-| Account Associate - SF | Hybrid | [View →](https://www.remotejobscan.com/job/10588/account-associate-sf/) |
-| Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
-| Sanctions Compliance Lead | On-site | [View →](https://www.remotejobscan.com/job/15560/sanctions-compliance-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
