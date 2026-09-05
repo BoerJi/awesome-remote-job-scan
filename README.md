@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -40,7 +40,6 @@
 | 财务与战略、数据中心战略计划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15579/finance-strategy-datacenter-strategic-initiatives/) |
 | 基础设施资产会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
 | 研发运营采购运营合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
-| 财务与战略、计算（中央） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15578/finance-strategy-compute-central/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

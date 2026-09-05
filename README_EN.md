@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -40,7 +40,6 @@
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/15579/finance-strategy-datacenter-strategic-initiatives/) |
 | Senior Manager, Infrastructure Asset Accounting | On-site | [View →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
 | Procurement Operations Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
-| Finance & Strategy, Compute (Central) | On-site | [View →](https://www.remotejobscan.com/job/15578/finance-strategy-compute-central/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
