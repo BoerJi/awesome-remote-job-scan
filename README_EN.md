@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Anthropic Fellows Program | Remote | [View →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
+| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Product Manager, Statsig | Hybrid | [View →](https://www.remotejobscan.com/job/15608/product-manager-statsig/) |
 | Cohort 0 | Hybrid | [View →](https://www.remotejobscan.com/job/15592/cohort-0/) |
 | Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
@@ -40,9 +43,6 @@
 | Hardware Systems Planning Lead (1P) | On-site | [View →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
 | Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
 | Strategy and Operations Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/15570/strategy-and-operations-lead-hardware/) |
-| Commercial Account Executive (UK) | On-site | [View →](https://www.remotejobscan.com/job/15571/commercial-account-executive-uk/) |
-| Engineering Manager, Market Data & Analytics | Remote | [View →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
-| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

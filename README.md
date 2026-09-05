@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2775</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2778</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Anthropic研究员项目，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Anthropic Fellows 计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
+| Anthropic研究员计划、机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Statsig产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15608/product-manager-statsig/) |
 | 项目组0 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15592/cohort-0/) |
 | 软件工程师，HSM基础设施安全，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
@@ -40,9 +43,6 @@
 | 硬件系统规划负责人 (1P) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
 | 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
 | 硬件市场策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15570/strategy-and-operations-lead-hardware/) |
-| 英国商业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15571/commercial-account-executive-uk/) |
-| 市场数据与分析工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
-| 研究与教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
