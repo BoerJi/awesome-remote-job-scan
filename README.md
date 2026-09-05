@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务规划与分析经理/高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | 技术专家成员（软件工程师，基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15609/member-of-technical-staff-software-engineer-infrastructure/) |
 | 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
 | Anthropic研究员项目，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
@@ -42,7 +43,6 @@
 | 能源监管主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15577/energy-regulatory-lead/) |
 | 高级市场数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
 | 高级网络工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15572/senior-network-engineer/) |
-| 硬件系统规划负责人 (1P) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15574/hardware-systems-planning-lead-1p/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-05 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
