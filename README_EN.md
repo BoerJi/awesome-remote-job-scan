@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Agent Reliability Engineer, GTM | On-site | [View →](https://www.remotejobscan.com/job/15646/agent-reliability-engineer-gtm/) |
 | Model Risk Management Specialist | Remote | [View →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Site Selection Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
@@ -90,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

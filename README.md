@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM代理可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15646/agent-reliability-engineer-gtm/) |
 | 模型风险管理专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
 | 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | 选址主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
@@ -90,6 +91,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
