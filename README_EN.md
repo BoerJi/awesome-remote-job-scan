@@ -23,11 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Model Risk Management Specialist | Remote | [View →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Site Selection Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
 | Audience Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15642/audience-marketing-lead/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
-| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Anthropic Fellows Program | Remote | [View →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -92,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

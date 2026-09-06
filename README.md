@@ -23,11 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 模型风险管理专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
 | 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | 选址主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
 | 受众营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15642/audience-marketing-lead/) |
 | 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
-| Anthropic研究员计划，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Anthropic研究员项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
 | Anthropic研究员计划，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
@@ -92,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
