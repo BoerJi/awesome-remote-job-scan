@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Product Manager, Statsig | Hybrid | [View →](https://www.remotejobscan.com/job/15608/product-manager-statsig/) |
 | Cohort 0 | Hybrid | [View →](https://www.remotejobscan.com/job/15592/cohort-0/) |
-| Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15585/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-05 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
