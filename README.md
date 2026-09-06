@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（6 个精选职位）
+## 🆕 今日更新（5 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -28,7 +28,6 @@
 | Anthropic研究员项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
 | Anthropic研究员计划，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | 主机保障软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15625/software-engineer-host-assurance/) |
-| 财务规划与分析经理/高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -91,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
