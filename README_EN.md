@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,7 +30,6 @@
 | FP&A Manager/Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | Member of Technical Staff (Software Engineer, Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/15609/member-of-technical-staff-software-engineer-infrastructure/) |
 | Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

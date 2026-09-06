@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -30,7 +30,6 @@
 | 财务规划与分析经理/高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
 | 技术专家成员（软件工程师，基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15609/member-of-technical-staff-software-engineer-infrastructure/) |
 | 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| Anthropic研究员计划、机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
