@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2774</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Audience Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15642/audience-marketing-lead/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Anthropic Fellows Program | Remote | [View →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
@@ -89,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

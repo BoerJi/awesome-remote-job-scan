@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2774</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2775</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（5 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 受众营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15642/audience-marketing-lead/) |
 | 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
 | Anthropic研究员计划，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Anthropic研究员项目 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9339/anthropic-fellows-program/) |
@@ -89,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-06 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
