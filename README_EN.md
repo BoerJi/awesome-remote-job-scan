@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2773</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2777</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,7 +31,6 @@
 | Member of Technical Staff (Software Engineer, Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/15609/member-of-technical-staff-software-engineer-infrastructure/) |
 | Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
 | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| Product Manager, Statsig | Hybrid | [View →](https://www.remotejobscan.com/job/15608/product-manager-statsig/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
