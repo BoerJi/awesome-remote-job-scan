@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2776</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Site Selection Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
 | Audience Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15642/audience-marketing-lead/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
@@ -91,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
