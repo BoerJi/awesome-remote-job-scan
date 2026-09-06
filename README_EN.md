@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,7 +28,6 @@
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | Software Engineer, Host Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/15625/software-engineer-host-assurance/) |
 | FP&A Manager/Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/8934/fpa-managersenior-manager/) |
-| Member of Technical Staff (Software Engineer, Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/15609/member-of-technical-staff-software-engineer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -91,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-06 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
