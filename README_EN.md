@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2770</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2772</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
+| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | Staff Backend Engineer, Aave App | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
 | Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/15710/account-executive-startups/) |
 | Account Director, Digital Natives - Nordics | Hybrid | [View →](https://www.remotejobscan.com/job/15709/account-director-digital-natives-nordics/) |
@@ -40,8 +42,6 @@
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | Strategy & Operations Lead - India | Remote | [View →](https://www.remotejobscan.com/job/15656/strategy-operations-lead-india/) |
 | Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
-| Senior Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
-| Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
