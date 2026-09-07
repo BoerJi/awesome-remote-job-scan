@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
+| Senior Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
+| Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
+| Treasury Asset Management | Remote | [View →](https://www.remotejobscan.com/job/15653/treasury-asset-management/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
@@ -99,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
