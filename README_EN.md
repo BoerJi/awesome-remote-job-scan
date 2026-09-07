@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
 | Applied AI Engineer, Codex | Tokyo | On-site | [View →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
