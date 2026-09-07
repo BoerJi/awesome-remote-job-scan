@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2771</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Digital Natives - Nordics | Hybrid | [View →](https://www.remotejobscan.com/job/15709/account-director-digital-natives-nordics/) |
 | Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/15707/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | Sales Manager, Nonprofit, EMEA | On-site | [View →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
 | Marketing Manager, CRM Operations | Remote | [View →](https://www.remotejobscan.com/job/15706/marketing-manager-crm-operations/) |
@@ -41,7 +42,6 @@
 | Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 | Treasury Asset Management | Remote | [View →](https://www.remotejobscan.com/job/15653/treasury-asset-management/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
