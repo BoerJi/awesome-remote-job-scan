@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2773</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2774</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Receptionist & Workspace Administrator | On-site | [View →](https://www.remotejobscan.com/job/14430/receptionist-workspace-administrator/) |
 | Sales Development Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | VIP Relationship Manager, Emerging Markets | Remote | [View →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
 | Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
@@ -42,7 +43,6 @@
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
 | Applied AI Engineer, Codex | Tokyo | On-site | [View →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
 | Procurement Operations Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
-| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
