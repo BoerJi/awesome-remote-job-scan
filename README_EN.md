@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2772</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2770</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 | Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | Strategy & Operations Lead - India | Remote | [View →](https://www.remotejobscan.com/job/15656/strategy-operations-lead-india/) |
@@ -42,7 +43,6 @@
 | Model Risk Management Specialist | Remote | [View →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Site Selection Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
-| Audience Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15642/audience-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
