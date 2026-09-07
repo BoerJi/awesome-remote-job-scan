@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2771</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2770</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Aave App 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
+| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15710/account-executive-startups/) |
 | 北欧数字原生客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15709/account-director-digital-natives-nordics/) |
 | 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15707/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | 非营利组织EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
@@ -41,8 +43,6 @@
 | 财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
 | 高级财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
 | 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
-| 资金库资产管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15653/treasury-asset-management/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
