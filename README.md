@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2770</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2773</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 中东销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | 新兴市场VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
 | 筛查分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 | 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
@@ -42,7 +43,6 @@
 | Codex应用AI工程师 | 东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
 | 研发运营采购操作业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
 | Anthropic研究员计划，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| Anthropic研究员项目，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

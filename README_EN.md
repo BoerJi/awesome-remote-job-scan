@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2770</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2773</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | VIP Relationship Manager, Emerging Markets | Remote | [View →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
 | Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 | Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
@@ -42,7 +43,6 @@
 | Applied AI Engineer, Codex | Tokyo | On-site | [View →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
 | Procurement Operations Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
