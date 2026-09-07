@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2774</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2773</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | 新兴市场VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
 | 筛查分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 | 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
-| 网络安全研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15695/research-engineer-cybersecurity/) |
 | 匈牙利业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
 | 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 | OKX Web3钱包 - 员工/高级Java工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
@@ -43,6 +42,7 @@
 | Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
 | Codex应用AI工程师 | 东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
 | 研发运营采购操作业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
+| Anthropic研究员计划，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
