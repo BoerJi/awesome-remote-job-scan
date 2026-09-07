@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 非营利组织EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
+| 非营利组织销售经理，欧洲、中东和非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15401/sales-manager-nonprofit-emea/) |
+| CRM运营营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15706/marketing-manager-crm-operations/) |
 | 前台及工作空间管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14430/receptionist-workspace-administrator/) |
 | 中东销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | 新兴市场VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
@@ -40,9 +43,6 @@
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15647/product-designer/) |
 | Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
-| Codex应用AI工程师 | 东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
-| 研发运营采购操作业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
-| Anthropic研究员计划，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

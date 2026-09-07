@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Manager, Nonprofit, EMEA | On-site | [View →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
+| Marketing Manager, CRM Operations | Remote | [View →](https://www.remotejobscan.com/job/15706/marketing-manager-crm-operations/) |
 | Receptionist & Workspace Administrator | On-site | [View →](https://www.remotejobscan.com/job/14430/receptionist-workspace-administrator/) |
 | Sales Development Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | VIP Relationship Manager, Emerging Markets | Remote | [View →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
@@ -40,9 +42,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
-| Applied AI Engineer, Codex | Tokyo | On-site | [View →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
-| Procurement Operations Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
-| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
