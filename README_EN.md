@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2770</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2771</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
+| Research Engineer, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/15695/research-engineer-cybersecurity/) |
+| Business Development Manager - Hungary | On-site | [View →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
 | Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 | Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
@@ -40,9 +43,6 @@
 | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Agent Reliability Engineer, GTM | On-site | [View →](https://www.remotejobscan.com/job/15646/agent-reliability-engineer-gtm/) |
-| Model Risk Management Specialist | Remote | [View →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| Site Selection Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-07 10:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

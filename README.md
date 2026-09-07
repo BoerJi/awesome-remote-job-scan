@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2770</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2771</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
+| 网络安全研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15695/research-engineer-cybersecurity/) |
+| 匈牙利业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
 | 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 | OKX Web3钱包 - 员工/高级Java工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
 | 整合营销负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
@@ -40,9 +43,6 @@
 | Anthropic研究员项目，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Anthropic研究员计划，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | GTM代理可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15646/agent-reliability-engineer-gtm/) |
-| 模型风险管理专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15645/model-risk-management-specialist/) |
-| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| 选址主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15644/site-selection-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 10:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
