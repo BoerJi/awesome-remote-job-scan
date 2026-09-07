@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2773</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2775</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15707/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | 非营利组织EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
 | 非营利组织销售经理，欧洲、中东和非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15401/sales-manager-nonprofit-emea/) |
 | CRM运营营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15706/marketing-manager-crm-operations/) |
@@ -42,7 +43,6 @@
 | 资金库资产管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15653/treasury-asset-management/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15647/product-designer/) |
-| Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 14:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
