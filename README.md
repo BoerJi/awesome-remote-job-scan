@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2776</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2778</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（13 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15647/product-designer/) |
+| Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13462/product-design-lead/) |
+| Codex应用AI工程师 | 东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15648/applied-ai-engineer-codex-tokyo/) |
+| 研发运营采购操作业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15580/procurement-operations-business-partner-rd-operations/) |
 | Anthropic研究员计划，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | Anthropic研究员项目，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Anthropic研究员计划，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
@@ -94,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-07 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
