@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2763</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2773</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15339/kol-business-development-manager-latam/) |
+| Account Director, Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
+| Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/15360/market-researcher-turkish-speaking/) |
+| Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
+| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
+| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
+| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13708/applied-ai-engineer-digital-natives/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
 | Senior/Staff Software Engineer. Liquidity Platform, Options Market Making | On-site | [View →](https://www.remotejobscan.com/job/15734/seniorstaff-software-engineer-liquidity-platform-options-market-making/) |
@@ -36,13 +43,6 @@
 | FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 | Head of Technical Accounting | Remote | [View →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
-| Head of Group Consolidation and Reporting | Remote | [View →](https://www.remotejobscan.com/job/7322/head-of-group-consolidation-and-reporting/) |
-| Online Advertising Manager | Remote | [View →](https://www.remotejobscan.com/job/15663/online-advertising-manager/) |
-| Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
-| Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
-| Senior Finance Manager / Finance Manager (Finance Control) | Remote | [View →](https://www.remotejobscan.com/job/15669/senior-finance-manager-finance-manager-finance-control/) |
-| Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
-| Finance Transformation Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

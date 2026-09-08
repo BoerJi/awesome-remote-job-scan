@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2763</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2773</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15339/kol-business-development-manager-latam/) |
+| 中市场客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
+| 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15360/market-researcher-turkish-speaking/) |
+| 市场研究员-西班牙语/葡萄牙语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
+| 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
+| KOL业务发展经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
+| 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13708/applied-ai-engineer-digital-natives/) |
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
 | 高级/资深软件工程师。流动性平台，期权做市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15734/seniorstaff-software-engineer-liquidity-platform-options-market-making/) |
@@ -36,13 +43,6 @@
 | 产品财务分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 | 技术会计主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
-| 集团合并与报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7322/head-of-group-consolidation-and-reporting/) |
-| 在线广告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15663/online-advertising-manager/) |
-| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
-| 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
-| 高级财务经理 / 财务经理（财务控制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15669/senior-finance-manager-finance-manager-finance-control/) |
-| 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
-| 财务转型经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
