@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2776</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2780</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Strategic Futures | Hybrid | [View →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
+| Economic Development Lead | On-site | [View →](https://www.remotejobscan.com/job/15772/economic-development-lead/) |
+| Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
+| Technical Program Manager, AI Delivery | On-site | [View →](https://www.remotejobscan.com/job/15773/technical-program-manager-ai-delivery/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Senior Manager/Manager, Finance Control | Remote | [View →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
@@ -39,10 +43,6 @@
 | API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
 | Senior/Staff Software Engineer. Liquidity Platform, Options Market Making | On-site | [View →](https://www.remotejobscan.com/job/15734/seniorstaff-software-engineer-liquidity-platform-options-market-making/) |
 | Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
-| Senior Manager, Customer Complaints | Remote | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
-| Operation Manager - Regulated Business | Remote | [View →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
-| Lending operation manager | Remote | [View →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
-| Earn Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

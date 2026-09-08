@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2776</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2780</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略未来项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
+| 经济发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15772/economic-development-lead/) |
+| 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
+| AI交付技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15773/technical-program-manager-ai-delivery/) |
 | 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | 高级经理/经理，财务控制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
@@ -39,10 +43,6 @@
 | API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
 | 高级/资深软件工程师。流动性平台，期权做市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15734/seniorstaff-software-engineer-liquidity-platform-options-market-making/) |
 | 斯洛伐克与捷克共和国业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
-| 高级客户投诉经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
-| 合规业务运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
-| Lending operation manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
-| Earn运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
