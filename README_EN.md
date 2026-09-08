@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2774</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2753</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,12 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager/Manager, Finance Control | Remote | [View →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
 | Partnership Strategy & Operations Lead, International | On-site | [View →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
-| KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15339/kol-business-development-manager-latam/) |
 | Account Director, Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
-| Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/15360/market-researcher-turkish-speaking/) |
 | Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
 | CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
@@ -43,6 +42,7 @@
 | Earn Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
 | API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
 | P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
+| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
