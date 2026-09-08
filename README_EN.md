@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2773</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2774</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnership Strategy & Operations Lead, International | On-site | [View →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
+| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 | KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15339/kol-business-development-manager-latam/) |
 | Account Director, Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
 | Market Researcher- Turkish speaking | Remote | [View →](https://www.remotejobscan.com/job/15360/market-researcher-turkish-speaking/) |
@@ -40,9 +43,6 @@
 | Earn Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
 | API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
 | P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
-| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
-| Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
-| Head of Technical Accounting | Remote | [View →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

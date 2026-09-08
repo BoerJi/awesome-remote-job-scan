@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2773</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2774</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 国际合作伙伴战略与运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
+| 资产管理高级产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 | 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15339/kol-business-development-manager-latam/) |
 | 中市场客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
 | 市场研究员-土耳其语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15360/market-researcher-turkish-speaking/) |
@@ -40,9 +43,6 @@
 | Earn运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
 | API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
 | P2P合作伙伴运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
-| 产品财务分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
-| 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
-| 技术会计主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
