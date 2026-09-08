@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2780</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2783</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
+| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
+| AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
+| 推理与后训练前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 | 企业计费平台高级后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
 | 高级软件工程师，增长赋能 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15774/senior-software-engineer-growth-enablement/) |
 | 战略未来项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
@@ -37,12 +42,6 @@
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 | 中市场客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
 | 市场研究员-西班牙语/葡萄牙语 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
-| 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
-| 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
-| KOL业务发展经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| 巴西VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
-| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13708/applied-ai-engineer-digital-natives/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2780</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2783</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
+| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
+| Forward Deployed Engineer (Inference & Post-Training) | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 | Senior Backend Engineer, Enterprise Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
 | Senior Software Engineer, Growth Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/15774/senior-software-engineer-growth-enablement/) |
 | Program Manager, Strategic Futures | Hybrid | [View →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
@@ -37,12 +42,6 @@
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 | Account Director, Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
 | Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
-| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
-| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
-| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
-| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13708/applied-ai-engineer-digital-natives/) |
-| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
