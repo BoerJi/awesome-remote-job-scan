@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2783</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15782/applied-ai-engineer-government/) |
+| Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
+| Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
+| Technical Program Manager, Storage & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15780/technical-program-manager-storage-data-infrastructure/) |
 | Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
 | Forward Deployed Engineer (Inference & Post-Training) | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 | Senior Backend Engineer, Enterprise Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
@@ -39,9 +42,6 @@
 | Senior Manager/Manager, Finance Control | Remote | [View →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
 | Partnership Strategy & Operations Lead, International | On-site | [View →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
-| Account Director, Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
-| Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
