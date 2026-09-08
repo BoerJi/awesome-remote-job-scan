@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2780</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Warehouse and Logistics Manager - North America | On-site | [View →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
+| Warehouse and Logistics Manager - International | On-site | [View →](https://www.remotejobscan.com/job/15791/warehouse-and-logistics-manager-international/) |
 | Enablement Specialist, Perplexity Computer | Hybrid | [View →](https://www.remotejobscan.com/job/15790/enablement-specialist-perplexity-computer/) |
 | Strategic Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
 | Manager, Account Executive - Financial Services | On-site | [View →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
@@ -41,8 +43,6 @@
 | Technical Program Manager, Storage & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15780/technical-program-manager-storage-data-infrastructure/) |
 | Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
-| Forward Deployed Engineer (Inference & Post-Training) | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

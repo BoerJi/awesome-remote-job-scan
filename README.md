@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2778</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2780</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 北美仓储与物流经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
+| 国际仓储物流经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15791/warehouse-and-logistics-manager-international/) |
 | Perplexity Computer赋能专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15790/enablement-specialist-perplexity-computer/) |
 | 战略增长客户经理，AI原生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
 | 财务服务账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
@@ -41,8 +43,6 @@
 | 存储与数据基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15780/technical-program-manager-storage-data-infrastructure/) |
 | 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
 | 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
-| 推理与后训练前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
