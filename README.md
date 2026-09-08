@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2767</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2768</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| 阿拉伯语翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
+| Institutional Relationship Management | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
 | 日本消费者营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15715/consumer-marketing-manager-japan/) |
 | Institutional Clients Operations 资管机构运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | 后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
@@ -40,9 +43,6 @@
 | 中东销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | 新兴市场VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
 | 筛查分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
-| 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
-| 匈牙利业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
-| 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

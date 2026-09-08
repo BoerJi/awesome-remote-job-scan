@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2767</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2768</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| Arabic Translator | Remote | [View →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
+| Institutional Relationship Management | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
 | Consumer Marketing Manager, Japan | On-site | [View →](https://www.remotejobscan.com/job/15715/consumer-marketing-manager-japan/) |
 | Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | Software Engineer, Backend | Remote | [View →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
@@ -39,9 +42,6 @@
 | Sales Development Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
 | VIP Relationship Manager, Emerging Markets | Remote | [View →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
 | Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
-| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
-| Business Development Manager - Hungary | On-site | [View →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
-| Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
