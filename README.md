@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2779</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2778</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
+| WFM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-operations/) |
+| 战略合作账户负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15787/partnerships-lead-strategic-accounts/) |
 | 核心自动化高级工程经理（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
 | 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
 | 客户端平台工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15785/engineering-manager-client-platform-engineering/) |
@@ -39,9 +42,6 @@
 | 推理与后训练前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 | 企业计费平台高级后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
 | 高级软件工程师，增长赋能 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15774/senior-software-engineer-growth-enablement/) |
-| 战略未来项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
-| 经济发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15772/economic-development-lead/) |
-| 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

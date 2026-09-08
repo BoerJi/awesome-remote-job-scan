@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2779</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Ops Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
+| Manager, WFM Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-operations/) |
+| Partnerships Lead, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/15787/partnerships-lead-strategic-accounts/) |
 | Senior Engineering Manager, Core Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
 | Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
 | Engineering Manager, Client Platform Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15785/engineering-manager-client-platform-engineering/) |
@@ -39,9 +42,6 @@
 | Forward Deployed Engineer (Inference & Post-Training) | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
 | Senior Backend Engineer, Enterprise Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
 | Senior Software Engineer, Growth Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/15774/senior-software-engineer-growth-enablement/) |
-| Program Manager, Strategic Futures | Hybrid | [View →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
-| Economic Development Lead | On-site | [View →](https://www.remotejobscan.com/job/15772/economic-development-lead/) |
-| Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
