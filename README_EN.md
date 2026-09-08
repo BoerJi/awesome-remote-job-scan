@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2780</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer - Software Engineer - North America | Remote | [View →](https://www.remotejobscan.com/job/15797/forward-deployed-engineer-software-engineer-north-america/) |
+| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
+| Forward Deployed Engineer - Madrid (Spanish-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15795/forward-deployed-engineer-madrid-spanish-speaking/) |
+| Forward Deployed Engineer - London (Spanish-speaking) | On-site | [View →](https://www.remotejobscan.com/job/15794/forward-deployed-engineer-london-spanish-speaking/) |
+| Internal Audit IT Associate Manager | Remote | [View →](https://www.remotejobscan.com/job/9224/internal-audit-it-associate-manager/) |
+| Executive Communications Writer | On-site | [View →](https://www.remotejobscan.com/job/15793/executive-communications-writer/) |
 | Warehouse and Logistics Manager - North America | On-site | [View →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
 | Warehouse and Logistics Manager - International | On-site | [View →](https://www.remotejobscan.com/job/15791/warehouse-and-logistics-manager-international/) |
 | Enablement Specialist, Perplexity Computer | Hybrid | [View →](https://www.remotejobscan.com/job/15790/enablement-specialist-perplexity-computer/) |
@@ -37,12 +43,6 @@
 | Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | Strategic Pursuits Lead, RevOps | On-site | [View →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
 | Research Engineer, Takeoff Intel | Remote | [View →](https://www.remotejobscan.com/job/15783/research-engineer-takeoff-intel/) |
-| Applied AI Engineer, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15782/applied-ai-engineer-government/) |
-| Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
-| Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
-| Technical Program Manager, Storage & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15780/technical-program-manager-storage-data-infrastructure/) |
-| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

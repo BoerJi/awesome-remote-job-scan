@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2780</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2778</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师 - 软件工程师 - 北美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15797/forward-deployed-engineer-software-engineer-north-america/) |
+| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
+| 前哨部署工程师 - 马德里（西班牙语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15795/forward-deployed-engineer-madrid-spanish-speaking/) |
+| 伦敦驻场工程师（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15794/forward-deployed-engineer-london-spanish-speaking/) |
+| 内部审计IT助理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9224/internal-audit-it-associate-manager/) |
+| 高管通讯作家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15793/executive-communications-writer/) |
 | 北美仓储与物流经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
 | 国际仓储物流经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15791/warehouse-and-logistics-manager-international/) |
 | Perplexity Computer赋能专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15790/enablement-specialist-perplexity-computer/) |
@@ -37,12 +43,6 @@
 | AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | 战略追求主管，收入运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
 | Takeoff Intel研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15783/research-engineer-takeoff-intel/) |
-| 政府应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15782/applied-ai-engineer-government/) |
-| 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
-| 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
-| 存储与数据基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15780/technical-program-manager-storage-data-infrastructure/) |
-| 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
