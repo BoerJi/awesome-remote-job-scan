@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2768</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2770</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
+| 高级财务经理 / 财务经理（财务控制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15669/senior-finance-manager-finance-manager-finance-control/) |
+| 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
+| 财务转型经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
+| 高级财务经理 / 财务经理（资金投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15377/senior-finance-manager-finance-manager-treasury-investment-team/) |
+| 集团合并与报告团队财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
+| SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
+| 高级市场与交易数据工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer-java/) |
+| 德语与英语业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15347/german-english-business-development-manager/) |
+| 产品营销专员（实习生） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15346/product-marketing-specialist-intern/) |
+| CFD业务发展经理，东南亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15312/cfd-business-development-manager-sea/) |
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | 阿拉伯语翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
 | Institutional Relationship Management | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
@@ -30,19 +43,6 @@
 | Institutional Clients Operations 资管机构运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | 后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
 | VIP 客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15712/vip-account-manager/) |
-| 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
-| Aave App 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
-| 初创企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15710/account-executive-startups/) |
-| 北欧数字原生客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15709/account-director-digital-natives-nordics/) |
-| 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15707/research-engineer-cybersecurity-rl-reinforcement-learning/) |
-| 非营利组织EMEA销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
-| 非营利组织销售经理，欧洲、中东和非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15401/sales-manager-nonprofit-emea/) |
-| CRM运营营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15706/marketing-manager-crm-operations/) |
-| 前台及工作空间管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14430/receptionist-workspace-administrator/) |
-| 中东销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
-| 新兴市场VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
-| 筛查分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 05:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

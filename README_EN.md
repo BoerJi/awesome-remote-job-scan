@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2768</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2770</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
+| Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
+| Senior Finance Manager / Finance Manager (Finance Control) | Remote | [View →](https://www.remotejobscan.com/job/15669/senior-finance-manager-finance-manager-finance-control/) |
+| Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
+| Finance Transformation Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
+| Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/15377/senior-finance-manager-finance-manager-treasury-investment-team/) |
+| Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
+| SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
+| Senior Market & Trading Data Engineer (Java) | On-site | [View →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer-java/) |
+| German & English Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15347/german-english-business-development-manager/) |
+| Product Marketing Specialist (Intern) | Remote | [View →](https://www.remotejobscan.com/job/15346/product-marketing-specialist-intern/) |
+| CFD Business Development Manager, SEA | Remote | [View →](https://www.remotejobscan.com/job/15312/cfd-business-development-manager-sea/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Arabic Translator | Remote | [View →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
 | Institutional Relationship Management | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
@@ -30,18 +43,6 @@
 | Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
 | Software Engineer, Backend | Remote | [View →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
 | VIP Account Manager | Remote | [View →](https://www.remotejobscan.com/job/15712/vip-account-manager/) |
-| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
-| Staff Backend Engineer, Aave App | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
-| Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/15710/account-executive-startups/) |
-| Account Director, Digital Natives - Nordics | Hybrid | [View →](https://www.remotejobscan.com/job/15709/account-director-digital-natives-nordics/) |
-| Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/15707/research-engineer-cybersecurity-rl-reinforcement-learning/) |
-| Sales Manager, Nonprofit, EMEA | On-site | [View →](https://www.remotejobscan.com/job/15400/sales-manager-nonprofit-emea/) |
-| Marketing Manager, CRM Operations | Remote | [View →](https://www.remotejobscan.com/job/15706/marketing-manager-crm-operations/) |
-| Receptionist & Workspace Administrator | On-site | [View →](https://www.remotejobscan.com/job/14430/receptionist-workspace-administrator/) |
-| Sales Development Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/15701/sales-development-lead-middle-east/) |
-| VIP Relationship Manager, Emerging Markets | Remote | [View →](https://www.remotejobscan.com/job/15698/vip-relationship-manager-emerging-markets/) |
-| Screening Analyst II | On-site | [View →](https://www.remotejobscan.com/job/14725/screening-analyst-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 05:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
