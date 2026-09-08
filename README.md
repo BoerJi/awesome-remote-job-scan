@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2778</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2779</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心自动化高级工程经理（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
+| 内部审计分析专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
+| 客户端平台工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15785/engineering-manager-client-platform-engineering/) |
+| AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| 战略追求主管，收入运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
+| Takeoff Intel研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15783/research-engineer-takeoff-intel/) |
 | 政府应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15782/applied-ai-engineer-government/) |
 | 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
 | 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
@@ -36,12 +42,6 @@
 | 战略未来项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
 | 经济发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15772/economic-development-lead/) |
 | 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
-| AI交付技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15773/technical-program-manager-ai-delivery/) |
-| 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| 高级经理/经理，财务控制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
-| 国际合作伙伴战略与运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
-| 资产管理高级产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2778</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2779</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Engineering Manager, Core Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/12962/senior-engineering-manager-core-automation-platform/) |
+| Internal Audit Analytics Associate | Remote | [View →](https://www.remotejobscan.com/job/12063/internal-audit-analytics-associate/) |
+| Engineering Manager, Client Platform Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15785/engineering-manager-client-platform-engineering/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| Strategic Pursuits Lead, RevOps | On-site | [View →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
+| Research Engineer, Takeoff Intel | Remote | [View →](https://www.remotejobscan.com/job/15783/research-engineer-takeoff-intel/) |
 | Applied AI Engineer, Government | Hybrid | [View →](https://www.remotejobscan.com/job/15782/applied-ai-engineer-government/) |
 | Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
 | Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
@@ -36,12 +42,6 @@
 | Program Manager, Strategic Futures | Hybrid | [View →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
 | Economic Development Lead | On-site | [View →](https://www.remotejobscan.com/job/15772/economic-development-lead/) |
 | Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
-| Technical Program Manager, AI Delivery | On-site | [View →](https://www.remotejobscan.com/job/15773/technical-program-manager-ai-delivery/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| Senior Manager/Manager, Finance Control | Remote | [View →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
-| Partnership Strategy & Operations Lead, International | On-site | [View →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
-| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
