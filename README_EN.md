@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2753</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2776</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Senior Manager/Manager, Finance Control | Remote | [View →](https://www.remotejobscan.com/job/15747/senior-managermanager-finance-control/) |
 | Partnership Strategy & Operations Lead, International | On-site | [View →](https://www.remotejobscan.com/job/15745/partnership-strategy-operations-lead-international/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
@@ -30,6 +32,7 @@
 | Account Director, Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/15740/account-director-mid-market/) |
 | Market Researcher-Spanish/Portuguese-speaking | Remote | [View →](https://www.remotejobscan.com/job/15359/market-researcher-spanishportuguese-speaking/) |
 | CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
+| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/13708/applied-ai-engineer-digital-natives/) |
@@ -40,9 +43,6 @@
 | Operation Manager - Regulated Business | Remote | [View →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
 | Lending operation manager | Remote | [View →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
 | Earn Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
-| API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
-| P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
-| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
