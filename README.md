@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| API Tech Support API- European time zones API技术支持-欧洲时区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
+| 高级/资深软件工程师。流动性平台，期权做市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15734/seniorstaff-software-engineer-liquidity-platform-options-market-making/) |
+| 斯洛伐克与捷克共和国业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
 | 高级客户投诉经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | 合规业务运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
 | Lending operation manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
@@ -40,9 +43,6 @@
 | 财务BI分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 | 财务转型经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
 | 高级财务经理 / 财务经理（资金投资团队） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15377/senior-finance-manager-finance-manager-treasury-investment-team/) |
-| 集团合并与报告团队财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
-| SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
-| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| API Tech Support API- European time zones API技术支持-欧洲时区 | Remote | [View →](https://www.remotejobscan.com/job/15662/api-tech-support-api-european-time-zones-api/) |
+| Senior/Staff Software Engineer. Liquidity Platform, Options Market Making | On-site | [View →](https://www.remotejobscan.com/job/15734/seniorstaff-software-engineer-liquidity-platform-options-market-making/) |
+| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
 | Senior Manager, Customer Complaints | Remote | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
 | Operation Manager - Regulated Business | Remote | [View →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
 | Lending operation manager | Remote | [View →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
@@ -40,9 +43,6 @@
 | Finance BI Analyst | Remote | [View →](https://www.remotejobscan.com/job/15375/finance-bi-analyst/) |
 | Finance Transformation Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
 | Senior Finance Manager / Finance Manager (Treasury Investment Team) | Remote | [View →](https://www.remotejobscan.com/job/15377/senior-finance-manager-finance-manager-treasury-investment-team/) |
-| Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
-| SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
