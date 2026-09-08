@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2774</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2772</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| P2P合作伙伴运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
+| 产品财务分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 | 技术会计主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
 | 集团合并与报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7322/head-of-group-consolidation-and-reporting/) |
@@ -41,8 +43,6 @@
 | 产品营销专员（实习生） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15346/product-marketing-specialist-intern/) |
 | CFD业务发展经理，东南亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15312/cfd-business-development-manager-sea/) |
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| 阿拉伯语翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
-| Institutional Relationship Management | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
