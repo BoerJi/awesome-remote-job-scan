@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Perplexity Computer赋能专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15790/enablement-specialist-perplexity-computer/) |
+| 战略增长客户经理，AI原生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
+| 财务服务账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
 | IT运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
 | WFM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-operations/) |
 | 战略合作账户负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15787/partnerships-lead-strategic-accounts/) |
@@ -40,8 +43,6 @@
 | 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
 | 推理与后训练前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
-| 企业计费平台高级后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
-| 高级软件工程师，增长赋能 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15774/senior-software-engineer-growth-enablement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

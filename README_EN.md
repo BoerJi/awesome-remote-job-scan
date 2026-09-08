@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enablement Specialist, Perplexity Computer | Hybrid | [View →](https://www.remotejobscan.com/job/15790/enablement-specialist-perplexity-computer/) |
+| Strategic Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
+| Manager, Account Executive - Financial Services | On-site | [View →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
 | IT Ops Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
 | Manager, WFM Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-operations/) |
 | Partnerships Lead, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/15787/partnerships-lead-strategic-accounts/) |
@@ -40,8 +43,6 @@
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/15776/applied-ai-architect/) |
 | Forward Deployed Engineer (Inference & Post-Training) | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
-| Senior Backend Engineer, Enterprise Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/15775/senior-backend-engineer-enterprise-billing-platform/) |
-| Senior Software Engineer, Growth Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/15774/senior-software-engineer-growth-enablement/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
