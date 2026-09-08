@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2771</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2775</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户投诉经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| 合规业务运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
+| Lending operation manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
+| Earn运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
+| API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
 | P2P合作伙伴运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
 | 产品财务分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
@@ -38,11 +43,6 @@
 | 集团合并与报告团队财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 | SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12168/seo-manager/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
-| 高级市场与交易数据工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer-java/) |
-| 德语与英语业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15347/german-english-business-development-manager/) |
-| 产品营销专员（实习生） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15346/product-marketing-specialist-intern/) |
-| CFD业务发展经理，东南亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15312/cfd-business-development-manager-sea/) |
-| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

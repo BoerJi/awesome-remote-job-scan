@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2771</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2775</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Customer Complaints | Remote | [View →](https://www.remotejobscan.com/job/14047/senior-manager-customer-complaints/) |
+| Operation Manager - Regulated Business | Remote | [View →](https://www.remotejobscan.com/job/15731/operation-manager-regulated-business/) |
+| Lending operation manager | Remote | [View →](https://www.remotejobscan.com/job/15732/lending-operation-manager/) |
+| Earn Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/15730/earn-operations-manager/) |
+| API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15011/api-product-manager-api/) |
 | P2P Partner Operations Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-partner-operations-director/) |
 | FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
@@ -38,11 +43,6 @@
 | Finance Director (Group Consolidation & Reporting team) | Remote | [View →](https://www.remotejobscan.com/job/15121/finance-director-group-consolidation-reporting-team/) |
 | SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/12168/seo-manager/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/9154/senior-talent-acquisition-partner/) |
-| Senior Market & Trading Data Engineer (Java) | On-site | [View →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer-java/) |
-| German & English Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15347/german-english-business-development-manager/) |
-| Product Marketing Specialist (Intern) | Remote | [View →](https://www.remotejobscan.com/job/15346/product-marketing-specialist-intern/) |
-| CFD Business Development Manager, SEA | Remote | [View →](https://www.remotejobscan.com/job/15312/cfd-business-development-manager-sea/) |
-| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
