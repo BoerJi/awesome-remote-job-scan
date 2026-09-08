@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2770</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2774</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
+| Head of Technical Accounting | Remote | [View →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
+| Head of Group Consolidation and Reporting | Remote | [View →](https://www.remotejobscan.com/job/7322/head-of-group-consolidation-and-reporting/) |
+| Online Advertising Manager | Remote | [View →](https://www.remotejobscan.com/job/15663/online-advertising-manager/) |
 | Liquidity Operations Specialist 流动性运营 | Remote | [View →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
 | Senior Finance Manager / Finance Manager (Finance Control) | Remote | [View →](https://www.remotejobscan.com/job/15669/senior-finance-manager-finance-manager-finance-control/) |
@@ -39,10 +43,6 @@
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Arabic Translator | Remote | [View →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
 | Institutional Relationship Management | Remote | [View →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
-| Consumer Marketing Manager, Japan | On-site | [View →](https://www.remotejobscan.com/job/15715/consumer-marketing-manager-japan/) |
-| Institutional Clients Operations 资管机构运营 | Remote | [View →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
-| Software Engineer, Backend | Remote | [View →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
-| VIP Account Manager | Remote | [View →](https://www.remotejobscan.com/job/15712/vip-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-08 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

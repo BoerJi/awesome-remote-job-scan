@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2770</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2774</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
+| 技术会计主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7323/head-of-technical-accounting/) |
+| 集团合并与报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7322/head-of-group-consolidation-and-reporting/) |
+| 在线广告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15663/online-advertising-manager/) |
 | Liquidity Operations Specialist 流动性运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12038/liquidity-operations-specialist/) |
 | 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
 | 高级财务经理 / 财务经理（财务控制） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15669/senior-finance-manager-finance-manager-finance-control/) |
@@ -39,10 +43,6 @@
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | 阿拉伯语翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15719/arabic-translator/) |
 | Institutional Relationship Management | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7446/institutional-relationship-management/) |
-| 日本消费者营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15715/consumer-marketing-manager-japan/) |
-| Institutional Clients Operations 资管机构运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9014/institutional-clients-operations/) |
-| 后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
-| VIP 客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15712/vip-account-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-08 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
