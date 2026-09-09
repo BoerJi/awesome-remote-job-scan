@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2866</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2877</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
+| People Systems and Automation Manager | Remote | [View →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
+| Technical Program Manager, Manufacturing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15943/technical-program-manager-manufacturing-operations/) |
+| People Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/15944/people-operations-specialist/) |
+| Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
+| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Senior Manager, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
+| Senior Manager, Infrastructure Asset Accounting | On-site | [View →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
+| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
+| Staff Data Platform Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
+| Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
+| Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
+| Senior Data Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
 | Senior React Native Engineer | On-site | [View →](https://www.remotejobscan.com/job/15940/senior-react-native-engineer/) |
 | Principal Backend Engineer, Push | On-site | [View →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
 | Creative Director, Copy | Hybrid | [View →](https://www.remotejobscan.com/job/15937/creative-director-copy/) |
 | GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/15931/senior-software-engineer-core-infra-systems/) |
-| Product Partnerships Manager, Consumer/SMB | Hybrid | [View →](https://www.remotejobscan.com/job/15938/product-partnerships-manager-consumersmb/) |
-| Engineering Manager, ChatGPT Search Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15920/engineering-manager-chatgpt-search-infrastructure/) |
-| Law Enforcement Production Associate | Remote | [View →](https://www.remotejobscan.com/job/15930/law-enforcement-production-associate/) |
-| Technical Recruiter | On-site | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
-| AI infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
-| Account Executive (Mid Market- NY) | On-site | [View →](https://www.remotejobscan.com/job/15927/account-executive-mid-market-ny/) |
-| Senior Software Engineer - Blockchain Network | Remote | [View →](https://www.remotejobscan.com/job/15924/senior-software-engineer-blockchain-network/) |
-| OG.com - Legal Counsel - Capital and Prediction Markets | Hybrid | [View →](https://www.remotejobscan.com/job/15925/ogcom-legal-counsel-capital-and-prediction-markets/) |
-| Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
-| Executive Assistant - Revenue | Remote | [View →](https://www.remotejobscan.com/job/15926/executive-assistant-revenue/) |
-| Physical Design Engineer, Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15923/physical-design-engineer-forward-deployed-engineering/) |
-| Staff+ Software Engineer, ML Inference Path | On-site | [View →](https://www.remotejobscan.com/job/15921/staff-software-engineer-ml-inference-path/) |
-| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| Senior Manager, Infrastructure Tax | On-site | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

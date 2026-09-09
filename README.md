@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2866</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2877</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
+| 人员系统与自动化经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
+| 制造运营技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15943/technical-program-manager-manufacturing-operations/) |
+| 人事运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15944/people-operations-specialist/) |
+| 企业科技应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
+| 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| 前哨部署工程师，金融 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
+| 前哨部署工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| 基础设施租赁会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
+| 基础设施资产会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
+| 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
+| 财务数据平台工程师 - 员工级 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
+| 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
+| 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
+| 高级数据工程师 - 金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
 | 高级React Native工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15940/senior-react-native-engineer/) |
 | Push首席后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
 | 文案创意总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15937/creative-director-copy/) |
 | GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15931/senior-software-engineer-core-infra-systems/) |
-| 消费/SMB产品合作经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15938/product-partnerships-manager-consumersmb/) |
-| ChatGPT搜索基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15920/engineering-manager-chatgpt-search-infrastructure/) |
-| 执法生产助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15930/law-enforcement-production-associate/) |
-| 技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
-| AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
-| 大中型市场-纽约 账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15927/account-executive-mid-market-ny/) |
-| 区块链网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15924/senior-software-engineer-blockchain-network/) |
-| OG.com - 法律顾问 - 资本与预测市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15925/ogcom-legal-counsel-capital-and-prediction-markets/) |
-| Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
-| 收入团队高管助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15926/executive-assistant-revenue/) |
-| 物理设计工程师，前沿部署工程团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15923/physical-design-engineer-forward-deployed-engineering/) |
-| Staff+ 软件工程师，ML 推理路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15921/staff-software-engineer-ml-inference-path/) |
-| 税务总监，预估与合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| 基础设施税务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
