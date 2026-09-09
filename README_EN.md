@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2841</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2851</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
+| Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15887/finance-manager/) |
+| Design Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15893/design-engineer-creative-studio/) |
+| Principal, Business Operations - Pro | Remote | [View →](https://www.remotejobscan.com/job/15886/principal-business-operations-pro/) |
 | People Specialist | On-site | [View →](https://www.remotejobscan.com/job/15195/people-specialist/) |
 | Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
 | User Experience Researcher, Platform | On-site | [View →](https://www.remotejobscan.com/job/15879/user-experience-researcher-platform/) |
@@ -37,11 +41,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | Binance Accelerator Program - Software Engineer (Stocks) | Remote | [View →](https://www.remotejobscan.com/job/15852/binance-accelerator-program-software-engineer-stocks/) |
-| Binance Accelerator Programm - Software Engineer (Convert) | Remote | [View →](https://www.remotejobscan.com/job/15851/binance-accelerator-programm-software-engineer-convert/) |
-| Binance Accelerator Program - Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/15849/binance-accelerator-program-data-analyst/) |
-| Payment Operations Associate | Hybrid | [View →](https://www.remotejobscan.com/job/15847/payment-operations-associate/) |
-| Staff Backend Engineer, Aave App | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
-| Senior Product Manager — TradFi Wealth | Remote | [View →](https://www.remotejobscan.com/job/15848/senior-product-manager-tradfi-wealth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
