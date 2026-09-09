@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2856</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2862</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive (Mid Market- NY) | On-site | [View →](https://www.remotejobscan.com/job/15927/account-executive-mid-market-ny/) |
+| Senior Software Engineer - Blockchain Network | Remote | [View →](https://www.remotejobscan.com/job/15924/senior-software-engineer-blockchain-network/) |
+| OG.com - Legal Counsel - Capital and Prediction Markets | Hybrid | [View →](https://www.remotejobscan.com/job/15925/ogcom-legal-counsel-capital-and-prediction-markets/) |
+| Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
+| Executive Assistant - Revenue | Remote | [View →](https://www.remotejobscan.com/job/15926/executive-assistant-revenue/) |
+| Physical Design Engineer, Forward Deployed Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/15923/physical-design-engineer-forward-deployed-engineering/) |
+| Staff+ Software Engineer, ML Inference Path | On-site | [View →](https://www.remotejobscan.com/job/15921/staff-software-engineer-ml-inference-path/) |
+| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
+| Senior Manager, Infrastructure Tax | On-site | [View →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
+| Staff+ Software Engineer, ML Sampling Path | On-site | [View →](https://www.remotejobscan.com/job/15922/staff-software-engineer-ml-sampling-path/) |
+| Head of Treasury Strategy & Transformation | On-site | [View →](https://www.remotejobscan.com/job/13561/head-of-treasury-strategy-transformation/) |
+| Director, US International Tax Planning | On-site | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
+| Director, US International Tax | On-site | [View →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
+| Treasury Director, Investments & Liquidity | On-site | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | Account Director, Manufacturing | Hybrid | [View →](https://www.remotejobscan.com/job/15919/account-director-manufacturing/) |
 | Talent Sourcer, G&A | Remote | [View →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
 | Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 | AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | Software Engineer - New Grad (Summer 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/15912/software-engineer-new-grad-summer-2027/) |
-| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| Quality Engineer, Rack Infrastructure & Site Operations | On-site | [View →](https://www.remotejobscan.com/job/15911/quality-engineer-rack-infrastructure-site-operations/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
-| Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
-| Android Engineer, ChatGPT Library Team | On-site | [View →](https://www.remotejobscan.com/job/15910/android-engineer-chatgpt-library-team/) |
-| Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
-| Head of Community, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
-| Suspicious Activity Report - Analyst | Remote | [View →](https://www.remotejobscan.com/job/15906/suspicious-activity-report-analyst/) |
-| Head of Partnerships, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/15907/head-of-partnerships-digital-natives/) |
-| Software Engineer, Research Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15905/software-engineer-research-infrastructure/) |
-| Group Product Manager, Financial Engineering | Remote | [View →](https://www.remotejobscan.com/job/9216/group-product-manager-financial-engineering/) |
-| Manager– Growth Sales (AI-Native) | On-site | [View →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
-| AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

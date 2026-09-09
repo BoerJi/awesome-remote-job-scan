@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2856</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2862</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 大中型市场-纽约 账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15927/account-executive-mid-market-ny/) |
+| 区块链网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15924/senior-software-engineer-blockchain-network/) |
+| OG.com - 法律顾问 - 资本与预测市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15925/ogcom-legal-counsel-capital-and-prediction-markets/) |
+| Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
+| 收入团队高管助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15926/executive-assistant-revenue/) |
+| 物理设计工程师，前沿部署工程团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15923/physical-design-engineer-forward-deployed-engineering/) |
+| Staff+ 软件工程师，ML 推理路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15921/staff-software-engineer-ml-inference-path/) |
+| 税务总监，预估与合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
+| 基础设施税务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14610/senior-manager-infrastructure-tax/) |
+| 高级软件工程师，ML采样路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15922/staff-software-engineer-ml-sampling-path/) |
+| 首席财富策略与转型官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13561/head-of-treasury-strategy-transformation/) |
+| 美国国际税务规划总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
+| 美国国际税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12267/director-us-international-tax/) |
+| 投资与流动性总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | 制造行业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15919/account-director-manufacturing/) |
 | 人才寻访师，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
 | GPU集群技术支持工程师，印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 | AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
 | 软件工程师 - 新毕业生（2027年夏季） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15912/software-engineer-new-grad-summer-2027/) |
-| 推理技术支持工程师 - 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| 机架基础设施与场地运营质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15911/quality-engineer-rack-infrastructure-site-operations/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
-| 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
-| Android工程师，ChatGPT库团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15910/android-engineer-chatgpt-library-team/) |
-| 客户项目经理，联合营销与衡量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
-| 社区与企划营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
-| 可疑活动报告分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15906/suspicious-activity-report-analyst/) |
-| 合作伙伴总监，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15907/head-of-partnerships-digital-natives/) |
-| 研究基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15905/software-engineer-research-infrastructure/) |
-| 金融工程团队高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9216/group-product-manager-financial-engineering/) |
-| AI原生增长销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
-| AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
