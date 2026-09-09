@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2802</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2825</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 学习与发展实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15817/learning-development-intern/) |
-| 加速项目实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15813/accelerations-programs-intern/) |
-| 财务规划与分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15816/fpa-intern/) |
-| 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15818/child-safety-enforcement-specialist/) |
-| 高级支持工程师（伦敦，周末） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15820/premium-support-engineer-london-weekend/) |
-| 高级支持工程师（新加坡，周末） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15821/premium-support-engineer-singapore-weekend/) |
-| 财务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
-| 业务控制实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15814/business-controller-intern/) |
-| 初创企业绿野销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15819/greenfield-sales-manager-startups/) |
-| 会计实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15798/accounting-intern/) |
-| 机器学习工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15804/machine-learning-engineer-intern/) |
-| 分析工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
-| 员工与工作场所体验实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15803/employee-and-workplace-experience-intern/) |
-| 数据科学实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
-| HR技术产品经理实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15806/product-manager-hr-technology-intern/) |
-| Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| 数据工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15801/data-engineer-intern/) |
-| Anthropic研究员计划，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| 用户研究实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15809/user-research-intern/) |
-| 软件工程师 - 资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15808/software-engineer-money-movement/) |
+| SOX安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
+| AI芯片设计软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15829/software-engineer-ai-for-chip-design/) |
+| 业务系统分析师，新产品引入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15827/business-systems-analyst-new-product-introduction/) |
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
+| 高级软件工程师，可观测性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9861/senior-software-engineer-observability/) |
+| 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
+| 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
+| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
+| AI/ML研究高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
+| 语音AI高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9871/staff-machine-learning-engineer-voice-ai/) |
+| 高级后端工程师，推理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9851/senior-backend-engineer-inference-platform/) |
+| 资金部实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/treasury-intern/) |
+| 平台工程师，模型塑造 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9843/platform-engineer-model-shaping/) |
+| 系统研究工程师，GPU编程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9876/systems-research-engineer-gpu-programming/) |
+| 税务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15825/tax-operations-intern/) |
+| 训练后推理研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
+| 大规模训练研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11847/research-engineer-large-scale-training/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
