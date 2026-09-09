@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| User Experience Researcher, Platform | On-site | [View →](https://www.remotejobscan.com/job/15879/user-experience-researcher-platform/) |
+| Senior Compliance Manager - Global FCC Investigations | On-site | [View →](https://www.remotejobscan.com/job/15878/senior-compliance-manager-global-fcc-investigations/) |
+| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | AI Security Engineer (Offensive & Defensive) | Hybrid | [View →](https://www.remotejobscan.com/job/15876/ai-security-engineer-offensive-defensive/) |
 | Financial Risk Officer (Market & Liquidity Risk) | Hybrid | [View →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
@@ -40,9 +43,6 @@
 | 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/15761/alpha/) |
 | Senior Analyst, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
 | Security Engineer, Offensive Security | On-site | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
-| Senior Manager, Identity Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15846/senior-manager-identity-governance/) |
-| Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
-| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台用户体验研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15879/user-experience-researcher-platform/) |
+| 高级合规经理 - 全球FCC调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15878/senior-compliance-manager-global-fcc-investigations/) |
+| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | AI安全工程师（攻防方向） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15876/ai-security-engineer-offensive-defensive/) |
 | 市场与流动性风险官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
@@ -40,9 +43,6 @@
 | 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15761/alpha/) |
 | 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
 | 安全工程师，进攻性安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
-| 高级经理，身份治理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15846/senior-manager-identity-governance/) |
-| 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
-| 技术支持工程师（推理）- 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
