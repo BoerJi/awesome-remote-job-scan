@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2877</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2875</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户信任专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
+| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| 政府合作运营主管，OAI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
+| 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15942/staff-software-engineer-compute/) |
 | 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 | 人员系统与自动化经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
 | 制造运营技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15943/technical-program-manager-manufacturing-operations/) |
@@ -39,10 +43,6 @@
 | 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
 | 高级数据工程师 - 金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
 | 高级React Native工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15940/senior-react-native-engineer/) |
-| Push首席后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
-| 文案创意总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15937/creative-director-copy/) |
-| GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15931/senior-software-engineer-core-infra-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

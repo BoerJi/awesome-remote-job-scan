@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2877</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2875</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Trust Specialist | On-site | [View →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
+| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| Partnerships Operations Lead, OAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
+| Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/15942/staff-software-engineer-compute/) |
 | Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 | People Systems and Automation Manager | Remote | [View →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
 | Technical Program Manager, Manufacturing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15943/technical-program-manager-manufacturing-operations/) |
@@ -39,10 +43,6 @@
 | Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
 | Senior Data Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
 | Senior React Native Engineer | On-site | [View →](https://www.remotejobscan.com/job/15940/senior-react-native-engineer/) |
-| Principal Backend Engineer, Push | On-site | [View →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
-| Creative Director, Copy | Hybrid | [View →](https://www.remotejobscan.com/job/15937/creative-director-copy/) |
-| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/15931/senior-software-engineer-core-infra-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
