@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2835</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2836</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Backend Engineer, Aave App | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
+| 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/15761/alpha/) |
 | Senior Analyst, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
 | Security Engineer, Offensive Security | On-site | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
+| Senior Manager, Identity Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15846/senior-manager-identity-governance/) |
 | Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
 | Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 | Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
@@ -40,9 +43,6 @@
 | Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | Customer Success Engineer (CSE), GPU Cluster | On-site | [View →](https://www.remotejobscan.com/job/9824/customer-success-engineer-cse-gpu-cluster/) |
 | Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
-| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
-| Manager, AI Deployment Engineering (Southeast Asia) | Hybrid | [View →](https://www.remotejobscan.com/job/15841/manager-ai-deployment-engineering-southeast-asia/) |
-| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

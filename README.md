@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2835</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2836</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Aave App 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
+| 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15761/alpha/) |
 | 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
 | 安全工程师，进攻性安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
+| 高级经理，身份治理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15846/senior-manager-identity-governance/) |
 | 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
 | 技术支持工程师（推理）- 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 | 技术支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
@@ -40,9 +43,6 @@
 | 前派工程师（推理与后训练）-普通话 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | GPU集群客户成功工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9824/customer-success-engineer-cse-gpu-cluster/) |
 | 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
-| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
-| 经理，AI 部署工程（东南亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15841/manager-ai-deployment-engineering-southeast-asia/) |
-| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
