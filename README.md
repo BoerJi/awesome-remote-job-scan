@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2846</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2845</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| 应用AI架构师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15895/applied-ai-architect-beneficial-deployments-life-sciences/) |
+| GTM Claudification团队高级AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
+| 全球项目主管，新毕业生——中小企业奖学金 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15896/global-program-lead-new-graduate-smb-fellowship/) |
+| AI科学合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | 加密资产库存运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
 | 全栈工程师 - 创意工作室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
 | 财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15887/finance-manager/) |
@@ -36,11 +41,6 @@
 | 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | AI安全工程师（攻防方向） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15876/ai-security-engineer-offensive-defensive/) |
 | 市场与流动性风险官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
-| 战略传播与媒体关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
-| 反洗钱分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15861/aml-analyst/) |
-| Lending operation senior officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-senior-officer/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
-| 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2846</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2845</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| Applied AI Architect, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/15895/applied-ai-architect-beneficial-deployments-life-sciences/) |
+| Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
+| Global Program Lead, New Graduate – SMB Fellowship | Hybrid | [View →](https://www.remotejobscan.com/job/15896/global-program-lead-new-graduate-smb-fellowship/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | Crypto Inventory Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
 | Full-Stack Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
 | Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15887/finance-manager/) |
@@ -36,11 +41,6 @@
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | AI Security Engineer (Offensive & Defensive) | Hybrid | [View →](https://www.remotejobscan.com/job/15876/ai-security-engineer-offensive-defensive/) |
 | Financial Risk Officer (Market & Liquidity Risk) | Hybrid | [View →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
-| Head of Strategic Communications & Media Relations | Remote | [View →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
-| AML Analyst | On-site | [View →](https://www.remotejobscan.com/job/15861/aml-analyst/) |
-| Lending operation senior officer | Remote | [View →](https://www.remotejobscan.com/job/15732/lending-operation-senior-officer/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
-| Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
