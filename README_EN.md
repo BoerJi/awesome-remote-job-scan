@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2831</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2821</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
+| Manager, AI Deployment Engineering (Southeast Asia) | Hybrid | [View →](https://www.remotejobscan.com/job/15841/manager-ai-deployment-engineering-southeast-asia/) |
+| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| Data Engineer, GTM | On-site | [View →](https://www.remotejobscan.com/job/15840/data-engineer-gtm/) |
+| Integrated Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-manager/) |
 | Senior Analyst, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/15837/senior-analyst-digital-trust-and-resilience/) |
 | VC Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
 | Tech Governance - Security Compliance & Governance Engineer (Mandarin Bilingual Required) | On-site | [View →](https://www.remotejobscan.com/job/15836/tech-governance-security-compliance-governance-engineer-mandarin-bilingual-required/) |
@@ -38,11 +43,6 @@
 | Business Systems Analyst, New Product Introduction | On-site | [View →](https://www.remotejobscan.com/job/15827/business-systems-analyst-new-product-introduction/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| Senior Software Engineer - Together Cloud Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
-| Senior Software Engineer, Observability | On-site | [View →](https://www.remotejobscan.com/job/9861/senior-software-engineer-observability/) |
-| Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
-| Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
-| AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

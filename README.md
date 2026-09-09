@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2831</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2821</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
+| 经理，AI 部署工程（东南亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15841/manager-ai-deployment-engineering-southeast-asia/) |
+| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| 数据工程师，GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15840/data-engineer-gtm/) |
+| 整合营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-manager/) |
 | 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15837/senior-analyst-digital-trust-and-resilience/) |
 | 风险投资合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
 | 技术治理 - 安全合规与治理工程师（要求中文双语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15836/tech-governance-security-compliance-governance-engineer-mandarin-bilingual-required/) |
@@ -38,11 +43,6 @@
 | 业务系统分析师，新产品引入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15827/business-systems-analyst-new-product-introduction/) |
 | 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| 高级软件工程师 - Together云基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-together-cloud-infrastructure/) |
-| 高级软件工程师，可观测性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9861/senior-software-engineer-observability/) |
-| 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
-| 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
-| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
