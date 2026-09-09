@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2841</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2842</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场与流动性风险官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
+| 战略传播与媒体关系负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | 反洗钱分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15861/aml-analyst/) |
 | Lending operation senior officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-senior-officer/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
@@ -41,8 +43,6 @@
 | 技术支持工程师（推理）- 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
 | 技术支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
 | 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| 战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
-| 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
