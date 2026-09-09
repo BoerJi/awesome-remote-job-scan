@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2851</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2846</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Crypto Inventory Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
 | Full-Stack Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
 | Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15887/finance-manager/) |
 | Design Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15893/design-engineer-creative-studio/) |
@@ -40,7 +41,6 @@
 | Lending operation senior officer | Remote | [View →](https://www.remotejobscan.com/job/15732/lending-operation-senior-officer/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
-| Binance Accelerator Program - Software Engineer (Stocks) | Remote | [View →](https://www.remotejobscan.com/job/15852/binance-accelerator-program-software-engineer-stocks/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

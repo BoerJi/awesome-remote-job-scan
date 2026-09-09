@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2851</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2846</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 加密资产库存运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
 | 全栈工程师 - 创意工作室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
 | 财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15887/finance-manager/) |
 | 创意工作室设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15893/design-engineer-creative-studio/) |
@@ -40,7 +41,6 @@
 | Lending operation senior officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-senior-officer/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
 | 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
-| 币安加速器计划 - 软件工程师（股票） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15852/binance-accelerator-program-software-engineer-stocks/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
