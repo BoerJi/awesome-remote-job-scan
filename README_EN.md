@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2842</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2844</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
+| AI Security Engineer (Offensive & Defensive) | Hybrid | [View →](https://www.remotejobscan.com/job/15876/ai-security-engineer-offensive-defensive/) |
 | Financial Risk Officer (Market & Liquidity Risk) | Hybrid | [View →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
 | Head of Strategic Communications & Media Relations | Remote | [View →](https://www.remotejobscan.com/job/14093/head-of-strategic-communications-media-relations/) |
 | AML Analyst | On-site | [View →](https://www.remotejobscan.com/job/15861/aml-analyst/) |
@@ -41,8 +43,6 @@
 | Senior Manager, Identity Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15846/senior-manager-identity-governance/) |
 | Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
 | Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
-| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
