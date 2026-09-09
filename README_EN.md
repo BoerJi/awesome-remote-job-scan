@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2821</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2839</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Engineer, Offensive Security | On-site | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
+| Senior Manager, Identity Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15844/senior-manager-identity-governance/) |
+| Technical Support Engineer (Inference) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
+| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
+| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| Strategic Account Executive | On-site | [View →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
+| Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
+| Senior Program Manager, Data Center Delivery | Remote | [View →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
+| Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
+| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
+| Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
+| GTM Engineer | On-site | [View →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
+| Forward Deployed Engineer (Inference & Post-Training) | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
+| Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| Customer Success Engineer (CSE), GPU Cluster | On-site | [View →](https://www.remotejobscan.com/job/9824/customer-success-engineer-cse-gpu-cluster/) |
+| Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | Manager, AI Deployment Engineering (Southeast Asia) | Hybrid | [View →](https://www.remotejobscan.com/job/15841/manager-ai-deployment-engineering-southeast-asia/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| Data Engineer, GTM | On-site | [View →](https://www.remotejobscan.com/job/15840/data-engineer-gtm/) |
-| Integrated Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-manager/) |
-| Senior Analyst, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/15837/senior-analyst-digital-trust-and-resilience/) |
-| VC Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
-| Tech Governance - Security Compliance & Governance Engineer (Mandarin Bilingual Required) | On-site | [View →](https://www.remotejobscan.com/job/15836/tech-governance-security-compliance-governance-engineer-mandarin-bilingual-required/) |
-| Sales Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15835/sales-intern/) |
-| Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
-| Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
-| Real Estate & Builds Intern (EWX) | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
-| Customer Success Manager, Beneficial Deployments - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
-| Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15831/policy-intern/) |
-| Credit Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
-| Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
-| Software Engineer, AI for Chip Design | Hybrid | [View →](https://www.remotejobscan.com/job/15829/software-engineer-ai-for-chip-design/) |
-| Business Systems Analyst, New Product Introduction | On-site | [View →](https://www.remotejobscan.com/job/15827/business-systems-analyst-new-product-introduction/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

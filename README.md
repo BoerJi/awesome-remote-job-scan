@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2821</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2839</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全工程师，进攻性安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
+| 高级经理，身份治理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15844/senior-manager-identity-governance/) |
+| 推理技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12015/technical-support-engineer-inference-us-weekends/) |
+| 技术支持工程师（推理）- 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| 技术支持工程师（GPU集群），印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
+| 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| 战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
+| 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
+| 数据中心交付高级项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
+| 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
+| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
+| 国际云采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
+| GTM工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
+| 前部署工程师（推理与后训练） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
+| 前派工程师（推理与后训练）-普通话 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| GPU集群客户成功工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9824/customer-success-engineer-cse-gpu-cluster/) |
+| 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
 | Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | 经理，AI 部署工程（东南亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15841/manager-ai-deployment-engineering-southeast-asia/) |
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| 数据工程师，GTM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15840/data-engineer-gtm/) |
-| 整合营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-manager/) |
-| 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15837/senior-analyst-digital-trust-and-resilience/) |
-| 风险投资合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
-| 技术治理 - 安全合规与治理工程师（要求中文双语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15836/tech-governance-security-compliance-governance-engineer-mandarin-bilingual-required/) |
-| 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15835/sales-intern/) |
-| Salesforce 开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
-| 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
-| 房地产与建设实习生（EWX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
-| 客户成功经理，有益部署 - 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
-| 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15831/policy-intern/) |
-| 信用风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
-| SOX安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
-| AI芯片设计软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15829/software-engineer-ai-for-chip-design/) |
-| 业务系统分析师，新产品引入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15827/business-systems-analyst-new-product-introduction/) |
-| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
