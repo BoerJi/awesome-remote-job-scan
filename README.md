@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2845</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2856</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 制造行业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15919/account-director-manufacturing/) |
+| 人才寻访师，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
+| GPU集群技术支持工程师，印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
+| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
+| AI基础设施系统工程师（阿姆斯特丹 & 伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
+| 软件工程师 - 新毕业生（2027年夏季） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15912/software-engineer-new-grad-summer-2027/) |
+| 推理技术支持工程师 - 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| 机架基础设施与场地运营质量工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15911/quality-engineer-rack-infrastructure-site-operations/) |
+| 推理/计算基础设施工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
+| 高级软件工程师 — 基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
+| Android工程师，ChatGPT库团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15910/android-engineer-chatgpt-library-team/) |
 | 客户项目经理，联合营销与衡量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
 | 社区与企划营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
 | 可疑活动报告分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15906/suspicious-activity-report-analyst/) |
@@ -31,18 +43,6 @@
 | 金融工程团队高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9216/group-product-manager-financial-engineering/) |
 | AI原生增长销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
 | AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
-| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
-| 产品市场负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15904/product-marketing-lead/) |
-| 战略增长客户经理，AI原生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
-| 高级软件工程师—基础设施代理系统英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
-| 初级/中级/高级软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 数据中心运营协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9829/data-center-operations-coordinator/) |
-| 数据中心运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9831/director-data-center-operations/) |
-| 高级软件工程师 - Together 云平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9864/senior-software-engineer-together-cloud-platform/) |
-| 现场首席技术官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15903/field-cto/) |
-| 战略追求主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15902/strategic-pursuits-lead/) |
-| 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
-| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

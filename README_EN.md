@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2845</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2856</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Manufacturing | Hybrid | [View →](https://www.remotejobscan.com/job/15919/account-director-manufacturing/) |
+| Talent Sourcer, G&A | Remote | [View →](https://www.remotejobscan.com/job/15292/talent-sourcer-ga/) |
+| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
+| AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
+| AI Infrastructure Systems Engineer (Amsterdam & London) | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer-amsterdam-london/) |
+| Software Engineer - New Grad (Summer 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/15912/software-engineer-new-grad-summer-2027/) |
+| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| Quality Engineer, Rack Infrastructure & Site Operations | On-site | [View →](https://www.remotejobscan.com/job/15911/quality-engineer-rack-infrastructure-site-operations/) |
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/15640/senior-software-engineer-infra-agent-systems/) |
+| Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/14404/senior-software-engineer-infra-agent-systems-remote-india/) |
+| Android Engineer, ChatGPT Library Team | On-site | [View →](https://www.remotejobscan.com/job/15910/android-engineer-chatgpt-library-team/) |
 | Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
 | Head of Community, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
 | Suspicious Activity Report - Analyst | Remote | [View →](https://www.remotejobscan.com/job/15906/suspicious-activity-report-analyst/) |
@@ -31,18 +43,6 @@
 | Group Product Manager, Financial Engineering | Remote | [View →](https://www.remotejobscan.com/job/9216/group-product-manager-financial-engineering/) |
 | Manager– Growth Sales (AI-Native) | On-site | [View →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
 | AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
-| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
-| Product Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15904/product-marketing-lead/) |
-| Strategic Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
-| Senior Software Engineer — Infra Agent Systems UK | On-site | [View →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
-| Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Data Center Operations Coordinator | On-site | [View →](https://www.remotejobscan.com/job/9829/data-center-operations-coordinator/) |
-| Director, Data Center Operations | On-site | [View →](https://www.remotejobscan.com/job/9831/director-data-center-operations/) |
-| Senior Software Engineer - Together Cloud Platform | On-site | [View →](https://www.remotejobscan.com/job/9864/senior-software-engineer-together-cloud-platform/) |
-| Field CTO | Hybrid | [View →](https://www.remotejobscan.com/job/15903/field-cto/) |
-| Strategic Pursuits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15902/strategic-pursuits-lead/) |
-| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
-| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
