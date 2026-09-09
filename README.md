@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2842</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2845</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,24 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户项目经理，联合营销与衡量 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
+| 社区与企划营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
+| 可疑活动报告分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15906/suspicious-activity-report-analyst/) |
+| 合作伙伴总监，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15907/head-of-partnerships-digital-natives/) |
+| 研究基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15905/software-engineer-research-infrastructure/) |
+| 金融工程团队高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9216/group-product-manager-financial-engineering/) |
+| AI原生增长销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
+| AI工程师，GTM Claudification | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
+| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| 产品市场负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15904/product-marketing-lead/) |
+| 战略增长客户经理，AI原生 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
+| 高级软件工程师—基础设施代理系统英国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
+| 初级/中级/高级软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 数据中心运营协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9829/data-center-operations-coordinator/) |
+| 数据中心运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9831/director-data-center-operations/) |
+| 高级软件工程师 - Together 云平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9864/senior-software-engineer-together-cloud-platform/) |
 | 现场首席技术官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15903/field-cto/) |
 | 战略追求主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15902/strategic-pursuits-lead/) |
 | 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
-| 高级支持工程师（纽约，周末班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15901/premium-support-engineer-nyc-weekend-shift/) |
-| 高级支持工程师（福斯特城，周末班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15900/premium-support-engineer-foster-city-weekend-shift/) |
-| GTM策略与运营 - 美国企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| 拉美地区部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15898/deployment-strategist-latam/) |
-| 应用AI架构师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15895/applied-ai-architect-beneficial-deployments-life-sciences/) |
-| GTM Claudification团队高级AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
-| AI科学合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
-| 加密资产库存运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
-| 全栈工程师 - 创意工作室 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
-| 财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15887/finance-manager/) |
-| 创意工作室设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15893/design-engineer-creative-studio/) |
-| 高级业务运营 - 专业版 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15886/principal-business-operations-pro/) |
-| 人事专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15195/people-specialist/) |
-| 支付风险分析师I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

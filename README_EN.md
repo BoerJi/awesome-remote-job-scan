@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2842</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2845</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,24 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Programs Manager, Co-Marketing & Measurement | On-site | [View →](https://www.remotejobscan.com/job/13249/customer-programs-manager-co-marketing-measurement/) |
+| Head of Community, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/13250/head-of-community-enterprise-marketing/) |
+| Suspicious Activity Report - Analyst | Remote | [View →](https://www.remotejobscan.com/job/15906/suspicious-activity-report-analyst/) |
+| Head of Partnerships, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/15907/head-of-partnerships-digital-natives/) |
+| Software Engineer, Research Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/15905/software-engineer-research-infrastructure/) |
+| Group Product Manager, Financial Engineering | Remote | [View →](https://www.remotejobscan.com/job/9216/group-product-manager-financial-engineering/) |
+| Manager– Growth Sales (AI-Native) | On-site | [View →](https://www.remotejobscan.com/job/9495/manager-growth-sales-ai-native/) |
+| AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/ai-engineer-gtm-claudification/) |
+| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| Product Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15904/product-marketing-lead/) |
+| Strategic Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/strategic-growth-account-executive-ai-native/) |
+| Senior Software Engineer — Infra Agent Systems UK | On-site | [View →](https://www.remotejobscan.com/job/15102/senior-software-engineer-infra-agent-systems-uk/) |
+| Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/juniorseniorstaff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Data Center Operations Coordinator | On-site | [View →](https://www.remotejobscan.com/job/9829/data-center-operations-coordinator/) |
+| Director, Data Center Operations | On-site | [View →](https://www.remotejobscan.com/job/9831/director-data-center-operations/) |
+| Senior Software Engineer - Together Cloud Platform | On-site | [View →](https://www.remotejobscan.com/job/9864/senior-software-engineer-together-cloud-platform/) |
 | Field CTO | Hybrid | [View →](https://www.remotejobscan.com/job/15903/field-cto/) |
 | Strategic Pursuits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15902/strategic-pursuits-lead/) |
 | Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
-| Premium Support Engineer (NYC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/15901/premium-support-engineer-nyc-weekend-shift/) |
-| Premium Support Engineer (Foster City, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/15900/premium-support-engineer-foster-city-weekend-shift/) |
-| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15898/deployment-strategist-latam/) |
-| Applied AI Architect, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/15895/applied-ai-architect-beneficial-deployments-life-sciences/) |
-| Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
-| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
-| Crypto Inventory Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
-| Full-Stack Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
-| Finance Manager | Hybrid | [View →](https://www.remotejobscan.com/job/15887/finance-manager/) |
-| Design Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15893/design-engineer-creative-studio/) |
-| Principal, Business Operations - Pro | Remote | [View →](https://www.remotejobscan.com/job/15886/principal-business-operations-pro/) |
-| People Specialist | On-site | [View →](https://www.remotejobscan.com/job/15195/people-specialist/) |
-| Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
