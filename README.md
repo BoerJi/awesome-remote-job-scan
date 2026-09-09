@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2825</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2831</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15835/sales-intern/) |
+| Salesforce 开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
+| 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
+| 房地产与建设实习生（EWX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
+| 客户成功经理，有益部署 - 生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
+| 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15831/policy-intern/) |
+| 信用风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | SOX安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
 | AI芯片设计软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15829/software-engineer-ai-for-chip-design/) |
 | 业务系统分析师，新产品引入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15827/business-systems-analyst-new-product-introduction/) |
@@ -35,13 +42,6 @@
 | AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
 | AI/ML研究高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
 | 语音AI高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9871/staff-machine-learning-engineer-voice-ai/) |
-| 高级后端工程师，推理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9851/senior-backend-engineer-inference-platform/) |
-| 资金部实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/treasury-intern/) |
-| 平台工程师，模型塑造 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9843/platform-engineer-model-shaping/) |
-| 系统研究工程师，GPU编程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9876/systems-research-engineer-gpu-programming/) |
-| 税务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15825/tax-operations-intern/) |
-| 训练后推理研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9848/research-engineer-post-training-inference/) |
-| 大规模训练研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11847/research-engineer-large-scale-training/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
