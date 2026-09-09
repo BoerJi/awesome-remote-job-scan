@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2837</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2842</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
+| Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | Binance Accelerator Program - Software Engineer (Stocks) | Remote | [View →](https://www.remotejobscan.com/job/15852/binance-accelerator-program-software-engineer-stocks/) |
 | Binance Accelerator Programm - Software Engineer (Convert) | Remote | [View →](https://www.remotejobscan.com/job/15851/binance-accelerator-programm-software-engineer-convert/) |
 | Binance Accelerator Program - Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/15849/binance-accelerator-program-data-analyst/) |
@@ -41,8 +43,6 @@
 | Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
 | Senior Program Manager, Data Center Delivery | Remote | [View →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
 | Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
-| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
