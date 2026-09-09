@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2844</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2841</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人事专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15195/people-specialist/) |
+| 支付风险分析师I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
 | 平台用户体验研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15879/user-experience-researcher-platform/) |
 | 高级合规经理 - 全球FCC调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15878/senior-compliance-manager-global-fcc-investigations/) |
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
@@ -40,9 +42,6 @@
 | 支付运营助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15847/payment-operations-associate/) |
 | Aave App 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
 | 高级产品经理—传统金融财富 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15848/senior-product-manager-tradfi-wealth/) |
-| 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15761/alpha/) |
-| 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
-| 安全工程师，进攻性安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

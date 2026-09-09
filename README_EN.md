@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2844</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2841</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Specialist | On-site | [View →](https://www.remotejobscan.com/job/15195/people-specialist/) |
+| Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
 | User Experience Researcher, Platform | On-site | [View →](https://www.remotejobscan.com/job/15879/user-experience-researcher-platform/) |
 | Senior Compliance Manager - Global FCC Investigations | On-site | [View →](https://www.remotejobscan.com/job/15878/senior-compliance-manager-global-fcc-investigations/) |
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
@@ -40,9 +42,6 @@
 | Payment Operations Associate | Hybrid | [View →](https://www.remotejobscan.com/job/15847/payment-operations-associate/) |
 | Staff Backend Engineer, Aave App | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
 | Senior Product Manager — TradFi Wealth | Remote | [View →](https://www.remotejobscan.com/job/15848/senior-product-manager-tradfi-wealth/) |
-| 量化研究员-Alpha挖掘方向 | Remote | [View →](https://www.remotejobscan.com/job/15761/alpha/) |
-| Senior Analyst, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
-| Security Engineer, Offensive Security | On-site | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
