@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2842</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2841</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 反洗钱分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15861/aml-analyst/) |
+| Lending operation senior officer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15732/lending-operation-senior-officer/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
 | 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | 币安加速器计划 - 软件工程师（股票） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15852/binance-accelerator-program-software-engineer-stocks/) |
@@ -41,8 +43,6 @@
 | 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | 战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
 | 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect/) |
-| 数据中心交付高级项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
-| 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
