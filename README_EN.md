@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2844</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2842</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/14922/strategic-account-executive-tech/) |
+| Field CTO | Hybrid | [View →](https://www.remotejobscan.com/job/15903/field-cto/) |
+| Strategic Pursuits Lead | Hybrid | [View →](https://www.remotejobscan.com/job/15902/strategic-pursuits-lead/) |
+| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
+| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
+| Premium Support Engineer (NYC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/15901/premium-support-engineer-nyc-weekend-shift/) |
+| Premium Support Engineer (Foster City, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/15900/premium-support-engineer-foster-city-weekend-shift/) |
+| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
+| Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15898/deployment-strategist-latam/) |
 | Applied AI Architect, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/15895/applied-ai-architect-beneficial-deployments-life-sciences/) |
 | Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
-| Global Program Lead, New Graduate – SMB Fellowship | Hybrid | [View →](https://www.remotejobscan.com/job/15896/global-program-lead-new-graduate-smb-fellowship/) |
 | Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | Crypto Inventory Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
 | Full-Stack Engineer - Creative Studio | Remote | [View →](https://www.remotejobscan.com/job/15894/full-stack-engineer-creative-studio/) |
@@ -35,12 +41,6 @@
 | Principal, Business Operations - Pro | Remote | [View →](https://www.remotejobscan.com/job/15886/principal-business-operations-pro/) |
 | People Specialist | On-site | [View →](https://www.remotejobscan.com/job/15195/people-specialist/) |
 | Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
-| User Experience Researcher, Platform | On-site | [View →](https://www.remotejobscan.com/job/15879/user-experience-researcher-platform/) |
-| Senior Compliance Manager - Global FCC Investigations | On-site | [View →](https://www.remotejobscan.com/job/15878/senior-compliance-manager-global-fcc-investigations/) |
-| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
-| AI Security Engineer (Offensive & Defensive) | Hybrid | [View →](https://www.remotejobscan.com/job/15876/ai-security-engineer-offensive-defensive/) |
-| Financial Risk Officer (Market & Liquidity Risk) | Hybrid | [View →](https://www.remotejobscan.com/job/15864/financial-risk-officer-market-liquidity-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
