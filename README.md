@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2836</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2837</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器计划 - 软件工程师（股票） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15852/binance-accelerator-program-software-engineer-stocks/) |
+| 币安加速器计划 - 软件工程师（转换） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15851/binance-accelerator-programm-software-engineer-convert/) |
+| 币安加速器项目 - 数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15849/binance-accelerator-program-data-analyst/) |
+| 支付运营助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15847/payment-operations-associate/) |
 | Aave App 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app/) |
+| 高级产品经理—传统金融财富 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15848/senior-product-manager-tradfi-wealth/) |
 | 量化研究员-Alpha挖掘方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15761/alpha/) |
 | 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15845/senior-analyst-digital-trust-and-resilience/) |
 | 安全工程师，进攻性安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
@@ -38,11 +43,6 @@
 | 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15781/senior-abm-campaign-manager/) |
 | 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 | 国际云采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
-| GTM工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9835/gtm-engineer/) |
-| 前部署工程师（推理与后训练） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-inference-post-training/) |
-| 前派工程师（推理与后训练）-普通话 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
-| GPU集群客户成功工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9824/customer-success-engineer-cse-gpu-cluster/) |
-| 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
