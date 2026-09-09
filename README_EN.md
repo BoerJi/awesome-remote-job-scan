@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Analyst, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/15837/senior-analyst-digital-trust-and-resilience/) |
+| VC Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
+| Tech Governance - Security Compliance & Governance Engineer (Mandarin Bilingual Required) | On-site | [View →](https://www.remotejobscan.com/job/15836/tech-governance-security-compliance-governance-engineer-mandarin-bilingual-required/) |
 | Sales Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15835/sales-intern/) |
 | Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
@@ -40,9 +43,6 @@
 | Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 | Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
-| Senior Technical Recruiter, AI/ML Research | On-site | [View →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
-| Staff Machine Learning Engineer, Voice AI | On-site | [View →](https://www.remotejobscan.com/job/9871/staff-machine-learning-engineer-voice-ai/) |
-| Senior Machine Learning Engineer, Voice AI | On-site | [View →](https://www.remotejobscan.com/job/9854/senior-machine-learning-engineer-voice-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-09 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级分析师，数字信任与韧性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15837/senior-analyst-digital-trust-and-resilience/) |
+| 风险投资合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
+| 技术治理 - 安全合规与治理工程师（要求中文双语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15836/tech-governance-security-compliance-governance-engineer-mandarin-bilingual-required/) |
 | 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15835/sales-intern/) |
 | Salesforce 开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
@@ -40,8 +43,6 @@
 | 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 | 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9817/ai-infrastructure-systems-engineer/) |
-| AI/ML研究高级技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9865/senior-technical-recruiter-aiml-research/) |
-| 语音AI高级机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9871/staff-machine-learning-engineer-voice-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-09 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
