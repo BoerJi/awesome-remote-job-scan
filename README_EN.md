@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2881</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2878</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, EHS - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15960/senior-manager-ehs-robotics/) |
+| Senior Staff Software Engineer, Platform - IAM | Remote | [View →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
 | Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
 | Research Program Manager, Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
 | Performance Engineer, Inference Engine | On-site | [View →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
@@ -41,8 +43,6 @@
 | Senior Manager, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
 | Senior Manager, Infrastructure Asset Accounting | On-site | [View →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
 | Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
-| Staff Data Platform Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
-| Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

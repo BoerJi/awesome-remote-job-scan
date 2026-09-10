@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2881</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2878</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级经理，EHS - 机器人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15960/senior-manager-ehs-robotics/) |
+| 高级平台软件工程师 - IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
 | 光学硬件战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
 | 治理研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
 | 推理引擎性能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
@@ -41,8 +43,6 @@
 | 基础设施租赁会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
 | 基础设施资产会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
 | 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
-| 财务数据平台工程师 - 员工级 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
-| 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
