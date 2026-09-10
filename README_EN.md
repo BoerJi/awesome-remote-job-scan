@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
 | Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
@@ -42,7 +43,6 @@
 | Performance Engineer, Inference Engine | On-site | [View →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
 | Customer Trust Specialist | On-site | [View →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
-| Partnerships Operations Lead, OAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
