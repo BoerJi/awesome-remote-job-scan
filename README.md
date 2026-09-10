@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2887</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2891</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
+| 技术团队成员（应用AI工程师，智能体能力） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
+| 机械工程师，测功机和执行器测试基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
+| 社交媒体升级项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16014/social-escalations-program-manager/) |
+| 影响者营销专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16018/influencer-marketer/) |
+| 高级升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
+| 安全工程师，进攻性安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
 | 信贷风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16013/sales-intern/) |
@@ -30,19 +37,12 @@
 | 增长营销技术运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
 | 可访问性产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
 | 房地产与建设实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
-| 应用AI架构经理，企业技术（网络） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9497/manager-of-applied-ai-architecture-enterprise-tech-cyber/) |
 | 战略财务实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
 | Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
 | 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
 | 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 | 机械设计工程师，电机设计与原型制作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16008/mechanical-design-engineer-motor-design-prototyping/) |
 | 金融数据平台技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
-| GTM技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/member-of-the-technical-staff-gtm/) |
-| 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
-| 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
-| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
-| Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15522/head-of-live-streaming-business/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

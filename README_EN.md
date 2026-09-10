@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2887</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2891</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Creative Director, Growth | Remote | [View →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
+| Member of Technical Staff (Applied AI Engineer, Agent Capabilities) | On-site | [View →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
+| Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
+| Social Escalations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/16014/social-escalations-program-manager/) |
+| Influencer Marketer | Remote | [View →](https://www.remotejobscan.com/job/16018/influencer-marketer/) |
+| Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
+| Security Engineer, Offensive Security | Remote | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
 | Credit Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | Sales Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16013/sales-intern/) |
@@ -30,19 +37,12 @@
 | Growth Martech Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
 | Product Designer, Accessibility | Hybrid | [View →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
 | Real Estate & Builds Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
-| Manager of Applied AI Architecture, Enterprise Tech (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9497/manager-of-applied-ai-architecture-enterprise-tech-cyber/) |
 | Strategic Finance Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
 | Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
 | Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
 | Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 | Mechanical Design Engineer, Motor Design & Prototyping | Hybrid | [View →](https://www.remotejobscan.com/job/16008/mechanical-design-engineer-motor-design-prototyping/) |
 | Member of the Technical Staff, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
-| Member of the Technical Staff, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14432/member-of-the-technical-staff-gtm/) |
-| Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
-| Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
-| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
-| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/15522/head-of-live-streaming-business/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
