@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 执行升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
+| 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
 | 青年产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15971/product-designer-youth/) |
 | 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
@@ -41,8 +43,6 @@
 | 客户信任专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | 政府合作运营主管，OAI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
-| 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15942/staff-software-engineer-compute/) |
-| 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

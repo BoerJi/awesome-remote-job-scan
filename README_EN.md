@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
+| Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
 | Product Designer, Youth | Hybrid | [View →](https://www.remotejobscan.com/job/15971/product-designer-youth/) |
 | Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
@@ -41,8 +43,6 @@
 | Customer Trust Specialist | On-site | [View →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | Partnerships Operations Lead, OAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
-| Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/15942/staff-software-engineer-compute/) |
-| Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
