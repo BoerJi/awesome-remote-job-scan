@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2875</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2881</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 光学硬件战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
+| 治理研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
+| 推理引擎性能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
 | 客户信任专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | 政府合作运营主管，OAI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
@@ -40,9 +43,6 @@
 | 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 | 财务数据平台工程师 - 员工级 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
 | 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
-| 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
-| 高级数据工程师 - 金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
-| 高级React Native工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15940/senior-react-native-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

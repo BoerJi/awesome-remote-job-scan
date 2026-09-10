@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2875</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2881</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
+| Research Program Manager, Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
+| Performance Engineer, Inference Engine | On-site | [View →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
 | Customer Trust Specialist | On-site | [View →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | Partnerships Operations Lead, OAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
@@ -40,9 +43,6 @@
 | Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 | Staff Data Platform Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14852/staff-data-platform-engineer-finance/) |
 | Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
-| Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
-| Senior Data Engineer - Finance | Hybrid | [View →](https://www.remotejobscan.com/job/14432/senior-data-engineer-finance/) |
-| Senior React Native Engineer | On-site | [View →](https://www.remotejobscan.com/job/15940/senior-react-native-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
