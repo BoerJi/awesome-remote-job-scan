@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
+| 市场平台负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14132/head-of-marketplace/) |
+| GTM Claudification 团队高级 AI 工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
+| 软件工程师 - 资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16036/software-engineer-money-movement/) |
 | 新兴产品全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
 | 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 | 高级数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
@@ -39,10 +43,6 @@
 | 机械工程师，测功机和执行器测试基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
 | 社交媒体升级项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16014/social-escalations-program-manager/) |
 | 影响者营销专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16018/influencer-marketer/) |
-| 高级升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
-| 安全工程师，进攻性安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
-| 信贷风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
-| GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

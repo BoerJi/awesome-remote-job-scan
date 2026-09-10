@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
+| Head of Marketplace | Hybrid | [View →](https://www.remotejobscan.com/job/14132/head-of-marketplace/) |
+| Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
+| Software Engineer - Money Movement | Remote | [View →](https://www.remotejobscan.com/job/16036/software-engineer-money-movement/) |
 | Full-Stack Software Engineer, Emerging Products | On-site | [View →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
 | Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 | Staff Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
@@ -39,10 +43,6 @@
 | Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
 | Social Escalations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/16014/social-escalations-program-manager/) |
 | Influencer Marketer | Remote | [View →](https://www.remotejobscan.com/job/16018/influencer-marketer/) |
-| Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
-| Security Engineer, Offensive Security | Remote | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
-| Credit Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
-| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
