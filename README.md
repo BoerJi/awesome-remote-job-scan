@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2883</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2882</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
+| 财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
+| 高级财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
+| CFD业务发展经理，拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
+| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15961/strategic-account-executive-tech/) |
 | 高级经理，EHS - 机器人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15960/senior-manager-ehs-robotics/) |
 | 高级平台软件工程师 - IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
 | 光学硬件战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
@@ -38,11 +43,6 @@
 | 人事运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15944/people-operations-specialist/) |
 | 企业科技应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
 | 合规前哨工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| 前哨部署工程师，金融 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| 前哨部署工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| 基础设施租赁会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
-| 基础设施资产会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
-| 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2883</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2882</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
+| Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
+| Senior Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
+| CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
+| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/15961/strategic-account-executive-tech/) |
 | Senior Manager, EHS - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15960/senior-manager-ehs-robotics/) |
 | Senior Staff Software Engineer, Platform - IAM | Remote | [View →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
 | Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
@@ -38,11 +43,6 @@
 | People Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/15944/people-operations-specialist/) |
 | Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
 | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| Senior Manager, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/15550/senior-manager-infrastructure-lease-accounting/) |
-| Senior Manager, Infrastructure Asset Accounting | On-site | [View →](https://www.remotejobscan.com/job/15582/senior-manager-infrastructure-asset-accounting/) |
-| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
