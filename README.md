@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2882</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2881</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 中东地区基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
+| 税务申报高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
+| 增长 - 验证 - 高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15986/staff-engineer-growth-verifications/) |
+| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15984/customer-support-korean-vip-in-app-chat/) |
+| 高级工程师 - 法定货币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | 量化交易员（D1流动性） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
 | 技术主管（普通话） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -38,11 +43,6 @@
 | 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | GTM人才合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15970/talent-partner-gtm/) |
-| 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
-| 财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
-| 高级财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
-| CFD业务发展经理，拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
-| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15961/strategic-account-executive-tech/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

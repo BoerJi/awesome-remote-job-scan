@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2882</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2881</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Infrastructure Specialist (Middle East) | Hybrid | [View →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
+| Tax Reporting Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
+| Staff Engineer - Growth - Verifications | Remote | [View →](https://www.remotejobscan.com/job/15986/staff-engineer-growth-verifications/) |
+| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/15984/customer-support-korean-vip-in-app-chat/) |
+| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | Quantitative Trader (D1 Liquidity) | On-site | [View →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
 | Technology Lead (Mandarin Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
@@ -38,11 +43,6 @@
 | Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Talent Partner, GTM | Remote | [View →](https://www.remotejobscan.com/job/15970/talent-partner-gtm/) |
-| Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
-| Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
-| Senior Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
-| CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
-| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/15961/strategic-account-executive-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
