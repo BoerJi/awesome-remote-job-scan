@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2892</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2895</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| 高级数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
+| 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
+| 国际云采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
+| 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 | 开发者生产力 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16032/developer-productivity/) |
 | 合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16031/partner-applied-ai-engineer/) |
@@ -37,12 +43,6 @@
 | 信贷风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16013/sales-intern/) |
-| Codex产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16011/product-designer-codex/) |
-| 增长营销技术运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
-| 可访问性产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
-| 房地产与建设实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
-| 战略财务实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
-| Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

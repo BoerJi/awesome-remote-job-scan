@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2892</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2895</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| Staff Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
+| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
+| Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
+| Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
+| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 | Developer Productivity | On-site | [View →](https://www.remotejobscan.com/job/16032/developer-productivity/) |
 | Partner Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16031/partner-applied-ai-engineer/) |
@@ -37,12 +43,6 @@
 | Credit Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 | Sales Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16013/sales-intern/) |
-| Product Designer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16011/product-designer-codex/) |
-| Growth Martech Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
-| Product Designer, Accessibility | Hybrid | [View →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
-| Real Estate & Builds Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
-| Strategic Finance Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
-| Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
