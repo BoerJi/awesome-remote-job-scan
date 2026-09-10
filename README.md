@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2882</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2881</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 品牌创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15979/head-of-brand-creative/) |
+| 数字原生业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15980/account-director-digital-natives/) |
 | 高级产品合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
 | 执行升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
@@ -41,8 +43,6 @@
 | 光学硬件战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
 | 治理研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
 | 推理引擎性能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
-| 客户信任专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
-| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

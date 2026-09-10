@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2882</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2881</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head Of Brand Creative | Remote | [View →](https://www.remotejobscan.com/job/15979/head-of-brand-creative/) |
+| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/15980/account-director-digital-natives/) |
 | Senior Product Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
 | Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
@@ -41,8 +43,6 @@
 | Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
 | Research Program Manager, Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
 | Performance Engineer, Inference Engine | On-site | [View →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
-| Customer Trust Specialist | On-site | [View →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
-| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
