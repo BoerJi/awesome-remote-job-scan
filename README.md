@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2893</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2888</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 信贷风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
+| GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
+| 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16013/sales-intern/) |
 | Codex产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16011/product-designer-codex/) |
 | 增长营销技术运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
 | 可访问性产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
@@ -40,9 +43,6 @@
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15522/head-of-live-streaming-business/) |
-| 做市风控主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15693/job-15693/) |
-| 高级解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

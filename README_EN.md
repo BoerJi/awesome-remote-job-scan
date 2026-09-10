@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2893</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2888</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Credit Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
+| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
+| Sales Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16013/sales-intern/) |
 | Product Designer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16011/product-designer-codex/) |
 | Growth Martech Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
 | Product Designer, Accessibility | Hybrid | [View →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
@@ -40,9 +43,6 @@
 | Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
 | Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/15522/head-of-live-streaming-business/) |
-| 做市风控主管 | Remote | [View →](https://www.remotejobscan.com/job/15693/job-15693/) |
-| Senior Solutions Engineer | Remote | [View →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
