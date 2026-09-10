@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2891</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2892</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
+| 开发者生产力 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16032/developer-productivity/) |
+| 合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16031/partner-applied-ai-engineer/) |
+| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | 增长创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
 | 技术团队成员（应用AI工程师，智能体能力） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
 | 机械工程师，测功机和执行器测试基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
@@ -39,10 +43,6 @@
 | 房地产与建设实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
 | 战略财务实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
 | Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
-| 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
-| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| 机械设计工程师，电机设计与原型制作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16008/mechanical-design-engineer-motor-design-prototyping/) |
-| 金融数据平台技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

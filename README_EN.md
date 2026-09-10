@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2891</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2892</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
+| Developer Productivity | On-site | [View →](https://www.remotejobscan.com/job/16032/developer-productivity/) |
+| Partner Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16031/partner-applied-ai-engineer/) |
+| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | Creative Director, Growth | Remote | [View →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
 | Member of Technical Staff (Applied AI Engineer, Agent Capabilities) | On-site | [View →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
 | Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
@@ -39,10 +43,6 @@
 | Real Estate & Builds Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
 | Strategic Finance Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
 | Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
-| Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
-| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| Mechanical Design Engineer, Motor Design & Prototyping | Hybrid | [View →](https://www.remotejobscan.com/job/16008/mechanical-design-engineer-motor-design-prototyping/) |
-| Member of the Technical Staff, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
