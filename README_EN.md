@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
+| Product Designer, Youth | Hybrid | [View →](https://www.remotejobscan.com/job/15971/product-designer-youth/) |
+| Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
+| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
+| Talent Partner, GTM | Remote | [View →](https://www.remotejobscan.com/job/15970/talent-partner-gtm/) |
 | Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
 | Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
 | Senior Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
@@ -38,11 +43,6 @@
 | Partnerships Operations Lead, OAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/15945/partnerships-operations-lead-oai-for-government/) |
 | Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/15942/staff-software-engineer-compute/) |
 | Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
-| People Systems and Automation Manager | Remote | [View →](https://www.remotejobscan.com/job/14701/people-systems-and-automation-manager/) |
-| Technical Program Manager, Manufacturing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/15943/technical-program-manager-manufacturing-operations/) |
-| People Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/15944/people-operations-specialist/) |
-| Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
-| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
