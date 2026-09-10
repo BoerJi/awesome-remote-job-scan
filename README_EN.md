@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of the Technical Staff, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14432/member-of-the-technical-staff-gtm/) |
+| Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
+| Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
+| Head of Live Streaming Business 直播业务负责人 | Remote | [View →](https://www.remotejobscan.com/job/15522/head-of-live-streaming-business/) |
+| 做市风控主管 | Remote | [View →](https://www.remotejobscan.com/job/15693/job-15693/) |
 | Senior Solutions Engineer | Remote | [View →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
 | Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16001/complaints-analyst-ii/) |
@@ -34,13 +41,6 @@
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
 | BGW Frontend Engineer 高级前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
-| Forward Deployed Engineer, Infrastructure Specialist (Middle East) | Hybrid | [View →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
-| Tax Reporting Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
-| Staff Engineer - Growth - Verifications | Remote | [View →](https://www.remotejobscan.com/job/15986/staff-engineer-growth-verifications/) |
-| Customer Support (Korean) - VIP In-App Chat | Remote | [View →](https://www.remotejobscan.com/job/15984/customer-support-korean-vip-in-app-chat/) |
-| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| Quantitative Trader (D1 Liquidity) | On-site | [View →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
-| Technology Lead (Mandarin Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

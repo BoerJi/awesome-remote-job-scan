@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/member-of-the-technical-staff-gtm/) |
+| 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
+| 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
+| Head of Live Streaming Business 直播业务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15522/head-of-live-streaming-business/) |
+| 做市风控主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15693/job-15693/) |
 | 高级解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
 | 投诉分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16001/complaints-analyst-ii/) |
@@ -34,13 +41,6 @@
 | 客户尽职调查运营专员（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
 | BGW Frontend Engineer 高级前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
-| 中东地区基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
-| 税务申报高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
-| 增长 - 验证 - 高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15986/staff-engineer-growth-verifications/) |
-| 客户支持（韩语）- VIP应用内聊天 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15984/customer-support-korean-vip-in-app-chat/) |
-| 高级工程师 - 法定货币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| 量化交易员（D1流动性） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
-| 技术主管（普通话） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
