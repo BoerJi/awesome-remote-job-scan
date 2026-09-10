@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2881</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2885</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| BGW Frontend Engineer 高级前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 | 中东地区基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
 | 税务申报高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
 | 增长 - 验证 - 高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15986/staff-engineer-growth-verifications/) |
@@ -42,7 +43,6 @@
 | 青年产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15971/product-designer-youth/) |
 | 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| GTM人才合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15970/talent-partner-gtm/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
