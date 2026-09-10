@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2881</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2886</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Quantitative Trader (D1 Liquidity) | On-site | [View →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
+| Technology Lead (Mandarin Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Real Estate & Builds Intern (EWX) | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
 | Head Of Brand Creative | Remote | [View →](https://www.remotejobscan.com/job/15979/head-of-brand-creative/) |
 | Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/15980/account-director-digital-natives/) |
 | Senior Product Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
@@ -38,11 +43,6 @@
 | Senior Finance Manager - Corporate Reporting | Remote | [View →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
 | CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
 | Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/15961/strategic-account-executive-tech/) |
-| Senior Manager, EHS - Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/15960/senior-manager-ehs-robotics/) |
-| Senior Staff Software Engineer, Platform - IAM | Remote | [View →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
-| Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
-| Research Program Manager, Governance | Hybrid | [View →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
-| Performance Engineer, Inference Engine | On-site | [View →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

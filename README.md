@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2881</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2886</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 量化交易员（D1流动性） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
+| 技术主管（普通话） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
+| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
+| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| 房地产与建设实习生（EWX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
 | 品牌创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15979/head-of-brand-creative/) |
 | 数字原生业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15980/account-director-digital-natives/) |
 | 高级产品合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
@@ -38,11 +43,6 @@
 | 高级财务经理 - 企业报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15649/senior-finance-manager-corporate-reporting/) |
 | CFD业务发展经理，拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
 | 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15961/strategic-account-executive-tech/) |
-| 高级经理，EHS - 机器人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15960/senior-manager-ehs-robotics/) |
-| 高级平台软件工程师 - IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
-| 光学硬件战略采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15958/hardware-strategic-sourcing-manager-optics/) |
-| 治理研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15952/research-program-manager-governance/) |
-| 推理引擎性能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15950/performance-engineer-inference-engine/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
