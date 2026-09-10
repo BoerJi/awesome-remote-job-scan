@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2888</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2890</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
+| 投诉分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16001/complaints-analyst-ii/) |
+| 客户支持主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
+| 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16003/product-counsel/) |
+| 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15997/client-engagement-specialist-trading-expert/) |
 | 现场可靠性工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15996/manager-site-reliability-engineering/) |
 | 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
 | 客户尽职调查运营专员（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
@@ -35,14 +41,6 @@
 | 高级工程师 - 法定货币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | 量化交易员（D1流动性） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
 | 技术主管（普通话） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
-| Options Trading Middle Platform Product Manager 期权交易中台产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
-| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| 房地产与建设实习生（EWX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
-| 品牌创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15979/head-of-brand-creative/) |
-| 数字原生业务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15980/account-director-digital-natives/) |
-| 高级产品合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
-| 执行升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
-| 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

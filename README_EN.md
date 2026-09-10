@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2888</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2890</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Solutions Engineer | Remote | [View →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
+| Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16001/complaints-analyst-ii/) |
+| Customer Support Lead | Remote | [View →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
+| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/16003/product-counsel/) |
+| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/15997/client-engagement-specialist-trading-expert/) |
 | Manager, Site Reliability Engineering | On-site | [View →](https://www.remotejobscan.com/job/15996/manager-site-reliability-engineering/) |
 | Reseller Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
@@ -35,14 +41,6 @@
 | Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | Quantitative Trader (D1 Liquidity) | On-site | [View →](https://www.remotejobscan.com/job/15982/quantitative-trader-d1-liquidity/) |
 | Technology Lead (Mandarin Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15981/technology-lead-mandarin-speaking/) |
-| Options Trading Middle Platform Product Manager 期权交易中台产品 | Remote | [View →](https://www.remotejobscan.com/job/13277/options-trading-middle-platform-product-manager/) |
-| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| Real Estate & Builds Intern (EWX) | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern-ewx/) |
-| Head Of Brand Creative | Remote | [View →](https://www.remotejobscan.com/job/15979/head-of-brand-creative/) |
-| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/15980/account-director-digital-natives/) |
-| Senior Product Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
-| Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
-| Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
