@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2889</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2893</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Designer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16011/product-designer-codex/) |
+| Growth Martech Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
+| Product Designer, Accessibility | Hybrid | [View →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
+| Real Estate & Builds Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
+| Manager of Applied AI Architecture, Enterprise Tech (Cyber) | On-site | [View →](https://www.remotejobscan.com/job/9497/manager-of-applied-ai-architecture-enterprise-tech-cyber/) |
+| Strategic Finance Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
+| Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
+| Enterprise Account Executive, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
+| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
+| Mechanical Design Engineer, Motor Design & Prototyping | Hybrid | [View →](https://www.remotejobscan.com/job/16008/mechanical-design-engineer-motor-design-prototyping/) |
+| Member of the Technical Staff, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 | Member of the Technical Staff, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14432/member-of-the-technical-staff-gtm/) |
 | Software Engineer, Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
 | Senior Data Engineer - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
@@ -32,15 +43,6 @@
 | 做市风控主管 | Remote | [View →](https://www.remotejobscan.com/job/15693/job-15693/) |
 | Senior Solutions Engineer | Remote | [View →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
-| Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16001/complaints-analyst-ii/) |
-| Customer Support Lead | Remote | [View →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
-| Product Counsel | Remote | [View →](https://www.remotejobscan.com/job/16003/product-counsel/) |
-| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/15997/client-engagement-specialist-trading-expert/) |
-| Manager, Site Reliability Engineering | On-site | [View →](https://www.remotejobscan.com/job/15996/manager-site-reliability-engineering/) |
-| Reseller Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
-| Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
-| BGW Frontend Engineer 高级前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

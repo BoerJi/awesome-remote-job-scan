@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2889</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2893</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Codex产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16011/product-designer-codex/) |
+| 增长营销技术运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16010/growth-martech-operations-lead/) |
+| 可访问性产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16012/product-designer-accessibility/) |
+| 房地产与建设实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
+| 应用AI架构经理，企业技术（网络） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9497/manager-of-applied-ai-architecture-enterprise-tech-cyber/) |
+| 战略财务实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15816/strategic-finance-intern/) |
+| Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9611/salesforce-developer-partnerships/) |
+| 企业客户经理，零售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15770/enterprise-account-executive-retail/) |
+| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
+| 机械设计工程师，电机设计与原型制作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16008/mechanical-design-engineer-motor-design-prototyping/) |
+| 金融数据平台技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 | GTM技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/member-of-the-technical-staff-gtm/) |
 | 数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14435/software-engineer-data-platform/) |
 | 高级数据工程师 - GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14433/senior-data-engineer-gtm/) |
@@ -32,15 +43,6 @@
 | 做市风控主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15693/job-15693/) |
 | 高级解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16004/senior-solutions-engineer/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16002/customer-support-specialist-ii/) |
-| 投诉分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16001/complaints-analyst-ii/) |
-| 客户支持主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
-| 产品顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16003/product-counsel/) |
-| 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15997/client-engagement-specialist-trading-expert/) |
-| 现场可靠性工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15996/manager-site-reliability-engineering/) |
-| 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
-| 客户尽职调查运营专员（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
-| BGW Frontend Engineer 高级前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
