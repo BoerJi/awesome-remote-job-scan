@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2895</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2894</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Software Engineer, Emerging Products | On-site | [View →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
 | Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 | Staff Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
 | Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
@@ -42,7 +43,6 @@
 | Security Engineer, Offensive Security | Remote | [View →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
 | Credit Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| Sales Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16013/sales-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

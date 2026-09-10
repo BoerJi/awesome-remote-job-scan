@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2895</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2894</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 新兴产品全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
 | 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 | 高级数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
 | 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
@@ -42,7 +43,6 @@
 | 安全工程师，进攻性安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15842/security-engineer-offensive-security/) |
 | 信贷风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15830/credit-risk-intern/) |
 | GTM战略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| 销售实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16013/sales-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
