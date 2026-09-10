@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2885</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2888</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
+| 客户尽职调查运营专员（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
+| 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
 | BGW Frontend Engineer 高级前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 | 中东地区基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
 | 税务申报高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
@@ -40,9 +43,6 @@
 | 执行升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
-| 青年产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15971/product-designer-youth/) |
-| 公共部门市场推广主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
-| 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

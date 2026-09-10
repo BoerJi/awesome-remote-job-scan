@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2885</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2888</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Reseller Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
+| Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
+| Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
 | BGW Frontend Engineer 高级前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 | Forward Deployed Engineer, Infrastructure Specialist (Middle East) | Hybrid | [View →](https://www.remotejobscan.com/job/15988/forward-deployed-engineer-infrastructure-specialist-middle-east/) |
 | Tax Reporting Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
@@ -40,9 +43,6 @@
 | Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
 | IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
-| Product Designer, Youth | Hybrid | [View →](https://www.remotejobscan.com/job/15971/product-designer-youth/) |
-| Field Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/9457/field-marketing-lead-public-sector/) |
-| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
