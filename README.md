@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 现场可靠性工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15996/manager-site-reliability-engineering/) |
 | 渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
 | 客户尽职调查运营专员（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | 联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
@@ -42,7 +43,6 @@
 | 高级产品合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
 | 执行升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | 整合营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
-| IU客服专员-调查组 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-10 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

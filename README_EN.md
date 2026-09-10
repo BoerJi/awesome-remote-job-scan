@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Site Reliability Engineering | On-site | [View →](https://www.remotejobscan.com/job/15996/manager-site-reliability-engineering/) |
 | Reseller Partner Manager | On-site | [View →](https://www.remotejobscan.com/job/15995/reseller-partner-manager/) |
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 | Affiliate Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-business-development-manager/) |
@@ -42,7 +43,6 @@
 | Senior Product Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/15973/senior-product-compliance-manager/) |
 | Executive Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/15972/executive-escalations-manager/) |
 | Integrated Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/15655/integrated-marketing-lead/) |
-| IU CS Specialist - Investigate Unit | Remote | [View →](https://www.remotejobscan.com/job/14840/iu-cs-specialist-investigate-unit/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-10 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
