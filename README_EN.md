@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2921</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2927</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer (FDE) - Seattle | Hybrid | [View →](https://www.remotejobscan.com/job/16121/forward-deployed-engineer-fde-seattle/) |
+| Forward Deployed Engineer (FDE) - SF | Hybrid | [View →](https://www.remotejobscan.com/job/16122/forward-deployed-engineer-fde-sf/) |
+| Lifecycle Marketing Manager, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16120/lifecycle-marketing-manager-smb-ads/) |
+| Associate Field Engineer | On-site | [View →](https://www.remotejobscan.com/job/16123/associate-field-engineer/) |
+| Scaled Programs Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16119/scaled-programs-lead-smb-ads/) |
+| Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
+| Audience & Content Growth Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16118/audience-content-growth-lead-smb-ads/) |
 | Engineer Manager, HR Applications | Remote | [View →](https://www.remotejobscan.com/job/14895/engineer-manager-hr-applications/) |
 | Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | Senior Director, Integrated Marketing | Remote | [View →](https://www.remotejobscan.com/job/16117/senior-director-integrated-marketing/) |
@@ -35,13 +42,6 @@
 | Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
 | Sr. Performance Marketing Manager, Growth Systems | Remote | [View →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
 | US Web3 Channels & Community Lead | On-site | [View →](https://www.remotejobscan.com/job/16108/us-web3-channels-community-lead/) |
-| Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
-| Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/16112/hardware-strategic-sourcing-manager-optics/) |
-| Director, Premium & Wealth | On-site | [View →](https://www.remotejobscan.com/job/9208/director-premium-wealth/) |
-| Backend Software Engineer, ChatGPT ImageGen | Hybrid | [View →](https://www.remotejobscan.com/job/16107/backend-software-engineer-chatgpt-imagegen/) |
-| Android Engineer, ChatGPT ImageGen | Hybrid | [View →](https://www.remotejobscan.com/job/16106/android-engineer-chatgpt-imagegen/) |
-| Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
-| Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
