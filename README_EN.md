@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2922</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2918</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| Strategic Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
+| Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 | Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
 | Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
 | Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/16102/manager-applied-ai-engineering-codex/) |
@@ -38,9 +41,6 @@
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
 | CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
 | KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
-| CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
-| KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15874/kol-business-development-manager-latam/) |
-| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

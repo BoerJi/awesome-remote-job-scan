@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2922</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2918</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| 战略合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
+| 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 | 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
 | 受监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
 | 应用 AI 工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16102/manager-applied-ai-engineering-codex/) |
@@ -38,9 +41,6 @@
 | KOL业务发展经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
 | 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
 | 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
-| CFD业务发展经理，拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
-| 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15874/kol-business-development-manager-latam/) |
-| 拉美VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
