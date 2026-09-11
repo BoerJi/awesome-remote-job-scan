@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2927</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2932</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略项目主管，招聘 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16129/strategic-projects-lead-recruiting/) |
+| 前沿部署工程师 (FDE) - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16130/forward-deployed-engineer-fde-nyc/) |
+| 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
+| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16128/senior-strategic-program-lead/) |
+| 欧洲、中东、非洲地区合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| 运营卓越高级项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16127/operational-excellence-senior-program-lead/) |
 | 知识工作核心产品产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
 | 知识工作产品营销主管，GTM策略 - Claude for Knowledge Work | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
 | 广告获客与客户洞察负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
@@ -37,12 +43,6 @@
 | 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | 整合营销高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16117/senior-director-integrated-marketing/) |
 | 高级摄影师，品牌工作室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
-| 财务分析师（入门级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16115/financial-analyst-entry-level/) |
-| 需求生成主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16114/demand-generation-lead/) |
-| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
-| 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
-| 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
-| 法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

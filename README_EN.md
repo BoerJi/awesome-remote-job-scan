@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2927</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2932</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Projects Lead, Recruiting | On-site | [View →](https://www.remotejobscan.com/job/16129/strategic-projects-lead-recruiting/) |
+| Forward Deployed Engineer (FDE) - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16130/forward-deployed-engineer-fde-nyc/) |
+| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
+| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/16128/senior-strategic-program-lead/) |
+| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| Operational Excellence Senior Program Lead | Remote | [View →](https://www.remotejobscan.com/job/16127/operational-excellence-senior-program-lead/) |
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
 | Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
 | Lead, Ads Prospecting & Customer Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
@@ -37,12 +43,6 @@
 | Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | Senior Director, Integrated Marketing | Remote | [View →](https://www.remotejobscan.com/job/16117/senior-director-integrated-marketing/) |
 | Senior Cinematographer, Brand Studio | On-site | [View →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
-| Financial Analyst (Entry-Level) | Remote | [View →](https://www.remotejobscan.com/job/16115/financial-analyst-entry-level/) |
-| Demand Generation Lead | On-site | [View →](https://www.remotejobscan.com/job/16114/demand-generation-lead/) |
-| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
-| Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
-| Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
-| Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
