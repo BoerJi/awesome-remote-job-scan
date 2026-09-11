@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2895</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2903</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Partnerships Lead | Remote | [View →](https://www.remotejobscan.com/job/16051/growth-partnerships-lead/) |
+| Strategic Business Operations Lead, API | Hybrid | [View →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
+| Technical Customer Success Manager, API | Hybrid | [View →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
+| Senior Software Engineer, Backend (Institutional - | Remote | [View →](https://www.remotejobscan.com/job/16042/senior-software-engineer-backend-institutional/) |
+| Internal Audit IT Manager | Remote | [View →](https://www.remotejobscan.com/job/9225/internal-audit-it-manager/) |
+| Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/16043/senior-abm-campaign-manager/) |
 | Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 | Technical Support Engineer - India | On-site | [View →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
@@ -37,12 +43,6 @@
 | Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
 | Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
-| Developer Productivity | On-site | [View →](https://www.remotejobscan.com/job/16032/developer-productivity/) |
-| Partner Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16031/partner-applied-ai-engineer/) |
-| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| Creative Director, Growth | Remote | [View →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
-| Member of Technical Staff (Applied AI Engineer, Agent Capabilities) | On-site | [View →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
-| Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

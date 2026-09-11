@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2895</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2903</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16051/growth-partnerships-lead/) |
+| 战略业务运营主管，API | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
+| 技术型API客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
+| 高级后端软件工程师（机构 - | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16042/senior-software-engineer-backend-institutional/) |
+| 内部审计IT经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9225/internal-audit-it-manager/) |
+| 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16043/senior-abm-campaign-manager/) |
 | 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 | 技术支持工程师 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
 | 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
@@ -37,12 +43,6 @@
 | 国际云采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
 | 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
-| 开发者生产力 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16032/developer-productivity/) |
-| 合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16031/partner-applied-ai-engineer/) |
-| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| 增长创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
-| 技术团队成员（应用AI工程师，智能体能力） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
-| 机械工程师，测功机和执行器测试基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
