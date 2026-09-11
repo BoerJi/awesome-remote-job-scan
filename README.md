@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2914</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2922</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
+| 受监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
+| 应用 AI 工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16102/manager-applied-ai-engineering-codex/) |
+| AI部署专家，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
+| 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
+| 清洁能源与新技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16096/clean-energy-and-new-technology-lead/) |
 | 艺术总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16094/art-director/) |
 | 加拿大交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16093/transaction-manager-canada/) |
 | 韩国外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
@@ -35,13 +41,6 @@
 | CFD业务发展经理，拉丁美洲 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
 | 拉美KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15874/kol-business-development-manager-latam/) |
 | 拉美VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
-| 交易分析开发者，量化交易 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16083/trading-analytics-developer-quantitative-trading/) |
-| VIP及机构销售 - 中东及北非 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16082/vip-institutional-sales-mena/) |
-| Codex应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16084/applied-ai-engineer-codex/) |
-| OKDS 设计系统设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16080/design-system-designer-okds/) |
-| OKDS设计系统设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16075/design-system-designer-okds/) |
-| 核心团队高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16076/senior-product-designer-core/) |
-| Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

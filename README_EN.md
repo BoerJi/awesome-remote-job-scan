@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2914</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2922</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
+| Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
+| Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/16102/manager-applied-ai-engineering-codex/) |
+| AI Deployment Specialist, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
+| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
+| Clean Energy and New Technology Lead | Remote | [View →](https://www.remotejobscan.com/job/16096/clean-energy-and-new-technology-lead/) |
 | Art Director | Remote | [View →](https://www.remotejobscan.com/job/16094/art-director/) |
 | Transaction Manager, Canada | Remote | [View →](https://www.remotejobscan.com/job/16093/transaction-manager-canada/) |
 | External Affairs, South Korea | On-site | [View →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
@@ -35,12 +41,6 @@
 | CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
 | KOL Business Development Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/15874/kol-business-development-manager-latam/) |
 | LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
-| Trading Analytics Developer, Quantitative Trading | Hybrid | [View →](https://www.remotejobscan.com/job/16083/trading-analytics-developer-quantitative-trading/) |
-| VIP & Institutional Sales - MENA | Remote | [View →](https://www.remotejobscan.com/job/16082/vip-institutional-sales-mena/) |
-| Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16084/applied-ai-engineer-codex/) |
-| Design System Designer, OKDS | On-site | [View →](https://www.remotejobscan.com/job/16080/design-system-designer-okds/) |
-| Senior Product Designer, Core | On-site | [View →](https://www.remotejobscan.com/job/16076/senior-product-designer-core/) |
-| Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
