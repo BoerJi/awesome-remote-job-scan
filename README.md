@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2918</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2920</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 韩国外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
 | 产品安全工程师，北安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
 | 反洗钱分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
 | 收益运营专家（链上方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
