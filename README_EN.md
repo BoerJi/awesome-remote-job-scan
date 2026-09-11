@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2911</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2913</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Operations Lead, Marketing | On-site | [View →](https://www.remotejobscan.com/job/16064/strategy-operations-lead-marketing/) |
+| Solutions Marketing Manager, Healthcare & Science | On-site | [View →](https://www.remotejobscan.com/job/16062/solutions-marketing-manager-healthcare-science/) |
+| Solutions Marketing Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | Software Engineering Manager, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
 | Developer Experience Engineer, Cyber | On-site | [View →](https://www.remotejobscan.com/job/16059/developer-experience-engineer-cyber/) |
@@ -40,9 +43,6 @@
 | Strategic Business Operations Lead, API | Hybrid | [View →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
 | Technical Customer Success Manager, API | Hybrid | [View →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
 | Senior Software Engineer, Backend (Institutional - | Remote | [View →](https://www.remotejobscan.com/job/16042/senior-software-engineer-backend-institutional/) |
-| Internal Audit IT Manager | Remote | [View →](https://www.remotejobscan.com/job/9225/internal-audit-it-manager/) |
-| Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/16043/senior-abm-campaign-manager/) |
-| Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

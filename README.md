@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2911</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2913</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场战略与运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16064/strategy-operations-lead-marketing/) |
+| 医疗与科学解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16062/solutions-marketing-manager-healthcare-science/) |
+| 网络安全解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
 | 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | AI可观测性与评估平台软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
 | 网络安全开发者体验工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16059/developer-experience-engineer-cyber/) |
@@ -40,9 +43,6 @@
 | 战略业务运营主管，API | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
 | 技术型API客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
 | 高级后端软件工程师（机构 - | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16042/senior-software-engineer-backend-institutional/) |
-| 内部审计IT经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9225/internal-audit-it-manager/) |
-| 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16043/senior-abm-campaign-manager/) |
-| 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
