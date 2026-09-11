@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineer Manager, HR Applications | Remote | [View →](https://www.remotejobscan.com/job/14895/engineer-manager-hr-applications/) |
 | Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | Senior Director, Integrated Marketing | Remote | [View →](https://www.remotejobscan.com/job/16117/senior-director-integrated-marketing/) |
 | Senior Cinematographer, Brand Studio | On-site | [View →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
@@ -41,7 +42,6 @@
 | Android Engineer, ChatGPT ImageGen | Hybrid | [View →](https://www.remotejobscan.com/job/16106/android-engineer-chatgpt-imagegen/) |
 | Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
-| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 20:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 21:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

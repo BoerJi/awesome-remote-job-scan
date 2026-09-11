@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源应用工程师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14895/engineer-manager-hr-applications/) |
 | 美洲解决方案架构高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
 | 整合营销高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16117/senior-director-integrated-marketing/) |
 | 高级摄影师，品牌工作室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
@@ -41,7 +42,6 @@
 | Android工程师，ChatGPT图像生成 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16106/android-engineer-chatgpt-imagegen/) |
 | 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
-| 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 20:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 21:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
