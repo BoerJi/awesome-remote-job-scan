@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2912</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2918</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
+| 法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
+| 高级绩效营销经理，增长系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
+| 美国Web3渠道与社区负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16108/us-web3-channels-community-lead/) |
+| 战略初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
+| 硬件战略采购经理，光学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16112/hardware-strategic-sourcing-manager-optics/) |
+| 高级与财富总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9208/director-premium-wealth/) |
+| ChatGPT图像生成后端软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16107/backend-software-engineer-chatgpt-imagegen/) |
+| Android工程师，ChatGPT图像生成 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16106/android-engineer-chatgpt-imagegen/) |
+| 金融服务首席产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 | 高级软件工程师，身份与授权 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16105/senior-software-engineer-identity-authorization/) |
@@ -30,17 +40,6 @@
 | 战略合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
 | 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 | 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
-| 受监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
-| 应用 AI 工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16102/manager-applied-ai-engineering-codex/) |
-| AI部署专家，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
-| 首席招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
-| 清洁能源与新技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16096/clean-energy-and-new-technology-lead/) |
-| 艺术总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16094/art-director/) |
-| 加拿大交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16093/transaction-manager-canada/) |
-| 韩国外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
-| 产品安全工程师，北安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
-| 反洗钱分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
-| 收益运营专家（链上方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

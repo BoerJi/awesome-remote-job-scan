@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2912</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2918</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
+| Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
+| Sr. Performance Marketing Manager, Growth Systems | Remote | [View →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
+| US Web3 Channels & Community Lead | On-site | [View →](https://www.remotejobscan.com/job/16108/us-web3-channels-community-lead/) |
+| Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
+| Hardware Strategic Sourcing Manager, Optics | On-site | [View →](https://www.remotejobscan.com/job/16112/hardware-strategic-sourcing-manager-optics/) |
+| Director, Premium & Wealth | On-site | [View →](https://www.remotejobscan.com/job/9208/director-premium-wealth/) |
+| Backend Software Engineer, ChatGPT ImageGen | Hybrid | [View →](https://www.remotejobscan.com/job/16107/backend-software-engineer-chatgpt-imagegen/) |
+| Android Engineer, ChatGPT ImageGen | Hybrid | [View →](https://www.remotejobscan.com/job/16106/android-engineer-chatgpt-imagegen/) |
+| Staff Product Designer, Financial Services Lead | Remote | [View →](https://www.remotejobscan.com/job/12243/staff-product-designer-financial-services-lead/) |
 | Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 | Senior Software Engineer, Identity & Authorization | Hybrid | [View →](https://www.remotejobscan.com/job/16105/senior-software-engineer-identity-authorization/) |
@@ -30,17 +40,6 @@
 | Strategic Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
 | Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
 | Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
-| Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
-| Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/16102/manager-applied-ai-engineering-codex/) |
-| AI Deployment Specialist, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
-| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/14160/principal-recruiter/) |
-| Clean Energy and New Technology Lead | Remote | [View →](https://www.remotejobscan.com/job/16096/clean-energy-and-new-technology-lead/) |
-| Art Director | Remote | [View →](https://www.remotejobscan.com/job/16094/art-director/) |
-| Transaction Manager, Canada | Remote | [View →](https://www.remotejobscan.com/job/16093/transaction-manager-canada/) |
-| External Affairs, South Korea | On-site | [View →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
-| Product Security Engineer, North Security | Remote | [View →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
-| SAR Analyst | Remote | [View →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
-| Earn Operations Specialist (Onchain Direction) | Remote | [View →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
