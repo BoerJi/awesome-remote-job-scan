@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2900</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2905</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KYB客户尽职调查运营团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
+| AI基础设施容量规划技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16053/technical-program-manager-ai-infrastructure-capacity-planning/) |
+| VIP客户关系管理专员（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
+| 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
+| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
+| API前沿软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16052/software-engineer-api-frontiers/) |
+| 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | 增长合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16051/growth-partnerships-lead/) |
 | 战略业务运营主管，API | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
 | 技术型API客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
@@ -36,13 +43,6 @@
 | GTM Claudification 团队高级 AI 工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
 | 软件工程师 - 资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16036/software-engineer-money-movement/) |
 | 新兴产品全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
-| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
-| 高级数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
-| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
-| 基础设施战略与运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
-| 国际云采购经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
-| 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

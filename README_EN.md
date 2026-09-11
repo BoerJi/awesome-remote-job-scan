@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2900</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2905</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
+| Technical Program Manager, AI Infrastructure Capacity Planning | On-site | [View →](https://www.remotejobscan.com/job/16053/technical-program-manager-ai-infrastructure-capacity-planning/) |
+| Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
+| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
+| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/13461/manager-customer-service-escalation-trading-services-mandarin-support/) |
+| Software Engineer, API Frontiers | Hybrid | [View →](https://www.remotejobscan.com/job/16052/software-engineer-api-frontiers/) |
+| Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | Growth Partnerships Lead | Remote | [View →](https://www.remotejobscan.com/job/16051/growth-partnerships-lead/) |
 | Strategic Business Operations Lead, API | Hybrid | [View →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
 | Technical Customer Success Manager, API | Hybrid | [View →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
@@ -36,13 +43,6 @@
 | Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
 | Software Engineer - Money Movement | Remote | [View →](https://www.remotejobscan.com/job/16036/software-engineer-money-movement/) |
 | Full-Stack Software Engineer, Emerging Products | On-site | [View →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
-| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
-| Staff Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/16035/staff-data-scientist/) |
-| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
-| Associate, Infrastructure Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/9822/associate-infrastructure-strategy-operations/) |
-| Manager, International Cloud Sourcing | On-site | [View →](https://www.remotejobscan.com/job/13745/manager-international-cloud-sourcing/) |
-| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/14870/senior-manager-compute-accounting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
