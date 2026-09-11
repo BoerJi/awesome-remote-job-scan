@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 艺术总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16094/art-director/) |
+| 加拿大交易经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16093/transaction-manager-canada/) |
 | 韩国外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
 | 产品安全工程师，北安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
 | 反洗钱分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
@@ -40,7 +42,6 @@
 | OKDS设计系统设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16075/design-system-designer-okds/) |
 | 核心团队高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16076/senior-product-designer-core/) |
 | Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
-| 高级产品设计师，全球交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16077/senior-product-designer-global-exchange/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

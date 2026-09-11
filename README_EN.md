@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Art Director | Remote | [View →](https://www.remotejobscan.com/job/16094/art-director/) |
+| Transaction Manager, Canada | Remote | [View →](https://www.remotejobscan.com/job/16093/transaction-manager-canada/) |
 | External Affairs, South Korea | On-site | [View →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
 | Product Security Engineer, North Security | Remote | [View →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
 | SAR Analyst | Remote | [View →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
@@ -39,7 +41,6 @@
 | Design System Designer, OKDS | On-site | [View →](https://www.remotejobscan.com/job/16080/design-system-designer-okds/) |
 | Senior Product Designer, Core | On-site | [View →](https://www.remotejobscan.com/job/16076/senior-product-designer-core/) |
 | Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
-| Senior Product Designer, Global Exchange | On-site | [View →](https://www.remotejobscan.com/job/16077/senior-product-designer-global-exchange/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
