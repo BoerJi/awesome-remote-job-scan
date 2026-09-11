@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2894</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2895</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
+| 技术支持工程师 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
 | 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 | 市场平台负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14132/head-of-marketplace/) |
 | GTM Claudification 团队高级 AI 工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
@@ -41,8 +43,6 @@
 | 增长创意总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
 | 技术团队成员（应用AI工程师，智能体能力） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
 | 机械工程师，测功机和执行器测试基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
-| 社交媒体升级项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16014/social-escalations-program-manager/) |
-| 影响者营销专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16018/influencer-marketer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

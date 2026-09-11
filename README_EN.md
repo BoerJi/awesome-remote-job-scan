@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2894</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2895</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
+| Technical Support Engineer - India | On-site | [View →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 | Head of Marketplace | Hybrid | [View →](https://www.remotejobscan.com/job/14132/head-of-marketplace/) |
 | Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
@@ -41,8 +43,6 @@
 | Creative Director, Growth | Remote | [View →](https://www.remotejobscan.com/job/16024/creative-director-growth/) |
 | Member of Technical Staff (Applied AI Engineer, Agent Capabilities) | On-site | [View →](https://www.remotejobscan.com/job/16025/member-of-technical-staff-applied-ai-engineer-agent-capabilities/) |
 | Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16023/mechanical-engineer-dynamometer-and-actuator-testing-infrastructure/) |
-| Social Escalations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/16014/social-escalations-program-manager/) |
-| Influencer Marketer | Remote | [View →](https://www.remotejobscan.com/job/16018/influencer-marketer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
