@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2917</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2916</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 收益运营专家（链上方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
 | KOL业务发展经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
 | 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
 | 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
@@ -39,7 +40,6 @@
 | 高级产品设计师，全球交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16077/senior-product-designer-global-exchange/) |
 | 分布式存储与HPC及AI基础设施资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16079/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| 技术治理 - 安全合规与治理工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

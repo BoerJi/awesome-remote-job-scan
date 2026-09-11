@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2917</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2916</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Earn Operations Specialist (Onchain Direction) | Remote | [View →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
 | KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
 | CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
 | KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
@@ -38,7 +39,6 @@
 | Senior Product Designer, Global Exchange | On-site | [View →](https://www.remotejobscan.com/job/16077/senior-product-designer-global-exchange/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16079/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| Tech Governance - Security Compliance & Governance Engineer | On-site | [View →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
