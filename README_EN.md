@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2914</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2912</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
+| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
+| Senior Software Engineer, Identity & Authorization | Hybrid | [View →](https://www.remotejobscan.com/job/16105/senior-software-engineer-identity-authorization/) |
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | Strategic Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
 | Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
@@ -38,9 +41,6 @@
 | Product Security Engineer, North Security | Remote | [View →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
 | SAR Analyst | Remote | [View →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
 | Earn Operations Specialist (Onchain Direction) | Remote | [View →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
-| KOL Business Development Manager - Turkey | Remote | [View →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
-| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

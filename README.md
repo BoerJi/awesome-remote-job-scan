@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2914</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2912</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
+| 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
+| 高级软件工程师，身份与授权 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16105/senior-software-engineer-identity-authorization/) |
 | 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | 战略合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
 | 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
@@ -38,9 +41,6 @@
 | 产品安全工程师，北安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16089/product-security-engineer-north-security/) |
 | 反洗钱分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16090/sar-analyst/) |
 | 收益运营专家（链上方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16085/earn-operations-specialist-onchain-direction/) |
-| KOL业务发展经理 - 土耳其 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15317/kol-business-development-manager-turkey/) |
-| 巴西CFD业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
-| 巴西KOL业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15767/kol-business-development-manager-brazil/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
