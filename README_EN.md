@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
+| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| Lead, Ads Prospecting & Customer Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
 | Forward Deployed Engineer (FDE) - Seattle | Hybrid | [View →](https://www.remotejobscan.com/job/16121/forward-deployed-engineer-fde-seattle/) |
 | Forward Deployed Engineer (FDE) - SF | Hybrid | [View →](https://www.remotejobscan.com/job/16122/forward-deployed-engineer-fde-sf/) |
 | Lifecycle Marketing Manager, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16120/lifecycle-marketing-manager-smb-ads/) |
@@ -40,8 +43,6 @@
 | Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
 | Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
-| Sr. Performance Marketing Manager, Growth Systems | Remote | [View →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
-| US Web3 Channels & Community Lead | On-site | [View →](https://www.remotejobscan.com/job/16108/us-web3-channels-community-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

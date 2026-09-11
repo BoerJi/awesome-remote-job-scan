@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 知识工作核心产品产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
+| 知识工作产品营销主管，GTM策略 - Claude for Knowledge Work | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| 广告获客与客户洞察负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
 | 前哨部署工程师 (FDE) - 西雅图 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16121/forward-deployed-engineer-fde-seattle/) |
 | 前沿部署工程师 (FDE) - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16122/forward-deployed-engineer-fde-sf/) |
 | 生命周期营销经理，SMB广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16120/lifecycle-marketing-manager-smb-ads/) |
@@ -40,8 +43,6 @@
 | 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
 | 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | 法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
-| 高级绩效营销经理，增长系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
-| 美国Web3渠道与社区负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16108/us-web3-channels-community-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
