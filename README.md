@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2918</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2920</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级摄影师，品牌工作室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
+| 财务分析师（入门级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16115/financial-analyst-entry-level/) |
+| 需求生成主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16114/demand-generation-lead/) |
+| 部署策略师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
+| 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
 | 风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | 法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
 | 高级绩效营销经理，增长系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
@@ -37,9 +42,6 @@
 | 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 | 高级软件工程师，身份与授权 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16105/senior-software-engineer-identity-authorization/) |
 | 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| 战略合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
-| 硅工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
-| 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

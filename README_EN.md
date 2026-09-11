@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2918</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2920</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Cinematographer, Brand Studio | On-site | [View →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
+| Financial Analyst (Entry-Level) | Remote | [View →](https://www.remotejobscan.com/job/16115/financial-analyst-entry-level/) |
+| Demand Generation Lead | On-site | [View →](https://www.remotejobscan.com/job/16114/demand-generation-lead/) |
+| Deployment Strategist - Canada | Remote | [View →](https://www.remotejobscan.com/job/12873/deployment-strategist-canada/) |
+| Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/12874/enterprise-solutions-engineer-canada/) |
 | Head of Risk | On-site | [View →](https://www.remotejobscan.com/job/8761/head-of-risk/) |
 | Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/16113/legal-counsel/) |
 | Sr. Performance Marketing Manager, Growth Systems | Remote | [View →](https://www.remotejobscan.com/job/16111/sr-performance-marketing-manager-growth-systems/) |
@@ -37,9 +42,6 @@
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 | Senior Software Engineer, Identity & Authorization | Hybrid | [View →](https://www.remotejobscan.com/job/16105/senior-software-engineer-identity-authorization/) |
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| Strategic Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
-| Silicon Engineer | On-site | [View →](https://www.remotejobscan.com/job/12021/silicon-engineer/) |
-| Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
