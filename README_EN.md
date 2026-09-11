@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2905</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2910</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Developer Experience Engineer, Cyber | On-site | [View →](https://www.remotejobscan.com/job/16059/developer-experience-engineer-cyber/) |
+| Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
+| Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
+| Software Engineer, Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16056/software-engineer-data-infrastructure/) |
 | Team Lead, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | Technical Program Manager, AI Infrastructure Capacity Planning | On-site | [View →](https://www.remotejobscan.com/job/16053/technical-program-manager-ai-infrastructure-capacity-planning/) |
 | Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
@@ -39,10 +43,6 @@
 | Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 | Technical Support Engineer - India | On-site | [View →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
-| Head of Marketplace | Hybrid | [View →](https://www.remotejobscan.com/job/14132/head-of-marketplace/) |
-| Staff AI Engineer, GTM Claudification | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
-| Software Engineer - Money Movement | Remote | [View →](https://www.remotejobscan.com/job/16036/software-engineer-money-movement/) |
-| Full-Stack Software Engineer, Emerging Products | On-site | [View →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

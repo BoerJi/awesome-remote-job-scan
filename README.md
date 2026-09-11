@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2905</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2910</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全开发者体验工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16059/developer-experience-engineer-cyber/) |
+| 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
+| 大客户客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
+| 数据基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16056/software-engineer-data-infrastructure/) |
 | KYB客户尽职调查运营团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13930/team-lead-customer-due-diligence-operations-kyb/) |
 | AI基础设施容量规划技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16053/technical-program-manager-ai-infrastructure-capacity-planning/) |
 | VIP客户关系管理专员（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11432/specialist-vip-customer-relationship-management-mandarin-speaker/) |
@@ -39,10 +43,6 @@
 | 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
 | 技术支持工程师 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
 | 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
-| 市场平台负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14132/head-of-marketplace/) |
-| GTM Claudification 团队高级 AI 工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-ai-engineer-gtm-claudification/) |
-| 软件工程师 - 资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16036/software-engineer-money-movement/) |
-| 新兴产品全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16037/full-stack-software-engineer-emerging-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
