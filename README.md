@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2910</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2911</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
+| AI可观测性与评估平台软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
 | 网络安全开发者体验工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16059/developer-experience-engineer-cyber/) |
 | 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 | 大客户客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
@@ -41,8 +43,6 @@
 | 内部审计IT经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9225/internal-audit-it-manager/) |
 | 高级ABM与活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16043/senior-abm-campaign-manager/) |
 | 支付风险实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
-| 技术支持工程师 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
-| 高级软件工程师—基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

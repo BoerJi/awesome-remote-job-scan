@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2910</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2911</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
+| Software Engineering Manager, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
 | Developer Experience Engineer, Cyber | On-site | [View →](https://www.remotejobscan.com/job/16059/developer-experience-engineer-cyber/) |
 | Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 | Customer Success Manager, Top Accounts | On-site | [View →](https://www.remotejobscan.com/job/13618/customer-success-manager-top-accounts/) |
@@ -41,8 +43,6 @@
 | Internal Audit IT Manager | Remote | [View →](https://www.remotejobscan.com/job/9225/internal-audit-it-manager/) |
 | Senior ABM & Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/16043/senior-abm-campaign-manager/) |
 | Payment Risk Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15823/payment-risk-intern/) |
-| Technical Support Engineer - India | On-site | [View →](https://www.remotejobscan.com/job/16039/technical-support-engineer-india/) |
-| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
