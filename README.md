@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2913</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2907</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
+| 技术治理 - 安全合规与治理工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
 | 市场战略与运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16064/strategy-operations-lead-marketing/) |
 | 医疗与科学解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16062/solutions-marketing-manager-healthcare-science/) |
 | 网络安全解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
@@ -41,8 +43,6 @@
 | 美国衍生品交易技术负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | 增长合作负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16051/growth-partnerships-lead/) |
 | 战略业务运营主管，API | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
-| 技术型API客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
-| 高级后端软件工程师（机构 - | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16042/senior-software-engineer-backend-institutional/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-11 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

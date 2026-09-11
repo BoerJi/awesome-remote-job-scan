@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2913</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2907</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
+| Tech Governance - Security Compliance & Governance Engineer | On-site | [View →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
 | Strategy & Operations Lead, Marketing | On-site | [View →](https://www.remotejobscan.com/job/16064/strategy-operations-lead-marketing/) |
 | Solutions Marketing Manager, Healthcare & Science | On-site | [View →](https://www.remotejobscan.com/job/16062/solutions-marketing-manager-healthcare-science/) |
 | Solutions Marketing Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
@@ -41,8 +43,6 @@
 | Head of U.S. Derivatives Trading Technology | On-site | [View →](https://www.remotejobscan.com/job/14802/head-of-us-derivatives-trading-technology/) |
 | Growth Partnerships Lead | Remote | [View →](https://www.remotejobscan.com/job/16051/growth-partnerships-lead/) |
 | Strategic Business Operations Lead, API | Hybrid | [View →](https://www.remotejobscan.com/job/16049/strategic-business-operations-lead-api/) |
-| Technical Customer Success Manager, API | Hybrid | [View →](https://www.remotejobscan.com/job/16050/technical-customer-success-manager-api/) |
-| Senior Software Engineer, Backend (Institutional - | Remote | [View →](https://www.remotejobscan.com/job/16042/senior-software-engineer-backend-institutional/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-11 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
