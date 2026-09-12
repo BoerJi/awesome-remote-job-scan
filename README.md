@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2930</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2935</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
+| 高级招聘协调员（固定期限合同） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16101/senior-recruiting-coordinator-fixed-term-contract/) |
+| 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
+| 拉美区B2B通信经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16136/b2b-communications-manager-latam/) |
+| AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| 战略与运营经理，通讯 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16135/strategy-operations-manager-communications/) |
 | 技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16133/technical-architect/) |
 | 芯片设计AI研究工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
 | 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
@@ -36,13 +42,6 @@
 | 知识工作核心产品产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
 | 知识工作产品营销主管，GTM策略 - Claude for Knowledge Work | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
 | 广告获客与客户洞察负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
-| 前哨部署工程师 (FDE) - 西雅图 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16121/forward-deployed-engineer-fde-seattle/) |
-| 前沿部署工程师 (FDE) - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16122/forward-deployed-engineer-fde-sf/) |
-| 生命周期营销经理，SMB广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16120/lifecycle-marketing-manager-smb-ads/) |
-| 助理现场工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16123/associate-field-engineer/) |
-| SMB广告规模化项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16119/scaled-programs-lead-smb-ads/) |
-| 战略初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
-| SMB广告受众与内容增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16118/audience-content-growth-lead-smb-ads/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

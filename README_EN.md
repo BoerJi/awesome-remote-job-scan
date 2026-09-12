@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2930</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2935</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
+| Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
+| B2B Communications Manager, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16136/b2b-communications-manager-latam/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| Strategy & Operations Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/16135/strategy-operations-manager-communications/) |
 | Technical Architect | Remote | [View →](https://www.remotejobscan.com/job/16133/technical-architect/) |
 | Research Engineer, AI for Chip Design | Hybrid | [View →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
 | Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
@@ -36,13 +41,6 @@
 | Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
 | Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
 | Lead, Ads Prospecting & Customer Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
-| Forward Deployed Engineer (FDE) - Seattle | Hybrid | [View →](https://www.remotejobscan.com/job/16121/forward-deployed-engineer-fde-seattle/) |
-| Forward Deployed Engineer (FDE) - SF | Hybrid | [View →](https://www.remotejobscan.com/job/16122/forward-deployed-engineer-fde-sf/) |
-| Lifecycle Marketing Manager, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16120/lifecycle-marketing-manager-smb-ads/) |
-| Associate Field Engineer | On-site | [View →](https://www.remotejobscan.com/job/16123/associate-field-engineer/) |
-| Scaled Programs Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16119/scaled-programs-lead-smb-ads/) |
-| Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
-| Audience & Content Growth Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16118/audience-content-growth-lead-smb-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
