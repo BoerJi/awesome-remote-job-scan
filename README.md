@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2935</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2929</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -24,10 +24,9 @@
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
-| 高级招聘协调员（固定期限合同） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16101/senior-recruiting-coordinator-fixed-term-contract/) |
+| 法律项目经理（监管合规） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16138/legal-program-manager-regulatory-compliance/) |
 | 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 | 拉美区B2B通信经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16136/b2b-communications-manager-latam/) |
-| AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | 战略与运营经理，通讯 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16135/strategy-operations-manager-communications/) |
 | 技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16133/technical-architect/) |
 | 芯片设计AI研究工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2935</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2929</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -24,9 +24,9 @@
 | Position | Location | Details |
 |---|---|---|
 | Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
+| Legal Program Manager (Regulatory Compliance) | Hybrid | [View →](https://www.remotejobscan.com/job/16138/legal-program-manager-regulatory-compliance/) |
 | Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 | B2B Communications Manager, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16136/b2b-communications-manager-latam/) |
-| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | Strategy & Operations Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/16135/strategy-operations-manager-communications/) |
 | Technical Architect | Remote | [View →](https://www.remotejobscan.com/job/16133/technical-architect/) |
 | Research Engineer, AI for Chip Design | Hybrid | [View →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
