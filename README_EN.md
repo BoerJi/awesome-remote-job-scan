@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2948</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2949</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Analyst Relations | Hybrid | [View →](https://www.remotejobscan.com/job/16150/head-of-analyst-relations/) |
 | Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
 | Senior Fullstack Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16147/senior-fullstack-engineer-ai-observability-evals-platform/) |
 | Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith) | On-site | [View →](https://www.remotejobscan.com/job/16141/senior-backend-software-engineer-ai-observability-evals-platform-langsmith/) |
@@ -42,7 +43,6 @@
 | Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
 | Safeguards Enforcement Analyst, Age-Appropriate Design | On-site | [View →](https://www.remotejobscan.com/job/9599/safeguards-enforcement-analyst-age-appropriate-design/) |
 | Policy Design Manager, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
-| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
