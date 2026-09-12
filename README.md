@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2951</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2950</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | 软件工程师，消费者健康（健康AI） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10113/software-engineer-consumer-health-health-ai/) |
 | 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
 | 分析师关系总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16150/head-of-analyst-relations/) |
@@ -43,6 +42,7 @@
 | 生物危害安全执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | 用户福祉安全执行主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
 | 网络安全保障执行主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| 常规武器安全执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
