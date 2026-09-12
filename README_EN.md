@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2932</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2933</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Architect | Remote | [View →](https://www.remotejobscan.com/job/16133/technical-architect/) |
+| Research Engineer, AI for Chip Design | Hybrid | [View →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
+| Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
+| Staff Software Engineer, Search | On-site | [View →](https://www.remotejobscan.com/job/16132/staff-software-engineer-search/) |
 | Strategic Projects Lead, Recruiting | On-site | [View →](https://www.remotejobscan.com/job/16129/strategic-projects-lead-recruiting/) |
 | Forward Deployed Engineer (FDE) - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16130/forward-deployed-engineer-fde-nyc/) |
 | Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
@@ -39,10 +43,6 @@
 | Scaled Programs Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16119/scaled-programs-lead-smb-ads/) |
 | Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
 | Audience & Content Growth Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16118/audience-content-growth-lead-smb-ads/) |
-| Engineer Manager, HR Applications | Remote | [View →](https://www.remotejobscan.com/job/14895/engineer-manager-hr-applications/) |
-| Senior Director, Solutions Architecture — Americas | Remote | [View →](https://www.remotejobscan.com/job/15287/senior-director-solutions-architecture-americas/) |
-| Senior Director, Integrated Marketing | Remote | [View →](https://www.remotejobscan.com/job/16117/senior-director-integrated-marketing/) |
-| Senior Cinematographer, Brand Studio | On-site | [View →](https://www.remotejobscan.com/job/16116/senior-cinematographer-brand-studio/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
