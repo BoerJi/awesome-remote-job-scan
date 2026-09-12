@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2945</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2947</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Researcher, Safety Training, National Security | On-site | [View →](https://www.remotejobscan.com/job/16140/researcher-safety-training-national-security/) |
+| Engineering Manager, Cooperative Systems | Hybrid | [View →](https://www.remotejobscan.com/job/16139/engineering-manager-cooperative-systems/) |
 | Safeguards Enforcement Analyst, Violence & Extremism | On-site | [View →](https://www.remotejobscan.com/job/9609/safeguards-enforcement-analyst-violence-extremism/) |
 | Safeguards Enforcement Analyst, User Well-being | On-site | [View →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
 | Safeguards Enforcement Analyst, Safety Evaluations | On-site | [View →](https://www.remotejobscan.com/job/9608/safeguards-enforcement-analyst-safety-evaluations/) |
@@ -41,7 +43,6 @@
 | Head of Vulnerability Disclosure & Security Community | On-site | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
 | Safeguards Enforcement Analyst, Chem & Explosives Harms | On-site | [View →](https://www.remotejobscan.com/job/9602/safeguards-enforcement-analyst-chem-explosives-harms/) |
 | Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
-| Legal Program Manager (Regulatory Compliance) | Hybrid | [View →](https://www.remotejobscan.com/job/16138/legal-program-manager-regulatory-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

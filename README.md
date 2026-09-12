@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2945</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2947</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全培训研究员，国家安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16140/researcher-safety-training-national-security/) |
+| 协作系统工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16139/engineering-manager-cooperative-systems/) |
 | 暴力与极端主义保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9609/safeguards-enforcement-analyst-violence-extremism/) |
 | 安全防护分析师，用户福祉 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
 | 安全监管分析师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9608/safeguards-enforcement-analyst-safety-evaluations/) |
@@ -41,7 +43,6 @@
 | 漏洞披露与安全社区负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
 | 化学与爆炸物危害安全保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9602/safeguards-enforcement-analyst-chem-explosives-harms/) |
 | 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
-| 法律项目经理（监管合规） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16138/legal-program-manager-regulatory-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
