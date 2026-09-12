@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2929</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2945</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,24 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safeguards Enforcement Analyst, Violence & Extremism | On-site | [View →](https://www.remotejobscan.com/job/9609/safeguards-enforcement-analyst-violence-extremism/) |
+| Safeguards Enforcement Analyst, User Well-being | On-site | [View →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
+| Safeguards Enforcement Analyst, Safety Evaluations | On-site | [View →](https://www.remotejobscan.com/job/9608/safeguards-enforcement-analyst-safety-evaluations/) |
+| Safeguards Enforcement Analyst, Integrity & Authenticity | On-site | [View →](https://www.remotejobscan.com/job/9606/safeguards-enforcement-analyst-integrity-authenticity/) |
+| Safeguards Enforcement Analyst, Cyber Harm | On-site | [View →](https://www.remotejobscan.com/job/9604/safeguards-enforcement-analyst-cyber-harm/) |
+| Safeguards Enforcement Analyst, Child Safety | On-site | [View →](https://www.remotejobscan.com/job/9603/safeguards-enforcement-analyst-child-safety/) |
+| Safeguards Enforcement Analyst, Account Takeover & Credential Abuse | On-site | [View →](https://www.remotejobscan.com/job/9598/safeguards-enforcement-analyst-account-takeover-credential-abuse/) |
+| Safeguards Enforcement Analyst, Access Controls & Identity | On-site | [View →](https://www.remotejobscan.com/job/9597/safeguards-enforcement-analyst-access-controls-identity/) |
+| Safeguards Enforcement Analyst, Bio Harms | On-site | [View →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
+| Safeguards Enforcement Lead, User Well-Being | On-site | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
+| Safeguards Enforcement Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
+| Safeguards Enforcement Analyst, Age-Appropriate Design | On-site | [View →](https://www.remotejobscan.com/job/9599/safeguards-enforcement-analyst-age-appropriate-design/) |
+| Policy Design Manager, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| Head of Vulnerability Disclosure & Security Community | On-site | [View →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
+| Safeguards Enforcement Analyst, Chem & Explosives Harms | On-site | [View →](https://www.remotejobscan.com/job/9602/safeguards-enforcement-analyst-chem-explosives-harms/) |
 | Senior Recruiting Coordinator [fixed-term contract] | On-site | [View →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
 | Legal Program Manager (Regulatory Compliance) | Hybrid | [View →](https://www.remotejobscan.com/job/16138/legal-program-manager-regulatory-compliance/) |
-| Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
-| B2B Communications Manager, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16136/b2b-communications-manager-latam/) |
-| Strategy & Operations Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/16135/strategy-operations-manager-communications/) |
-| Technical Architect | Remote | [View →](https://www.remotejobscan.com/job/16133/technical-architect/) |
-| Research Engineer, AI for Chip Design | Hybrid | [View →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
-| Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
-| Staff Software Engineer, Search | On-site | [View →](https://www.remotejobscan.com/job/16132/staff-software-engineer-search/) |
-| Strategic Projects Lead, Recruiting | On-site | [View →](https://www.remotejobscan.com/job/16129/strategic-projects-lead-recruiting/) |
-| Forward Deployed Engineer (FDE) - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16130/forward-deployed-engineer-fde-nyc/) |
-| Senior Software Engineer — Infra Agent Systems | On-site | [View →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
-| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/16128/senior-strategic-program-lead/) |
-| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| Operational Excellence Senior Program Lead | Remote | [View →](https://www.remotejobscan.com/job/16127/operational-excellence-senior-program-lead/) |
-| Product Marketing Manager, Knowledge Work - Core Products | On-site | [View →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
-| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| Lead, Ads Prospecting & Customer Intelligence | Hybrid | [View →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-12 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

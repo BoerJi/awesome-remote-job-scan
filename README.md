@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2929</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2945</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,24 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 暴力与极端主义保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9609/safeguards-enforcement-analyst-violence-extremism/) |
+| 安全防护分析师，用户福祉 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
+| 安全监管分析师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9608/safeguards-enforcement-analyst-safety-evaluations/) |
+| 诚信与真实性保护执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9606/safeguards-enforcement-analyst-integrity-authenticity/) |
+| 网络安全保障分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9604/safeguards-enforcement-analyst-cyber-harm/) |
+| 儿童安全保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9603/safeguards-enforcement-analyst-child-safety/) |
+| 安全保护分析师，账户接管与凭证滥用 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9598/safeguards-enforcement-analyst-account-takeover-credential-abuse/) |
+| 安全防护执行分析师，访问控制与身份 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9597/safeguards-enforcement-analyst-access-controls-identity/) |
+| 生物危害安全执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
+| 用户福祉安全执行主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
+| 网络安全保障执行主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| 常规武器安全执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
+| 年龄适宜设计安全保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9599/safeguards-enforcement-analyst-age-appropriate-design/) |
+| 常规武器政策设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14169/policy-design-manager-conventional-weapons/) |
+| AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| 漏洞披露与安全社区负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14085/head-of-vulnerability-disclosure-security-community/) |
+| 化学与爆炸物危害安全保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9602/safeguards-enforcement-analyst-chem-explosives-harms/) |
 | 高级招聘协调员[固定期限合同] | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16100/senior-recruiting-coordinator-fixed-term-contract/) |
 | 法律项目经理（监管合规） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16138/legal-program-manager-regulatory-compliance/) |
-| 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
-| 拉美区B2B通信经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16136/b2b-communications-manager-latam/) |
-| 战略与运营经理，通讯 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16135/strategy-operations-manager-communications/) |
-| 技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16133/technical-architect/) |
-| 芯片设计AI研究工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16134/research-engineer-ai-for-chip-design/) |
-| 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
-| 搜索团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16132/staff-software-engineer-search/) |
-| 战略项目主管，招聘 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16129/strategic-projects-lead-recruiting/) |
-| 前沿部署工程师 (FDE) - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16130/forward-deployed-engineer-fde-nyc/) |
-| 高级软件工程师 — 基础设施代理系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16038/senior-software-engineer-infra-agent-systems/) |
-| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16128/senior-strategic-program-lead/) |
-| 欧洲、中东、非洲地区合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| 运营卓越高级项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16127/operational-excellence-senior-program-lead/) |
-| 知识工作核心产品产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16125/product-marketing-manager-knowledge-work-core-products/) |
-| 知识工作产品营销主管，GTM策略 - Claude for Knowledge Work | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| 广告获客与客户洞察负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16126/lead-ads-prospecting-customer-intelligence/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-12 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
