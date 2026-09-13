@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,7 +27,6 @@
 | 会计政策负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | 软件工程师，消费者健康（健康AI） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10113/software-engineer-consumer-health-health-ai/) |
 | 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
-| 分析师关系总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16150/head-of-analyst-relations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
