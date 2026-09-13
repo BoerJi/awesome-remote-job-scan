@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,7 +27,6 @@
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
 | 云合作伙伴执行运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16153/enforcement-operations-lead-cloud-partners/) |
 | 会计政策负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
-| 软件工程师，消费者健康（健康AI） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10113/software-engineer-consumer-health-health-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 16:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 17:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
 | Enforcement Operations Lead, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/16153/enforcement-operations-lead-cloud-partners/) |
 | Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
-| Software Engineer, Consumer Health (Health AI) | Hybrid | [View →](https://www.remotejobscan.com/job/10113/software-engineer-consumer-health-health-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 16:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 17:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
