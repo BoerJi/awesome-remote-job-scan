@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2950</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2951</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enforcement Operations Lead, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/16153/enforcement-operations-lead-cloud-partners/) |
 | Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | Software Engineer, Consumer Health (Health AI) | Hybrid | [View →](https://www.remotejobscan.com/job/10113/software-engineer-consumer-health-health-ai/) |
 | Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
@@ -42,7 +43,6 @@
 | Safeguards Enforcement Analyst, Access Controls & Identity | On-site | [View →](https://www.remotejobscan.com/job/9597/safeguards-enforcement-analyst-access-controls-identity/) |
 | Safeguards Enforcement Analyst, Bio Harms | On-site | [View →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | Safeguards Enforcement Lead, User Well-Being | On-site | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
-| Safeguards Enforcement Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
