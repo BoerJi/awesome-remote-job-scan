@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,8 +31,6 @@
 | Software Engineer, Blockchain Platform Nodes | Remote | [View →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
 | Senior Fullstack Engineer, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16147/senior-fullstack-engineer-ai-observability-evals-platform/) |
 | Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith) | On-site | [View →](https://www.remotejobscan.com/job/16141/senior-backend-software-engineer-ai-observability-evals-platform-langsmith/) |
-| Researcher, Safety Training, National Security | On-site | [View →](https://www.remotejobscan.com/job/16140/researcher-safety-training-national-security/) |
-| Engineering Manager, Cooperative Systems | Hybrid | [View →](https://www.remotejobscan.com/job/16139/engineering-manager-cooperative-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

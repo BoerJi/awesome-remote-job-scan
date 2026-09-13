@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,8 +31,6 @@
 | 区块链平台节点软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14012/software-engineer-blockchain-platform-nodes/) |
 | 高级全栈工程师，AI可观察性与评估平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16147/senior-fullstack-engineer-ai-observability-evals-platform/) |
 | 高级后端软件工程师，AI可观测性与评估平台（LangSmith） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16141/senior-backend-software-engineer-ai-observability-evals-platform-langsmith/) |
-| 安全培训研究员，国家安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16140/researcher-safety-training-national-security/) |
-| 协作系统工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16139/engineering-manager-cooperative-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
