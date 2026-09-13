@@ -19,14 +19,15 @@
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
+| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
 | Enforcement Operations Lead, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/16153/enforcement-operations-lead-cloud-partners/) |
 | Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | Software Engineer, Consumer Health (Health AI) | Hybrid | [View →](https://www.remotejobscan.com/job/10113/software-engineer-consumer-health-health-ai/) |
-| Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/16131/senior-engineering-manager-capacity-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
