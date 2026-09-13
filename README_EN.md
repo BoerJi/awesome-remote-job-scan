@@ -14,19 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2950</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2949</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
 | Enforcement Operations Lead, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/16153/enforcement-operations-lead-cloud-partners/) |
-| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
