@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,16 +33,6 @@
 | 高级后端软件工程师，AI可观测性与评估平台（LangSmith） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16141/senior-backend-software-engineer-ai-observability-evals-platform-langsmith/) |
 | 安全培训研究员，国家安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16140/researcher-safety-training-national-security/) |
 | 协作系统工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16139/engineering-manager-cooperative-systems/) |
-| 暴力与极端主义保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9609/safeguards-enforcement-analyst-violence-extremism/) |
-| 安全防护分析师，用户福祉 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
-| 安全监管分析师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9608/safeguards-enforcement-analyst-safety-evaluations/) |
-| 诚信与真实性保护执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9606/safeguards-enforcement-analyst-integrity-authenticity/) |
-| 网络安全保障分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9604/safeguards-enforcement-analyst-cyber-harm/) |
-| 儿童安全保障执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9603/safeguards-enforcement-analyst-child-safety/) |
-| 安全保护分析师，账户接管与凭证滥用 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9598/safeguards-enforcement-analyst-account-takeover-credential-abuse/) |
-| 安全防护执行分析师，访问控制与身份 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9597/safeguards-enforcement-analyst-access-controls-identity/) |
-| 生物危害安全执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
-| 用户福祉安全执行主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-13 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

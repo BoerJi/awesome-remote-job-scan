@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,16 +33,6 @@
 | Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith) | On-site | [View →](https://www.remotejobscan.com/job/16141/senior-backend-software-engineer-ai-observability-evals-platform-langsmith/) |
 | Researcher, Safety Training, National Security | On-site | [View →](https://www.remotejobscan.com/job/16140/researcher-safety-training-national-security/) |
 | Engineering Manager, Cooperative Systems | Hybrid | [View →](https://www.remotejobscan.com/job/16139/engineering-manager-cooperative-systems/) |
-| Safeguards Enforcement Analyst, Violence & Extremism | On-site | [View →](https://www.remotejobscan.com/job/9609/safeguards-enforcement-analyst-violence-extremism/) |
-| Safeguards Enforcement Analyst, User Well-being | On-site | [View →](https://www.remotejobscan.com/job/11954/safeguards-enforcement-analyst-user-well-being/) |
-| Safeguards Enforcement Analyst, Safety Evaluations | On-site | [View →](https://www.remotejobscan.com/job/9608/safeguards-enforcement-analyst-safety-evaluations/) |
-| Safeguards Enforcement Analyst, Integrity & Authenticity | On-site | [View →](https://www.remotejobscan.com/job/9606/safeguards-enforcement-analyst-integrity-authenticity/) |
-| Safeguards Enforcement Analyst, Cyber Harm | On-site | [View →](https://www.remotejobscan.com/job/9604/safeguards-enforcement-analyst-cyber-harm/) |
-| Safeguards Enforcement Analyst, Child Safety | On-site | [View →](https://www.remotejobscan.com/job/9603/safeguards-enforcement-analyst-child-safety/) |
-| Safeguards Enforcement Analyst, Account Takeover & Credential Abuse | On-site | [View →](https://www.remotejobscan.com/job/9598/safeguards-enforcement-analyst-account-takeover-credential-abuse/) |
-| Safeguards Enforcement Analyst, Access Controls & Identity | On-site | [View →](https://www.remotejobscan.com/job/9597/safeguards-enforcement-analyst-access-controls-identity/) |
-| Safeguards Enforcement Analyst, Bio Harms | On-site | [View →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
-| Safeguards Enforcement Lead, User Well-Being | On-site | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-13 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
