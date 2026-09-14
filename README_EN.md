@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2961</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2959</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Influencer Program Lead - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16242/influencer-program-lead-latam/) |
+| B2B Marketing Lead - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16240/b2b-marketing-lead-latam/) |
+| Integrated Marketing Manager - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16241/integrated-marketing-manager-latam/) |
 | AI Infrastructure Engineer, pAGI | Hybrid | [View →](https://www.remotejobscan.com/job/16234/ai-infrastructure-engineer-pagi/) |
 | Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/16233/software-engineer-ads-integrity/) |
 | GTM Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/16231/gtm-strategy-operations/) |
@@ -40,8 +43,6 @@
 | Director of AML & Virtual Asset Compliance | Remote | [View →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | Scaled Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
-| Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
-| Affiliate Lead - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16211/affiliate-lead-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

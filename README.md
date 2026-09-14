@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2961</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2959</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 拉丁美洲影响者项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16242/influencer-program-lead-latam/) |
+| 拉美B2B营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16240/b2b-marketing-lead-latam/) |
+| 拉丁美洲整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16241/integrated-marketing-manager-latam/) |
 | AI基础设施工程师，pAGI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16234/ai-infrastructure-engineer-pagi/) |
 | 广告诚信软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16233/software-engineer-ads-integrity/) |
 | GTM战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16231/gtm-strategy-operations/) |
@@ -40,8 +43,6 @@
 | 反洗钱与虚拟资产合规总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | AI原生业务扩展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | GSIs客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
-| 战略初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
-| 消费类联盟营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16211/affiliate-lead-consumer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
