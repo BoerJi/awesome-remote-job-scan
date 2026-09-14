@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2955</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2959</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI原生业务扩展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
+| GSIs客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
+| 战略初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
+| 消费类联盟营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16211/affiliate-lead-consumer/) |
+| 金融服务业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
+| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16214/staff-machine-learning-engineer/) |
+| 安全代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16213/software-engineer-security-agents/) |
 | 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 | VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
 | 法务行政主管 - 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
@@ -35,14 +42,6 @@
 | DACH B2B市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
 | 东京销售发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16191/sales-development-leader-tokyo/) |
 | 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
-| 企业项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
-| 数据产品经理，衍生品（12个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16184/data-product-manager-derivatives-12-months-contract/) |
-| 高级产品内容 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16183/senior-product-content/) |
-| 高级SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
-| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| 韩国战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16173/strategy-operations-lead-korea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

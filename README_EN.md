@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2955</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2959</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Scaled Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
+| Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
+| Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
+| Affiliate Lead - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16211/affiliate-lead-consumer/) |
+| Manager, Account Executive - Financial Services | On-site | [View →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
+| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/16214/staff-machine-learning-engineer/) |
+| Software Engineer, Security Agents | Hybrid | [View →](https://www.remotejobscan.com/job/16213/software-engineer-security-agents/) |
 | Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 | VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
 | Legal Admin Executive - 12 months contract | Remote | [View →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
@@ -34,14 +41,6 @@
 | B2B Marketing Manager, DACH | Hybrid | [View →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
 | Sales Development Leader - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/16191/sales-development-leader-tokyo/) |
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
-| Manager, Corporate Programs | Remote | [View →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
-| Data Product Manager, Derivatives (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/16184/data-product-manager-derivatives-12-months-contract/) |
-| Senior Product Content | Remote | [View →](https://www.remotejobscan.com/job/16183/senior-product-content/) |
-| Senior SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
-| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
-| US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
-| Strategy & Operations Lead — Korea | Hybrid | [View →](https://www.remotejobscan.com/job/16173/strategy-operations-lead-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
