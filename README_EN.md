@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2948</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2955</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
+| VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
+| Legal Admin Executive - 12 months contract | Remote | [View →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
 | AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | Associate II, Product Operations | Remote | [View →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/16193/forward-deployed-engineer/) |
@@ -39,9 +42,6 @@
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | Strategy & Operations Lead — Korea | Hybrid | [View →](https://www.remotejobscan.com/job/16173/strategy-operations-lead-korea/) |
-| Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/16172/marketing-growth-algorithm-engineer/) |
-| Senior Account Executive, SLED (East) | Remote | [View →](https://www.remotejobscan.com/job/16171/senior-account-executive-sled-east/) |
-| Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

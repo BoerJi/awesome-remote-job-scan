@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2948</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2955</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
+| VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
+| 法务行政主管 - 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
 | AEOI合规高级经理/经理（FATCA、CRS和CARF） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | 产品运营高级专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
 | 产品运营助理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16195/associate-ii-product-operations/) |
@@ -40,9 +43,6 @@
 | Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | 韩国战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16173/strategy-operations-lead-korea/) |
-| Marketing Growth Algorithm Engineer 营销增长算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16172/marketing-growth-algorithm-engineer/) |
-| 高级客户经理，SLED（东部） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16171/senior-account-executive-sled-east/) |
-| 工程经理（技术领导经理，代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
