@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2974</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2977</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业法律顾问/高级法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16251/commercial-counselsenior-counsel/) |
+| 高级商务招聘专员，通信与市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16252/sr-business-recruiter-communications-marketing/) |
+| 财务前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
+| 前哨工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 | 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 | 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
@@ -37,12 +42,6 @@
 | 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
-| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
-| 高级企业工程师 - Salesforce平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| 客户体验AI工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
-| 软件工程师，EAA集成 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9304/software-engineer-eaa-integrations/) |
-| 高级软件工程师 (EAA) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
-| EAA CX高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

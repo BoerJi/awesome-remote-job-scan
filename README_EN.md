@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2974</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2977</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel/Senior Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/16251/commercial-counselsenior-counsel/) |
+| Sr. Business Recruiter, Communications & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/16252/sr-business-recruiter-communications-marketing/) |
+| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
+| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
+| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 | Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 | Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
@@ -37,12 +42,6 @@
 | Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
-| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
-| Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| Engineering Manager - Customer Experience AI | Remote | [View →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
-| Software Engineer, EAA Integrations | Remote | [View →](https://www.remotejobscan.com/job/9304/software-engineer-eaa-integrations/) |
-| Senior Software Engineer (EAA) | Remote | [View →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
-| Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
