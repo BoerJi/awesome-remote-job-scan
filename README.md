@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2977</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2976</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM数据分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16255/gtm-data-analytics-engineer/) |
+| 增长与收入数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16257/data-engineering-manager-growth-revenue/) |
+| 软件工程师，应用新兴人才（2027） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16256/software-engineer-applied-emerging-talent-2027/) |
 | 商业法律顾问/高级法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16251/commercial-counselsenior-counsel/) |
 | 高级商务招聘专员，通信与市场营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16252/sr-business-recruiter-communications-marketing/) |
 | 财务前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
@@ -39,9 +42,6 @@
 | 体验与参与资深产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9314/staff-product-designer-experience-engagement/) |
 | 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
-| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

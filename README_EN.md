@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2977</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2976</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/16255/gtm-data-analytics-engineer/) |
+| Data Engineering Manager, Growth & Revenue | On-site | [View →](https://www.remotejobscan.com/job/16257/data-engineering-manager-growth-revenue/) |
+| Software Engineer, Applied Emerging Talent (2027) | Hybrid | [View →](https://www.remotejobscan.com/job/16256/software-engineer-applied-emerging-talent-2027/) |
 | Commercial Counsel/Senior Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/16251/commercial-counselsenior-counsel/) |
 | Sr. Business Recruiter, Communications & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/16252/sr-business-recruiter-communications-marketing/) |
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
@@ -39,9 +42,6 @@
 | Staff Product Designer (Experience & Engagement) | Remote | [View →](https://www.remotejobscan.com/job/9314/staff-product-designer-experience-engagement/) |
 | Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
