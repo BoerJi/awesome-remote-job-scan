@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2951</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2950</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Content | Remote | [View →](https://www.remotejobscan.com/job/16183/senior-product-content/) |
 | Senior SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
