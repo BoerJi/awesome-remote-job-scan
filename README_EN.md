@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2949</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2950</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | US Equity Clearing and Settlement Operations 美股清结算运营 | Remote | [View →](https://www.remotejobscan.com/job/13640/us-equity-clearing-and-settlement-operations/) |
 | Strategy & Operations Lead — Korea | Hybrid | [View →](https://www.remotejobscan.com/job/16173/strategy-operations-lead-korea/) |
@@ -92,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
