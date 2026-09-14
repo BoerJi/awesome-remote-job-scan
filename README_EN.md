@@ -14,17 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2956</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2951</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Associate II, Product Operations | Remote | [View →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
 | Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/16193/forward-deployed-engineer/) |
-| AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | B2B Marketing Manager, DACH | Hybrid | [View →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

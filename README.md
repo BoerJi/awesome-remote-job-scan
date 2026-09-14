@@ -14,17 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2956</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2951</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品运营高级专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
+| 产品运营助理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16195/associate-ii-product-operations/) |
 | 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16193/forward-deployed-engineer/) |
-| AEOI合规高级经理/经理（FATCA、CRS和CARF） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 | 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | DACH B2B市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
