@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2949</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2950</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（2 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Account Executive, SLED (East) | Remote | [View →](https://www.remotejobscan.com/job/16171/senior-account-executive-sled-east/) |
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -87,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
