@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2954</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2961</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Director, HCL, Wipro & Cognizant | On-site | [View →](https://www.remotejobscan.com/job/16228/partner-director-hcl-wipro-cognizant/) |
+| Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
+| Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
 | M&A Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
 | GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
 | Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
@@ -39,9 +42,6 @@
 | Software Engineer, Security Agents | Hybrid | [View →](https://www.remotejobscan.com/job/16213/software-engineer-security-agents/) |
 | Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 | VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
-| Legal Admin Executive - 12 months contract | Remote | [View →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
-| AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
-| Associate II, Product Operations | Remote | [View →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

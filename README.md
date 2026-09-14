@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2954</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2961</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| HCL、Wipro及Cognizant合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16228/partner-director-hcl-wipro-cognizant/) |
+| 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
+| 战略账户执行经理（推理）EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
 | 并购税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
 | GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
 | 研究及教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
@@ -39,9 +42,6 @@
 | 安全代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16213/software-engineer-security-agents/) |
 | 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 | VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
-| 法务行政主管 - 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
-| AEOI合规高级经理/经理（FATCA、CRS和CARF） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
-| 产品运营高级专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
