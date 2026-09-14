@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2959</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2974</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Influencer Program Lead - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16242/influencer-program-lead-latam/) |
-| B2B Marketing Lead - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16240/b2b-marketing-lead-latam/) |
-| Integrated Marketing Manager - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/16241/integrated-marketing-manager-latam/) |
-| AI Infrastructure Engineer, pAGI | Hybrid | [View →](https://www.remotejobscan.com/job/16234/ai-infrastructure-engineer-pagi/) |
-| Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/16233/software-engineer-ads-integrity/) |
-| GTM Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/16231/gtm-strategy-operations/) |
-| Applied AI Engineer, Government, International | Hybrid | [View →](https://www.remotejobscan.com/job/16232/applied-ai-engineer-government-international/) |
-| Growth Marketing Manager - Web & Organic, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16229/growth-marketing-manager-web-organic-smb-ads/) |
-| SMB Innovation Sales & Strategy Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16230/smb-innovation-sales-strategy-lead/) |
-| Partner Director, HCL, Wipro & Cognizant | On-site | [View →](https://www.remotejobscan.com/job/16228/partner-director-hcl-wipro-cognizant/) |
-| Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
-| Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
-| M&A Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
-| GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
-| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
-| Staff Software Engineer - Wallets, Liquidity & Bridging | Remote | [View →](https://www.remotejobscan.com/job/16219/staff-software-engineer-wallets-liquidity-bridging/) |
-| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
-| Director of AML & Virtual Asset Compliance | Remote | [View →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
-| Scaled Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
-| Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
+| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
+| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
+| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
+| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
+| Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
+| Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
+| Staff Product Designer (Experience & Engagement) | Remote | [View →](https://www.remotejobscan.com/job/9314/staff-product-designer-experience-engagement/) |
+| Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/9305/software-engineer-enterprise-apps/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
+| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
+| Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
+| Engineering Manager - Customer Experience AI | Remote | [View →](https://www.remotejobscan.com/job/9209/engineering-manager-customer-experience-ai/) |
+| Software Engineer, EAA Integrations | Remote | [View →](https://www.remotejobscan.com/job/9304/software-engineer-eaa-integrations/) |
+| Senior Software Engineer (EAA) | Remote | [View →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
+| Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
