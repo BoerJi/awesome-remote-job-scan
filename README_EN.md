@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2949</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2953</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
+| Manager, Corporate Programs | Remote | [View →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
 | Data Product Manager, Derivatives (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/16184/data-product-manager-derivatives-12-months-contract/) |
 | Senior Product Content | Remote | [View →](https://www.remotejobscan.com/job/16183/senior-product-content/) |
 | Senior SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
@@ -95,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
