@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2957</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2955</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 战略账户执行经理-推理EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
+| 并购税务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
+| GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
+| 研究及教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
+| 高级软件工程师 - 钱包、流动性 & 桥接 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16219/staff-software-engineer-wallets-liquidity-bridging/) |
+| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16220/business-development-representative/) |
+| 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | 反洗钱与虚拟资产合规总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | AI原生业务扩展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | GSIs客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
@@ -37,11 +42,6 @@
 | 法务行政主管 - 12个月合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
 | AEOI合规高级经理/经理（FATCA、CRS和CARF） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | 产品运营高级专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
-| 产品运营助理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16195/associate-ii-product-operations/) |
-| 前沿部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16193/forward-deployed-engineer/) |
-| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
-| 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
-| DACH B2B市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

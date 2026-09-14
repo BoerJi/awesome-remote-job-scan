@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2957</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2955</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
+| M&A Tax Director | On-site | [View →](https://www.remotejobscan.com/job/13072/ma-tax-director/) |
+| GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
+| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
+| Staff Software Engineer - Wallets, Liquidity & Bridging | Remote | [View →](https://www.remotejobscan.com/job/16219/staff-software-engineer-wallets-liquidity-bridging/) |
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16220/business-development-representative/) |
+| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | Director of AML & Virtual Asset Compliance | Remote | [View →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | Scaled Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
@@ -37,10 +42,6 @@
 | Legal Admin Executive - 12 months contract | Remote | [View →](https://www.remotejobscan.com/job/16204/legal-admin-executive-12-months-contract/) |
 | AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | Associate II, Product Operations | Remote | [View →](https://www.remotejobscan.com/job/16196/associate-ii-product-operations/) |
-| Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/16193/forward-deployed-engineer/) |
-| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
-| Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
-| B2B Marketing Manager, DACH | Hybrid | [View →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
