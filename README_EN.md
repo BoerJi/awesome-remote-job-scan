@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Infrastructure Engineer, pAGI | Hybrid | [View →](https://www.remotejobscan.com/job/16234/ai-infrastructure-engineer-pagi/) |
+| Software Engineer, Ads Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/16233/software-engineer-ads-integrity/) |
+| GTM Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/16231/gtm-strategy-operations/) |
+| Applied AI Engineer, Government, International | Hybrid | [View →](https://www.remotejobscan.com/job/16232/applied-ai-engineer-government-international/) |
+| Growth Marketing Manager - Web & Organic, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16229/growth-marketing-manager-web-organic-smb-ads/) |
+| SMB Innovation Sales & Strategy Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16230/smb-innovation-sales-strategy-lead/) |
 | Partner Director, HCL, Wipro & Cognizant | On-site | [View →](https://www.remotejobscan.com/job/16228/partner-director-hcl-wipro-cognizant/) |
 | Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
 | Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
@@ -30,18 +36,12 @@
 | GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
 | Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | Staff Software Engineer - Wallets, Liquidity & Bridging | Remote | [View →](https://www.remotejobscan.com/job/16219/staff-software-engineer-wallets-liquidity-bridging/) |
-| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16220/business-development-representative/) |
 | Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | Director of AML & Virtual Asset Compliance | Remote | [View →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | Scaled Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
 | Affiliate Lead - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16211/affiliate-lead-consumer/) |
-| Manager, Account Executive - Financial Services | On-site | [View →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
-| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/16214/staff-machine-learning-engineer/) |
-| Software Engineer, Security Agents | Hybrid | [View →](https://www.remotejobscan.com/job/16213/software-engineer-security-agents/) |
-| Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
-| VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

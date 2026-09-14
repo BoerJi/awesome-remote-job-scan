@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI基础设施工程师，pAGI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16234/ai-infrastructure-engineer-pagi/) |
+| 广告诚信软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16233/software-engineer-ads-integrity/) |
+| GTM战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16231/gtm-strategy-operations/) |
+| 政府级国际应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16232/applied-ai-engineer-government-international/) |
+| 增长营销经理 - 网络与有机，SMB 广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16229/growth-marketing-manager-web-organic-smb-ads/) |
+| SMB创新销售与战略负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16230/smb-innovation-sales-strategy-lead/) |
 | HCL、Wipro及Cognizant合作伙伴总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16228/partner-director-hcl-wipro-cognizant/) |
 | 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
 | 战略账户执行经理（推理）EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
@@ -30,18 +36,12 @@
 | GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
 | 研究及教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | 高级软件工程师 - 钱包、流动性 & 桥接 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16219/staff-software-engineer-wallets-liquidity-bridging/) |
-| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16220/business-development-representative/) |
 | 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | 反洗钱与虚拟资产合规总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | AI原生业务扩展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | GSIs客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | 战略初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
 | 消费类联盟营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16211/affiliate-lead-consumer/) |
-| 金融服务业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15789/manager-account-executive-financial-services/) |
-| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16214/staff-machine-learning-engineer/) |
-| 安全代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16213/software-engineer-security-agents/) |
-| 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
-| VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
