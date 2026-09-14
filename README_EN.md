@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2956</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2957</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
+| Director of AML & Virtual Asset Compliance | Remote | [View →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | Scaled Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | Manager, Account Executive - GSIs | On-site | [View →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | Head of Strategic Startups | On-site | [View →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
@@ -39,8 +41,6 @@
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | B2B Marketing Manager, DACH | Hybrid | [View →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
-| Sales Development Leader - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/16191/sales-development-leader-tokyo/) |
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

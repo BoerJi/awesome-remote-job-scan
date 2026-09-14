@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2956</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2957</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略账户执行经理-推理EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
+| 反洗钱与虚拟资产合规总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16218/director-of-aml-virtual-asset-compliance/) |
 | AI原生业务扩展客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15450/scaled-growth-account-executive-ai-native/) |
 | GSIs客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9489/manager-account-executive-gsis/) |
 | 战略初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16109/head-of-strategic-startups/) |
@@ -40,8 +42,6 @@
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 | 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | DACH B2B市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
-| 东京销售发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16191/sales-development-leader-tokyo/) |
-| 合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-14 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
