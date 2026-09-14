@@ -14,17 +14,21 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2953</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2955</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
+| AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
+| Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
+| B2B Marketing Manager, DACH | Hybrid | [View →](https://www.remotejobscan.com/job/16192/b2b-marketing-manager-dach/) |
+| Sales Development Leader - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/16191/sales-development-leader-tokyo/) |
+| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
 | Manager, Corporate Programs | Remote | [View →](https://www.remotejobscan.com/job/9228/manager-corporate-programs/) |
 | Data Product Manager, Derivatives (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/16184/data-product-manager-derivatives-12-months-contract/) |
@@ -99,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
