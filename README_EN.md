@@ -19,13 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
-| Enforcement Operations Lead, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/16153/enforcement-operations-lead-cloud-partners/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -88,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
