@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2950</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2951</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Operations Lead — Korea | Hybrid | [View →](https://www.remotejobscan.com/job/16173/strategy-operations-lead-korea/) |
+| Marketing Growth Algorithm Engineer 营销增长算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/16172/marketing-growth-algorithm-engineer/) |
 | Senior Account Executive, SLED (East) | Remote | [View →](https://www.remotejobscan.com/job/16171/senior-account-executive-sled-east/) |
 | Engineering Manager (TLM, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16169/engineering-manager-tlm-agents/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/16170/member-of-technical-staff-ai-software-engineer-agents/) |
@@ -88,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-14 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
