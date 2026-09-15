@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2983</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2986</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理，广告解决方案（西雅图） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16272/customer-success-manager-ads-solutions-seattle/) |
+| 广告解决方案客户成功经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
+| AI网络运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
 | OpenAI政府业务捕获经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 | 第三方系统架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
 | 产品营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
@@ -39,9 +42,6 @@
 | 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 | 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| CX智能机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
-| 高级技术项目经理，CX代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

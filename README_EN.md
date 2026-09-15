@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2983</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2986</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, Ads Solutions (Seattle) | Hybrid | [View →](https://www.remotejobscan.com/job/16272/customer-success-manager-ads-solutions-seattle/) |
+| Customer Success Manager, Ads Solutions (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
+| Network Operations Engineer, AI Networking | On-site | [View →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
 | Capture Manager, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 | 3P Systems Architect | Hybrid | [View →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
 | Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
@@ -39,9 +42,6 @@
 | Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 | Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
-| Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
