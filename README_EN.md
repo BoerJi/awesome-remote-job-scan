@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Revenue Enablement Program Manager | Remote | [View →](https://www.remotejobscan.com/job/16343/revenue-enablement-program-manager/) |
+| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
+| Strategic Finance, Compute | On-site | [View →](https://www.remotejobscan.com/job/16342/strategic-finance-compute/) |
 | Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/16341/design-engineer/) |
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/16340/legal-ops-associate-oc-management/) |
 | Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16339/salesforce-developer-partnerships/) |
@@ -40,9 +43,6 @@
 | Manager, Customer Success - Commercial | On-site | [View →](https://www.remotejobscan.com/job/16321/manager-customer-success-commercial/) |
 | Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
 | Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
-| Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
-| Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
-| Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
