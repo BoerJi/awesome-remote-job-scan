@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2986</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2988</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Engineer - Manufacturing Operations | Remote | [View →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
+| Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
+| Engineering Manager, Market Data & Analytics | Remote | [View →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
+| FCM Tech Lead | Remote | [View →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
 | Engineering Manager (API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
 | Regional Branding Manager - GC | Remote | [View →](https://www.remotejobscan.com/job/16276/regional-branding-manager-gc/) |
 | Deployed Engineer, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
@@ -39,10 +43,6 @@
 | Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
 | Product Marketing Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/16258/product-marketing-manager-platform/) |
 | GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/16255/gtm-data-analytics-engineer/) |
-| Data Engineering Manager, Growth & Revenue | On-site | [View →](https://www.remotejobscan.com/job/16257/data-engineering-manager-growth-revenue/) |
-| Software Engineer, Applied Emerging Talent (2027) | Hybrid | [View →](https://www.remotejobscan.com/job/16256/software-engineer-applied-emerging-talent-2027/) |
-| Commercial Counsel/Senior Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/16251/commercial-counselsenior-counsel/) |
-| Sr. Business Recruiter, Communications & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/16252/sr-business-recruiter-communications-marketing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
