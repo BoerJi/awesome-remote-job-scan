@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager (API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
+| Regional Branding Manager - GC | Remote | [View →](https://www.remotejobscan.com/job/16276/regional-branding-manager-gc/) |
+| Deployed Engineer, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
+| PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Manager, Customer Success – Strategic Consumer Tech | On-site | [View →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
@@ -39,9 +43,6 @@
 | Software Engineer, Applied Emerging Talent (2027) | Hybrid | [View →](https://www.remotejobscan.com/job/16256/software-engineer-applied-emerging-talent-2027/) |
 | Commercial Counsel/Senior Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/16251/commercial-counselsenior-counsel/) |
 | Sr. Business Recruiter, Communications & Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/16252/sr-business-recruiter-communications-marketing/) |
-| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
