@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2989</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2986</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| 数字原住民地区业务总监 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
 | 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
 | 首席产品设计 (Pooling) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
 | 非洲战略与运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
@@ -40,9 +43,6 @@
 | CFM技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
 | API 平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
 | 区域品牌经理 - GC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16276/regional-branding-manager-gc/) |
-| 亚太区专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
-| PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
