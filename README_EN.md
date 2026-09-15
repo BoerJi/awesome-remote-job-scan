@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| Manager, Customer Success – Strategic Consumer Tech | On-site | [View →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
+| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| Recruiting Analytics Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
 | Customer Success Manager, Ads Solutions (Seattle) | Hybrid | [View →](https://www.remotejobscan.com/job/16272/customer-success-manager-ads-solutions-seattle/) |
 | Customer Success Manager, Ads Solutions (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
 | Network Operations Engineer, AI Networking | On-site | [View →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
@@ -38,10 +42,6 @@
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | Forward Deployed Engineer, Legal [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
-| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

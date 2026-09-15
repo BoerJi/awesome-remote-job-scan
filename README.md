@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
+| 战略消费者技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
+| 高级合作伙伴项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| 招聘分析数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
 | 客户成功经理，广告解决方案（西雅图） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16272/customer-success-manager-ads-solutions-seattle/) |
 | 广告解决方案客户成功经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
 | AI网络运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
@@ -38,10 +42,6 @@
 | 财务前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | 前哨工程师，法务 [CTO办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9296/forward-deployed-engineer-legal-office-of-the-cto/) |
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15744/applied-ai-engineer-enterprise/) |
-| 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
