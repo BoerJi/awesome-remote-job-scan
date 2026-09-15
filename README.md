@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2975</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2978</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 整合营销经理，青年文化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16315/integrated-marketing-manager-youth-culture/) |
+| 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
+| Futures User Operations 合约专业用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15097/futures-user-operations/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
+| Spot Onchain Product Operations 现货链上产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14717/spot-onchain-product-operations/) |
 | 工程运营专家 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16313/engineering-operations-specialist-consumer/) |
 | 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | 代理基础设施开发关系工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
@@ -37,12 +43,6 @@
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
 | EMEA战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
 | 西班牙及伊比利亚半岛KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16303/kol-lead-spain-iberia/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| 数字原住民地区业务总监 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
-| 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
-| 首席产品设计 (Pooling) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

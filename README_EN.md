@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2975</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2978</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Integrated Marketing Manager, Youth Culture | On-site | [View →](https://www.remotejobscan.com/job/16315/integrated-marketing-manager-youth-culture/) |
+| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
+| Futures User Operations 合约专业用户运营 | Remote | [View →](https://www.remotejobscan.com/job/15097/futures-user-operations/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
+| Spot Onchain Product Operations 现货链上产品运营 | Remote | [View →](https://www.remotejobscan.com/job/14717/spot-onchain-product-operations/) |
 | Engineering Operations Specialist - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16313/engineering-operations-specialist-consumer/) |
 | Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
@@ -36,12 +42,6 @@
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
 | EMEA Strategy and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
 | KOL Lead, Spain & Iberia | Remote | [View →](https://www.remotejobscan.com/job/16303/kol-lead-spain-iberia/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| Account Director, Digital Natives - France | Hybrid | [View →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
-| General manager - Africa | On-site | [View →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
-| Lead Product Designed (For Pooling) | Hybrid | [View →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
