@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2988</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2985</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
 | EMEA战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
 | 西班牙及伊比利亚半岛KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16303/kol-lead-spain-iberia/) |
@@ -42,7 +43,6 @@
 | 医疗健康软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
 | 高级核心软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | 制造运营产品工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
-| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
