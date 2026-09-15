@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2976</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2983</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| OpenAI政府业务捕获经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
+| 第三方系统架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
+| 产品营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
+| 平台产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16258/product-marketing-manager-platform/) |
 | GTM数据分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16255/gtm-data-analytics-engineer/) |
 | 增长与收入数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16257/data-engineering-manager-growth-revenue/) |
 | 软件工程师，应用新兴人才（2027） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16256/software-engineer-applied-emerging-talent-2027/) |
@@ -38,10 +42,6 @@
 | CX智能机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
 | 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
 | 高级技术项目经理，CX代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
-| 高级产品经理，帮助中心（客户体验自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
-| 体验与参与资深产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9314/staff-product-designer-experience-engagement/) |
-| 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

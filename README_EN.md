@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2976</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2983</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Capture Manager, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
+| 3P Systems Architect | Hybrid | [View →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
+| Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
+| Product Marketing Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/16258/product-marketing-manager-platform/) |
 | GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/16255/gtm-data-analytics-engineer/) |
 | Data Engineering Manager, Growth & Revenue | On-site | [View →](https://www.remotejobscan.com/job/16257/data-engineering-manager-growth-revenue/) |
 | Software Engineer, Applied Emerging Talent (2027) | Hybrid | [View →](https://www.remotejobscan.com/job/16256/software-engineer-applied-emerging-talent-2027/) |
@@ -38,10 +42,6 @@
 | Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
 | Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
 | Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
-| Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
-| Staff Product Designer (Experience & Engagement) | Remote | [View →](https://www.remotejobscan.com/job/9314/staff-product-designer-experience-engagement/) |
-| Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
