@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2983</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2986</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/16341/design-engineer/) |
+| Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/16340/legal-ops-associate-oc-management/) |
+| Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16339/salesforce-developer-partnerships/) |
+| Member of the Technical Staff, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 | Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | Senior Counsel, Litigation & Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
 | Associate, Real Estate and Office Services | On-site | [View →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
@@ -39,10 +43,6 @@
 | Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
 | Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 | Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
-| Deployed Architect, Professional Services (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
-| Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
-| Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
-| Software Engineer, Deployment Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/9801/software-engineer-deployment-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

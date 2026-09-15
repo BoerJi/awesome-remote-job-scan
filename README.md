@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2983</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2986</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16341/design-engineer/) |
+| 法务运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16340/legal-ops-associate-oc-management/) |
+| Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16339/salesforce-developer-partnerships/) |
+| 财务数据平台技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 | 品牌总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | 高级诉讼与监管顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
 | 房地产与办公服务助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
@@ -39,10 +43,6 @@
 | 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14776/deployed-engineer-professional-services-san-francisco/) |
 | 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 | 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
-| 部署架构师，专业服务（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
-| 部署架构师，专业服务（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
-| 部署架构师，专业服务（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
-| 软件工程师，部署基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9801/software-engineer-deployment-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
