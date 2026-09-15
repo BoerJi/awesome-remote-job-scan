@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2986</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2980</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | 数字原住民地区业务总监 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
@@ -42,7 +43,6 @@
 | 市场数据与分析工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
 | CFM技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
 | API 平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
-| 区域品牌经理 - GC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16276/regional-branding-manager-gc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

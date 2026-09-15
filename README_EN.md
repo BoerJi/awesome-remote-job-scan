@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2986</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2980</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/12968/customer-success-manager/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 | Account Director, Digital Natives - France | Hybrid | [View →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
@@ -42,7 +43,6 @@
 | Engineering Manager, Market Data & Analytics | Remote | [View →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
 | FCM Tech Lead | Remote | [View →](https://www.remotejobscan.com/job/15516/fcm-tech-lead/) |
 | Engineering Manager (API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11179/engineering-manager-api-platform/) |
-| Regional Branding Manager - GC | Remote | [View →](https://www.remotejobscan.com/job/16276/regional-branding-manager-gc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
