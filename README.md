@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2985</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2982</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
+| 代理基础设施开发关系工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
+| 软件工程师，eve | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
+| 工作流软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
+| 智能基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
+| 高级产品经理 - LTV与留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16310/sr-product-manager-ltv-and-retention/) |
+| 高级产品经理 - LTV和留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16309/sr-product-manager-ltv-and-retention/) |
+| 分布式系统软件工程师（Staff+） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
+| Staff+ 软件工程师，安全防护人工审查工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
 | 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
 | EMEA战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
@@ -33,16 +43,6 @@
 | 数字原住民地区业务总监 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
 | 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
 | 首席产品设计 (Pooling) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
-| 非洲战略与运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
-| 广告产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16284/product-marketing-manager-advertising/) |
-| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
-| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
-| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16283/compliance-analyst/) |
-| 量化交易分析开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16282/trading-analytics-developer-quantitative-trading/) |
-| 高级风险管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
-| 医疗健康软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
-| 高级核心软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
-| 制造运营产品工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

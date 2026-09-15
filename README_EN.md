@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2985</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2982</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
+| Software Engineer, eve | Hybrid | [View →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
+| Software Engineer, Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
+| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
+| Sr Product Manager - LTV and Retention | Remote | [View →](https://www.remotejobscan.com/job/16310/sr-product-manager-ltv-and-retention/) |
+| Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
+| Staff+ Software Engineer, Safeguards Human Review Tooling | On-site | [View →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
 | EMEA Strategy and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
@@ -33,16 +42,6 @@
 | Account Director, Digital Natives - France | Hybrid | [View →](https://www.remotejobscan.com/job/16295/account-director-digital-natives-france/) |
 | General manager - Africa | On-site | [View →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
 | Lead Product Designed (For Pooling) | Hybrid | [View →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
-| Strategy & Operations Lead - Africa | Remote | [View →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
-| Product Marketing Manager, Advertising | On-site | [View →](https://www.remotejobscan.com/job/16284/product-marketing-manager-advertising/) |
-| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
-| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16283/compliance-analyst/) |
-| Trading Analytics Developer, Quantitative Trading | Hybrid | [View →](https://www.remotejobscan.com/job/16282/trading-analytics-developer-quantitative-trading/) |
-| Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
-| Software Engineer, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
-| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
-| Product Engineer - Manufacturing Operations | Remote | [View →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
