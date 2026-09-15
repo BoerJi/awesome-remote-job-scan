@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2977</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2983</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
+| Senior Software Engineer, Backend (Institutional - Exchange) | Remote | [View →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
+| Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
 | Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16326/applied-ai-engineer/) |
 | Business Systems Lead, Procure-to-Pay | Hybrid | [View →](https://www.remotejobscan.com/job/16322/business-systems-lead-procure-to-pay/) |
@@ -40,9 +43,6 @@
 | Physical Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/16320/physical-design-engineer/) |
 | Senior Software Engineer - Rust - Core Services | Remote | [View →](https://www.remotejobscan.com/job/16325/senior-software-engineer-rust-core-services/) |
 | Product Manufacturing & Quality Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16319/product-manufacturing-quality-engineer/) |
-| Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
-| Senior Associate, Risk Analytics | Remote | [View →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

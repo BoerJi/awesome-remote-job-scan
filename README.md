@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2977</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2983</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
+| 高级软件工程师，后端（机构 - 交易所） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
+| 消费者与借贷合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
 | 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
 | 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16326/applied-ai-engineer/) |
 | 采购到付款业务系统主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16322/business-systems-lead-procure-to-pay/) |
@@ -40,9 +43,6 @@
 | 物理设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16320/physical-design-engineer/) |
 | 高级软件工程师 - Rust - 核心服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16325/senior-software-engineer-rust-core-services/) |
 | 产品制造与质量工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16319/product-manufacturing-quality-engineer/) |
-| 增长产品经理 II - 通知 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
-| 高级风险分析助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
