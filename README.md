@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 品牌总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
+| 高级诉讼与监管顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
+| 房地产与办公服务助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
 | 首席iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
 | 高级软件工程师，后端（机构 - 交易所） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
 | 消费者与借贷合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
@@ -40,9 +43,6 @@
 | 部署架构师，专业服务（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
 | 部署架构师，专业服务（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
 | 软件工程师，部署基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9801/software-engineer-deployment-infrastructure/) |
-| 物理设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16320/physical-design-engineer/) |
-| 高级软件工程师 - Rust - 核心服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16325/senior-software-engineer-rust-core-services/) |
-| 产品制造与质量工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16319/product-manufacturing-quality-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

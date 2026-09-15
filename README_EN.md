@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
+| Senior Counsel, Litigation & Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
+| Associate, Real Estate and Office Services | On-site | [View →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
 | Principal iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
 | Senior Software Engineer, Backend (Institutional - Exchange) | Remote | [View →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
 | Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
@@ -40,9 +43,6 @@
 | Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
 | Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
 | Software Engineer, Deployment Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/9801/software-engineer-deployment-infrastructure/) |
-| Physical Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/16320/physical-design-engineer/) |
-| Senior Software Engineer - Rust - Core Services | Remote | [View →](https://www.remotejobscan.com/job/16325/senior-software-engineer-rust-core-services/) |
-| Product Manufacturing & Quality Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16319/product-manufacturing-quality-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
