@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2986</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2991</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| General manager - Africa | On-site | [View →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
+| Lead Product Designed (For Pooling) | Hybrid | [View →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
 | Strategy & Operations Lead - Africa | Remote | [View →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
 | Product Marketing Manager, Advertising | On-site | [View →](https://www.remotejobscan.com/job/16284/product-marketing-manager-advertising/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
@@ -41,8 +43,6 @@
 | Deployed Engineer, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
 | PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| Manager, Customer Success – Strategic Consumer Tech | On-site | [View →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

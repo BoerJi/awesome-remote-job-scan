@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2986</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2991</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16287/general-manager-africa/) |
+| 首席产品设计 (Pooling) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16288/lead-product-designed-for-pooling/) |
 | 非洲战略与运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
 | 广告产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16284/product-marketing-manager-advertising/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
@@ -41,8 +43,6 @@
 | 亚太区专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
 | PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| 战略消费者技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
-| 高级合作伙伴项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
