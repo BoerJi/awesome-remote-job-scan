@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | Software Engineer, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Product Engineer - Manufacturing Operations | Remote | [View →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
@@ -42,7 +43,6 @@
 | Network Operations Engineer, AI Networking | On-site | [View →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
 | Capture Manager, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 | 3P Systems Architect | Hybrid | [View →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
-| Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

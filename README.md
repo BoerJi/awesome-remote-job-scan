@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级风险管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | 医疗健康软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
 | 高级核心软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | 制造运营产品工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
@@ -42,7 +43,6 @@
 | AI网络运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
 | OpenAI政府业务捕获经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 | 第三方系统架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
-| 产品营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
