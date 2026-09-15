@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2988</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2990</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
+| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Product Engineer - Manufacturing Operations | Remote | [View →](https://www.remotejobscan.com/job/16278/product-engineer-manufacturing-operations/) |
 | Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
 | Engineering Manager, Market Data & Analytics | Remote | [View →](https://www.remotejobscan.com/job/15565/engineering-manager-market-data-analytics/) |
@@ -41,8 +43,6 @@
 | Capture Manager, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 | 3P Systems Architect | Hybrid | [View →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
 | Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
-| Product Marketing Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/16258/product-marketing-manager-platform/) |
-| GTM Data Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/16255/gtm-data-analytics-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
