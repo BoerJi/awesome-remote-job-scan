@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2982</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2975</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,12 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Operations Specialist - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16313/engineering-operations-specialist-consumer/) |
 | Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
 | Software Engineer, eve | Hybrid | [View →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
 | Software Engineer, Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
-| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
 | Sr Product Manager - LTV and Retention | Remote | [View →](https://www.remotejobscan.com/job/16310/sr-product-manager-ltv-and-retention/) |
 | Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | Staff+ Software Engineer, Safeguards Human Review Tooling | On-site | [View →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

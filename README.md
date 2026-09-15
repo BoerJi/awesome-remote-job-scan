@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2982</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2975</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,12 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 工程运营专家 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16313/engineering-operations-specialist-consumer/) |
 | 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | 代理基础设施开发关系工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
 | 软件工程师，eve | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
 | 工作流软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
-| 智能基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
 | 高级产品经理 - LTV与留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16310/sr-product-manager-ltv-and-retention/) |
 | 高级产品经理 - LTV和留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16309/sr-product-manager-ltv-and-retention/) |
 | 分布式系统软件工程师（Staff+） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
