@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2989</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2986</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 非洲战略与运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
+| 广告产品营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16284/product-marketing-manager-advertising/) |
+| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16283/compliance-analyst/) |
 | 量化交易分析开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16282/trading-analytics-developer-quantitative-trading/) |
 | 高级风险管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | 医疗健康软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
@@ -38,11 +43,6 @@
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | 战略消费者技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
 | 高级合作伙伴项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| 招聘分析数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
-| 客户成功经理，广告解决方案（西雅图） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16272/customer-success-manager-ads-solutions-seattle/) |
-| 广告解决方案客户成功经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
-| AI网络运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
-| OpenAI政府业务捕获经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

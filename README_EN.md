@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2989</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2986</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Operations Lead - Africa | Remote | [View →](https://www.remotejobscan.com/job/16285/strategy-operations-lead-africa/) |
+| Product Marketing Manager, Advertising | On-site | [View →](https://www.remotejobscan.com/job/16284/product-marketing-manager-advertising/) |
+| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16283/compliance-analyst/) |
 | Trading Analytics Developer, Quantitative Trading | Hybrid | [View →](https://www.remotejobscan.com/job/16282/trading-analytics-developer-quantitative-trading/) |
 | Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | Software Engineer, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
@@ -38,11 +43,6 @@
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Manager, Customer Success – Strategic Consumer Tech | On-site | [View →](https://www.remotejobscan.com/job/16274/manager-customer-success-strategic-consumer-tech/) |
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| Recruiting Analytics Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
-| Customer Success Manager, Ads Solutions (Seattle) | Hybrid | [View →](https://www.remotejobscan.com/job/16272/customer-success-manager-ads-solutions-seattle/) |
-| Customer Success Manager, Ads Solutions (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
-| Network Operations Engineer, AI Networking | On-site | [View →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
-| Capture Manager, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
