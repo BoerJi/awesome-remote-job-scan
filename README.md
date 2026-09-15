@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2990</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2989</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 量化交易分析开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16282/trading-analytics-developer-quantitative-trading/) |
 | 高级风险管理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | 医疗健康软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
 | 高级核心软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
@@ -42,7 +43,6 @@
 | 广告解决方案客户成功经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
 | AI网络运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
 | OpenAI政府业务捕获经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
-| 第三方系统架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

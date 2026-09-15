@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2990</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2989</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Trading Analytics Developer, Quantitative Trading | Hybrid | [View →](https://www.remotejobscan.com/job/16282/trading-analytics-developer-quantitative-trading/) |
 | Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | Software Engineer, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/16279/software-engineer-healthcare/) |
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
@@ -42,7 +43,6 @@
 | Customer Success Manager, Ads Solutions (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16271/customer-success-manager-ads-solutions-san-francisco/) |
 | Network Operations Engineer, AI Networking | On-site | [View →](https://www.remotejobscan.com/job/16269/network-operations-engineer-ai-networking/) |
 | Capture Manager, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/16266/capture-manager-openai-for-government/) |
-| 3P Systems Architect | Hybrid | [View →](https://www.remotejobscan.com/job/10250/3p-systems-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
