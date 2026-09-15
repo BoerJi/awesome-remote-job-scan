@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2978</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>2941</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 电机与执行器制造工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16317/manufacturing-engineer-motors-actuators/) |
+| 自主安全模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
+| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15895/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | 整合营销经理，青年文化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16315/integrated-marketing-manager-youth-culture/) |
 | 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
 | 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
@@ -40,14 +43,11 @@
 | 分布式系统软件工程师（Staff+） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | Staff+ 软件工程师，安全防护人工审查工具 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
 | 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
-| 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
-| EMEA战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
-| 西班牙及伊比利亚半岛KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16303/kol-lead-spain-iberia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（47 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -73,7 +73,6 @@
 | <img src="images/elevenlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="ElevenLabs"> | <a href="https://elevenlabs.io/">ElevenLabs</a> | [查看职位 →](https://www.remotejobscan.com/?company=elevenlabs) |
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [查看职位 →](https://www.remotejobscan.com/?company=gate) |
 | <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [查看职位 →](https://www.remotejobscan.com/?company=gauntlet) |
-| <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [查看职位 →](https://www.remotejobscan.com/?company=gemini) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [查看职位 →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [查看职位 →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [查看职位 →](https://www.remotejobscan.com/?company=kucoin) |
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-15 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

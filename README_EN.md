@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2978</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>2941</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manufacturing Engineer, Motors & Actuators | Hybrid | [View →](https://www.remotejobscan.com/job/16317/manufacturing-engineer-motors-actuators/) |
+| Model Policy Manager, Agentic Safety | Hybrid | [View →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
+| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/15895/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | Integrated Marketing Manager, Youth Culture | On-site | [View →](https://www.remotejobscan.com/job/16315/integrated-marketing-manager-youth-culture/) |
 | Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
 | Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/9801/software-engineer-agentic-infrastructure/) |
@@ -39,14 +42,11 @@
 | Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | Staff+ Software Engineer, Safeguards Human Review Tooling | On-site | [View →](https://www.remotejobscan.com/job/9696/staff-software-engineer-safeguards-human-review-tooling/) |
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/13112/senior-account-executive/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16296/applied-ai-architect-partnerships/) |
-| EMEA Strategy and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16304/emea-strategy-and-operations/) |
-| KOL Lead, Spain & Iberia | Remote | [View →](https://www.remotejobscan.com/job/16303/kol-lead-spain-iberia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -72,7 +72,6 @@
 | <img src="images/elevenlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="ElevenLabs"> | <a href="https://elevenlabs.io/">ElevenLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=elevenlabs) |
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [View jobs →](https://www.remotejobscan.com/?company=gate) |
 | <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [View jobs →](https://www.remotejobscan.com/?company=gauntlet) |
-| <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [View jobs →](https://www.remotejobscan.com/?company=gemini) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [View jobs →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [View jobs →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [View jobs →](https://www.remotejobscan.com/?company=kucoin) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-15 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
