@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
+| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16376/risk-monitoring-analyst-iii/) |
 | SAM Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
 | BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
@@ -40,8 +42,6 @@
 | Head of Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
 | Product Director, Localisation & AI Evals | On-site | [View →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
-| Protective Intelligence Analyst | On-site | [View →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
-| Technical Operations Analyst, User Safety & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/16351/technical-operations-analyst-user-safety-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
