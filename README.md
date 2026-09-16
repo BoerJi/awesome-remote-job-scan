@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3002</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3004</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16380/software-engineer/) |
+| 应用AI架构师，合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16379/applied-ai-architect-partner/) |
 | 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | 人力资源运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
 | 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
@@ -41,7 +43,6 @@
 | 基础设施工程师，预训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/infrastructure-engineer-pre-training/) |
 | 量化交易策略算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16368/quantitative-trading-strategy-algorithm-engineer/) |
 | 高级风险运营策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16367/senior-manager-risk-operations-strategy/) |
-| 产品经理/总监，机构产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3002</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3004</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/16380/software-engineer/) |
+| Applied AI Architect, Partner | Hybrid | [View →](https://www.remotejobscan.com/job/16379/applied-ai-architect-partner/) |
 | Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | Intern - HR Operations | Remote | [View →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
 | Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
@@ -41,7 +43,6 @@
 | Infrastructure Engineer, Pre-training | On-site | [View →](https://www.remotejobscan.com/job/15477/infrastructure-engineer-pre-training/) |
 | Quantitative Trading Strategy Algorithm Engineer | Remote | [View →](https://www.remotejobscan.com/job/16368/quantitative-trading-strategy-algorithm-engineer/) |
 | Senior Manager, Risk Operations Strategy | On-site | [View →](https://www.remotejobscan.com/job/16367/senior-manager-risk-operations-strategy/) |
-| Product Manager / Director, Institutional Product | On-site | [View →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
