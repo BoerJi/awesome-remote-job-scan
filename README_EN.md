@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3009</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3008</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
 | Affiliates Business Development Manager - Germany | Remote | [View →](https://www.remotejobscan.com/job/16391/affiliates-business-development-manager-germany/) |
 | Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/16389/client-engagement-specialist-trading-expert/) |
@@ -42,7 +43,6 @@
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Staff Software Engineer, GTM AI Engineering | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-software-engineer-gtm-ai-engineering/) |
 | Commercial Director, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
-| Model Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16372/model-policy-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
