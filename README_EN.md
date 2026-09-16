@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3010</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3009</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
+| Affiliates Business Development Manager - Germany | Remote | [View →](https://www.remotejobscan.com/job/16391/affiliates-business-development-manager-germany/) |
 | Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/16389/client-engagement-specialist-trading-expert/) |
 | Partner Development Manager - Japan | Remote | [View →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
 | Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
@@ -41,8 +43,6 @@
 | Staff Software Engineer, GTM AI Engineering | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-software-engineer-gtm-ai-engineering/) |
 | Commercial Director, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
 | Model Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16372/model-policy-manager/) |
-| Senior Evaluation Algorithm Engineer | Remote | [View →](https://www.remotejobscan.com/job/16369/senior-evaluation-algorithm-engineer/) |
-| Social Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/16014/social-escalations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

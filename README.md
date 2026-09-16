@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3010</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3009</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
+| 德国合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16391/affiliates-business-development-manager-germany/) |
 | 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16389/client-engagement-specialist-trading-expert/) |
 | 日本合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
 | 客户尽职调查运营专家 - KYB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
@@ -41,8 +43,6 @@
 | GTM AI工程团队高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-software-engineer-gtm-ai-engineering/) |
 | 澳大利亚商业总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
 | 模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16372/model-policy-manager/) |
-| 高级评估算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16369/senior-evaluation-algorithm-engineer/) |
-| 社交媒体升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16014/social-escalations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
