@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3008</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3011</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Protocol Security Researcher | On-site | [View →](https://www.remotejobscan.com/job/16397/protocol-security-researcher/) |
+| Staff Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
+| Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/16395/customer-success-manager-ads-solutions-mumbai/) |
+| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 | Video Editor | On-site | [View →](https://www.remotejobscan.com/job/16394/video-editor/) |
 | Software Engineer, Tokens and Prompt Structures | On-site | [View →](https://www.remotejobscan.com/job/16393/software-engineer-tokens-and-prompt-structures/) |
 | Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
@@ -39,10 +43,6 @@
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16376/risk-monitoring-analyst-iii/) |
 | SAM Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
-| BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
-| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
-| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
