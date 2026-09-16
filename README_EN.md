@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -24,6 +24,11 @@
 | Position | Location | Details |
 |---|---|---|
 | Protective Intelligence Analyst | On-site | [View →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
+| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
+| Copywriter, Developer | On-site | [View →](https://www.remotejobscan.com/job/16412/copywriter-developer/) |
+| Staff Platform Security Engineer (Security) | Remote | [View →](https://www.remotejobscan.com/job/16411/staff-platform-security-engineer-security/) |
+| Deal Operations, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/16410/deal-operations-apac/) |
+| Strategic Account Executive | On-site | [View →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
 | Editor | Remote | [View →](https://www.remotejobscan.com/job/16409/editor/) |
 | Applied AI Architect, Healthcare & Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/16408/applied-ai-architect-healthcare-life-sciences/) |
 | Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
@@ -38,11 +43,6 @@
 | IT Operations Engineer, Asset Management | On-site | [View →](https://www.remotejobscan.com/job/16399/it-operations-engineer-asset-management/) |
 | New Media Manager, Social and Community Growth | On-site | [View →](https://www.remotejobscan.com/job/16401/new-media-manager-social-and-community-growth/) |
 | Associate Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
-| Manager, Customer Success – Cyber | On-site | [View →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
-| Protocol Security Researcher | On-site | [View →](https://www.remotejobscan.com/job/16397/protocol-security-researcher/) |
-| Staff Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
-| Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/16395/customer-success-manager-ads-solutions-mumbai/) |
-| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

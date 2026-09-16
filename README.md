@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3020</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -24,6 +24,11 @@
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 保护情报分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
+| AI基础设施系统工程师班加罗尔 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9819/ai-infrastructure-system-engineer-bangalore/) |
+| 文案，开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16412/copywriter-developer/) |
+| 高级平台安全工程师（安全） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16411/staff-platform-security-engineer-security/) |
+| 亚太区交易运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16410/deal-operations-apac/) |
+| 战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
 | 编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16409/editor/) |
 | 应用AI架构师，医疗与健康科学 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16408/applied-ai-architect-healthcare-life-sciences/) |
 | 加拿大公共部门客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
@@ -38,11 +43,6 @@
 | IT运维工程师，资产管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16399/it-operations-engineer-asset-management/) |
 | 新媒体经理，社交与社区增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16401/new-media-manager-social-and-community-growth/) |
 | 解决方案架构师助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
-| 网络安全客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
-| 协议安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16397/protocol-security-researcher/) |
-| 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
-| 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16395/customer-success-manager-ads-solutions-mumbai/) |
-| 研究及教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
