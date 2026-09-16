@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3032</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级威胁情报工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16427/senior-threat-intelligence-engineer/) |
+| 高级链上调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
+| 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
+| 合规运营工作流管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | 技术团队成员 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 | 德国战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16416/strategy-operations-germany/) |
 | 投资者关系运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
@@ -39,10 +43,6 @@
 | 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
 | 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
 | 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
-| 高级数据平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
-| 预测合作市场营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
-| 运营中心客户支持副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| Staff软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

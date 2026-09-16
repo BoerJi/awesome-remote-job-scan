@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Threat Intelligence Engineer | Remote | [View →](https://www.remotejobscan.com/job/16427/senior-threat-intelligence-engineer/) |
+| Senior Onchain Investigator | Remote | [View →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
+| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
+| Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | Member of the Technical Staff - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 | Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16416/strategy-operations-germany/) |
 | Operations Lead, Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
@@ -39,10 +43,6 @@
 | Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
 | Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
 | Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
-| Senior Data Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/12001/senior-data-platform-engineer/) |
-| Predictions Partnerships Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
-| Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| Staff Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
