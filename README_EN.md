@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2984</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2989</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Community Manager | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
+| Corporate Development & Investment Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/16348/corporate-development-investment-analyst/) |
+| GTM Strategy & Operations, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
+| Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/16344/data-scientist-inference-capacity-optimization/) |
+| Development Lead | Remote | [View →](https://www.remotejobscan.com/job/16345/development-lead/) |
+| Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
+| Data Center Shell Planning Lead, Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/16346/data-center-shell-planning-lead-industrial-compute/) |
 | Revenue Enablement Program Manager | Remote | [View →](https://www.remotejobscan.com/job/16343/revenue-enablement-program-manager/) |
 | Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | Strategic Finance, Compute | On-site | [View →](https://www.remotejobscan.com/job/16342/strategic-finance-compute/) |
@@ -36,13 +43,6 @@
 | Principal iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
 | Senior Software Engineer, Backend (Institutional - Exchange) | Remote | [View →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
 | Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
-| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
-| Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16326/applied-ai-engineer/) |
-| Business Systems Lead, Procure-to-Pay | Hybrid | [View →](https://www.remotejobscan.com/job/16322/business-systems-lead-procure-to-pay/) |
-| Senior Full-Stack Engineer, Internal Applications | Remote | [View →](https://www.remotejobscan.com/job/16323/senior-full-stack-engineer-internal-applications/) |
-| Manager, Customer Success - Commercial | On-site | [View →](https://www.remotejobscan.com/job/16321/manager-customer-success-commercial/) |
-| Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
-| Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

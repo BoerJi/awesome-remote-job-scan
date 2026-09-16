@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2984</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2989</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
+| 企业发展与投资分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16348/corporate-development-investment-analyst/) |
+| GTM战略与运营，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
+| 推理能力优化数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16344/data-scientist-inference-capacity-optimization/) |
+| 开发主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16345/development-lead/) |
+| Web视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
+| 数据中心外壳规划负责人，工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16346/data-center-shell-planning-lead-industrial-compute/) |
 | 营收赋能项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16343/revenue-enablement-program-manager/) |
 | 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | 战略财务，计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16342/strategic-finance-compute/) |
@@ -36,13 +43,6 @@
 | 首席iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
 | 高级软件工程师，后端（机构 - 交易所） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
 | 消费者与借贷合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
-| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
-| 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16326/applied-ai-engineer/) |
-| 采购到付款业务系统主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16322/business-systems-lead-procure-to-pay/) |
-| 高级全栈工程师，内部应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16323/senior-full-stack-engineer-internal-applications/) |
-| 商业客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16321/manager-customer-success-commercial/) |
-| 专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
-| 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
