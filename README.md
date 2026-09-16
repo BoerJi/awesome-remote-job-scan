@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2989</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2985</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 消费电子领域高级PLM与工程应用工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16350/staff-plm-engineering-applications-engineer-consumer-devices/) |
+| 制造基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16349/software-engineer-manufacturing-infrastructure/) |
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 | 技术社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
 | 企业发展与投资分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16348/corporate-development-investment-analyst/) |
 | GTM战略与运营，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
@@ -40,9 +43,6 @@
 | 品牌总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | 高级诉讼与监管顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
 | 房地产与办公服务助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
-| 首席iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
-| 高级软件工程师，后端（机构 - 交易所） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
-| 消费者与借贷合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

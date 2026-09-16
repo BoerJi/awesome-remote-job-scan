@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2989</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2985</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff PLM & Engineering Applications Engineer, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16350/staff-plm-engineering-applications-engineer-consumer-devices/) |
+| Software Engineer, Manufacturing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16349/software-engineer-manufacturing-infrastructure/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 | Technical Community Manager | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
 | Corporate Development & Investment Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/16348/corporate-development-investment-analyst/) |
 | GTM Strategy & Operations, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
@@ -40,9 +43,6 @@
 | Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | Senior Counsel, Litigation & Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
 | Associate, Real Estate and Office Services | On-site | [View →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
-| Principal iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
-| Senior Software Engineer, Backend (Institutional - Exchange) | Remote | [View →](https://www.remotejobscan.com/job/16334/senior-software-engineer-backend-institutional-exchange/) |
-| Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
