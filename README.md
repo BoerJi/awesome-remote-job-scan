@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2990</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2995</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级评估算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16369/senior-evaluation-algorithm-engineer/) |
+| 社交媒体升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16014/social-escalations-manager/) |
+| 基础设施工程师，预训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/infrastructure-engineer-pre-training/) |
+| 量化交易策略算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16368/quantitative-trading-strategy-algorithm-engineer/) |
+| 高级风险运营策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16367/senior-manager-risk-operations-strategy/) |
 | 产品经理/总监，机构产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
 | 财务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
 | 本地化与AI评估产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
@@ -37,11 +42,6 @@
 | GTM战略与运营，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
 | 推理能力优化数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16344/data-scientist-inference-capacity-optimization/) |
 | 开发主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16345/development-lead/) |
-| Web视觉设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
-| 数据中心外壳规划负责人，工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16346/data-center-shell-planning-lead-industrial-compute/) |
-| 营收赋能项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16343/revenue-enablement-program-manager/) |
-| 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
-| 战略财务，计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16342/strategic-finance-compute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

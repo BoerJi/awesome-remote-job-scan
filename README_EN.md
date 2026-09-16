@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2990</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2995</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Evaluation Algorithm Engineer | Remote | [View →](https://www.remotejobscan.com/job/16369/senior-evaluation-algorithm-engineer/) |
+| Social Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/16014/social-escalations-manager/) |
+| Infrastructure Engineer, Pre-training | On-site | [View →](https://www.remotejobscan.com/job/15477/infrastructure-engineer-pre-training/) |
+| Quantitative Trading Strategy Algorithm Engineer | Remote | [View →](https://www.remotejobscan.com/job/16368/quantitative-trading-strategy-algorithm-engineer/) |
+| Senior Manager, Risk Operations Strategy | On-site | [View →](https://www.remotejobscan.com/job/16367/senior-manager-risk-operations-strategy/) |
 | Product Manager / Director, Institutional Product | On-site | [View →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
 | Head of Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
 | Product Director, Localisation & AI Evals | On-site | [View →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
@@ -37,11 +42,6 @@
 | GTM Strategy & Operations, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
 | Data Scientist, Inference Capacity Optimization | Hybrid | [View →](https://www.remotejobscan.com/job/16344/data-scientist-inference-capacity-optimization/) |
 | Development Lead | Remote | [View →](https://www.remotejobscan.com/job/16345/development-lead/) |
-| Visual Designer, Web | Remote | [View →](https://www.remotejobscan.com/job/9816/visual-designer-web/) |
-| Data Center Shell Planning Lead, Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/16346/data-center-shell-planning-lead-industrial-compute/) |
-| Revenue Enablement Program Manager | Remote | [View →](https://www.remotejobscan.com/job/16343/revenue-enablement-program-manager/) |
-| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
-| Strategic Finance, Compute | On-site | [View →](https://www.remotejobscan.com/job/16342/strategic-finance-compute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
