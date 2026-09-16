@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
+| 分销合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16407/head-of-distribution-partnerships/) |
+| Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12252/workday-integrations-developer/) |
+| 财务与战略、交易速度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16404/finance-strategy-deal-velocity/) |
+| 高级创意设计师（绩效营销）- 静态与动态 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16405/sr-creative-designer-performance-marketing-static-motion/) |
 | 机构增长营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16403/institutional-growth-marketing-lead/) |
 | 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | 商业营销创意运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16402/creative-operations-lead-business-marketing/) |
@@ -38,11 +43,6 @@
 | 软件工程师，代币和提示结构 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16393/software-engineer-tokens-and-prompt-structures/) |
 | Staff+ 软件工程师，分布式系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | 合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
-| 德国合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16391/affiliates-business-development-manager-germany/) |
-| 客户关系专员，交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16389/client-engagement-specialist-trading-expert/) |
-| 日本合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
-| 客户尽职调查运营专家 - KYB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
-| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16380/software-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

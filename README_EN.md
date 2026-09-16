@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
+| Head of Distribution Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16407/head-of-distribution-partnerships/) |
+| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/workday-integrations-developer/) |
+| Finance & Strategy, Deal Velocity | On-site | [View →](https://www.remotejobscan.com/job/16404/finance-strategy-deal-velocity/) |
+| Sr. Creative Designer (Performance Marketing) - Static & Motion | Remote | [View →](https://www.remotejobscan.com/job/16405/sr-creative-designer-performance-marketing-static-motion/) |
 | Institutional Growth Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/16403/institutional-growth-marketing-lead/) |
 | Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
 | Creative Operations Lead, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/16402/creative-operations-lead-business-marketing/) |
@@ -38,11 +43,6 @@
 | Software Engineer, Tokens and Prompt Structures | On-site | [View →](https://www.remotejobscan.com/job/16393/software-engineer-tokens-and-prompt-structures/) |
 | Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
-| Affiliates Business Development Manager - Germany | Remote | [View →](https://www.remotejobscan.com/job/16391/affiliates-business-development-manager-germany/) |
-| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/16389/client-engagement-specialist-trading-expert/) |
-| Partner Development Manager - Japan | Remote | [View →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
-| Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
-| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/16380/software-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
