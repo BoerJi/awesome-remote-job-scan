@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2985</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2992</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
+| Protective Intelligence Analyst | On-site | [View →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
+| Technical Operations Analyst, User Safety & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/16351/technical-operations-analyst-user-safety-risk/) |
 | Staff PLM & Engineering Applications Engineer, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16350/staff-plm-engineering-applications-engineer-consumer-devices/) |
 | Software Engineer, Manufacturing Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16349/software-engineer-manufacturing-infrastructure/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
@@ -40,9 +43,6 @@
 | Legal Ops Associate, OC Management | Remote | [View →](https://www.remotejobscan.com/job/16340/legal-ops-associate-oc-management/) |
 | Salesforce Developer, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16339/salesforce-developer-partnerships/) |
 | Member of the Technical Staff, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
-| Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
-| Senior Counsel, Litigation & Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
-| Associate, Real Estate and Office Services | On-site | [View →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

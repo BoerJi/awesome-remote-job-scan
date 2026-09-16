@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2985</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2992</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
+| 保护情报分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
+| 用户安全与风险管理技术运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16351/technical-operations-analyst-user-safety-risk/) |
 | 消费电子领域高级PLM与工程应用工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16350/staff-plm-engineering-applications-engineer-consumer-devices/) |
 | 制造基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16349/software-engineer-manufacturing-infrastructure/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
@@ -40,9 +43,6 @@
 | 法务运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16340/legal-ops-associate-oc-management/) |
 | Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16339/salesforce-developer-partnerships/) |
 | 财务数据平台技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
-| 品牌总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
-| 高级诉讼与监管顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16338/senior-counsel-litigation-regulatory/) |
-| 房地产与办公服务助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
