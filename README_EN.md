@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3008</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3010</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/16389/client-engagement-specialist-trading-expert/) |
 | Partner Development Manager - Japan | Remote | [View →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
 | Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/16380/software-engineer/) |
@@ -42,7 +43,6 @@
 | Model Policy Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16372/model-policy-manager/) |
 | Senior Evaluation Algorithm Engineer | Remote | [View →](https://www.remotejobscan.com/job/16369/senior-evaluation-algorithm-engineer/) |
 | Social Escalations Manager | On-site | [View →](https://www.remotejobscan.com/job/16014/social-escalations-manager/) |
-| Infrastructure Engineer, Pre-training | On-site | [View →](https://www.remotejobscan.com/job/15477/infrastructure-engineer-pre-training/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
