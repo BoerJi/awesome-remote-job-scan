@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2999</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3002</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
+| 人力资源运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
+| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16376/risk-monitoring-analyst-iii/) |
 | SAM分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
@@ -39,9 +42,6 @@
 | 量化交易策略算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16368/quantitative-trading-strategy-algorithm-engineer/) |
 | 高级风险运营策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16367/senior-manager-risk-operations-strategy/) |
 | 产品经理/总监，机构产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
-| 财务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
-| 本地化与AI评估产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
-| 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

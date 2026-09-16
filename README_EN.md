@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>2999</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3002</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
+| Intern - HR Operations | Remote | [View →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
+| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16376/risk-monitoring-analyst-iii/) |
 | SAM Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
@@ -39,9 +42,6 @@
 | Quantitative Trading Strategy Algorithm Engineer | Remote | [View →](https://www.remotejobscan.com/job/16368/quantitative-trading-strategy-algorithm-engineer/) |
 | Senior Manager, Risk Operations Strategy | On-site | [View →](https://www.remotejobscan.com/job/16367/senior-manager-risk-operations-strategy/) |
 | Product Manager / Director, Institutional Product | On-site | [View →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
-| Head of Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
-| Product Director, Localisation & AI Evals | On-site | [View →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
-| Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
