@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Video Editor | On-site | [View →](https://www.remotejobscan.com/job/16394/video-editor/) |
+| Software Engineer, Tokens and Prompt Structures | On-site | [View →](https://www.remotejobscan.com/job/16393/software-engineer-tokens-and-prompt-structures/) |
 | Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
 | Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
 | Affiliates Business Development Manager - Germany | Remote | [View →](https://www.remotejobscan.com/job/16391/affiliates-business-development-manager-germany/) |
@@ -41,8 +43,6 @@
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| Staff Software Engineer, GTM AI Engineering | Remote | [View →](https://www.remotejobscan.com/job/14515/staff-software-engineer-gtm-ai-engineering/) |
-| Commercial Director, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
