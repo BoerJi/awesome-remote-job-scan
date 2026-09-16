@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2994</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2999</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SAM分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
+| BGW Senior Backend Engineer 区块链资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
+| Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
+| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | GTM AI工程团队高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-software-engineer-gtm-ai-engineering/) |
 | 澳大利亚商业总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
 | 模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16372/model-policy-manager/) |
@@ -37,11 +42,6 @@
 | 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 | 保护情报分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
 | 用户安全与风险管理技术运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16351/technical-operations-analyst-user-safety-risk/) |
-| 消费电子领域高级PLM与工程应用工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16350/staff-plm-engineering-applications-engineer-consumer-devices/) |
-| 制造基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16349/software-engineer-manufacturing-infrastructure/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
-| 技术社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
-| 企业发展与投资分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16348/corporate-development-investment-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
