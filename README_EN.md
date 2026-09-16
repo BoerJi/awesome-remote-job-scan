@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3011</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Growth Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/16403/institutional-growth-marketing-lead/) |
+| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| Creative Operations Lead, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/16402/creative-operations-lead-business-marketing/) |
+| IT Operations Engineer, Asset Management | On-site | [View →](https://www.remotejobscan.com/job/16399/it-operations-engineer-asset-management/) |
+| New Media Manager, Social and Community Growth | On-site | [View →](https://www.remotejobscan.com/job/16401/new-media-manager-social-and-community-growth/) |
+| Associate Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
+| Manager, Customer Success – Cyber | On-site | [View →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
 | Protocol Security Researcher | On-site | [View →](https://www.remotejobscan.com/job/16397/protocol-security-researcher/) |
 | Staff Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
 | Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/16395/customer-success-manager-ads-solutions-mumbai/) |
@@ -36,13 +43,6 @@
 | Partner Development Manager - Japan | Remote | [View →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
 | Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/16380/software-engineer/) |
-| Applied AI Architect, Partner | Hybrid | [View →](https://www.remotejobscan.com/job/16379/applied-ai-architect-partner/) |
-| Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
-| Intern - HR Operations | Remote | [View →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
-| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
-| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
-| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16376/risk-monitoring-analyst-iii/) |
-| SAM Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

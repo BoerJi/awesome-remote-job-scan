@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3011</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机构增长营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16403/institutional-growth-marketing-lead/) |
+| 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| 商业营销创意运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16402/creative-operations-lead-business-marketing/) |
+| IT运维工程师，资产管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16399/it-operations-engineer-asset-management/) |
+| 新媒体经理，社交与社区增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16401/new-media-manager-social-and-community-growth/) |
+| 解决方案架构师助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
+| 网络安全客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
 | 协议安全研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16397/protocol-security-researcher/) |
 | 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
 | 客户成功经理，广告解决方案（孟买） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16395/customer-success-manager-ads-solutions-mumbai/) |
@@ -36,13 +43,6 @@
 | 日本合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16382/partner-development-manager-japan/) |
 | 客户尽职调查运营专家 - KYB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16380/software-engineer/) |
-| 应用AI架构师，合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16379/applied-ai-architect-partner/) |
-| 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
-| 人力资源运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
-| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
-| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
-| 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16376/risk-monitoring-analyst-iii/) |
-| SAM分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
