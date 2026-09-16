@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Protective Intelligence Analyst | On-site | [View →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
+| Editor | Remote | [View →](https://www.remotejobscan.com/job/16409/editor/) |
+| Applied AI Architect, Healthcare & Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/16408/applied-ai-architect-healthcare-life-sciences/) |
+| Canada Public Sector Account Executive | On-site | [View →](https://www.remotejobscan.com/job/14467/canada-public-sector-account-executive/) |
 | Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
 | Head of Distribution Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16407/head-of-distribution-partnerships/) |
 | Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/12252/workday-integrations-developer/) |
@@ -39,10 +43,6 @@
 | Staff Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
 | Customer Success Manager, Ads Solutions (Mumbai) | Hybrid | [View →](https://www.remotejobscan.com/job/16395/customer-success-manager-ads-solutions-mumbai/) |
 | Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
-| Video Editor | On-site | [View →](https://www.remotejobscan.com/job/16394/video-editor/) |
-| Software Engineer, Tokens and Prompt Structures | On-site | [View →](https://www.remotejobscan.com/job/16393/software-engineer-tokens-and-prompt-structures/) |
-| Staff+ Software Engineer, Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/16305/staff-software-engineer-distributed-systems/) |
-| Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/16392/compliance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-16 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
