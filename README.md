@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2995</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2997</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM AI工程团队高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14515/staff-software-engineer-gtm-ai-engineering/) |
+| 澳大利亚商业总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
+| 模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16372/model-policy-manager/) |
 | 高级评估算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16369/senior-evaluation-algorithm-engineer/) |
 | 社交媒体升级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16014/social-escalations-manager/) |
 | 基础设施工程师，预训练 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/infrastructure-engineer-pre-training/) |
@@ -39,9 +42,6 @@
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 | 技术社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
 | 企业发展与投资分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16348/corporate-development-investment-analyst/) |
-| GTM战略与运营，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11804/gtm-strategy-operations-professional-services/) |
-| 推理能力优化数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16344/data-scientist-inference-capacity-optimization/) |
-| 开发主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16345/development-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
