@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2988</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2990</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理/总监，机构产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16365/product-manager-director-institutional-product/) |
+| 财务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
+| 本地化与AI评估产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 | 保护情报分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16352/protective-intelligence-analyst/) |
 | 用户安全与风险管理技术运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16351/technical-operations-analyst-user-safety-risk/) |
@@ -39,10 +42,6 @@
 | 营收赋能项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16343/revenue-enablement-program-manager/) |
 | 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9257/senior-finance-strategy-analyst-consumer/) |
 | 战略财务，计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16342/strategic-finance-compute/) |
-| 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16341/design-engineer/) |
-| 法务运营助理，外部律师管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16340/legal-ops-associate-oc-management/) |
-| Salesforce 开发工程师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16339/salesforce-developer-partnerships/) |
-| 财务数据平台技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-16 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
