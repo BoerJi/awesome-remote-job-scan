@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/专家工程师 - 交易交换中台-市场分析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
+| 合规分析师（KYB增强尽职调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16439/compliance-analyst-kyb-enhanced-due-diligence/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | 本地化与AI评估产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
@@ -41,8 +43,6 @@
 | G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16423/ga-recruiter/) |
 | 品牌总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | 技术社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
-| 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
-| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

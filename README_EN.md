@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
+| Compliance Analyst (KYB Enhanced Due Diligence) | Remote | [View →](https://www.remotejobscan.com/job/16439/compliance-analyst-kyb-enhanced-due-diligence/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | Product Director, Localisation & AI Evals | On-site | [View →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | Counsel, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
@@ -41,8 +43,6 @@
 | G&A Recruiter | On-site | [View →](https://www.remotejobscan.com/job/16423/ga-recruiter/) |
 | Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | Technical Community Manager | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
-| Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
-| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
