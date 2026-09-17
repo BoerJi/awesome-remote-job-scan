@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3034</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
+| Technical Program Manager, Multimodal | On-site | [View →](https://www.remotejobscan.com/job/16466/technical-program-manager-multimodal/) |
+| Member of Executive Operations, Seattle | On-site | [View →](https://www.remotejobscan.com/job/16465/member-of-executive-operations-seattle/) |
+| Member of the Technical Staff, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/member-of-the-technical-staff-financial-data-platform/) |
+| SOX Manager | Remote | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | Applied AI Architect, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/16464/applied-ai-architect-retail/) |
 | Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Infrastructure Operations & Sustainability Lead | Remote | [View →](https://www.remotejobscan.com/job/16463/infrastructure-operations-sustainability-lead/) |
@@ -36,9 +41,6 @@
 | Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Growth Manager - Influencer Program | Remote | [View →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
-| Lead / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13454/solutions-architect/) |
-| General manager - Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
