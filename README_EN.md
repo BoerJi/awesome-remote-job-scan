@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3038</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
+| Operations Lead, Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
 | Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/16433/senior-data-scientist-product/) |
 | Software Engineer, Compute Foundations | On-site | [View →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
 | Senior Manager, Regulatory Accounting & Disclosures | On-site | [View →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
@@ -34,7 +36,6 @@
 | Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | Member of the Technical Staff - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 | Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16416/strategy-operations-germany/) |
-| Operations Lead, Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
 | G&A Recruiter | On-site | [View →](https://www.remotejobscan.com/job/16423/ga-recruiter/) |
 | Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 | Technical Community Manager | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
@@ -42,7 +43,6 @@
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
 | Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
 | Associate, Real Estate and Office Services | On-site | [View →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
-| Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
