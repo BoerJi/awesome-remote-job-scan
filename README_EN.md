@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
+| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
+| Office Admin Manager | On-site | [View →](https://www.remotejobscan.com/job/14430/office-admin-manager/) |
+| Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/16444/marketing-events-manager-international/) |
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 | Country Manager (CEO) – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
 | Sales Associate (Vismin) | Hybrid | [View →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
@@ -37,12 +42,6 @@
 | Software Engineer, Compute Foundations | On-site | [View →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
 | Senior Manager, Regulatory Accounting & Disclosures | On-site | [View →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
 | Field Enablement Lead, Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/16432/field-enablement-lead-technical-success/) |
-| Mechanical Engineer, Hardware Systems | On-site | [View →](https://www.remotejobscan.com/job/16431/mechanical-engineer-hardware-systems/) |
-| Senior Threat Intelligence Engineer | Remote | [View →](https://www.remotejobscan.com/job/16427/senior-threat-intelligence-engineer/) |
-| Senior Onchain Investigator | Remote | [View →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
-| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
-| Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
-| Member of the Technical Staff - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

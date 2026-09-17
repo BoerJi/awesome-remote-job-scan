@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3033</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3037</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 解决方案架构师（助理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
+| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
+| 办公室行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14430/office-admin-manager/) |
+| 国际市场活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16444/marketing-events-manager-international/) |
+| 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 产品营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 | 巴西国家经理（CEO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
 | 销售助理（Vismin） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
@@ -37,12 +42,6 @@
 | 计算基础软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
 | 高级经理，监管会计与披露 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
 | 技术成功领域赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16432/field-enablement-lead-technical-success/) |
-| 硬件系统机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16431/mechanical-engineer-hardware-systems/) |
-| 高级威胁情报工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16427/senior-threat-intelligence-engineer/) |
-| 高级链上调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
-| 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
-| 合规运营工作流管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
-| 技术团队成员 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
