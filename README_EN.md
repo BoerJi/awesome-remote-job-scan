@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3036</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Retail | Hybrid | [View →](https://www.remotejobscan.com/job/16464/applied-ai-architect-retail/) |
+| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| Infrastructure Operations & Sustainability Lead | Remote | [View →](https://www.remotejobscan.com/job/16463/infrastructure-operations-sustainability-lead/) |
+| Enterprise Wide Risk Assessment (EWRA) Specialist | Remote | [View →](https://www.remotejobscan.com/job/16462/enterprise-wide-risk-assessment-ewra-specialist/) |
 | Enterprise Account Executive, Public Sector, DACH | On-site | [View →](https://www.remotejobscan.com/job/16459/enterprise-account-executive-public-sector-dach/) |
 | AI Platform Engineer, Enablement and Governance Operations | Remote | [View →](https://www.remotejobscan.com/job/16460/ai-platform-engineer-enablement-and-governance-operations/) |
 | Binance Accelerator Program - Compliance | Hybrid | [View →](https://www.remotejobscan.com/job/16458/binance-accelerator-program-compliance/) |
@@ -35,9 +39,6 @@
 | Lead / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13454/solutions-architect/) |
 | General manager - Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
-| Binance Accelerator Program - Quantitative Trading Strategy Algorithm | Remote | [View →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
-| Associate Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
-| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

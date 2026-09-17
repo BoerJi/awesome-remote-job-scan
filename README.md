@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3037</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3036</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 零售应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16464/applied-ai-architect-retail/) |
+| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| 基础设施运营与可持续发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16463/infrastructure-operations-sustainability-lead/) |
+| 企业全面风险评估（EWRA）专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16462/enterprise-wide-risk-assessment-ewra-specialist/) |
 | 企业客户经理，公共部门，DACH地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16459/enterprise-account-executive-public-sector-dach/) |
 | AI平台工程师，赋能与治理运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16460/ai-platform-engineer-enablement-and-governance-operations/) |
 | 币安加速器计划 - 合规 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16458/binance-accelerator-program-compliance/) |
@@ -35,9 +39,6 @@
 | Lead / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13454/solutions-architect/) |
 | 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
-| 币安加速器项目 - 定量交易策略算法 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
-| 解决方案架构师（助理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
-| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
