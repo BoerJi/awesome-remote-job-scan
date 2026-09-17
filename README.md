@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3036</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器项目 - 定量交易策略算法 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
 | 解决方案架构师（助理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | 办公室行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14430/office-admin-manager/) |
@@ -41,7 +42,6 @@
 | 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16433/senior-data-scientist-product/) |
 | 计算基础软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
 | 高级经理，监管会计与披露 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
-| 技术成功领域赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16432/field-enablement-lead-technical-success/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3036</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Quantitative Trading Strategy Algorithm | Remote | [View →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
 | Associate Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | Office Admin Manager | On-site | [View →](https://www.remotejobscan.com/job/14430/office-admin-manager/) |
@@ -41,7 +42,6 @@
 | Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/16433/senior-data-scientist-product/) |
 | Software Engineer, Compute Foundations | On-site | [View →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
 | Senior Manager, Regulatory Accounting & Disclosures | On-site | [View →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
-| Field Enablement Lead, Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/16432/field-enablement-lead-technical-success/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
