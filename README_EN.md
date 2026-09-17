@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
+| Head of Exchange Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
 | Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 | Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Growth Manager - Influencer Program | Remote | [View →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
@@ -37,9 +39,6 @@
 | Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/16444/marketing-events-manager-international/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
-| Country Manager (CEO) – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
-| Sales Associate (Vismin) | Hybrid | [View →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
-| OEML - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
