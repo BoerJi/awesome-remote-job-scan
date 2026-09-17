@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3036</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Public Sector, DACH | On-site | [View →](https://www.remotejobscan.com/job/16459/enterprise-account-executive-public-sector-dach/) |
+| AI Platform Engineer, Enablement and Governance Operations | Remote | [View →](https://www.remotejobscan.com/job/16460/ai-platform-engineer-enablement-and-governance-operations/) |
+| Binance Accelerator Program - Compliance | Hybrid | [View →](https://www.remotejobscan.com/job/16458/binance-accelerator-program-compliance/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
 | Head of Exchange Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
 | Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
@@ -35,10 +38,6 @@
 | Binance Accelerator Program - Quantitative Trading Strategy Algorithm | Remote | [View →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
 | Associate Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
-| Office Admin Manager | On-site | [View →](https://www.remotejobscan.com/job/14430/office-admin-manager/) |
-| Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/16444/marketing-events-manager-international/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

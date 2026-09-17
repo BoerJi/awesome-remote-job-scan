@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3036</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3037</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理，公共部门，DACH地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16459/enterprise-account-executive-public-sector-dach/) |
+| AI平台工程师，赋能与治理运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16460/ai-platform-engineer-enablement-and-governance-operations/) |
+| 币安加速器计划 - 合规 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16458/binance-accelerator-program-compliance/) |
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
 | 交易所基础设施负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
 | Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
@@ -35,10 +38,6 @@
 | 币安加速器项目 - 定量交易策略算法 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
 | 解决方案架构师（助理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
-| 办公室行政经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14430/office-admin-manager/) |
-| 国际市场活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16444/marketing-events-manager-international/) |
-| 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 产品营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
