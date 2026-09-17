@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3040</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3041</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| OEML - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
 | Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
 | Compliance Analyst (KYB Enhanced Due Diligence) | Remote | [View →](https://www.remotejobscan.com/job/16439/compliance-analyst-kyb-enhanced-due-diligence/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
@@ -42,7 +43,6 @@
 | Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16416/strategy-operations-germany/) |
 | G&A Recruiter | On-site | [View →](https://www.remotejobscan.com/job/16423/ga-recruiter/) |
 | Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
-| Technical Community Manager | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
