@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3038</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3040</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | 本地化与AI评估产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
 | 投资者关系运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
@@ -42,7 +43,6 @@
 | 技术社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
 | 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
 | 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
-| 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3038</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3040</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | Product Director, Localisation & AI Evals | On-site | [View →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | Counsel, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
 | Operations Lead, Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
@@ -42,7 +43,6 @@
 | Technical Community Manager | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-community-manager/) |
 | Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
-| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
