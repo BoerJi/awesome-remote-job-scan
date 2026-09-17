@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
+| Accommodations Partner | On-site | [View →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
+| Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
 | Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
 | Technical Program Manager, Multimodal | On-site | [View →](https://www.remotejobscan.com/job/16466/technical-program-manager-multimodal/) |
 | Member of Executive Operations, Seattle | On-site | [View →](https://www.remotejobscan.com/job/16465/member-of-executive-operations-seattle/) |
@@ -38,9 +41,6 @@
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
 | Head of Exchange Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
 | Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
-| Growth Manager - Influencer Program | Remote | [View →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
-| Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

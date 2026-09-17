@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3033</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
+| 合理便利合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
+| 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
 | 安全软件工程师，身份与访问管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
 | 多模态技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16466/technical-program-manager-multimodal/) |
 | 执行运营团队成员，西雅图 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16465/member-of-executive-operations-seattle/) |
@@ -38,9 +41,6 @@
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
 | 交易所基础设施负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
 | Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
-| 增长经理 - 影响者计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
-| 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
