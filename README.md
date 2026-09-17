@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3034</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13454/solutions-architect/) |
+| 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | 币安加速器项目 - 定量交易策略算法 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
 | 解决方案架构师（助理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-solutions-architect/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
@@ -39,9 +41,6 @@
 | 本地化与AI评估产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
 | 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
 | 投资者关系运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
-| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16433/senior-data-scientist-product/) |
-| 计算基础软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
-| 高级经理，监管会计与披露 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
