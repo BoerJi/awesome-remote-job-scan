@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3041</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3043</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Lead | Remote | [View →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
+| Country Manager (CEO) – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
+| Sales Associate (Vismin) | Hybrid | [View →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
 | OEML - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
 | Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
 | Compliance Analyst (KYB Enhanced Due Diligence) | Remote | [View →](https://www.remotejobscan.com/job/16439/compliance-analyst-kyb-enhanced-due-diligence/) |
@@ -40,9 +43,6 @@
 | Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
 | Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | Member of the Technical Staff - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
-| Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16416/strategy-operations-germany/) |
-| G&A Recruiter | On-site | [View →](https://www.remotejobscan.com/job/16423/ga-recruiter/) |
-| Director of Brand | On-site | [View →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

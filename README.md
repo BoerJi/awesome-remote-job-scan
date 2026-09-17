@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3041</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3043</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13184/product-marketing-lead/) |
+| 巴西国家经理（CEO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
+| 销售助理（Vismin） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
 | OEML - 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
 | 高级/专家工程师 - 交易交换中台-市场分析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
 | 合规分析师（KYB增强尽职调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16439/compliance-analyst-kyb-enhanced-due-diligence/) |
@@ -40,9 +43,6 @@
 | 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
 | 合规运营工作流管理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | 技术团队成员 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
-| 德国战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16416/strategy-operations-germany/) |
-| G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16423/ga-recruiter/) |
-| 品牌总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16337/director-of-brand/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
