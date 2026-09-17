@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3036</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 | Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Growth Manager - Influencer Program | Remote | [View →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
 | Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
@@ -39,7 +40,6 @@
 | Country Manager (CEO) – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
 | Sales Associate (Vismin) | Hybrid | [View →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
 | OEML - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
-| Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

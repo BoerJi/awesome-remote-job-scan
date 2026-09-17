@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3036</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 | 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | 增长经理 - 影响者计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
 | 高级/首席产品经理，DEX交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
@@ -39,7 +40,6 @@
 | 巴西国家经理（CEO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16443/country-manager-ceo-brazil/) |
 | 销售助理（Vismin） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
 | OEML - 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
-| 高级/专家工程师 - 交易交换中台-市场分析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
