@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
+| Growth Manager - Influencer Program | Remote | [View →](https://www.remotejobscan.com/job/16452/growth-manager-influencer-program/) |
+| Senior/Principal Product Manager, DEX Trading | On-site | [View →](https://www.remotejobscan.com/job/7620/seniorprincipal-product-manager-dex-trading/) |
+| Lead / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/lead-expert-rwa-ecosystem-growth/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/13454/solutions-architect/) |
 | General manager - Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | Binance Accelerator Program - Quantitative Trading Strategy Algorithm | Remote | [View →](https://www.remotejobscan.com/job/16450/binance-accelerator-program-quantitative-trading-strategy-algorithm/) |
@@ -36,11 +40,6 @@
 | Sales Associate (Vismin) | Hybrid | [View →](https://www.remotejobscan.com/job/16442/sales-associate-vismin/) |
 | OEML - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oeml-senior-compliance-analyst/) |
 | Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | On-site | [View →](https://www.remotejobscan.com/job/12174/seniorstaff-engineer-trading-exchange-middle-platform-market-analysis/) |
-| Compliance Analyst (KYB Enhanced Due Diligence) | Remote | [View →](https://www.remotejobscan.com/job/16439/compliance-analyst-kyb-enhanced-due-diligence/) |
-| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Product Director, Localisation & AI Evals | On-site | [View →](https://www.remotejobscan.com/job/16359/product-director-localisation-ai-evals/) |
-| Counsel, Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16435/counsel-commercial/) |
-| Operations Lead, Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/16424/operations-lead-investor-relations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
