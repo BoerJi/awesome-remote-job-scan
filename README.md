@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3032</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3037</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16433/senior-data-scientist-product/) |
+| 计算基础软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
+| 高级经理，监管会计与披露 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
+| 技术成功领域赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16432/field-enablement-lead-technical-success/) |
+| 硬件系统机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16431/mechanical-engineer-hardware-systems/) |
 | 高级威胁情报工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16427/senior-threat-intelligence-engineer/) |
 | 高级链上调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
 | 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
@@ -38,11 +43,6 @@
 | 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
 | 房地产与办公服务助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
 | 消费者与借贷合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
-| 技术合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| 风险分析高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
-| 高级软件工程师，投资/交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
-| 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

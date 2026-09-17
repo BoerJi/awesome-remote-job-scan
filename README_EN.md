@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/16433/senior-data-scientist-product/) |
+| Software Engineer, Compute Foundations | On-site | [View →](https://www.remotejobscan.com/job/16434/software-engineer-compute-foundations/) |
+| Senior Manager, Regulatory Accounting & Disclosures | On-site | [View →](https://www.remotejobscan.com/job/16430/senior-manager-regulatory-accounting-disclosures/) |
+| Field Enablement Lead, Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/16432/field-enablement-lead-technical-success/) |
+| Mechanical Engineer, Hardware Systems | On-site | [View →](https://www.remotejobscan.com/job/16431/mechanical-engineer-hardware-systems/) |
 | Senior Threat Intelligence Engineer | Remote | [View →](https://www.remotejobscan.com/job/16427/senior-threat-intelligence-engineer/) |
 | Senior Onchain Investigator | Remote | [View →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
 | Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
@@ -38,11 +43,6 @@
 | Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
 | Associate, Real Estate and Office Services | On-site | [View →](https://www.remotejobscan.com/job/16336/associate-real-estate-and-office-services/) |
 | Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
-| Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| Senior Associate, Risk Analytics | Remote | [View →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
-| Senior Software Engineer, Invest / Trade | Remote | [View →](https://www.remotejobscan.com/job/14639/senior-software-engineer-invest-trade/) |
-| Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
