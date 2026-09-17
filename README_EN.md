@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3029</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Growth Account Executive | On-site | [View →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
+| Commercial Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/16475/commercial-counsel/) |
+| Senior Machine Learning Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
 | Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
 | Accommodations Partner | On-site | [View →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
 | Risk Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
@@ -39,8 +42,6 @@
 | AI Platform Engineer, Enablement and Governance Operations | Remote | [View →](https://www.remotejobscan.com/job/16460/ai-platform-engineer-enablement-and-governance-operations/) |
 | Binance Accelerator Program - Compliance | Hybrid | [View →](https://www.remotejobscan.com/job/16458/binance-accelerator-program-compliance/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
-| Head of Exchange Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
-| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-17 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

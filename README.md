@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3029</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略增长客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
+| 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16475/commercial-counsel/) |
+| 高级机器学习平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
 | 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16377/complaints-analyst-iii/) |
 | 合理便利合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
 | 巴西风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16419/risk-manager-brazil/) |
@@ -39,8 +42,6 @@
 | AI平台工程师，赋能与治理运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16460/ai-platform-engineer-enablement-and-governance-operations/) |
 | 币安加速器计划 - 合规 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16458/binance-accelerator-program-compliance/) |
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
-| 交易所基础设施负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16456/head-of-exchange-infrastructure/) |
-| Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-17 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
