@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3083</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
+| Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
+| People Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/16590/people-operations-associate/) |
+| Engineering Manager – Growth Foundations | Remote | [View →](https://www.remotejobscan.com/job/16591/engineering-manager-growth-foundations/) |
 | Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
 | Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
 | Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
@@ -38,10 +42,6 @@
 | Research Intern, Inference (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
 | Blockchain Investigator, Financial Crimes, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/16586/blockchain-investigator-financial-crimes-bulgaria/) |
 | Member of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
-| Senior Manager, Recruiting | Remote | [View →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
-| Supplier Security & Assurance, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
-| Customer Success Manager - Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/16572/customer-success-manager-ads-solutions/) |
-| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

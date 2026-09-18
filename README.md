@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3083</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3084</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究实习生，模型塑造（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
+| 研究实习生，模型塑造（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
+| 人力资源运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16590/people-operations-associate/) |
+| 增长基础工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16591/engineering-manager-growth-foundations/) |
 | 高级软件工程师 - React Native - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
 | 系统研究工程师实习生 - GPU编程（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
 | 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
@@ -38,11 +42,6 @@
 | 推理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
 | 区块链金融犯罪调查员，保加利亚 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16586/blockchain-investigator-financial-crimes-bulgaria/) |
 | Next.js技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
-| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
-| 供应商安全与保证，安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
-| 广告解决方案客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16572/customer-success-manager-ads-solutions/) |
-| 副总法律顾问 - 亚洲太平洋、中东及非洲地区诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 副总法律顾问 - 诉讼与调查，亚太、中东及非洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
