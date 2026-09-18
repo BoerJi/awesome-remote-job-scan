@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3039</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3044</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy General Counsel, Commercial (Marketing) | Hybrid | [View →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
+| Supplier Security & Assurance, Security GRC | Remote | [View →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
+| Engineering Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/16522/engineering-manager-labs/) |
+| Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/16423/recruiter-ga/) |
+| Recruiting Analytics Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
+| National Security Partnerships Lead, Intelligence and International Security | Remote | [View →](https://www.remotejobscan.com/job/16523/national-security-partnerships-lead-intelligence-and-international-security/) |
 | Pre-training Data Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/15477/pre-training-data-infrastructure-engineer/) |
 | Subject Matter Expert, Investment Banking | Hybrid | [View →](https://www.remotejobscan.com/job/16514/subject-matter-expert-investment-banking/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
@@ -37,12 +43,6 @@
 | Member of the Technical Staff - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 | Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
 | Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/16341/design-engineer/) |
-| Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
-| Strategic Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| IT Ops Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
-| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

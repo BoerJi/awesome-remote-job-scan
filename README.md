@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3039</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3044</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业（营销）副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
+| 供应商安全与保证，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
+| 实验室工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16522/engineering-manager-labs/) |
+| G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16423/recruiter-ga/) |
+| 招聘分析数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
+| 国家安全合作主管，情报与国际安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16523/national-security-partnerships-lead-intelligence-and-international-security/) |
 | 预训练数据基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/pre-training-data-infrastructure-engineer/) |
 | 投行领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16514/subject-matter-expert-investment-banking/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
@@ -37,12 +43,6 @@
 | 数据平台技术专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
 | 平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
 | 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16341/design-engineer/) |
-| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
-| 战略合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-partnerships-lead/) |
-| 高级合作伙伴项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| IT运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
-| 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
