@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3088</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3089</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门客户成功经理（国家安全） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
+| 高级执行沟通制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
 | 产品参与专员，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
 | 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
@@ -41,8 +43,6 @@
 | 全球交通项目高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
 | 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 | 规模化赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
-| Staff+ 软件工程师，存储与传输 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
-| 国际营销主管，中小企业广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

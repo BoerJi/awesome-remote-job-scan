@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3088</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
+| Executive Producer, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
 | Product Engagement Specialist, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
 | Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
@@ -41,8 +43,6 @@
 | Global Transportation Programs, Senior Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
 | Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 | Scaled Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
-| Staff+ Software Engineer, Storage + Transfer | On-site | [View →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
-| International Marketing Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
