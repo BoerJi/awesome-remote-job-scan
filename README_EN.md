@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3057</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3050</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Transformation Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
+| Staff Software Engineer, GTM AI Engineering | Remote | [View →](https://www.remotejobscan.com/job/16550/staff-software-engineer-gtm-ai-engineering/) |
 | Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
 | Expert / Director of AI | On-site | [View →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
 | Tax Reporting Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/16546/tax-reporting-senior-manager/) |
@@ -38,8 +40,6 @@
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
 | QA Engineer, Blockchain | Remote | [View →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
 | Engineering Manager, QA | Remote | [View →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
-| DevOps Engineer, Infra | Remote | [View →](https://www.remotejobscan.com/job/16534/devops-engineer-infra/) |
-| DevOps Engineer, Cloud Infra | Remote | [View →](https://www.remotejobscan.com/job/16533/devops-engineer-cloud-infra/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

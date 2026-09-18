@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3057</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3050</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务转型经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
+| GTM AI工程团队高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16550/staff-software-engineer-gtm-ai-engineering/) |
 | 高级合规与许可律师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
 | 专家/人工智能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
 | 税务申报高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16546/tax-reporting-senior-manager/) |
@@ -39,8 +41,6 @@
 | 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
 | 区块链质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
 | 工程经理，质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
-| 基础设施DevOps工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16534/devops-engineer-infra/) |
-| DevOps工程师，云基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16533/devops-engineer-cloud-infra/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
