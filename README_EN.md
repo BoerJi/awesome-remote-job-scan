@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3083</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Intern, Frontier Agents (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
+| Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
+| Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
+| Software Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
+| Software Engineer Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
+| Software Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
+| Software Development In Test Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
+| Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
+| Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
+| Research Intern, Inference (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
+| Research Intern, Inference (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
+| Blockchain Investigator, Financial Crimes, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/16586/blockchain-investigator-financial-crimes-bulgaria/) |
+| Member of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
+| Senior Manager, Recruiting | Remote | [View →](https://www.remotejobscan.com/job/11783/senior-manager-recruiting/) |
+| Supplier Security & Assurance, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
 | Customer Success Manager - Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/16572/customer-success-manager-ads-solutions/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream) | On-site | [View →](https://www.remotejobscan.com/job/16566/member-of-technical-staff-search-core-indexing-data-pipeline-stream/) |
-| Applied AI Engineer, Quants | Hybrid | [View →](https://www.remotejobscan.com/job/16565/applied-ai-engineer-quants/) |
-| Engineering Manager, Library | Hybrid | [View →](https://www.remotejobscan.com/job/16560/engineering-manager-library/) |
-| Enterprise Account Executive, Banking | On-site | [View →](https://www.remotejobscan.com/job/16561/enterprise-account-executive-banking/) |
-| Enterprise Account Executive, Pharmaceuticals & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/16562/enterprise-account-executive-pharmaceuticals-life-sciences/) |
-| Principal iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
-| Senior SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
-| Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
-| Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
-| VIP Relationship Manager | On-site | [View →](https://www.remotejobscan.com/job/13880/vip-relationship-manager/) |
-| Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
-| Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
-| Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
-| Senior Agent, Customer Service (Spanish Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8862/senior-agent-customer-service-spanish-speaker/) |
-| Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
