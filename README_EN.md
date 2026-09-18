@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3075</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream) | On-site | [View →](https://www.remotejobscan.com/job/16566/member-of-technical-staff-search-core-indexing-data-pipeline-stream/) |
 | Applied AI Engineer, Quants | Hybrid | [View →](https://www.remotejobscan.com/job/16565/applied-ai-engineer-quants/) |
 | Engineering Manager, Library | Hybrid | [View →](https://www.remotejobscan.com/job/16560/engineering-manager-library/) |
@@ -42,7 +43,6 @@
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14715/compliance-analyst/) |
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
 | Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
-| Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
