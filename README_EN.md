@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3052</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3053</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
+| Senior Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16547/senior-site-reliability-engineer/) |
+| Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
+| Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16543/dedicated-support-engineering-lead/) |
 | IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16545/it-support-specialist/) |
 | Senior Product Designer | On-site | [View →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
@@ -37,10 +41,6 @@
 | Android Engineer (C++) | Remote | [View →](https://www.remotejobscan.com/job/16527/android-engineer-c/) |
 | Deputy General Counsel, Commercial (Marketing) | Hybrid | [View →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
 | Supplier Security & Assurance, Security GRC | Remote | [View →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
-| Engineering Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/16522/engineering-manager-labs/) |
-| Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/16423/recruiter-ga/) |
-| Recruiting Analytics Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
-| National Security Partnerships Lead, Intelligence and International Security | Remote | [View →](https://www.remotejobscan.com/job/16523/national-security-partnerships-lead-intelligence-and-international-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

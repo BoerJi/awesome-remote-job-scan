@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3052</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3053</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级站点可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
+| Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
+| 高级/资深Java工程师 - Web3钱包DeFi收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
 | 专属支持工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16543/dedicated-support-engineering-lead/) |
 | IT 支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16545/it-support-specialist/) |
 | 高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
@@ -38,10 +41,6 @@
 | 安卓工程师（C++） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16527/android-engineer-c/) |
 | 商业（营销）副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
 | 供应商安全与保证，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
-| 实验室工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16522/engineering-manager-labs/) |
-| G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16423/recruiter-ga/) |
-| 招聘分析数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
-| 国家安全合作主管，情报与国际安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16523/national-security-partnerships-lead-intelligence-and-international-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
