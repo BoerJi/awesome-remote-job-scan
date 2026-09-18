@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3050</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3060</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy Money Laundering Reporting Officer | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer/) |
+| Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
+| Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
+| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
+| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| Staff Software Engineer, Developer Infrastructure (Test Infrastructure) | Remote | [View →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
+| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
+| Group Product Manager, Core Infrastructure & Reliability | Remote | [View →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
 | Finance Transformation Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
 | Staff Software Engineer, GTM AI Engineering | Remote | [View →](https://www.remotejobscan.com/job/16550/staff-software-engineer-gtm-ai-engineering/) |
 | Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
@@ -32,14 +42,6 @@
 | Staff Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
 | Senior Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16547/senior-site-reliability-engineer/) |
 | Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
-| Senior/Staff Java Engineer - Web3 Wallet Defi Earn | On-site | [View →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
-| Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16543/dedicated-support-engineering-lead/) |
-| IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16545/it-support-specialist/) |
-| Senior Product Designer | On-site | [View →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
-| Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
-| Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
-| QA Engineer, Blockchain | Remote | [View →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
-| Engineering Manager, QA | Remote | [View →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

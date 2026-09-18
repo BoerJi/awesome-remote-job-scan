@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3050</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3060</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer/) |
+| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
+| 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15187/staff-software-engineer-developer-infrastructure/) |
+| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| Anthropic研究员计划，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| 高级软件工程师，开发者基础设施（测试基础设施） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
+| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| 核心基础设施与可靠性集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
 | 财务转型经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8836/finance-transformation-manager-senior-manager/) |
 | GTM AI工程团队高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16550/staff-software-engineer-gtm-ai-engineering/) |
 | 高级合规与许可律师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
@@ -32,15 +41,6 @@
 | Perplexity研究奖学金 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | 高级站点可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
 | Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
-| 高级/资深Java工程师 - Web3钱包DeFi收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
-| 专属支持工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16543/dedicated-support-engineering-lead/) |
-| IT 支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16545/it-support-specialist/) |
-| 高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
-| IT支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16544/it-support-specialist/) |
-| Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
-| 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
-| 区块链质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
-| 工程经理，质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
