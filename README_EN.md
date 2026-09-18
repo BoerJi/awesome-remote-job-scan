@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3060</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3052</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Market Surveillance Investigator | Remote | [View →](https://www.remotejobscan.com/job/16555/senior-market-surveillance-investigator/) |
+| Senior Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/16553/senior-business-development-manager/) |
 | Deputy Money Laundering Reporting Officer | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer/) |
 | Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 | Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
@@ -40,8 +42,6 @@
 | Tax Reporting Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/16546/tax-reporting-senior-manager/) |
 | Perplexity Research Fellowship | On-site | [View →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | Staff Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
-| Senior Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16547/senior-site-reliability-engineer/) |
-| Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

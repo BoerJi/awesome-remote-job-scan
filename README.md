@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3060</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3052</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级市场监察调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16555/senior-market-surveillance-investigator/) |
+| 高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16553/senior-business-development-manager/) |
 | 反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer/) |
 | Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 | 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
@@ -40,7 +42,6 @@
 | 税务报告高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
 | Perplexity研究奖学金 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | 高级站点可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
-| Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
