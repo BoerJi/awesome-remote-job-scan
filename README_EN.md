@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3051</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3052</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16543/dedicated-support-engineering-lead/) |
+| IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16545/it-support-specialist/) |
+| Senior Product Designer | On-site | [View →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
 | Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
 | QA Engineer, Blockchain | Remote | [View →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
@@ -38,10 +41,6 @@
 | Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/16423/recruiter-ga/) |
 | Recruiting Analytics Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
 | National Security Partnerships Lead, Intelligence and International Security | Remote | [View →](https://www.remotejobscan.com/job/16523/national-security-partnerships-lead-intelligence-and-international-security/) |
-| Pre-training Data Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/15477/pre-training-data-infrastructure-engineer/) |
-| Subject Matter Expert, Investment Banking | Hybrid | [View →](https://www.remotejobscan.com/job/16514/subject-matter-expert-investment-banking/) |
-| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
-| Technical Program Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

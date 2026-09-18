@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3051</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3052</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 专属支持工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16543/dedicated-support-engineering-lead/) |
+| IT 支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16545/it-support-specialist/) |
+| 高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
+| IT支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16544/it-support-specialist/) |
 | Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 | 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
 | 区块链质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
@@ -38,10 +42,6 @@
 | G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16423/recruiter-ga/) |
 | 招聘分析数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16273/recruiting-analytics-data-engineer/) |
 | 国家安全合作主管，情报与国际安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16523/national-security-partnerships-lead-intelligence-and-international-security/) |
-| 预训练数据基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15477/pre-training-data-infrastructure-engineer/) |
-| 投行领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16514/subject-matter-expert-investment-banking/) |
-| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
-| 公共部门技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
