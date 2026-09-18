@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3079</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3083</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
+| Head of Finance - Data Centers | Hybrid | [View →](https://www.remotejobscan.com/job/16598/head-of-finance-data-centers/) |
 | Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
+| Global Transportation Programs, Senior Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
+| Scaled Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
+| Staff+ Software Engineer, Storage + Transfer | On-site | [View →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
+| International Marketing Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
+| Lead, Data Center Security Delivery (Construction to Operations) | Remote | [View →](https://www.remotejobscan.com/job/16595/lead-data-center-security-delivery-construction-to-operations/) |
+| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
+| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
 | Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
 | Strategic Growth Account Executive | On-site | [View →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
 | Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
@@ -34,14 +42,6 @@
 | Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
 | Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
 | Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
-| Software Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
-| Forward Deployed Engineer (FDE), Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16589/forward-deployed-engineer-fde-financial-services-nyc/) |
-| Account Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/16587/account-coordinator/) |
-| Strategic Pursuits Lead, RevOps | On-site | [View →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
-| Research Intern, Frontier Agents (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
-| Software Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
-| Software Engineer Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
-| Software Development In Test Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
