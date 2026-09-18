@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3070</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream) | On-site | [View →](https://www.remotejobscan.com/job/16566/member-of-technical-staff-search-core-indexing-data-pipeline-stream/) |
+| Applied AI Engineer, Quants | Hybrid | [View →](https://www.remotejobscan.com/job/16565/applied-ai-engineer-quants/) |
+| Engineering Manager, Library | Hybrid | [View →](https://www.remotejobscan.com/job/16560/engineering-manager-library/) |
+| Enterprise Account Executive, Banking | On-site | [View →](https://www.remotejobscan.com/job/16561/enterprise-account-executive-banking/) |
+| Enterprise Account Executive, Pharmaceuticals & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/16562/enterprise-account-executive-pharmaceuticals-life-sciences/) |
+| Principal iOS Engineer | Remote | [View →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
 | Senior SEO Manager | Remote | [View →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
 | Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | Specialist, Customer Due Diligence (KYB) Operations | On-site | [View →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
@@ -37,12 +43,6 @@
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
 | Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | Specialist, Customer Due Diligence Operations (KYB) | On-site | [View →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| Senior Finance Analyst | On-site | [View →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
-| Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
-| Senior Agent, Customer Service (German Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
-| VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
-| Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
-| Senior Compliance Manager | On-site | [View →](https://www.remotejobscan.com/job/6916/senior-compliance-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

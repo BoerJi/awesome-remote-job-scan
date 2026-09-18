@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3070</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员（搜索核心、索引与数据管道流） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16566/member-of-technical-staff-search-core-indexing-data-pipeline-stream/) |
+| 应用AI工程师，量化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16565/applied-ai-engineer-quants/) |
+| 图书馆工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16560/engineering-manager-library/) |
+| 企业客户经理，银行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16561/enterprise-account-executive-banking/) |
+| 企业客户经理，医药及生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16562/enterprise-account-executive-pharmaceuticals-life-sciences/) |
+| 首席iOS工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16335/principal-ios-engineer/) |
 | 高级SEO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16178/senior-seo-manager/) |
 | 高级风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16280/senior-risk-manager/) |
 | 客户尽职调查（KYB）运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15696/specialist-customer-due-diligence-kyb-operations/) |
@@ -37,12 +43,6 @@
 | 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
 | 高级客服代理（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | 客户尽职调查运营专员（KYB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11981/specialist-customer-due-diligence-operations-kyb/) |
-| 高级财务分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11516/senior-finance-analyst/) |
-| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
-| 高级客服代理（德语专员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8982/senior-agent-customer-service-german-speaker/) |
-| VIP客户关系经理，CIS区（俄语要求） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
-| 高级VIP关系经理，中亚区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
-| 高级合规经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6916/senior-compliance-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
