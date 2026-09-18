@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品参与专员，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
+| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
+| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| Claude平台（API）财务与战略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16606/finance-strategy-lead-claude-platform-api/) |
+| 消费者支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16608/consumer-support-specialist/) |
+| 企业金融与战略、现金流预测 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
 | 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
 | 企业销售发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
 | 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
@@ -37,12 +43,6 @@
 | 规模化赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
 | Staff+ 软件工程师，存储与传输 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
 | 国际营销主管，中小企业广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
-| 数据中心安全交付负责人（建设至运营） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16595/lead-data-center-security-delivery-construction-to-operations/) |
-| 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
-| 企业现场营销师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
-| 销售赋能负责人，GTM入职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| 战略增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

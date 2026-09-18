@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Engagement Specialist, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
+| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
+| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| Finance & Strategy Lead, Claude Platform (API) | On-site | [View →](https://www.remotejobscan.com/job/16606/finance-strategy-lead-claude-platform-api/) |
+| Consumer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16608/consumer-support-specialist/) |
+| Corporate Finance & Strategy, Cash Flow Forecasting | On-site | [View →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
 | Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
 | Sales Leader, Sales Development, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
 | Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
@@ -37,12 +43,6 @@
 | Scaled Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
 | Staff+ Software Engineer, Storage + Transfer | On-site | [View →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
 | International Marketing Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
-| Lead, Data Center Security Delivery (Construction to Operations) | Remote | [View →](https://www.remotejobscan.com/job/16595/lead-data-center-security-delivery-construction-to-operations/) |
-| Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
-| Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
-| Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
-| Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| Strategic Growth Account Executive | On-site | [View →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
