@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3079</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -26,7 +26,6 @@
 | Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
 | Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | Strategic Growth Account Executive | On-site | [View →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
 | Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 | Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
@@ -42,6 +41,7 @@
 | Research Intern, Frontier Agents (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
 | Software Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
 | Software Engineer Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
+| Software Development In Test Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 19:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 20:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

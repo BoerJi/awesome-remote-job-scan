@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3079</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -26,7 +26,6 @@
 | 企业现场营销师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
 | 前沿代理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | 销售赋能负责人，GTM入职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | 战略增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
 | 研究实习生，模型塑造（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 | 研究实习生，模型塑造（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
@@ -42,6 +41,7 @@
 | 前沿代理研究员实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
 | 软件工程师，应届生（2027） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
 | 软件工程师实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
+| 软件测试开发实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 19:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 20:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
