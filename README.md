@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3043</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3052</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
+| 区块链质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
+| 工程经理，质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
+| 基础设施DevOps工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16534/devops-engineer-infra/) |
+| DevOps工程师，云基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16533/devops-engineer-cloud-infra/) |
+| 后端工程师，Spot | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16528/backend-engineer-spot/) |
+| 安卓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16526/android-engineer/) |
+| 安卓工程师（C++） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16527/android-engineer-c/) |
 | 商业（营销）副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
 | 供应商安全与保证，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
 | 实验室工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16522/engineering-manager-labs/) |
@@ -35,14 +43,6 @@
 | 公共部门技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
 | 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16508/software-engineer-agentic-infrastructure/) |
 | 无障碍支持合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
-| 人事运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15944/people-operations-specialist/) |
-| 全球市场策略、运营与分析负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16498/head-of-gtm-strategy-ops-analytics/) |
-| 支付欺诈Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9679/staff-software-engineer-payment-fraud/) |
-| Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| 数据平台技术专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/member-of-the-technical-staff-data-platform/) |
-| 平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
-| 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16341/design-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
