@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3050</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3051</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 | 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
 | 区块链质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
 | 工程经理，质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
@@ -41,8 +42,6 @@
 | 投行领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16514/subject-matter-expert-investment-banking/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | 公共部门技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
-| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16508/software-engineer-agentic-infrastructure/) |
-| 无障碍支持合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

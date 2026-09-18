@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3050</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3051</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/16537/site-reliability-engineer/) |
 | QA Engineer, Blockchain | Remote | [View →](https://www.remotejobscan.com/job/16536/qa-engineer-blockchain/) |
 | Engineering Manager, QA | Remote | [View →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
@@ -41,8 +42,6 @@
 | Subject Matter Expert, Investment Banking | Hybrid | [View →](https://www.remotejobscan.com/job/16514/subject-matter-expert-investment-banking/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | Technical Program Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
-| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/16508/software-engineer-agentic-infrastructure/) |
-| Accommodations Partner | On-site | [View →](https://www.remotejobscan.com/job/16467/accommodations-partner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
