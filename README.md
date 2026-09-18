@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3083</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3088</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
+| 企业销售发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
+| 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
+| 产品经理，安全访问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16603/product-manager-safe-access/) |
+| 产品管理实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
+| 公共部门技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
+| 技术客户成功经理（战略） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech-strategics/) |
 | 数据中心财务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16598/head-of-finance-data-centers/) |
 | 前沿代理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | 全球交通项目高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
+| 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 | 规模化赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
 | Staff+ 软件工程师，存储与传输 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
 | 国际营销主管，中小企业广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
 | 数据中心安全交付负责人（建设至运营） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16595/lead-data-center-security-delivery-construction-to-operations/) |
-| 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | 技术计算资格经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| 高级软件工程师，代理验证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
 | 企业现场营销师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
 | 销售赋能负责人，GTM入职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
 | 战略增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
-| 研究实习生，模型塑造（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
-| 研究实习生，模型塑造（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| 人力资源运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16590/people-operations-associate/) |
-| 增长基础工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16591/engineering-manager-growth-foundations/) |
-| 高级软件工程师 - React Native - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
-| 系统研究工程师实习生 - GPU编程（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
-| 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

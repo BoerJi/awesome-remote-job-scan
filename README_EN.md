@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3083</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3088</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
+| Sales Leader, Sales Development, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
+| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
+| Product Manager, Safe Access | On-site | [View →](https://www.remotejobscan.com/job/16603/product-manager-safe-access/) |
+| Product Management Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
+| Technical Program Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
+| Customer Success Manager, Tech (Strategics) | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech-strategics/) |
 | Head of Finance - Data Centers | Hybrid | [View →](https://www.remotejobscan.com/job/16598/head-of-finance-data-centers/) |
 | Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | Global Transportation Programs, Senior Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
+| Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 | Scaled Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
 | Staff+ Software Engineer, Storage + Transfer | On-site | [View →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
 | International Marketing Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/16599/international-marketing-lead-smb-ads/) |
 | Lead, Data Center Security Delivery (Construction to Operations) | Remote | [View →](https://www.remotejobscan.com/job/16595/lead-data-center-security-delivery-construction-to-operations/) |
-| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | Technical Compute Qualification Manager | On-site | [View →](https://www.remotejobscan.com/job/11339/technical-compute-qualification-manager/) |
+| Senior Software Engineer, Agent Verification | Remote | [View →](https://www.remotejobscan.com/job/15444/senior-software-engineer-agent-verification/) |
 | Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/16594/enterprise-field-marketer/) |
 | Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
 | Strategic Growth Account Executive | On-site | [View →](https://www.remotejobscan.com/job/16473/strategic-growth-account-executive/) |
-| Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
-| Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| People Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/16590/people-operations-associate/) |
-| Engineering Manager – Growth Foundations | Remote | [View →](https://www.remotejobscan.com/job/16591/engineering-manager-growth-foundations/) |
-| Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
-| Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
-| Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
