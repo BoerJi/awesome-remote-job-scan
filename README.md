@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3083</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3084</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,15 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 前沿代理研究员实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
-| 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
+| 高级软件工程师 - React Native - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
 | 系统研究工程师实习生 - GPU编程（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
+| 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
+| 软件工程师实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
+| 向前部署工程师 (FDE)，金融服务-纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16589/forward-deployed-engineer-fde-financial-services-nyc/) |
+| 客户协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16587/account-coordinator/) |
+| 战略追求主管，营收运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
+| 前沿代理研究员实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
 | 软件工程师，应届生（2027） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
 | 软件工程师实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
-| 软件工程师实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
 | 软件测试开发实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
-| 模型塑造研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| 模型塑造研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 | 推理研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
 | 推理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
 | 区块链金融犯罪调查员，保加利亚 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16586/blockchain-investigator-financial-crimes-bulgaria/) |
@@ -41,8 +43,6 @@
 | 广告解决方案客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16572/customer-success-manager-ads-solutions/) |
 | 副总法律顾问 - 亚洲太平洋、中东及非洲地区诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 副总法律顾问 - 诉讼与调查，亚太、中东及非洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
-| 技术团队成员（搜索核心、索引与数据管道流） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16566/member-of-technical-staff-search-core-indexing-data-pipeline-stream/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

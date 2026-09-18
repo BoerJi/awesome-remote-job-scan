@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3083</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,15 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Research Intern, Frontier Agents (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
-| Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
+| Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/16588/senior-software-engineer-react-native-consumer/) |
 | Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
+| Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
+| Software Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
+| Forward Deployed Engineer (FDE), Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16589/forward-deployed-engineer-fde-financial-services-nyc/) |
+| Account Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/16587/account-coordinator/) |
+| Strategic Pursuits Lead, RevOps | On-site | [View →](https://www.remotejobscan.com/job/15784/strategic-pursuits-lead-revops/) |
+| Research Intern, Frontier Agents (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
 | Software Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
 | Software Engineer Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
-| Software Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
 | Software Development In Test Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
-| Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 | Research Intern, Inference (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
 | Research Intern, Inference (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
 | Blockchain Investigator, Financial Crimes, Bulgaria | Hybrid | [View →](https://www.remotejobscan.com/job/16586/blockchain-investigator-financial-crimes-bulgaria/) |
@@ -40,8 +42,6 @@
 | Supplier Security & Assurance, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
 | Customer Success Manager - Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/16572/customer-success-manager-ads-solutions/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
-| Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream) | On-site | [View →](https://www.remotejobscan.com/job/16566/member-of-technical-staff-search-core-indexing-data-pipeline-stream/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
