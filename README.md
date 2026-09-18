@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3053</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3058</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规与许可律师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
+| 专家/人工智能总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
+| 税务申报高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16546/tax-reporting-senior-manager/) |
+| 税务报告高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15987/tax-reporting-senior-manager/) |
+| Perplexity研究奖学金 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | 高级站点可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
 | Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 | 高级/资深Java工程师 - Web3钱包DeFi收益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9093/seniorstaff-java-engineer-web3-wallet-defi-earn/) |
@@ -36,11 +41,6 @@
 | 工程经理，质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
 | 基础设施DevOps工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16534/devops-engineer-infra/) |
 | DevOps工程师，云基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16533/devops-engineer-cloud-infra/) |
-| 后端工程师，Spot | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16528/backend-engineer-spot/) |
-| 安卓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16526/android-engineer/) |
-| 安卓工程师（C++） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16527/android-engineer-c/) |
-| 商业（营销）副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
-| 供应商安全与保证，安全GRC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-18 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

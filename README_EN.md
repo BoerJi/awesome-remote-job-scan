@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3053</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
+| Expert / Director of AI | On-site | [View →](https://www.remotejobscan.com/job/9164/expert-director-of-ai/) |
+| Tax Reporting Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/16546/tax-reporting-senior-manager/) |
+| Perplexity Research Fellowship | On-site | [View →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | Staff Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16548/staff-site-reliability-engineer/) |
 | Senior Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/16547/senior-site-reliability-engineer/) |
 | Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
@@ -36,11 +40,6 @@
 | Engineering Manager, QA | Remote | [View →](https://www.remotejobscan.com/job/16535/engineering-manager-qa/) |
 | DevOps Engineer, Infra | Remote | [View →](https://www.remotejobscan.com/job/16534/devops-engineer-infra/) |
 | DevOps Engineer, Cloud Infra | Remote | [View →](https://www.remotejobscan.com/job/16533/devops-engineer-cloud-infra/) |
-| Backend Engineer, Spot | Remote | [View →](https://www.remotejobscan.com/job/16528/backend-engineer-spot/) |
-| Android Engineer | Remote | [View →](https://www.remotejobscan.com/job/16526/android-engineer/) |
-| Android Engineer (C++) | Remote | [View →](https://www.remotejobscan.com/job/16527/android-engineer-c/) |
-| Deputy General Counsel, Commercial (Marketing) | Hybrid | [View →](https://www.remotejobscan.com/job/16525/deputy-general-counsel-commercial-marketing/) |
-| Supplier Security & Assurance, Security GRC | Remote | [View →](https://www.remotejobscan.com/job/16524/supplier-security-assurance-security-grc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-18 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
