@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | 多模态安全模型政策经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16631/model-policy-manager-multimodal-safety/) |
 | 国家安全模型政策经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16632/model-policy-manager-national-security/) |
 | 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
@@ -42,7 +43,6 @@
 | 产品经理，安全访问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16603/product-manager-safe-access/) |
 | 产品管理实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
 | 公共部门技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
-| 技术客户成功经理（战略） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech-strategics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
