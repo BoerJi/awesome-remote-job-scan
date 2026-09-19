@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,9 +31,6 @@
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | 多模态安全模型政策经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16631/model-policy-manager-multimodal-safety/) |
 | 国家安全模型政策经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16632/model-policy-manager-national-security/) |
-| 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
-| 初创企业业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
-| AI产品技术专家（初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

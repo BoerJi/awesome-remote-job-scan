@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,9 +31,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Model Policy Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/16631/model-policy-manager-multimodal-safety/) |
 | Model Policy Manager, National Security | On-site | [View →](https://www.remotejobscan.com/job/16632/model-policy-manager-national-security/) |
-| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
-| Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
-| Member of Technical Staff, AI Products (Early Career) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
