@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3097</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Model Policy Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/16631/model-policy-manager-multimodal-safety/) |
 | Model Policy Manager, National Security | On-site | [View →](https://www.remotejobscan.com/job/16632/model-policy-manager-national-security/) |
@@ -42,7 +43,6 @@
 | Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | Product Manager, Safe Access | On-site | [View →](https://www.remotejobscan.com/job/16603/product-manager-safe-access/) |
 | Product Management Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
-| Technical Program Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16510/technical-program-manager-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
