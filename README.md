@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3089</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3093</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
+| 初创企业业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
+| AI产品技术专家（初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 | 公共部门客户成功经理（国家安全） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
 | 高级执行沟通制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
 | 产品参与专员，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
@@ -40,9 +43,6 @@
 | 技术客户成功经理（战略） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech-strategics/) |
 | 数据中心财务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16598/head-of-finance-data-centers/) |
 | 前沿代理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
-| 全球交通项目高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
-| 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
-| 规模化赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

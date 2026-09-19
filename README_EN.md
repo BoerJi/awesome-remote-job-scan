@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
+| Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
+| Member of Technical Staff, AI Products (Early Career) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 | Customer Success Manager, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
 | Executive Producer, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
 | Product Engagement Specialist, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
@@ -40,9 +43,6 @@
 | Customer Success Manager, Tech (Strategics) | On-site | [View →](https://www.remotejobscan.com/job/13711/customer-success-manager-tech-strategics/) |
 | Head of Finance - Data Centers | Hybrid | [View →](https://www.remotejobscan.com/job/16598/head-of-finance-data-centers/) |
 | Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
-| Global Transportation Programs, Senior Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16600/global-transportation-programs-senior-manager/) |
-| Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
-| Scaled Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/16596/scaled-enablement-programs-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
