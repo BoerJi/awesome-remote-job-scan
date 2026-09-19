@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Solana Staking Protocol | Remote | [View →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
 | Finance Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Model Policy Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/16631/model-policy-manager-multimodal-safety/) |
@@ -42,7 +43,6 @@
 | Sales Leader, Sales Development, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
 | Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 | Product Manager, Safe Access | On-site | [View →](https://www.remotejobscan.com/job/16603/product-manager-safe-access/) |
-| Product Management Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
