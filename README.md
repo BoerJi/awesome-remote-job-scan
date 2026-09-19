@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -35,12 +35,6 @@
 | AI产品技术专家（初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 | 公共部门客户成功经理（国家安全） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
 | 高级执行沟通制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
-| 产品参与专员，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
-| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Claude平台（API）财务与战略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16606/finance-strategy-lead-claude-platform-api/) |
-| 消费者支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16608/consumer-support-specialist/) |
-| 企业金融与战略、现金流预测 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

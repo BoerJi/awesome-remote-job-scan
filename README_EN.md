@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,12 +35,6 @@
 | Member of Technical Staff, AI Products (Early Career) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 | Customer Success Manager, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
 | Executive Producer, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
-| Product Engagement Specialist, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/16607/product-engagement-specialist-user-operations/) |
-| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Finance & Strategy Lead, Claude Platform (API) | On-site | [View →](https://www.remotejobscan.com/job/16606/finance-strategy-lead-claude-platform-api/) |
-| Consumer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16608/consumer-support-specialist/) |
-| Corporate Finance & Strategy, Cash Flow Forecasting | On-site | [View →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
