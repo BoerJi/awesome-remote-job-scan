@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,7 +34,6 @@
 | Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
 | Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
 | Member of Technical Staff, AI Products (Early Career) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
-| Customer Success Manager, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
