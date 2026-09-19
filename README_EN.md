@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | Product Manager, Safeguards (Account Integrity & Abuse) | On-site | [View →](https://www.remotejobscan.com/job/16639/product-manager-safeguards-account-integrity-abuse/) |
 | Staff Software Engineer, Solana Staking Protocol | Remote | [View →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
 | Finance Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
@@ -42,7 +43,6 @@
 | Corporate Finance & Strategy, Cash Flow Forecasting | On-site | [View →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
 | Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
 | Sales Leader, Sales Development, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
-| Senior Manager, Security Audit | Remote | [View →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

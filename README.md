@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | 产品经理，安全防护（账户完整性与滥用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16639/product-manager-safeguards-account-integrity-abuse/) |
 | Solana Staking 协议 团队 资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
 | 财务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
@@ -42,7 +43,6 @@
 | 企业金融与战略、现金流预测 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
 | 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
 | 企业销售发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
-| 高级安全审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9266/senior-manager-security-audit/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
