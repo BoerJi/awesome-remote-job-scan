@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3101</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | Product Manager, Safeguards (Account Integrity & Abuse) | On-site | [View →](https://www.remotejobscan.com/job/16639/product-manager-safeguards-account-integrity-abuse/) |
 | Staff Software Engineer, Solana Staking Protocol | Remote | [View →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
@@ -34,7 +35,6 @@
 | Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
 | Member of Technical Staff, AI Products (Early Career) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 | Customer Success Manager, Public Sector (National Security) | On-site | [View →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
-| Executive Producer, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3100</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3101</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算与基础设施顾问，房地产 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | 产品经理，安全防护（账户完整性与滥用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16639/product-manager-safeguards-account-integrity-abuse/) |
 | Solana Staking 协议 团队 资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
@@ -34,7 +35,6 @@
 | 初创企业业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16616/business-development-representative-startups/) |
 | AI产品技术专家（初级） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career/) |
 | 公共部门客户成功经理（国家安全） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16615/customer-success-manager-public-sector-national-security/) |
-| 高级执行沟通制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16614/executive-producer-executive-communications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
