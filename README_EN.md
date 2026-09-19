@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,8 +41,6 @@
 | Finance & Strategy Lead, Claude Platform (API) | On-site | [View →](https://www.remotejobscan.com/job/16606/finance-strategy-lead-claude-platform-api/) |
 | Consumer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16608/consumer-support-specialist/) |
 | Corporate Finance & Strategy, Cash Flow Forecasting | On-site | [View →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
-| Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
-| Sales Leader, Sales Development, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 20:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-19 21:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

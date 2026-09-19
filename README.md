@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -41,8 +41,6 @@
 | Claude平台（API）财务与战略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16606/finance-strategy-lead-claude-platform-api/) |
 | 消费者支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16608/consumer-support-specialist/) |
 | 企业金融与战略、现金流预测 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16605/corporate-finance-strategy-cash-flow-forecasting/) |
-| 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
-| 企业销售发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16604/sales-leader-sales-development-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 20:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-19 21:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
