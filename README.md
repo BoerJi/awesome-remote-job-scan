@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3100</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3101</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级增长经理 - 生命周期与产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16655/senior-growth-manager-lifecycle-product/) |
 | 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | API BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
 | AI产品技术专家（早期职业-行业） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
@@ -32,7 +33,6 @@
 | 安全技术部署专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16641/security-technology-deployment-specialist/) |
 | 计算与基础设施顾问，房地产 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
-| Solana Staking 协议 团队 资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-20 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-20 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3101</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Growth Manager - Lifecycle & Product | On-site | [View →](https://www.remotejobscan.com/job/16655/senior-growth-manager-lifecycle-product/) |
 | Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | API BD Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
 | Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
@@ -32,7 +33,6 @@
 | Security Technology Deployment Specialist | Remote | [View →](https://www.remotejobscan.com/job/16641/security-technology-deployment-specialist/) |
 | Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
-| Staff Software Engineer, Solana Staking Protocol | Remote | [View →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
