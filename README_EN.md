@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,7 +35,6 @@
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/16650/head-of-strategic-institutions/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | Security Technology Deployment Specialist | Remote | [View →](https://www.remotejobscan.com/job/16641/security-technology-deployment-specialist/) |
-| Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
