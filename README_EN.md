@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Perplexity Research Fellowship | On-site | [View →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
 | Head of Strategic Institutions | Remote | [View →](https://www.remotejobscan.com/job/16650/head-of-strategic-institutions/) |
 | Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

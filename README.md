@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Perplexity研究奖学金 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 | AI产品技术专家（早期职业-行业） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
 | 战略机构负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16650/head-of-strategic-institutions/) |
 | Client Operations & Support 用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-20 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-20 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
