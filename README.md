@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,7 +31,6 @@
 | 计算与基础设施顾问，房地产 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | Solana Staking 协议 团队 资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
-| 财务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-20 07:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-20 08:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
