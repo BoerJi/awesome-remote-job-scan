@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Revenue Enablement Program Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/16662/revenue-enablement-program-manager-emea/) |
 | Senior Growth Manager - Lifecycle & Product | On-site | [View →](https://www.remotejobscan.com/job/16655/senior-growth-manager-lifecycle-product/) |
 | Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | API BD Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
@@ -95,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
