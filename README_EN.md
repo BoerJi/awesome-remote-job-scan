@@ -14,24 +14,22 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3102</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Client Operations & Support 用户运营 | Remote | [View →](https://www.remotejobscan.com/job/12985/client-operations-support/) |
 | Security Technology Deployment Specialist | Remote | [View →](https://www.remotejobscan.com/job/16641/security-technology-deployment-specialist/) |
 | Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
-| Product Manager, Safeguards (Account Integrity & Abuse) | On-site | [View →](https://www.remotejobscan.com/job/16639/product-manager-safeguards-account-integrity-abuse/) |
 | Staff Software Engineer, Solana Staking Protocol | Remote | [View →](https://www.remotejobscan.com/job/9329/staff-software-engineer-solana-staking-protocol/) |
 | Finance Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/finance-operations-intern/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| Model Policy Manager, Multimodal Safety | On-site | [View →](https://www.remotejobscan.com/job/16631/model-policy-manager-multimodal-safety/) |
-| Model Policy Manager, National Security | On-site | [View →](https://www.remotejobscan.com/job/16632/model-policy-manager-national-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-20 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
