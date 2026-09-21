@@ -19,10 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Key Account VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
+| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | Senior Software Engineer, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
 | Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

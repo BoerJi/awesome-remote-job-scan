@@ -19,10 +19,12 @@
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 关键客户VIP业务发展经理（全球） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
+| 定价Staff应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | 高级软件工程师，稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
 | 支付合作业务拓展（数字银行） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
