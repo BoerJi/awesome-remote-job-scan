@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3082</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3077</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Partnerships Manager, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
+| Strategic Partnerships Manager, France | Hybrid | [View →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
+| Software Engineer, Plugin Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/16715/software-engineer-plugin-ecosystem/) |
 | Staff Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
+| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
+| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
 | Manager, Applied AI Architects | On-site | [View →](https://www.remotejobscan.com/job/16707/manager-applied-ai-architects/) |
@@ -38,11 +43,6 @@
 | Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/16693/public-sector-sales-lead/) |
 | MLRO/Deputy MLRO (Dubai) | Hybrid | [View →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
 | Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/16691/senior-partner-sales-manager-systems-integrators-emea-north/) |
-| Marketing Manager- APAC | Remote | [View →](https://www.remotejobscan.com/job/15768/marketing-manager-apac/) |
-| KOL BD Manager- Germany | Remote | [View →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
-| Affiliate BD | On-site | [View →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
-| Earn Institutional & Growth Lead | Remote | [View →](https://www.remotejobscan.com/job/16688/earn-institutional-growth-lead/) |
-| Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

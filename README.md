@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3082</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3077</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 德国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
+| 法国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
+| 插件生态系统软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16715/software-engineer-plugin-ecosystem/) |
 | 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
+| 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
+| 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
 | 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16707/manager-applied-ai-architects/) |
@@ -38,11 +43,6 @@
 | 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16693/public-sector-sales-lead/) |
 | MLRO/副MLRO（迪拜） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
 | 高级合作伙伴销售经理，系统集成商 - 欧美非及北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16691/senior-partner-sales-manager-systems-integrators-emea-north/) |
-| 亚太区市场经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15768/marketing-manager-apac/) |
-| 德国KOL BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
-| 联盟商务拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
-| 赚取机构与增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16688/earn-institutional-growth-lead/) |
-| 关键客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
