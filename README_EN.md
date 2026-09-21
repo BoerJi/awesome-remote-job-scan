@@ -14,16 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3088</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| Key Account VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
+| Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| Software Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16680/software-engineer-beneficial-deployments/) |
 | Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
 | VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | Senior Software Engineer, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
