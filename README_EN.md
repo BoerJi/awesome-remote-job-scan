@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3076</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Enterprise Identity | Hybrid | [View →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
+| Payroll Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
+| Account Director, Insurance | Hybrid | [View →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
+| [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | Partner Solutions Engineer, Ads Solutions - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/16734/partner-solutions-engineer-ads-solutions-san-francisco/) |
 | Solutions Engineer, Ads Solutions - San Francisco | Hybrid | [View →](https://www.remotejobscan.com/job/16733/solutions-engineer-ads-solutions-san-francisco/) |
+| Director of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-professional-services/) |
 | Forward Deployed Engineer - UAE | Hybrid | [View →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
 | Staff+ Site Reliability Engineer, Safeguards ML Infra | On-site | [View →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
@@ -37,12 +43,6 @@
 | Staff Product Security Engineer (Security) | Remote | [View →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
 | Staff Engineer, Full Stack (Trust, Safety & Risk) | Remote | [View →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
 | Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
-| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| Accounting Manager, Global Entities & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/16720/accounting-manager-global-entities-intercompany/) |
-| Demo Experience Engineer, Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/16724/demo-experience-engineer-technical-success/) |
-| Enterprise Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16725/enterprise-customer-support-specialist/) |
-| Operating Systems Engineer, On-Device Inference | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16721/operating-systems-engineer-on-device-inference-consumer-devices/) |
-| Operating Systems Engineer, Linux Kernel | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

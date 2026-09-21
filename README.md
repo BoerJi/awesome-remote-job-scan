@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3076</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业身份产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
+| 薪酬分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
+| 保险行业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
+| [初级/中级/高级] 软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | 合作伙伴解决方案工程师，广告解决方案 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16734/partner-solutions-engineer-ads-solutions-san-francisco/) |
 | 广告解决方案解决方案工程师 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16733/solutions-engineer-ads-solutions-san-francisco/) |
+| 专业服务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-professional-services/) |
 | 阿联酋前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
 | Staff+ 网站可靠性工程师，安全 ML 基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
@@ -37,12 +43,6 @@
 | 高级产品安全工程师（安全） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
 | 高级全栈工程师（信任、安全与风控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
 | 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
-| 产品营销主管，GTM策略 - Claude知识工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
-| 全球实体与内部公司会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16720/accounting-manager-global-entities-intercompany/) |
-| 演示体验工程师，技术成功 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16724/demo-experience-engineer-technical-success/) |
-| 企业客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16725/enterprise-customer-support-specialist/) |
-| 消费设备 | 设备端推理操作系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16721/operating-systems-engineer-on-device-inference-consumer-devices/) |
-| 操作系统工程师，Linux 内核 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
