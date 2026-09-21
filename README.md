@@ -23,12 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
+| Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16707/manager-applied-ai-architects/) |
 | 高级首席，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
 | 投资/交易产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
 | WFM客户体验运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
 | 高级软件工程师，智能商务与支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16702/staff-software-engineer-agentic-commerce-payments/) |
 | 高级资金分析师 – 衍生品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16701/senior-treasury-analyst-derivatives/) |
 | 前端业务工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6837/frontend-business-engineering-director/) |
+| 高级财务报告经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16705/senior-manager-financial-reporting/) |
 | AI SDK软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
 | 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16693/public-sector-sales-lead/) |
 | MLRO/副MLRO（迪拜） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
@@ -38,11 +43,6 @@
 | 联盟商务拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
 | 赚取机构与增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16688/earn-institutional-growth-lead/) |
 | 关键客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
-| 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
-| 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15762/regional-affiliate-specialist/) |
-| 匈牙利业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
-| PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

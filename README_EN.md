@@ -23,12 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
+| Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| Manager, Applied AI Architects | On-site | [View →](https://www.remotejobscan.com/job/16707/manager-applied-ai-architects/) |
 | Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
 | Product Manager, Invest / Trade | On-site | [View →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
 | Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
 | Staff Software Engineer, Agentic Commerce & Payments | Hybrid | [View →](https://www.remotejobscan.com/job/16702/staff-software-engineer-agentic-commerce-payments/) |
 | Senior Treasury Analyst – Derivatives | Hybrid | [View →](https://www.remotejobscan.com/job/16701/senior-treasury-analyst-derivatives/) |
 | Frontend Business Engineering Director | On-site | [View →](https://www.remotejobscan.com/job/6837/frontend-business-engineering-director/) |
+| Senior Manager, Financial Reporting | Hybrid | [View →](https://www.remotejobscan.com/job/16705/senior-manager-financial-reporting/) |
 | Software Engineer, AI SDK | Hybrid | [View →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
 | Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/16693/public-sector-sales-lead/) |
 | MLRO/Deputy MLRO (Dubai) | Hybrid | [View →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
@@ -38,11 +43,6 @@
 | Affiliate BD | On-site | [View →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
 | Earn Institutional & Growth Lead | Remote | [View →](https://www.remotejobscan.com/job/16688/earn-institutional-growth-lead/) |
 | Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
-| Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
-| Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15762/regional-affiliate-specialist/) |
-| Business Development Manager - Hungary | On-site | [View →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
-| PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/16455/applied-ai-architect-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
