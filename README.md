@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3077</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3084</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品安全工程师（安全） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
+| 高级全栈工程师（信任、安全与风控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
+| 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
+| 产品营销主管，GTM策略 - Claude知识工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| 全球实体与内部公司会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16720/accounting-manager-global-entities-intercompany/) |
+| 演示体验工程师，技术成功 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16724/demo-experience-engineer-technical-success/) |
+| 企业客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16725/enterprise-customer-support-specialist/) |
+| 消费设备 | 设备端推理操作系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16721/operating-systems-engineer-on-device-inference-consumer-devices/) |
+| 操作系统工程师，Linux 内核 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
+| 操作系统工程师，连接性与网络 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16722/operating-systems-engineer-connectivity-networking-consumer-devices/) |
+| 高级经理，IT SOX | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16719/senior-manager-it-sox/) |
+| 企业金融与战略、战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16718/corporate-finance-strategy-strategic-transactions/) |
 | 德国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
 | 法国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
+| 客户成功 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16682/customer-success/) |
 | 插件生态系统软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16715/software-engineer-plugin-ecosystem/) |
 | 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
 | 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
 | 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
-| 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16707/manager-applied-ai-architects/) |
-| 高级首席，机构销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
-| 投资/交易产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
-| WFM客户体验运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
-| 高级软件工程师，智能商务与支付 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16702/staff-software-engineer-agentic-commerce-payments/) |
-| 高级资金分析师 – 衍生品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16701/senior-treasury-analyst-derivatives/) |
-| 前端业务工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6837/frontend-business-engineering-director/) |
-| 高级财务报告经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16705/senior-manager-financial-reporting/) |
-| AI SDK软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
-| 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16693/public-sector-sales-lead/) |
-| MLRO/副MLRO（迪拜） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
-| 高级合作伙伴销售经理，系统集成商 - 欧美非及北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16691/senior-partner-sales-manager-systems-integrators-emea-north/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

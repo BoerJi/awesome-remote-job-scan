@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3077</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Product Security Engineer (Security) | Remote | [View →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
+| Staff Engineer, Full Stack (Trust, Safety & Risk) | Remote | [View →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
+| Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
+| Product Marketing Lead, GTM Strategy - Claude for Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/16124/product-marketing-lead-gtm-strategy-claude-for-knowledge-work/) |
+| Accounting Manager, Global Entities & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/16720/accounting-manager-global-entities-intercompany/) |
+| Demo Experience Engineer, Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/16724/demo-experience-engineer-technical-success/) |
+| Enterprise Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16725/enterprise-customer-support-specialist/) |
+| Operating Systems Engineer, On-Device Inference | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16721/operating-systems-engineer-on-device-inference-consumer-devices/) |
+| Operating Systems Engineer, Linux Kernel | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
+| Operating Systems Engineer, Connectivity & Networking | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16722/operating-systems-engineer-connectivity-networking-consumer-devices/) |
+| Senior Manager, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/senior-manager-it-sox/) |
+| Corporate Finance & Strategy, Strategic Transactions | On-site | [View →](https://www.remotejobscan.com/job/16718/corporate-finance-strategy-strategic-transactions/) |
 | Strategic Partnerships Manager, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
 | Strategic Partnerships Manager, France | Hybrid | [View →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
+| Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16682/customer-success/) |
 | Software Engineer, Plugin Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/16715/software-engineer-plugin-ecosystem/) |
 | Staff Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
 | Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
 | Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
-| Manager, Applied AI Architects | On-site | [View →](https://www.remotejobscan.com/job/16707/manager-applied-ai-architects/) |
-| Senior Principal, Institutional Sales | On-site | [View →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
-| Product Manager, Invest / Trade | On-site | [View →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
-| Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
-| Staff Software Engineer, Agentic Commerce & Payments | Hybrid | [View →](https://www.remotejobscan.com/job/16702/staff-software-engineer-agentic-commerce-payments/) |
-| Senior Treasury Analyst – Derivatives | Hybrid | [View →](https://www.remotejobscan.com/job/16701/senior-treasury-analyst-derivatives/) |
-| Frontend Business Engineering Director | On-site | [View →](https://www.remotejobscan.com/job/6837/frontend-business-engineering-director/) |
-| Senior Manager, Financial Reporting | Hybrid | [View →](https://www.remotejobscan.com/job/16705/senior-manager-financial-reporting/) |
-| Software Engineer, AI SDK | Hybrid | [View →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
-| Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/16693/public-sector-sales-lead/) |
-| MLRO/Deputy MLRO (Dubai) | Hybrid | [View →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
-| Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/16691/senior-partner-sales-manager-systems-integrators-emea-north/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
