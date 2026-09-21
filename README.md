@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3084</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业通信产品负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
+| 机器学习工程师，Monetization AI/ML | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16729/machine-learning-engineer-monetization-aiml/) |
+| 高级产品政策主管，监管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16728/senior-product-policy-lead-regulation/) |
+| 受监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
+| 产品设计师II，设计系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
+| 高级机器学习平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
 | 高级产品安全工程师（安全） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
 | 高级全栈工程师（信任、安全与风控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
 | 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
@@ -37,12 +43,6 @@
 | 企业金融与战略、战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16718/corporate-finance-strategy-strategic-transactions/) |
 | 德国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
 | 法国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
-| 客户成功 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16682/customer-success/) |
-| 插件生态系统软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16715/software-engineer-plugin-ecosystem/) |
-| 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
-| 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
-| Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

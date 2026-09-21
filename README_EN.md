@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Communications Lead, Product | Hybrid | [View →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
+| Machine Learning Engineer, Monetization AI/ML | On-site | [View →](https://www.remotejobscan.com/job/16729/machine-learning-engineer-monetization-aiml/) |
+| Senior Product Policy Lead, Regulation | Hybrid | [View →](https://www.remotejobscan.com/job/16728/senior-product-policy-lead-regulation/) |
+| Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
+| Product Designer II, Design Systems | Remote | [View →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
+| Senior Machine Learning Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
 | Staff Product Security Engineer (Security) | Remote | [View →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
 | Staff Engineer, Full Stack (Trust, Safety & Risk) | Remote | [View →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
 | Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
@@ -37,12 +43,6 @@
 | Corporate Finance & Strategy, Strategic Transactions | On-site | [View →](https://www.remotejobscan.com/job/16718/corporate-finance-strategy-strategic-transactions/) |
 | Strategic Partnerships Manager, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
 | Strategic Partnerships Manager, France | Hybrid | [View →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
-| Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16682/customer-success/) |
-| Software Engineer, Plugin Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/16715/software-engineer-plugin-ecosystem/) |
-| Staff Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
-| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
-| Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
