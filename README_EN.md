@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
+| Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
+| Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
+| Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
 | Software Engineer, AI SDK | Hybrid | [View →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
 | Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | Software Engineer, Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
@@ -95,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
