@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3081</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 阿联酋前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
+| 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
+| Staff+ 网站可靠性工程师，安全 ML 基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | 商业通信产品负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
 | 机器学习工程师，Monetization AI/ML | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16729/machine-learning-engineer-monetization-aiml/) |
 | 高级产品政策主管，监管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16728/senior-product-policy-lead-regulation/) |
@@ -40,9 +43,6 @@
 | 操作系统工程师，Linux 内核 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
 | 操作系统工程师，连接性与网络 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16722/operating-systems-engineer-connectivity-networking-consumer-devices/) |
 | 高级经理，IT SOX | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16719/senior-manager-it-sox/) |
-| 企业金融与战略、战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16718/corporate-finance-strategy-strategic-transactions/) |
-| 德国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
-| 法国战略合作伙伴经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

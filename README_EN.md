@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3081</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer - UAE | Hybrid | [View →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
+| Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
+| Staff+ Site Reliability Engineer, Safeguards ML Infra | On-site | [View →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | Business Communications Lead, Product | Hybrid | [View →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
 | Machine Learning Engineer, Monetization AI/ML | On-site | [View →](https://www.remotejobscan.com/job/16729/machine-learning-engineer-monetization-aiml/) |
 | Senior Product Policy Lead, Regulation | Hybrid | [View →](https://www.remotejobscan.com/job/16728/senior-product-policy-lead-regulation/) |
@@ -40,9 +43,6 @@
 | Operating Systems Engineer, Linux Kernel | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
 | Operating Systems Engineer, Connectivity & Networking | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16722/operating-systems-engineer-connectivity-networking-consumer-devices/) |
 | Senior Manager, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/senior-manager-it-sox/) |
-| Corporate Finance & Strategy, Strategic Transactions | On-site | [View →](https://www.remotejobscan.com/job/16718/corporate-finance-strategy-strategic-transactions/) |
-| Strategic Partnerships Manager, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/16716/strategic-partnerships-manager-germany/) |
-| Strategic Partnerships Manager, France | Hybrid | [View →](https://www.remotejobscan.com/job/16717/strategic-partnerships-manager-france/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
