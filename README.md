@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -41,7 +41,6 @@
 | 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | API BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
 | AI产品技术专家（早期职业-行业） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
-| Perplexity研究奖学金 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 05:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 06:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

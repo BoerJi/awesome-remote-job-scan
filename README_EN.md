@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -40,7 +40,6 @@
 | Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
 | API BD Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
 | Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
-| Perplexity Research Fellowship | On-site | [View →](https://www.remotejobscan.com/job/16549/perplexity-research-fellowship/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 05:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 06:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
