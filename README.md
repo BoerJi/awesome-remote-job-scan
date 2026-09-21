@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3086</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太区 GTM 能力建设负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16684/head-of-apac-gtm-enablement/) |
+| 马耳他反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16681/applied-ai-architect/) |
+| 客户成功 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16682/customer-success/) |
+| 联盟商务拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
+| 高级技术风险架构师，统一交易平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/sr-staff-technical-risk-architect-unified-trading/) |
+| 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
+| 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
+| KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | CFD业务发展经理，东南亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16007/cfd-business-development-manager-sea/) |
 | 核心客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
@@ -34,15 +43,6 @@
 | 技术培训负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | 合规主管/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
 | 合规 Principal / Staff 工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
-| 高级/资深移动软件工程师 - 核心团队（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
-| 高级/首席移动软件工程师，核心（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
-| AI SDK软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
-| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
-| 工作流软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
-| EMEA收入赋能项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16662/revenue-enablement-program-manager-emea/) |
-| 高级增长经理 - 生命周期与产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16655/senior-growth-manager-lifecycle-product/) |
-| 高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
-| API BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

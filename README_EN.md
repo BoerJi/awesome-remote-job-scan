@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3086</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of APAC GTM Enablement | On-site | [View →](https://www.remotejobscan.com/job/16684/head-of-apac-gtm-enablement/) |
+| Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/16681/applied-ai-architect/) |
+| Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16682/customer-success/) |
+| Affiliate BD | On-site | [View →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
+| Sr. Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/sr-staff-technical-risk-architect-unified-trading/) |
+| Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
+| Sr. Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
+| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | CFD Business Development Manager, SEA | Remote | [View →](https://www.remotejobscan.com/job/16007/cfd-business-development-manager-sea/) |
 | Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
@@ -33,15 +42,6 @@
 | Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 | Head of Technical Training | On-site | [View →](https://www.remotejobscan.com/job/15548/head-of-technical-training/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
-| Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
-| Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
-| Software Engineer, AI SDK | Hybrid | [View →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
-| Software Engineer, Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/9807/software-engineer-workflows/) |
-| Revenue Enablement Program Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/16662/revenue-enablement-program-manager-emea/) |
-| Senior Growth Manager - Lifecycle & Product | On-site | [View →](https://www.remotejobscan.com/job/16655/senior-growth-manager-lifecycle-product/) |
-| Senior Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/13967/senior-growth-manager/) |
-| API BD Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-bd-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
