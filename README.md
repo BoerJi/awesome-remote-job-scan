@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3082</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| MLRO/副MLRO（迪拜） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
+| 高级合作伙伴销售经理，系统集成商 - 欧美非及北美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16691/senior-partner-sales-manager-systems-integrators-emea-north/) |
+| 亚太区市场经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15768/marketing-manager-apac/) |
+| 德国KOL BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
+| 联盟商务拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
+| 赚取机构与增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16688/earn-institutional-growth-lead/) |
+| 关键客户VIP业务发展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | 区域合作伙伴专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15762/regional-affiliate-specialist/) |
 | 匈牙利业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
 | PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
@@ -34,14 +42,6 @@
 | 客户成功 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16682/customer-success/) |
 | 高级技术风险架构师，统一交易平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/sr-staff-technical-risk-architect-unified-trading/) |
 | 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
-| 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
-| KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| CFD业务发展经理，东南亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16007/cfd-business-development-manager-sea/) |
-| 软件工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16680/software-engineer-beneficial-deployments/) |
-| 定价Staff应用数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| 高级软件工程师，稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
-| 支付合作业务拓展（数字银行） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-21 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

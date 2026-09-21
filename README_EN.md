@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3082</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| MLRO/Deputy MLRO (Dubai) | Hybrid | [View →](https://www.remotejobscan.com/job/16692/mlrodeputy-mlro-dubai/) |
+| Senior Partner Sales Manager, Systems Integrators - EMEA & North | On-site | [View →](https://www.remotejobscan.com/job/16691/senior-partner-sales-manager-systems-integrators-emea-north/) |
+| Marketing Manager- APAC | Remote | [View →](https://www.remotejobscan.com/job/15768/marketing-manager-apac/) |
+| KOL BD Manager- Germany | Remote | [View →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
+| Affiliate BD | On-site | [View →](https://www.remotejobscan.com/job/6803/affiliate-bd/) |
+| Earn Institutional & Growth Lead | Remote | [View →](https://www.remotejobscan.com/job/16688/earn-institutional-growth-lead/) |
+| Key Account VIP BD | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-bd/) |
+| Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | Regional Affiliate Specialist | Remote | [View →](https://www.remotejobscan.com/job/15762/regional-affiliate-specialist/) |
 | Business Development Manager - Hungary | On-site | [View →](https://www.remotejobscan.com/job/15559/business-development-manager-hungary/) |
 | PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
@@ -34,14 +42,6 @@
 | Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16682/customer-success/) |
 | Sr. Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/sr-staff-technical-risk-architect-unified-trading/) |
 | Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
-| Sr. Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/sr-staff-technical-architect-unified-trading/) |
-| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| CFD Business Development Manager, SEA | Remote | [View →](https://www.remotejobscan.com/job/16007/cfd-business-development-manager-sea/) |
-| Software Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16680/software-engineer-beneficial-deployments/) |
-| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/11655/staff-applied-data-scientist-pricing/) |
-| VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| Senior Software Engineer, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
-| Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-21 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
