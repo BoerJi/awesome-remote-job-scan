@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3105</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
+| Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
+| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
+| Regulatory Operations Analyst, User Safety & Risk Operations | On-site | [View →](https://www.remotejobscan.com/job/16826/regulatory-operations-analyst-user-safety-risk-operations/) |
 | Security Engineer, Detection Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
 | External Affairs, Brussels | On-site | [View →](https://www.remotejobscan.com/job/16824/external-affairs-brussels/) |
 | Global Head of Events | Hybrid | [View →](https://www.remotejobscan.com/job/16825/global-head-of-events/) |
@@ -38,11 +43,6 @@
 | Employee and Workplace Experience Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15803/employee-and-workplace-experience-intern/) |
 | Accelerations Programs Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15813/accelerations-programs-intern/) |
 | Product Manager (HR Technology) Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15806/product-manager-hr-technology-intern/) |
-| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
-| Program Manager, Strategic Futures | Hybrid | [View →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
-| VC Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
-| Research Engineer, Visual Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/9585/research-engineer-visual-knowledge-work/) |
-| Senior Software Engineer, Backend (Institutional - | Remote | [View →](https://www.remotejobscan.com/job/16814/senior-software-engineer-backend-institutional/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

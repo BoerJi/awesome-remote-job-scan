@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3099</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3105</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SOX安全控制保障主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
+| 高级深度内容 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
+| AI科学合作经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
+| 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
+| 监管运营分析师，用户安全与风险运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16826/regulatory-operations-analyst-user-safety-risk-operations/) |
 | 安全工程师，检测响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
 | 布鲁塞尔对外事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16824/external-affairs-brussels/) |
 | 全球活动负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16825/global-head-of-events/) |
@@ -38,11 +43,6 @@
 | 员工与工作场所体验实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15803/employee-and-workplace-experience-intern/) |
 | 加速项目实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15813/accelerations-programs-intern/) |
 | HR技术产品经理实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15806/product-manager-hr-technology-intern/) |
-| 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
-| 战略未来项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15771/program-manager-strategic-futures/) |
-| 风险投资合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
-| 视觉知识工作研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9585/research-engineer-visual-knowledge-work/) |
-| 高级后端软件工程师（机构 - | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16814/senior-software-engineer-backend-institutional/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
