@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3081</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3086</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共云运维高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| 马耳他合规副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16787/deputy-head-of-compliance-malta/) |
+| Kubernetes团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 应用AI工程师，Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16778/applied-ai-engineer-codex/) |
 | 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16771/manager-applied-ai-architect/) |
 | 高级产品经理，交易（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16769/senior-product-manager-trading-cryptocom-app/) |
@@ -34,9 +38,6 @@
 | IT支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
 | 高级GTM招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
 | 马耳他财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/finance-director-malta/) |
-| 市场运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16755/specialist-market-operations/) |
-| 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16756/specialist-market-operations/) |
-| 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

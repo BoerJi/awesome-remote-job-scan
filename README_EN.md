@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3081</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3086</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Deputy Head of Compliance – Malta | On-site | [View →](https://www.remotejobscan.com/job/16787/deputy-head-of-compliance-malta/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Applied AI Engineer, Codex | On-site | [View →](https://www.remotejobscan.com/job/16778/applied-ai-engineer-codex/) |
 | Manager, Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/16771/manager-applied-ai-architect/) |
 | Senior Product Manager, Trading (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/16769/senior-product-manager-trading-cryptocom-app/) |
@@ -34,8 +38,6 @@
 | IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
 | Senior GTM Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
 | Finance Director - Malta | On-site | [View →](https://www.remotejobscan.com/job/16753/finance-director-malta/) |
-| Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16755/specialist-market-operations/) |
-| Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
