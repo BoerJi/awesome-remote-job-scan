@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3094</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全评估工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
+| 亚太区薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14587/director-of-payroll-apac/) |
+| 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
+| 高级软件工程师 - React Native - 业务服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16810/senior-software-engineer-react-native-business-services/) |
+| 前端交易员首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16811/lead-engineer-frontier-traders/) |
+| SAM分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
 | AI for Science 合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | 交易产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
 | 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
@@ -37,12 +43,6 @@
 | 推理/计算基础设施工程高级软件工程师，伦敦或阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
-| 高级副理/经理 - 运营 (美国) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16790/senior-associate-manager-operation-us/) |
-| VIP销售，东南亚（6个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16789/vip-sales-sea-6-months-contract/) |
-| 公共云运维高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| 马耳他合规副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16787/deputy-head-of-compliance-malta/) |
-| Kubernetes团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

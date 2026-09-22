@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3092</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Cyber Evaluations Engineer | Remote | [View →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
+| Director of Payroll, APAC | On-site | [View →](https://www.remotejobscan.com/job/14587/director-of-payroll-apac/) |
+| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
+| Senior Software Engineer - React Native - Business Services | Remote | [View →](https://www.remotejobscan.com/job/16810/senior-software-engineer-react-native-business-services/) |
+| Lead Engineer, Frontier Traders | On-site | [View →](https://www.remotejobscan.com/job/16811/lead-engineer-frontier-traders/) |
+| SAM Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
 | Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
 | Software Engineer, Trading Product | On-site | [View →](https://www.remotejobscan.com/job/11956/software-engineer-trading-product/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
@@ -36,12 +42,6 @@
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
-| Senior Associate/ Manager - Operation (US) | Remote | [View →](https://www.remotejobscan.com/job/16790/senior-associate-manager-operation-us/) |
-| VIP Sales, SEA (6 months contract) | Remote | [View →](https://www.remotejobscan.com/job/16789/vip-sales-sea-6-months-contract/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Deputy Head of Compliance – Malta | On-site | [View →](https://www.remotejobscan.com/job/16787/deputy-head-of-compliance-malta/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
