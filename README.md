@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3081</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3088</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16755/specialist-market-operations/) |
+| 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16756/specialist-market-operations/) |
+| 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
+| [初级 / 中级 / 高级] 软件工程师，推理 / 计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
+| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
+| 税务信息报告实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16752/tax-information-reporting-intern/) |
 | 内部审计分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16751/internal-audit-analytics-intern/) |
 | 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
 | 前沿保障研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16750/research-program-manager-frontier-assurance/) |
@@ -35,14 +42,6 @@
 | GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
 | 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
 | 企业身份产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
-| 薪酬分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
-| 保险行业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
-| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
-| 合作伙伴解决方案工程师，广告解决方案 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16734/partner-solutions-engineer-ads-solutions-san-francisco/) |
-| 广告解决方案解决方案工程师 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16733/solutions-engineer-ads-solutions-san-francisco/) |
-| 专业服务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-professional-services/) |
-| 阿联酋前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
-| 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
