@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3088</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
 | IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
 | Senior GTM Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
 | Finance Director - Malta | On-site | [View →](https://www.remotejobscan.com/job/16753/finance-director-malta/) |
@@ -40,7 +41,6 @@
 | Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 | Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
 | Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
-| Product Manager, Safeguards (Generalist) | On-site | [View →](https://www.remotejobscan.com/job/16740/product-manager-safeguards-generalist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
