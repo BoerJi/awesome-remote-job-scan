@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3110</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3108</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Operations, Reinforcement Learning | On-site | [View →](https://www.remotejobscan.com/job/16840/research-operations-reinforcement-learning/) |
+| Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
+| Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
+| Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
+| Engineering Manager - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/engineering-manager-nextjs/) |
+| Deputy General Counsel, Strategic Partnerships & Institutions | On-site | [View →](https://www.remotejobscan.com/job/16838/deputy-general-counsel-strategic-partnerships-institutions/) |
+| Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
+| IT Audiovisual Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16842/it-audiovisual-operations-engineer/) |
+| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
+| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | Software Engineer, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14432/software-engineer-gtm/) |
 | Software Engineer, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
@@ -33,16 +43,6 @@
 | Sr. Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/16837/sr-workplace-coordinator/) |
 | Security Risk & Compliance, Data Centers & Compute | On-site | [View →](https://www.remotejobscan.com/job/16835/security-risk-compliance-data-centers-compute/) |
 | Fullstack Engineer, Child Safety Tools & Systems | On-site | [View →](https://www.remotejobscan.com/job/16833/fullstack-engineer-child-safety-tools-systems/) |
-| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| Pricing Strategist, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/16832/pricing-strategist-gtm/) |
-| Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
-| Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
-| Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
-| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
-| Regulatory Operations Analyst, User Safety & Risk Operations | On-site | [View →](https://www.remotejobscan.com/job/16826/regulatory-operations-analyst-user-safety-risk-operations/) |
-| Security Engineer, Detection Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
-| External Affairs, Brussels | On-site | [View →](https://www.remotejobscan.com/job/16824/external-affairs-brussels/) |
-| Global Head of Events | Hybrid | [View →](https://www.remotejobscan.com/job/16825/global-head-of-events/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
