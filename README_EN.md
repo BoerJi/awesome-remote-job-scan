@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3112</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3110</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Business Technology Engineering | On-site | [View →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
+| Senior Solutions Engineer - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/16849/senior-solutions-engineer-payward-services/) |
+| Head of Employee Tech & Experience (ETX) | Hybrid | [View →](https://www.remotejobscan.com/job/16851/head-of-employee-tech-experience-etx/) |
+| Manager, Revenue Accounting, Technical (Strategic Commercial Deals) | On-site | [View →](https://www.remotejobscan.com/job/16852/manager-revenue-accounting-technical-strategic-commercial-deals/) |
+| Internal Communications, Research and Product | Hybrid | [View →](https://www.remotejobscan.com/job/16850/internal-communications-research-and-product/) |
 | Research Operations, Reinforcement Learning | On-site | [View →](https://www.remotejobscan.com/job/16840/research-operations-reinforcement-learning/) |
 | Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 | Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
@@ -38,11 +43,6 @@
 | Software Engineer, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
 | Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
 | Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/16834/senior-software-engineer-backend-platform-core-ai-automation/) |
-| Software Engineer, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
-| Lead, Revenue Accounting, Technical | Hybrid | [View →](https://www.remotejobscan.com/job/16836/lead-revenue-accounting-technical/) |
-| Sr. Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/16837/sr-workplace-coordinator/) |
-| Security Risk & Compliance, Data Centers & Compute | On-site | [View →](https://www.remotejobscan.com/job/16835/security-risk-compliance-data-centers-compute/) |
-| Fullstack Engineer, Child Safety Tools & Systems | On-site | [View →](https://www.remotejobscan.com/job/16833/fullstack-engineer-child-safety-tools-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

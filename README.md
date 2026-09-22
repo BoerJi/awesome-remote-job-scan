@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3112</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3110</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业技术工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
+| 高级解决方案工程师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16849/senior-solutions-engineer-payward-services/) |
+| 员工技术与体验负责人（ETX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16851/head-of-employee-tech-experience-etx/) |
+| 收入会计技术经理（战略商业交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16852/manager-revenue-accounting-technical-strategic-commercial-deals/) |
+| 内部沟通、研究与产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16850/internal-communications-research-and-product/) |
 | 研究运营、强化学习 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16840/research-operations-reinforcement-learning/) |
 | 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
 | 软件工程师，智能代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
@@ -38,11 +43,6 @@
 | 金融数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
 | 数据平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
 | 高级软件工程师，后端 - 平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16834/senior-software-engineer-backend-platform-core-ai-automation/) |
-| 内部代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
-| 技术收入会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16836/lead-revenue-accounting-technical/) |
-| 高级工作场所协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16837/sr-workplace-coordinator/) |
-| 安全风险与合规、数据中心与计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16835/security-risk-compliance-data-centers-compute/) |
-| 全栈工程师，儿童安全工具与系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16833/fullstack-engineer-child-safety-tools-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
