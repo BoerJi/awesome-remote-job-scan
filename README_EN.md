@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior QA Engineer (Rust/Java), Margin | Remote | [View →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
+| Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 | Senior Finance Manager, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
 | IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
 | Senior GTM Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
@@ -39,8 +41,6 @@
 | Product Manager, Safeguards (Account Integrity & Abuse) | On-site | [View →](https://www.remotejobscan.com/job/16743/product-manager-safeguards-account-integrity-abuse/) |
 | Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
 | Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
-| Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
-| Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
