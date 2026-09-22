@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3088</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
+| Senior GTM Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
+| Finance Director - Malta | On-site | [View →](https://www.remotejobscan.com/job/16753/finance-director-malta/) |
 | Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16755/specialist-market-operations/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
 | [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -38,9 +41,6 @@
 | Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
 | Product Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
 | Product Manager, Safeguards (Generalist) | On-site | [View →](https://www.remotejobscan.com/job/16740/product-manager-safeguards-generalist/) |
-| GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
-| Senior Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
-| Product Manager, Enterprise Identity | Hybrid | [View →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
