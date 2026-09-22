@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3094</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3083</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师，Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16778/applied-ai-engineer-codex/) |
 | 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16771/manager-applied-ai-architect/) |
 | 高级产品经理，交易（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16769/senior-product-manager-trading-cryptocom-app/) |
 | 增长经理（台湾） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16763/growth-manager-taiwan/) |
@@ -36,7 +37,6 @@
 | 市场运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16755/specialist-market-operations/) |
 | 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16756/specialist-market-operations/) |
 | 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
-| [初级 / 中级 / 高级] 软件工程师，推理 / 计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
