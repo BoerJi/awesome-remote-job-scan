@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3076</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理，安全防护（通用型） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16740/product-manager-safeguards-generalist/) |
+| GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
+| 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
 | 企业身份产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
 | 薪酬分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
 | 保险行业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
@@ -40,9 +43,6 @@
 | 受监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
 | 产品设计师II，设计系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
 | 高级机器学习平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
-| 高级产品安全工程师（安全） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
-| 高级全栈工程师（信任、安全与风控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
-| 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

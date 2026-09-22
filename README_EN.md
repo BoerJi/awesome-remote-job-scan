@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3076</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Safeguards (Generalist) | On-site | [View →](https://www.remotejobscan.com/job/16740/product-manager-safeguards-generalist/) |
+| GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
+| Senior Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
 | Product Manager, Enterprise Identity | Hybrid | [View →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
 | Payroll Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
 | Account Director, Insurance | Hybrid | [View →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
@@ -40,9 +43,6 @@
 | Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
 | Product Designer II, Design Systems | Remote | [View →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
 | Senior Machine Learning Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
-| Staff Product Security Engineer (Security) | Remote | [View →](https://www.remotejobscan.com/job/16726/staff-product-security-engineer-security/) |
-| Staff Engineer, Full Stack (Trust, Safety & Risk) | Remote | [View →](https://www.remotejobscan.com/job/16727/staff-engineer-full-stack-trust-safety-risk/) |
-| Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/13220/software-engineer-education/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
