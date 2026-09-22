@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3084</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3095</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16771/manager-applied-ai-architect/) |
+| 高级产品经理，交易（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16769/senior-product-manager-trading-cryptocom-app/) |
+| 增长经理（台湾） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16763/growth-manager-taiwan/) |
+| 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | 高级质量保证工程师（Rust/Java），Margin | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
 | 高级工程经理，核心AI自动化（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 | 高级财务经理，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
@@ -33,15 +37,6 @@
 | 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16756/specialist-market-operations/) |
 | 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
 | [初级 / 中级 / 高级] 软件工程师，推理 / 计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| 税务信息报告实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16752/tax-information-reporting-intern/) |
-| 内部审计分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16751/internal-audit-analytics-intern/) |
-| 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
-| 前沿保障研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16750/research-program-manager-frontier-assurance/) |
-| 产品经理，安全防护（账户完整性与滥用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16743/product-manager-safeguards-account-integrity-abuse/) |
-| Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
-| 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

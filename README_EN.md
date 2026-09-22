@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3084</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/16771/manager-applied-ai-architect/) |
+| Senior Product Manager, Trading (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/16769/senior-product-manager-trading-cryptocom-app/) |
+| Growth Manager (Taiwan) | Remote | [View →](https://www.remotejobscan.com/job/16763/growth-manager-taiwan/) |
+| Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | Senior QA Engineer (Rust/Java), Margin | Remote | [View →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
 | Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 | Senior Finance Manager, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
@@ -32,15 +36,6 @@
 | Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16755/specialist-market-operations/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/15994/affiliate-manager/) |
 | [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| Tax Information Reporting Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16752/tax-information-reporting-intern/) |
-| Internal Audit Analytics Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16751/internal-audit-analytics-intern/) |
-| IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
-| Research Program Manager, Frontier Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/16750/research-program-manager-frontier-assurance/) |
-| Product Manager, Safeguards (Account Integrity & Abuse) | On-site | [View →](https://www.remotejobscan.com/job/16743/product-manager-safeguards-account-integrity-abuse/) |
-| Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
-| Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
