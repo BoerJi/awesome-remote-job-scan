@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
 | Senior Associate/ Manager - Operation (US) | Remote | [View →](https://www.remotejobscan.com/job/16790/senior-associate-manager-operation-us/) |
@@ -37,7 +38,6 @@
 | Growth Manager (Taiwan) | Remote | [View →](https://www.remotejobscan.com/job/16763/growth-manager-taiwan/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | Senior QA Engineer (Rust/Java), Margin | Remote | [View →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
-| Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

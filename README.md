@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3093</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3094</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理/计算基础设施工程高级软件工程师，伦敦或阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
 | 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
 | 高级副理/经理 - 运营 (美国) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16790/senior-associate-manager-operation-us/) |
@@ -37,7 +38,6 @@
 | 增长经理（台湾） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16763/growth-manager-taiwan/) |
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | 高级质量保证工程师（Rust/Java），Margin | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
-| 高级工程经理，核心AI自动化（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
