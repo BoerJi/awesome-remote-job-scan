@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3086</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3093</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
+| 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
+| 高级副理/经理 - 运营 (美国) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16790/senior-associate-manager-operation-us/) |
+| VIP销售，东南亚（6个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16789/vip-sales-sea-6-months-contract/) |
 | 公共云运维高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 | 马耳他合规副总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16787/deputy-head-of-compliance-malta/) |
 | Kubernetes团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
@@ -34,10 +38,6 @@
 | 海外运营经理（P2P） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | 高级质量保证工程师（Rust/Java），Margin | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
 | 高级工程经理，核心AI自动化（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
-| 高级财务经理，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
-| IT支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
-| 高级GTM招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
-| 马耳他财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/finance-director-malta/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

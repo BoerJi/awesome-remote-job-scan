@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3086</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
+| Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
+| Senior Associate/ Manager - Operation (US) | Remote | [View →](https://www.remotejobscan.com/job/16790/senior-associate-manager-operation-us/) |
+| VIP Sales, SEA (6 months contract) | Remote | [View →](https://www.remotejobscan.com/job/16789/vip-sales-sea-6-months-contract/) |
 | Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 | Deputy Head of Compliance – Malta | On-site | [View →](https://www.remotejobscan.com/job/16787/deputy-head-of-compliance-malta/) |
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
@@ -34,10 +38,6 @@
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | Senior QA Engineer (Rust/Java), Margin | Remote | [View →](https://www.remotejobscan.com/job/16762/senior-qa-engineer-rustjava-margin/) |
 | Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
-| Senior Finance Manager, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
-| IT Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/16759/it-support-specialist/) |
-| Senior GTM Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-gtm-recruiter/) |
-| Finance Director - Malta | On-site | [View →](https://www.remotejobscan.com/job/16753/finance-director-malta/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
