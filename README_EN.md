@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3105</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3110</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
+| Software Engineer, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14432/software-engineer-gtm/) |
+| Software Engineer, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
+| Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
+| Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/16834/senior-software-engineer-backend-platform-core-ai-automation/) |
+| Software Engineer, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
+| Lead, Revenue Accounting, Technical | Hybrid | [View →](https://www.remotejobscan.com/job/16836/lead-revenue-accounting-technical/) |
+| Sr. Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/16837/sr-workplace-coordinator/) |
+| Security Risk & Compliance, Data Centers & Compute | On-site | [View →](https://www.remotejobscan.com/job/16835/security-risk-compliance-data-centers-compute/) |
+| Fullstack Engineer, Child Safety Tools & Systems | On-site | [View →](https://www.remotejobscan.com/job/16833/fullstack-engineer-child-safety-tools-systems/) |
+| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| Pricing Strategist, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/16832/pricing-strategist-gtm/) |
 | Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
 | Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
 | Partnership Manager, AI for Science | On-site | [View →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
@@ -31,18 +43,6 @@
 | Security Engineer, Detection Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
 | External Affairs, Brussels | On-site | [View →](https://www.remotejobscan.com/job/16824/external-affairs-brussels/) |
 | Global Head of Events | Hybrid | [View →](https://www.remotejobscan.com/job/16825/global-head-of-events/) |
-| Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
-| Partnerships, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/16823/partnerships-life-sciences/) |
-| Engineering Manager, Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16816/engineering-manager-data-infrastructure/) |
-| Rosalind Life Sciences Product Manager | On-site | [View →](https://www.remotejobscan.com/job/16822/rosalind-life-sciences-product-manager/) |
-| Product Designer, Design Systems | On-site | [View →](https://www.remotejobscan.com/job/16818/product-designer-design-systems/) |
-| Internal Communications, Enterprise & Growth | Hybrid | [View →](https://www.remotejobscan.com/job/16821/internal-communications-enterprise-growth/) |
-| Head of Business Technology Engineering | On-site | [View →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
-| Learning & Development Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15817/learning-development-intern/) |
-| Real Estate & Builds Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
-| Employee and Workplace Experience Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15803/employee-and-workplace-experience-intern/) |
-| Accelerations Programs Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15813/accelerations-programs-intern/) |
-| Product Manager (HR Technology) Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15806/product-manager-hr-technology-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

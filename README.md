@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3105</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3110</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Next.js软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
+| 软件工程师，全球市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/software-engineer-gtm/) |
+| 金融数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
+| 数据平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
+| 高级软件工程师，后端 - 平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16834/senior-software-engineer-backend-platform-core-ai-automation/) |
+| 内部代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
+| 技术收入会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16836/lead-revenue-accounting-technical/) |
+| 高级工作场所协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16837/sr-workplace-coordinator/) |
+| 安全风险与合规、数据中心与计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16835/security-risk-compliance-data-centers-compute/) |
+| 全栈工程师，儿童安全工具与系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16833/fullstack-engineer-child-safety-tools-systems/) |
+| 初创企业、安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| GTM定价策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16832/pricing-strategist-gtm/) |
 | SOX安全控制保障主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15828/lead-security-controls-assurance-sox/) |
 | 高级深度内容 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
 | AI科学合作经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14884/partnership-manager-ai-for-science/) |
@@ -31,18 +43,6 @@
 | 安全工程师，检测响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
 | 布鲁塞尔对外事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16824/external-affairs-brussels/) |
 | 全球活动负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16825/global-head-of-events/) |
-| 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
-| 合作伙伴关系、生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16823/partnerships-life-sciences/) |
-| 数据基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16816/engineering-manager-data-infrastructure/) |
-| Rosalind 生命科学产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16822/rosalind-life-sciences-product-manager/) |
-| 产品设计师，设计系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16818/product-designer-design-systems/) |
-| 内部沟通、企业与发展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16821/internal-communications-enterprise-growth/) |
-| 商业技术工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
-| 学习与发展实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15817/learning-development-intern/) |
-| 房地产与建设实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15832/real-estate-builds-intern/) |
-| 员工与工作场所体验实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15803/employee-and-workplace-experience-intern/) |
-| 加速项目实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15813/accelerations-programs-intern/) |
-| HR技术产品经理实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15806/product-manager-hr-technology-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
