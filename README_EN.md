@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3082</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Audit Analytics Intern | Hybrid | [View →](https://www.remotejobscan.com/job/16751/internal-audit-analytics-intern/) |
+| IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
+| Research Program Manager, Frontier Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/16750/research-program-manager-frontier-assurance/) |
 | Product Manager, Safeguards (Account Integrity & Abuse) | On-site | [View →](https://www.remotejobscan.com/job/16743/product-manager-safeguards-account-integrity-abuse/) |
 | Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
 | Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
@@ -34,15 +37,12 @@
 | Product Manager, Enterprise Identity | Hybrid | [View →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
 | Payroll Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
 | Account Director, Insurance | Hybrid | [View →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
-| [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | Partner Solutions Engineer, Ads Solutions - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/16734/partner-solutions-engineer-ads-solutions-san-francisco/) |
 | Solutions Engineer, Ads Solutions - San Francisco | Hybrid | [View →](https://www.remotejobscan.com/job/16733/solutions-engineer-ads-solutions-san-francisco/) |
 | Director of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/director-of-professional-services/) |
 | Forward Deployed Engineer - UAE | Hybrid | [View →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
-| Staff+ Site Reliability Engineer, Safeguards ML Infra | On-site | [View →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
-| Business Communications Lead, Product | Hybrid | [View →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

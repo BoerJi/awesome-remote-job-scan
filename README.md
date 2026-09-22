@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3082</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部审计分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16751/internal-audit-analytics-intern/) |
+| 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
+| 前沿保障研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16750/research-program-manager-frontier-assurance/) |
 | 产品经理，安全防护（账户完整性与滥用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16743/product-manager-safeguards-account-integrity-abuse/) |
 | Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
 | 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
@@ -34,15 +37,12 @@
 | 企业身份产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16738/product-manager-enterprise-identity/) |
 | 薪酬分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16736/payroll-analyst/) |
 | 保险行业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16735/account-director-insurance/) |
-| [初级/中级/高级] 软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | 合作伙伴解决方案工程师，广告解决方案 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16734/partner-solutions-engineer-ads-solutions-san-francisco/) |
 | 广告解决方案解决方案工程师 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16733/solutions-engineer-ads-solutions-san-francisco/) |
 | 专业服务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/director-of-professional-services/) |
 | 阿联酋前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16731/forward-deployed-engineer-uae/) |
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
-| Staff+ 网站可靠性工程师，安全 ML 基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
-| 商业通信产品负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
