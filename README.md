@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理，安全防护（账户完整性与滥用） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16743/product-manager-safeguards-account-integrity-abuse/) |
+| Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
+| 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
+| 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
+| 产品营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16259/product-marketing-manager-special-projects/) |
 | 产品经理，安全防护（通用型） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16740/product-manager-safeguards-generalist/) |
 | GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16221/gtm-strategy-operations-policy/) |
 | 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
@@ -38,11 +43,6 @@
 | 大型企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16732/account-director-large-enterprise/) |
 | Staff+ 网站可靠性工程师，安全 ML 基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15553/staff-site-reliability-engineer-safeguards-ml-infra/) |
 | 商业通信产品负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16730/business-communications-lead-product/) |
-| 机器学习工程师，Monetization AI/ML | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16729/machine-learning-engineer-monetization-aiml/) |
-| 高级产品政策主管，监管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16728/senior-product-policy-lead-regulation/) |
-| 受监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16098/head-of-regulated-industries-customer-success/) |
-| 产品设计师II，设计系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13115/product-designer-ii-design-systems/) |
-| 高级机器学习平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
