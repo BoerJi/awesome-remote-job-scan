@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3093</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3088</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
+| 风险投资合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
+| 视觉知识工作研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9585/research-engineer-visual-knowledge-work/) |
+| 高级后端软件工程师（机构 - | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16814/senior-software-engineer-backend-institutional/) |
+| 商业技术工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16812/engineering-manager-business-technology/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | 网络安全评估工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
 | 亚太区薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14587/director-of-payroll-apac/) |
-| 会计政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | 高级软件工程师 - React Native - 业务服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16810/senior-software-engineer-react-native-business-services/) |
 | 前端交易员首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16811/lead-engineer-frontier-traders/) |
 | SAM分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
@@ -38,11 +43,6 @@
 | 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16804/partner-success-lead/) |
 | 欧洲、中东、非洲及亚洲商业拓展财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16807/finance-strategy-gtm-emea/) |
 | 欧洲、中东、非洲区域销售与战略财务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16808/finance-strategy-gtm-emea/) |
-| Next.js技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
-| 智利企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16805/enterprise-account-executive-chile/) |
-| 推理/计算基础设施工程高级软件工程师，伦敦或阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-22 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

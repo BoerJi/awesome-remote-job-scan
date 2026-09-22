@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3088</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
+| VC Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/9704/vc-partnerships-lead/) |
+| Research Engineer, Visual Knowledge Work | On-site | [View →](https://www.remotejobscan.com/job/9585/research-engineer-visual-knowledge-work/) |
+| Senior Software Engineer, Backend (Institutional - | Remote | [View →](https://www.remotejobscan.com/job/16814/senior-software-engineer-backend-institutional/) |
+| Engineering Manager, Business Technology | On-site | [View →](https://www.remotejobscan.com/job/16812/engineering-manager-business-technology/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | Cyber Evaluations Engineer | Remote | [View →](https://www.remotejobscan.com/job/15173/cyber-evaluations-engineer/) |
 | Director of Payroll, APAC | On-site | [View →](https://www.remotejobscan.com/job/14587/director-of-payroll-apac/) |
-| Head of Accounting Policy | On-site | [View →](https://www.remotejobscan.com/job/15897/head-of-accounting-policy/) |
 | Senior Software Engineer - React Native - Business Services | Remote | [View →](https://www.remotejobscan.com/job/16810/senior-software-engineer-react-native-business-services/) |
 | Lead Engineer, Frontier Traders | On-site | [View →](https://www.remotejobscan.com/job/16811/lead-engineer-frontier-traders/) |
 | SAM Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16375/sam-analyst-iii/) |
@@ -37,11 +42,6 @@
 | Senior Software Engineer, Trading Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11960/senior-software-engineer-trading-infrastructure/) |
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/16804/partner-success-lead/) |
 | Finance & Strategy GTM, EMEA | On-site | [View →](https://www.remotejobscan.com/job/16807/finance-strategy-gtm-emea/) |
-| Member of the Technical Staff - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/member-of-the-technical-staff-nextjs/) |
-| Enterprise Account Executive - Chile | Remote | [View →](https://www.remotejobscan.com/job/16805/enterprise-account-executive-chile/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/13957/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/11716/us-equity-risk-control-operations/) |
-| Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/16801/technical-customer-support-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-22 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
