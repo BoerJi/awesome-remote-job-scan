@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -36,12 +36,12 @@
 | Sr Product Manager - Growth Marketing Enablement | Remote | [View →](https://www.remotejobscan.com/job/16952/sr-product-manager-growth-marketing-enablement/) |
 | Head of Business Technology Engineering | On-site | [View →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
 | Lead Engineer, AI Quality | Remote | [View →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
-| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Full Stack Staff+ Software Engineer, Consumer Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
 | Staff+ Software Engineer, Payments & Billing, Consumer Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/16938/staff-software-engineer-payments-billing-consumer-monetization/) |
 | Support Engineer I (NYC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/16936/support-engineer-i-nyc-weekend-shift/) |
 | Support Engineer I (FC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/16935/support-engineer-i-fc-weekend-shift/) |
 | Head of Non-Tech Talent | Remote | [View →](https://www.remotejobscan.com/job/16934/head-of-non-tech-talent/) |
+| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
