@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive, GSI | On-site | [View →](https://www.remotejobscan.com/job/16903/strategic-account-executive-gsi/) |
+| Talent Pool - Blockchain, Blockchain (Smart Contracts) | Remote | [View →](https://www.remotejobscan.com/job/16901/talent-pool-blockchain-blockchain-smart-contracts/) |
+| Concierge Specialist III | Remote | [View →](https://www.remotejobscan.com/job/16900/concierge-specialist-iii/) |
+| Customer Success Manager - Ads Solutions (Spanish speaking) | On-site | [View →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
 | Policy Research, Strategic Advisory | On-site | [View →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Principal Backend Engineer, Push | On-site | [View →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
@@ -37,9 +41,6 @@
 | Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
 | Community Lead - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
 | Binance Accelerator Program - Internal Audit (Technology) | Remote | [View →](https://www.remotejobscan.com/job/16885/binance-accelerator-program-internal-audit-technology/) |
-| BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
-| Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
-| MLRO & Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

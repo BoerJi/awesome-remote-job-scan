@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略客户总监，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16903/strategic-account-executive-gsi/) |
+| 人才库 - 区块链，区块链（智能合约） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16901/talent-pool-blockchain-blockchain-smart-contracts/) |
+| 专属顾问专家三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16900/concierge-specialist-iii/) |
+| 客户成功经理 - 广告解决方案（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
 | 政策研究、战略咨询 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Push首席后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
@@ -37,9 +41,6 @@
 | Codex应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
 | Kraken Pro社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
 | 币安加速器项目 - 内部审计（技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16885/binance-accelerator-program-internal-audit-technology/) |
-| BGW Flutter Engineer 客户端Flutter开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
-| Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
-| 反洗钱合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
