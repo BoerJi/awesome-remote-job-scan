@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3117</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律顾问（融资、贷款和证券化） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16861/legal-counsel-financing-lending-and-securitization/) |
+| 软件工程师，智能代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
+| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
+| Next.js软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
+| 商业法务专员，技术AI实施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16859/commercial-legal-specialist-technical-ai-implementation/) |
+| 业务控制分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9189/analyst-business-controller/) |
 | 数据中心运营容量部署主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16857/capacity-deployment-lead-data-center-operations/) |
 | GTM赋能培训师，Claude产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/gtm-enablement-trainer-claude-products/) |
 | 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
@@ -37,12 +43,6 @@
 | 高级解决方案工程师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16849/senior-solutions-engineer-payward-services/) |
 | 员工技术与体验负责人（ETX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16851/head-of-employee-tech-experience-etx/) |
 | 收入会计技术经理（战略商业交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16852/manager-revenue-accounting-technical-strategic-commercial-deals/) |
-| 内部沟通、研究与产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16850/internal-communications-research-and-product/) |
-| 研究运营、强化学习 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16840/research-operations-reinforcement-learning/) |
-| 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| 软件工程师，智能代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
-| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
-| Next.js 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/engineering-manager-nextjs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
