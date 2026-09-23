@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3117</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Rack Power Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16907/rack-power-engineer/) |
 | Strategic Account Executive, GSI | On-site | [View →](https://www.remotejobscan.com/job/16903/strategic-account-executive-gsi/) |
+| Manager, Forward Deployed Engineering- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16904/manager-forward-deployed-engineering-nyc/) |
 | Talent Pool - Blockchain, Blockchain (Smart Contracts) | Remote | [View →](https://www.remotejobscan.com/job/16901/talent-pool-blockchain-blockchain-smart-contracts/) |
 | Concierge Specialist III | Remote | [View →](https://www.remotejobscan.com/job/16900/concierge-specialist-iii/) |
+| Deployment Lead, Life Sciences- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16905/deployment-lead-life-sciences-nyc/) |
+| Deployment Lead, Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16906/deployment-lead-financial-services-nyc/) |
 | Customer Success Manager - Ads Solutions (Spanish speaking) | On-site | [View →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
 | Policy Research, Strategic Advisory | On-site | [View →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
@@ -39,8 +43,6 @@
 | Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
 | Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
 | Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
-| Community Lead - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
-| Binance Accelerator Program - Internal Audit (Technology) | Remote | [View →](https://www.remotejobscan.com/job/16885/binance-accelerator-program-internal-audit-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

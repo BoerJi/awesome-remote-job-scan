@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3117</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机架电源工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16907/rack-power-engineer/) |
 | 战略客户总监，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16903/strategic-account-executive-gsi/) |
+| 纽约市远程部署工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16904/manager-forward-deployed-engineering-nyc/) |
 | 人才库 - 区块链，区块链（智能合约） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16901/talent-pool-blockchain-blockchain-smart-contracts/) |
 | 专属顾问专家三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16900/concierge-specialist-iii/) |
+| 生命科学部署负责人-纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16905/deployment-lead-life-sciences-nyc/) |
+| 金融服务-纽约 部署负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16906/deployment-lead-financial-services-nyc/) |
 | 客户成功经理 - 广告解决方案（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
 | 政策研究、战略咨询 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
@@ -39,8 +43,6 @@
 | 隐私总法律顾问助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
 | 初创公司应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
 | Codex应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
-| Kraken Pro社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
-| 币安加速器项目 - 内部审计（技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16885/binance-accelerator-program-internal-audit-technology/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
