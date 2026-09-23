@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3123</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心控制工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16957/data-center-controls-engineer/) |
+| 隐私总法律顾问助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
 | 产品营销经理，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16954/product-marketing-manager-advertising/) |
 | 移动端/全栈Staff+软件工程师，消费变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16953/mobile-full-stack-staff-software-engineer-consumer-monetization/) |
 | 并购财务整合主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16955/ma-finance-integration-lead/) |
@@ -40,8 +42,6 @@
 | 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | 前沿代理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
-| 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
-| 系统研究工程师实习生 - GPU编程（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
