@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3110</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3117</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Capacity Deployment Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/16857/capacity-deployment-lead-data-center-operations/) |
+| GTM Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/gtm-enablement-trainer-claude-products/) |
+| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
+| Social Growth Strategist | Remote | [View →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
+| Research Scientist, Life Sciences (Experimental Biology) | On-site | [View →](https://www.remotejobscan.com/job/16854/research-scientist-life-sciences-experimental-biology/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| Software Engineer, Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/16856/software-engineer-workflows/) |
+| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
+| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
+| GRC Analyst | Remote | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Head of Business Technology Engineering | On-site | [View →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
 | Senior Solutions Engineer - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/16849/senior-solutions-engineer-payward-services/) |
 | Head of Employee Tech & Experience (ETX) | Hybrid | [View →](https://www.remotejobscan.com/job/16851/head-of-employee-tech-experience-etx/) |
@@ -33,16 +43,6 @@
 | Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
 | Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
 | Engineering Manager - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/engineering-manager-nextjs/) |
-| Deputy General Counsel, Strategic Partnerships & Institutions | On-site | [View →](https://www.remotejobscan.com/job/16838/deputy-general-counsel-strategic-partnerships-institutions/) |
-| Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
-| IT Audiovisual Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16842/it-audiovisual-operations-engineer/) |
-| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
-| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
-| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| Software Engineer, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/14432/software-engineer-gtm/) |
-| Software Engineer, Financial Data Platform | Hybrid | [View →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
-| Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
-| Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/16834/senior-software-engineer-backend-platform-core-ai-automation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

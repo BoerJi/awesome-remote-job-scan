@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3110</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3117</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心运营容量部署主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16857/capacity-deployment-lead-data-center-operations/) |
+| GTM赋能培训师，Claude产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/gtm-enablement-trainer-claude-products/) |
+| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
+| 社交增长策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
+| 生命科学研究员（实验生物学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16854/research-scientist-life-sciences-experimental-biology/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| 工作流软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16856/software-engineer-workflows/) |
+| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
+| 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
+| GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 商业技术工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
 | 高级解决方案工程师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16849/senior-solutions-engineer-payward-services/) |
 | 员工技术与体验负责人（ETX） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16851/head-of-employee-tech-experience-etx/) |
@@ -33,16 +43,6 @@
 | 软件工程师，智能代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
 | 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
 | Next.js 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/engineering-manager-nextjs/) |
-| 战略合作伙伴与机构副首席法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16838/deputy-general-counsel-strategic-partnerships-institutions/) |
-| 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
-| IT视听运营工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16842/it-audiovisual-operations-engineer/) |
-| 隐私总法律顾问助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
-| 高级招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12137/senior-recruiter/) |
-| Next.js软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| 软件工程师，全球市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14432/software-engineer-gtm/) |
-| 金融数据平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14852/software-engineer-financial-data-platform/) |
-| 数据平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
-| 高级软件工程师，后端 - 平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16834/senior-software-engineer-backend-platform-core-ai-automation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
