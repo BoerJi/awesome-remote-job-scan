@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3120</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
+| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
+| Community Lead - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
+| BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
+| Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
+| MLRO & Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
+| Sanctions Advisory Specialist | Remote | [View →](https://www.remotejobscan.com/job/16875/sanctions-advisory-specialist/) |
 | Web3 Product Manager Web3 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
 | BGW Frontend Engineer 高级前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 | Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
@@ -35,14 +42,6 @@
 | Software Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/16870/software-engineer-labs/) |
 | Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/16871/staff-software-engineer-compute/) |
 | Earn Product Operation Manager (Tradfi) | Remote | [View →](https://www.remotejobscan.com/job/16873/earn-product-operation-manager-tradfi/) |
-| [DH] Engineering Manager, AI Observability | On-site | [View →](https://www.remotejobscan.com/job/16868/dh-engineering-manager-ai-observability/) |
-| Product Manager, GTM Innovation | On-site | [View →](https://www.remotejobscan.com/job/16869/product-manager-gtm-innovation/) |
-| Program Manager, Safeguards Workforce Operations | On-site | [View →](https://www.remotejobscan.com/job/16867/program-manager-safeguards-workforce-operations/) |
-| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
-| Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
-| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| Legal Counsel (Corporate Housekeeping and Licensing) | Hybrid | [View →](https://www.remotejobscan.com/job/16863/legal-counsel-corporate-housekeeping-and-licensing/) |
-| Enterprise Account Executive (AZ) | On-site | [View →](https://www.remotejobscan.com/job/16864/enterprise-account-executive-az/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
