@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政策研究、战略咨询 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
+| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Push首席后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
 | 企业客户经理 - 慕尼黑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
 | 技术专家（机器学习研究工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16894/member-of-technical-staff-machine-learning-research-engineer/) |
@@ -38,8 +40,6 @@
 | BGW Flutter Engineer 客户端Flutter开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
 | Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 | 反洗钱合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
-| 制裁咨询专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16875/sanctions-advisory-specialist/) |
-| Web3 Product Manager Web3 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
