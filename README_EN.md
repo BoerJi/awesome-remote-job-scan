@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Web3 Product Manager Web3 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
+| BGW Frontend Engineer 高级前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
+| Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
+| PayFi Tech Leader | Remote | [View →](https://www.remotejobscan.com/job/12150/payfi-tech-leader/) |
+| BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
+| PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
+| Staff Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
 | Senior Product Manager, Token Listing | On-site | [View →](https://www.remotejobscan.com/job/16872/senior-product-manager-token-listing/) |
 | B2B Marketing Lead, ANZ | On-site | [View →](https://www.remotejobscan.com/job/16874/b2b-marketing-lead-anz/) |
 | Software Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/16870/software-engineer-labs/) |
@@ -36,13 +43,6 @@
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Legal Counsel (Corporate Housekeeping and Licensing) | Hybrid | [View →](https://www.remotejobscan.com/job/16863/legal-counsel-corporate-housekeeping-and-licensing/) |
 | Enterprise Account Executive (AZ) | On-site | [View →](https://www.remotejobscan.com/job/16864/enterprise-account-executive-az/) |
-| Staff / Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
-| AV Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| Legal Counsel (Financing, Lending and Securitization) | Hybrid | [View →](https://www.remotejobscan.com/job/16861/legal-counsel-financing-lending-and-securitization/) |
-| Software Engineer, Agent | Hybrid | [View →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
-| Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
-| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| Commercial Legal Specialist, Technical AI Implementation | On-site | [View →](https://www.remotejobscan.com/job/16859/commercial-legal-specialist-technical-ai-implementation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

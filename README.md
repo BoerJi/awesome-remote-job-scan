@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3127</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3 Product Manager Web3 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
+| BGW Frontend Engineer 高级前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
+| Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
+| PayFi Tech Leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12150/payfi-tech-leader/) |
+| BGW Senior Backend Engineer 区块链资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
+| PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
+| 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
 | 高级产品经理，代币上市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16872/senior-product-manager-token-listing/) |
 | ANZ B2B市场主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16874/b2b-marketing-lead-anz/) |
 | 软件工程师，实验室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16870/software-engineer-labs/) |
@@ -36,13 +43,6 @@
 | 商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | 法律顾问（公司治理及牌照管理） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16863/legal-counsel-corporate-housekeeping-and-licensing/) |
 | 企业客户经理（美国亚利桑那州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16864/enterprise-account-executive-az/) |
-| 移动端 Staff / Senior Staff 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8895/staff-senior-staff-software-engineer-mobile/) |
-| AV运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12683/av-operations-specialist/) |
-| 法律顾问（融资、贷款和证券化） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16861/legal-counsel-financing-lending-and-securitization/) |
-| 软件工程师，智能代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9792/software-engineer-agent/) |
-| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
-| Next.js软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| 商业法务专员，技术AI实施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16859/commercial-legal-specialist-technical-ai-implementation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
