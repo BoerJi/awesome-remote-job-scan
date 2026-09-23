@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3112</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3130</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,6 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
 | Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
 | Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
@@ -42,6 +38,10 @@
 | Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
 | Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
 | Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
+| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 17:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 18:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
