@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Backend Engineer, Push | On-site | [View →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
 | Enterprise Account Executive - Munich | Remote | [View →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
 | Member of Technical Staff (Machine Learning Research Engineer) | On-site | [View →](https://www.remotejobscan.com/job/16894/member-of-technical-staff-machine-learning-research-engineer/) |
 | Associate Applied AI, Rotational Program, London | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-applied-ai-rotational-program-london/) |
@@ -39,7 +40,6 @@
 | MLRO & Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
 | Sanctions Advisory Specialist | Remote | [View →](https://www.remotejobscan.com/job/16875/sanctions-advisory-specialist/) |
 | Web3 Product Manager Web3 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
-| BGW Frontend Engineer 高级前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/15363/bgw-frontend-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
