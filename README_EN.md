@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Executive Assistant (Communications & Marketing) | On-site | [View →](https://www.remotejobscan.com/job/16961/executive-assistant-communications-marketing/) |
+| Deployment Strategist Lead - USA | Remote | [View →](https://www.remotejobscan.com/job/16960/deployment-strategist-lead-usa/) |
+| Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
+| Support Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16959/support-delivery-lead/) |
+| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Data Center Controls Engineer | Remote | [View →](https://www.remotejobscan.com/job/16957/data-center-controls-engineer/) |
 | Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
 | Product Marketing Manager, Advertising | Hybrid | [View →](https://www.remotejobscan.com/job/16954/product-marketing-manager-advertising/) |
@@ -37,11 +42,6 @@
 | Support Engineer I (NYC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/16936/support-engineer-i-nyc-weekend-shift/) |
 | Support Engineer I (FC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/16935/support-engineer-i-fc-weekend-shift/) |
 | Head of Non-Tech Talent | Remote | [View →](https://www.remotejobscan.com/job/16934/head-of-non-tech-talent/) |
-| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
-| Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
