@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 采购赋能与交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16917/head-of-sourcing-enablement-delivery/) |
+| 英国战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16918/strategy-operations-lead-uk/) |
+| 法国战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16919/strategy-operations-lead-france/) |
+| 应用AI架构师，大型企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16913/applied-ai-architect-large-enterprise/) |
+| 平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
+| CDN内容软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9797/software-engineer-cdn-content/) |
+| AI SDK 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
+| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
+| 软件工程师，eve | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
+| 客户参与社交媒体专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16912/client-engagement-social-specialist/) |
 | 机架电源工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16907/rack-power-engineer/) |
 | 战略客户总监，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16903/strategic-account-executive-gsi/) |
 | 纽约市远程部署工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16904/manager-forward-deployed-engineering-nyc/) |
@@ -33,16 +43,6 @@
 | 客户成功经理 - 广告解决方案（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
 | 政策研究、战略咨询 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Push首席后端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
-| 企业客户经理 - 慕尼黑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
-| 技术专家（机器学习研究工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16894/member-of-technical-staff-machine-learning-research-engineer/) |
-| 应用AI助理，轮岗计划，伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16398/associate-applied-ai-rotational-program-london/) |
-| 商用客户经理 - 南部EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11743/commercial-account-executive-southern-emea/) |
-| 后端工程师（初级至中级） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16892/backend-engineer-junior-to-mid-level/) |
-| 应用AI工程师，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16884/applied-ai-engineer-startups/) |
-| 隐私总法律顾问助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
-| 初创公司应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
-| Codex应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

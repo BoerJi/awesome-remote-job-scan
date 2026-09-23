@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Sourcing Enablement & Delivery | Hybrid | [View →](https://www.remotejobscan.com/job/16917/head-of-sourcing-enablement-delivery/) |
+| Strategy & Operations Lead, UK | Hybrid | [View →](https://www.remotejobscan.com/job/16918/strategy-operations-lead-uk/) |
+| Strategy & Operations Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/16919/strategy-operations-lead-france/) |
+| Applied AI Architect, Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/16913/applied-ai-architect-large-enterprise/) |
+| Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
+| Software Engineer, CDN Content | Hybrid | [View →](https://www.remotejobscan.com/job/9797/software-engineer-cdn-content/) |
+| Software Engineer, AI SDK | Hybrid | [View →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
+| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
+| Software Engineer, eve | Hybrid | [View →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
+| Client Engagement Social Specialist | Remote | [View →](https://www.remotejobscan.com/job/16912/client-engagement-social-specialist/) |
 | Rack Power Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16907/rack-power-engineer/) |
 | Strategic Account Executive, GSI | On-site | [View →](https://www.remotejobscan.com/job/16903/strategic-account-executive-gsi/) |
 | Manager, Forward Deployed Engineering- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/16904/manager-forward-deployed-engineering-nyc/) |
@@ -33,16 +43,6 @@
 | Customer Success Manager - Ads Solutions (Spanish speaking) | On-site | [View →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
 | Policy Research, Strategic Advisory | On-site | [View →](https://www.remotejobscan.com/job/16899/policy-research-strategic-advisory/) |
 | Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| Principal Backend Engineer, Push | On-site | [View →](https://www.remotejobscan.com/job/15939/principal-backend-engineer-push/) |
-| Enterprise Account Executive - Munich | Remote | [View →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
-| Member of Technical Staff (Machine Learning Research Engineer) | On-site | [View →](https://www.remotejobscan.com/job/16894/member-of-technical-staff-machine-learning-research-engineer/) |
-| Associate Applied AI, Rotational Program, London | On-site | [View →](https://www.remotejobscan.com/job/16398/associate-applied-ai-rotational-program-london/) |
-| Commercial Account Executive - Southern EMEA | On-site | [View →](https://www.remotejobscan.com/job/11743/commercial-account-executive-southern-emea/) |
-| Backend Engineer (Junior to Mid-Level) | Hybrid | [View →](https://www.remotejobscan.com/job/16892/backend-engineer-junior-to-mid-level/) |
-| Applied AI Engineer, Startups | On-site | [View →](https://www.remotejobscan.com/job/16884/applied-ai-engineer-startups/) |
-| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
-| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
-| Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
