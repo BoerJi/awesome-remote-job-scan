@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| [DH] Engineering Manager, AI Observability | On-site | [View →](https://www.remotejobscan.com/job/16868/dh-engineering-manager-ai-observability/) |
+| Product Manager, GTM Innovation | On-site | [View →](https://www.remotejobscan.com/job/16869/product-manager-gtm-innovation/) |
 | Program Manager, Safeguards Workforce Operations | On-site | [View →](https://www.remotejobscan.com/job/16867/program-manager-safeguards-workforce-operations/) |
 | LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
 | Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
@@ -41,8 +43,6 @@
 | GTM Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/gtm-enablement-trainer-claude-products/) |
 | Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | Social Growth Strategist | Remote | [View →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
-| Research Scientist, Life Sciences (Experimental Biology) | On-site | [View →](https://www.remotejobscan.com/job/16854/research-scientist-life-sciences-experimental-biology/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3124</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| [DH]AI可观测性工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16868/dh-engineering-manager-ai-observability/) |
+| 产品经理，GTM创新 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16869/product-manager-gtm-innovation/) |
 | 安全保障工作组运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16867/program-manager-safeguards-workforce-operations/) |
 | 拉丁美洲VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
 | 学院研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16865/academy-research/) |
@@ -41,8 +43,6 @@
 | GTM赋能培训师，Claude产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/gtm-enablement-trainer-claude-products/) |
 | 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
 | 社交增长策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
-| 生命科学研究员（实验生物学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16854/research-scientist-life-sciences-experimental-biology/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
