@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3115</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead Engineer, AI Quality | Remote | [View →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
+| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Full Stack Staff+ Software Engineer, Consumer Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
 | Staff+ Software Engineer, Payments & Billing, Consumer Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/16938/staff-software-engineer-payments-billing-consumer-monetization/) |
 | Support Engineer I (NYC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/16936/support-engineer-i-nyc-weekend-shift/) |
@@ -41,8 +43,6 @@
 | Software Development In Test Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
 | Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
 | Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
-| Research Intern, Inference (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
-| Research Intern, Inference (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

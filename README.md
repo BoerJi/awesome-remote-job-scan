@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3123</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3115</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 全栈高级工程师，消费者变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
 | 高级软件工程师，支付与账单，消费者变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16938/staff-software-engineer-payments-billing-consumer-monetization/) |
 | 支持工程师I (纽约，周末班) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16936/support-engineer-i-nyc-weekend-shift/) |
@@ -41,8 +43,6 @@
 | 软件测试开发实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
 | 模型塑造研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
 | 模型塑造研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
-| 推理研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
-| 推理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
