@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16962/staff-software-engineer-ai-compute-together-cloud/) |
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
+| 销售行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16963/executive-assistant-sales/) |
+| FinHub-金融智能（平台）工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13615/engineering-manager-finhub-financial-intelligence-platform/) |
 | 行政助理（通讯与市场） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16961/executive-assistant-communications-marketing/) |
 | 部署策略主管 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16960/deployment-strategist-lead-usa/) |
 | AI产品技术专家（早期职业-行业） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
@@ -37,11 +41,6 @@
 | 商业技术工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
 | AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
 | 全栈高级工程师，消费者变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
-| 高级软件工程师，支付与账单，消费者变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16938/staff-software-engineer-payments-billing-consumer-monetization/) |
-| 支持工程师I (纽约，周末班) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16936/support-engineer-i-nyc-weekend-shift/) |
-| 支持工程师I（FC，周末班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16935/support-engineer-i-fc-weekend-shift/) |
-| 非技术人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16934/head-of-non-tech-talent/) |
-| 税务总监，准备与合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
