@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全保障工作组运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16867/program-manager-safeguards-workforce-operations/) |
+| 拉丁美洲VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| 学院研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16865/academy-research/) |
 | 商业顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | 法律顾问（公司治理及牌照管理） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16863/legal-counsel-corporate-housekeeping-and-licensing/) |
 | 企业客户经理（美国亚利桑那州） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16864/enterprise-account-executive-az/) |
@@ -40,9 +43,6 @@
 | 社交增长策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
 | 生命科学研究员（实验生物学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16854/research-scientist-life-sciences-experimental-biology/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 工作流软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16856/software-engineer-workflows/) |
-| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

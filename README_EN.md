@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Safeguards Workforce Operations | On-site | [View →](https://www.remotejobscan.com/job/16867/program-manager-safeguards-workforce-operations/) |
+| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Legal Counsel (Corporate Housekeeping and Licensing) | Hybrid | [View →](https://www.remotejobscan.com/job/16863/legal-counsel-corporate-housekeeping-and-licensing/) |
 | Enterprise Account Executive (AZ) | On-site | [View →](https://www.remotejobscan.com/job/16864/enterprise-account-executive-az/) |
@@ -40,9 +43,6 @@
 | Social Growth Strategist | Remote | [View →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
 | Research Scientist, Life Sciences (Experimental Biology) | On-site | [View →](https://www.remotejobscan.com/job/16854/research-scientist-life-sciences-experimental-biology/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Software Engineer, Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/16856/software-engineer-workflows/) |
-| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
