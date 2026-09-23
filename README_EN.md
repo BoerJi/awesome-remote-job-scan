@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, Token Listing | On-site | [View →](https://www.remotejobscan.com/job/16872/senior-product-manager-token-listing/) |
+| B2B Marketing Lead, ANZ | On-site | [View →](https://www.remotejobscan.com/job/16874/b2b-marketing-lead-anz/) |
+| Software Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/16870/software-engineer-labs/) |
+| Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/16871/staff-software-engineer-compute/) |
+| Earn Product Operation Manager (Tradfi) | Remote | [View →](https://www.remotejobscan.com/job/16873/earn-product-operation-manager-tradfi/) |
 | [DH] Engineering Manager, AI Observability | On-site | [View →](https://www.remotejobscan.com/job/16868/dh-engineering-manager-ai-observability/) |
 | Product Manager, GTM Innovation | On-site | [View →](https://www.remotejobscan.com/job/16869/product-manager-gtm-innovation/) |
 | Program Manager, Safeguards Workforce Operations | On-site | [View →](https://www.remotejobscan.com/job/16867/program-manager-safeguards-workforce-operations/) |
@@ -38,11 +43,6 @@
 | Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | Commercial Legal Specialist, Technical AI Implementation | On-site | [View →](https://www.remotejobscan.com/job/16859/commercial-legal-specialist-technical-ai-implementation/) |
-| Analyst, Business Controller | Remote | [View →](https://www.remotejobscan.com/job/9189/analyst-business-controller/) |
-| Capacity Deployment Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/16857/capacity-deployment-lead-data-center-operations/) |
-| GTM Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/gtm-enablement-trainer-claude-products/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
-| Social Growth Strategist | Remote | [View →](https://www.remotejobscan.com/job/16858/social-growth-strategist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
