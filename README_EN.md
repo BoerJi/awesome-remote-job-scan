@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3120</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Backend Engineer (Junior to Mid-Level) | Hybrid | [View →](https://www.remotejobscan.com/job/16892/backend-engineer-junior-to-mid-level/) |
+| Applied AI Engineer, Startups | On-site | [View →](https://www.remotejobscan.com/job/16884/applied-ai-engineer-startups/) |
 | Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
 | Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
+| Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
 | Community Lead - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
+| Binance Accelerator Program - Internal Audit (Technology) | Remote | [View →](https://www.remotejobscan.com/job/16885/binance-accelerator-program-internal-audit-technology/) |
 | BGW Flutter Engineer 客户端Flutter开发 | Remote | [View →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
 | Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 | MLRO & Head of Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
@@ -36,12 +40,6 @@
 | PayFi Tech Leader | Remote | [View →](https://www.remotejobscan.com/job/12150/payfi-tech-leader/) |
 | BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
 | PayFi Backend Engineer PayFi技术架构师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| Staff Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
-| Senior Product Manager, Token Listing | On-site | [View →](https://www.remotejobscan.com/job/16872/senior-product-manager-token-listing/) |
-| B2B Marketing Lead, ANZ | On-site | [View →](https://www.remotejobscan.com/job/16874/b2b-marketing-lead-anz/) |
-| Software Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/16870/software-engineer-labs/) |
-| Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/16871/staff-software-engineer-compute/) |
-| Earn Product Operation Manager (Tradfi) | Remote | [View →](https://www.remotejobscan.com/job/16873/earn-product-operation-manager-tradfi/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-23 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

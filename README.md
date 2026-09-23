@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3124</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 后端工程师（初级至中级） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16892/backend-engineer-junior-to-mid-level/) |
+| 应用AI工程师，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16884/applied-ai-engineer-startups/) |
 | 隐私总法律顾问助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16829/associate-general-counsel-privacy/) |
 | 初创公司应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16878/applied-ai-architect-startups/) |
+| Codex应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16883/applied-ai-engineer-codex/) |
 | Kraken Pro社区负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16880/community-lead-kraken-pro/) |
+| 币安加速器项目 - 内部审计（技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16885/binance-accelerator-program-internal-audit-technology/) |
 | BGW Flutter Engineer 客户端Flutter开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7373/bgw-flutter-engineer-flutter/) |
 | Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 | 反洗钱合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16876/mlro-head-of-compliance/) |
@@ -36,12 +40,6 @@
 | PayFi Tech Leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12150/payfi-tech-leader/) |
 | BGW Senior Backend Engineer 区块链资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
 | PayFi Backend Engineer PayFi技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16396/staff-frontend-engineer/) |
-| 高级产品经理，代币上市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16872/senior-product-manager-token-listing/) |
-| ANZ B2B市场主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16874/b2b-marketing-lead-anz/) |
-| 软件工程师，实验室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16870/software-engineer-labs/) |
-| 计算 Staff 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16871/staff-software-engineer-compute/) |
-| Earn产品运营经理（传统金融） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16873/earn-product-operation-manager-tradfi/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
