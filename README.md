@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3115</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品营销经理，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16954/product-marketing-manager-advertising/) |
+| 移动端/全栈Staff+软件工程师，消费变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16953/mobile-full-stack-staff-software-engineer-consumer-monetization/) |
+| 并购财务整合主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16955/ma-finance-integration-lead/) |
+| 高级产品经理 - 增长营销赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16952/sr-product-manager-growth-marketing-enablement/) |
+| 商业技术工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
 | AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 全栈高级工程师，消费者变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
@@ -37,12 +42,6 @@
 | 前沿代理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
 | 系统研究工程师实习生 - GPU编程（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
-| 软件工程师，应届生 (2027) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16583/software-engineer-new-grad-2027/) |
-| 软件工程师实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16582/software-engineer-intern-winter-2027/) |
-| 软件工程师实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16581/software-engineer-intern-summer-2027/) |
-| 软件测试开发实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16580/software-development-in-test-intern-summer-2027/) |
-| 模型塑造研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| 模型塑造研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-23 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
