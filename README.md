@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17072/security-program-manager/) |
+| 战略财务，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
+| 增长营销经理，代理堆栈 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
+| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 | 美洲法务副总顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
@@ -39,10 +43,6 @@
 | 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
 | 高级财务经理，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
 | 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
-| 初创企业客户经理-安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| 定时任务软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
-| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

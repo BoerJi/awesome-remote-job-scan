@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17072/security-program-manager/) |
+| Strategic Finance, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
+| Growth Marketing Manager, Agent Stack | Hybrid | [View →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
+| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 | Deputy General Counsel, Head of Americas Legal | On-site | [View →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
@@ -39,10 +43,6 @@
 | Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
 | Senior Finance Manager, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
 | Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
-| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| Software Engineer, Scheduled Tasks | Hybrid | [View →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
-| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
