@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
 | Senior Product Manager, Data | On-site | [View →](https://www.remotejobscan.com/job/16978/senior-product-manager-data/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
@@ -37,7 +38,6 @@
 | Senior Technical Recruiter, Engineering Leadership | Hybrid | [View →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
 | Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
-| Research Scientist, Multi-Agent | On-site | [View →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
 | Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | Manager, Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9493/manager-commercial-counsel-gtm/) |
 | IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
