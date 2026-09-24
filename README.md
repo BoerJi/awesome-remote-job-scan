@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3140</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
+| 美洲法务副总顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
+| 高级GTM与业务招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
+| 圣弗朗西斯科专属支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17068/dedicated-support-engineer-san-francisco/) |
+| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
+| 全球流动领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17069/global-mobility-lead/) |
+| 安全工程师，检测响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
+| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| 绩效营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
+| 执行营销项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
+| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
+| EMEA商业销售总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
+| 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
+| 高级财务经理，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
+| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
+| 初创企业客户经理-安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
 | 定时任务软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
-| 机器学习工程师，核心实验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17066/machine-learning-engineer-core-experimentation/) |
-| 首席监管官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9229/deputy-chief-regulatory-officer/) |
-| 高级产品经理，帮助中心（客户体验自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
-| EAA CX高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
-| 高级客户经理 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
-| 合作伙伴营销经理，全球及区域系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
-| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
-| 首席销售交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9238/prime-sales-trader/) |
-| 软件工程师，可观察性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17064/senior-frontend-engineer/) |
-| 云基础设施工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17063/engineering-manager-cloud-infrastructure/) |
-| 欧洲、中东、非洲地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17062/account-associate-emea/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 英国及爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
-| SOX经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
-| 合规、国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17060/compliance-international-investigations-associate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
