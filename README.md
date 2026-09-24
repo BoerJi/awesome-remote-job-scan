@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SPARC商业顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
+| 多智能体研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
+| 全球市场商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
+| GTM商业法律顾问经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9493/manager-commercial-counsel-gtm/) |
+| 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
+| 知识产权顾问、商标与域名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
+| 收入部高级助理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16969/manager-executive-assistants-revenue/) |
+| 知识产权顾问，专利 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
+| 高级助理（人事）经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16968/manager-executive-assistants-people/) |
+| 规模化企业客户经理，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16965/scaled-enterprise-account-executive-industries/) |
 | 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16962/staff-software-engineer-ai-compute-together-cloud/) |
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 销售行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16963/executive-assistant-sales/) |
@@ -32,15 +42,6 @@
 | AI产品技术专家（早期职业-行业） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
 | 支持交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16959/support-delivery-lead/) |
 | BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| 数据中心控制工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16957/data-center-controls-engineer/) |
-| 隐私总法律顾问助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
-| 产品营销经理，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16954/product-marketing-manager-advertising/) |
-| 移动端/全栈Staff+软件工程师，消费变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16953/mobile-full-stack-staff-software-engineer-consumer-monetization/) |
-| 并购财务整合主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16955/ma-finance-integration-lead/) |
-| 高级产品经理 - 增长营销赋能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16952/sr-product-manager-growth-marketing-enablement/) |
-| 商业技术工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
-| AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
-| 全栈高级工程师，消费者变现 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

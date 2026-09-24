@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
+| Research Scientist, Multi-Agent | On-site | [View →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
+| Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
+| Manager, Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9493/manager-commercial-counsel-gtm/) |
+| IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
+| IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
+| Manager, Executive Assistants (Revenue) | Remote | [View →](https://www.remotejobscan.com/job/16969/manager-executive-assistants-revenue/) |
+| IP Counsel, Patents | On-site | [View →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
+| Manager, Executive Assistants (People) | Remote | [View →](https://www.remotejobscan.com/job/16968/manager-executive-assistants-people/) |
+| Scaled Enterprise Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/16965/scaled-enterprise-account-executive-industries/) |
 | Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/16962/staff-software-engineer-ai-compute-together-cloud/) |
 | Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-ai-compute-together-cloud/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
@@ -33,15 +43,6 @@
 | Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
 | Support Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16959/support-delivery-lead/) |
 | BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Data Center Controls Engineer | Remote | [View →](https://www.remotejobscan.com/job/16957/data-center-controls-engineer/) |
-| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
-| Product Marketing Manager, Advertising | Hybrid | [View →](https://www.remotejobscan.com/job/16954/product-marketing-manager-advertising/) |
-| Mobile / Full Stack Staff+ Software Engineer, Consumer Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/16953/mobile-full-stack-staff-software-engineer-consumer-monetization/) |
-| M&A Finance Integration Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16955/ma-finance-integration-lead/) |
-| Sr Product Manager - Growth Marketing Enablement | Remote | [View →](https://www.remotejobscan.com/job/16952/sr-product-manager-growth-marketing-enablement/) |
-| Head of Business Technology Engineering | On-site | [View →](https://www.remotejobscan.com/job/16817/head-of-business-technology-engineering/) |
-| Lead Engineer, AI Quality | Remote | [View →](https://www.remotejobscan.com/job/16939/lead-engineer-ai-quality/) |
-| Full Stack Staff+ Software Engineer, Consumer Monetization | Hybrid | [View →](https://www.remotejobscan.com/job/16937/full-stack-staff-software-engineer-consumer-monetization/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
