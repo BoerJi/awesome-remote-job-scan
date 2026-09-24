@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
+| Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
+| Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
+| Prime Sales Trader | Remote | [View →](https://www.remotejobscan.com/job/9238/prime-sales-trader/) |
+| Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
+| Senior Frontend Engineer | On-site | [View →](https://www.remotejobscan.com/job/17064/senior-frontend-engineer/) |
+| Engineering Manager, Cloud Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17063/engineering-manager-cloud-infrastructure/) |
+| Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17062/account-associate-emea/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
 | SOX Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | Compliance, International Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/17060/compliance-international-investigations-associate/) |
 | Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17061/partner-manager-microsoft-co-sell/) |
@@ -33,15 +43,6 @@
 | Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | Software Engineer, Backend | Remote | [View →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
 | Product Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
-| Senior Product Manager - Pro Onboarding | Remote | [View →](https://www.remotejobscan.com/job/17058/senior-product-manager-pro-onboarding/) |
-| Software Engineer, eve | Hybrid | [View →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
-| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
-| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| Senior Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
-| Software Engineer, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

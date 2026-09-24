@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级客户经理 - 蒙特利尔/大西洋加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
+| 合作伙伴营销经理，全球及区域系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
+| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
+| 首席销售交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9238/prime-sales-trader/) |
+| 软件工程师，可观察性 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
+| 高级前端工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17064/senior-frontend-engineer/) |
+| 云基础设施工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17063/engineering-manager-cloud-infrastructure/) |
+| 欧洲、中东、非洲地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17062/account-associate-emea/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| 英国及爱尔兰销售发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
 | SOX经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | 合规、国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17060/compliance-international-investigations-associate/) |
 | 微软联合销售合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17061/partner-manager-microsoft-co-sell/) |
@@ -33,15 +43,6 @@
 | 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | 后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
 | 产品通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
-| 高级产品经理 - Pro Onboarding | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17058/senior-product-manager-pro-onboarding/) |
-| 软件工程师，eve | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9802/software-engineer-eve/) |
-| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9793/software-engineer-ai-gateway/) |
-| BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| 高级增长产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11863/senior-product-designer-growth/) |
-| 可观测性软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9805/software-engineer-observability/) |
-| 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
-| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
