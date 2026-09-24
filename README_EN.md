@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Technical Recruiter, Engineering Leadership | Hybrid | [View →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
+| Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | Research Scientist, Multi-Agent | On-site | [View →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
 | Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
@@ -41,8 +43,6 @@
 | Executive Assistant (Communications & Marketing) | On-site | [View →](https://www.remotejobscan.com/job/16961/executive-assistant-communications-marketing/) |
 | Deployment Strategist Lead - USA | Remote | [View →](https://www.remotejobscan.com/job/16960/deployment-strategist-lead-usa/) |
 | Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
-| Support Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16959/support-delivery-lead/) |
-| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

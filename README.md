@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级技术招聘专员，工程领导力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
+| 首席商业官办公室战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | SPARC商业顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | 多智能体研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
 | 全球市场商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
@@ -40,8 +42,6 @@
 | 行政助理（通讯与市场） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16961/executive-assistant-communications-marketing/) |
 | 部署策略主管 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16960/deployment-strategist-lead-usa/) |
 | AI产品技术专家（早期职业-行业） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
-| 支持交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16959/support-delivery-lead/) |
-| BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
