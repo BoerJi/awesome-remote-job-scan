@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3138</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SOX Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
+| Product Manager, Fiat & FCM | Hybrid | [View →](https://www.remotejobscan.com/job/17042/product-manager-fiat-fcm/) |
+| Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
+| Senior Software Engineer- Blockchain Platform (Wallets, Liquidity & Bridging) | Remote | [View →](https://www.remotejobscan.com/job/17040/senior-software-engineer-blockchain-platform-wallets-liquidity-bridging/) |
+| Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17041/member-of-technical-staff-new-grad/) |
+| Growth - Lifecycle Lead (B2B) | Hybrid | [View →](https://www.remotejobscan.com/job/17043/growth-lifecycle-lead-b2b/) |
 | External Affairs, South Korea | On-site | [View →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
 | Applied AI Engineer, Startups (Codex) | On-site | [View →](https://www.remotejobscan.com/job/17039/applied-ai-engineer-startups-codex/) |
 | Supply Chain Operations Program Manager, AI Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17038/supply-chain-operations-program-manager-ai-infrastructure/) |
@@ -35,9 +41,6 @@
 | Brand Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
 | VIP Relationship Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
 | Senior Vendor Manager - SMB Sales | Hybrid | [View →](https://www.remotejobscan.com/job/17020/senior-vendor-manager-smb-sales/) |
-| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
-| Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/17007/software-engineer-mobile/) |
-| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

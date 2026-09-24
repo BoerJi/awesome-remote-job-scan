@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3138</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SOX经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
+| 法币与FCM产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17042/product-manager-fiat-fcm/) |
+| Aave App Vaults高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
+| 区块链平台高级软件工程师（钱包、流动性与跨链桥接） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17040/senior-software-engineer-blockchain-platform-wallets-liquidity-bridging/) |
+| 技术员工（应届毕业生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17041/member-of-technical-staff-new-grad/) |
+| 增长 - 生命周期负责人（B2B） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17043/growth-lifecycle-lead-b2b/) |
 | 韩国对外事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16092/external-affairs-south-korea/) |
 | 应用AI工程师，初创企业（Codex） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17039/applied-ai-engineer-startups-codex/) |
 | AI基础设施供应链运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17038/supply-chain-operations-program-manager-ai-infrastructure/) |
@@ -35,9 +41,6 @@
 | 品牌营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
 | 波兰 VIP 关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
 | 高级供应商经理 - SMB销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17020/senior-vendor-manager-smb-sales/) |
-| SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
-| 移动端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17007/software-engineer-mobile/) |
-| (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
