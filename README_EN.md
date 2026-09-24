@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3140</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Scheduled Tasks | Hybrid | [View →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
+| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
+| Machine Learning Engineer, Core Experimentation | Hybrid | [View →](https://www.remotejobscan.com/job/17066/machine-learning-engineer-core-experimentation/) |
+| Deputy Chief Regulatory Officer | Remote | [View →](https://www.remotejobscan.com/job/9229/deputy-chief-regulatory-officer/) |
+| Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
+| Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 | Senior Account Executive - Montreal/Atlantic Canada | Remote | [View →](https://www.remotejobscan.com/job/15282/senior-account-executive-montrealatlantic-canada/) |
 | Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
@@ -35,14 +43,6 @@
 | Sales Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/sales-development-representative-uki/) |
 | SOX Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | Compliance, International Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/17060/compliance-international-investigations-associate/) |
-| Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17061/partner-manager-microsoft-co-sell/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/9799/software-engineer-compute/) |
-| Software Engineer, CDN | Hybrid | [View →](https://www.remotejobscan.com/job/9796/software-engineer-cdn/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
-| Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
-| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Software Engineer, Backend | Remote | [View →](https://www.remotejobscan.com/job/9795/software-engineer-backend/) |
-| Product Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11391/product-communications-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
