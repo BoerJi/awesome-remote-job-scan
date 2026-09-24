@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| APAC Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17034/apac-recruiting-coordinator/) |
 | Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/17033/solutions-engineer/) |
 | Senior/Staff Software Engineer, C++ - Trading Service | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-c-trading-service/) |
+| Backend Engineer (Java) - Trading | Remote | [View →](https://www.remotejobscan.com/job/17035/backend-engineer-java-trading/) |
 | Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17026/customer-success/) |
 | Account Director, Government | Hybrid | [View →](https://www.remotejobscan.com/job/17025/account-director-government/) |
 | Brand Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
@@ -38,8 +40,6 @@
 | Chief Accountant, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16999/chief-accountant-payments-kazakhstan/) |
 | Operations Manager, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/17001/operations-manager-payments-kazakhstan/) |
 | Legal & Regulatory Counsel, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/17000/legal-regulatory-counsel-payments-kazakhstan/) |
-| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
-| Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

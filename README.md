@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3139</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17034/apac-recruiting-coordinator/) |
 | 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17033/solutions-engineer/) |
 | 高级/资深软件工程师，C++ - 交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-c-trading-service/) |
+| 后端工程师 (Java) - 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17035/backend-engineer-java-trading/) |
 | 客户成功 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17026/customer-success/) |
 | 政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17025/account-director-government/) |
 | 品牌营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
@@ -38,8 +40,6 @@
 | 首席会计师，支付（哈萨克斯坦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16999/chief-accountant-payments-kazakhstan/) |
 | 哈萨克斯坦支付运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17001/operations-manager-payments-kazakhstan/) |
 | 哈萨克斯坦支付法律与合规顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17000/legal-regulatory-counsel-payments-kazakhstan/) |
-| 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
-| Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
