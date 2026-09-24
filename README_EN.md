@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3130</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
+| Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
+| Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
+| Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
+| Senior Product Designer | On-site | [View →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
+| Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 | Talent Partner, G&A | Remote | [View →](https://www.remotejobscan.com/job/16974/talent-partner-ga/) |
 | Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
@@ -36,13 +42,6 @@
 | IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | Manager, Executive Assistants (Revenue) | Remote | [View →](https://www.remotejobscan.com/job/16969/manager-executive-assistants-revenue/) |
 | IP Counsel, Patents | On-site | [View →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
-| Manager, Executive Assistants (People) | Remote | [View →](https://www.remotejobscan.com/job/16968/manager-executive-assistants-people/) |
-| Scaled Enterprise Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/16965/scaled-enterprise-account-executive-industries/) |
-| Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/16962/staff-software-engineer-ai-compute-together-cloud/) |
-| Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-ai-compute-together-cloud/) |
-| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| Executive Assistant (Sales) | Remote | [View →](https://www.remotejobscan.com/job/16963/executive-assistant-sales/) |
-| Engineering Manager, FinHub - Financial Intelligence (Platform) | Remote | [View →](https://www.remotejobscan.com/job/13615/engineering-manager-finhub-financial-intelligence-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

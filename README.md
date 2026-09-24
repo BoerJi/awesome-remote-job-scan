@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3130</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
+| 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
+| 专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
+| 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
+| 高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
+| 高级产品设计师，Web3 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
+| Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6933/senior-product-designer-web3/) |
 | 人才合作伙伴，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16974/talent-partner-ga/) |
 | 高级商法顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
@@ -36,12 +43,6 @@
 | 知识产权顾问、商标与域名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 | 收入部高级助理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16969/manager-executive-assistants-revenue/) |
 | 知识产权顾问，专利 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
-| 高级助理（人事）经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16968/manager-executive-assistants-people/) |
-| 规模化企业客户经理，行业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16965/scaled-enterprise-account-executive-industries/) |
-| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16962/staff-software-engineer-ai-compute-together-cloud/) |
-| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| 销售行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16963/executive-assistant-sales/) |
-| FinHub-金融智能（平台）工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13615/engineering-manager-finhub-financial-intelligence-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
