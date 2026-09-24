@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3138</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Prime Sales Trader | Remote | [View →](https://www.remotejobscan.com/job/9238/prime-sales-trader/) |
+| Customer Trust Specialist | On-site | [View →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
+| Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
+| Senior Software Engineer, Backend (Institutional - | Remote | [View →](https://www.remotejobscan.com/job/17045/senior-software-engineer-backend-institutional/) |
+| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17044/team-lead-legal-response/) |
+| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/17048/executive-assistant/) |
+| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | SOX Manager | Hybrid | [View →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | Product Manager, Fiat & FCM | Hybrid | [View →](https://www.remotejobscan.com/job/17042/product-manager-fiat-fcm/) |
 | Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
@@ -33,14 +41,6 @@
 | Applied AI Engineer, Startups (Codex) | On-site | [View →](https://www.remotejobscan.com/job/17039/applied-ai-engineer-startups-codex/) |
 | Supply Chain Operations Program Manager, AI Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17038/supply-chain-operations-program-manager-ai-infrastructure/) |
 | APAC Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17034/apac-recruiting-coordinator/) |
-| Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/17033/solutions-engineer/) |
-| Senior/Staff Software Engineer, C++ - Trading Service | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-c-trading-service/) |
-| Backend Engineer (Java) - Trading | Remote | [View →](https://www.remotejobscan.com/job/17035/backend-engineer-java-trading/) |
-| Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17026/customer-success/) |
-| Account Director, Government | Hybrid | [View →](https://www.remotejobscan.com/job/17025/account-director-government/) |
-| Brand Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
-| VIP Relationship Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
-| Senior Vendor Manager - SMB Sales | Hybrid | [View →](https://www.remotejobscan.com/job/17020/senior-vendor-manager-smb-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

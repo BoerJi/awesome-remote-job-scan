@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3138</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级销售交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9238/prime-sales-trader/) |
+| 客户信任专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15947/customer-trust-specialist/) |
+| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
+| 高级软件工程师，后端（机构 - | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17045/senior-software-engineer-backend-institutional/) |
+| 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17044/team-lead-legal-response/) |
+| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17048/executive-assistant/) |
+| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | SOX经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14627/sox-manager/) |
 | 法币与FCM产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17042/product-manager-fiat-fcm/) |
 | Aave App Vaults高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
@@ -33,14 +41,6 @@
 | 应用AI工程师，初创企业（Codex） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17039/applied-ai-engineer-startups-codex/) |
 | AI基础设施供应链运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17038/supply-chain-operations-program-manager-ai-infrastructure/) |
 | 亚太招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17034/apac-recruiting-coordinator/) |
-| 解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17033/solutions-engineer/) |
-| 高级/资深软件工程师，C++ - 交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-c-trading-service/) |
-| 后端工程师 (Java) - 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17035/backend-engineer-java-trading/) |
-| 客户成功 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17026/customer-success/) |
-| 政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17025/account-director-government/) |
-| 品牌营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
-| 波兰 VIP 关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
-| 高级供应商经理 - SMB销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17020/senior-vendor-manager-smb-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
