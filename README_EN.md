@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3140</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
+| Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/17007/software-engineer-mobile/) |
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
@@ -38,8 +40,6 @@
 | Staff+ Software Engineer, Account Creation | On-site | [View →](https://www.remotejobscan.com/job/16985/staff-software-engineer-account-creation/) |
 | Staff+ Software Engineer, Access Programs | On-site | [View →](https://www.remotejobscan.com/job/16984/staff-software-engineer-access-programs/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
-| Research Scientist, Multi-Agent | On-site | [View →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
-| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
