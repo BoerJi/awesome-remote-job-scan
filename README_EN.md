@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Engineer | On-site | [View →](https://www.remotejobscan.com/job/17033/solutions-engineer/) |
 | Senior/Staff Software Engineer, C++ - Trading Service | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-c-trading-service/) |
 | Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17026/customer-success/) |
 | Account Director, Government | Hybrid | [View →](https://www.remotejobscan.com/job/17025/account-director-government/) |
@@ -39,7 +40,6 @@
 | Legal & Regulatory Counsel, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/17000/legal-regulatory-counsel-payments-kazakhstan/) |
 | Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
 | Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
-| Risk Manager, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16998/risk-manager-payments-kazakhstan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
