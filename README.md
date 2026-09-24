@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 隐私事件响应经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
+| 高级数据产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16978/senior-product-manager-data/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
 | 专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
@@ -41,8 +43,6 @@
 | GTM商业法律顾问经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9493/manager-commercial-counsel-gtm/) |
 | 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
 | 知识产权顾问、商标与域名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
-| 收入部高级助理经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16969/manager-executive-assistants-revenue/) |
-| 知识产权顾问，专利 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

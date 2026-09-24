@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
+| Senior Product Manager, Data | On-site | [View →](https://www.remotejobscan.com/job/16978/senior-product-manager-data/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
 | Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
@@ -40,8 +42,6 @@
 | Manager, Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9493/manager-commercial-counsel-gtm/) |
 | IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
 | IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
-| Manager, Executive Assistants (Revenue) | Remote | [View →](https://www.remotejobscan.com/job/16969/manager-executive-assistants-revenue/) |
-| IP Counsel, Patents | On-site | [View →](https://www.remotejobscan.com/job/13341/ip-counsel-patents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
