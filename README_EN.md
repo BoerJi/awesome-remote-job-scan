@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Government | Hybrid | [View →](https://www.remotejobscan.com/job/17025/account-director-government/) |
+| Brand Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17021/brand-marketing-manager/) |
+| VIP Relationship Manager, Poland | Remote | [View →](https://www.remotejobscan.com/job/9149/vip-relationship-manager-poland/) |
 | Senior Vendor Manager - SMB Sales | Hybrid | [View →](https://www.remotejobscan.com/job/17020/senior-vendor-manager-smb-sales/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/17007/software-engineer-mobile/) |
@@ -37,9 +40,6 @@
 | Risk Manager, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16998/risk-manager-payments-kazakhstan/) |
 | Compliance Officer, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16989/compliance-officer-payments-kazakhstan/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
-| Trading Product Manager 交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
-| Staff+ Software Engineer, Account Creation | On-site | [View →](https://www.remotejobscan.com/job/16985/staff-software-engineer-account-creation/) |
-| Staff+ Software Engineer, Access Programs | On-site | [View →](https://www.remotejobscan.com/job/16984/staff-software-engineer-access-programs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
