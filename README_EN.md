@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Account Creation | On-site | [View →](https://www.remotejobscan.com/job/16985/staff-software-engineer-account-creation/) |
+| Staff+ Software Engineer, Access Programs | On-site | [View →](https://www.remotejobscan.com/job/16984/staff-software-engineer-access-programs/) |
+| Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
+| Research Scientist, Multi-Agent | On-site | [View →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
 | Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
 | Senior Product Manager, Data | On-site | [View →](https://www.remotejobscan.com/job/16978/senior-product-manager-data/) |
@@ -38,10 +42,6 @@
 | Senior Technical Recruiter, Engineering Leadership | Hybrid | [View →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
 | Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
-| Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
-| Manager, Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9493/manager-commercial-counsel-gtm/) |
-| IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
-| IP Counsel, Trademarks & Domains | On-site | [View →](https://www.remotejobscan.com/job/14364/ip-counsel-trademarks-domains/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
