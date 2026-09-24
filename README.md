@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3124</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
+| Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
+| 风险经理，支付（哈萨克斯坦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16998/risk-manager-payments-kazakhstan/) |
+| 合规官，支付（哈萨克斯坦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16989/compliance-officer-payments-kazakhstan/) |
+| Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
+| Trading Product Manager 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
 | Staff+ 软件工程师，账户创建 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16985/staff-software-engineer-account-creation/) |
 | Staff+ 软件工程师，访问计划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16984/staff-software-engineer-access-programs/) |
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15647/product-designer/) |
@@ -37,12 +43,6 @@
 | 高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
 | 高级产品设计师，Web3 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 | Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6933/senior-product-designer-web3/) |
-| 人才合作伙伴，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16974/talent-partner-ga/) |
-| 高级商法顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
-| 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
-| 高级技术招聘专员，工程领导力 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
-| 首席商业官办公室战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
-| SPARC商业顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
+| Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
+| Risk Manager, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16998/risk-manager-payments-kazakhstan/) |
+| Compliance Officer, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16989/compliance-officer-payments-kazakhstan/) |
+| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
+| Trading Product Manager 交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
 | Staff+ Software Engineer, Account Creation | On-site | [View →](https://www.remotejobscan.com/job/16985/staff-software-engineer-account-creation/) |
 | Staff+ Software Engineer, Access Programs | On-site | [View →](https://www.remotejobscan.com/job/16984/staff-software-engineer-access-programs/) |
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
@@ -36,12 +42,6 @@
 | Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
 | Senior Product Designer | On-site | [View →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
 | Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
-| Talent Partner, G&A | Remote | [View →](https://www.remotejobscan.com/job/16974/talent-partner-ga/) |
-| Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
-| Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
-| Senior Technical Recruiter, Engineering Leadership | Hybrid | [View →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
-| Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
-| Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
