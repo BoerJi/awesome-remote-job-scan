@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3128</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3140</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| Chief Accountant, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16999/chief-accountant-payments-kazakhstan/) |
+| Operations Manager, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/17001/operations-manager-payments-kazakhstan/) |
+| Legal & Regulatory Counsel, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/17000/legal-regulatory-counsel-payments-kazakhstan/) |
 | Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
 | Fiat Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
 | Risk Manager, Payments (Kazakhstan) | Remote | [View →](https://www.remotejobscan.com/job/16998/risk-manager-payments-kazakhstan/) |
@@ -34,14 +40,6 @@
 | Product Designer 产品设计师 | Remote | [View →](https://www.remotejobscan.com/job/15647/product-designer/) |
 | Research Scientist, Multi-Agent | On-site | [View →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
 | Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
-| Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
-| Senior Product Manager, Data | On-site | [View →](https://www.remotejobscan.com/job/16978/senior-product-manager-data/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
-| Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
-| Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
-| Senior Product Designer | On-site | [View →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
-| Senior Product Designer, Web3 | On-site | [View →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3128</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3140</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
+| 高级/资深工程师，去中心化交易所（DEX） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| 首席会计师，支付（哈萨克斯坦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16999/chief-accountant-payments-kazakhstan/) |
+| 哈萨克斯坦支付运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17001/operations-manager-payments-kazakhstan/) |
+| 哈萨克斯坦支付法律与合规顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17000/legal-regulatory-counsel-payments-kazakhstan/) |
 | 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
 | Fiat Operations Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15872/fiat-operations-manager/) |
 | 风险经理，支付（哈萨克斯坦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16998/risk-manager-payments-kazakhstan/) |
@@ -34,15 +40,6 @@
 | Product Designer 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15647/product-designer/) |
 | 多智能体研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16964/research-scientist-multi-agent/) |
 | 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
-| 隐私事件响应经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
-| 高级数据产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16978/senior-product-manager-data/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
-| 专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
-| 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
-| 高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16542/senior-product-designer/) |
-| 高级产品设计师，Web3 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15330/senior-product-designer-web3/) |
-| Web3高级产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6933/senior-product-designer-web3/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-24 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
