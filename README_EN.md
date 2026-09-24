@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3130</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Talent Partner, G&A | Remote | [View →](https://www.remotejobscan.com/job/16974/talent-partner-ga/) |
+| Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
+| Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
 | Senior Technical Recruiter, Engineering Leadership | Hybrid | [View →](https://www.remotejobscan.com/job/16971/senior-technical-recruiter-engineering-leadership/) |
 | Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
@@ -40,9 +43,6 @@
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Executive Assistant (Sales) | Remote | [View →](https://www.remotejobscan.com/job/16963/executive-assistant-sales/) |
 | Engineering Manager, FinHub - Financial Intelligence (Platform) | Remote | [View →](https://www.remotejobscan.com/job/13615/engineering-manager-finhub-financial-intelligence-platform/) |
-| Executive Assistant (Communications & Marketing) | On-site | [View →](https://www.remotejobscan.com/job/16961/executive-assistant-communications-marketing/) |
-| Deployment Strategist Lead - USA | Remote | [View →](https://www.remotejobscan.com/job/16960/deployment-strategist-lead-usa/) |
-| Member of Technical Staff, AI Products (Early Career - Industry) | On-site | [View →](https://www.remotejobscan.com/job/16624/member-of-technical-staff-ai-products-early-career-industry/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-24 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
