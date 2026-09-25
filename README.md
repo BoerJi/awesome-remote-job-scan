@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器项目 - 软件工程师（KYB） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17081/binance-accelerator-program-software-engineer-kyb/) |
+| IT安全与系统合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17079/it-security-systems-compliance-specialist/) |
+| 搜索基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17080/software-engineer-search-infrastructure/) |
 | 微软联合销售伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
 | 增长营销经理，代理栈 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
 | SOX安全控制保障主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
@@ -39,9 +42,6 @@
 | 战略财务，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
 | 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
-| 美洲法务副总顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
-| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| 高级GTM与业务招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

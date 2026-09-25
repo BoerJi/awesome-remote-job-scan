@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Software Engineer (KYB) | Remote | [View →](https://www.remotejobscan.com/job/17081/binance-accelerator-program-software-engineer-kyb/) |
+| IT Security & Systems Compliance Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17079/it-security-systems-compliance-specialist/) |
+| Software Engineer, Search Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17080/software-engineer-search-infrastructure/) |
 | Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
 | Growth Marketing Manager, Agent Stack | Hybrid | [View →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
 | Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
@@ -39,9 +42,6 @@
 | Strategic Finance, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
 | Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
-| Deputy General Counsel, Head of Americas Legal | On-site | [View →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
-| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| Senior Recruiter, GTM & Business | On-site | [View →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
