@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
+| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| Binance Accelerator Programm - Product Manager (meme) | Remote | [View →](https://www.remotejobscan.com/job/17082/binance-accelerator-programm-product-manager-meme/) |
 | Binance Accelerator Program - Software Engineer (KYB) | Remote | [View →](https://www.remotejobscan.com/job/17081/binance-accelerator-program-software-engineer-kyb/) |
 | IT Security & Systems Compliance Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17079/it-security-systems-compliance-specialist/) |
 | Software Engineer, Search Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17080/software-engineer-search-infrastructure/) |
@@ -37,11 +41,6 @@
 | Product Manager, Dashboard | Remote | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 | Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
 | Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
-| Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
-| Security Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17072/security-program-manager/) |
-| Strategic Finance, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
-| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
-| Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

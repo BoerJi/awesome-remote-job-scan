@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| 亚太、中东及非洲地区诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
+| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| 币安加速器项目 - 产品经理（meme） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17082/binance-accelerator-programm-product-manager-meme/) |
 | 币安加速器项目 - 软件工程师（KYB） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17081/binance-accelerator-program-software-engineer-kyb/) |
 | IT安全与系统合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17079/it-security-systems-compliance-specialist/) |
 | 搜索基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17080/software-engineer-search-infrastructure/) |
@@ -37,11 +42,6 @@
 | 产品经理，仪表盘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 | 移动端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
 | 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
-| 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
-| 安全项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17072/security-program-manager/) |
-| 战略财务，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
-| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
-| 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
