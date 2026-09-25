@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3134</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
+| 研究顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15442/research-counsel/) |
+| 并购公司法务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
+| 计算与基础设施顾问，房地产 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
+| 财务与战略、交易台 - 亚太地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
+| Rosalind Workbench 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17140/engineering-manager-rosalind-workbench/) |
+| GFCO项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
 | 专职支持工程师 - 多伦多 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17139/dedicated-support-engineer-toronto/) |
 | 监管分析与报告数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
 | 客户体验专家 | 合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
@@ -36,13 +43,6 @@
 | 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | 商业法务高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | 产品设计师，安全卫士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
-| 广告解决方案客户合作伙伴（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
-| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| 软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
-| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
-| GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17128/finance-strategy-deal-strategy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

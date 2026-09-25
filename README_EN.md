@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
+| Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
+| Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
+| Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
+| Finance & Strategy, Deal Desk - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
+| Engineering Manager, Rosalind Workbench | Hybrid | [View →](https://www.remotejobscan.com/job/17140/engineering-manager-rosalind-workbench/) |
+| GFCO Program Manager | Remote | [View →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
 | Dedicated Support Engineer - Toronto | On-site | [View →](https://www.remotejobscan.com/job/17139/dedicated-support-engineer-toronto/) |
 | Data Analyst, Regulatory Analytics and Reporting | Remote | [View →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
 | Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
@@ -35,13 +42,6 @@
 | Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
-| Client Partner, Ads Solutions (Spanish Speaking) | On-site | [View →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
-| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
-| Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
-| GRC Analyst | Remote | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/17128/finance-strategy-deal-strategy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
