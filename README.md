@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级后端软件工程师（消费 - 增长基础） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
+| 高级后端软件工程师（消费者 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
+| 高级性能营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| 人工智能工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17116/could-ai-engineer/) |
 | 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobileios/) |
 | 现场工程运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | 数据平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
@@ -39,10 +43,6 @@
 | AI SDK软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
 | CDN 内容软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9797/software-engineer-cdn-content/) |
 | 毛里求斯MLRO职位 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17107/mlro-mauritius/) |
-| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

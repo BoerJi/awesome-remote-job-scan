@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3156</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
+| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
+| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| Could AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/17116/could-ai-engineer/) |
 | Software Engineer, Mobile(iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobileios/) |
 | Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
@@ -39,10 +43,6 @@
 | Software Engineer, AI SDK | Hybrid | [View →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
 | Software Engineer, CDN Content | Hybrid | [View →](https://www.remotejobscan.com/job/9797/software-engineer-cdn-content/) |
 | MLRO, Mauritius | Remote | [View →](https://www.remotejobscan.com/job/17107/mlro-mauritius/) |
-| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
