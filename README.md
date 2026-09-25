@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3149</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | 亚太地区人力资源法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
 | 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
@@ -42,7 +43,6 @@
 | EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 | 毛里求斯副合规官/反洗钱合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17106/deputy-mlro-compliance-officer-mauritius/) |
-| 产品策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9775/product-strategy-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

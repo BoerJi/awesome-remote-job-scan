@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3149</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | People Legal Counsel, APAC | On-site | [View →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
 | EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
@@ -42,7 +43,6 @@
 | Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 | Deputy MLRO/ Compliance Officer, Mauritius | Remote | [View →](https://www.remotejobscan.com/job/17106/deputy-mlro-compliance-officer-mauritius/) |
-| Product Strategy & Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9775/product-strategy-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
