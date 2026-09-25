@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
+| Manager, People Operations | Remote | [View →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
+| Senior Compliance Program Manager, Political Law | On-site | [View →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
 | Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
 | Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
@@ -39,9 +42,6 @@
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/senior-integrated-campaigns-manager/) |
 | Trade Surveillance Associate | On-site | [View →](https://www.remotejobscan.com/job/17132/trade-surveillance-associate/) |
 | Corporate Security GSOC Operator | On-site | [View →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
-| Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
-| Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
-| Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
