@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 隐私事件响应经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
+| 高级/员工工程师 - Web3 - 链上数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
+| Web3大数据工程师（员工/高级员工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
+| OKX Web3钱包高级Java工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
+| 高级/资深Java工程师，OKX Web3钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
+| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-payment-card/) |
 | 高级/员工密码学工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | 高级/资深软件工程师，流动性平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8632/seniorstaff-software-engineer-liquidity-platform/) |
 | 合规主管/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
@@ -34,12 +41,6 @@
 | 高级资产管理产品经理（资金划转、充值与提现） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | 资产（税务报告、客户陈述与投资组合）首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
-| 澳洲商业总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
-| 副总法律顾问 - 诉讼与调查，亚太、中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| 亚太、中东及非洲地区诉讼与调查副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14402/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Workday集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| 币安加速器项目 - 产品经理（meme） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17082/binance-accelerator-programm-product-manager-meme/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
+| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
+| Senior/Staff Engineer - Web3 - Onchain Data | On-site | [View →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
+| Staff/Senior Staff Web3 Big Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
+| Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
+| Senior Engineer - Fiat Payment, Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-payment-card/) |
 | Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
 | Senior/Staff Software Engineer, Liquidity Platform | On-site | [View →](https://www.remotejobscan.com/job/8632/seniorstaff-software-engineer-liquidity-platform/) |
 | Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
@@ -33,11 +39,6 @@
 | Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
-| Commercial Director, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
-| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
-| Binance Accelerator Programm - Product Manager (meme) | Remote | [View →](https://www.remotejobscan.com/job/17082/binance-accelerator-programm-product-manager-meme/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
