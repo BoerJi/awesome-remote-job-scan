@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,24 +23,21 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff/Staff Cryptography Engineer | On-site | [View →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
+| Senior/Staff Software Engineer, Liquidity Platform | On-site | [View →](https://www.remotejobscan.com/job/8632/seniorstaff-software-engineer-liquidity-platform/) |
+| Principal / Staff Engineer - Compliance | On-site | [View →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
+| Senior Operations Manager, Liquidity Management | On-site | [View →](https://www.remotejobscan.com/job/17091/senior-operations-manager-liquidity-management/) |
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
+| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| (Senior) Product Director, Local Growth | Remote | [View →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
+| Commercial Director, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/commercial-director-au/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 | Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | Binance Accelerator Programm - Product Manager (meme) | Remote | [View →](https://www.remotejobscan.com/job/17082/binance-accelerator-programm-product-manager-meme/) |
-| Binance Accelerator Program - Software Engineer (KYB) | Remote | [View →](https://www.remotejobscan.com/job/17081/binance-accelerator-program-software-engineer-kyb/) |
-| IT Security & Systems Compliance Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17079/it-security-systems-compliance-specialist/) |
-| Software Engineer, Search Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17080/software-engineer-search-infrastructure/) |
-| Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
-| Growth Marketing Manager, Agent Stack | Hybrid | [View →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
-| Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| Digital Campaigns Strategist, Policy | On-site | [View →](https://www.remotejobscan.com/job/17073/digital-campaigns-strategist-policy/) |
-| Account Executive-Startups, EMEA (French Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
-| Product Manager, Fiat & FCM | Hybrid | [View →](https://www.remotejobscan.com/job/17076/product-manager-fiat-fcm/) |
-| Product Manager, Dashboard | Remote | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
-| Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
-| Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
