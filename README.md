@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 微软联合销售伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
+| 增长营销经理，代理栈 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
+| SOX安全控制保障主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
+| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| 数字政策活动策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17073/digital-campaigns-strategist-policy/) |
 | 欧洲中东地区初创企业客户经理（法语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
 | 法币与FCM产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17076/product-manager-fiat-fcm/) |
 | 产品经理，仪表盘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
@@ -36,12 +42,6 @@
 | 美洲法务副总顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 高级GTM与业务招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
-| 圣弗朗西斯科专属支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17068/dedicated-support-engineer-san-francisco/) |
-| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| 全球流动领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17069/global-mobility-lead/) |
-| 安全工程师，检测响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
-| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| 绩效营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

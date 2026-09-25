@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
+| Growth Marketing Manager, Agent Stack | Hybrid | [View →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
+| Lead, Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
+| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| Digital Campaigns Strategist, Policy | On-site | [View →](https://www.remotejobscan.com/job/17073/digital-campaigns-strategist-policy/) |
 | Account Executive-Startups, EMEA (French Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
 | Product Manager, Fiat & FCM | Hybrid | [View →](https://www.remotejobscan.com/job/17076/product-manager-fiat-fcm/) |
 | Product Manager, Dashboard | Remote | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
@@ -36,12 +42,6 @@
 | Deputy General Counsel, Head of Americas Legal | On-site | [View →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Senior Recruiter, GTM & Business | On-site | [View →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
-| Dedicated Support Engineer - San Francisco | Hybrid | [View →](https://www.remotejobscan.com/job/17068/dedicated-support-engineer-san-francisco/) |
-| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Global Mobility Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17069/global-mobility-lead/) |
-| Security Engineer, Detection Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
-| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| Performance Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
