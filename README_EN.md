@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Dedicated Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
+| Dedicated Support Engineer - Dublin | On-site | [View →](https://www.remotejobscan.com/job/17134/dedicated-support-engineer-dublin/) |
+| Dedicated Support Engineer - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17135/dedicated-support-engineer-tokyo/) |
+| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/senior-integrated-campaigns-manager/) |
+| Trade Surveillance Associate | On-site | [View →](https://www.remotejobscan.com/job/17132/trade-surveillance-associate/) |
+| Data Analyst, Regulatory Analytics and Reporting | Remote | [View →](https://www.remotejobscan.com/job/17133/data-analyst-regulatory-analytics-and-reporting/) |
 | Corporate Security GSOC Operator | On-site | [View →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
 | Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
@@ -37,12 +43,6 @@
 | Head of Finance - Cyprus | Remote | [View →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
 | Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
 | Member of Technical Staff (Search Core DevOps Engineer) | On-site | [View →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
-| Account Director, Digital Natives | MENA | Hybrid | [View →](https://www.remotejobscan.com/job/17125/account-director-digital-natives-mena/) |
-| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
-| People Legal Counsel, APAC | On-site | [View →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
-| EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

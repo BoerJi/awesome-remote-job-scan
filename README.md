@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 新加坡专属支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
+| 专责支持工程师 - 都柏林 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17134/dedicated-support-engineer-dublin/) |
+| 东京专属支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17135/dedicated-support-engineer-tokyo/) |
+| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/senior-integrated-campaigns-manager/) |
+| 交易监控专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17132/trade-surveillance-associate/) |
+| 数据分析师，监管分析与报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17133/data-analyst-regulatory-analytics-and-reporting/) |
 | 企业安全GSOC操作员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
 | 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | 商业法务高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
@@ -37,12 +43,6 @@
 | 塞浦路斯财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
 | 高级法律分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
 | 技术团队成员（搜索核心DevOps工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
-| 区域客户总监，数字原住民 | 中东与北非 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17125/account-director-digital-natives-mena/) |
-| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
-| 亚太地区人力资源法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
-| 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
-| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
