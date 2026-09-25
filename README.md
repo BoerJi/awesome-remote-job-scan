@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3130</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobileios/) |
+| 现场工程运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
+| 数据平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
+| 高级/主管产品经理 - 专业交易工具与体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
+| 内部代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
+| 巴基斯坦公关经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17105/pr-manager-pakistan/) |
+| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
+| 毛里求斯副合规官/反洗钱合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17106/deputy-mlro-compliance-officer-mauritius/) |
+| 产品策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9775/product-strategy-operations/) |
+| 安全软件工程师，身份与访问管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
+| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
+| 站点工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
+| AI SDK软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
+| CDN 内容软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9797/software-engineer-cdn-content/) |
+| 毛里求斯MLRO职位 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17107/mlro-mauritius/) |
+| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
 | 高级合规专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
-| 风险工程高级安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9656/staff-security-engineer-risk-engineering/) |
-| 隐私事件响应经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
-| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
-| 高级/员工工程师 - Web3 - 链上数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
-| Web3大数据工程师（员工/高级员工） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9003/staffsenior-staff-web3-big-data-engineer/) |
-| OKX Web3钱包高级Java工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15657/staffsenior-java-engineer-okx-web3-wallet/) |
-| 高级/资深Java工程师，OKX Web3钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
-| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-payment-card/) |
-| 高级/员工密码学工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11990/senior-staffstaff-cryptography-engineer/) |
-| 高级/资深软件工程师，流动性平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8632/seniorstaff-software-engineer-liquidity-platform/) |
-| 合规主管/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7610/principal-staff-engineer-compliance/) |
-| 首席/资深工程师 - 合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7609/principal-staff-engineer-compliance/) |
-| 流动性管理高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17091/senior-operations-manager-liquidity-management/) |
-| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| 高级资产管理产品经理（资金划转、充值与提现） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15338/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
-| 资产（税务报告、客户陈述与投资组合）首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| (高级)本地增长产品总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8960/senior-product-director-local-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
