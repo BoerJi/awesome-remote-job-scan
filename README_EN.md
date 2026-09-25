@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3140</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
+| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
+| Product Marketing Manager, Prediction Markets | Remote | [View →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
+| Wireless Regulatory Engineer - SAR | On-site | [View →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
+| Marketing Analytics Lead, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
 | Staff Technical Program Manager, CX Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 | Manager, People Operations | Remote | [View →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
 | Senior Compliance Program Manager, Political Law | On-site | [View →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
@@ -37,11 +43,6 @@
 | Data Analyst, Regulatory Analytics and Reporting | Remote | [View →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
 | Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
 | Dedicated Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
-| Dedicated Support Engineer - Dublin | On-site | [View →](https://www.remotejobscan.com/job/17134/dedicated-support-engineer-dublin/) |
-| Dedicated Support Engineer - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17135/dedicated-support-engineer-tokyo/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/senior-integrated-campaigns-manager/) |
-| Trade Surveillance Associate | On-site | [View →](https://www.remotejobscan.com/job/17132/trade-surveillance-associate/) |
-| Corporate Security GSOC Operator | On-site | [View →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

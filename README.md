@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3140</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
+| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
+| 产品营销经理，预测市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
+| 无线监管工程师 - SAR | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
+| 企业营销市场分析主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
 | 高级技术项目经理，CX代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 | 人事运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
 | 高级合规项目经理，政治法律 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
@@ -37,12 +43,6 @@
 | 监管分析与报告数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
 | 客户体验专家 | 合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
 | 新加坡专属支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
-| 专责支持工程师 - 都柏林 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17134/dedicated-support-engineer-dublin/) |
-| 东京专属支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17135/dedicated-support-engineer-tokyo/) |
-| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/senior-integrated-campaigns-manager/) |
-| 交易监控专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17132/trade-surveillance-associate/) |
-| 数据分析师，监管分析与报告 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17133/data-analyst-regulatory-analytics-and-reporting/) |
-| 企业安全GSOC操作员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
