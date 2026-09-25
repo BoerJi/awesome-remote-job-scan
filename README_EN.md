@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
+| Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| Group Product Manager, FinHub | Remote | [View →](https://www.remotejobscan.com/job/17155/group-product-manager-finhub/) |
+| Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/17160/deal-lead-special-situations/) |
+| Staff Software Engineer (Platform - Financial Engineering) | Remote | [View →](https://www.remotejobscan.com/job/17157/staff-software-engineer-platform-financial-engineering/) |
+| Account Executive - Spain - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/17158/account-executive-spain-mid-market/) |
 | Solutions Marketing Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
 | Staff Software Engineer, Agentic Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17156/staff-software-engineer-agentic-ads/) |
 | Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
@@ -37,12 +43,6 @@
 | Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
-| Finance & Strategy, Deal Desk - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
-| Engineering Manager, Rosalind Workbench | Hybrid | [View →](https://www.remotejobscan.com/job/17140/engineering-manager-rosalind-workbench/) |
-| GFCO Program Manager | Remote | [View →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
-| Dedicated Support Engineer - Toronto | On-site | [View →](https://www.remotejobscan.com/job/17139/dedicated-support-engineer-toronto/) |
-| Data Analyst, Regulatory Analytics and Reporting | Remote | [View →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
-| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
