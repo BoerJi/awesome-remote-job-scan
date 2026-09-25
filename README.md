@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业安全GSOC操作员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
+| 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
+| 商业法务高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | 产品设计师，安全卫士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
 | 广告解决方案客户合作伙伴（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
 | 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
@@ -40,9 +43,6 @@
 | 亚太地区人力资源法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
 | 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
 | 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| 高级后端软件工程师（消费 - 增长基础） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

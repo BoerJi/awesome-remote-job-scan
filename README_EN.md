@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Corporate Security GSOC Operator | On-site | [View →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
+| Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
+| Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
 | Client Partner, Ads Solutions (Spanish Speaking) | On-site | [View →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
 | Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
@@ -40,9 +43,6 @@
 | People Legal Counsel, APAC | On-site | [View →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
 | EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
 | Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
