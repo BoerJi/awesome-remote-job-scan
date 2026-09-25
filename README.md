@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
+| 亚太地区人力资源法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
+| 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
+| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 高级后端软件工程师（消费 - 增长基础） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
 | 高级后端软件工程师（消费者 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
 | 高级性能营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
@@ -37,12 +43,6 @@
 | 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 | 毛里求斯副合规官/反洗钱合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17106/deputy-mlro-compliance-officer-mauritius/) |
 | 产品策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9775/product-strategy-operations/) |
-| 安全软件工程师，身份与访问管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9780/security-software-engineer-iam/) |
-| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| 站点工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
-| AI SDK软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9794/software-engineer-ai-sdk/) |
-| CDN 内容软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9797/software-engineer-cdn-content/) |
-| 毛里求斯MLRO职位 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17107/mlro-mauritius/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
