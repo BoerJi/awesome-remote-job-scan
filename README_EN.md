@@ -23,12 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Dedicated Support Engineer - Toronto | On-site | [View →](https://www.remotejobscan.com/job/17139/dedicated-support-engineer-toronto/) |
+| Data Analyst, Regulatory Analytics and Reporting | Remote | [View →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
+| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
 | Dedicated Support Engineer - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
 | Dedicated Support Engineer - Dublin | On-site | [View →](https://www.remotejobscan.com/job/17134/dedicated-support-engineer-dublin/) |
 | Dedicated Support Engineer - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17135/dedicated-support-engineer-tokyo/) |
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/senior-integrated-campaigns-manager/) |
 | Trade Surveillance Associate | On-site | [View →](https://www.remotejobscan.com/job/17132/trade-surveillance-associate/) |
-| Data Analyst, Regulatory Analytics and Reporting | Remote | [View →](https://www.remotejobscan.com/job/17133/data-analyst-regulatory-analytics-and-reporting/) |
 | Corporate Security GSOC Operator | On-site | [View →](https://www.remotejobscan.com/job/17131/corporate-security-gsoc-operator/) |
 | Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
@@ -40,9 +42,6 @@
 | Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
 | GRC Analyst | Remote | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/17128/finance-strategy-deal-strategy/) |
-| Head of Finance - Cyprus | Remote | [View →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
-| Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
-| Member of Technical Staff (Search Core DevOps Engineer) | On-site | [View →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

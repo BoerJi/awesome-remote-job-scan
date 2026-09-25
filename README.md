@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 专职支持工程师 - 多伦多 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17139/dedicated-support-engineer-toronto/) |
+| 监管分析与报告数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
+| 客户体验专家 | 合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
 | 新加坡专属支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
 | 专责支持工程师 - 都柏林 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17134/dedicated-support-engineer-dublin/) |
 | 东京专属支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17135/dedicated-support-engineer-tokyo/) |
@@ -40,9 +43,6 @@
 | 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
 | GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17128/finance-strategy-deal-strategy/) |
-| 塞浦路斯财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
-| 高级法律分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
-| 技术团队成员（搜索核心DevOps工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
