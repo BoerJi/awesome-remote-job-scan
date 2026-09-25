@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3130</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Associate | Hybrid | [View →](https://www.remotejobscan.com/job/9253/senior-compliance-associate/) |
 | Staff Security Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/9656/staff-security-engineer-risk-engineering/) |
 | Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
