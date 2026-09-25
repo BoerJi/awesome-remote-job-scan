@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Finance - Cyprus | Remote | [View →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
+| Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
+| Member of Technical Staff (Search Core DevOps Engineer) | On-site | [View →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
 | Account Director, Digital Natives | MENA | Hybrid | [View →](https://www.remotejobscan.com/job/17125/account-director-digital-natives-mena/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
@@ -37,12 +40,9 @@
 | Could AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/17116/could-ai-engineer/) |
 | Software Engineer, Mobile(iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobileios/) |
 | Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
-| Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
 | Senior/Lead Product Manager - Professional Trading Tools & Experience | On-site | [View →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
 | Software Engineer, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
 | PR Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/17105/pr-manager-pakistan/) |
-| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
