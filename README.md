@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲中东地区初创企业客户经理（法语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
+| 法币与FCM产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17076/product-manager-fiat-fcm/) |
+| 产品经理，仪表盘 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
+| 移动端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
+| 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
+| 高级软件工程师，AI交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
 | 安全项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17072/security-program-manager/) |
 | 战略财务，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
-| 增长营销经理，代理堆栈 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
 | 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 | 美洲法务副总顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
@@ -37,12 +42,6 @@
 | 安全工程师，检测响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
 | 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | 绩效营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
-| 执行营销项目主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
-| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
-| EMEA商业销售总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
-| 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
-| 高级财务经理，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
-| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

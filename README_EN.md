@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive-Startups, EMEA (French Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
+| Product Manager, Fiat & FCM | Hybrid | [View →](https://www.remotejobscan.com/job/17076/product-manager-fiat-fcm/) |
+| Product Manager, Dashboard | Remote | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
+| Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/13120/software-engineer-mobile/) |
+| Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
+| Senior Software Engineer, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/8899/senior-software-engineer-ai-trading/) |
 | Security Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17072/security-program-manager/) |
 | Strategic Finance, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17071/strategic-finance-ads/) |
-| Growth Marketing Manager, Agent Stack | Hybrid | [View →](https://www.remotejobscan.com/job/9763/growth-marketing-manager-agent-stack/) |
 | Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
 | Deputy General Counsel, Head of Americas Legal | On-site | [View →](https://www.remotejobscan.com/job/17070/deputy-general-counsel-head-of-americas-legal/) |
@@ -37,12 +42,6 @@
 | Security Engineer, Detection Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-engineer-detection-response/) |
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | Performance Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
-| Executive Marketing Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11875/executive-marketing-program-lead/) |
-| Director, Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/11342/director-solutions-architect/) |
-| Director, Commercial Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9754/director-commercial-sales-emea/) |
-| Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
-| Senior Finance Manager, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/16760/senior-finance-manager-sales/) |
-| Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
