@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Client Partner, Ads Solutions (Spanish Speaking) | On-site | [View →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
+| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
+| Director, Solutions Architects | Hybrid | [View →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
+| GRC Analyst | Remote | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/17128/finance-strategy-deal-strategy/) |
 | Head of Finance - Cyprus | Remote | [View →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
 | Senior Legal Analyst | Remote | [View →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
 | Member of Technical Staff (Search Core DevOps Engineer) | On-site | [View →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
@@ -36,13 +43,6 @@
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
 | Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
-| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
-| Could AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/17116/could-ai-engineer/) |
-| Software Engineer, Mobile(iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobileios/) |
-| Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
-| Senior/Lead Product Manager - Professional Trading Tools & Experience | On-site | [View →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
-| Software Engineer, Internal Agent | Hybrid | [View →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
-| PR Manager, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/17105/pr-manager-pakistan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

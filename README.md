@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 广告解决方案客户合作伙伴（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
+| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| 软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16425/software-engineer-data-platform/) |
+| 解决方案架构师总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/director-solutions-architects/) |
+| GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17128/finance-strategy-deal-strategy/) |
 | 塞浦路斯财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17127/head-of-finance-cyprus/) |
 | 高级法律分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11877/senior-legal-analyst/) |
 | 技术团队成员（搜索核心DevOps工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17126/member-of-technical-staff-search-core-devops-engineer/) |
@@ -36,13 +43,6 @@
 | DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 高级后端软件工程师（消费 - 增长基础） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
 | 高级后端软件工程师（消费者 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
-| 高级性能营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
-| 人工智能工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17116/could-ai-engineer/) |
-| 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobileios/) |
-| 现场工程运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
-| 高级/主管产品经理 - 专业交易工具与体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
-| 内部代理软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12048/software-engineer-internal-agent/) |
-| 巴基斯坦公关经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17105/pr-manager-pakistan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
