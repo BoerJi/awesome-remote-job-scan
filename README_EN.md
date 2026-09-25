@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
 | Client Partner, Ads Solutions (Spanish Speaking) | On-site | [View →](https://www.remotejobscan.com/job/17129/client-partner-ads-solutions-spanish-speaking/) |
 | Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 | Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
@@ -42,7 +43,6 @@
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Senior Software Engineer, Backend (Consumer - Growth Foundations) | Remote | [View →](https://www.remotejobscan.com/job/11748/senior-software-engineer-backend-consumer-growth-foundations/) |
-| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
