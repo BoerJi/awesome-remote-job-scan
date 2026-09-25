@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3140</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
+| 高级软件工程师，智能广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17156/staff-software-engineer-agentic-ads/) |
 | 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
 | 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
 | 产品营销经理，预测市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
 | 无线监管工程师 - SAR | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
 | 企业营销市场分析主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
-| 高级技术项目经理，CX代理体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9330/staff-technical-program-manager-cx-agent-experience/) |
 | 人事运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
 | 高级合规项目经理，政治法律 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
 | 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
@@ -42,7 +43,6 @@
 | 专职支持工程师 - 多伦多 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17139/dedicated-support-engineer-toronto/) |
 | 监管分析与报告数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17138/data-analyst-regulatory-analytics-and-reporting/) |
 | 客户体验专家 | 合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17137/client-experience-specialist-fixed-term/) |
-| 新加坡专属支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17136/dedicated-support-engineer-singapore/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
