@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3149</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险工程高级安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9656/staff-security-engineer-risk-engineering/) |
 | 隐私事件响应经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | 高级/员工工程师 - Web3 - 链上数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-25 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3149</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Security Engineer, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/9656/staff-security-engineer-risk-engineering/) |
 | Incident Response Manager - Privacy | On-site | [View →](https://www.remotejobscan.com/job/16979/incident-response-manager-privacy/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/9245/risk-monitoring-analyst-iv/) |
 | Senior/Staff Engineer - Web3 - Onchain Data | On-site | [View →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-25 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
