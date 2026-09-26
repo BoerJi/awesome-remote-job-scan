@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,8 +28,6 @@
 | Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
 | Technical Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
 | Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
-| Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
-| Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
