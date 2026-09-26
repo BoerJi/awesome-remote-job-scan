@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3140</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
 | 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | 站点可靠性工程（SRE）工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
 | 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
@@ -42,7 +43,6 @@
 | 高级合规项目经理，政治法律 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
 | 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
 | 研究顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15442/research-counsel/) |
-| 并购公司法务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
