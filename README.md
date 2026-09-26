@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（13 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -36,11 +36,6 @@
 | 网络安全解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
 | 高级软件工程师，智能广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17156/staff-software-engineer-agentic-ads/) |
 | 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
-| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
-| 产品营销经理，预测市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
-| 无线监管工程师 - SAR | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
-| 企业营销市场分析主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

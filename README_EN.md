@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -36,11 +36,6 @@
 | Solutions Marketing Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
 | Staff Software Engineer, Agentic Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17156/staff-software-engineer-agentic-ads/) |
 | Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
-| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/9757/enterprise-account-executive/) |
-| Product Marketing Manager, Prediction Markets | Remote | [View →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
-| Wireless Regulatory Engineer - SAR | On-site | [View →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
-| Marketing Analytics Lead, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
