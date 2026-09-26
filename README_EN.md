@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
 | Technical Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
 | Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
@@ -42,7 +43,6 @@
 | Manager, People Operations | Remote | [View →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
 | Senior Compliance Program Manager, Political Law | On-site | [View →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
 | Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
-| Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
