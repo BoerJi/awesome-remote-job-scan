@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,7 +27,6 @@
 | 工程经理（多模态） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17183/engineering-manager-multimodal/) |
 | 高级产品经理，帮助中心（客户体验自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
 | 技术招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
-| 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

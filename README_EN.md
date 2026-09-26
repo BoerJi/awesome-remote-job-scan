@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Engineering Manager, (Multimodal) | Hybrid | [View →](https://www.remotejobscan.com/job/17183/engineering-manager-multimodal/) |
 | Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
 | Technical Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
-| Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
