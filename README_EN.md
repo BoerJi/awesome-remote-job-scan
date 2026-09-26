@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,8 +33,6 @@
 | Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/17160/deal-lead-special-situations/) |
 | Staff Software Engineer (Platform - Financial Engineering) | Remote | [View →](https://www.remotejobscan.com/job/17157/staff-software-engineer-platform-financial-engineering/) |
 | Account Executive - Spain - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/17158/account-executive-spain-mid-market/) |
-| Solutions Marketing Manager, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/16063/solutions-marketing-manager-cybersecurity/) |
-| Staff Software Engineer, Agentic Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17156/staff-software-engineer-agentic-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 21:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 22:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
