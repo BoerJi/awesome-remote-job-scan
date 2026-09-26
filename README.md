@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -41,8 +41,6 @@
 | 产品营销经理，预测市场 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
 | 无线监管工程师 - SAR | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
 | 企业营销市场分析主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
-| 人事运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
-| 高级合规项目经理，政治法律 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,8 +41,6 @@
 | Product Marketing Manager, Prediction Markets | Remote | [View →](https://www.remotejobscan.com/job/9241/product-marketing-manager-prediction-markets/) |
 | Wireless Regulatory Engineer - SAR | On-site | [View →](https://www.remotejobscan.com/job/17152/wireless-regulatory-engineer-sar/) |
 | Marketing Analytics Lead, Enterprise Marketing | On-site | [View →](https://www.remotejobscan.com/job/17151/marketing-analytics-lead-enterprise-marketing/) |
-| Manager, People Operations | Remote | [View →](https://www.remotejobscan.com/job/17145/manager-people-operations/) |
-| Senior Compliance Program Manager, Political Law | On-site | [View →](https://www.remotejobscan.com/job/17142/senior-compliance-program-manager-political-law/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
