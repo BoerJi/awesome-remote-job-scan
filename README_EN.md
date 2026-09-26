@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3138</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,9 +30,6 @@
 | Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
 | Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/17160/deal-lead-special-situations/) |
-| Staff Software Engineer (Platform - Financial Engineering) | Remote | [View →](https://www.remotejobscan.com/job/17157/staff-software-engineer-platform-financial-engineering/) |
-| Account Executive - Spain - Mid-Market | Remote | [View →](https://www.remotejobscan.com/job/17158/account-executive-spain-mid-market/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

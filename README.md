@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3138</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3143</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -30,9 +30,6 @@
 | 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | 站点可靠性工程（SRE）工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
 | 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| 特殊情况交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17160/deal-lead-special-situations/) |
-| 高级软件工程师（平台 - 金融工程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17157/staff-software-engineer-platform-financial-engineering/) |
-| 西班牙区中市场客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17158/account-executive-spain-mid-market/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +92,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
