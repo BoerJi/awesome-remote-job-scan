@@ -23,13 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 集团产品经理，资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17155/group-product-manager-money-movement/) |
 | 工程经理（多模态） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17183/engineering-manager-multimodal/) |
 | 高级产品经理，帮助中心（客户体验自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
 | 技术招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
 | 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | 站点可靠性工程（SRE）工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
 | 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| FinHub集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17155/group-product-manager-finhub/) |
 | 特殊情况交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17160/deal-lead-special-situations/) |
 | 高级软件工程师（平台 - 金融工程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17157/staff-software-engineer-platform-financial-engineering/) |
 | 西班牙区中市场客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17158/account-executive-spain-mid-market/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
