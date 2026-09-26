@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3140</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
 | Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 | Group Product Manager, FinHub | Remote | [View →](https://www.remotejobscan.com/job/17155/group-product-manager-finhub/) |
@@ -42,7 +43,6 @@
 | Specialist, Market Operations | Remote | [View →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
 | Research Counsel | On-site | [View →](https://www.remotejobscan.com/job/15442/research-counsel/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
-| Compute & Infrastructure Counsel, Real Estate | On-site | [View →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-26 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

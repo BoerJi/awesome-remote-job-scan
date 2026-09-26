@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3140</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17162/senior-software-engineer-compute-platform/) |
 | 站点可靠性工程（SRE）工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17161/engineering-manager-site-reliability-engineering/) |
 | 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 | FinHub集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17155/group-product-manager-finhub/) |
@@ -42,7 +43,6 @@
 | 市场运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16754/specialist-market-operations/) |
 | 研究顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15442/research-counsel/) |
 | 并购公司法务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
-| 计算与基础设施顾问，房地产 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16640/compute-infrastructure-counsel-real-estate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-26 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
