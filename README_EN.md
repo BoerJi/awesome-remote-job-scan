@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3144</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（2 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17229/product-finance-strategy-monetization/) |
 | Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17228/member-of-technical-staff-new-grad/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -87,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-27 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-27 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
