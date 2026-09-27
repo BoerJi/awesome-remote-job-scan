@@ -19,14 +19,13 @@
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Group Product Manager, Money Movement | Remote | [View →](https://www.remotejobscan.com/job/17155/group-product-manager-money-movement/) |
 | Engineering Manager, (Multimodal) | Hybrid | [View →](https://www.remotejobscan.com/job/17183/engineering-manager-multimodal/) |
 | Senior Product Manager, Help Center (CX Automation) | Remote | [View →](https://www.remotejobscan.com/job/9270/senior-product-manager-help-center-cx-automation/) |
-| Technical Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/17165/technical-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-27 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-27 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
