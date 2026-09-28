@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
 | 高级软件工程师 - 智能代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
 | 高级软件工程师 - 代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17258/senior-software-engineer-agent-systems/) |
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
@@ -42,7 +43,6 @@
 | 高级/首席产品经理，用户引导与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17246/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
 | 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
 | 中东地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
-| 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

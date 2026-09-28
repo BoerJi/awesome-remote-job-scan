@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Technical Deployment | On-site | [View →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
 | Senior Software Engineer – Agent Systems | Remote | [View →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
 | Fiat CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
@@ -41,7 +42,6 @@
 | Senior/Principal Product Manager, User Onboarding & growth (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/17246/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
 | EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
 | Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
-| Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
