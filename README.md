@@ -14,26 +14,33 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3111</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 专业服务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
-| 初创企业解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
-| 人力资源运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-intern/) |
-| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
-| Senior AI Application Engineer (Risk Control AI Direction) 资深 AI 应用工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/senior-ai-application-engineer-risk-control-ai-direction-ai-ai/) |
-| 训练后模型评估研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9570/research-engineer-post-training-model-evaluations/) |
-| P2P客户服务专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
-| CRM经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17235/crm-manager/) |
-| 币安加速器项目 - 创意运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17233/binance-accelerator-program-creative-operations/) |
-| 高级公关KOL专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17234/senior-pr-kol-specialist/) |
-| 技术员工（应届生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17228/member-of-technical-staff-new-grad/) |
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
+| 支付风险分析师I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
+| 投诉分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
+| 内部审计副经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
+| 隐私副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
+| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
+| 权益代币化会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
+| 高级采购分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
+| 并购与会计政策经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9226/ma-and-accounting-policy-manager/) |
+| 会计经理，总账运营与内部公司 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9186/accounting-manager-gl-operations-intercompany/) |
+| 总账运营与内部往来会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
+| 国家与运营风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
+| 产品安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
+| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| CSIRT专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
+| 高级链上调查员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

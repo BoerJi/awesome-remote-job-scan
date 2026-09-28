@@ -14,26 +14,33 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
-| Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
-| HR Operations Intern | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-intern/) |
-| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | Remote | [View →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
-| Senior AI Application Engineer (Risk Control AI Direction) 资深 AI 应用工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/senior-ai-application-engineer-risk-control-ai-direction-ai-ai/) |
-| Research Engineer, Post-Training Model Evaluations | On-site | [View →](https://www.remotejobscan.com/job/9570/research-engineer-post-training-model-evaluations/) |
-| P2P CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
-| CRM Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17235/crm-manager/) |
-| Binance Accelerator Program - Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/17233/binance-accelerator-program-creative-operations/) |
-| Senior PR KOL Specialist | On-site | [View →](https://www.remotejobscan.com/job/17234/senior-pr-kol-specialist/) |
-| Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17228/member-of-technical-staff-new-grad/) |
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
+| Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
+| Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
+| Associate Manager, Internal Audit | Remote | [View →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
+| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
+| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
+| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
+| Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
+| Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
+| M&A and Accounting Policy Manager | Remote | [View →](https://www.remotejobscan.com/job/9226/ma-and-accounting-policy-manager/) |
+| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/9186/accounting-manager-gl-operations-intercompany/) |
+| Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
+| Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
+| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
+| Senior Onchain Investigator | Remote | [View →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
