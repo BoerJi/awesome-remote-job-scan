@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3128</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
+| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| 欧洲、中东、非洲区人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17249/hr-business-partner-emea/) |
+| 技术招聘顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17248/tech-recruiter/) |
+| 高级/首席产品经理，用户引导与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17246/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
+| 中东地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 | 德国KOL BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
 | 波兰KOL业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
@@ -34,14 +43,6 @@
 | 高级软件工程师 - 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
 | Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
 | 合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17244/compliance-analyst/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| 支付风险分析师I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
-| 投诉分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
-| 内部审计副经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
-| 隐私副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
-| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
-| 权益代币化会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

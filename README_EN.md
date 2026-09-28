@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3128</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| HR Business Partner, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17249/hr-business-partner-emea/) |
+| Tech Recruiter | Remote | [View →](https://www.remotejobscan.com/job/17248/tech-recruiter/) |
+| Senior/Principal Product Manager, User Onboarding & growth (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/17246/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
+| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 | KOL BD Manager- Germany | Remote | [View →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
 | KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
@@ -34,14 +43,6 @@
 | Senior Software Engineer - Trading | Remote | [View →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
 | Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/17244/compliance-analyst/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
-| Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
-| Associate Manager, Internal Audit | Remote | [View →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
-| Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
-| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
-| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
