@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -26,9 +26,6 @@
 | Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 | KOL BD Manager- Germany | Remote | [View →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
 | KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Software / Senior Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile/) |
 | Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8716/senior-staff-software-engineer-mobile/) |
 | [London] Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/17245/london-applied-ai-architect-partnerships/) |
@@ -42,6 +39,9 @@
 | Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
 | Associate Manager, Internal Audit | Remote | [View →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
 | Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
+| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
+| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 08:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 09:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

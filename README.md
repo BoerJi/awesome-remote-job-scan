@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3122</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -26,9 +26,6 @@
 | 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
 | 德国KOL BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
 | 波兰KOL业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| 公共云运维高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 软件/移动端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile/) |
 | 移动端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8716/senior-staff-software-engineer-mobile/) |
 | [伦敦] 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17245/london-applied-ai-architect-partnerships/) |
@@ -42,6 +39,9 @@
 | 投诉分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
 | 内部审计副经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
 | 隐私副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
+| 内部审计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
+| 权益代币化会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 08:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 09:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
