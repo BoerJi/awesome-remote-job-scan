@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心硬件质量与可靠性工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17295/data-center-hardware-quality-reliability-engineer/) |
+| 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | 产品金融与策略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | 网络安全战略交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
 | 企业领域营销专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17286/enterprise-field-marketer/) |
@@ -41,8 +43,6 @@
 | 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | 高级软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
 | 亚太区客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
-| 安全工程师（检测与响应） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
-| 亚洲高级VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17265/sr-vip-relationship-manager-asia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

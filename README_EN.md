@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Hardware Quality & Reliability Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17295/data-center-hardware-quality-reliability-engineer/) |
+| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | Strategic Delivery Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
 | Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/17286/enterprise-field-marketer/) |
@@ -38,8 +40,6 @@
 | Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
 | Head of Customer Success, APAC | On-site | [View →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
-| Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
-| Sr. VIP Relationship Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/17265/sr-vip-relationship-manager-asia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
