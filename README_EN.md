@@ -14,15 +14,21 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3135</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| HR Operations Intern | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-intern/) |
+| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | Remote | [View →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
+| Senior AI Application Engineer (Risk Control AI Direction) 资深 AI 应用工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/senior-ai-application-engineer-risk-control-ai-direction-ai-ai/) |
+| Research Engineer, Post-Training Model Evaluations | On-site | [View →](https://www.remotejobscan.com/job/9570/research-engineer-post-training-model-evaluations/) |
+| P2P CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
+| CRM Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17235/crm-manager/) |
 | Binance Accelerator Program - Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/17233/binance-accelerator-program-creative-operations/) |
 | Senior PR KOL Specialist | On-site | [View →](https://www.remotejobscan.com/job/17234/senior-pr-kol-specialist/) |
 | Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17228/member-of-technical-staff-new-grad/) |
@@ -89,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
