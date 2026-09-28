@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品金融与策略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
+| 网络安全战略交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
+| 企业领域营销专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17286/enterprise-field-marketer/) |
+| 全球项目技术项目经理—应用人工智能工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17285/technical-program-manager-global-programs-applied-ai-engineering/) |
+| 亚太区公关总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10946/pr-director-apac/) |
+| DevOps / AgentOps工程师，GTM系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| GTM系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
 | Salesforce 开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | 高级网页体验策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
 | 企业客户经理，行业 - BFSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
@@ -36,13 +43,6 @@
 | 亚太区客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
 | 安全工程师（检测与响应） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
 | 亚洲高级VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17265/sr-vip-relationship-manager-asia/) |
-| 技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
-| 高级软件工程师 - 智能代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
-| 高级软件工程师 - 代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17258/senior-software-engineer-agent-systems/) |
-| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
-| 法币客户服务专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
-| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
-| 计算机使用产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17256/product-engineer-computer-use/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

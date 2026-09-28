@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
+| Strategic Delivery Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
+| Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/17286/enterprise-field-marketer/) |
+| Technical Program Manager, Global Programs — Applied AI Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17285/technical-program-manager-global-programs-applied-ai-engineering/) |
+| PR Director, APAC | Remote | [View →](https://www.remotejobscan.com/job/10946/pr-director-apac/) |
+| DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
 | Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | Senior Web Experience Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
 | Enterprise Account Executive, Industries - BFSI | On-site | [View →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
@@ -33,12 +40,6 @@
 | Head of Customer Success, APAC | On-site | [View →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
 | Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
 | Sr. VIP Relationship Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/17265/sr-vip-relationship-manager-asia/) |
-| Manager, Technical Deployment | On-site | [View →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
-| Senior Software Engineer – Agent Systems | Remote | [View →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
-| Fiat CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
-| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
-| Product Engineer, Computer Use | On-site | [View →](https://www.remotejobscan.com/job/17256/product-engineer-computer-use/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
