@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
+| Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/17244/compliance-analyst/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | Payments Risk Analyst I | On-site | [View →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
 | Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
@@ -39,8 +41,6 @@
 | Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
 | Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
 | Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| Specialist, CSIRT | Remote | [View →](https://www.remotejobscan.com/job/12876/specialist-csirt/) |
-| Senior Onchain Investigator | Remote | [View →](https://www.remotejobscan.com/job/16429/senior-onchain-investigator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
