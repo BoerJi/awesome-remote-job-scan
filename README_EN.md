@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| Integrated Marketing Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
+| Platform Engineering Manager, Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
+| Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/software-engineer-account-abuse-machine-learning/) |
+| Group Product Manager, Compliance Automation | Remote | [View →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
+| Group Product Manager, Core Infrastructure & Reliability | Remote | [View →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
+| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | Legal Operations Manager, Vendor & Spend Management | Remote | [View →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
 | Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/17304/director-of-payroll/) |
@@ -38,11 +43,6 @@
 | Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | Strategic Delivery Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
-| Enterprise Field Marketer | Hybrid | [View →](https://www.remotejobscan.com/job/17286/enterprise-field-marketer/) |
-| Technical Program Manager, Global Programs — Applied AI Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/17285/technical-program-manager-global-programs-applied-ai-engineering/) |
-| PR Director, APAC | Remote | [View →](https://www.remotejobscan.com/job/10946/pr-director-apac/) |
-| DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

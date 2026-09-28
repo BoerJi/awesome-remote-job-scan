@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| 欧洲、中东、非洲区整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
+| 平台工程经理，前沿部署工程 (FDE) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
+| 机器学习账户滥用软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/software-engineer-account-abuse-machine-learning/) |
+| 合规自动化集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
+| 核心基础设施与可靠性集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
+| 开发者基础设施集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | 法务运营经理，供应商与支出管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
 | 薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17304/director-of-payroll/) |
@@ -38,11 +43,6 @@
 | 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | 产品金融与策略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | 网络安全战略交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
-| 企业领域营销专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17286/enterprise-field-marketer/) |
-| 全球项目技术项目经理—应用人工智能工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17285/technical-program-manager-global-programs-applied-ai-engineering/) |
-| 亚太区公关总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10946/pr-director-apac/) |
-| DevOps / AgentOps工程师，GTM系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| GTM系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
