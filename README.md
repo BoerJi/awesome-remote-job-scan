@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3135</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 专业服务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
+| 初创企业解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
 | 人力资源运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-intern/) |
 | Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
 | Senior AI Application Engineer (Risk Control AI Direction) 资深 AI 应用工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/senior-ai-application-engineer-risk-control-ai-direction-ai-ai/) |
@@ -32,7 +34,6 @@
 | 币安加速器项目 - 创意运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17233/binance-accelerator-program-creative-operations/) |
 | 高级公关KOL专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17234/senior-pr-kol-specialist/) |
 | 技术员工（应届生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17228/member-of-technical-staff-new-grad/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
