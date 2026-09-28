@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3134</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3143</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/首席产品经理，用户引导与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17274/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| 高级/首席产品经理，用户注册与增长（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17277/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| 高级/首席产品经理，用户注册与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17275/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| 高级/首席产品经理，用户引导与增长（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17276/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | 高级软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
 | 亚太区客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
 | 安全工程师（检测与响应） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
@@ -38,11 +43,6 @@
 | 系统集成商合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17252/partner-account-manager-systems-integrators/) |
 | 高级AI工程师-增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
 | 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
-| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
-| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| 欧洲、中东、非洲区人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17249/hr-business-partner-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/17274/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
+| Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
 | Head of Customer Success, APAC | On-site | [View →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
 | Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
@@ -37,11 +39,6 @@
 | Partner Account Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/17252/partner-account-manager-systems-integrators/) |
 | Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
 | Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
-| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| HR Business Partner, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17249/hr-business-partner-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
