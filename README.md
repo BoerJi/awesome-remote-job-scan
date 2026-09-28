@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3128</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级AI工程师-增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
+| 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 | Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
@@ -41,8 +43,6 @@
 | 增长产品经理II - 通知 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | 高级软件工程师，后端（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
 | 高级软件工程师 - 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
-| Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
-| 合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17244/compliance-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

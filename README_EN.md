@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3128</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
+| Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
@@ -41,8 +43,6 @@
 | Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
 | Senior Software Engineer - Trading | Remote | [View →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
-| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
-| Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/17244/compliance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
