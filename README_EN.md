@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Deployment Specialist, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
+| Research Lead, Policy Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
+| Product Marketing Manager, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
+| Growth Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17311/growth-marketing-lead/) |
+| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| Technical Program Manager, Hardware Systems | On-site | [View →](https://www.remotejobscan.com/job/17310/technical-program-manager-hardware-systems/) |
+| Product Designer, Claude Developer Platform | On-site | [View →](https://www.remotejobscan.com/job/17308/product-designer-claude-developer-platform/) |
 | Integrated Marketing Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
 | Platform Engineering Manager, Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
 | Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/software-engineer-account-abuse-machine-learning/) |
@@ -36,13 +43,6 @@
 | Staff + Sr. Software Engineer, Cloud Inference | On-site | [View →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
 | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | On-site | [View →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
 | Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/17302/staff-sr-software-engineer-scaling/) |
-| Software Engineer, DevOps | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
-| Treasury, Liquidity & Capital Planning | On-site | [View →](https://www.remotejobscan.com/job/17297/treasury-liquidity-capital-planning/) |
-| State and Local Affairs Lead, Midwest | Remote | [View →](https://www.remotejobscan.com/job/17296/state-and-local-affairs-lead-midwest/) |
-| Data Center Hardware Quality & Reliability Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17295/data-center-hardware-quality-reliability-engineer/) |
-| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
-| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
-| Strategic Delivery Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

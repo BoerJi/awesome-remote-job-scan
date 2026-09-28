@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3163</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI部署专家，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
+| 政策传播研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
+| 平台产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
+| 增长营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17311/growth-marketing-lead/) |
+| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| 硬件系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17310/technical-program-manager-hardware-systems/) |
+| 产品设计师，Claude开发者平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17308/product-designer-claude-developer-platform/) |
 | 欧洲、中东、非洲区整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
 | 平台工程经理，前沿部署工程 (FDE) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
 | 机器学习账户滥用软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/software-engineer-account-abuse-machine-learning/) |
@@ -36,13 +43,6 @@
 | 云推理高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
 | 云推理发布工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
 | 高级软件工程师，规模扩展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17302/staff-sr-software-engineer-scaling/) |
-| 软件工程师，DevOps | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
-| 资金、流动性及资本规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17297/treasury-liquidity-capital-planning/) |
-| 中西部州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17296/state-and-local-affairs-lead-midwest/) |
-| 数据中心硬件质量与可靠性工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17295/data-center-hardware-quality-reliability-engineer/) |
-| 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
-| 产品金融与策略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
-| 网络安全战略交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17294/strategic-delivery-lead-cyber/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
