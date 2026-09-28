@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| 法务运营经理，供应商与支出管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
+| 薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17304/director-of-payroll/) |
 | 招聘专员，沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 | 云推理高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
 | 云推理发布工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
@@ -39,10 +43,6 @@
 | 亚太区公关总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10946/pr-director-apac/) |
 | DevOps / AgentOps工程师，GTM系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | GTM系统高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
-| Salesforce 开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
-| 高级网页体验策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
-| 企业客户经理，行业 - BFSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
-| 国际传播副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17279/vp-international-communications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

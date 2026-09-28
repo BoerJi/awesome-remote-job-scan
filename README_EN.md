@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| Legal Operations Manager, Vendor & Spend Management | Remote | [View →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
+| Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/17304/director-of-payroll/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 | Staff + Sr. Software Engineer, Cloud Inference | On-site | [View →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
 | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | On-site | [View →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
@@ -39,10 +43,6 @@
 | PR Director, APAC | Remote | [View →](https://www.remotejobscan.com/job/10946/pr-director-apac/) |
 | DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | Staff Software Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/11547/staff-software-engineer-gtm-systems/) |
-| Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
-| Senior Web Experience Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
-| Enterprise Account Executive, Industries - BFSI | On-site | [View →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
-| VP, International Communications | On-site | [View →](https://www.remotejobscan.com/job/17279/vp-international-communications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
