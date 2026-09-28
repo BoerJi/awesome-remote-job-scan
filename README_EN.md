@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
+| Head of Customer Success, APAC | On-site | [View →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
+| Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17261/staff-security-engineer-detection-response/) |
+| Sr. VIP Relationship Manager, Asia | Remote | [View →](https://www.remotejobscan.com/job/17265/sr-vip-relationship-manager-asia/) |
 | Manager, Technical Deployment | On-site | [View →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
 | Senior Software Engineer – Agent Systems | Remote | [View →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
@@ -38,10 +42,6 @@
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | HR Business Partner, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17249/hr-business-partner-emea/) |
-| Tech Recruiter | Remote | [View →](https://www.remotejobscan.com/job/17248/tech-recruiter/) |
-| Senior/Principal Product Manager, User Onboarding & growth (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/17246/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
-| EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
-| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
