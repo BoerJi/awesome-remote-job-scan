@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Capacity Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
+| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| Program Manager, Government Trusted Access | Hybrid | [View →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
+| Software Engineer, Product Velocity | Hybrid | [View →](https://www.remotejobscan.com/job/17315/software-engineer-product-velocity/) |
+| Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
+| Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 | AI Deployment Specialist, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
 | Research Lead, Policy Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
 | Product Marketing Manager, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
@@ -32,17 +38,11 @@
 | Product Designer, Claude Developer Platform | On-site | [View →](https://www.remotejobscan.com/job/17308/product-designer-claude-developer-platform/) |
 | Integrated Marketing Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
 | Platform Engineering Manager, Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
-| Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/software-engineer-account-abuse-machine-learning/) |
 | Group Product Manager, Compliance Automation | Remote | [View →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
 | Group Product Manager, Core Infrastructure & Reliability | Remote | [View →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
 | Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | Legal Operations Manager, Vendor & Spend Management | Remote | [View →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
-| Director of Payroll | On-site | [View →](https://www.remotejobscan.com/job/17304/director-of-payroll/) |
-| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
-| Staff + Sr. Software Engineer, Cloud Inference | On-site | [View →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
-| Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | On-site | [View →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
-| Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/17302/staff-sr-software-engineer-scaling/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

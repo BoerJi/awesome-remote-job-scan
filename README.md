@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3163</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 容量规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
+| 招聘专员，通讯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| 政府可信访问项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
+| 软件工程师，产品效能 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17315/software-engineer-product-velocity/) |
+| 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
+| 计算产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 | AI部署专家，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
 | 政策传播研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
 | 平台产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
@@ -32,17 +38,11 @@
 | 产品设计师，Claude开发者平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17308/product-designer-claude-developer-platform/) |
 | 欧洲、中东、非洲区整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
 | 平台工程经理，前沿部署工程 (FDE) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
-| 机器学习账户滥用软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/software-engineer-account-abuse-machine-learning/) |
 | 合规自动化集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
 | 核心基础设施与可靠性集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
 | 开发者基础设施集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | 法务运营经理，供应商与支出管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
-| 薪酬总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17304/director-of-payroll/) |
-| 招聘专员，沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
-| 云推理高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
-| 云推理发布工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
-| 高级软件工程师，规模扩展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17302/staff-sr-software-engineer-scaling/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
