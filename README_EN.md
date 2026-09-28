@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
+| KOL BD Manager- Germany | Remote | [View →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
+| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Software / Senior Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile/) |
+| Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8716/senior-staff-software-engineer-mobile/) |
+| [London] Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/17245/london-applied-ai-architect-partnerships/) |
+| Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
+| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
+| Senior Software Engineer - Trading | Remote | [View →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
 | Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/17244/compliance-analyst/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
@@ -30,17 +42,6 @@
 | Complaints Analyst II | On-site | [View →](https://www.remotejobscan.com/job/16000/complaints-analyst-ii/) |
 | Associate Manager, Internal Audit | Remote | [View →](https://www.remotejobscan.com/job/14361/associate-manager-internal-audit/) |
 | Associate General Counsel, Privacy | Remote | [View →](https://www.remotejobscan.com/job/16956/associate-general-counsel-privacy/) |
-| Internal Audit Manager | Remote | [View →](https://www.remotejobscan.com/job/11859/internal-audit-manager/) |
-| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
-| Staff Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9317/staff-software-engineer/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer/) |
-| Senior Sourcing Analyst | Remote | [View →](https://www.remotejobscan.com/job/9292/senior-sourcing-analyst/) |
-| M&A and Accounting Policy Manager | Remote | [View →](https://www.remotejobscan.com/job/9226/ma-and-accounting-policy-manager/) |
-| Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/9186/accounting-manager-gl-operations-intercompany/) |
-| Risk Manager - Country & Operational Risk | Remote | [View →](https://www.remotejobscan.com/job/11806/risk-manager-country-operational-risk/) |
-| Product Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/14923/product-security-engineer/) |
-| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
