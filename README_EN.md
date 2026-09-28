@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
+| Senior Web Experience Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
+| Enterprise Account Executive, Industries - BFSI | On-site | [View →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
+| VP, International Communications | On-site | [View →](https://www.remotejobscan.com/job/17279/vp-international-communications/) |
 | Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/17274/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
 | Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
 | Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
@@ -35,10 +39,6 @@
 | Fiat CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
 | Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
 | Product Engineer, Computer Use | On-site | [View →](https://www.remotejobscan.com/job/17256/product-engineer-computer-use/) |
-| Recruiter, Go-To-Market (GTM) | On-site | [View →](https://www.remotejobscan.com/job/17253/recruiter-go-to-market-gtm/) |
-| Partner Account Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/17252/partner-account-manager-systems-integrators/) |
-| Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
-| Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

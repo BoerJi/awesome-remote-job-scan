@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Salesforce 开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
+| 高级网页体验策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
+| 企业客户经理，行业 - BFSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
+| 国际传播副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17279/vp-international-communications/) |
 | 高级/首席产品经理，用户引导与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17274/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
 | 高级/首席产品经理，用户注册与增长（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17277/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
 | 高级/首席产品经理，用户注册与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17275/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
@@ -39,10 +43,6 @@
 | 法币客户服务专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
 | 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
 | 计算机使用产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17256/product-engineer-computer-use/) |
-| 市场拓展招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17253/recruiter-go-to-market-gtm/) |
-| 系统集成商合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17252/partner-account-manager-systems-integrators/) |
-| 高级AI工程师-增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
-| 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
