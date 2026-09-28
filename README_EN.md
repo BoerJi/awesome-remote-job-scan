@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| Staff + Sr. Software Engineer, Cloud Inference | On-site | [View →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
+| Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | On-site | [View →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
+| Staff + Sr. Software Engineer, Scaling | On-site | [View →](https://www.remotejobscan.com/job/17302/staff-sr-software-engineer-scaling/) |
+| Software Engineer, DevOps | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
+| Treasury, Liquidity & Capital Planning | On-site | [View →](https://www.remotejobscan.com/job/17297/treasury-liquidity-capital-planning/) |
+| State and Local Affairs Lead, Midwest | Remote | [View →](https://www.remotejobscan.com/job/17296/state-and-local-affairs-lead-midwest/) |
 | Data Center Hardware Quality & Reliability Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17295/data-center-hardware-quality-reliability-engineer/) |
 | Accounting Manager, GL Operations & Intercompany | Remote | [View →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
@@ -36,10 +43,6 @@
 | Senior Web Experience Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
 | Enterprise Account Executive, Industries - BFSI | On-site | [View →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
 | VP, International Communications | On-site | [View →](https://www.remotejobscan.com/job/17279/vp-international-communications/) |
-| Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App) | Hybrid | [View →](https://www.remotejobscan.com/job/17274/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
-| Applied AI Architect, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
-| Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
-| Head of Customer Success, APAC | On-site | [View →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

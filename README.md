@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘专员，沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| 云推理高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17300/staff-sr-software-engineer-cloud-inference/) |
+| 云推理发布工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17301/staff-sr-software-engineer-cloud-inference-launch-engineering/) |
+| 高级软件工程师，规模扩展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17302/staff-sr-software-engineer-scaling/) |
+| 软件工程师，DevOps | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
+| 资金、流动性及资本规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17297/treasury-liquidity-capital-planning/) |
+| 中西部州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17296/state-and-local-affairs-lead-midwest/) |
 | 数据中心硬件质量与可靠性工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17295/data-center-hardware-quality-reliability-engineer/) |
 | 总账运营与内部核算会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/accounting-manager-gl-operations-intercompany/) |
 | 产品金融与策略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
@@ -36,13 +43,6 @@
 | 高级网页体验策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17280/senior-web-experience-strategist/) |
 | 企业客户经理，行业 - BFSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17278/enterprise-account-executive-industries-bfsi/) |
 | 国际传播副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17279/vp-international-communications/) |
-| 高级/首席产品经理，用户引导与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17274/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
-| 高级/首席产品经理，用户注册与增长（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17277/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
-| 高级/首席产品经理，用户注册与增长（Crypto.com App） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17275/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
-| 高级/首席产品经理，用户引导与增长（Crypto.com 应用） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17276/seniorprincipal-product-manager-user-onboarding-growth-cryptocom-app/) |
-| 公共部门应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16933/applied-ai-architect-public-sector/) |
-| 高级软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17266/senior-software-engineer-rust-consumer/) |
-| 亚太区客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17260/head-of-customer-success-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
