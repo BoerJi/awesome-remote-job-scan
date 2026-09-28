@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer – Agent Systems | Remote | [View →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
+| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
+| Fiat CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
+| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| Product Engineer, Computer Use | On-site | [View →](https://www.remotejobscan.com/job/17256/product-engineer-computer-use/) |
+| Recruiter, Go-To-Market (GTM) | On-site | [View →](https://www.remotejobscan.com/job/17253/recruiter-go-to-market-gtm/) |
+| Partner Account Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/17252/partner-account-manager-systems-integrators/) |
 | Senior AI Engineer - Growth | Remote | [View →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
 | Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
@@ -35,14 +42,6 @@
 | EU Compliance Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
 | Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | Institutional Business Development Manager（Asia） | Remote | [View →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
-| KOL BD Manager- Germany | Remote | [View →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
-| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| Software / Senior Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile/) |
-| Senior Staff Software Engineer, Mobile | On-site | [View →](https://www.remotejobscan.com/job/8716/senior-staff-software-engineer-mobile/) |
-| [London] Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/17245/london-applied-ai-architect-partnerships/) |
-| Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
-| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
-| Senior Software Engineer - Trading | Remote | [View →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-28 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

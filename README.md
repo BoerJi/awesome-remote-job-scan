@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - 智能代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17257/senior-software-engineer-agent-systems/) |
+| 高级软件工程师 - 代理系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17258/senior-software-engineer-agent-systems/) |
+| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17255/applied-ai-engineer-enterprise/) |
+| 法币客户服务专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17055/fiat-cs-specialist/) |
+| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| 计算机使用产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17256/product-engineer-computer-use/) |
+| 市场拓展招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17253/recruiter-go-to-market-gtm/) |
+| 系统集成商合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17252/partner-account-manager-systems-integrators/) |
 | 高级AI工程师-增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17250/senior-ai-engineer-growth/) |
 | 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17251/solutions-architect/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
@@ -35,14 +43,6 @@
 | 欧盟合规运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17118/eu-compliance-operations-analyst/) |
 | 中东地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | 亚洲机构业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13767/institutional-business-development-managerasia/) |
-| 德国KOL BD经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7596/kol-bd-manager-germany/) |
-| 波兰KOL业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| 软件/移动端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14692/software-senior-software-engineer-mobile/) |
-| 移动端高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8716/senior-staff-software-engineer-mobile/) |
-| [伦敦] 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17245/london-applied-ai-architect-partnerships/) |
-| 增长产品经理II - 通知 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
-| 高级软件工程师，后端（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
-| 高级软件工程师 - 交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9291/senior-software-engineer-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-28 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
