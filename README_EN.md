@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3177</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3175</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -38,11 +38,11 @@
 | Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17322/product-marketing-manager/) |
 | Staff+ Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | AI Support Engineer - Toronto (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
-| Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17319/senior-software-engineer-backend-overseer-platform/) |
 | Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | Capacity Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| Program Manager, Government Trusted Access | Hybrid | [View →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 04:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 05:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

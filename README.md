@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3177</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3175</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -38,11 +38,11 @@
 | 产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17322/product-marketing-manager/) |
 | Staff+ 账户滥用软件工程师（机器学习） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | AI支持工程师 - 多伦多（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
-| 高级软件工程师，后端 - Overseer（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17319/senior-software-engineer-backend-overseer-platform/) |
 | Salesforce开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | 容量规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 | 招聘专员，通讯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| 政府可信访问项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 04:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 05:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
