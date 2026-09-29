@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3172</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3171</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior+ Software Engineer, Legal Tech | Remote | [View →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
 | Recruiter, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 | Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
 | State and Local Affairs Lead, West | Remote | [View →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
@@ -42,7 +43,6 @@
 | AI Deployment Specialist, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
 | Research Lead, Policy Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
 | Product Marketing Manager, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
-| Growth Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17311/growth-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
