@@ -23,11 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Delivery Lead, Department of Energy & Science | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
+| Finance & Strategy, Deal Strategy - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-strategy-apac/) |
+| Applied AI Architects, Partner | On-site | [View →](https://www.remotejobscan.com/job/17338/applied-ai-architects-partner/) |
+| Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/17339/senior-software-engineer-full-stack-growth-product/) |
 | Head of Risk - Türkiye | On-site | [View →](https://www.remotejobscan.com/job/17337/head-of-risk-turkiye/) |
 | Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Senior Business Strategy Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | Global Crypto-as-a-Service Partnership- Senior Specialist/Lead | Remote | [View →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
-| Finance & Strategy, Deal Desk - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
 | Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
@@ -40,9 +43,6 @@
 | Recruiter, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 | Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
 | State and Local Affairs Lead, West | Remote | [View →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
-| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17322/product-marketing-manager/) |
-| Staff+ Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

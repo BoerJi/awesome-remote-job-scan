@@ -23,11 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 能源与科学部门战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
+| 财务与战略、交易策略 - 亚太地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-strategy-apac/) |
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17338/applied-ai-architects-partner/) |
+| 高级软件工程师 - 全栈 - 增长产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17339/senior-software-engineer-full-stack-growth-product/) |
 | 土耳其风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17337/head-of-risk-turkiye/) |
 | 业务发展代表，主要客户 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | 高级商业策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | 全球加密即服务合作伙伴关系-高级专员/主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
-| 财务与战略、交易台 - 亚太地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
 | 技术员工（应届生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
@@ -40,9 +43,6 @@
 | G&A招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 | 欧洲、中东欧地区解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
 | 西部州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
-| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| 产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17322/product-marketing-manager/) |
-| Staff+ 账户滥用软件工程师（机器学习） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
