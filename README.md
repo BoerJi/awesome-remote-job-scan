@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级安全工程师，检测与响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9133/senior-security-engineer-detection-and-response/) |
+| 安全工程师，检测与响应 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9100/security-engineer-detection-and-response/) |
+| 国家安全模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17377/model-policy-manager-national-security/) |
 | 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
 | 高级软件工程师，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
 | 办公室助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/office-assistant/) |
@@ -40,9 +43,6 @@
 | 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 | 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
 | 生命科学顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
-| 高级物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
-| 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
-| 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17369/product-manager-software-factory/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

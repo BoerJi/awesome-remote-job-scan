@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Security Engineer, Detection and Response | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-engineer-detection-and-response/) |
+| Security Engineer, Detection and Response | Remote | [View →](https://www.remotejobscan.com/job/9100/security-engineer-detection-and-response/) |
+| Model Policy Manager, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/17377/model-policy-manager-national-security/) |
 | Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
 | Staff Software Engineer, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
 | Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
@@ -40,9 +43,6 @@
 | Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 | Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
 | Life Sciences Counsel | On-site | [View →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
-| Staff / Senior Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
-| Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
-| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17369/product-manager-software-factory/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
