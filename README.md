@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3167</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI支持工程师 - 多伦多（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
+| 高级软件工程师，后端 - Overseer（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17319/senior-software-engineer-backend-overseer-platform/) |
+| Salesforce开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
+| 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | 容量规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 | 招聘专员，通讯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 | 政府可信访问项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
@@ -39,10 +43,6 @@
 | 欧洲、中东、非洲区整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
 | 平台工程经理，前沿部署工程 (FDE) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
 | 合规自动化集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
-| 核心基础设施与可靠性集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
-| 开发者基础设施集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| 法务运营经理，供应商与支出管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

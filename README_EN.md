@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3167</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Support Engineer - Toronto (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
+| Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17319/senior-software-engineer-backend-overseer-platform/) |
+| Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
+| Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | Capacity Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 | Program Manager, Government Trusted Access | Hybrid | [View →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
@@ -39,10 +43,6 @@
 | Integrated Marketing Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
 | Platform Engineering Manager, Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
 | Group Product Manager, Compliance Automation | Remote | [View →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
-| Group Product Manager, Core Infrastructure & Reliability | Remote | [View →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
-| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| Legal Operations Manager, Vendor & Spend Management | Remote | [View →](https://www.remotejobscan.com/job/17303/legal-operations-manager-vendor-spend-management/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
