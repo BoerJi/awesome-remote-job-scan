@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3166</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17371/product-counsel/) |
+| 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
+| 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
+| 生命科学顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
+| 高级物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
+| 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
+| 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17369/product-manager-software-factory/) |
 | 专业服务战略采购主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services/) |
 | 战略采购负责人，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
@@ -33,16 +40,9 @@
 | GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17362/business-systems-analyst-gtm-systems/) |
 | 数据科学、财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17358/data-science-finance-strategy/) |
 | 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
-| 研究工程师，强化学习工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | 法国国际增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
 | GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 | 客户服务 - 资产 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17357/customer-service-asset/) |
-| AI原生增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9466/growth-account-executive-ai-native/) |
-| 现场执行架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17355/field-executive-architect/) |
-| 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17356/finance-strategy-deal-strategy/) |
-| 企业财务与战略、公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
-| 安全融合平台高级软件工程师/团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
-| 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

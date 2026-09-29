@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3166</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/17371/product-counsel/) |
+| Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
+| Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
+| Life Sciences Counsel | On-site | [View →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
+| Staff / Senior Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
+| Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
+| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17369/product-manager-software-factory/) |
 | Strategic Sourcing Lead, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services/) |
 | Strategic Sourcing Leader, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
@@ -33,16 +40,9 @@
 | Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/17362/business-systems-analyst-gtm-systems/) |
 | Data Science, Finance & Strategy | On-site | [View →](https://www.remotejobscan.com/job/17358/data-science-finance-strategy/) |
 | Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
-| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | International Growth Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
 | Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 | Customer Service - Asset | Remote | [View →](https://www.remotejobscan.com/job/17357/customer-service-asset/) |
-| Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/9466/growth-account-executive-ai-native/) |
-| Field Executive Architect | On-site | [View →](https://www.remotejobscan.com/job/17355/field-executive-architect/) |
-| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/17356/finance-strategy-deal-strategy/) |
-| Corporate Finance & Strategy, Public Benefit | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
-| Staff / Senior Software Engineer, Security Fusion Platform | On-site | [View →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
-| Insider Risk Investigator | On-site | [View →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
