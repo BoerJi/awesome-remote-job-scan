@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
+| 高级软件工程师，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
+| 办公室助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/office-assistant/) |
+| 数字营销与政策倡导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17375/digital-campaigns-policy-advocacy/) |
 | WFM CX运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
 | 企业金融与战略，公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 | 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
@@ -39,10 +43,6 @@
 | 高级物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
 | 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 | 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17369/product-manager-software-factory/) |
-| 专业服务战略采购主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services/) |
-| 战略采购负责人，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
-| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
-| 市场与传播业务运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17366/business-operations-manager-marketing-and-communications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
+| Staff Software Engineer, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
+| Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
+| Digital Campaigns, Policy Advocacy | On-site | [View →](https://www.remotejobscan.com/job/17375/digital-campaigns-policy-advocacy/) |
 | Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
 | Corporate Finance & Strategy, Public Benefit | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 | Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
@@ -39,10 +43,6 @@
 | Staff / Senior Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
 | Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 | Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17369/product-manager-software-factory/) |
-| Strategic Sourcing Lead, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services/) |
-| Strategic Sourcing Leader, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
-| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
-| Business Operations Manager, Marketing and Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17366/business-operations-manager-marketing-and-communications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
