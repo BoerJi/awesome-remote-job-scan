@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客服团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
+| Web3交易增长高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
+| 日本区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17348/account-executive-japan/) |
 | 荷兰与德国KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
 | 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17343/applied-ai-engineer/) |
@@ -40,9 +43,6 @@
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | Java Back-end Development Engineer Java 后端开发工程师-业财 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
-| P2P客户服务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
-| 交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
-| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

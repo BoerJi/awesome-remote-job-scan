@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Team Lead, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
+| Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
+| Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/17348/account-executive-japan/) |
 | KOL Lead, Netherlands & Germany | Remote | [View →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
 | Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/17343/applied-ai-engineer/) |
@@ -40,9 +43,6 @@
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | Java Back-end Development Engineer Java 后端开发工程师-业财 | Remote | [View →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
-| P2P CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
-| Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
-| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
