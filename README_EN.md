@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3169</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
+| Corporate Finance & Strategy, Public Benefit | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
+| Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
+| Physical Security Design Lead and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/17374/physical-security-design-lead-and-contract-document-specialist/) |
+| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
+| Research Engineer / Research Scientist, RL Frontiers | On-site | [View →](https://www.remotejobscan.com/job/17373/research-engineer-research-scientist-rl-frontiers/) |
+| Research Engineer / Performance Engineer, RL Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/17372/research-engineer-performance-engineer-rl-distributed-systems/) |
 | Product Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/17371/product-counsel/) |
 | Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 | Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
@@ -34,15 +43,6 @@
 | Strategic Sourcing Leader, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
 | Business Operations Manager, Marketing and Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17366/business-operations-manager-marketing-and-communications/) |
-| AI Support Engineer - Singapore (Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/17365/ai-support-engineer-singapore-weekend-shift/) |
-| AI Support Engineer - Tokyo (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/17364/ai-support-engineer-tokyo-weekend-shift/) |
-| Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
-| Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/17362/business-systems-analyst-gtm-systems/) |
-| Data Science, Finance & Strategy | On-site | [View →](https://www.remotejobscan.com/job/17358/data-science-finance-strategy/) |
-| Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
-| International Growth Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
-| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| Customer Service - Asset | Remote | [View →](https://www.remotejobscan.com/job/17357/customer-service-asset/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

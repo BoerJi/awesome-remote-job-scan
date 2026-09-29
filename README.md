@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3169</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| WFM CX运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
+| 企业金融与战略，公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
+| 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
+| 物理安全设计主管和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17374/physical-security-design-lead-and-contract-document-specialist/) |
+| 欧洲、中东欧解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| 初创企业、安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| 强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
+| 研究工程师 / 研究科学家，RL前沿 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17373/research-engineer-research-scientist-rl-frontiers/) |
+| 研究工程师 / 性能工程师，RL 分布式系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17372/research-engineer-performance-engineer-rl-distributed-systems/) |
 | 产品顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17371/product-counsel/) |
 | 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
 | 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
@@ -34,15 +43,6 @@
 | 战略采购负责人，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
 | 市场与传播业务运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17366/business-operations-manager-marketing-and-communications/) |
-| AI支持工程师 - 新加坡（周末班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17365/ai-support-engineer-singapore-weekend-shift/) |
-| AI支持工程师 - 东京（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17364/ai-support-engineer-tokyo-weekend-shift/) |
-| 高级后端软件工程师 - Overseer（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
-| GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17362/business-systems-analyst-gtm-systems/) |
-| 数据科学、财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17358/data-science-finance-strategy/) |
-| 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
-| 法国国际增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
-| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| 客户服务 - 资产 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17357/customer-service-asset/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
