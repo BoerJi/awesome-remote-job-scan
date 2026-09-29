@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3167</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3172</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| G&A招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
+| 欧洲、中东欧地区解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| 西部州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
+| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
+| 产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17322/product-marketing-manager/) |
+| Staff+ 账户滥用软件工程师（机器学习） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | AI支持工程师 - 多伦多（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
 | 高级软件工程师，后端 - Overseer（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17319/senior-software-engineer-backend-overseer-platform/) |
 | Salesforce开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
@@ -37,12 +43,6 @@
 | 政策传播研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
 | 平台产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
 | 增长营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17311/growth-marketing-lead/) |
-| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
-| 硬件系统技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17310/technical-program-manager-hardware-systems/) |
-| 产品设计师，Claude开发者平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17308/product-designer-claude-developer-platform/) |
-| 欧洲、中东、非洲区整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
-| 平台工程经理，前沿部署工程 (FDE) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
-| 合规自动化集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

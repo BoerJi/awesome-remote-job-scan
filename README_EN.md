@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3167</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3172</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiter, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
+| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| State and Local Affairs Lead, West | Remote | [View →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
+| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
+| Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17322/product-marketing-manager/) |
+| Staff+ Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | AI Support Engineer - Toronto (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
 | Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17319/senior-software-engineer-backend-overseer-platform/) |
 | Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
@@ -37,12 +43,6 @@
 | Research Lead, Policy Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
 | Product Marketing Manager, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
 | Growth Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17311/growth-marketing-lead/) |
-| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
-| Technical Program Manager, Hardware Systems | On-site | [View →](https://www.remotejobscan.com/job/17310/technical-program-manager-hardware-systems/) |
-| Product Designer, Claude Developer Platform | On-site | [View →](https://www.remotejobscan.com/job/17308/product-designer-claude-developer-platform/) |
-| Integrated Marketing Manager, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17307/integrated-marketing-manager-emea/) |
-| Platform Engineering Manager, Forward Deployed Engineering (FDE) | Hybrid | [View →](https://www.remotejobscan.com/job/17306/platform-engineering-manager-forward-deployed-engineering-fde/) |
-| Group Product Manager, Compliance Automation | Remote | [View →](https://www.remotejobscan.com/job/9213/group-product-manager-compliance-automation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
