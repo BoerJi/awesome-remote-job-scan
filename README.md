@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3166</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 专业服务战略采购主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services/) |
+| 战略采购负责人，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17368/strategic-sourcing-leader-professional-services/) |
+| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17363/applied-ai-engineer-digital-natives/) |
+| 市场与传播业务运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17366/business-operations-manager-marketing-and-communications/) |
+| AI支持工程师 - 新加坡（周末班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17365/ai-support-engineer-singapore-weekend-shift/) |
+| AI支持工程师 - 东京（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17364/ai-support-engineer-tokyo-weekend-shift/) |
+| 高级后端软件工程师 - Overseer（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
+| GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17362/business-systems-analyst-gtm-systems/) |
+| 数据科学、财务与战略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17358/data-science-finance-strategy/) |
 | 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
 | 研究工程师，强化学习工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | 法国国际增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
@@ -34,15 +43,6 @@
 | 企业财务与战略、公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 | 安全融合平台高级软件工程师/团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
 | 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
-| 微软联合销售合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
-| 清算专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17350/clearing-specialist/) |
-| Staff+ 账户滥用软件工程师（机器学习） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
-| 战略合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17349/director-of-strategic-partnerships/) |
-| 客服团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
-| Web3交易增长高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
-| 日本区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17348/account-executive-japan/) |
-| 荷兰与德国KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
-| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
