@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3174</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3177</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
+| Java Back-end Development Engineer Java 后端开发工程师-业财 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
+| P2P客户服务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
 | 交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
 | 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | 非洲区总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
@@ -39,10 +43,6 @@
 | 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | 容量规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 | 招聘专员，通讯 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
-| 政府可信访问项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
-| 软件工程师，产品效能 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17315/software-engineer-product-velocity/) |
-| 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
-| 计算产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
