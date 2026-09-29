@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3160</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
+| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
+| International Growth Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
+| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| Customer Service - Asset | Remote | [View →](https://www.remotejobscan.com/job/17357/customer-service-asset/) |
+| Growth Account Executive, AI Native | On-site | [View →](https://www.remotejobscan.com/job/9466/growth-account-executive-ai-native/) |
+| Field Executive Architect | On-site | [View →](https://www.remotejobscan.com/job/17355/field-executive-architect/) |
+| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/17356/finance-strategy-deal-strategy/) |
+| Corporate Finance & Strategy, Public Benefit | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 | Staff / Senior Software Engineer, Security Fusion Platform | On-site | [View →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
 | Insider Risk Investigator | On-site | [View →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
 | Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
@@ -34,15 +43,6 @@
 | Account Executive Japan | Remote | [View →](https://www.remotejobscan.com/job/17348/account-executive-japan/) |
 | KOL Lead, Netherlands & Germany | Remote | [View →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
 | Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/17343/applied-ai-engineer/) |
-| Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/14621/account-manager-dach/) |
-| Product Compliance Manager (Abu Dhabi based) | On-site | [View →](https://www.remotejobscan.com/job/17342/product-compliance-manager-abu-dhabi-based/) |
-| Strategic Delivery Lead, Department of Energy & Science | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
-| Finance & Strategy, Deal Strategy - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-strategy-apac/) |
-| Applied AI Architects, Partner | On-site | [View →](https://www.remotejobscan.com/job/17338/applied-ai-architects-partner/) |
-| Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/17339/senior-software-engineer-full-stack-growth-product/) |
-| Head of Risk - Türkiye | On-site | [View →](https://www.remotejobscan.com/job/17337/head-of-risk-turkiye/) |
-| Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

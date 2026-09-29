@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
+| 研究工程师，强化学习工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
+| 法国国际增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17360/international-growth-lead-france/) |
+| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| 客户服务 - 资产 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17357/customer-service-asset/) |
+| AI原生增长客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9466/growth-account-executive-ai-native/) |
+| 现场执行架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17355/field-executive-architect/) |
+| 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17356/finance-strategy-deal-strategy/) |
+| 企业财务与战略、公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 | 安全融合平台高级软件工程师/团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
 | 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
 | 微软联合销售合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
@@ -34,15 +43,6 @@
 | 日本区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17348/account-executive-japan/) |
 | 荷兰与德国KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
 | 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
-| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17343/applied-ai-engineer/) |
-| DACH区域客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14621/account-manager-dach/) |
-| 产品合规经理（阿布扎比总部） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17342/product-compliance-manager-abu-dhabi-based/) |
-| 能源与科学部门战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
-| 财务与战略、交易策略 - 亚太地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-strategy-apac/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17338/applied-ai-architects-partner/) |
-| 高级软件工程师 - 全栈 - 增长产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17339/senior-software-engineer-full-stack-growth-product/) |
-| 土耳其风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17337/head-of-risk-turkiye/) |
-| 业务发展代表，主要客户 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
