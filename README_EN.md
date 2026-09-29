@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Clearing Specialist | Remote | [View →](https://www.remotejobscan.com/job/17350/clearing-specialist/) |
 | Staff+ Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | Director of Strategic Partnerships | Remote | [View →](https://www.remotejobscan.com/job/17349/director-of-strategic-partnerships/) |
 | Team Lead, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
@@ -42,7 +43,6 @@
 | Senior Business Strategy Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | Global Crypto-as-a-Service Partnership- Senior Specialist/Lead | Remote | [View →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
 | Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
-| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

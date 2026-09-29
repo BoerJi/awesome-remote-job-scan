@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3159</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 清算专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17350/clearing-specialist/) |
 | Staff+ 账户滥用软件工程师（机器学习） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | 战略合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17349/director-of-strategic-partnerships/) |
 | 客服团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
@@ -42,7 +43,6 @@
 | 高级商业策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
 | 全球加密即服务合作伙伴关系-高级专员/主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
 | 技术员工（应届生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
-| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
