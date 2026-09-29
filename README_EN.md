@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff / Senior Software Engineer, Security Fusion Platform | On-site | [View →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
+| Insider Risk Investigator | On-site | [View →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
+| Partner Manager, Microsoft Co-sell | On-site | [View →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
 | Clearing Specialist | Remote | [View →](https://www.remotejobscan.com/job/17350/clearing-specialist/) |
 | Staff+ Software Engineer, Account Abuse (Machine Learning) | On-site | [View →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | Director of Strategic Partnerships | Remote | [View →](https://www.remotejobscan.com/job/17349/director-of-strategic-partnerships/) |
@@ -40,9 +43,6 @@
 | Senior Software Engineer - Full-stack - Growth Product | Remote | [View →](https://www.remotejobscan.com/job/17339/senior-software-engineer-full-stack-growth-product/) |
 | Head of Risk - Türkiye | On-site | [View →](https://www.remotejobscan.com/job/17337/head-of-risk-turkiye/) |
 | Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
-| Senior Business Strategy Manager | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
-| Global Crypto-as-a-Service Partnership- Senior Specialist/Lead | Remote | [View →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
-| Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

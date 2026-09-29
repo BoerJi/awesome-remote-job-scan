@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3159</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全融合平台高级软件工程师/团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17353/staff-senior-software-engineer-security-fusion-platform/) |
+| 内部风险调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17352/insider-risk-investigator/) |
+| 微软联合销售合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17078/partner-manager-microsoft-co-sell/) |
 | 清算专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17350/clearing-specialist/) |
 | Staff+ 账户滥用软件工程师（机器学习） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17305/staff-software-engineer-account-abuse-machine-learning/) |
 | 战略合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17349/director-of-strategic-partnerships/) |
@@ -40,9 +43,6 @@
 | 高级软件工程师 - 全栈 - 增长产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17339/senior-software-engineer-full-stack-growth-product/) |
 | 土耳其风险主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17337/head-of-risk-turkiye/) |
 | 业务发展代表，主要客户 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
-| 高级商业策略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-manager/) |
-| 全球加密即服务合作伙伴关系-高级专员/主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
-| 技术员工（应届生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
