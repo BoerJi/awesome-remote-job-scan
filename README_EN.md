@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3171</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3174</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
+| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
+| General Manager, Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | Senior+ Software Engineer, Legal Tech | Remote | [View →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
 | Recruiter, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 | Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Product Velocity | Hybrid | [View →](https://www.remotejobscan.com/job/17315/software-engineer-product-velocity/) |
 | Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
 | Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
-| AI Deployment Specialist, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
-| Research Lead, Policy Communications | Hybrid | [View →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
-| Product Marketing Manager, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

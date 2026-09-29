@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3171</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3174</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
+| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
+| 非洲区总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | 高级+软件工程师，法律技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
 | G&A招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 | 欧洲、中东欧地区解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
@@ -40,9 +43,6 @@
 | 软件工程师，产品效能 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17315/software-engineer-product-velocity/) |
 | 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
 | 计算产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
-| AI部署专家，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/ai-deployment-specialist-beneficial-deployments/) |
-| 政策传播研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17309/research-lead-policy-communications/) |
-| 平台产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17312/product-marketing-manager-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
