@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3176</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3174</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global Crypto-as-a-Service Partnership- Senior Specialist/Lead | Remote | [View →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
 | Finance & Strategy, Deal Desk - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
 | Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
@@ -42,7 +43,6 @@
 | AI Support Engineer - Toronto (Weekend Shift) | On-site | [View →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
 | Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
-| Capacity Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

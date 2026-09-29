@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3176</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3174</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球加密即服务合作伙伴关系-高级专员/主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17336/global-crypto-as-a-service-partnership-senior-specialistlead/) |
 | 财务与战略、交易台 - 亚太地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
 | 技术员工（应届生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
@@ -42,7 +43,6 @@
 | AI支持工程师 - 多伦多（周末班） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17320/ai-support-engineer-toronto-weekend-shift/) |
 | Salesforce开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
-| 容量规划主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
