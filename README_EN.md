@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3175</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3176</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy, Deal Desk - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-desk-apac/) |
+| Member of Technical Staff (New Grad) | On-site | [View →](https://www.remotejobscan.com/job/17335/member-of-technical-staff-new-grad/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | Java Back-end Development Engineer Java 后端开发工程师-业财 | Remote | [View →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
@@ -41,8 +43,6 @@
 | Salesforce Developer | On-site | [View →](https://www.remotejobscan.com/job/15834/salesforce-developer/) |
 | Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | Capacity Planning Lead | Remote | [View →](https://www.remotejobscan.com/job/17316/capacity-planning-lead/) |
-| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
-| Program Manager, Government Trusted Access | Hybrid | [View →](https://www.remotejobscan.com/job/17317/program-manager-government-trusted-access/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
