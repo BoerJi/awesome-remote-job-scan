@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3169</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3173</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
+| Finance & Strategy, Machines | On-site | [View →](https://www.remotejobscan.com/job/17382/finance-strategy-machines/) |
+| Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/17383/finance-strategy-manager-machines/) |
+| Software Engineer, CDP - Foundations | Remote | [View →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
+| Physical Engineering Business Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead/) |
 | Senior Security Engineer, Detection and Response | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-engineer-detection-and-response/) |
 | Security Engineer, Detection and Response | Remote | [View →](https://www.remotejobscan.com/job/9100/security-engineer-detection-and-response/) |
 | Model Policy Manager, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/17377/model-policy-manager-national-security/) |
@@ -38,11 +43,6 @@
 | Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
 | Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | Research Engineer / Research Scientist, RL Frontiers | On-site | [View →](https://www.remotejobscan.com/job/17373/research-engineer-research-scientist-rl-frontiers/) |
-| Research Engineer / Performance Engineer, RL Distributed Systems | On-site | [View →](https://www.remotejobscan.com/job/17372/research-engineer-performance-engineer-rl-distributed-systems/) |
-| Product Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/17371/product-counsel/) |
-| Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/16742/privacy-counsel/) |
-| Litigation Counsel | On-site | [View →](https://www.remotejobscan.com/job/16741/litigation-counsel/) |
-| Life Sciences Counsel | On-site | [View →](https://www.remotejobscan.com/job/13234/life-sciences-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
