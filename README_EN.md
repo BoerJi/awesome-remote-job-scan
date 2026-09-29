@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3169</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/14621/account-manager-dach/) |
+| Product Compliance Manager (Abu Dhabi based) | On-site | [View →](https://www.remotejobscan.com/job/17342/product-compliance-manager-abu-dhabi-based/) |
 | Strategic Delivery Lead, Department of Energy & Science | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
 | Finance & Strategy, Deal Strategy - APAC | On-site | [View →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-strategy-apac/) |
 | Applied AI Architects, Partner | On-site | [View →](https://www.remotejobscan.com/job/17338/applied-ai-architects-partner/) |
@@ -41,8 +43,6 @@
 | General Manager, Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | Senior+ Software Engineer, Legal Tech | Remote | [View →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
 | Recruiter, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
-| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| State and Local Affairs Lead, West | Remote | [View →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

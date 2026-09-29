@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3169</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DACH区域客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14621/account-manager-dach/) |
+| 产品合规经理（阿布扎比总部） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17342/product-compliance-manager-abu-dhabi-based/) |
 | 能源与科学部门战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
 | 财务与战略、交易策略 - 亚太地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17141/finance-strategy-deal-strategy-apac/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17338/applied-ai-architects-partner/) |
@@ -41,8 +43,6 @@
 | 非洲区总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | 高级+软件工程师，法律技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
 | G&A招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
-| 欧洲、中东欧地区解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| 西部州及地方事务负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17321/state-and-local-affairs-lead-west/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
