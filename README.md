@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3171</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 荷兰与德国KOL负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
+| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17343/applied-ai-engineer/) |
 | DACH区域客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14621/account-manager-dach/) |
 | 产品合规经理（阿布扎比总部） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17342/product-compliance-manager-abu-dhabi-based/) |
 | 能源与科学部门战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
@@ -40,9 +43,6 @@
 | P2P客户服务专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
 | 交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
 | 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
-| 非洲区总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
-| 高级+软件工程师，法律技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
-| G&A招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-29 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

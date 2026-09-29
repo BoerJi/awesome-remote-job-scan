@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3171</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KOL Lead, Netherlands & Germany | Remote | [View →](https://www.remotejobscan.com/job/17345/kol-lead-netherlands-germany/) |
+| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17254/applied-ai-engineer-dnb/) |
+| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/17343/applied-ai-engineer/) |
 | Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/14621/account-manager-dach/) |
 | Product Compliance Manager (Abu Dhabi based) | On-site | [View →](https://www.remotejobscan.com/job/17342/product-compliance-manager-abu-dhabi-based/) |
 | Strategic Delivery Lead, Department of Energy & Science | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-department-of-energy-science/) |
@@ -40,9 +43,6 @@
 | P2P CS Specialist | Remote | [View →](https://www.remotejobscan.com/job/17051/p2p-cs-specialist/) |
 | Delivery Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17328/delivery-lead/) |
 | Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
-| General Manager, Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
-| Senior+ Software Engineer, Legal Tech | Remote | [View →](https://www.remotejobscan.com/job/17324/senior-software-engineer-legal-tech/) |
-| Recruiter, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/17323/recruiter-ga/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-29 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
