@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3212</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3215</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
+| Sales Enablement Partner, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
+| Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
+| Experiential Marketing Associate | Remote | [View →](https://www.remotejobscan.com/job/17481/experiential-marketing-associate/) |
+| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | Head of Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
 | CRM and Lifecycle Manager II | Remote | [View →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
@@ -92,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
