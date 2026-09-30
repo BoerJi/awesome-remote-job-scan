@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3181</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3177</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,12 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Quality Engineer | Remote | [View →](https://www.remotejobscan.com/job/17432/senior-quality-engineer/) |
+| Operations Manager, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
+| Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
+| Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/17428/customer-success-southern-europe/) |
 | Customer Success - Strategic - EMEA | Remote | [View →](https://www.remotejobscan.com/job/17425/customer-success-strategic-emea/) |
 | Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/17426/customer-success-dach/) |
 | Product Manager II - Financial Crime Operations | Remote | [View →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
 | Senior Product Designer - CoinGlass | On-site | [View →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
 | Product Lead, Growth Platform | On-site | [View →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
+| Network Security Engineer / Senior Network Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17431/network-security-engineer-senior-network-security-engineer/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
 | Treasury Associate (Data & Automation) | Hybrid | [View →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
@@ -36,11 +41,6 @@
 | Applied AI Architects, Partner | On-site | [View →](https://www.remotejobscan.com/job/17414/applied-ai-architects-partner/) |
 | Security Engineer Manager | Remote | [View →](https://www.remotejobscan.com/job/17413/security-engineer-manager/) |
 | Senior/Staff Engineer, Liquidity Platform, Structured OTC | On-site | [View →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
-| Senior Manager / Expert, DEX Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/17409/senior-manager-expert-dex-ecosystem-growth/) |
-| Senior Manager / Expert, DeFi Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/17408/senior-manager-expert-defi-ecosystem-growth/) |
-| Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
-| Manager, Technical Deployment | On-site | [View →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
-| Financial Crimes Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3181</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3177</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,12 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17432/senior-quality-engineer/) |
+| 运营经理，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
+| 高级执行官员，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
+| 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17428/customer-success-southern-europe/) |
 | 客户成功 - 战略 - 欧美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17425/customer-success-strategic-emea/) |
 | DACH地区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17426/customer-success-dach/) |
 | 产品经理II - 金融犯罪运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
 | 高级产品设计师 - CoinGlass | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
 | 增长平台产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
+| 网络安全工程师/高级网络安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17431/network-security-engineer-senior-network-security-engineer/) |
 | 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
 | 财富管理助理（数据与自动化) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
@@ -36,11 +41,6 @@
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17414/applied-ai-architects-partner/) |
 | 安全工程师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17413/security-engineer-manager/) |
 | 高级/资深工程师，流动性平台，结构化场外交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
-| Senior Manager / Expert, DEX Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17409/senior-manager-expert-dex-ecosystem-growth/) |
-| Senior Manager / Expert, DeFi Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17408/senior-manager-expert-defi-ecosystem-growth/) |
-| Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
-| 技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
-| 金融犯罪分析师（保加利亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
