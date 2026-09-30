@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3179</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager II - Financial Crime Operations | Remote | [View →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
 | Senior Product Designer - CoinGlass | On-site | [View →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
 | Product Lead, Growth Platform | On-site | [View →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
@@ -40,8 +41,6 @@
 | Financial Crimes Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
 | Senior Market & Trading Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer/) |
 | Money Laundering Reporting Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17406/money-laundering-reporting-officer-adgm/) |
-| Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
-| Head of Trading (FX, Market Making & Philippines OTC) | Hybrid | [View →](https://www.remotejobscan.com/job/17407/head-of-trading-fx-market-making-philippines-otc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

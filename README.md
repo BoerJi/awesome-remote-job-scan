@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3179</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理II - 金融犯罪运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
 | 高级产品设计师 - CoinGlass | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
 | 增长平台产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
@@ -40,8 +41,6 @@
 | 金融犯罪分析师（保加利亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
 | 高级市场与交易数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer/) |
 | 反洗钱报告官，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17406/money-laundering-reporting-officer-adgm/) |
-| 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
-| 外汇交易主管（外汇、做市与菲律宾场外交易） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17407/head-of-trading-fx-market-making-philippines-otc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
