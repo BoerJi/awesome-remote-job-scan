@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3175</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3178</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI影响整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
+| 高级软件工程师，移动质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
+| 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
 | 高级核心软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
 | 隐式信号软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
 | 高级欺诈风险管理师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
@@ -39,10 +42,6 @@
 | 数字营销与政策倡导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17375/digital-campaigns-policy-advocacy/) |
 | WFM CX运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
 | 企业金融与战略，公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
-| 规模化商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| 物理安全设计主管和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17374/physical-security-design-lead-and-contract-document-specialist/) |
-| 欧洲、中东欧解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| 初创企业、安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3175</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3178</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Integrated Marketing Manager, AI Impact | Hybrid | [View →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
+| Senior Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
+| Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
+| Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
 | Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
 | Software Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
 | Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
@@ -39,10 +43,6 @@
 | Digital Campaigns, Policy Advocacy | On-site | [View →](https://www.remotejobscan.com/job/17375/digital-campaigns-policy-advocacy/) |
 | Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
 | Corporate Finance & Strategy, Public Benefit | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
-| Scaled Commercial Account Executive, Install base | Hybrid | [View →](https://www.remotejobscan.com/job/13059/scaled-commercial-account-executive-install-base/) |
-| Physical Security Design Lead and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/17374/physical-security-design-lead-and-contract-document-specialist/) |
-| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
