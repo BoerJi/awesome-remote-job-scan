@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3210</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3212</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| Head of Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
+| CRM and Lifecycle Manager II | Remote | [View →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
+| Analytics Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
+| Data Science Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
 | Senior Brand Designer | Remote | [View →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
 | Lead Engineer, AI Quality | Remote | [View →](https://www.remotejobscan.com/job/17473/lead-engineer-ai-quality/) |
-| Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/17465/customer-support-specialist/) |
-| Senior Quality Engineer | Remote | [View →](https://www.remotejobscan.com/job/17459/senior-quality-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

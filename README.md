@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3210</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3212</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| 营收运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
+| 客户关系与生命周期经理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
+| 数据分析工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
+| 数据科学实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
 | 高级品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
 | AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17473/lead-engineer-ai-quality/) |
 | AI质量高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17470/lead-engineer-ai-quality/) |
-| 客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17465/customer-support-specialist/) |
-| 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17459/senior-quality-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
