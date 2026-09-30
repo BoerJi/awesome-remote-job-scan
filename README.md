@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3178</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KYC负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
+| 消费者支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17453/consumer-support-specialist/) |
+| BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
+| Anthropic研究员计划，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
+| Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| 执行器工程技术员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17447/engineering-technician-actuators/) |
+| 战略合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17451/director-of-strategic-partnerships/) |
 | IT支持工程师，高管支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
 | SF地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17445/account-associate-sf/) |
 | 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
@@ -33,16 +40,6 @@
 | 高级主管，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
 | Staff+ 软件工程师，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
 | 高级协会，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
-| 高级销售主管，托管与财富管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17442/senior-sales-lead-custody-wealth-management/) |
-| 合规高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
-| GTM入职销售赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| 客户管家专家IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
-| 区域信息安全副主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17439/deputy-regional-information-security-officer/) |
-| 并购主管，企业发展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17440/ma-lead-corporate-development/) |
-| 物理工程业务主管（特殊情况） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
-| 高级软件工程师，零售DEX | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
-| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

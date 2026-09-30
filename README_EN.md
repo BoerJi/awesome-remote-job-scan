@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3178</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of KYC | Remote | [View →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
+| Consumer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/17453/consumer-support-specialist/) |
+| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
+| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
+| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Engineering Technician, Actuators | On-site | [View →](https://www.remotejobscan.com/job/17447/engineering-technician-actuators/) |
+| Director of Strategic Partnerships | Remote | [View →](https://www.remotejobscan.com/job/17451/director-of-strategic-partnerships/) |
 | IT Support Engineer, Executive Support | On-site | [View →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
 | Account Associate - SF | Hybrid | [View →](https://www.remotejobscan.com/job/17445/account-associate-sf/) |
 | Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/17444/policy-intern/) |
@@ -33,16 +40,6 @@
 | Senior Principal, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
 | Staff+ Software Engineer, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
 | Senior Associate, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
-| Senior Sales Lead, Custody & Wealth Management | Remote | [View →](https://www.remotejobscan.com/job/17442/senior-sales-lead-custody-wealth-management/) |
-| Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
-| Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
-| Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
-| Deputy Regional Information Security Officer | Remote | [View →](https://www.remotejobscan.com/job/17439/deputy-regional-information-security-officer/) |
-| M&A Lead, Corporate Development | Hybrid | [View →](https://www.remotejobscan.com/job/17440/ma-lead-corporate-development/) |
-| Physical Engineering Business Lead (Special Situations) | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
-| Senior Software Engineer, Retail DEX | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
-| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
