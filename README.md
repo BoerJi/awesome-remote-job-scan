@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3172</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3170</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
+| GTM入职销售赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
+| 客户管家专家IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
+| 区域信息安全副主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17439/deputy-regional-information-security-officer/) |
+| 并购主管，企业发展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17440/ma-lead-corporate-development/) |
+| 物理工程业务主管（特殊情况） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
 | 高级软件工程师，零售DEX | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
 | DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
@@ -37,11 +43,6 @@
 | 高级执行官员，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17428/customer-success-southern-europe/) |
 | 客户成功 - 战略 - 欧美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17425/customer-success-strategic-emea/) |
-| DACH地区客户成功 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17426/customer-success-dach/) |
-| 产品经理II - 金融犯罪运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
-| 高级产品设计师 - CoinGlass | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
-| 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
-| 增长平台产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

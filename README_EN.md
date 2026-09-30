@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3172</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3170</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
+| Sales Enablement Lead, GTM Onboarding | On-site | [View →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
+| Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
+| Deputy Regional Information Security Officer | Remote | [View →](https://www.remotejobscan.com/job/17439/deputy-regional-information-security-officer/) |
+| M&A Lead, Corporate Development | Hybrid | [View →](https://www.remotejobscan.com/job/17440/ma-lead-corporate-development/) |
+| Physical Engineering Business Lead (Special Situations) | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
 | Senior Software Engineer, Retail DEX | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
@@ -37,11 +43,6 @@
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | Customer Success - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/17428/customer-success-southern-europe/) |
 | Customer Success - Strategic - EMEA | Remote | [View →](https://www.remotejobscan.com/job/17425/customer-success-strategic-emea/) |
-| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/17426/customer-success-dach/) |
-| Product Manager II - Financial Crime Operations | Remote | [View →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
-| Senior Product Designer - CoinGlass | On-site | [View →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
-| Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
-| Product Lead, Growth Platform | On-site | [View →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
