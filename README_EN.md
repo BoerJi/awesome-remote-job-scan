@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3178</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Market & Trading Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer/) |
+| Money Laundering Reporting Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17406/money-laundering-reporting-officer-adgm/) |
 | Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
+| Head of Trading (FX, Market Making & Philippines OTC) | Hybrid | [View →](https://www.remotejobscan.com/job/17407/head-of-trading-fx-market-making-philippines-otc/) |
 | Head of Treasury | Hybrid | [View →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | Growth Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
@@ -39,9 +42,6 @@
 | Staff Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | Integrated Marketing Manager, AI Impact | Hybrid | [View →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
-| Senior Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
-| Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
-| Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
