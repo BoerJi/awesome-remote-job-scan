@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3211</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,23 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| KYC负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
-| 消费者支持专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17453/consumer-support-specialist/) |
-| BDR赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Anthropic研究员计划，机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| 执行器工程技术员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17447/engineering-technician-actuators/) |
-| 战略合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17451/director-of-strategic-partnerships/) |
-| IT支持工程师，高管支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
-| SF地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17445/account-associate-sf/) |
-| 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
-| 高级系统分析师，财务，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
-| People Innovation Labs技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17443/technical-program-manager-people-innovation-labs/) |
-| 高级软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
-| 高级主管，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
-| Staff+ 软件工程师，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
-| 高级协会，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
+| 高级品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
+| AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17473/lead-engineer-ai-quality/) |
+| AI质量高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17470/lead-engineer-ai-quality/) |
+| 客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17465/customer-support-specialist/) |
+| 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17459/senior-quality-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

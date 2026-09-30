@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3211</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Head of KYC | Remote | [View →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
-| Consumer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/17453/consumer-support-specialist/) |
-| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| Engineering Technician, Actuators | On-site | [View →](https://www.remotejobscan.com/job/17447/engineering-technician-actuators/) |
-| Director of Strategic Partnerships | Remote | [View →](https://www.remotejobscan.com/job/17451/director-of-strategic-partnerships/) |
-| IT Support Engineer, Executive Support | On-site | [View →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
-| Account Associate - SF | Hybrid | [View →](https://www.remotejobscan.com/job/17445/account-associate-sf/) |
-| Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/17444/policy-intern/) |
-| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
-| Technical Program Manager, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/17443/technical-program-manager-people-innovation-labs/) |
-| Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
-| Senior Principal, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
-| Staff+ Software Engineer, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
-| Senior Associate, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
+| Senior Brand Designer | Remote | [View →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
+| Lead Engineer, AI Quality | Remote | [View →](https://www.remotejobscan.com/job/17473/lead-engineer-ai-quality/) |
+| Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/17465/customer-support-specialist/) |
+| Senior Quality Engineer | Remote | [View →](https://www.remotejobscan.com/job/17459/senior-quality-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
