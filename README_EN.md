@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3178</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3184</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Engineer, Liquidity Platform, Structured OTC | On-site | [View →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
+| Senior Manager / Expert, DEX Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/17409/senior-manager-expert-dex-ecosystem-growth/) |
+| Senior Manager / Expert, DeFi Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/17408/senior-manager-expert-defi-ecosystem-growth/) |
+| Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
+| Manager, Technical Deployment | On-site | [View →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
+| Financial Crimes Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
 | Senior Market & Trading Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer/) |
 | Money Laundering Reporting Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17406/money-laundering-reporting-officer-adgm/) |
 | Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
@@ -36,12 +42,6 @@
 | Data Scientist, B2B Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/17398/data-scientist-b2b-generalist/) |
 | Data Center Global Repairs Program Support | Remote | [View →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
 | Head of Data Science, Strategic Finance | On-site | [View →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
-| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| Applied AI Engineer, Codex | On-site | [View →](https://www.remotejobscan.com/job/17394/applied-ai-engineer-codex/) |
-| Customer Success Manager, Ads Solutions (Los Angeles) | Remote | [View →](https://www.remotejobscan.com/job/17393/customer-success-manager-ads-solutions-los-angeles/) |
-| Staff Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
-| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
-| Integrated Marketing Manager, AI Impact | Hybrid | [View →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

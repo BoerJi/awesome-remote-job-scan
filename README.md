@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3178</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3184</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深工程师，流动性平台，结构化场外交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
+| Senior Manager / Expert, DEX Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17409/senior-manager-expert-dex-ecosystem-growth/) |
+| Senior Manager / Expert, DeFi Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17408/senior-manager-expert-defi-ecosystem-growth/) |
+| Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
+| 技术部署经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
+| 金融犯罪分析师（保加利亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
 | 高级市场与交易数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer/) |
 | 反洗钱报告官，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17406/money-laundering-reporting-officer-adgm/) |
 | 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
@@ -36,12 +42,6 @@
 | B2B通用数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17398/data-scientist-b2b-generalist/) |
 | 数据中心全球维修项目支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
 | 战略财务数据科学主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
-| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| Codex应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17394/applied-ai-engineer-codex/) |
-| 广告解决方案客户成功经理（洛杉矶） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17393/customer-success-manager-ads-solutions-los-angeles/) |
-| 移动质量保证高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
-| 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
-| AI影响整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
