@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Lead, Growth Platform | On-site | [View →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
 | Treasury Associate (Data & Automation) | Hybrid | [View →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
@@ -41,7 +42,6 @@
 | Head of Trading (FX, Market Making & Philippines OTC) | Hybrid | [View →](https://www.remotejobscan.com/job/17407/head-of-trading-fx-market-making-philippines-otc/) |
 | Head of Treasury | Hybrid | [View →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
-| Growth Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

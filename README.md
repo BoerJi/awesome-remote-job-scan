@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长平台产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
 | 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
 | 财富管理助理（数据与自动化) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
@@ -41,7 +42,6 @@
 | 外汇交易主管（外汇、做市与菲律宾场外交易） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17407/head-of-trading-fx-market-making-philippines-otc/) |
 | 首席资金官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
-| 日本增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
