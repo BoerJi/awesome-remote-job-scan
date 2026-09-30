@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3170</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3178</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师，高管支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11646/it-support-engineer-executive-support/) |
+| SF地区客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17445/account-associate-sf/) |
+| 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
+| 高级系统分析师，财务，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
+| People Innovation Labs技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17443/technical-program-manager-people-innovation-labs/) |
+| 高级软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
+| 高级主管，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
+| Staff+ 软件工程师，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
+| 高级协会，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
+| 高级销售主管，托管与财富管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17442/senior-sales-lead-custody-wealth-management/) |
 | 合规高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
 | GTM入职销售赋能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15174/sales-enablement-lead-gtm-onboarding/) |
 | 客户管家专家IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
@@ -32,17 +43,6 @@
 | 高级软件工程师，零售DEX | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
 | DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 | 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
-| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| 国际政策应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
-| 财务与战略、数据中心战略项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
-| 数据中心运营网络部署与维护主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17436/network-deployment-and-maintenance-lead-data-center-operations/) |
-| 产品管理实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
-| 客户体验专员 | 合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17433/client-experience-specialist-fixed-term/) |
-| 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17432/senior-quality-engineer/) |
-| 运营经理，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
-| 高级执行官员，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
-| 客户成功 - 南欧 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17428/customer-success-southern-europe/) |
-| 客户成功 - 战略 - 欧美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17425/customer-success-strategic-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
