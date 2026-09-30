@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
+| Head of Treasury | Hybrid | [View →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | Growth Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
 | Customer Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17400/customer-marketing-manager-special-projects/) |
@@ -40,8 +42,6 @@
 | Senior Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
 | Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
 | Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
-| Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
-| Software Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

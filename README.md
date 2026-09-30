@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
+| 首席资金官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | 日本增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
 | 客户营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17400/customer-marketing-manager-special-projects/) |
@@ -39,8 +41,6 @@
 | AI影响整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
 | 高级软件工程师，移动质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
 | 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
-| 高级核心软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
-| 隐式信号软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
