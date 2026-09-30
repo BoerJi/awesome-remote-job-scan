@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3173</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3175</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级核心软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
+| 隐式信号软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
 | 高级欺诈风险管理师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
 | 财务与战略 - 机械 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17382/finance-strategy-machines/) |
 | 机器财务与战略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17383/finance-strategy-manager-machines/) |
@@ -41,8 +43,6 @@
 | 物理安全设计主管和合同文档专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17374/physical-security-design-lead-and-contract-document-specialist/) |
 | 欧洲、中东欧解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
 | 初创企业、安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| 强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
-| 研究工程师 / 研究科学家，RL前沿 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17373/research-engineer-research-scientist-rl-frontiers/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

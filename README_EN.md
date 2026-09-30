@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3173</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3175</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
+| Software Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
 | Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
 | Finance & Strategy, Machines | On-site | [View →](https://www.remotejobscan.com/job/17382/finance-strategy-machines/) |
 | Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/17383/finance-strategy-manager-machines/) |
@@ -41,8 +43,6 @@
 | Physical Security Design Lead and Contract Document Specialist | Remote | [View →](https://www.remotejobscan.com/job/17374/physical-security-design-lead-and-contract-document-specialist/) |
 | Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
 | Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
-| Research Engineer / Research Scientist, RL Frontiers | On-site | [View →](https://www.remotejobscan.com/job/17373/research-engineer-research-scientist-rl-frontiers/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
