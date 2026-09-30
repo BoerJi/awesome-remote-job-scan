@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3179</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3181</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success - Strategic - EMEA | Remote | [View →](https://www.remotejobscan.com/job/17425/customer-success-strategic-emea/) |
+| Customer Success - DACH | Remote | [View →](https://www.remotejobscan.com/job/17426/customer-success-dach/) |
 | Product Manager II - Financial Crime Operations | Remote | [View →](https://www.remotejobscan.com/job/17422/product-manager-ii-financial-crime-operations/) |
 | Senior Product Designer - CoinGlass | On-site | [View →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
@@ -39,8 +41,6 @@
 | Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Manager, Technical Deployment | On-site | [View →](https://www.remotejobscan.com/job/17259/manager-technical-deployment/) |
 | Financial Crimes Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/17411/financial-crimes-analyst-bulgaria/) |
-| Senior Market & Trading Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/6952/senior-market-trading-data-engineer/) |
-| Money Laundering Reporting Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17406/money-laundering-reporting-officer-adgm/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
