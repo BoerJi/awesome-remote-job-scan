@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3177</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Global Repairs Program Support | Remote | [View →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
+| Head of Data Science, Strategic Finance | On-site | [View →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
+| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
+| Applied AI Engineer, Codex | On-site | [View →](https://www.remotejobscan.com/job/17394/applied-ai-engineer-codex/) |
 | Customer Success Manager, Ads Solutions (Los Angeles) | Remote | [View →](https://www.remotejobscan.com/job/17393/customer-success-manager-ads-solutions-los-angeles/) |
 | Staff Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
 | Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
@@ -39,10 +43,6 @@
 | Physical Engineering Business Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead/) |
 | Senior Security Engineer, Detection and Response | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-engineer-detection-and-response/) |
 | Security Engineer, Detection and Response | Remote | [View →](https://www.remotejobscan.com/job/9100/security-engineer-detection-and-response/) |
-| Model Policy Manager, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/17377/model-policy-manager-national-security/) |
-| Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
-| Staff Software Engineer, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
-| Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
