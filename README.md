@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 广告解决方案客户成功经理（洛杉矶） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17393/customer-success-manager-ads-solutions-los-angeles/) |
+| 移动质量保证高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
+| 产品金融与战略、变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | AI影响整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
 | 高级软件工程师，移动质量保证 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
 | 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
@@ -39,9 +42,6 @@
 | 财务与战略、计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
 | 高级软件工程师，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
 | 办公室助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/office-assistant/) |
-| 数字营销与政策倡导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17375/digital-campaigns-policy-advocacy/) |
-| WFM CX运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
-| 企业金融与战略，公共利益 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

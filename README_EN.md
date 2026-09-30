@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, Ads Solutions (Los Angeles) | Remote | [View →](https://www.remotejobscan.com/job/17393/customer-success-manager-ads-solutions-los-angeles/) |
+| Staff Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
+| Product Finance & Strategy, Monetization | On-site | [View →](https://www.remotejobscan.com/job/17287/product-finance-strategy-monetization/) |
 | Integrated Marketing Manager, AI Impact | Hybrid | [View →](https://www.remotejobscan.com/job/17391/integrated-marketing-manager-ai-impact/) |
 | Senior Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
 | Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
@@ -40,9 +43,6 @@
 | Finance & Strategy, Compute | On-site | [View →](https://www.remotejobscan.com/job/17376/finance-strategy-compute/) |
 | Staff Software Engineer, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/9665/staff-software-engineer-billing-platform/) |
 | Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
-| Digital Campaigns, Policy Advocacy | On-site | [View →](https://www.remotejobscan.com/job/17375/digital-campaigns-policy-advocacy/) |
-| Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/15788/manager-wfm-cx-operations/) |
-| Corporate Finance & Strategy, Public Benefit | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
