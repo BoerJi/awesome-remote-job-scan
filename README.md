@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，零售DEX | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
+| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
+| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | 国际政策应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
 | 财务与战略、数据中心战略项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 | 数据中心运营网络部署与维护主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17436/network-deployment-and-maintenance-lead-data-center-operations/) |
@@ -38,9 +42,6 @@
 | 高级产品设计师 - CoinGlass | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | 联盟经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
 | 增长平台产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
-| 网络安全工程师/高级网络安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17431/network-security-engineer-senior-network-security-engineer/) |
-| 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

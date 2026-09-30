@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Retail DEX | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-retail-dex/) |
+| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
+| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | Applied AI Architect, International Policy | On-site | [View →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 | Network Deployment and Maintenance Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/17436/network-deployment-and-maintenance-lead-data-center-operations/) |
@@ -38,9 +42,6 @@
 | Senior Product Designer - CoinGlass | On-site | [View →](https://www.remotejobscan.com/job/17421/senior-product-designer-coinglass/) |
 | Affiliate Manager | Remote | [View →](https://www.remotejobscan.com/job/16553/affiliate-manager/) |
 | Product Lead, Growth Platform | On-site | [View →](https://www.remotejobscan.com/job/17418/product-lead-growth-platform/) |
-| Network Security Engineer / Senior Network Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17431/network-security-engineer-senior-network-security-engineer/) |
-| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
