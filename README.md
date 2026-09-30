@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3177</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3172</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 国际政策应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
+| 财务与战略、数据中心战略项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
+| 数据中心运营网络部署与维护主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17436/network-deployment-and-maintenance-lead-data-center-operations/) |
+| 产品管理实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
+| 客户体验专员 | 合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17433/client-experience-specialist-fixed-term/) |
 | 高级质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17432/senior-quality-engineer/) |
 | 运营经理，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | 高级执行官员，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
@@ -36,11 +41,6 @@
 | 网络安全工程师/高级网络安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17431/network-security-engineer-senior-network-security-engineer/) |
 | 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
-| 财富管理助理（数据与自动化) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
-| 运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17415/operations-specialist/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17414/applied-ai-architects-partner/) |
-| 安全工程师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17413/security-engineer-manager/) |
-| 高级/资深工程师，流动性平台，结构化场外交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

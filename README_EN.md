@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3177</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3172</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, International Policy | On-site | [View →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
+| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
+| Network Deployment and Maintenance Lead - Data Center Operations | Remote | [View →](https://www.remotejobscan.com/job/17436/network-deployment-and-maintenance-lead-data-center-operations/) |
+| Product Management Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
+| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/17433/client-experience-specialist-fixed-term/) |
 | Senior Quality Engineer | Remote | [View →](https://www.remotejobscan.com/job/17432/senior-quality-engineer/) |
 | Operations Manager, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
@@ -36,11 +41,6 @@
 | Network Security Engineer / Senior Network Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17431/network-security-engineer-senior-network-security-engineer/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
-| Treasury Associate (Data & Automation) | Hybrid | [View →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
-| Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17415/operations-specialist/) |
-| Applied AI Architects, Partner | On-site | [View →](https://www.remotejobscan.com/job/17414/applied-ai-architects-partner/) |
-| Security Engineer Manager | Remote | [View →](https://www.remotejobscan.com/job/17413/security-engineer-manager/) |
-| Senior/Staff Engineer, Liquidity Platform, Structured OTC | On-site | [View →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
