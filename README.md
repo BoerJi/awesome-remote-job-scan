@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3184</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
+| 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
+| 财富管理助理（数据与自动化) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
+| 运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17415/operations-specialist/) |
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17414/applied-ai-architects-partner/) |
+| 安全工程师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17413/security-engineer-manager/) |
 | 高级/资深工程师，流动性平台，结构化场外交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
 | Senior Manager / Expert, DEX Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17409/senior-manager-expert-dex-ecosystem-growth/) |
 | Senior Manager / Expert, DeFi Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17408/senior-manager-expert-defi-ecosystem-growth/) |
@@ -36,12 +42,6 @@
 | 首席资金官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | 日本增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
-| 客户营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17400/customer-marketing-manager-special-projects/) |
-| 政府网络安全赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17403/cyber-enablement-lead-government/) |
-| 东南亚增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17399/growth-lead-sea/) |
-| B2B通用数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17398/data-scientist-b2b-generalist/) |
-| 数据中心全球维修项目支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
-| 战略财务数据科学主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3184</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
+| Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17417/enterprise-solutions-engineer-singapore/) |
+| Treasury Associate (Data & Automation) | Hybrid | [View →](https://www.remotejobscan.com/job/17416/treasury-associate-data-automation/) |
+| Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17415/operations-specialist/) |
+| Applied AI Architects, Partner | On-site | [View →](https://www.remotejobscan.com/job/17414/applied-ai-architects-partner/) |
+| Security Engineer Manager | Remote | [View →](https://www.remotejobscan.com/job/17413/security-engineer-manager/) |
 | Senior/Staff Engineer, Liquidity Platform, Structured OTC | On-site | [View →](https://www.remotejobscan.com/job/17412/seniorstaff-engineer-liquidity-platform-structured-otc/) |
 | Senior Manager / Expert, DEX Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/17409/senior-manager-expert-dex-ecosystem-growth/) |
 | Senior Manager / Expert, DeFi Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/17408/senior-manager-expert-defi-ecosystem-growth/) |
@@ -36,12 +42,6 @@
 | Head of Treasury | Hybrid | [View →](https://www.remotejobscan.com/job/17405/head-of-treasury/) |
 | Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
 | Growth Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
-| Customer Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17400/customer-marketing-manager-special-projects/) |
-| Cyber Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/17403/cyber-enablement-lead-government/) |
-| Growth Lead, SEA | Hybrid | [View →](https://www.remotejobscan.com/job/17399/growth-lead-sea/) |
-| Data Scientist, B2B Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/17398/data-scientist-b2b-generalist/) |
-| Data Center Global Repairs Program Support | Remote | [View →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
-| Head of Data Science, Strategic Finance | On-site | [View →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
