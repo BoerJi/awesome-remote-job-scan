@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Software Engineer, Mobile Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
+| Growth Lead, Japan | On-site | [View →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
+| Customer Marketing Manager, Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17400/customer-marketing-manager-special-projects/) |
+| Cyber Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/17403/cyber-enablement-lead-government/) |
+| Growth Lead, SEA | Hybrid | [View →](https://www.remotejobscan.com/job/17399/growth-lead-sea/) |
+| Data Scientist, B2B Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/17398/data-scientist-b2b-generalist/) |
 | Data Center Global Repairs Program Support | Remote | [View →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
 | Head of Data Science, Strategic Finance | On-site | [View →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
 | Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
@@ -36,13 +42,6 @@
 | Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
 | Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
 | Software Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
-| Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
-| Finance & Strategy, Machines | On-site | [View →](https://www.remotejobscan.com/job/17382/finance-strategy-machines/) |
-| Finance & Strategy Manager, Machines | On-site | [View →](https://www.remotejobscan.com/job/17383/finance-strategy-manager-machines/) |
-| Software Engineer, CDP - Foundations | Remote | [View →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
-| Physical Engineering Business Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead/) |
-| Senior Security Engineer, Detection and Response | Hybrid | [View →](https://www.remotejobscan.com/job/9133/senior-security-engineer-detection-and-response/) |
-| Security Engineer, Detection and Response | Remote | [View →](https://www.remotejobscan.com/job/9100/security-engineer-detection-and-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-09-30 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

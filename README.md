@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3187</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级移动基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16446/senior-staff-software-engineer-mobile-infrastructure/) |
+| 日本增长负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17404/growth-lead-japan/) |
+| 客户营销经理，专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17400/customer-marketing-manager-special-projects/) |
+| 政府网络安全赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17403/cyber-enablement-lead-government/) |
+| 东南亚增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17399/growth-lead-sea/) |
+| B2B通用数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17398/data-scientist-b2b-generalist/) |
 | 数据中心全球维修项目支持 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17395/data-center-global-repairs-program-support/) |
 | 战略财务数据科学主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17397/head-of-data-science-strategic-finance/) |
 | 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
@@ -35,13 +41,6 @@
 | 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
 | 高级核心软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
 | 隐式信号软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17386/software-engineer-implicit-signals/) |
-| 高级欺诈风险管理师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
-| 财务与战略 - 机械 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17382/finance-strategy-machines/) |
-| 机器财务与战略经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17383/finance-strategy-manager-machines/) |
-| 软件工程师，CDP - 基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
-| 物理工程业务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead/) |
-| 高级安全工程师，检测与响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9133/senior-security-engineer-detection-and-response/) |
-| 安全工程师，检测与响应 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9100/security-engineer-detection-and-response/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-09-30 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
