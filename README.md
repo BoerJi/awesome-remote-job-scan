@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3217</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3216</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/首席产品经理 - 专业交易工具与体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
 | 法律响应专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | 企业财务与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | 全球金融运营平台总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
@@ -42,7 +43,6 @@
 | 客户关系与生命周期经理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
 | 数据分析工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
 | 数据科学实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
-| 高级品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
