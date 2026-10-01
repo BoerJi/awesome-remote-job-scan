@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3223</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3224</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/17504/senior-manager-executive-communications/) |
+| Managing Director – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/managing-director-brazil/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
 | Senior Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17497/senior-product-manager-director-trading-products/) |
 | Manager, Applied AI Architect (India) | On-site | [View →](https://www.remotejobscan.com/job/17500/manager-applied-ai-architect-india/) |
@@ -40,8 +42,6 @@
 | Senior Analyst, Market Supervision (Abu Dhabi Based) | On-site | [View →](https://www.remotejobscan.com/job/17493/senior-analyst-market-supervision-abu-dhabi-based/) |
 | Technical Sourcer, Research SWE | On-site | [View →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
 | Physical Network & Structured Cabling Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
-| IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
-| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
