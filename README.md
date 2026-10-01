@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3217</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3224</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易产品产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17498/product-manager-director-trading-products/) |
+| 交易产品产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17497/product-director-trading-products/) |
+| 收入策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17490/revenue-strategy-operations/) |
 | 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | DACH客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
@@ -32,6 +35,7 @@
 | 企业财务与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | 全球金融运营平台总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
 | 高级商业战略与增长经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
+| 高级分析师，市场监管（阿布扎比驻地） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17493/senior-analyst-market-supervision-abu-dhabi-based/) |
 | 研究软件工程师技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
 | 物理网络与结构化布线工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT支持工程师，应用程序管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
@@ -39,10 +43,6 @@
 | Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
 | Claude产品销售赋能合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
-| 联邦部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
-| 体验式营销助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17481/experiential-marketing-associate/) |
-| GTM战略与运营 - 美国企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

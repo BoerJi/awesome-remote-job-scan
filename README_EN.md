@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3217</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3224</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17498/product-manager-director-trading-products/) |
+| Product Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17497/product-director-trading-products/) |
+| Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/17490/revenue-strategy-operations/) |
 | Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
@@ -32,6 +35,7 @@
 | Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | Global Financial Operations Platform Director | On-site | [View →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
 | Senior Business Strategy & Growth Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
+| Senior Analyst, Market Supervision (Abu Dhabi Based) | On-site | [View →](https://www.remotejobscan.com/job/17493/senior-analyst-market-supervision-abu-dhabi-based/) |
 | Technical Sourcer, Research SWE | On-site | [View →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
 | Physical Network & Structured Cabling Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
@@ -39,10 +43,6 @@
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
 | Sales Enablement Partner, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
-| Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
-| Experiential Marketing Associate | Remote | [View →](https://www.remotejobscan.com/job/17481/experiential-marketing-associate/) |
-| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
