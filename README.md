@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3222</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3220</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 硬件与消费电子产品数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17511/data-engineer-hardware-consumer-devices/) |
+| 国际会计经理，亚太区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17509/international-accounting-manager-apac/) |
+| 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17510/manager-applied-ai-architect/) |
+| 高级软件工程师，后端（零售 DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 | 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
 | 公共关系与沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
 | 公共关系与通讯经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17506/public-relations-communications-manager/) |
@@ -37,10 +41,6 @@
 | 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | DACH客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| 高级产品经理 - 简易交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading/) |
-| 高级/首席产品经理 - 专业交易工具与体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
-| 法律响应专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
-| 企业财务与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

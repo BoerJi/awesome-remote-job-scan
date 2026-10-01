@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3222</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3220</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Engineer, Hardware & Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17511/data-engineer-hardware-consumer-devices/) |
+| International Accounting Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/17509/international-accounting-manager-apac/) |
+| Manager, Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/17510/manager-applied-ai-architect/) |
+| Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 | Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
 | Public Relations & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
 | Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
@@ -36,10 +40,6 @@
 | Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
-| Principal Product Manager - Simple Trading | Remote | [View →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading/) |
-| Senior/Lead Product Manager - Professional Trading Tools & Experience | On-site | [View →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
-| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
-| Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
