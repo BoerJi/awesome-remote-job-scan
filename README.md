@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3215</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3217</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师，应用程序管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
+| 业务发展代表赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
 | Claude产品销售赋能合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
@@ -35,7 +37,6 @@
 | 数据分析工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
 | 数据科学实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
 | 高级品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
-| AI质量首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17473/lead-engineer-ai-quality/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3215</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3217</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
+| BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
 | Sales Enablement Partner, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
@@ -35,7 +37,6 @@
 | Analytics Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
 | Data Science Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
 | Senior Brand Designer | Remote | [View →](https://www.remotejobscan.com/job/17464/senior-brand-designer/) |
-| Lead Engineer, AI Quality | Remote | [View →](https://www.remotejobscan.com/job/17473/lead-engineer-ai-quality/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
