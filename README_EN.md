@@ -23,7 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Corporate Finance & Strategy, Strategic Transactions | On-site | [View →](https://www.remotejobscan.com/job/17485/corporate-finance-strategy-strategic-transactions/) |
+| Global Financial Operations Platform Director | On-site | [View →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
+| Senior Business Strategy & Growth Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
 | Technical Sourcer, Research SWE | On-site | [View →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
 | Physical Network & Structured Cabling Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

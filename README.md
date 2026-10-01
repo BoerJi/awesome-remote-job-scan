@@ -23,7 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 公司财务与战略，战略交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17485/corporate-finance-strategy-strategic-transactions/) |
+| 全球金融运营平台总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
+| 高级商业战略与增长经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
 | 研究软件工程师技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
 | 物理网络与结构化布线工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT支持工程师，应用程序管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
