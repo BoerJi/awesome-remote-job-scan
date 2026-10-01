@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3224</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 营销战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11353/head-of-marketing-strategy-operations/) |
+| 计算账务支付高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17517/senior-manager-accounts-payable-compute/) |
+| 企业工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17518/engineering-manager-enterprise/) |
+| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 | 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
 | 政治项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17516/political-programs-lead/) |
 | 网络安全客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
@@ -39,9 +43,6 @@
 | 国际会计经理，亚太区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17509/international-accounting-manager-apac/) |
 | 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17510/manager-applied-ai-architect/) |
 | 高级软件工程师，后端（零售 DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
-| 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
-| 公共关系与沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
-| 公共关系与通讯经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17506/public-relations-communications-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
