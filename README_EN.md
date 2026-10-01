@@ -23,8 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17498/product-manager-director-trading-products/) |
-| Product Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17497/product-director-trading-products/) |
+| Senior Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17497/senior-product-manager-director-trading-products/) |
+| Manager, Applied AI Architect (India) | On-site | [View →](https://www.remotejobscan.com/job/17500/manager-applied-ai-architect-india/) |
+| Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/17499/applied-ai-architect/) |
 | Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/17490/revenue-strategy-operations/) |
 | Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
@@ -41,8 +42,6 @@
 | IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
-| Sales Enablement Partner, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

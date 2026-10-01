@@ -23,8 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 交易产品产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17498/product-manager-director-trading-products/) |
-| 交易产品产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17497/product-director-trading-products/) |
+| 高级产品经理/交易产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17497/senior-product-manager-director-trading-products/) |
+| 应用AI架构师经理（印度） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17500/manager-applied-ai-architect-india/) |
+| 应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17499/applied-ai-architect/) |
 | 收入策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17490/revenue-strategy-operations/) |
 | 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
@@ -41,8 +42,6 @@
 | IT支持工程师，应用程序管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | 业务发展代表赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17482/recruiter-ga/) |
-| Claude产品销售赋能合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-partner-claude-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
