@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究软件工程师技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
+| 物理网络与结构化布线工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT支持工程师，应用程序管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | 业务发展代表赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

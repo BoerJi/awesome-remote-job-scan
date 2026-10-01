@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Sourcer, Research SWE | On-site | [View →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
+| Physical Network & Structured Cabling Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT Support Engineer, Application Administrator | On-site | [View →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | BDR Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
