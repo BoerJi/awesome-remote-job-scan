@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3225</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Pricing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
+| US Congressional Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
+| Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
+| Senior Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
+| Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17524/software-engineer-backend-payments-platform/) |
 | Frontend Software Engineer, Codex App | On-site | [View →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
 | International Payroll Operations | Hybrid | [View →](https://www.remotejobscan.com/job/17522/international-payroll-operations/) |
 | Software Engineer, DevOps | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
@@ -38,10 +43,6 @@
 | Engineering Manager, ChatGPT Space | Hybrid | [View →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
 | Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
 | Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
-| Software Engineer, Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
-| Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
-| Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
-| Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

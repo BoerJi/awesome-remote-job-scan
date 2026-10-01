@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 定价运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
+| 美国国会联络负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
+| 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
+| 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
+| 软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17524/software-engineer-backend-payments-platform/) |
 | Codex应用前端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
 | 国际薪酬运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17522/international-payroll-operations/) |
 | 软件工程师，DevOps | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
@@ -38,11 +43,6 @@
 | ChatGPT空间工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
 | LangSmith 产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
 | 强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
-| 软件工程师，沙箱 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
-| 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
-| 移动安全资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
-| 高级/资深移动软件工程师 — 核心团队（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
-| 高级/资深移动软件工程师 - 核心团队（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
