@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3217</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3218</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业财务与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | 全球金融运营平台总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
 | 高级商业战略与增长经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
 | 研究软件工程师技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
