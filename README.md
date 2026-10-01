@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3224</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3223</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长账户经理，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
 | 高级产品经理/交易产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17497/senior-product-manager-director-trading-products/) |
 | 应用AI架构师经理（印度） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17500/manager-applied-ai-architect-india/) |
 | 应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17499/applied-ai-architect/) |
@@ -41,7 +42,6 @@
 | 物理网络与结构化布线工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 | IT支持工程师，应用程序管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13354/it-support-engineer-application-administrator/) |
 | 业务发展代表赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13905/bdr-enablement-lead/) |
-| Anthropic研究员计划，Anthropic研究所（经济学与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
