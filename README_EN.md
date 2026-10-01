@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
+| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
+| Software Engineer, Sales Platform | On-site | [View →](https://www.remotejobscan.com/job/17539/software-engineer-sales-platform/) |
 | Channel Partner Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17537/channel-partner-manager-public-sector/) |
 | Forward Deployed Engineer - Singapore (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
@@ -40,9 +43,6 @@
 | Senior Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
 | Frontend Software Engineer, Codex App | On-site | [View →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
 | International Payroll Operations | Hybrid | [View →](https://www.remotejobscan.com/job/17522/international-payroll-operations/) |
-| Software Engineer, DevOps | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
-| Staff+ Software Engineer, People Products | Remote | [View →](https://www.remotejobscan.com/job/9688/staff-software-engineer-people-products/) |
-| Head of Marketing Strategy & Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11353/head-of-marketing-strategy-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

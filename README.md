@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
+| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
+| 销售平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17539/software-engineer-sales-platform/) |
 | 公共部门渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17537/channel-partner-manager-public-sector/) |
 | 前向部署工程师 - 新加坡（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
 | 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
@@ -40,9 +43,6 @@
 | 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
 | Codex应用前端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
 | 国际薪酬运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17522/international-payroll-operations/) |
-| 软件工程师，DevOps | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
-| Staff+ 软件工程师，人员产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9688/staff-software-engineer-people-products/) |
-| 营销战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11353/head-of-marketing-strategy-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
