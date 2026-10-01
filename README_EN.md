@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3220</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,23 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AWS GTM Partnership Lead, Public Sector & Nonprofits | On-site | [View →](https://www.remotejobscan.com/job/17513/aws-gtm-partnership-lead-public-sector-nonprofits/) |
+| Engineering Manager, ChatGPT Space | Hybrid | [View →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
+| Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
+| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
+| Software Engineer, Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
+| Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
+| Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
+| Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
 | Data Engineer, Hardware & Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17511/data-engineer-hardware-consumer-devices/) |
 | International Accounting Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/17509/international-accounting-manager-apac/) |
 | Manager, Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/17510/manager-applied-ai-architect/) |
 | Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 | Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
 | Public Relations & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
-| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | Senior Manager, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/17504/senior-manager-executive-communications/) |
 | Managing Director – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/managing-director-brazil/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
-| Senior Product Manager / Director, Trading Products | On-site | [View →](https://www.remotejobscan.com/job/17497/senior-product-manager-director-trading-products/) |
-| Manager, Applied AI Architect (India) | On-site | [View →](https://www.remotejobscan.com/job/17500/manager-applied-ai-architect-india/) |
-| Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/17499/applied-ai-architect/) |
-| Revenue Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/17490/revenue-strategy-operations/) |
-| Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
-| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

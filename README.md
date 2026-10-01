@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3220</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AWS GTM公共部门与非营利组织合作伙伴关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17513/aws-gtm-partnership-lead-public-sector-nonprofits/) |
+| ChatGPT空间工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
+| LangSmith 产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
+| 强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
+| 软件工程师，沙箱 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
+| 移动安全高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
+| 移动安全资深软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9000/staff-software-engineer-mobile-security/) |
+| 高级/资深移动软件工程师 — 核心团队（消息） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
+| 高级/资深移动软件工程师 - 核心团队（账户与风控） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
 | 硬件与消费电子产品数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17511/data-engineer-hardware-consumer-devices/) |
 | 国际会计经理，亚太区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17509/international-accounting-manager-apac/) |
 | 应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17510/manager-applied-ai-architect/) |
@@ -30,17 +39,9 @@
 | 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
 | 公共关系与沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
 | 公共关系与通讯经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17506/public-relations-communications-manager/) |
-| 强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | 高级经理，高管沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17504/senior-manager-executive-communications/) |
 | 巴西区总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16443/managing-director-brazil/) |
 | 增长账户经理，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
-| 高级产品经理/交易产品总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17497/senior-product-manager-director-trading-products/) |
-| 应用AI架构师经理（印度） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17500/manager-applied-ai-architect-india/) |
-| 应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17499/applied-ai-architect/) |
-| 收入策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17490/revenue-strategy-operations/) |
-| 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
-| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| DACH客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
