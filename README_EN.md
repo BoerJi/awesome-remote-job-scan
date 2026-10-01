@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3224</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Frontend Software Engineer, Codex App | On-site | [View →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
+| International Payroll Operations | Hybrid | [View →](https://www.remotejobscan.com/job/17522/international-payroll-operations/) |
+| Software Engineer, DevOps | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
+| Staff+ Software Engineer, People Products | Remote | [View →](https://www.remotejobscan.com/job/9688/staff-software-engineer-people-products/) |
 | Head of Marketing Strategy & Operations | Hybrid | [View →](https://www.remotejobscan.com/job/11353/head-of-marketing-strategy-operations/) |
 | Senior Manager, Accounts Payable - Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17517/senior-manager-accounts-payable-compute/) |
 | Engineering Manager (Enterprise) | On-site | [View →](https://www.remotejobscan.com/job/17518/engineering-manager-enterprise/) |
@@ -38,10 +42,6 @@
 | Staff Software Engineer, Mobile Security | On-site | [View →](https://www.remotejobscan.com/job/14811/staff-software-engineer-mobile-security/) |
 | Senior / Staff Software Engineer, Mobile — Core (Messaging) | On-site | [View →](https://www.remotejobscan.com/job/12981/senior-staff-software-engineer-mobile-core-messaging/) |
 | Senior / Staff Software Engineer, Mobile — Core (Account & Risk) | On-site | [View →](https://www.remotejobscan.com/job/12782/senior-staff-software-engineer-mobile-core-account-risk/) |
-| Data Engineer, Hardware & Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17511/data-engineer-hardware-consumer-devices/) |
-| International Accounting Manager, APAC | On-site | [View →](https://www.remotejobscan.com/job/17509/international-accounting-manager-apac/) |
-| Manager, Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/17510/manager-applied-ai-architect/) |
-| Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
