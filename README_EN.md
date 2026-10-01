@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3217</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | Global Financial Operations Platform Director | On-site | [View →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
 | Senior Business Strategy & Growth Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
