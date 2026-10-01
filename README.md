@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17537/channel-partner-manager-public-sector/) |
+| 前向部署工程师 - 新加坡（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
+| 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
+| 银行战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15140/strategic-account-executive-banking/) |
 | 企业金融与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
@@ -34,15 +38,11 @@
 | 美国国会联络负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 | 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
 | 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
-| 软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17524/software-engineer-backend-payments-platform/) |
 | Codex应用前端软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
 | 国际薪酬运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17522/international-payroll-operations/) |
 | 软件工程师，DevOps | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-devops/) |
 | Staff+ 软件工程师，人员产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9688/staff-software-engineer-people-products/) |
 | 营销战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11353/head-of-marketing-strategy-operations/) |
-| 计算账务支付高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17517/senior-manager-accounts-payable-compute/) |
-| 企业工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17518/engineering-manager-enterprise/) |
-| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
