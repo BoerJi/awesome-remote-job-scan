@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3216</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3217</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17488/technology-and-security-risk-director/) |
+| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/12996/customer-success-manager-dach/) |
+| Principal Product Manager - Simple Trading | Remote | [View →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading/) |
 | Senior/Lead Product Manager - Professional Trading Tools & Experience | On-site | [View →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
@@ -39,10 +43,6 @@
 | Experiential Marketing Associate | Remote | [View →](https://www.remotejobscan.com/job/17481/experiential-marketing-associate/) |
 | GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| Head of Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
-| CRM and Lifecycle Manager II | Remote | [View →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
-| Analytics Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15799/analytics-engineer-intern/) |
-| Data Science Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
