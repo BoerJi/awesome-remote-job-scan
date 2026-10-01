@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3228</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
+| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
+| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| Product Designer, Consumer Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/17535/product-designer-consumer-verticals/) |
+| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
+| Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
+| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | Pricing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
 | US Congressional Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 | Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
@@ -36,13 +43,6 @@
 | Senior Manager, Accounts Payable - Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17517/senior-manager-accounts-payable-compute/) |
 | Engineering Manager (Enterprise) | On-site | [View →](https://www.remotejobscan.com/job/17518/engineering-manager-enterprise/) |
 | Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
-| Political Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/17516/political-programs-lead/) |
-| Manager, Customer Success – Cyber | On-site | [View →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
-| AWS GTM Partnership Lead, Public Sector & Nonprofits | On-site | [View →](https://www.remotejobscan.com/job/17513/aws-gtm-partnership-lead-public-sector-nonprofits/) |
-| Engineering Manager, ChatGPT Space | Hybrid | [View →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
-| Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
-| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

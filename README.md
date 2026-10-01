@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3228</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业金融与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
+| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
+| 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
+| 消费领域产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17535/product-designer-consumer-verticals/) |
+| 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
+| 客户互动与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
+| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | 定价运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
 | 美国国会联络负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 | 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
@@ -36,13 +43,6 @@
 | 计算账务支付高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17517/senior-manager-accounts-payable-compute/) |
 | 企业工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17518/engineering-manager-enterprise/) |
 | 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
-| 政治项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17516/political-programs-lead/) |
-| 网络安全客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
-| AWS GTM公共部门与非营利组织合作伙伴关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17513/aws-gtm-partnership-lead-public-sector-nonprofits/) |
-| ChatGPT空间工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
-| LangSmith 产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
-| 强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
