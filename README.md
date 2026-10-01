@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
+| 政治项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17516/political-programs-lead/) |
+| 网络安全客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
 | AWS GTM公共部门与非营利组织合作伙伴关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17513/aws-gtm-partnership-lead-public-sector-nonprofits/) |
 | ChatGPT空间工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
 | LangSmith 产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
@@ -39,9 +42,6 @@
 | 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
 | 公共关系与沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
 | 公共关系与通讯经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17506/public-relations-communications-manager/) |
-| 高级经理，高管沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17504/senior-manager-executive-communications/) |
-| 巴西区总经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16443/managing-director-brazil/) |
-| 增长账户经理，初创公司 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-01 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

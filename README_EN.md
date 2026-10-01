@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3225</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
+| Political Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/17516/political-programs-lead/) |
+| Manager, Customer Success – Cyber | On-site | [View →](https://www.remotejobscan.com/job/16400/manager-customer-success-cyber/) |
 | AWS GTM Partnership Lead, Public Sector & Nonprofits | On-site | [View →](https://www.remotejobscan.com/job/17513/aws-gtm-partnership-lead-public-sector-nonprofits/) |
 | Engineering Manager, ChatGPT Space | Hybrid | [View →](https://www.remotejobscan.com/job/17514/engineering-manager-chatgpt-space/) |
 | Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/17515/product-manager-langsmith/) |
@@ -37,9 +40,6 @@
 | Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 | Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
 | Public Relations & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
-| Senior Manager, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/17504/senior-manager-executive-communications/) |
-| Managing Director – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/managing-director-brazil/) |
-| Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
