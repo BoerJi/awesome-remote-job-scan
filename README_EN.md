@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3222</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/17508/customer-support-specialist/) |
+| Public Relations & Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/17505/public-relations-communications-manager/) |
+| Research Engineer, RL Engineering | On-site | [View →](https://www.remotejobscan.com/job/11999/research-engineer-rl-engineering/) |
 | Senior Manager, Executive Communications | Remote | [View →](https://www.remotejobscan.com/job/17504/senior-manager-executive-communications/) |
 | Managing Director – Brazil | Remote | [View →](https://www.remotejobscan.com/job/16443/managing-director-brazil/) |
 | Growth Account Executive, Startups | On-site | [View →](https://www.remotejobscan.com/job/17503/growth-account-executive-startups/) |
@@ -37,11 +40,6 @@
 | Senior/Lead Product Manager - Professional Trading Tools & Experience | On-site | [View →](https://www.remotejobscan.com/job/17104/seniorlead-product-manager-professional-trading-tools-experience/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
-| Global Financial Operations Platform Director | On-site | [View →](https://www.remotejobscan.com/job/17486/global-financial-operations-platform-director/) |
-| Senior Business Strategy & Growth Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/11821/senior-business-strategy-growth-manager-okx-sg/) |
-| Senior Analyst, Market Supervision (Abu Dhabi Based) | On-site | [View →](https://www.remotejobscan.com/job/17493/senior-analyst-market-supervision-abu-dhabi-based/) |
-| Technical Sourcer, Research SWE | On-site | [View →](https://www.remotejobscan.com/job/17484/technical-sourcer-research-swe/) |
-| Physical Network & Structured Cabling Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17483/physical-network-structured-cabling-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-01 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
