@@ -29,6 +29,7 @@
 | VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
 | 集团财库服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
 | 高级后端软件工程师，平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
+| VIP用户运营高级专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17548/vip-user-operation-senior-specialist/) |
 | 币安加速器计划 - 后端工程师，支付与卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
 | 生命科学技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
 | 高级营销经理，品牌战略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
@@ -42,7 +43,6 @@
 | 企业金融与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
-| 消费领域产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17535/product-designer-consumer-verticals/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
