@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 薪酬与股权负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17557/head-of-payroll-equity/) |
+| DACH合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17558/partner-account-manager-dach/) |
 | 保障团队 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
 | 解决方案架构师，国防，DACH | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17556/solutions-architect-defence-dach/) |
 | DACH地区解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17555/solutions-architect-dach/) |
@@ -31,6 +33,7 @@
 | 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17552/senior-account-executive/) |
 | B2B营销 - 南美地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
 | AI高级工程师（LLM与智能体） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
+| 高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17559/senior-product-manager/) |
 | 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
 | P2P增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
@@ -38,11 +41,8 @@
 | VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
 | 集团财库服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
 | 高级后端软件工程师，平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
+| VIP/机构客户高级专员 - 客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17560/client-manager-vipinstitutional-clients-senior-specialist/) |
 | VIP用户运营高级专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17548/vip-user-operation-senior-specialist/) |
-| 币安加速器计划 - 后端工程师，支付与卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
-| 生命科学技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
-| 高级营销经理，品牌战略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
-| AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

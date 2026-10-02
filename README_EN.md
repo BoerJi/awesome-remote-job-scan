@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Payroll & Equity | On-site | [View →](https://www.remotejobscan.com/job/17557/head-of-payroll-equity/) |
+| Partner Account Manager - DACH | On-site | [View →](https://www.remotejobscan.com/job/17558/partner-account-manager-dach/) |
 | Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
 | Solutions Architect, Defence, DACH | Remote | [View →](https://www.remotejobscan.com/job/17556/solutions-architect-defence-dach/) |
 | Solutions Architect - DACH | Remote | [View →](https://www.remotejobscan.com/job/17555/solutions-architect-dach/) |
@@ -31,6 +33,7 @@
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/17552/senior-account-executive/) |
 | B2B Marketing - Southern Cone | On-site | [View →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
+| Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17559/senior-product-manager/) |
 | Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
 | P2P Growth Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
@@ -38,11 +41,8 @@
 | VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
 | Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
 | Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
+| Client Manager, VIP/Institutional Clients - Senior Specialist | Remote | [View →](https://www.remotejobscan.com/job/17560/client-manager-vipinstitutional-clients-senior-specialist/) |
 | VIP User Operation Senior Specialist | Remote | [View →](https://www.remotejobscan.com/job/17548/vip-user-operation-senior-specialist/) |
-| Binance Accelerator Program - Backend Engineer, Pay & Card | Remote | [View →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
-| Technical Program Manager, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
-| Senior Marketing Manager, Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
-| AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
