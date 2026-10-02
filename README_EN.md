@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| B2B Marketing - Southern Cone | On-site | [View →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
@@ -42,7 +43,6 @@
 | Forward Deployed Engineer - Singapore (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
 | Strategic Account Executive, Banking | On-site | [View →](https://www.remotejobscan.com/job/15140/strategic-account-executive-banking/) |
-| Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| B2B营销 - 南美地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
 | AI高级工程师（LLM与智能体） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
@@ -42,7 +43,6 @@
 | 前向部署工程师 - 新加坡（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
 | 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
 | 银行战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15140/strategic-account-executive-banking/) |
-| 企业金融与战略、公共利益与全球事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
