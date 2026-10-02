@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
+| P2P增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
 | 集团财库服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
@@ -41,8 +43,6 @@
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
 | 软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | 消费领域产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17535/product-designer-consumer-verticals/) |
-| 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
-| 客户互动与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
+| P2P Growth Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
 | Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
@@ -41,8 +43,6 @@
 | Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
 | Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 | Product Designer, Consumer Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/17535/product-designer-consumer-verticals/) |
-| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
-| Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
