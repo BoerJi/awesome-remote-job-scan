@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>3193</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Corporate Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-manager/) |
+| Accounts Payable Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17571/accounts-payable-specialist/) |
+| People Technology Analyst, Workday PATT & Benefits | Remote | [View →](https://www.remotejobscan.com/job/17570/people-technology-analyst-workday-patt-benefits/) |
 | Head of Payroll & Equity | On-site | [View →](https://www.remotejobscan.com/job/17567/head-of-payroll-equity/) |
 | Strategic Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/17568/strategic-business-development-lead/) |
 | Staff Machine Learning Engineer (Platform - Identity) | Remote | [View →](https://www.remotejobscan.com/job/9312/staff-machine-learning-engineer-platform-identity/) |
@@ -39,14 +42,11 @@
 | Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
 | Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/17552/senior-account-executive/) |
 | B2B Marketing - Southern Cone | On-site | [View →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
-| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
-| Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17559/senior-product-manager/) |
-| Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -72,7 +72,6 @@
 | <img src="images/elevenlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="ElevenLabs"> | <a href="https://elevenlabs.io/">ElevenLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=elevenlabs) |
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [View jobs →](https://www.remotejobscan.com/?company=gate) |
 | <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [View jobs →](https://www.remotejobscan.com/?company=gauntlet) |
-| <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [View jobs →](https://www.remotejobscan.com/?company=gemini) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [View jobs →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [View jobs →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [View jobs →](https://www.remotejobscan.com/?company=kucoin) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
