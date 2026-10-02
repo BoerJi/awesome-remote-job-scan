@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3233</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长负责人，保证金交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17563/head-of-growth-margin-trading/) |
+| 亚太区主要安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
+| 战略采购主管，专业服务——人类数据 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services-human-data/) |
 | 薪酬与股权负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17557/head-of-payroll-equity/) |
 | DACH合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17558/partner-account-manager-dach/) |
 | 保障团队 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
@@ -39,10 +42,6 @@
 | P2P增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
-| 集团财库服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
-| 高级后端软件工程师，平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
-| VIP/机构客户高级专员 - 客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17560/client-manager-vipinstitutional-clients-senior-specialist/) |
-| VIP用户运营高级专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17548/vip-user-operation-senior-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

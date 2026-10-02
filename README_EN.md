@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3233</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Growth, Margin Trading | Remote | [View →](https://www.remotejobscan.com/job/17563/head-of-growth-margin-trading/) |
+| Account Executive, Majors- Install Base (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
+| Strategic Sourcing Lead, Professional Services – Human Data | Hybrid | [View →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services-human-data/) |
 | Head of Payroll & Equity | On-site | [View →](https://www.remotejobscan.com/job/17557/head-of-payroll-equity/) |
 | Partner Account Manager - DACH | On-site | [View →](https://www.remotejobscan.com/job/17558/partner-account-manager-dach/) |
 | Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
@@ -39,10 +42,6 @@
 | P2P Growth Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 | VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
-| Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
-| Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
-| Client Manager, VIP/Institutional Clients - Senior Specialist | Remote | [View →](https://www.remotejobscan.com/job/17560/client-manager-vipinstitutional-clients-senior-specialist/) |
-| VIP User Operation Senior Specialist | Remote | [View →](https://www.remotejobscan.com/job/17548/vip-user-operation-senior-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
