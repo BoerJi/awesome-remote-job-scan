@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3228</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
+| VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
 | Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
 | Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
 | Binance Accelerator Program - Backend Engineer, Pay & Card | Remote | [View →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
@@ -41,8 +43,6 @@
 | Product Designer, Consumer Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/17535/product-designer-consumer-verticals/) |
 | Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
 | Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
-| Pricing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
