@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3236</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
+| 高级礼宾专员IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
+| 预测市场运营实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
+| 品牌设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17587/brand-design-intern-winter-2027/) |
+| 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
+| 平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17591/product-manager-platform/) |
+| 高级软件工程师（机构，CFM） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17589/staff-software-engineer-institutional-fcm/) |
+| 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
+| 招聘、沟通、品牌与市场负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17590/head-of-recruiting-communications-brand-marketing/) |
 | 财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 | 专属支持工程师 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
 | 品牌项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
@@ -34,14 +43,6 @@
 | ITAV活动技术制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17578/itav-event-technical-producer/) |
 | 供应商安全技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17577/vendor-security-technical-program-manager/) |
 | RWA负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17580/head-of-rwa/) |
-| 机器人技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics/) |
-| 经纪商运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17576/broker-dealer-operations-senior-associate/) |
-| 经纪商运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17575/broker-dealer-operations-associate/) |
-| 多智能体扩展研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17574/staff-research-engineer-multi-agent-scaling/) |
-| Staff+ 软件工程师，数据安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
-| 高级平台基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
-| 战略采购主管，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17573/strategic-sourcing-leader-professional-services/) |
-| 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

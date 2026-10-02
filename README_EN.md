@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3236</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
+| Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
+| Prediction Markets Operations Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
+| Brand Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17587/brand-design-intern-winter-2027/) |
+| Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
+| Product Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/17591/product-manager-platform/) |
+| Staff Software Engineer (Institutional, FCM) | Remote | [View →](https://www.remotejobscan.com/job/17589/staff-software-engineer-institutional-fcm/) |
+| Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
+| Head of Recruiting, Communications, Brand, & Marketing | On-site | [View →](https://www.remotejobscan.com/job/17590/head-of-recruiting-communications-brand-marketing/) |
 | Finance & Strategy Analyst | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 | Dedicated Support Engineer - London | Hybrid | [View →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
 | Program Manager, Brand | On-site | [View →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
@@ -34,15 +43,6 @@
 | ITAV Event Technical Producer | On-site | [View →](https://www.remotejobscan.com/job/17578/itav-event-technical-producer/) |
 | Vendor Security Technical Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17577/vendor-security-technical-program-manager/) |
 | Head of RWA | On-site | [View →](https://www.remotejobscan.com/job/17580/head-of-rwa/) |
-| Technical Program Manager, Robotics | On-site | [View →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics/) |
-| Broker Dealer Operations, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17576/broker-dealer-operations-senior-associate/) |
-| Broker Dealer Operations, Associate | Remote | [View →](https://www.remotejobscan.com/job/17575/broker-dealer-operations-associate/) |
-| Staff Research Engineer, Multi-Agent Scaling | On-site | [View →](https://www.remotejobscan.com/job/17574/staff-research-engineer-multi-agent-scaling/) |
-| Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
-| Staff Platform Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
-| Strategic Sourcing Leader, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/17573/strategic-sourcing-leader-professional-services/) |
-| Senior Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
-| Staff Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
