@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Program Manager, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
 | Senior Marketing Manager, Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
 | AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
@@ -42,7 +43,6 @@
 | US Congressional Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 | Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
 | Senior Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
-| Frontend Software Engineer, Codex App | On-site | [View →](https://www.remotejobscan.com/job/17521/frontend-software-engineer-codex-app/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
