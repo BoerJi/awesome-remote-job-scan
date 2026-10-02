@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
+| Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
 | P2P Growth Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
@@ -41,8 +43,6 @@
 | Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
 | Strategic Account Executive, Banking | On-site | [View →](https://www.remotejobscan.com/job/15140/strategic-account-executive-banking/) |
 | Corporate Finance & Strategy, Public Benefit & Global Affairs | On-site | [View →](https://www.remotejobscan.com/job/17354/corporate-finance-strategy-public-benefit-global-affairs/) |
-| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
-| Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/15946/software-engineer-developer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
