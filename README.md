@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3228</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 集团财库服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
 | 高级后端软件工程师，平台（核心AI自动化） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
 | 币安加速器计划 - 后端工程师，支付与卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
 | 生命科学技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
@@ -42,7 +43,6 @@
 | 客户互动与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | 定价运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
-| 美国国会联络负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

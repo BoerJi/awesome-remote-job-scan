@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3228</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Group Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-group-treasury-services/) |
 | Senior Software Engineer, Backend - Platform (Core AI Automation) | Remote | [View →](https://www.remotejobscan.com/job/17544/senior-software-engineer-backend-platform-core-ai-automation/) |
 | Binance Accelerator Program - Backend Engineer, Pay & Card | Remote | [View →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
 | Technical Program Manager, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
@@ -42,7 +43,6 @@
 | Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | Pricing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
-| US Congressional Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
