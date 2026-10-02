@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3224</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
+| Solutions Architect, Defence, DACH | Remote | [View →](https://www.remotejobscan.com/job/17556/solutions-architect-defence-dach/) |
+| Solutions Architect - DACH | Remote | [View →](https://www.remotejobscan.com/job/17555/solutions-architect-dach/) |
+| Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17554/partner-development-manager/) |
+| Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
+| Senior Account Executive | Remote | [View →](https://www.remotejobscan.com/job/17552/senior-account-executive/) |
 | B2B Marketing - Southern Cone | On-site | [View →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
@@ -37,12 +43,6 @@
 | Technical Program Manager, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
 | Senior Marketing Manager, Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
 | AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
-| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
-| Software Engineer, Sales Platform | On-site | [View →](https://www.remotejobscan.com/job/17539/software-engineer-sales-platform/) |
-| Channel Partner Manager, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17537/channel-partner-manager-public-sector/) |
-| Forward Deployed Engineer - Singapore (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
-| Head of Compliance, LATAM | Remote | [View →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
-| Strategic Account Executive, Banking | On-site | [View →](https://www.remotejobscan.com/job/15140/strategic-account-executive-banking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

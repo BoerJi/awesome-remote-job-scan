@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3224</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 保障团队 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
+| 解决方案架构师，国防，DACH | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17556/solutions-architect-defence-dach/) |
+| DACH地区解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17555/solutions-architect-dach/) |
+| 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17554/partner-development-manager/) |
+| Staff+ 软件工程师，安全防护数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
+| 高级客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17552/senior-account-executive/) |
 | B2B营销 - 南美地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17550/b2b-marketing-southern-cone/) |
 | AI高级工程师（LLM与智能体） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
@@ -37,12 +43,6 @@
 | 生命科学技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
 | 高级营销经理，品牌战略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
 | AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
-| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
-| 销售平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17539/software-engineer-sales-platform/) |
-| 公共部门渠道合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17537/channel-partner-manager-public-sector/) |
-| 前向部署工程师 - 新加坡（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17538/forward-deployed-engineer-singapore-korean-speaking/) |
-| 拉丁美洲合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17536/head-of-compliance-latam/) |
-| 银行战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15140/strategic-account-executive-banking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
