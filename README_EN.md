@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3225</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Audit & Controls, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
+| Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
+| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
+| Senior Software Engineer (Institutional, Settlements & Transfers) | Remote | [View →](https://www.remotejobscan.com/job/17581/senior-software-engineer-institutional-settlements-transfers/) |
+| Sales Lead, Canada Public Sector | On-site | [View →](https://www.remotejobscan.com/job/14467/sales-lead-canada-public-sector/) |
+| ITAV Event Technical Producer | On-site | [View →](https://www.remotejobscan.com/job/17578/itav-event-technical-producer/) |
+| Vendor Security Technical Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17577/vendor-security-technical-program-manager/) |
+| Head of RWA | On-site | [View →](https://www.remotejobscan.com/job/17580/head-of-rwa/) |
+| Technical Program Manager, Robotics | On-site | [View →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics/) |
+| Broker Dealer Operations, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17576/broker-dealer-operations-senior-associate/) |
+| Broker Dealer Operations, Associate | Remote | [View →](https://www.remotejobscan.com/job/17575/broker-dealer-operations-associate/) |
+| Staff Research Engineer, Multi-Agent Scaling | On-site | [View →](https://www.remotejobscan.com/job/17574/staff-research-engineer-multi-agent-scaling/) |
 | Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
 | Staff Platform Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
 | Strategic Sourcing Leader, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/17573/strategic-sourcing-leader-professional-services/) |
@@ -31,18 +43,6 @@
 | Senior Principal, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
 | Product Manager, Invest / Trade | On-site | [View →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
 | Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
-| Product Management Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
-| People Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/16590/people-operations-associate/) |
-| Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
-| Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
-| Senior Associate, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
-| Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| Senior Associate, Risk Analytics | Remote | [View →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| Senior Software Engineer, Invest / Trade (Full Stack, React) | On-site | [View →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
-| Staff Security Engineer, Threat Detection & Response | Remote | [View →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
-| Senior Software Engineer, Money | Remote | [View →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
-| Senior Associate, Financial Planning & Analysis | Remote | [View →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
-| Predictions Partnerships Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

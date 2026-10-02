@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全审计与控制、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
+| 高级软件工程师（机构，融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
+| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
+| 高级软件工程师（机构、结算与转账） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17581/senior-software-engineer-institutional-settlements-transfers/) |
+| 加拿大公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14467/sales-lead-canada-public-sector/) |
+| ITAV活动技术制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17578/itav-event-technical-producer/) |
+| 供应商安全技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17577/vendor-security-technical-program-manager/) |
+| RWA负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17580/head-of-rwa/) |
+| 机器人技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics/) |
+| 经纪商运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17576/broker-dealer-operations-senior-associate/) |
+| 经纪商运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17575/broker-dealer-operations-associate/) |
+| 多智能体扩展研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17574/staff-research-engineer-multi-agent-scaling/) |
 | Staff+ 软件工程师，数据安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
 | 高级平台基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
 | 战略采购主管，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17573/strategic-sourcing-leader-professional-services/) |
@@ -30,18 +42,6 @@
 | 高级主任，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
 | 投资/交易产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
 | 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
-| 产品管理实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16601/product-management-intern-winter-2027/) |
-| 人事运营助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16590/people-operations-associate/) |
-| 办公室助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/office-assistant/) |
-| 消费者与借贷合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16333/head-of-consumer-and-lending-compliance/) |
-| 高级协会，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15263/senior-associate-institutional-sales/) |
-| 技术合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| 高级风险分析助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15018/senior-associate-risk-analytics/) |
-| 高级软件工程师，投资/交易（全栈，React） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14973/senior-software-engineer-invest-trade-full-stack-react/) |
-| 威胁检测与响应团队安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14004/staff-security-engineer-threat-detection-response/) |
-| 高级软件工程师，Money | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13557/senior-software-engineer-money/) |
-| 高级分析师，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11799/senior-associate-financial-planning-analysis/) |
-| 预测合作营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11766/predictions-partnerships-marketing-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
