@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
+| 专属支持工程师 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
+| 品牌项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
 | 安全审计与控制、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
 | 高级软件工程师（机构，融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
 | 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
@@ -39,9 +42,6 @@
 | 高级平台基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
 | 战略采购主管，专业服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17573/strategic-sourcing-leader-professional-services/) |
 | 高级平台工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
-| 高级主任，机构销售 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
-| 投资/交易产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
-| 软件工程实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

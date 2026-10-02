@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy Analyst | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
+| Dedicated Support Engineer - London | Hybrid | [View →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
+| Program Manager, Brand | On-site | [View →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
 | Security Audit & Controls, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
 | Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
 | Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
@@ -40,9 +43,6 @@
 | Strategic Sourcing Leader, Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/17573/strategic-sourcing-leader-professional-services/) |
 | Senior Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16739/senior-platform-engineer/) |
 | Staff Platform Engineer | Remote | [View →](https://www.remotejobscan.com/job/16706/staff-platform-engineer/) |
-| Senior Principal, Institutional Sales | Remote | [View →](https://www.remotejobscan.com/job/16704/senior-principal-institutional-sales/) |
-| Product Manager, Invest / Trade | On-site | [View →](https://www.remotejobscan.com/job/16703/product-manager-invest-trade/) |
-| Software Engineering Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16602/software-engineering-intern-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
