@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 币安加速器计划 - 后端工程师，支付与卡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
 | 生命科学技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
 | 高级营销经理，品牌战略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
 | AWS全球系统集成商GTM合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
@@ -42,7 +43,6 @@
 | 定价运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
 | 美国国会联络负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 | 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
-| 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

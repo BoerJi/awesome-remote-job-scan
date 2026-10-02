@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Binance Accelerator Program - Backend Engineer, Pay & Card | Remote | [View →](https://www.remotejobscan.com/job/17543/binance-accelerator-program-backend-engineer-pay-card/) |
 | Technical Program Manager, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17542/technical-program-manager-life-sciences/) |
 | Senior Marketing Manager, Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/17541/senior-marketing-manager-brand-strategy/) |
 | AWS GTM Partnership Lead, Global System Integrators | On-site | [View →](https://www.remotejobscan.com/job/14633/aws-gtm-partnership-lead-global-system-integrators/) |
@@ -42,7 +43,6 @@
 | Pricing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17529/pricing-operations-lead/) |
 | US Congressional Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17528/us-congressional-lead/) |
 | Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17527/child-safety-enforcement-specialist/) |
-| Senior Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
