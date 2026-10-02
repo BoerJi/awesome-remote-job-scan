@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM战略与运营，FDE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17454/gtm-strategy-operations-fde/) |
+| 美国商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17565/commercial-counsel-us/) |
 | 增长负责人，保证金交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17563/head-of-growth-margin-trading/) |
 | 亚太区主要安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
 | 战略采购主管，专业服务——人类数据 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services-human-data/) |
-| 薪酬与股权负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17557/head-of-payroll-equity/) |
 | DACH合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17558/partner-account-manager-dach/) |
 | 保障团队 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
 | 解决方案架构师，国防，DACH | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17556/solutions-architect-defence-dach/) |
@@ -41,7 +42,6 @@
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
 | P2P增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
-| VIP业务策略与中台运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16203/vip/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

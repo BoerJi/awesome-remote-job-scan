@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Strategy & Operations, FDE | On-site | [View →](https://www.remotejobscan.com/job/17454/gtm-strategy-operations-fde/) |
+| Commercial Counsel - US | Remote | [View →](https://www.remotejobscan.com/job/17565/commercial-counsel-us/) |
 | Head of Growth, Margin Trading | Remote | [View →](https://www.remotejobscan.com/job/17563/head-of-growth-margin-trading/) |
 | Account Executive, Majors- Install Base (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
 | Strategic Sourcing Lead, Professional Services – Human Data | Hybrid | [View →](https://www.remotejobscan.com/job/17367/strategic-sourcing-lead-professional-services-human-data/) |
-| Head of Payroll & Equity | On-site | [View →](https://www.remotejobscan.com/job/17557/head-of-payroll-equity/) |
 | Partner Account Manager - DACH | On-site | [View →](https://www.remotejobscan.com/job/17558/partner-account-manager-dach/) |
 | Staff+ Software Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9692/staff-software-engineer-safeguards/) |
 | Solutions Architect, Defence, DACH | Remote | [View →](https://www.remotejobscan.com/job/17556/solutions-architect-defence-dach/) |
@@ -41,7 +42,6 @@
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
 | P2P Growth Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
 | Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
-| VIP业务策略与中台运营专家 | On-site | [View →](https://www.remotejobscan.com/job/16203/vip/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
