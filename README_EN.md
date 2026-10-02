@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Payroll & Equity | On-site | [View →](https://www.remotejobscan.com/job/17567/head-of-payroll-equity/) |
+| Strategic Business Development Lead | On-site | [View →](https://www.remotejobscan.com/job/17568/strategic-business-development-lead/) |
+| Staff Machine Learning Engineer (Platform - Identity) | Remote | [View →](https://www.remotejobscan.com/job/9312/staff-machine-learning-engineer-platform-identity/) |
 | GTM Strategy & Operations, FDE | On-site | [View →](https://www.remotejobscan.com/job/17454/gtm-strategy-operations-fde/) |
 | Commercial Counsel - US | Remote | [View →](https://www.remotejobscan.com/job/17565/commercial-counsel-us/) |
 | Head of Growth, Margin Trading | Remote | [View →](https://www.remotejobscan.com/job/17563/head-of-growth-margin-trading/) |
@@ -39,9 +42,6 @@
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Senior Product Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17559/senior-product-manager/) |
 | Deputy Money Laundering Reporting Officer, Eurasia | Remote | [View →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
-| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
-| P2P Growth Director | On-site | [View →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
-| Senior AI Creative Innovator (Paid Ads) | Remote | [View →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-02 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

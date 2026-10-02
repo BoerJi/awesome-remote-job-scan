@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 薪酬与股权主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17567/head-of-payroll-equity/) |
+| 战略业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17568/strategic-business-development-lead/) |
+| 平台-身份方向高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9312/staff-machine-learning-engineer-platform-identity/) |
 | GTM战略与运营，FDE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17454/gtm-strategy-operations-fde/) |
 | 美国商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17565/commercial-counsel-us/) |
 | 增长负责人，保证金交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17563/head-of-growth-margin-trading/) |
@@ -39,9 +42,6 @@
 | AI高级工程师（LLM与智能体） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 高级产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17559/senior-product-manager/) |
 | 欧洲地区反洗钱报告官副职 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17121/deputy-money-laundering-reporting-officer-eurasia/) |
-| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17546/senior-accountant/) |
-| P2P增长总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15728/p2p-growth-director/) |
-| 高级AI创意创新师（付费广告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8643/senior-ai-creative-innovator-paid-ads/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-02 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
