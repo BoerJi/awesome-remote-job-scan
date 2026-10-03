@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3239</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 活动与体验总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
+| 衍生品交易监控助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
+| 亚太区广告供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17595/apac-vendor-lead-ads/) |
+| 北美广告供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17594/north-america-vendor-lead-ads/) |
+| 全球工作场所业务运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17596/global-workplace-business-operations-lead/) |
+| 安全审计与控制，安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17593/security-audit-controls-security-grc/) |
 | 分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
 | 高级礼宾专员IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
 | 预测市场运营实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
@@ -37,12 +43,6 @@
 | 品牌项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
 | 安全审计与控制、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
 | 高级软件工程师（机构，融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
-| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
-| 高级软件工程师（机构、结算与转账） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17581/senior-software-engineer-institutional-settlements-transfers/) |
-| 加拿大公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14467/sales-lead-canada-public-sector/) |
-| ITAV活动技术制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17578/itav-event-technical-producer/) |
-| 供应商安全技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17577/vendor-security-technical-program-manager/) |
-| RWA负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17580/head-of-rwa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

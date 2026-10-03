@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Events and Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
+| Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
+| APAC Vendor Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17595/apac-vendor-lead-ads/) |
+| North America Vendor Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17594/north-america-vendor-lead-ads/) |
+| Global Workplace Business Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17596/global-workplace-business-operations-lead/) |
+| Security Audit & Controls, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17593/security-audit-controls-security-grc/) |
 | Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
 | Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
 | Prediction Markets Operations Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
@@ -35,14 +41,7 @@
 | Finance & Strategy Analyst | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 | Dedicated Support Engineer - London | Hybrid | [View →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
 | Program Manager, Brand | On-site | [View →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
-| Security Audit & Controls, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
 | Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
-| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
-| Senior Software Engineer (Institutional, Settlements & Transfers) | Remote | [View →](https://www.remotejobscan.com/job/17581/senior-software-engineer-institutional-settlements-transfers/) |
-| Sales Lead, Canada Public Sector | On-site | [View →](https://www.remotejobscan.com/job/14467/sales-lead-canada-public-sector/) |
-| ITAV Event Technical Producer | On-site | [View →](https://www.remotejobscan.com/job/17578/itav-event-technical-producer/) |
-| Vendor Security Technical Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17577/vendor-security-technical-program-manager/) |
-| Head of RWA | On-site | [View →](https://www.remotejobscan.com/job/17580/head-of-rwa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
