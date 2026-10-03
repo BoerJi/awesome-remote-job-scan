@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3244</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
+| Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
+| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Software Engineer, Enterprise Controls | On-site | [View →](https://www.remotejobscan.com/job/17603/software-engineer-enterprise-controls/) |
 | Software Engineer, OpenAI Presence | On-site | [View →](https://www.remotejobscan.com/job/17602/software-engineer-openai-presence/) |
 | Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence | On-site | [View →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
@@ -40,9 +43,6 @@
 | Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
 | Prediction Markets Operations Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
 | Brand Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17587/brand-design-intern-winter-2027/) |
-| Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
-| Product Manager, Platform | On-site | [View →](https://www.remotejobscan.com/job/17591/product-manager-platform/) |
-| Staff Software Engineer (Institutional, FCM) | Remote | [View →](https://www.remotejobscan.com/job/17589/staff-software-engineer-institutional-fcm/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

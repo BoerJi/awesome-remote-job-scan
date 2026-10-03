@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3244</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
+| Web3交易增长高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
+| AI工程师（大语言模型与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 企业控制软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17603/software-engineer-enterprise-controls/) |
 | 软件工程师，OpenAI Presence | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17602/software-engineer-openai-presence/) |
 | 安全防护政策、执行与威胁情报项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
@@ -40,9 +43,6 @@
 | 高级礼宾专员IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
 | 预测市场运营实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
 | 品牌设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17587/brand-design-intern-winter-2027/) |
-| 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
-| 平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17591/product-manager-platform/) |
-| 高级软件工程师（机构，CFM） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17589/staff-software-engineer-institutional-fcm/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
