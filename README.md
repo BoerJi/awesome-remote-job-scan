@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3242</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
+| 硬件整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | 亚太区总薪酬业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
 | 活动与体验总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
@@ -41,8 +43,6 @@
 | 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 | 招聘、沟通、品牌与市场负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17590/head-of-recruiting-communications-brand-marketing/) |
 | 财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
-| 专属支持工程师 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
-| 品牌项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

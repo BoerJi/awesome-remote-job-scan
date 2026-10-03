@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3242</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
+| Integrated Marketing Manager, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | Total Rewards Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
 | Director of Events and Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
@@ -41,8 +43,6 @@
 | Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 | Head of Recruiting, Communications, Brand, & Marketing | On-site | [View →](https://www.remotejobscan.com/job/17590/head-of-recruiting-communications-brand-marketing/) |
 | Finance & Strategy Analyst | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
-| Dedicated Support Engineer - London | Hybrid | [View →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
-| Program Manager, Brand | On-site | [View →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
