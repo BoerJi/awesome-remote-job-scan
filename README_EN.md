@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Technical Program Manager, Machine Learning | Remote | [View →](https://www.remotejobscan.com/job/17604/staff-technical-program-manager-machine-learning/) |
 | Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
@@ -42,7 +43,6 @@
 | Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
 | Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
 | Prediction Markets Operations Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
-| Brand Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17587/brand-design-intern-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

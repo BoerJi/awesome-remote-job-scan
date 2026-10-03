@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机器学习高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17604/staff-technical-program-manager-machine-learning/) |
 | 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Web3交易增长高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
 | AI工程师（大语言模型与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
@@ -42,7 +43,6 @@
 | 分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
 | 高级礼宾专员IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
 | 预测市场运营实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
-| 品牌设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17587/brand-design-intern-winter-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
