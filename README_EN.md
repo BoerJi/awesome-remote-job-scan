@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3242</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence | On-site | [View →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
 | Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | Integrated Marketing Manager, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
@@ -42,7 +43,6 @@
 | Staff Software Engineer (Institutional, FCM) | Remote | [View →](https://www.remotejobscan.com/job/17589/staff-software-engineer-institutional-fcm/) |
 | Program Specialist, M&A | On-site | [View →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 | Head of Recruiting, Communications, Brand, & Marketing | On-site | [View →](https://www.remotejobscan.com/job/17590/head-of-recruiting-communications-brand-marketing/) |
-| Finance & Strategy Analyst | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

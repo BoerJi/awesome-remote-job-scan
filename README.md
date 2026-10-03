@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3242</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全防护政策、执行与威胁情报项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
 | 企业风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | 硬件整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
@@ -42,7 +43,6 @@
 | 高级软件工程师（机构，CFM） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17589/staff-software-engineer-institutional-fcm/) |
 | 并购项目专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15941/program-specialist-ma/) |
 | 招聘、沟通、品牌与市场负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17590/head-of-recruiting-communications-brand-marketing/) |
-| 财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
