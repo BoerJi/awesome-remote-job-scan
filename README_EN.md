@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,8 +41,6 @@
 | Global Workplace Business Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17596/global-workplace-business-operations-lead/) |
 | Security Audit & Controls, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17593/security-audit-controls-security-grc/) |
 | Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
-| Concierge Specialist IV | Hybrid | [View →](https://www.remotejobscan.com/job/9200/concierge-specialist-iv/) |
-| Prediction Markets Operations Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17588/prediction-markets-operations-intern-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
