@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -38,8 +38,6 @@
 | 衍生品交易监控助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
 | 亚太区广告供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17595/apac-vendor-lead-ads/) |
 | 北美广告供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17594/north-america-vendor-lead-ads/) |
-| 全球工作场所业务运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17596/global-workplace-business-operations-lead/) |
-| 安全审计与控制，安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17593/security-audit-controls-security-grc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
