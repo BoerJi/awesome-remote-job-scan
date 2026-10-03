@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -40,7 +40,6 @@
 | North America Vendor Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17594/north-america-vendor-lead-ads/) |
 | Global Workplace Business Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17596/global-workplace-business-operations-lead/) |
 | Security Audit & Controls, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17593/security-audit-controls-security-grc/) |
-| Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17592/analytics-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
