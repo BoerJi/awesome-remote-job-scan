@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3239</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
+| 亚太区总薪酬业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
 | 活动与体验总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
 | 衍生品交易监控助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
 | 亚太区广告供应商负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17595/apac-vendor-lead-ads/) |
@@ -41,8 +43,6 @@
 | 财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 | 专属支持工程师 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
 | 品牌项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
-| 安全审计与控制、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/security-audit-controls-security-grc/) |
-| 高级软件工程师（机构，融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-03 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

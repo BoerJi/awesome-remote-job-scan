@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
+| Total Rewards Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
 | Director of Events and Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
 | Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
 | APAC Vendor Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17595/apac-vendor-lead-ads/) |
@@ -41,7 +43,6 @@
 | Finance & Strategy Analyst | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst/) |
 | Dedicated Support Engineer - London | Hybrid | [View →](https://www.remotejobscan.com/job/17586/dedicated-support-engineer-london/) |
 | Program Manager, Brand | On-site | [View →](https://www.remotejobscan.com/job/17584/program-manager-brand/) |
-| Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
