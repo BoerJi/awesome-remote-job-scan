@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,7 +33,6 @@
 | 企业风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | 硬件整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
-| 亚太区总薪酬业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

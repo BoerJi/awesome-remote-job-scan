@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | Integrated Marketing Manager, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
-| Total Rewards Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
