@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3246</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer - Software Engineer - Argentina | On-site | [View →](https://www.remotejobscan.com/job/17610/forward-deployed-engineer-software-engineer-argentina/) |
+| Forward Deployed Engineer - Software Engineer - United Kingdom | Remote | [View →](https://www.remotejobscan.com/job/17609/forward-deployed-engineer-software-engineer-united-kingdom/) |
 | Deployment Strategist - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
-| Forward Deployed Engineer - Software Engineer - Italy | Remote | [View →](https://www.remotejobscan.com/job/17607/forward-deployed-engineer-software-engineer-italy/) |
-| Enterprise Solutions Engineer - Italy | On-site | [View →](https://www.remotejobscan.com/job/17605/enterprise-solutions-engineer-italy/) |
 | Deployment Strategist - Italy | Remote | [View →](https://www.remotejobscan.com/job/17606/deployment-strategist-italy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -89,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3246</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前瞻部署工程师 - 软件工程师 - 阿根廷 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17610/forward-deployed-engineer-software-engineer-argentina/) |
+| 前沿部署工程师 - 软件工程师 - 英国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17609/forward-deployed-engineer-software-engineer-united-kingdom/) |
 | 瑞典部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
-| 意大利-前沿部署工程师-软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17607/forward-deployed-engineer-software-engineer-italy/) |
-| 意大利企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17605/enterprise-solutions-engineer-italy/) |
 | 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17606/deployment-strategist-italy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
@@ -89,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
