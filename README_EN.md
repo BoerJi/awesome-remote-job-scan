@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,10 +34,6 @@
 | Integrated Marketing Manager, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 | Total Rewards Business Partner, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17598/total-rewards-business-partner-apac/) |
-| Director of Events and Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/17597/director-of-events-and-experiences/) |
-| Trade Surveillance Associate, Derivatives | Remote | [View →](https://www.remotejobscan.com/job/14661/trade-surveillance-associate-derivatives/) |
-| APAC Vendor Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17595/apac-vendor-lead-ads/) |
-| North America Vendor Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17594/north-america-vendor-lead-ads/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-03 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
