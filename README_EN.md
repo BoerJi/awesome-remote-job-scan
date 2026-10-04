@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,8 +30,6 @@
 | Software Engineer, Enterprise Controls | On-site | [View →](https://www.remotejobscan.com/job/17603/software-engineer-enterprise-controls/) |
 | Software Engineer, OpenAI Presence | On-site | [View →](https://www.remotejobscan.com/job/17602/software-engineer-openai-presence/) |
 | Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence | On-site | [View →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
-| Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
-| Integrated Marketing Manager, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
