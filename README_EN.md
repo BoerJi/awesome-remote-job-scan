@@ -14,15 +14,23 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer - Software Engineer - Turkey | On-site | [View →](https://www.remotejobscan.com/job/17612/forward-deployed-engineer-software-engineer-turkey/) |
+| Enterprise Solutions Engineer - Greece | Remote | [View →](https://www.remotejobscan.com/job/17611/enterprise-solutions-engineer-greece/) |
+| Forward Deployed Engineer - Software Engineer - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17618/forward-deployed-engineer-software-engineer-mexico/) |
+| Deployment Strategist - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17617/deployment-strategist-mexico/) |
+| Deployment Strategist - Argentina | On-site | [View →](https://www.remotejobscan.com/job/17613/deployment-strategist-argentina/) |
+| Enterprise Solutions Engineer - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17616/enterprise-solutions-engineer-mexico/) |
+| Enterprise Solutions Engineer - Colombia | Remote | [View →](https://www.remotejobscan.com/job/17615/enterprise-solutions-engineer-colombia/) |
+| Deployment Strategist - Colombia | Remote | [View →](https://www.remotejobscan.com/job/17614/deployment-strategist-colombia/) |
 | Forward Deployed Engineer - Software Engineer - Argentina | On-site | [View →](https://www.remotejobscan.com/job/17610/forward-deployed-engineer-software-engineer-argentina/) |
 | Forward Deployed Engineer - Software Engineer - United Kingdom | Remote | [View →](https://www.remotejobscan.com/job/17609/forward-deployed-engineer-software-engineer-united-kingdom/) |
 | Deployment Strategist - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
@@ -89,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
