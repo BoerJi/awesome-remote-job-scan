@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -29,7 +29,6 @@
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Software Engineer, Enterprise Controls | On-site | [View →](https://www.remotejobscan.com/job/17603/software-engineer-enterprise-controls/) |
 | Software Engineer, OpenAI Presence | On-site | [View →](https://www.remotejobscan.com/job/17602/software-engineer-openai-presence/) |
-| Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence | On-site | [View →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

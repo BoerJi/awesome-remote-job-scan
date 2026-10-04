@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（7 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -29,7 +29,6 @@
 | AI工程师（大语言模型与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 企业控制软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17603/software-engineer-enterprise-controls/) |
 | 软件工程师，OpenAI Presence | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17602/software-engineer-openai-presence/) |
-| 安全防护政策、执行与威胁情报项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +91,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
