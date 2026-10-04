@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3241</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3245</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 瑞典部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
+| 意大利-前沿部署工程师-软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17607/forward-deployed-engineer-software-engineer-italy/) |
+| 意大利企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17605/enterprise-solutions-engineer-italy/) |
+| 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17606/deployment-strategist-italy/) |
 | 机器学习高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17604/staff-technical-program-manager-machine-learning/) |
 | 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Web3交易增长高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
@@ -89,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
