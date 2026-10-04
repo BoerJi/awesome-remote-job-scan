@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（4 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,7 +27,6 @@
 | 意大利-前沿部署工程师-软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17607/forward-deployed-engineer-software-engineer-italy/) |
 | 意大利企业解决方案工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17605/enterprise-solutions-engineer-italy/) |
 | 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17606/deployment-strategist-italy/) |
-| 机器学习高级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17604/staff-technical-program-manager-machine-learning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

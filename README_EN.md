@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Forward Deployed Engineer - Software Engineer - Italy | Remote | [View →](https://www.remotejobscan.com/job/17607/forward-deployed-engineer-software-engineer-italy/) |
 | Enterprise Solutions Engineer - Italy | On-site | [View →](https://www.remotejobscan.com/job/17605/enterprise-solutions-engineer-italy/) |
 | Deployment Strategist - Italy | Remote | [View →](https://www.remotejobscan.com/job/17606/deployment-strategist-italy/) |
-| Staff Technical Program Manager, Machine Learning | Remote | [View →](https://www.remotejobscan.com/job/17604/staff-technical-program-manager-machine-learning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
