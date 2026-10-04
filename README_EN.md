@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,8 +27,6 @@
 | Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
-| Software Engineer, Enterprise Controls | On-site | [View →](https://www.remotejobscan.com/job/17603/software-engineer-enterprise-controls/) |
-| Software Engineer, OpenAI Presence | On-site | [View →](https://www.remotejobscan.com/job/17602/software-engineer-openai-presence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -91,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
