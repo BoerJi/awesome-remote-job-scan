@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,7 +32,6 @@
 | 安全防护政策、执行与威胁情报项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
 | 企业风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | 硬件整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17600/integrated-marketing-manager-hardware/) |
-| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 00:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-04 01:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
