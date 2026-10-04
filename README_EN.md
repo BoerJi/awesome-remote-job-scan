@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3248</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17619/applied-ai-engineer-dnb/) |
 | Forward Deployed Engineer - Software Engineer - Turkey | On-site | [View →](https://www.remotejobscan.com/job/17612/forward-deployed-engineer-software-engineer-turkey/) |
 | Enterprise Solutions Engineer - Greece | Remote | [View →](https://www.remotejobscan.com/job/17611/enterprise-solutions-engineer-greece/) |
 | Forward Deployed Engineer - Software Engineer - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17618/forward-deployed-engineer-software-engineer-mexico/) |
@@ -97,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-04 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
