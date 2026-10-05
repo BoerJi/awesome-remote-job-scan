@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
+| Senior Partner Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
+| Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
+| Software Security Engineer, Secure Frameworks | On-site | [View →](https://www.remotejobscan.com/job/17690/software-security-engineer-secure-frameworks/) |
+| Finance Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
+| Senior Account Executive, Germany PUBSEC (Berlin, Germany) | Remote | [View →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
+| Marketing Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
 | Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
 | US Public Sector Compliance, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17684/us-public-sector-compliance-security-grc/) |
 | Security Risk & Compliance, Agent Security | On-site | [View →](https://www.remotejobscan.com/job/17683/security-risk-compliance-agent-security/) |
@@ -35,14 +43,6 @@
 | Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 | Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17681/child-safety-enforcement-specialist/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
-| Manager, Applied AI Engineering (Megas) | On-site | [View →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
-| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
-| Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
-| Deal Operations, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17675/deal-operations-emea/) |
-| Forward Deployed Engineer - Paris | Hybrid | [View →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
-| Forward Deployed Engineer - Zurich | Hybrid | [View →](https://www.remotejobscan.com/job/17674/forward-deployed-engineer-zurich/) |
-| Forward Deployed Engineer - Munich | Hybrid | [View →](https://www.remotejobscan.com/job/17673/forward-deployed-engineer-munich/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

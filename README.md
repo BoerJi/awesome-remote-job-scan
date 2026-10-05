@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3251</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
+| 高级合作伙伴营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
+| 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
+| 软件安全工程师，安全框架 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17690/software-security-engineer-secure-frameworks/) |
+| 财务数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
+| 德国PUBSEC高级客户经理（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
+| 市场营销数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
 | 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
 | 美国公共部门合规、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17684/us-public-sector-compliance-security-grc/) |
 | 安全风险与合规、代理安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17683/security-risk-compliance-agent-security/) |
@@ -35,14 +43,6 @@
 | 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 | 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17681/child-safety-enforcement-specialist/) |
 | 客户支持（运营中心）助理总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
-| 办公室助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16336/office-assistant/) |
-| Megas应用AI工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
-| 招聘协调员（合同工） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
-| 财务报告总监 - 特别项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
-| EMEA交易运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17675/deal-operations-emea/) |
-| 巴黎前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
-| 苏黎世前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17674/forward-deployed-engineer-zurich/) |
-| 慕尼黑前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17673/forward-deployed-engineer-munich/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
