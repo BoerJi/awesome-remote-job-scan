@@ -23,11 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Android Engineer, Plugin Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
+| Staff + Software Security Engineer, Secure Frameworks | On-site | [View →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
+| Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
 | Senior Partner Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
 | Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
-| Software Security Engineer, Secure Frameworks | On-site | [View →](https://www.remotejobscan.com/job/17690/software-security-engineer-secure-frameworks/) |
 | Finance Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
 | Senior Account Executive, Germany PUBSEC (Berlin, Germany) | Remote | [View →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
 | Marketing Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
@@ -41,8 +43,6 @@
 | Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | Finance & Strategy Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
 | Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
-| Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17681/child-safety-enforcement-specialist/) |
-| Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

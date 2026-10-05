@@ -23,11 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Android工程师，插件开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
+| 高级软件安全工程师，安全框架 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
+| 实验室高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
 | 高级合作伙伴营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
 | 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
-| 软件安全工程师，安全框架 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17690/software-security-engineer-secure-frameworks/) |
 | 财务数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
 | 德国PUBSEC高级客户经理（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
 | 市场营销数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
@@ -41,8 +43,6 @@
 | 初创企业绿色田野客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | 产品财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
 | 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
-| 儿童安全执行专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17681/child-safety-enforcement-specialist/) |
-| 客户支持（运营中心）助理总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
