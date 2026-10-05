@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Solutions Engineer - LATAM | Remote | [View →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
+| Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Senior Manager /Director, P2P Growth | On-site | [View →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 | Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
@@ -37,8 +39,6 @@
 | Strategy & Operations Lead - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 | Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
 | VP, Product Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
-| Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
-| Enterprise Account Executive - Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 拉美企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
+| 拉美地区部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 高级经理/总监，P2P增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 | 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
@@ -37,8 +39,6 @@
 | 日本战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 | 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
 | 产品分析副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
-| 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
-| 制造业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
