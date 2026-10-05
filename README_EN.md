@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, M&A Finance Integration | On-site | [View →](https://www.remotejobscan.com/job/17663/senior-manager-ma-finance-integration/) |
+| Member of Data Staff (Analytics Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/17669/member-of-data-staff-analytics-engineer/) |
+| Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/17667/director-strategic-accounts/) |
+| Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17668/analytics-engineer/) |
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/17659/partner-success-lead/) |
+| Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
+| Engineering Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
+| APAC Vendor Lead, Ads - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/17662/apac-vendor-lead-ads-sydney/) |
+| Creative Strategist & Producer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17661/creative-strategist-producer-consumer/) |
 | Software Engineering Manager, Database (SmithDB) | On-site | [View →](https://www.remotejobscan.com/job/11111/software-engineering-manager-database-smithdb/) |
 | Infrastructure Engineer - Core Platform | On-site | [View →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
 | Data Center Engineer, Reliability & Infrastructure Management – Compute Supply | On-site | [View →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
@@ -30,18 +39,8 @@
 | Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
 | Deployment Strategist - Chile | On-site | [View →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
 | IT Systems Administrator | On-site | [View →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/17651/partner-success-lead/) |
 | Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/17652/commercial-counsel-india/) |
 | Legal Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
-| Senior Integrations Engineer, Supply Chain Technology | Hybrid | [View →](https://www.remotejobscan.com/job/17648/senior-integrations-engineer-supply-chain-technology/) |
-| Senior Counsel, France | Hybrid | [View →](https://www.remotejobscan.com/job/17649/senior-counsel-france/) |
-| Member of Technical Staff (Senior QA Web) | On-site | [View →](https://www.remotejobscan.com/job/17645/member-of-technical-staff-senior-qa-web/) |
-| EMEA Deal Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11110/emea-deal-strategy-operations-lead/) |
-| Assistant General Counsel | Remote | [View →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
-| Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
-| Senior Product Manager - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
-| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| Senior Manager /Director, P2P Growth | On-site | [View →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3275</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 并购财务整合高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17663/senior-manager-ma-finance-integration/) |
+| 数据团队成员（分析工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17669/member-of-data-staff-analytics-engineer/) |
+| 战略客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17667/director-strategic-accounts/) |
+| 分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17668/analytics-engineer/) |
+| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17659/partner-success-lead/) |
+| 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
+| 安全防护工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
+| 亚太区广告供应商负责人 - 悉尼 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17662/apac-vendor-lead-ads-sydney/) |
+| 创意策略师与制作人 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17661/creative-strategist-producer-consumer/) |
 | 数据库软件工程经理（SmithDB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11111/software-engineering-manager-database-smithdb/) |
 | 基础设施工程师 - 核心平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
 | 数据中心工程师，可靠性及基础设施管理——计算供应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
@@ -30,18 +39,8 @@
 | 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
 | 智利部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
 | IT系统管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
-| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17651/partner-success-lead/) |
 | 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17652/commercial-counsel-india/) |
 | 法律运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
-| 供应链技术高级集成工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17648/senior-integrations-engineer-supply-chain-technology/) |
-| 法国高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17649/senior-counsel-france/) |
-| 技术团队成员（高级Web测试工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17645/member-of-technical-staff-senior-qa-web/) |
-| EMEA交易策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11110/emea-deal-strategy-operations-lead/) |
-| 助理总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
-| 财务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
-| 高级产品经理 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
-| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| 高级经理/总监，P2P增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
