@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 高级经理/总监，P2P增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 | 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
 | 高级资产管理产品经理（资金流动、存款与提款） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17635/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
@@ -38,7 +39,6 @@
 | 产品分析副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 | 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
 | 制造业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
-| 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17619/applied-ai-engineer-dnb/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

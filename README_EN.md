@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Senior Manager /Director, P2P Growth | On-site | [View →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 | Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
 | Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/17635/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
@@ -38,7 +39,6 @@
 | VP, Product Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 | Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
 | Enterprise Account Executive - Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
-| Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17619/applied-ai-engineer-dnb/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
