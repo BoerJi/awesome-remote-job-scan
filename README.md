@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
 | 拉美企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
 | 拉美地区部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
@@ -32,7 +33,6 @@
 | 资产高级产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | 全球市场实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
 | 人才分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
-| 财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | 系统交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 | 交易支持分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
 | 合规分析师 / 高级合规分析师（特别调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
 | Enterprise Solutions Engineer - LATAM | Remote | [View →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
 | Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
@@ -32,7 +33,6 @@
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | Global Marketing Intern | Remote | [View →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
 | People Analytics Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
-| Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | Systematic Trader | Hybrid | [View →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 | Trading Support Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
 | Compliance Analyst / Senior Compliance Analyst (Special Investigations) | Remote | [View →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
