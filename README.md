@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | 系统交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 | 交易支持分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
 | 合规分析师 / 高级合规分析师（特别调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
@@ -39,7 +40,6 @@
 | 部署策略师 - 阿根廷 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17613/deployment-strategist-argentina/) |
 | 墨西哥企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17616/enterprise-solutions-engineer-mexico/) |
 | 哥伦比亚企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17615/enterprise-solutions-engineer-colombia/) |
-| 部署策略师 - 哥伦比亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17614/deployment-strategist-colombia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

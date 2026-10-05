@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | Systematic Trader | Hybrid | [View →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 | Trading Support Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
 | Compliance Analyst / Senior Compliance Analyst (Special Investigations) | Remote | [View →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
@@ -39,7 +40,6 @@
 | Deployment Strategist - Argentina | On-site | [View →](https://www.remotejobscan.com/job/17613/deployment-strategist-argentina/) |
 | Enterprise Solutions Engineer - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17616/enterprise-solutions-engineer-mexico/) |
 | Enterprise Solutions Engineer - Colombia | Remote | [View →](https://www.remotejobscan.com/job/17615/enterprise-solutions-engineer-colombia/) |
-| Deployment Strategist - Colombia | Remote | [View →](https://www.remotejobscan.com/job/17614/deployment-strategist-colombia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
