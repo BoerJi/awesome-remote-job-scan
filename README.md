@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3271</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
+| 智利部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
+| IT系统管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
+| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17651/partner-success-lead/) |
+| 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17652/commercial-counsel-india/) |
 | 法律运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
 | 供应链技术高级集成工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17648/senior-integrations-engineer-supply-chain-technology/) |
 | 法国高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17649/senior-counsel-france/) |
@@ -36,11 +41,6 @@
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 高级经理/总监，P2P增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 | 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
-| 高级资产管理产品经理（资金流动、存款与提款） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17635/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
-| 资产高级产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| 全球市场实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
-| 人才分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
-| 系统交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

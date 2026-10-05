@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3269</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
+| Deployment Strategist - Chile | On-site | [View →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
+| IT Systems Administrator | On-site | [View →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/17651/partner-success-lead/) |
+| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/17652/commercial-counsel-india/) |
 | Legal Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
 | Senior Integrations Engineer, Supply Chain Technology | Hybrid | [View →](https://www.remotejobscan.com/job/17648/senior-integrations-engineer-supply-chain-technology/) |
 | Senior Counsel, France | Hybrid | [View →](https://www.remotejobscan.com/job/17649/senior-counsel-france/) |
@@ -36,11 +41,6 @@
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Senior Manager /Director, P2P Growth | On-site | [View →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
 | Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
-| Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/17635/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
-| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| Global Marketing Intern | Remote | [View →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
-| People Analytics Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
-| Systematic Trader | Hybrid | [View →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
