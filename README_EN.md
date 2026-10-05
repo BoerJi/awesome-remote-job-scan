@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3279</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
+| Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
+| Manager, Applied AI Engineering (Megas) | On-site | [View →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
+| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | Deal Operations, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17675/deal-operations-emea/) |
 | Forward Deployed Engineer - Paris | Hybrid | [View →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
@@ -38,10 +42,6 @@
 | Engineering Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
 | APAC Vendor Lead, Ads - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/17662/apac-vendor-lead-ads-sydney/) |
 | Creative Strategist & Producer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17661/creative-strategist-producer-consumer/) |
-| Software Engineering Manager, Database (SmithDB) | On-site | [View →](https://www.remotejobscan.com/job/11111/software-engineering-manager-database-smithdb/) |
-| Infrastructure Engineer - Core Platform | On-site | [View →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
-| Data Center Engineer, Reliability & Infrastructure Management – Compute Supply | On-site | [View →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
-| Senior Support Specialist/Customer Success, Desktop Perplexity (London, Belgrade, Berlin) | Hybrid | [View →](https://www.remotejobscan.com/job/17656/senior-support-specialistcustomer-success-desktop-perplexity-london-belgrade-berlin/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
