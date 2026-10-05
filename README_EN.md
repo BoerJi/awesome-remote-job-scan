@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Systematic Trader | Hybrid | [View →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
+| Trading Support Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
 | Compliance Analyst / Senior Compliance Analyst (Special Investigations) | Remote | [View →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
 | Strategy & Operations Lead - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 | Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
@@ -38,10 +40,6 @@
 | Enterprise Solutions Engineer - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17616/enterprise-solutions-engineer-mexico/) |
 | Enterprise Solutions Engineer - Colombia | Remote | [View →](https://www.remotejobscan.com/job/17615/enterprise-solutions-engineer-colombia/) |
 | Deployment Strategist - Colombia | Remote | [View →](https://www.remotejobscan.com/job/17614/deployment-strategist-colombia/) |
-| Forward Deployed Engineer - Software Engineer - Argentina | On-site | [View →](https://www.remotejobscan.com/job/17610/forward-deployed-engineer-software-engineer-argentina/) |
-| Forward Deployed Engineer - Software Engineer - United Kingdom | Remote | [View →](https://www.remotejobscan.com/job/17609/forward-deployed-engineer-software-engineer-united-kingdom/) |
-| Deployment Strategist - Sweden | Remote | [View →](https://www.remotejobscan.com/job/12710/deployment-strategist-sweden/) |
-| Deployment Strategist - Italy | Remote | [View →](https://www.remotejobscan.com/job/17606/deployment-strategist-italy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
