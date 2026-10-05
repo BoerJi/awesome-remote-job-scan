@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
+| 美国公共部门合规、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17684/us-public-sector-compliance-security-grc/) |
+| 安全风险与合规、代理安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17683/security-risk-compliance-agent-security/) |
+| 音视频工程师，构建与设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer-builds-and-design/) |
+| AV工程师，平台与自动化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17682/av-engineer-platform-automation/) |
+| 安全工程师 - 事件响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17689/security-engineer-incident-response/) |
+| 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | 初创企业绿色田野客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | 产品财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
 | 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
@@ -36,13 +43,6 @@
 | 巴黎前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
 | 苏黎世前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17674/forward-deployed-engineer-zurich/) |
 | 慕尼黑前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17673/forward-deployed-engineer-munich/) |
-| 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17671/senior-manager-compute-accounting/) |
-| 并购财务整合高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17663/senior-manager-ma-finance-integration/) |
-| 数据团队成员（分析工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17669/member-of-data-staff-analytics-engineer/) |
-| 战略客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17667/director-strategic-accounts/) |
-| 分析工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17668/analytics-engineer/) |
-| 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17659/partner-success-lead/) |
-| 数据中心服务器生命周期高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

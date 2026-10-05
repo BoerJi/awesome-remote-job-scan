@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
+| US Public Sector Compliance, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17684/us-public-sector-compliance-security-grc/) |
+| Security Risk & Compliance, Agent Security | On-site | [View →](https://www.remotejobscan.com/job/17683/security-risk-compliance-agent-security/) |
+| AV Engineer, Builds and Design | On-site | [View →](https://www.remotejobscan.com/job/13069/av-engineer-builds-and-design/) |
+| AV Engineer, Platform & Automation | On-site | [View →](https://www.remotejobscan.com/job/17682/av-engineer-platform-automation/) |
+| Security Engineer - Incident Response | Hybrid | [View →](https://www.remotejobscan.com/job/17689/security-engineer-incident-response/) |
+| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | Finance & Strategy Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
 | Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
@@ -36,13 +43,6 @@
 | Forward Deployed Engineer - Paris | Hybrid | [View →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
 | Forward Deployed Engineer - Zurich | Hybrid | [View →](https://www.remotejobscan.com/job/17674/forward-deployed-engineer-zurich/) |
 | Forward Deployed Engineer - Munich | Hybrid | [View →](https://www.remotejobscan.com/job/17673/forward-deployed-engineer-munich/) |
-| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/17671/senior-manager-compute-accounting/) |
-| Senior Manager, M&A Finance Integration | On-site | [View →](https://www.remotejobscan.com/job/17663/senior-manager-ma-finance-integration/) |
-| Member of Data Staff (Analytics Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/17669/member-of-data-staff-analytics-engineer/) |
-| Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/17667/director-strategic-accounts/) |
-| Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17668/analytics-engineer/) |
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/17659/partner-success-lead/) |
-| Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
