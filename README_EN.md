@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager /Director, P2P Growth | On-site | [View →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
+| Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
 | Senior Product Manager, Asset (Fund Movement, Deposit & Withdrawal) | On-site | [View →](https://www.remotejobscan.com/job/17635/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | Global Marketing Intern | Remote | [View →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
@@ -37,9 +39,6 @@
 | Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
 | Enterprise Account Executive - Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
 | Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17619/applied-ai-engineer-dnb/) |
-| Forward Deployed Engineer - Software Engineer - Turkey | On-site | [View →](https://www.remotejobscan.com/job/17612/forward-deployed-engineer-software-engineer-turkey/) |
-| Enterprise Solutions Engineer - Greece | Remote | [View →](https://www.remotejobscan.com/job/17611/enterprise-solutions-engineer-greece/) |
-| Forward Deployed Engineer - Software Engineer - Mexico | Remote | [View →](https://www.remotejobscan.com/job/17618/forward-deployed-engineer-software-engineer-mexico/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
