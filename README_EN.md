@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| VP, Product Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 | Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
 | Enterprise Account Executive - Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
 | Applied AI Engineer, DNB | On-site | [View →](https://www.remotejobscan.com/job/17619/applied-ai-engineer-dnb/) |
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
