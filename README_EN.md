@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst / Senior Compliance Analyst (Special Investigations) | Remote | [View →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
+| Strategy & Operations Lead - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 | Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
 | VP, Product Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 | Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

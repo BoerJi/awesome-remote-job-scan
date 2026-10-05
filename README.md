@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3256</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规分析师 / 高级合规分析师（特别调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
+| 日本战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 | 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
 | 产品分析副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 | 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
