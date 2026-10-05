@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3247</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3249</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
+| 制造业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
 | 应用AI工程师，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17619/applied-ai-engineer-dnb/) |
 | 前场部署工程师 - 软件工程师 - 土耳其 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17612/forward-deployed-engineer-software-engineer-turkey/) |
 | 希腊企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17611/enterprise-solutions-engineer-greece/) |
@@ -98,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
