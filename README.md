@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级资产管理产品经理（资金流动、存款与提款） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17635/senior-product-manager-asset-fund-movement-deposit-withdrawal/) |
+| 资产高级产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| 全球市场实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
+| 人才分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
 | 财务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | 系统交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
 | 交易支持分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
@@ -36,10 +40,6 @@
 | 前场部署工程师 - 软件工程师 - 土耳其 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17612/forward-deployed-engineer-software-engineer-turkey/) |
 | 希腊企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17611/enterprise-solutions-engineer-greece/) |
 | 墨西哥-前哨工程师-软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17618/forward-deployed-engineer-software-engineer-mexico/) |
-| 墨西哥部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17617/deployment-strategist-mexico/) |
-| 部署策略师 - 阿根廷 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17613/deployment-strategist-argentina/) |
-| 墨西哥企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17616/enterprise-solutions-engineer-mexico/) |
-| 哥伦比亚企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17615/enterprise-solutions-engineer-colombia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
