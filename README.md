@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
+| 供应链技术高级集成工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17648/senior-integrations-engineer-supply-chain-technology/) |
+| 法国高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17649/senior-counsel-france/) |
+| 技术团队成员（高级Web测试工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17645/member-of-technical-staff-senior-qa-web/) |
+| EMEA交易策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11110/emea-deal-strategy-operations-lead/) |
 | 助理总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
 | 财务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | 高级产品经理 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
@@ -36,9 +41,6 @@
 | 全球市场实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
 | 人才分析实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
 | 系统交易员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
-| 交易支持分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
-| 合规分析师 / 高级合规分析师（特别调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
-| 日本战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

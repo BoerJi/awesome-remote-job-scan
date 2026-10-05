@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3269</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
+| Senior Integrations Engineer, Supply Chain Technology | Hybrid | [View →](https://www.remotejobscan.com/job/17648/senior-integrations-engineer-supply-chain-technology/) |
+| Senior Counsel, France | Hybrid | [View →](https://www.remotejobscan.com/job/17649/senior-counsel-france/) |
+| Member of Technical Staff (Senior QA Web) | On-site | [View →](https://www.remotejobscan.com/job/17645/member-of-technical-staff-senior-qa-web/) |
+| EMEA Deal Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11110/emea-deal-strategy-operations-lead/) |
 | Assistant General Counsel | Remote | [View →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
 | Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | Senior Product Manager - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
@@ -36,9 +41,6 @@
 | Global Marketing Intern | Remote | [View →](https://www.remotejobscan.com/job/17634/global-marketing-intern/) |
 | People Analytics Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15824/people-analytics-intern/) |
 | Systematic Trader | Hybrid | [View →](https://www.remotejobscan.com/job/17631/systematic-trader/) |
-| Trading Support Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
-| Compliance Analyst / Senior Compliance Analyst (Special Investigations) | Remote | [View →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
-| Strategy & Operations Lead - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
