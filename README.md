@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3274</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3281</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务报告总监 - 特别项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
+| EMEA交易运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17675/deal-operations-emea/) |
+| 巴黎前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
+| 苏黎世前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17674/forward-deployed-engineer-zurich/) |
+| 慕尼黑前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17673/forward-deployed-engineer-munich/) |
+| 计算会计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17671/senior-manager-compute-accounting/) |
 | 并购财务整合高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17663/senior-manager-ma-finance-integration/) |
 | 数据团队成员（分析工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17669/member-of-data-staff-analytics-engineer/) |
 | 战略客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17667/director-strategic-accounts/) |
@@ -36,11 +42,6 @@
 | 基础设施工程师 - 核心平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
 | 数据中心工程师，可靠性及基础设施管理——计算供应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
 | 高级支持专家/客户成功，桌面 Perplexity（伦敦，贝尔格莱德，柏林） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17656/senior-support-specialistcustomer-success-desktop-perplexity-london-belgrade-berlin/) |
-| 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
-| 智利部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
-| IT系统管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
-| 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17652/commercial-counsel-india/) |
-| 法律运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3281</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
+| Deal Operations, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17675/deal-operations-emea/) |
+| Forward Deployed Engineer - Paris | Hybrid | [View →](https://www.remotejobscan.com/job/17672/forward-deployed-engineer-paris/) |
+| Forward Deployed Engineer - Zurich | Hybrid | [View →](https://www.remotejobscan.com/job/17674/forward-deployed-engineer-zurich/) |
+| Forward Deployed Engineer - Munich | Hybrid | [View →](https://www.remotejobscan.com/job/17673/forward-deployed-engineer-munich/) |
+| Senior Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/17671/senior-manager-compute-accounting/) |
 | Senior Manager, M&A Finance Integration | On-site | [View →](https://www.remotejobscan.com/job/17663/senior-manager-ma-finance-integration/) |
 | Member of Data Staff (Analytics Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/17669/member-of-data-staff-analytics-engineer/) |
 | Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/17667/director-strategic-accounts/) |
@@ -36,11 +42,6 @@
 | Infrastructure Engineer - Core Platform | On-site | [View →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
 | Data Center Engineer, Reliability & Infrastructure Management – Compute Supply | On-site | [View →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
 | Senior Support Specialist/Customer Success, Desktop Perplexity (London, Belgrade, Berlin) | Hybrid | [View →](https://www.remotejobscan.com/job/17656/senior-support-specialistcustomer-success-desktop-perplexity-london-belgrade-berlin/) |
-| Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
-| Deployment Strategist - Chile | On-site | [View →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
-| IT Systems Administrator | On-site | [View →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
-| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/17652/commercial-counsel-india/) |
-| Legal Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/17650/legal-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
