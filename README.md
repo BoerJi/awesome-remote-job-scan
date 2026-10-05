@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 助理总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
+| 财务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | 高级产品经理 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
 | 拉美企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
 | 拉美地区部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
@@ -37,8 +39,6 @@
 | 交易支持分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17633/trading-support-analyst/) |
 | 合规分析师 / 高级合规分析师（特别调查） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17628/compliance-analyst-senior-compliance-analyst-special-investigations/) |
 | 日本战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17627/strategy-operations-lead-japan/) |
-| 政策倡导 - 政治研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
-| 产品分析副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
