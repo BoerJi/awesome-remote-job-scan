@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3269</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineering Manager, Database (SmithDB) | On-site | [View →](https://www.remotejobscan.com/job/11111/software-engineering-manager-database-smithdb/) |
+| Infrastructure Engineer - Core Platform | On-site | [View →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
+| Data Center Engineer, Reliability & Infrastructure Management – Compute Supply | On-site | [View →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
+| Senior Support Specialist/Customer Success, Desktop Perplexity (London, Belgrade, Berlin) | Hybrid | [View →](https://www.remotejobscan.com/job/17656/senior-support-specialistcustomer-success-desktop-perplexity-london-belgrade-berlin/) |
 | Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
 | Deployment Strategist - Chile | On-site | [View →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
 | IT Systems Administrator | On-site | [View →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
@@ -36,11 +40,8 @@
 | Assistant General Counsel | Remote | [View →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
 | Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | Senior Product Manager - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
-| Enterprise Solutions Engineer - LATAM | Remote | [View →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
-| Deployment Strategist - LATAM | Remote | [View →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Senior Manager /Director, P2P Growth | On-site | [View →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
-| Growth Product Manager, Listing Campaign | On-site | [View →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

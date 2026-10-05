@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据库软件工程经理（SmithDB） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11111/software-engineering-manager-database-smithdb/) |
+| 基础设施工程师 - 核心平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17658/infrastructure-engineer-core-platform/) |
+| 数据中心工程师，可靠性及基础设施管理——计算供应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17657/data-center-engineer-reliability-infrastructure-management-compute-supply/) |
+| 高级支持专家/客户成功，桌面 Perplexity（伦敦，贝尔格莱德，柏林） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17656/senior-support-specialistcustomer-success-desktop-perplexity-london-belgrade-berlin/) |
 | 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17654/data-scientist-product-analytics/) |
 | 智利部署策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17653/deployment-strategist-chile/) |
 | IT系统管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17655/it-systems-administrator/) |
@@ -36,11 +40,8 @@
 | 助理总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17644/assistant-general-counsel/) |
 | 财务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16753/head-of-finance/) |
 | 高级产品经理 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17641/senior-product-manager-payments-platform/) |
-| 拉美企业解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17639/enterprise-solutions-engineer-latam/) |
-| 拉美地区部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17640/deployment-strategist-latam/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 高级经理/总监，P2P增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11876/senior-manager-director-p2p-growth/) |
-| 增长产品经理，上市活动 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17636/growth-product-manager-listing-campaign/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-05 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
