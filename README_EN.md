@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3272</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| Finance & Strategy Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
+| Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
+| Child Safety Enforcement Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/17681/child-safety-enforcement-specialist/) |
 | Associate Director, Customer Support (Operations Center) | On-site | [View →](https://www.remotejobscan.com/job/11747/associate-director-customer-support-operations-center/) |
 | Office Assistant | On-site | [View →](https://www.remotejobscan.com/job/16336/office-assistant/) |
 | Manager, Applied AI Engineering (Megas) | On-site | [View →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
@@ -39,9 +43,6 @@
 | Analytics Engineer | On-site | [View →](https://www.remotejobscan.com/job/17668/analytics-engineer/) |
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/17659/partner-success-lead/) |
 | Staff Engineer, Datacenter Server Lifecycle | On-site | [View →](https://www.remotejobscan.com/job/9652/staff-engineer-datacenter-server-lifecycle/) |
-| Engineering Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/15248/engineering-manager-safeguards/) |
-| APAC Vendor Lead, Ads - Sydney | Hybrid | [View →](https://www.remotejobscan.com/job/17662/apac-vendor-lead-ads-sydney/) |
-| Creative Strategist & Producer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17661/creative-strategist-producer-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
