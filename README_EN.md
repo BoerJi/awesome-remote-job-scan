@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Policy Advocacy - Political Research | On-site | [View →](https://www.remotejobscan.com/job/17359/policy-advocacy-political-research/) |
 | VP, Product Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/17623/vp-product-analytics/) |
 | Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/17620/enterprise-account-executive-healthcare-life-science/) |
 | Enterprise Account Executive - Manufacturing | On-site | [View →](https://www.remotejobscan.com/job/17621/enterprise-account-executive-manufacturing/) |
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-05 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
