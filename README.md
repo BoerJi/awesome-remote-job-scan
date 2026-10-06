@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DeFi 借款产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
+| 技术资本建设项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
+| 高级技术项目经理，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
+| 核心实验数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17775/data-engineer-core-experimentation/) |
+| 入职项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17774/onboarding-program-manager/) |
+| 金融服务产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17771/product-manager-financial-services/) |
+| 应用AI工程师，有益部署（生命科学 - 临床试验/药物重新定位） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17770/applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trialsdrug-repurposing/) |
 | 软件工程师，购物/Feed广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17767/software-engineer-shopfeed-ads/) |
 | 企业客户经理，FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17764/enterprise-account-executive-fsi/) |
 | 绩效营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17766/performance-marketing-manager/) |
@@ -36,12 +43,6 @@
 | 网络安全领域营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17758/field-marketing-lead-cybersecurity/) |
 | SOX基础设施总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17755/director-sox-infrastructure/) |
 | 美国联盟增长主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17760/affiliate-growth-lead-us/) |
-| 英国及爱尔兰客户成功主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17757/customer-success-lead-uki/) |
-| 政策沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17754/communications-manager-policy/) |
-| 战略与运营，OpenAI 政府部门 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17756/strategy-and-operations-openai-for-government/) |
-| 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
-| IT SOX总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
-| 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

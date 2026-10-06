@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager II, DeFi Borrow | Remote | [View →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
+| Program Manager, Technology Capital Builds | Hybrid | [View →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
+| Senior Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
+| Data Engineer, Core Experimentation | Hybrid | [View →](https://www.remotejobscan.com/job/17775/data-engineer-core-experimentation/) |
+| Onboarding Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17774/onboarding-program-manager/) |
+| Product Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/17771/product-manager-financial-services/) |
+| Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing) | On-site | [View →](https://www.remotejobscan.com/job/17770/applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trialsdrug-repurposing/) |
 | Software Engineer, Shop/Feed Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17767/software-engineer-shopfeed-ads/) |
 | Enterprise Account Executive, FSI | On-site | [View →](https://www.remotejobscan.com/job/17764/enterprise-account-executive-fsi/) |
 | Performance Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/17766/performance-marketing-manager/) |
@@ -36,12 +43,6 @@
 | Field Marketing Lead, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/17758/field-marketing-lead-cybersecurity/) |
 | Director, SOX Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17755/director-sox-infrastructure/) |
 | Affiliate Growth Lead, US | Remote | [View →](https://www.remotejobscan.com/job/17760/affiliate-growth-lead-us/) |
-| Customer Success Lead - UK/I | Remote | [View →](https://www.remotejobscan.com/job/17757/customer-success-lead-uki/) |
-| Communications Manager, Policy | On-site | [View →](https://www.remotejobscan.com/job/17754/communications-manager-policy/) |
-| Strategy and Operations, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/17756/strategy-and-operations-openai-for-government/) |
-| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
-| Director, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
-| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
