@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3255</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 实验室运营工程师，系统集成 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14475/lab-operations-engineer-systems-integration-consumer-devices/) |
+| 稳定币产品营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17761/product-marketing-lead-stablecoins/) |
+| 机器人安全工程师主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17762/lead-safety-engineer-robotics/) |
+| 技术合作伙伴市场经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17759/field-marketing-manager-tech-partnership/) |
+| 网络安全领域营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17758/field-marketing-lead-cybersecurity/) |
+| SOX基础设施总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17755/director-sox-infrastructure/) |
+| 美国联盟增长主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17760/affiliate-growth-lead-us/) |
 | 英国及爱尔兰客户成功主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17757/customer-success-lead-uki/) |
 | 政策沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17754/communications-manager-policy/) |
 | 战略与运营，OpenAI 政府部门 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17756/strategy-and-operations-openai-for-government/) |
@@ -35,12 +42,6 @@
 | 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
 | 客户服务专员（VIP） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
 | 产品合作业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
-| 经济流动合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17745/economic-mobility-partnerships-manager-career-pathways/) |
-| 欧洲采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17746/adoption-strategist-europe/) |
-| 技术专家（机器学习工程师，搜索与代理） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17747/member-of-technical-staff-machine-learning-engineer-search-agents/) |
-| 英国和爱尔兰商务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| 转录/字幕专家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
-| 翻译/语言学家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

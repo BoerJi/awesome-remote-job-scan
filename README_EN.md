@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3255</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lab Operations Engineer, Systems Integration | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14475/lab-operations-engineer-systems-integration-consumer-devices/) |
+| Product Marketing Lead, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/17761/product-marketing-lead-stablecoins/) |
+| Lead Safety Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/17762/lead-safety-engineer-robotics/) |
+| Field Marketing Manager, Tech Partnership | On-site | [View →](https://www.remotejobscan.com/job/17759/field-marketing-manager-tech-partnership/) |
+| Field Marketing Lead, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/17758/field-marketing-lead-cybersecurity/) |
+| Director, SOX Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17755/director-sox-infrastructure/) |
+| Affiliate Growth Lead, US | Remote | [View →](https://www.remotejobscan.com/job/17760/affiliate-growth-lead-us/) |
 | Customer Success Lead - UK/I | Remote | [View →](https://www.remotejobscan.com/job/17757/customer-success-lead-uki/) |
 | Communications Manager, Policy | On-site | [View →](https://www.remotejobscan.com/job/17754/communications-manager-policy/) |
 | Strategy and Operations, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/17756/strategy-and-operations-openai-for-government/) |
@@ -35,12 +42,6 @@
 | Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
 | Customer Service Specialist (VIP) | Remote | [View →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
 | Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
-| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/17745/economic-mobility-partnerships-manager-career-pathways/) |
-| Adoption Strategist - Europe | Remote | [View →](https://www.remotejobscan.com/job/17746/adoption-strategist-europe/) |
-| Member of Technical Staff (Machine Learning Engineer, Search & Agents) | Hybrid | [View →](https://www.remotejobscan.com/job/17747/member-of-technical-staff-machine-learning-engineer-search-agents/) |
-| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| Transcription / Subtitling Specialist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
-| Translator/Linguist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
