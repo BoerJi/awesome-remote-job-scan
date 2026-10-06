@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部审计 - 调查专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
+| Rust开发工程师，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
+| 生产经理（阿拉伯语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
+| 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 | EMEA客户产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17726/customer-product-engineer-emea/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | 大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
@@ -33,15 +37,11 @@
 | 数字资产解决方案顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | 亚太区系统架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17719/systems-architect-apac/) |
-| Rust 开发者，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | 亚太区业务招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
 | 合规与许可经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | ANZ适应策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
 | 应用人工智能、科学与工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
 | 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
-| Staff+ 容量工程软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
-| 移动端 Web3 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
-| 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

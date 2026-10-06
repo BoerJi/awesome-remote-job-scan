@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Audit - Investigations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
+| Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
+| Production Manager (Arabic speaking) | Remote | [View →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
+| Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 | Customer Product Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17726/customer-product-engineer-emea/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Account Director, Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
@@ -32,14 +36,11 @@
 | Solutions Consultant, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | Systems Architect - APAC | On-site | [View →](https://www.remotejobscan.com/job/17719/systems-architect-apac/) |
-| Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | Business Recruiter, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
 | Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | Adoption Strategist - ANZ | On-site | [View →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
 | Software Engineer, Staff: Applied AI, Science & Engineering | On-site | [View →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
 | Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
-| Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
-| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
