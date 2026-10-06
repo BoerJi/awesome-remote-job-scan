@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3250</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3255</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 英国及爱尔兰客户成功主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17757/customer-success-lead-uki/) |
+| 政策沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17754/communications-manager-policy/) |
+| 战略与运营，OpenAI 政府部门 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17756/strategy-and-operations-openai-for-government/) |
+| 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
+| IT SOX总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
+| 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | 合规测试与保证经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9230/manager-of-compliance-testing-and-assurance/) |
 | 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | 软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17750/software-engineer-rust-payward-services/) |
@@ -35,12 +41,6 @@
 | 英国和爱尔兰商务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 转录/字幕专家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
 | 翻译/语言学家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
-| 配音专家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17742/dubbing-specialist-freelance/) |
-| 音频书专家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17743/audiobook-specialists-freelance/) |
-| 司库助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17739/treasury-associate/) |
-| 财务行政助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
-| 高级产品经理 - 社交体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
-| 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3250</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3255</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Lead - UK/I | Remote | [View →](https://www.remotejobscan.com/job/17757/customer-success-lead-uki/) |
+| Communications Manager, Policy | On-site | [View →](https://www.remotejobscan.com/job/17754/communications-manager-policy/) |
+| Strategy and Operations, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/17756/strategy-and-operations-openai-for-government/) |
+| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
+| Director, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
+| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | Manager of Compliance Testing and Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/9230/manager-of-compliance-testing-and-assurance/) |
 | Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/17750/software-engineer-rust-payward-services/) |
@@ -35,12 +41,6 @@
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Transcription / Subtitling Specialist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
 | Translator/Linguist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
-| Dubbing Specialist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17742/dubbing-specialist-freelance/) |
-| Audiobook Specialists (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17743/audiobook-specialists-freelance/) |
-| Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/17739/treasury-associate/) |
-| Associate, Finance Administration | Hybrid | [View →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
-| Senior Product Manager - Social Experience | Remote | [View →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
-| Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
