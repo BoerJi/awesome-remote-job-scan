@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager of Compliance Testing and Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/9230/manager-of-compliance-testing-and-assurance/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
+| Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/17750/software-engineer-rust-payward-services/) |
 | Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
 | Customer Service Specialist (VIP) | Remote | [View →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
 | Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
@@ -38,9 +41,6 @@
 | Associate, Finance Administration | Hybrid | [View →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
 | Senior Product Manager - Social Experience | Remote | [View →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
 | Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
-| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/17734/it-engineer/) |
-| Internal Audit - Investigations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
-| Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

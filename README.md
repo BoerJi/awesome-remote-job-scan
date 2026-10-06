@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3251</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规测试与保证经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9230/manager-of-compliance-testing-and-assurance/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
+| 软件工程师 - Rust - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17750/software-engineer-rust-payward-services/) |
 | 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
 | 客户服务专员（VIP） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
 | 产品合作业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
@@ -38,9 +41,6 @@
 | 财务行政助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
 | 高级产品经理 - 社交体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
 | 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
-| IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17734/it-engineer/) |
-| 内部审计 - 调查专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
-| Rust开发工程师，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
