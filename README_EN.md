@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3257</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
+| Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
+| Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
+| Ads Marketing Manager, Japan | On-site | [View →](https://www.remotejobscan.com/job/17713/ads-marketing-manager-japan/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Binance Accelerator Program - Ads Implementation | Remote | [View →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
@@ -37,11 +41,6 @@
 | Controls Specialist, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17583/controls-specialist-security-grc/) |
 | Senior HR Generalist | Remote | [View →](https://www.remotejobscan.com/job/17702/senior-hr-generalist/) |
 | Android Engineer, Plugin Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
-| Staff + Software Security Engineer, Secure Frameworks | On-site | [View →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
-| Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
-| Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
-| Senior Partner Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
-| Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

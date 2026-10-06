@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3257</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 容量工程软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
+| 移动端 Web3 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
+| 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
+| 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
+| 日本广告营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17713/ads-marketing-manager-japan/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | 币安加速器计划 - 广告实施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
@@ -37,11 +42,6 @@
 | 安全GRC控制专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/controls-specialist-security-grc/) |
 | 高级人力资源专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17702/senior-hr-generalist/) |
 | Android工程师，插件开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
-| 高级软件安全工程师，安全框架 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
-| 实验室高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
-| 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
-| 高级合作伙伴营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
-| 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
