@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Shop/Feed Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17767/software-engineer-shopfeed-ads/) |
+| Enterprise Account Executive, FSI | On-site | [View →](https://www.remotejobscan.com/job/17764/enterprise-account-executive-fsi/) |
+| Performance Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/17766/performance-marketing-manager/) |
+| Sr. Partnerships Manager, US Model Labs | On-site | [View →](https://www.remotejobscan.com/job/17765/sr-partnerships-manager-us-model-labs/) |
+| Cloud Security Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17768/cloud-security-lead/) |
+| Senior Account Executive - Technology | Remote | [View →](https://www.remotejobscan.com/job/17763/senior-account-executive-technology/) |
 | Lab Operations Engineer, Systems Integration | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14475/lab-operations-engineer-systems-integration-consumer-devices/) |
 | Product Marketing Lead, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/17761/product-marketing-lead-stablecoins/) |
 | Lead Safety Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/17762/lead-safety-engineer-robotics/) |
@@ -36,12 +42,6 @@
 | Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
 | Director, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
 | Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
-| Manager of Compliance Testing and Assurance | Hybrid | [View →](https://www.remotejobscan.com/job/9230/manager-of-compliance-testing-and-assurance/) |
-| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
-| Software Engineer - Rust - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/17750/software-engineer-rust-payward-services/) |
-| Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
-| Customer Service Specialist (VIP) | Remote | [View →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
-| Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
