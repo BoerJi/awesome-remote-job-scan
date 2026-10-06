@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品合作业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
+| 经济流动合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17745/economic-mobility-partnerships-manager-career-pathways/) |
+| 欧洲采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17746/adoption-strategist-europe/) |
+| 技术专家（机器学习工程师，搜索与代理） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17747/member-of-technical-staff-machine-learning-engineer-search-agents/) |
 | 英国和爱尔兰商务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 转录/字幕专家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
 | 翻译/语言学家（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
@@ -37,11 +41,6 @@
 | Rust开发工程师，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | 生产经理（阿拉伯语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
 | 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
-| EMEA客户产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17726/customer-product-engineer-emea/) |
-| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
-| 大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
-| 高级财务经理，结算与对账 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
-| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

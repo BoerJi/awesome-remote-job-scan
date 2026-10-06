@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
+| Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/17745/economic-mobility-partnerships-manager-career-pathways/) |
+| Adoption Strategist - Europe | Remote | [View →](https://www.remotejobscan.com/job/17746/adoption-strategist-europe/) |
+| Member of Technical Staff (Machine Learning Engineer, Search & Agents) | Hybrid | [View →](https://www.remotejobscan.com/job/17747/member-of-technical-staff-machine-learning-engineer-search-agents/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Transcription / Subtitling Specialist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
 | Translator/Linguist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
@@ -37,11 +41,6 @@
 | Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | Production Manager (Arabic speaking) | Remote | [View →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
 | Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
-| Customer Product Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17726/customer-product-engineer-emea/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
-| Account Director, Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
-| Senior Finance Manager, Settlement & Reconciliation | On-site | [View →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
-| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
