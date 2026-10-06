@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead Product Manager, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17720/lead-product-manager-digital-assets/) |
+| Solutions Consultant, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
+| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
+| Systems Architect - APAC | On-site | [View →](https://www.remotejobscan.com/job/17719/systems-architect-apac/) |
 | Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | Business Recruiter, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
 | Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
@@ -36,11 +40,6 @@
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Binance Accelerator Program - Ads Implementation | Remote | [View →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
-| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
-| Prime Sales Trader | Remote | [View →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
-| AV Engineer, Builds and Design | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer-builds-and-design/) |
-| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
