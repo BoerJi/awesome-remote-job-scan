@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3258</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
+| 币安加速器计划 - 广告实施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | 首席销售交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
 | AV工程师，建设与设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer-builds-and-design/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
@@ -39,9 +42,6 @@
 | 高级合作伙伴营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
 | 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | 财务数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
-| 德国PUBSEC高级客户经理（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
-| 市场营销数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
-| 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
