@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma/) |
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
+| Senior Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-risk-analyst/) |
+| Manager, Product Program Management | On-site | [View →](https://www.remotejobscan.com/job/17780/manager-product-program-management/) |
+| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | ITAV Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17778/itav-deployment-engineer/) |
 | Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
 | Technical Recruiter | Remote | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
@@ -38,11 +43,6 @@
 | Performance Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/17766/performance-marketing-manager/) |
 | Sr. Partnerships Manager, US Model Labs | On-site | [View →](https://www.remotejobscan.com/job/17765/sr-partnerships-manager-us-model-labs/) |
 | Cloud Security Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17768/cloud-security-lead/) |
-| Senior Account Executive - Technology | Remote | [View →](https://www.remotejobscan.com/job/17763/senior-account-executive-technology/) |
-| Lab Operations Engineer, Systems Integration | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14475/lab-operations-engineer-systems-integration-consumer-devices/) |
-| Product Marketing Lead, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/17761/product-marketing-lead-stablecoins/) |
-| Lead Safety Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/17762/lead-safety-engineer-robotics/) |
-| Field Marketing Manager, Tech Partnership | On-site | [View →](https://www.remotejobscan.com/job/17759/field-marketing-manager-tech-partnership/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
