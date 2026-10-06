@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务经理，结算与对账 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
+| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | 数字资产首席产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17720/lead-product-manager-digital-assets/) |
 | 首席产品经理，数字资产 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17721/lead-product-manager-digital-assets/) |
 | 数字资产解决方案顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
@@ -40,8 +42,6 @@
 | 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
 | 日本广告营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17713/ads-marketing-manager-japan/) |
 | 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
-| 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
-| 币安加速器计划 - 广告实施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

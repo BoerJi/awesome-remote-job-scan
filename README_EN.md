@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Manager, Settlement & Reconciliation | On-site | [View →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
+| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | Lead Product Manager, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17720/lead-product-manager-digital-assets/) |
 | Solutions Consultant, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
@@ -38,8 +40,6 @@
 | Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
 | Ads Marketing Manager, Japan | On-site | [View →](https://www.remotejobscan.com/job/17713/ads-marketing-manager-japan/) |
 | Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
-| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
-| Binance Accelerator Program - Ads Implementation | Remote | [View →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
