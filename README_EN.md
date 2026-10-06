@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Solutions Engineer - Canada | Remote | [View →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
+| Customer Service Specialist (VIP) | Remote | [View →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
 | Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
 | Economic Mobility Partnerships Manager - Career Pathways | On-site | [View →](https://www.remotejobscan.com/job/17745/economic-mobility-partnerships-manager-career-pathways/) |
 | Adoption Strategist - Europe | Remote | [View →](https://www.remotejobscan.com/job/17746/adoption-strategist-europe/) |
@@ -39,8 +41,6 @@
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/17734/it-engineer/) |
 | Internal Audit - Investigations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
 | Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
-| Production Manager (Arabic speaking) | Remote | [View →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
-| Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

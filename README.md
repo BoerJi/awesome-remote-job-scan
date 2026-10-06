@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业解决方案工程师 - 加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17749/enterprise-solutions-engineer-canada/) |
+| 客户服务专员（VIP） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17748/customer-service-specialist-vip/) |
 | 产品合作业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
 | 经济流动合作伙伴关系经理 - 职业发展路径 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17745/economic-mobility-partnerships-manager-career-pathways/) |
 | 欧洲采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17746/adoption-strategist-europe/) |
@@ -39,8 +41,6 @@
 | IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17734/it-engineer/) |
 | 内部审计 - 调查专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
 | Rust开发工程师，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
-| 生产经理（阿拉伯语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
-| 高级工程总监，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/senior-engineering-director-trading-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
