@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Binance Accelerator Program - Ads Implementation | Remote | [View →](https://www.remotejobscan.com/job/17709/binance-accelerator-program-ads-implementation/) |
 | Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
@@ -41,7 +42,6 @@
 | Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
 | Senior Partner Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
 | Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
-| Finance Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
