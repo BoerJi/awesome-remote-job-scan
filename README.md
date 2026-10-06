@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17734/it-engineer/) |
 | 内部审计 - 调查专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
 | Rust开发工程师，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | 生产经理（阿拉伯语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
@@ -41,7 +42,6 @@
 | 合规与许可经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | ANZ适应策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
 | 应用人工智能、科学与工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
-| 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

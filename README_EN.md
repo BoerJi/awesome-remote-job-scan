@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/17734/it-engineer/) |
 | Internal Audit - Investigations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
 | Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
 | Production Manager (Arabic speaking) | Remote | [View →](https://www.remotejobscan.com/job/17730/production-manager-arabic-speaking/) |
@@ -40,7 +41,6 @@
 | Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
 | Adoption Strategist - ANZ | On-site | [View →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
 | Software Engineer, Staff: Applied AI, Science & Engineering | On-site | [View →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
-| Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
