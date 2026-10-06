@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager - Social Experience | Remote | [View →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
+| Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/17734/it-engineer/) |
 | Internal Audit - Investigations Specialist | Remote | [View →](https://www.remotejobscan.com/job/17727/internal-audit-investigations-specialist/) |
 | Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
@@ -38,9 +40,6 @@
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | Systems Architect - APAC | On-site | [View →](https://www.remotejobscan.com/job/17719/systems-architect-apac/) |
 | Business Recruiter, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
-| Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
-| Adoption Strategist - ANZ | On-site | [View →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
-| Software Engineer, Staff: Applied AI, Science & Engineering | On-site | [View →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
