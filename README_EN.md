@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Prime Sales Trader | Remote | [View →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
+| AV Engineer, Builds and Design | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer-builds-and-design/) |
+| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
+| Payroll Initiatives Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17707/payroll-initiatives-lead/) |
+| Legal Contract Manager, Public Sector | Hybrid | [View →](https://www.remotejobscan.com/job/17703/legal-contract-manager-public-sector/) |
+| Internal Communications Lead, Enterprise & Growth | Hybrid | [View →](https://www.remotejobscan.com/job/17704/internal-communications-lead-enterprise-growth/) |
+| Controls Specialist, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17583/controls-specialist-security-grc/) |
+| Senior HR Generalist | Remote | [View →](https://www.remotejobscan.com/job/17702/senior-hr-generalist/) |
 | Android Engineer, Plugin Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
 | Staff + Software Security Engineer, Secure Frameworks | On-site | [View →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
 | Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
 | Senior Partner Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
 | Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
-| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | Finance Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
 | Senior Account Executive, Germany PUBSEC (Berlin, Germany) | Remote | [View →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
 | Marketing Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
 | Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
-| US Public Sector Compliance, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17684/us-public-sector-compliance-security-grc/) |
-| Security Risk & Compliance, Agent Security | On-site | [View →](https://www.remotejobscan.com/job/17683/security-risk-compliance-agent-security/) |
-| AV Engineer, Builds and Design | On-site | [View →](https://www.remotejobscan.com/job/13069/av-engineer-builds-and-design/) |
-| AV Engineer, Platform & Automation | On-site | [View →](https://www.remotejobscan.com/job/17682/av-engineer-platform-automation/) |
-| Security Engineer - Incident Response | Hybrid | [View →](https://www.remotejobscan.com/job/17689/security-engineer-incident-response/) |
-| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| Finance & Strategy Analyst, Product | Remote | [View →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
-| Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

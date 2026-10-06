@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3251</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3258</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席销售交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
+| AV工程师，建设与设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer-builds-and-design/) |
+| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
+| 薪酬计划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17707/payroll-initiatives-lead/) |
+| 公共部门合同经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17703/legal-contract-manager-public-sector/) |
+| 企业增长内部沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17704/internal-communications-lead-enterprise-growth/) |
+| 安全GRC控制专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/controls-specialist-security-grc/) |
+| 高级人力资源专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17702/senior-hr-generalist/) |
 | Android工程师，插件开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
 | 高级软件安全工程师，安全框架 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
 | 实验室高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17697/partner-development-manager/) |
 | 高级合作伙伴营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/senior-partner-marketing-manager/) |
 | 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
-| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | 财务数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17692/finance-data-scientist/) |
 | 德国PUBSEC高级客户经理（柏林，德国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17694/senior-account-executive-germany-pubsec-berlin-germany/) |
 | 市场营销数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17693/marketing-data-scientist/) |
 | 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
-| 美国公共部门合规、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17684/us-public-sector-compliance-security-grc/) |
-| 安全风险与合规、代理安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17683/security-risk-compliance-agent-security/) |
-| 音视频工程师，构建与设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13069/av-engineer-builds-and-design/) |
-| AV工程师，平台与自动化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17682/av-engineer-platform-automation/) |
-| 安全工程师 - 事件响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17689/security-engineer-incident-response/) |
-| 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| 初创企业绿色田野客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| 产品财务与战略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17585/finance-strategy-analyst-product/) |
-| 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17679/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
