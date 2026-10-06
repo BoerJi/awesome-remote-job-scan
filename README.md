@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| ITAV部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17778/itav-deployment-engineer/) |
+| 发现技术运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
+| 技术招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
 | DeFi 借款产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
 | 技术资本建设项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
 | 高级技术项目经理，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
@@ -40,9 +43,6 @@
 | 稳定币产品营销主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17761/product-marketing-lead-stablecoins/) |
 | 机器人安全工程师主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17762/lead-safety-engineer-robotics/) |
 | 技术合作伙伴市场经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17759/field-marketing-manager-tech-partnership/) |
-| 网络安全领域营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17758/field-marketing-lead-cybersecurity/) |
-| SOX基础设施总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17755/director-sox-infrastructure/) |
-| 美国联盟增长主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17760/affiliate-growth-lead-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

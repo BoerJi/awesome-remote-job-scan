@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| ITAV Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17778/itav-deployment-engineer/) |
+| Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
+| Technical Recruiter | Remote | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
 | Product Manager II, DeFi Borrow | Remote | [View →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
 | Program Manager, Technology Capital Builds | Hybrid | [View →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
 | Senior Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
@@ -40,9 +43,6 @@
 | Product Marketing Lead, Stablecoins | Remote | [View →](https://www.remotejobscan.com/job/17761/product-marketing-lead-stablecoins/) |
 | Lead Safety Engineer, Robotics | Hybrid | [View →](https://www.remotejobscan.com/job/17762/lead-safety-engineer-robotics/) |
 | Field Marketing Manager, Tech Partnership | On-site | [View →](https://www.remotejobscan.com/job/17759/field-marketing-manager-tech-partnership/) |
-| Field Marketing Lead, Cybersecurity | On-site | [View →](https://www.remotejobscan.com/job/17758/field-marketing-lead-cybersecurity/) |
-| Director, SOX Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17755/director-sox-infrastructure/) |
-| Affiliate Growth Lead, US | Remote | [View →](https://www.remotejobscan.com/job/17760/affiliate-growth-lead-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
