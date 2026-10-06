@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| EMEA客户产品工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17726/customer-product-engineer-emea/) |
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | 大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
 | 高级财务经理，结算与对账 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
@@ -40,8 +42,6 @@
 | Staff+ 容量工程软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
 | 移动端 Web3 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
-| 高级工程经理，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
-| 日本广告营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17713/ads-marketing-manager-japan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

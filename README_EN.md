@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Product Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17726/customer-product-engineer-emea/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Account Director, Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
 | Senior Finance Manager, Settlement & Reconciliation | On-site | [View →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
@@ -38,8 +40,6 @@
 | Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
-| Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
-| Ads Marketing Manager, Japan | On-site | [View →](https://www.remotejobscan.com/job/17713/ads-marketing-manager-japan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
