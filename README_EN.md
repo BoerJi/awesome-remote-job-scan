@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| Transcription / Subtitling Specialist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17741/transcription-subtitling-specialist-freelance/) |
+| Translator/Linguist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17744/translatorlinguist-freelance/) |
+| Dubbing Specialist (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17742/dubbing-specialist-freelance/) |
+| Audiobook Specialists (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/17743/audiobook-specialists-freelance/) |
 | Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/17739/treasury-associate/) |
 | Associate, Finance Administration | Hybrid | [View →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
 | Senior Product Manager - Social Experience | Remote | [View →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
@@ -37,9 +42,6 @@
 | Account Director, Large Enterprise | On-site | [View →](https://www.remotejobscan.com/job/17725/account-director-large-enterprise/) |
 | Senior Finance Manager, Settlement & Reconciliation | On-site | [View →](https://www.remotejobscan.com/job/17723/senior-finance-manager-settlement-reconciliation/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| Lead Product Manager, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17720/lead-product-manager-digital-assets/) |
-| Solutions Consultant, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
-| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
