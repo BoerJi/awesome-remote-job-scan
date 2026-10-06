@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Treasury Associate | Hybrid | [View →](https://www.remotejobscan.com/job/17739/treasury-associate/) |
+| Associate, Finance Administration | Hybrid | [View →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
 | Senior Product Manager - Social Experience | Remote | [View →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
 | Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/17734/it-engineer/) |
@@ -38,8 +40,6 @@
 | Lead Product Manager, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17720/lead-product-manager-digital-assets/) |
 | Solutions Consultant, Digital Assets | Remote | [View →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
-| Systems Architect - APAC | On-site | [View →](https://www.remotejobscan.com/job/17719/systems-architect-apac/) |
-| Business Recruiter, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

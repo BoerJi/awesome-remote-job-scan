@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 司库助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17739/treasury-associate/) |
+| 财务行政助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17738/associate-finance-administration/) |
 | 高级产品经理 - 社交体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17735/senior-product-manager-social-experience/) |
 | 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17737/analytics-engineer/) |
 | IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17734/it-engineer/) |
@@ -39,8 +41,6 @@
 | 首席产品经理，数字资产 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17721/lead-product-manager-digital-assets/) |
 | 数字资产解决方案顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17722/solutions-consultant-digital-assets/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
-| 亚太区系统架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17719/systems-architect-apac/) |
-| 亚太区业务招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
