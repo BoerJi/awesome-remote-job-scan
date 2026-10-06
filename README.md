@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Rust 开发者，交易所操作系统交易引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
+| 亚太区业务招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
+| 合规与许可经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
+| ANZ适应策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
+| 应用人工智能、科学与工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
+| 计算供应链负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | Staff+ 容量工程软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
 | 移动端 Web3 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | 移动端Web3软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8725/software-engineer-mobile-web3/) |
@@ -36,12 +42,6 @@
 | AV工程师，建设与设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13070/av-engineer-builds-and-design/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
-| 薪酬计划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17707/payroll-initiatives-lead/) |
-| 公共部门合同经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17703/legal-contract-manager-public-sector/) |
-| 企业增长内部沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17704/internal-communications-lead-enterprise-growth/) |
-| 安全GRC控制专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17583/controls-specialist-security-grc/) |
-| 高级人力资源专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17702/senior-hr-generalist/) |
-| Android工程师，插件开发者平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-06 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

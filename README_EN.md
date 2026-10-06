@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Rust Developer, Exchange OS Trading Engine | On-site | [View →](https://www.remotejobscan.com/job/17716/rust-developer-exchange-os-trading-engine/) |
+| Business Recruiter, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/17717/business-recruiter-apac/) |
+| Regulatory Compliance and Licensing Manager | Remote | [View →](https://www.remotejobscan.com/job/14711/regulatory-compliance-and-licensing-manager/) |
+| Adoption Strategist - ANZ | On-site | [View →](https://www.remotejobscan.com/job/17715/adoption-strategist-anz/) |
+| Software Engineer, Staff: Applied AI, Science & Engineering | On-site | [View →](https://www.remotejobscan.com/job/17714/software-engineer-staff-applied-ai-science-engineering/) |
+| Head of Compute Supply Chain | On-site | [View →](https://www.remotejobscan.com/job/15455/head-of-compute-supply-chain/) |
 | Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/9667/staff-software-engineer-capacity-engineering/) |
 | Software Engineer, Mobile, Web3 | On-site | [View →](https://www.remotejobscan.com/job/8726/software-engineer-mobile-web3/) |
 | Senior Engineering Manager, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/17711/senior-engineering-manager-capacity-engineering/) |
@@ -35,12 +41,6 @@
 | AV Engineer, Builds and Design | On-site | [View →](https://www.remotejobscan.com/job/13070/av-engineer-builds-and-design/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
-| Payroll Initiatives Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17707/payroll-initiatives-lead/) |
-| Legal Contract Manager, Public Sector | Hybrid | [View →](https://www.remotejobscan.com/job/17703/legal-contract-manager-public-sector/) |
-| Internal Communications Lead, Enterprise & Growth | Hybrid | [View →](https://www.remotejobscan.com/job/17704/internal-communications-lead-enterprise-growth/) |
-| Controls Specialist, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/17583/controls-specialist-security-grc/) |
-| Senior HR Generalist | Remote | [View →](https://www.remotejobscan.com/job/17702/senior-hr-generalist/) |
-| Android Engineer, Plugin Developer Platform | Hybrid | [View →](https://www.remotejobscan.com/job/17701/android-engineer-plugin-developer-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-06 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
