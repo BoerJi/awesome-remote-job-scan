@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3250</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
+| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
+| Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
+| Strategic Account Executive - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
 | Intelligence Systems - Technical Staff | On-site | [View →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
@@ -38,11 +42,6 @@
 | Deployment Lead, FDE - SF | On-site | [View →](https://www.remotejobscan.com/job/17783/deployment-lead-fde-sf/) |
 | Senior Manager, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
-| Senior Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-risk-analyst/) |
-| Manager, Product Program Management | On-site | [View →](https://www.remotejobscan.com/job/17780/manager-product-program-management/) |
-| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
-| ITAV Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17778/itav-deployment-engineer/) |
-| Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
