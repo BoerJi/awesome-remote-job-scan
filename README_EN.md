@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3244</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Manager | On-site | [View →](https://www.remotejobscan.com/job/17789/hr-manager/) |
 | Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
@@ -41,7 +42,6 @@
 | Communications Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17782/communications-manager-safeguards/) |
 | Deployment Lead, FDE - SF | On-site | [View →](https://www.remotejobscan.com/job/17783/deployment-lead-fde-sf/) |
 | Senior Manager, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

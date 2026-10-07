@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3249</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3244</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17789/hr-manager/) |
 | 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
 | 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | 高级深度内容 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
@@ -41,7 +42,6 @@
 | 安全官，传播经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17782/communications-manager-safeguards/) |
 | FDE 部署负责人 - SF | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17783/deployment-lead-fde-sf/) |
 | 高级经理，技术会计 - 并购 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
