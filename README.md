@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 嵌入式产品运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
+| 公共部门应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
 | 财务报告-特别项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | 计费运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
 | 生命科学软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
@@ -41,8 +43,6 @@
 | 技术招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
 | DeFi 借款产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
 | 技术资本建设项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
-| 高级技术项目经理，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
-| 核心实验数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17775/data-engineer-core-experimentation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

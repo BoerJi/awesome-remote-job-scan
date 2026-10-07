@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
+| Applied AI Engineer, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | Billing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
 | Software Engineer, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
@@ -41,8 +43,6 @@
 | Technical Recruiter | Remote | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
 | Product Manager II, DeFi Borrow | Remote | [View →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
 | Program Manager, Technology Capital Builds | Hybrid | [View →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
-| Senior Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
-| Data Engineer, Core Experimentation | Hybrid | [View →](https://www.remotejobscan.com/job/17775/data-engineer-core-experimentation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
