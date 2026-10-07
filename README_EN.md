@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3242</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Partner Account Manager - Spain & MEA | On-site | [View →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
 | Finance Systems Specialist (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/17797/finance-systems-specialist-12-months-contract/) |
@@ -41,7 +42,6 @@
 | Strategic Account Executive - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
 | Intelligence Systems - Technical Staff | On-site | [View →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
-| Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
