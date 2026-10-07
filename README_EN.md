@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployed Engineer (Bay Area) | On-site | [View →](https://www.remotejobscan.com/job/11072/deployed-engineer-bay-area/) |
+| Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
+| Senior Staff Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/17833/senior-staff-engineer-payment/) |
+| Full-Stack Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/17832/full-stack-engineer-back-end-leaning/) |
 | Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
 | Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17828/software-engineer-backend-payments-platform/) |
@@ -38,10 +42,6 @@
 | Enterprise Account Executive, Consumer Brands | On-site | [View →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
 | Growth Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/17818/growth-marketing-lead/) |
 | Full-Stack Engineer (Backend Leaning) - CreativeVoices | Remote | [View →](https://www.remotejobscan.com/job/17817/full-stack-engineer-backend-leaning-creativevoices/) |
-| IT Systems Engineer, Client Platform Engineer, macOS | Remote | [View →](https://www.remotejobscan.com/job/17813/it-systems-engineer-client-platform-engineer-macos/) |
-| Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
-| Account Executive - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/17816/account-executive-enterprise/) |
-| Product Manager, Billing | On-site | [View →](https://www.remotejobscan.com/job/17814/product-manager-billing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
