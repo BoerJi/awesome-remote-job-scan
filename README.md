@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT系统工程师，客户端平台工程师，macOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17813/it-systems-engineer-client-platform-engineer-macos/) |
+| 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
+| 企业客户经理 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17816/account-executive-enterprise/) |
+| 计费产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17814/product-manager-billing/) |
+| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17812/applied-ai-engineer/) |
+| 对冲基金经理、账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-account-executive-hedge-funds/) |
+| 企业销售经理 - HCLS | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-hcls/) |
+| 商业营销创意资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17810/creative-resource-manager-business-marketing/) |
+| 自服务产品经理 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17811/self-serve-product-manager-elevencreative/) |
+| 高级产品经理，流动性与资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17809/senior-product-manager-liquidity-money-movement/) |
 | 企业产品经理 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17806/enterprise-product-manager-elevencreative/) |
 | 高级商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
 | 企业客户经理，材料与工业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
@@ -33,16 +43,6 @@
 | 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
 | 全栈工程师（偏后端）- 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
 | 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
-| 首席AI工程师（LLM与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
-| 合作伙伴账户经理 - 西班牙与中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
-| 财务系统专家（12个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17797/finance-systems-specialist-12-months-contract/) |
-| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| 监管合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
-| 国际会计，亚太区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17509/international-accounting-apac/) |
-| 意大利合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17794/partner-account-manager-italy/) |
-| OKX新加坡助理关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
-| 产品与监管高级法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
-| 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

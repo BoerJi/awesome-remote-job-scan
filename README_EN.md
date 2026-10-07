@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Systems Engineer, Client Platform Engineer, macOS | Remote | [View →](https://www.remotejobscan.com/job/17813/it-systems-engineer-client-platform-engineer-macos/) |
+| Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
+| Account Executive - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/17816/account-executive-enterprise/) |
+| Product Manager, Billing | On-site | [View →](https://www.remotejobscan.com/job/17814/product-manager-billing/) |
+| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/17812/applied-ai-engineer/) |
+| Manager, Account Executive - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-account-executive-hedge-funds/) |
+| Manager, Enterprise Sales - HCLS | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-hcls/) |
+| Creative Resource Manager, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/17810/creative-resource-manager-business-marketing/) |
+| Self-Serve Product Manager - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/17811/self-serve-product-manager-elevencreative/) |
+| Senior Product Manager, Liquidity & Money Movement | Remote | [View →](https://www.remotejobscan.com/job/17809/senior-product-manager-liquidity-money-movement/) |
 | Enterprise Product Manager - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/17806/enterprise-product-manager-elevencreative/) |
 | Senior Commercial Counsel | Remote | [View →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
 | Enterprise Account Executive, Materials & Industrial | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
@@ -33,16 +43,6 @@
 | Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
 | Full-Stack Engineer (Backend Leaning) - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
 | Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
-| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
-| Partner Account Manager - Spain & MEA | On-site | [View →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
-| Finance Systems Specialist (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/17797/finance-systems-specialist-12-months-contract/) |
-| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| Regulatory Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
-| International Accounting, APAC | On-site | [View →](https://www.remotejobscan.com/job/17509/international-accounting-apac/) |
-| Partner Account Manager - Italy | On-site | [View →](https://www.remotejobscan.com/job/17794/partner-account-manager-italy/) |
-| Assistant Relationship Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
-| Senior Legal Counsel - Product & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
-| Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
