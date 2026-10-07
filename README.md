@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业产品经理 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17806/enterprise-product-manager-elevencreative/) |
+| 高级商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
+| 企业客户经理，材料与工业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
+| 行政业务合作伙伴，GTM - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
+| 全栈工程师 - 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17804/full-stack-engineer-creative-agents/) |
+| 高级产品经理 - 简易交易、增长与留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading-growth-retention/) |
+| 首席产品经理 - 专业交易工具与体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17104/principal-product-manager-professional-trading-tools-experience/) |
 | 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
 | 全栈工程师（偏后端）- 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
 | 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
@@ -36,12 +43,6 @@
 | OKX新加坡助理关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
 | 产品与监管高级法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
 | 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
-| 资产产品经理（税务申报、客户报表与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| 人力资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17789/hr-manager/) |
-| 首席/高级移动工程师，交易策略，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| 高级深度内容 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
-| 新加坡战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

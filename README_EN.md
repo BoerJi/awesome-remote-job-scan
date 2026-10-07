@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Product Manager - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/17806/enterprise-product-manager-elevencreative/) |
+| Senior Commercial Counsel | Remote | [View →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
+| Enterprise Account Executive, Materials & Industrial | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
+| Administrative Business Partner, GTM - London | On-site | [View →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
+| Full-stack Engineer - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17804/full-stack-engineer-creative-agents/) |
+| Principal Product Manager - Simple Trading, Growth & Retention | Remote | [View →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading-growth-retention/) |
+| Principal Product Manager - Professional Trading Tools & Experience | Remote | [View →](https://www.remotejobscan.com/job/17104/principal-product-manager-professional-trading-tools-experience/) |
 | Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
 | Full-Stack Engineer (Backend Leaning) - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
 | Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
@@ -36,12 +43,6 @@
 | Assistant Relationship Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
 | Senior Legal Counsel - Product & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
 | Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
-| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| HR Manager | On-site | [View →](https://www.remotejobscan.com/job/17789/hr-manager/) |
-| Principal/Senior Mobile Engineer, Trading Strategies, CEX | On-site | [View →](https://www.remotejobscan.com/job/8913/principalsenior-mobile-engineer-trading-strategies-cex/) |
-| Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
-| Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
-| Strategic Account Executive - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
