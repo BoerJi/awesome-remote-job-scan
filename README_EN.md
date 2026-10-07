@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
+| Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
+| Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17828/software-engineer-backend-payments-platform/) |
+| Education Content Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17829/education-content-marketing-lead/) |
 | Product Director / Manager, Trading API | On-site | [View →](https://www.remotejobscan.com/job/17824/product-director-manager-trading-api/) |
 | Account Manager - Corporate | Remote | [View →](https://www.remotejobscan.com/job/17827/account-manager-corporate/) |
 | Procurement Operations Business Partner, Technology | On-site | [View →](https://www.remotejobscan.com/job/17826/procurement-operations-business-partner-technology/) |
@@ -38,10 +42,6 @@
 | Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | Account Executive - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/17816/account-executive-enterprise/) |
 | Product Manager, Billing | On-site | [View →](https://www.remotejobscan.com/job/17814/product-manager-billing/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/17812/applied-ai-engineer/) |
-| Manager, Account Executive - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-account-executive-hedge-funds/) |
-| Manager, Enterprise Sales - HCLS | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-hcls/) |
-| Creative Resource Manager, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/17810/creative-resource-manager-business-marketing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
