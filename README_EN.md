@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
+| Billing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
+| Software Engineer, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
+| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
+| Policy Communications Manager, Responsible Scaling, Security, and Governance | On-site | [View →](https://www.remotejobscan.com/job/17754/policy-communications-manager-responsible-scaling-security-and-governance/) |
+| Communications Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17782/communications-manager-safeguards/) |
+| Deployment Lead, FDE - SF | On-site | [View →](https://www.remotejobscan.com/job/17783/deployment-lead-fde-sf/) |
 | Senior Manager, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
 | Senior Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-risk-analyst/) |
@@ -35,14 +43,6 @@
 | Program Manager, Technology Capital Builds | Hybrid | [View →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
 | Senior Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
 | Data Engineer, Core Experimentation | Hybrid | [View →](https://www.remotejobscan.com/job/17775/data-engineer-core-experimentation/) |
-| Onboarding Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17774/onboarding-program-manager/) |
-| Product Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/17771/product-manager-financial-services/) |
-| Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing) | On-site | [View →](https://www.remotejobscan.com/job/17770/applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trialsdrug-repurposing/) |
-| Software Engineer, Shop/Feed Ads | Hybrid | [View →](https://www.remotejobscan.com/job/17767/software-engineer-shopfeed-ads/) |
-| Enterprise Account Executive, FSI | On-site | [View →](https://www.remotejobscan.com/job/17764/enterprise-account-executive-fsi/) |
-| Performance Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/17766/performance-marketing-manager/) |
-| Sr. Partnerships Manager, US Model Labs | On-site | [View →](https://www.remotejobscan.com/job/17765/sr-partnerships-manager-us-model-labs/) |
-| Cloud Security Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17768/cloud-security-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

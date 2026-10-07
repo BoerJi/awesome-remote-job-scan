@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3271</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务报告-特别项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
+| 计费运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
+| 生命科学软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
+| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
+| 政策沟通经理，负责规模扩展、安全与治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17754/policy-communications-manager-responsible-scaling-security-and-governance/) |
+| 安全官，传播经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17782/communications-manager-safeguards/) |
+| FDE 部署负责人 - SF | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17783/deployment-lead-fde-sf/) |
 | 高级经理，技术会计 - 并购 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/senior-manager-technical-accounting-ma/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9354/applied-ai-architect-partnerships/) |
 | 高级风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-risk-analyst/) |
@@ -35,14 +43,6 @@
 | 技术资本建设项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
 | 高级技术项目经理，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/senior-technical-program-manager-consumer/) |
 | 核心实验数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17775/data-engineer-core-experimentation/) |
-| 入职项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17774/onboarding-program-manager/) |
-| 金融服务产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17771/product-manager-financial-services/) |
-| 应用AI工程师，有益部署（生命科学 - 临床试验/药物重新定位） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17770/applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trialsdrug-repurposing/) |
-| 软件工程师，购物/Feed广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17767/software-engineer-shopfeed-ads/) |
-| 企业客户经理，FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17764/enterprise-account-executive-fsi/) |
-| 绩效营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17766/performance-marketing-manager/) |
-| 美国模型实验室高级合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17765/sr-partnerships-manager-us-model-labs/) |
-| 云安全主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17768/cloud-security-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
