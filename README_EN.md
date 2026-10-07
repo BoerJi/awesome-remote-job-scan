@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3246</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Account Manager - Italy | On-site | [View →](https://www.remotejobscan.com/job/17794/partner-account-manager-italy/) |
+| Assistant Relationship Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
 | Senior Legal Counsel - Product & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
 | Manager, Strategic Programs | Remote | [View →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
@@ -40,8 +42,6 @@
 | Billing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
 | Software Engineer, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
-| Policy Communications Manager, Responsible Scaling, Security, and Governance | On-site | [View →](https://www.remotejobscan.com/job/17754/policy-communications-manager-responsible-scaling-security-and-governance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3246</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3245</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 意大利合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17794/partner-account-manager-italy/) |
+| OKX新加坡助理关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
 | 产品与监管高级法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
 | 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
 | 资产产品经理（税务申报、客户报表与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
@@ -40,8 +42,6 @@
 | 计费运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
 | 生命科学软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| 高级产品运营经理，FCM运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
-| 政策沟通经理，负责规模扩展、安全与治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17754/policy-communications-manager-responsible-scaling-security-and-governance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
