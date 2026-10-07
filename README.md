@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3254</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 智能系统 - 技术人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
+| 财务与战略、数据中心战略项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
+| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 嵌入式产品运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | 公共部门应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
 | 财务报告-特别项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
@@ -40,9 +43,6 @@
 | 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | ITAV部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17778/itav-deployment-engineer/) |
 | 发现技术运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
-| 技术招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
-| DeFi 借款产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
-| 技术资本建设项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

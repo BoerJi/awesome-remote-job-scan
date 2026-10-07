@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Intelligence Systems - Technical Staff | On-site | [View →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
+| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
+| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | Applied AI Engineer, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
@@ -40,9 +43,6 @@
 | Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | ITAV Deployment Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17778/itav-deployment-engineer/) |
 | Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
-| Technical Recruiter | Remote | [View →](https://www.remotejobscan.com/job/9735/technical-recruiter/) |
-| Product Manager II, DeFi Borrow | Remote | [View →](https://www.remotejobscan.com/job/17772/product-manager-ii-defi-borrow/) |
-| Program Manager, Technology Capital Builds | Hybrid | [View →](https://www.remotejobscan.com/job/17776/program-manager-technology-capital-builds/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
