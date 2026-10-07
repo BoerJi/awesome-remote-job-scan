@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Outcomes Manager | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
+| Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
+| Enterprise Account Executive, Consumer Brands | On-site | [View →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
+| Growth Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/17818/growth-marketing-lead/) |
+| Full-Stack Engineer (Backend Leaning) - CreativeVoices | Remote | [View →](https://www.remotejobscan.com/job/17817/full-stack-engineer-backend-leaning-creativevoices/) |
 | IT Systems Engineer, Client Platform Engineer, macOS | Remote | [View →](https://www.remotejobscan.com/job/17813/it-systems-engineer-client-platform-engineer-macos/) |
 | Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | Account Executive - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/17816/account-executive-enterprise/) |
@@ -38,11 +43,6 @@
 | Enterprise Account Executive, Materials & Industrial | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
 | Administrative Business Partner, GTM - London | On-site | [View →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
 | Full-stack Engineer - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17804/full-stack-engineer-creative-agents/) |
-| Principal Product Manager - Simple Trading, Growth & Retention | Remote | [View →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading-growth-retention/) |
-| Principal Product Manager - Professional Trading Tools & Experience | Remote | [View →](https://www.remotejobscan.com/job/17104/principal-product-manager-professional-trading-tools-experience/) |
-| Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
-| Full-Stack Engineer (Backend Leaning) - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
-| Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
+| 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
+| 企业客户经理，消费品牌 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
+| 增长营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17818/growth-marketing-lead/) |
+| 全栈工程师（后端倾向）- CreativeVoices | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17817/full-stack-engineer-backend-leaning-creativevoices/) |
 | IT系统工程师，客户端平台工程师，macOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17813/it-systems-engineer-client-platform-engineer-macos/) |
 | 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | 企业客户经理 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17816/account-executive-enterprise/) |
@@ -38,11 +43,6 @@
 | 企业客户经理，材料与工业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
 | 行政业务合作伙伴，GTM - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
 | 全栈工程师 - 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17804/full-stack-engineer-creative-agents/) |
-| 高级产品经理 - 简易交易、增长与留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17487/principal-product-manager-simple-trading-growth-retention/) |
-| 首席产品经理 - 专业交易工具与体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17104/principal-product-manager-professional-trading-tools-experience/) |
-| 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
-| 全栈工程师（偏后端）- 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
-| 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
