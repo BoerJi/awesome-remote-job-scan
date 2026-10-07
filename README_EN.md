@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3244</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -35,13 +35,13 @@
 | Strategic Account Executive - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
 | Intelligence Systems - Technical Staff | On-site | [View →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
-| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | Applied AI Engineer, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | Billing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
 | Software Engineer, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 09:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 10:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
