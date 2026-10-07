@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3248</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
+| Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17842/senior-software-engineer-rust-consumer/) |
+| Finance & Strategy, GTM - Korea | On-site | [View →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
+| Technical Program Manager, Data Center Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9726/technical-program-manager-data-center-infrastructure/) |
+| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| Senior Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/17843/senior-software-engineer-developer-experience/) |
+| Senior Staff Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/17833/senior-staff-engineer-payment/) |
+| Deployed Engineer, Pre-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-pre-sales-dallas/) |
+| Data Center Capacity Delivery, Canada | On-site | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
+| Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
+| Staff Software Engineer, Environments Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
 | Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
-| Staff+ Software Engineer, Research Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
 | Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
 | Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
@@ -33,15 +43,6 @@
 | Technical Program Manager, Robotics Facilities | On-site | [View →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics-facilities/) |
 | Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
 | Direct Tax Lead | On-site | [View →](https://www.remotejobscan.com/job/17838/direct-tax-lead/) |
-| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
-| Deployed Engineer (Bay Area) | On-site | [View →](https://www.remotejobscan.com/job/11072/deployed-engineer-bay-area/) |
-| Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
-| Full-Stack Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/17832/full-stack-engineer-back-end-leaning/) |
-| Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
-| Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
-| Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17828/software-engineer-backend-payments-platform/) |
-| Education Content Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17829/education-content-marketing-lead/) |
-| Product Director / Manager, Trading API | On-site | [View →](https://www.remotejobscan.com/job/17824/product-director-manager-trading-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
