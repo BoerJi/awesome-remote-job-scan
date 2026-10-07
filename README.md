@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3244</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3249</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，有益部署（生命科学社区与赋能） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
+| 高级软件工程师，研究系统工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
+| CX智能机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
+| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
+| 机器人设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics-facilities/) |
+| 现场工程运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
+| 直接税务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17838/direct-tax-lead/) |
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | 部署工程师（湾区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11072/deployed-engineer-bay-area/) |
 | 部署工程师（早期职业-NYC） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
-| 高级支付工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17833/senior-staff-engineer-payment/) |
 | 全栈工程师（后端倾斜） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17832/full-stack-engineer-back-end-leaning/) |
 | 应用AI架构师，企业技术部经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | 部署工程师（早期职业-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
 | 软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17828/software-engineer-backend-payments-platform/) |
 | 教育内容营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17829/education-content-marketing-lead/) |
 | 交易API产品总监/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-director-manager-trading-api/) |
-| 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17827/account-manager-corporate/) |
-| 采购运营业务合作伙伴，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17826/procurement-operations-business-partner-technology/) |
-| 企业隐私产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17822/product-manager-enterprise-privacy/) |
-| 东部分支中市场领导 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17823/mid-market-lead-east/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17821/it-support-engineer/) |
-| AI成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
-| 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
-| 企业客户经理，消费品牌 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
-| 增长营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17818/growth-marketing-lead/) |
-| 全栈工程师（后端倾向）- CreativeVoices | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17817/full-stack-engineer-backend-leaning-creativevoices/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

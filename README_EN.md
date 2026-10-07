@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3244</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
+| Staff+ Software Engineer, Research Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
+| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
+| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
+| Technical Program Manager, Robotics Facilities | On-site | [View →](https://www.remotejobscan.com/job/17579/technical-program-manager-robotics-facilities/) |
+| Head of Field Engineering Operations | Hybrid | [View →](https://www.remotejobscan.com/job/9765/head-of-field-engineering-operations/) |
+| Direct Tax Lead | On-site | [View →](https://www.remotejobscan.com/job/17838/direct-tax-lead/) |
+| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | Deployed Engineer (Bay Area) | On-site | [View →](https://www.remotejobscan.com/job/11072/deployed-engineer-bay-area/) |
 | Deployed Engineer (Early Career-NYC) | On-site | [View →](https://www.remotejobscan.com/job/11975/deployed-engineer-early-career-nyc/) |
-| Senior Staff Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/17833/senior-staff-engineer-payment/) |
 | Full-Stack Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/17832/full-stack-engineer-back-end-leaning/) |
 | Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | Deployed Engineer (Early Career- SF) | On-site | [View →](https://www.remotejobscan.com/job/11693/deployed-engineer-early-career-sf/) |
 | Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17828/software-engineer-backend-payments-platform/) |
 | Education Content Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17829/education-content-marketing-lead/) |
 | Product Director / Manager, Trading API | On-site | [View →](https://www.remotejobscan.com/job/17824/product-director-manager-trading-api/) |
-| Account Manager - Corporate | Remote | [View →](https://www.remotejobscan.com/job/17827/account-manager-corporate/) |
-| Procurement Operations Business Partner, Technology | On-site | [View →](https://www.remotejobscan.com/job/17826/procurement-operations-business-partner-technology/) |
-| Product Manager, Enterprise Privacy | On-site | [View →](https://www.remotejobscan.com/job/17822/product-manager-enterprise-privacy/) |
-| Mid-Market Lead, East | Remote | [View →](https://www.remotejobscan.com/job/17823/mid-market-lead-east/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/17821/it-support-engineer/) |
-| AI Outcomes Manager | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
-| Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
-| Enterprise Account Executive, Consumer Brands | On-site | [View →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
-| Growth Marketing Lead | On-site | [View →](https://www.remotejobscan.com/job/17818/growth-marketing-lead/) |
-| Full-Stack Engineer (Backend Leaning) - CreativeVoices | Remote | [View →](https://www.remotejobscan.com/job/17817/full-stack-engineer-backend-leaning-creativevoices/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
