@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3244</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Systems Specialist (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/17797/finance-systems-specialist-12-months-contract/) |
+| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
+| Regulatory Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
+| International Accounting, APAC | On-site | [View →](https://www.remotejobscan.com/job/17509/international-accounting-apac/) |
 | Partner Account Manager - Italy | On-site | [View →](https://www.remotejobscan.com/job/17794/partner-account-manager-italy/) |
 | Assistant Relationship Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/17793/assistant-relationship-manager-okx-sg/) |
 | Senior Legal Counsel - Product & Regulatory | On-site | [View →](https://www.remotejobscan.com/job/17792/senior-legal-counsel-product-regulatory/) |
@@ -38,10 +42,6 @@
 | Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
 | Applied AI Engineer, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
-| Billing Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/17785/billing-operations-lead/) |
-| Software Engineer, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/17784/software-engineer-life-sciences/) |
-| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| Senior Manager Product Operations, FCM Ops | Remote | [View →](https://www.remotejobscan.com/job/12089/senior-manager-product-operations-fcm-ops/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
