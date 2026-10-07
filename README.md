@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17821/it-support-engineer/) |
 | AI成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
 | 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
 | 企业客户经理，消费品牌 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
@@ -42,7 +43,6 @@
 | 高级商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
 | 企业客户经理，材料与工业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
 | 行政业务合作伙伴，GTM - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
-| 全栈工程师 - 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17804/full-stack-engineer-creative-agents/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

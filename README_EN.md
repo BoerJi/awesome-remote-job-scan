@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/17821/it-support-engineer/) |
 | AI Outcomes Manager | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
 | Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
 | Enterprise Account Executive, Consumer Brands | On-site | [View →](https://www.remotejobscan.com/job/17820/enterprise-account-executive-consumer-brands/) |
@@ -42,7 +43,6 @@
 | Senior Commercial Counsel | Remote | [View →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
 | Enterprise Account Executive, Materials & Industrial | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
 | Administrative Business Partner, GTM - London | On-site | [View →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
-| Full-stack Engineer - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17804/full-stack-engineer-creative-agents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
