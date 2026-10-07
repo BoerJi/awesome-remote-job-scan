@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3254</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易API产品总监/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-director-manager-trading-api/) |
+| 企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17827/account-manager-corporate/) |
+| 采购运营业务合作伙伴，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17826/procurement-operations-business-partner-technology/) |
+| 企业隐私产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17822/product-manager-enterprise-privacy/) |
+| 东部分支中市场领导 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17823/mid-market-lead-east/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17821/it-support-engineer/) |
 | AI成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
 | 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
@@ -37,12 +42,6 @@
 | 对冲基金经理、账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-account-executive-hedge-funds/) |
 | 企业销售经理 - HCLS | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-hcls/) |
 | 商业营销创意资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17810/creative-resource-manager-business-marketing/) |
-| 自服务产品经理 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17811/self-serve-product-manager-elevencreative/) |
-| 高级产品经理，流动性与资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17809/senior-product-manager-liquidity-money-movement/) |
-| 企业产品经理 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17806/enterprise-product-manager-elevencreative/) |
-| 高级商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
-| 企业客户经理，材料与工业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
-| 行政业务合作伙伴，GTM - 伦敦 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

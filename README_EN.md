@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Director / Manager, Trading API | On-site | [View →](https://www.remotejobscan.com/job/17824/product-director-manager-trading-api/) |
+| Account Manager - Corporate | Remote | [View →](https://www.remotejobscan.com/job/17827/account-manager-corporate/) |
+| Procurement Operations Business Partner, Technology | On-site | [View →](https://www.remotejobscan.com/job/17826/procurement-operations-business-partner-technology/) |
+| Product Manager, Enterprise Privacy | On-site | [View →](https://www.remotejobscan.com/job/17822/product-manager-enterprise-privacy/) |
+| Mid-Market Lead, East | Remote | [View →](https://www.remotejobscan.com/job/17823/mid-market-lead-east/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/17821/it-support-engineer/) |
 | AI Outcomes Manager | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager/) |
 | Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/17819/paid-media-manager/) |
@@ -37,12 +42,6 @@
 | Manager, Account Executive - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-account-executive-hedge-funds/) |
 | Manager, Enterprise Sales - HCLS | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-hcls/) |
 | Creative Resource Manager, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/17810/creative-resource-manager-business-marketing/) |
-| Self-Serve Product Manager - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/17811/self-serve-product-manager-elevencreative/) |
-| Senior Product Manager, Liquidity & Money Movement | Remote | [View →](https://www.remotejobscan.com/job/17809/senior-product-manager-liquidity-money-movement/) |
-| Enterprise Product Manager - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/17806/enterprise-product-manager-elevencreative/) |
-| Senior Commercial Counsel | Remote | [View →](https://www.remotejobscan.com/job/17805/senior-commercial-counsel/) |
-| Enterprise Account Executive, Materials & Industrial | On-site | [View →](https://www.remotejobscan.com/job/13538/enterprise-account-executive-materials-industrial/) |
-| Administrative Business Partner, GTM - London | On-site | [View →](https://www.remotejobscan.com/job/17803/administrative-business-partner-gtm-london/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
