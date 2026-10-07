@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3245</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席AI工程师（LLM与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
+| 合作伙伴账户经理 - 西班牙与中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
 | 财务系统专家（12个月合同） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17797/finance-systems-specialist-12-months-contract/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 监管合规官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
@@ -40,8 +42,6 @@
 | 智能系统 - 技术人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
 | 财务与战略、数据中心战略项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 | 嵌入式产品运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
-| 公共部门应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
-| 财务报告-特别项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

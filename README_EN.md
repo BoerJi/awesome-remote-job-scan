@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
+| Partner Account Manager - Spain & MEA | On-site | [View →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
 | Finance Systems Specialist (12 months contract) | Remote | [View →](https://www.remotejobscan.com/job/17797/finance-systems-specialist-12-months-contract/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Regulatory Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
@@ -40,8 +42,6 @@
 | Intelligence Systems - Technical Staff | On-site | [View →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 | Product Operations Manager, Embedded | On-site | [View →](https://www.remotejobscan.com/job/9539/product-operations-manager-embedded/) |
-| Applied AI Engineer, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/17786/applied-ai-engineer-public-sector/) |
-| Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
