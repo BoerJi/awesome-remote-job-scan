@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
+| 全栈工程师（偏后端）- 创意代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
 | 商业智能/数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
 | 首席AI工程师（LLM与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 合作伙伴账户经理 - 西班牙与中东及非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
@@ -40,8 +42,6 @@
 | 首席/高级软件工程师，移动端，中心化交易所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | 高级深度内容 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
 | 新加坡战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
-| 智能系统 - 技术人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
-| 财务与战略、数据中心战略项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-07 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/17801/public-sector-sales-lead/) |
+| Full-Stack Engineer (Backend Leaning) - Creative Agents | On-site | [View →](https://www.remotejobscan.com/job/17802/full-stack-engineer-backend-leaning-creative-agents/) |
 | Business Intelligence/ Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/17800/business-intelligence-data-analyst/) |
 | Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Partner Account Manager - Spain & MEA | On-site | [View →](https://www.remotejobscan.com/job/17799/partner-account-manager-spain-mea/) |
@@ -40,8 +42,6 @@
 | Principal/Senior Software Engineer, Mobile, CEX | On-site | [View →](https://www.remotejobscan.com/job/8559/principalsenior-software-engineer-mobile-cex/) |
 | Senior Deep Dive Content | Remote | [View →](https://www.remotejobscan.com/job/16827/senior-deep-dive-content/) |
 | Strategic Account Executive - Singapore | Remote | [View →](https://www.remotejobscan.com/job/17788/strategic-account-executive-singapore/) |
-| Intelligence Systems - Technical Staff | On-site | [View →](https://www.remotejobscan.com/job/17787/intelligence-systems-technical-staff/) |
-| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/17435/finance-strategy-datacenter-strategic-initiatives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
