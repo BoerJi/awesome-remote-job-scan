@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数字证券与市场结构政策高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 | 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | 质量保证主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17883/qa-lead/) |
 | 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
@@ -42,7 +43,6 @@
 | PayFi Backend Engineer PayFi技术工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
 | AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17870/ai-infrastructure-system-engineer-bangalore/) |
 | 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
-| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
