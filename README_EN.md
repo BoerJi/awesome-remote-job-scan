@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
+| Enterprise Sales Lead, Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
+| Head of Compliance, EU & UK | On-site | [View →](https://www.remotejobscan.com/job/17877/head-of-compliance-eu-uk/) |
 | Strategic Delivery Lead, Federal Civilian & State and Local Government | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-federal-civilian-state-and-local-government/) |
 | Junior/Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/17876/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
@@ -40,9 +43,6 @@
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
 | PayFi Test Engineer 测试工程师-钱包 | Remote | [View →](https://www.remotejobscan.com/job/17863/payfi-test-engineer/) |
-| Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
-| Platform Product Manager平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/17864/platform-product-manager/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3020</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业销售主管-医疗健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
+| 金融服务企业销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
+| 欧洲与英国合规负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17877/head-of-compliance-eu-uk/) |
 | 联邦平民及州和地方政府战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-federal-civilian-state-and-local-government/) |
 | 初级/高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17876/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 影响制作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
@@ -40,9 +43,6 @@
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | BGW Senior Backend Engineer 区块链资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
 | PayFi Test Engineer 测试工程师-钱包 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17863/payfi-test-engineer/) |
-| Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
-| Platform Product Manager平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17864/platform-product-manager/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
