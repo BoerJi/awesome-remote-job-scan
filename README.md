@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3023</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 联邦平民及州和地方政府战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-federal-civilian-state-and-local-government/) |
+| 初级/高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17876/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 影响制作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 | 沙特阿拉伯客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17874/account-executive-saudi-arabia/) |
 | 战略客户经理 - 沙特阿拉伯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
@@ -41,8 +43,6 @@
 | Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 | Platform Product Manager平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17864/platform-product-manager/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
-| 高级业务运营助理（企业发展） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
-| 东京大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

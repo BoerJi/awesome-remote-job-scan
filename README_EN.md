@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3023</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Delivery Lead, Federal Civilian & State and Local Government | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-federal-civilian-state-and-local-government/) |
+| Junior/Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/17876/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 | Account Executive - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/17874/account-executive-saudi-arabia/) |
 | Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
@@ -41,8 +43,6 @@
 | Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
 | Platform Product Manager平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/17864/platform-product-manager/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
-| Senior Business Operations Associate (Corporate Development) | Hybrid | [View →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
-| Account Director, Large Enterprise - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
