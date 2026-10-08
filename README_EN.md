@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Trading Desk Operations, Senior Associate to Director level - Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/17850/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
+| Accounting Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17852/accounting-manager/) |
+| Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | Senior Legal Operations & Admin Executive (fully remote!) | Remote | [View →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
 | Office Manager & Security Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
 | Accounts Payable Specialist (Poland) | On-site | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
@@ -39,10 +42,6 @@
 | Technical Program Manager, Data Center Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9726/technical-program-manager-data-center-infrastructure/) |
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | Senior Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/17843/senior-software-engineer-developer-experience/) |
-| Senior Staff Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/17833/senior-staff-engineer-payment/) |
-| Deployed Engineer, Pre-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-pre-sales-dallas/) |
-| Data Center Capacity Delivery, Canada | On-site | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
-| Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

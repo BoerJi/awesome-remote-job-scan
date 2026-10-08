@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 量化交易团队 - 交易操作部高级专员至总监级别 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17850/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
+| 会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17852/accounting-manager/) |
+| 量化交易团队 - 交易台运营高级专员至总监级别 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17851/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
+| 策略与运营，首席商业官办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
 | 高级法律运营及行政主管（完全远程！） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
 | 办公室经理与安全协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
 | 波兰应付账款专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
@@ -39,10 +43,6 @@
 | 数据中心基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9726/technical-program-manager-data-center-infrastructure/) |
 | Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 | 高级软件工程师，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17843/senior-software-engineer-developer-experience/) |
-| 高级支付工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17833/senior-staff-engineer-payment/) |
-| 部署工程师，售前 (达拉斯) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11937/deployed-engineer-pre-sales-dallas/) |
-| 加拿大数据中心容量交付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
-| 数字证券与市场结构政策高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
