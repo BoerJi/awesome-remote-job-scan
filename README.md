@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3258</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| 投资技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17853/director-technical-accounting-investments/) |
+| 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
+| 先锋人才计划 - 应用数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17854/pioneer-talent-program-applied-data-scientist/) |
 | 量化交易团队 - 交易操作部高级专员至总监级别 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17850/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
 | 会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17852/accounting-manager/) |
 | 量化交易团队 - 交易台运营高级专员至总监级别 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17851/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
@@ -38,11 +42,6 @@
 | 应用AI架构初创企业经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17845/manager-of-applied-ai-architecture-startups/) |
 | 高级技术招聘专员，消费电子 - 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17846/senior-technical-recruiter-consumer-devices-singapore/) |
 | Prime运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
-| 高级软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17842/senior-software-engineer-rust-consumer/) |
-| 财务与战略、面向市场 - 韩国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
-| 数据中心基础设施技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9726/technical-program-manager-data-center-infrastructure/) |
-| Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| 高级软件工程师，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17843/senior-software-engineer-developer-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

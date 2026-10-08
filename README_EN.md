@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
+| Director, Technical Accounting – Investments | On-site | [View →](https://www.remotejobscan.com/job/17853/director-technical-accounting-investments/) |
+| Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
+| Pioneer Talent Program - Applied Data Scientist | Hybrid | [View →](https://www.remotejobscan.com/job/17854/pioneer-talent-program-applied-data-scientist/) |
 | Trading Desk Operations, Senior Associate to Director level - Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/17850/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
 | Accounting Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17852/accounting-manager/) |
 | Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
@@ -37,11 +41,6 @@
 | Manager of Applied AI Architecture, Startups | On-site | [View →](https://www.remotejobscan.com/job/17845/manager-of-applied-ai-architecture-startups/) |
 | Senior Technical Recruiter, Consumer Devices - Singapore | On-site | [View →](https://www.remotejobscan.com/job/17846/senior-technical-recruiter-consumer-devices-singapore/) |
 | Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
-| Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17842/senior-software-engineer-rust-consumer/) |
-| Finance & Strategy, GTM - Korea | On-site | [View →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
-| Technical Program Manager, Data Center Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9726/technical-program-manager-data-center-infrastructure/) |
-| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| Senior Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/17843/senior-software-engineer-developer-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
