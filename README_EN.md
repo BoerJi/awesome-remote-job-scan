@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3025</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
+| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
+| Non-Eng Template | On-site | [View →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
+| Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/17881/privacy-counsel/) |
 | Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
 | Enterprise Sales Lead, Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
 | Head of Compliance, EU & UK | On-site | [View →](https://www.remotejobscan.com/job/17877/head-of-compliance-eu-uk/) |
@@ -37,12 +43,6 @@
 | AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/17870/ai-infrastructure-system-engineer-bangalore/) |
 | Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
 | Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
-| VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/17868/applied-ai-engineer-codex/) |
-| Java Back-end Development Engineer Java 后端开发工程师-业财 | Remote | [View →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
-| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
-| BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
-| PayFi Test Engineer 测试工程师-钱包 | Remote | [View →](https://www.remotejobscan.com/job/17863/payfi-test-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

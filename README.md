@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3025</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| 质量保证主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17883/qa-lead/) |
+| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
+| 非英文模板 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
+| 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17881/privacy-counsel/) |
 | 企业销售主管-医疗健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
 | 金融服务企业销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
 | 欧洲与英国合规负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17877/head-of-compliance-eu-uk/) |
@@ -37,12 +43,6 @@
 | AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17870/ai-infrastructure-system-engineer-bangalore/) |
 | 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
 | 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
-| 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| 应用AI工程师，Codex | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17868/applied-ai-engineer-codex/) |
-| Java Back-end Development Engineer Java 后端开发工程师-业财 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
-| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
-| BGW Senior Backend Engineer 区块链资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
-| PayFi Test Engineer 测试工程师-钱包 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17863/payfi-test-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
