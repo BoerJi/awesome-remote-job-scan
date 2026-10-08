@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
+| Sr. Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
+| Assistant General Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
+| Senior Analyst, Travel & Expense | On-site | [View →](https://www.remotejobscan.com/job/17890/senior-analyst-travel-expense/) |
 | Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
@@ -39,10 +43,6 @@
 | Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 | Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
-| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
-| Non-Eng Template | On-site | [View →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

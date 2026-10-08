@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
+| 高级法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
+| 助理总法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
+| 高级分析师，差旅与费用 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17890/senior-analyst-travel-expense/) |
 | 初创企业、绿地-客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | 高级身份风险与欺诈分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
@@ -39,10 +43,6 @@
 | 实验室资深软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | 数字证券与市场结构政策高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 | 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
-| 质量保证主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17883/qa-lead/) |
-| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
-| 非英文模板 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
