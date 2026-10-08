@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
+| PayFi Test Engineer 测试工程师-钱包 | Remote | [View →](https://www.remotejobscan.com/job/17863/payfi-test-engineer/) |
+| Smart Contract Engineer 智能合约工程师 | Remote | [View →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
+| Platform Product Manager平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/17864/platform-product-manager/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 | Senior Business Operations Associate (Corporate Development) | Hybrid | [View →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
 | Account Director, Large Enterprise - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
 | Account Director, Manufacturing- Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17857/account-director-manufacturing-tokyo/) |
@@ -37,10 +42,6 @@
 | Pioneer Talent Program - Applied Data Scientist | Hybrid | [View →](https://www.remotejobscan.com/job/17854/pioneer-talent-program-applied-data-scientist/) |
 | Trading Desk Operations, Senior Associate to Director level - Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/17850/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
 | Accounting Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17852/accounting-manager/) |
-| Strategy & Operations, Office of the CCO | On-site | [View →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
-| Senior Legal Operations & Admin Executive (fully remote!) | Remote | [View →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
-| Office Manager & Security Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
-| Accounts Payable Specialist (Poland) | On-site | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

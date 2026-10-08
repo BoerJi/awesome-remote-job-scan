@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| BGW Senior Backend Engineer 区块链资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
+| PayFi Test Engineer 测试工程师-钱包 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17863/payfi-test-engineer/) |
+| Smart Contract Engineer 智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7375/smart-contract-engineer/) |
+| Platform Product Manager平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17864/platform-product-manager/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 | 高级业务运营助理（企业发展） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
 | 东京大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
 | 制造行业客户总监-东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17857/account-director-manufacturing-tokyo/) |
@@ -37,11 +42,6 @@
 | 先锋人才计划 - 应用数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17854/pioneer-talent-program-applied-data-scientist/) |
 | 量化交易团队 - 交易操作部高级专员至总监级别 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17850/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
 | 会计经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17852/accounting-manager/) |
-| 量化交易团队 - 交易台运营高级专员至总监级别 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17851/trading-desk-operations-senior-associate-to-director-level-quant-trading-team/) |
-| 策略与运营，首席商业官办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16970/strategy-operations-office-of-the-cco/) |
-| 高级法律运营及行政主管（完全远程！） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
-| 办公室经理与安全协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
-| 波兰应付账款专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
