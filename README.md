@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17895/commercial-sales-manager/) |
+| 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| 企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17894/enterprise-sales-manager/) |
+| Staff+ 软件工程师，可观测性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17893/staff-software-engineer-observability/) |
+| 治理、风险与合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
 | 高级法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
 | 助理总法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
@@ -38,11 +43,6 @@
 | 拉美产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-latam-product-partnerships/) |
 | 高级运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
 | 技术团队成员（搜索爬虫分析师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17887/member-of-technical-staff-search-crawler-analyst/) |
-| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
-| 企业客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17884/enterprise-account-executive-financial-services/) |
-| 实验室资深软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
-| 数字证券与市场结构政策高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
-| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

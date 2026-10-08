@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Sales Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17895/commercial-sales-manager/) |
+| Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| Enterprise Sales Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17894/enterprise-sales-manager/) |
+| Staff+ Software Engineer, Observability | On-site | [View →](https://www.remotejobscan.com/job/17893/staff-software-engineer-observability/) |
+| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
 | Sr. Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
 | Assistant General Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
@@ -38,11 +43,6 @@
 | Head of LATAM Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/17886/head-of-latam-product-partnerships/) |
 | Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
 | Member of Technical Staff (Search Crawler Analyst) | Hybrid | [View →](https://www.remotejobscan.com/job/17887/member-of-technical-staff-search-crawler-analyst/) |
-| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
-| Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17884/enterprise-account-executive-financial-services/) |
-| Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
-| Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
-| Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
