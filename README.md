@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3124</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
+| PayFi Backend Engineer PayFi技术工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
+| AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17870/ai-infrastructure-system-engineer-bangalore/) |
 | 技术与安全风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
 | 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
 | 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
@@ -40,9 +43,6 @@
 | 高级全栈软件工程师，AI可观察性与评估平台（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17860/senior-fullstack-software-engineer-ai-observability-evals-platform-ny/) |
 | 高级后端软件工程师，AI可观察性与评估平台（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17859/senior-backend-software-engineer-ai-observability-evals-platform-nyc/) |
 | 内容生产实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17855/content-production-intern-winter-2027/) |
-| 产品设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
-| 财务经理（企业报告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
-| 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

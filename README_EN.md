@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
+| PayFi Backend Engineer PayFi技术工程师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
+| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/17870/ai-infrastructure-system-engineer-bangalore/) |
 | Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
 | Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
 | VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
@@ -40,9 +43,6 @@
 | Senior Fullstack Software Engineer, AI Observability & Evals Platform (NY) | On-site | [View →](https://www.remotejobscan.com/job/17860/senior-fullstack-software-engineer-ai-observability-evals-platform-ny/) |
 | Senior Backend Software Engineer, AI Observability & Evals Platform (NYC) | On-site | [View →](https://www.remotejobscan.com/job/17859/senior-backend-software-engineer-ai-observability-evals-platform-nyc/) |
 | Content Production Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17855/content-production-intern-winter-2027/) |
-| Product Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
-| Finance Manager (Corporate Reporting) | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
-| Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
