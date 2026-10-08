@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
+| 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
+| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
+| 高级软件工程师，AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/staff-software-engineer-ai-compute-together-cloud/) |
+| 影响力制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
+| 软件工程实习生 – 2027年冬季（美国基地） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17889/software-engineering-intern-winter-2027-us-based/) |
+| 物理工程业务主管（特殊情况） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
+| 拉美产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-latam-product-partnerships/) |
+| 高级运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
+| 技术团队成员（搜索爬虫分析师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17887/member-of-technical-staff-search-crawler-analyst/) |
 | 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
 | 企业客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17884/enterprise-account-executive-financial-services/) |
 | 实验室资深软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
@@ -33,16 +43,6 @@
 | 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | 非英文模板 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
 | 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17881/privacy-counsel/) |
-| 企业销售主管-医疗健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
-| 金融服务企业销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
-| 欧洲与英国合规负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17877/head-of-compliance-eu-uk/) |
-| 联邦平民及州和地方政府战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-federal-civilian-state-and-local-government/) |
-| 初级/高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17876/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 影响制作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
-| 沙特阿拉伯客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17874/account-executive-saudi-arabia/) |
-| 战略客户经理 - 沙特阿拉伯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
-| 收入运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
-| 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

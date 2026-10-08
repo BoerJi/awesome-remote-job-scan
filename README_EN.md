@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
+| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
+| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
+| Staff Software Engineer, AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/staff-software-engineer-ai-compute-together-cloud/) |
+| Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
+| Software Engineering Intern – Winter 2027 (U.S. Based) | Hybrid | [View →](https://www.remotejobscan.com/job/17889/software-engineering-intern-winter-2027-us-based/) |
+| Physical Engineering Business Lead (Special Situations) | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
+| Head of LATAM Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/17886/head-of-latam-product-partnerships/) |
+| Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
+| Member of Technical Staff (Search Crawler Analyst) | Hybrid | [View →](https://www.remotejobscan.com/job/17887/member-of-technical-staff-search-crawler-analyst/) |
 | Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
 | Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17884/enterprise-account-executive-financial-services/) |
 | Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
@@ -33,16 +43,6 @@
 | Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | Non-Eng Template | On-site | [View →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
 | Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/17881/privacy-counsel/) |
-| Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
-| Enterprise Sales Lead, Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
-| Head of Compliance, EU & UK | On-site | [View →](https://www.remotejobscan.com/job/17877/head-of-compliance-eu-uk/) |
-| Strategic Delivery Lead, Federal Civilian & State and Local Government | Hybrid | [View →](https://www.remotejobscan.com/job/17341/strategic-delivery-lead-federal-civilian-state-and-local-government/) |
-| Junior/Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/17876/juniorsenior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
-| Account Executive - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/17874/account-executive-saudi-arabia/) |
-| Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
-| Head of Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
-| 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
