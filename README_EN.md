@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Legal Operations & Admin Executive (fully remote!) | Remote | [View →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
+| Office Manager & Security Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
 | Accounts Payable Specialist (Poland) | On-site | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
 | Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
@@ -41,8 +43,6 @@
 | Deployed Engineer, Pre-Sales (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/11937/deployed-engineer-pre-sales-dallas/) |
 | Data Center Capacity Delivery, Canada | On-site | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
 | Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
-| Staff Software Engineer, Environments Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
-| Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
