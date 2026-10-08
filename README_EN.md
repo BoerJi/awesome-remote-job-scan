@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -24,11 +24,9 @@
 | Position | Location | Details |
 |---|---|---|
 | Technical Program Manager, API Platform | On-site | [View →](https://www.remotejobscan.com/job/9721/technical-program-manager-api-platform/) |
-| Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
 | Staff+ Software Engineer, Research Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
 | Manager of Applied AI Architecture, Startups | On-site | [View →](https://www.remotejobscan.com/job/17845/manager-of-applied-ai-architecture-startups/) |
 | Senior Technical Recruiter, Consumer Devices - Singapore | On-site | [View →](https://www.remotejobscan.com/job/17846/senior-technical-recruiter-consumer-devices-singapore/) |
-| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
 | Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
 | Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17842/senior-software-engineer-rust-consumer/) |
 | Finance & Strategy, GTM - Korea | On-site | [View →](https://www.remotejobscan.com/job/9459/finance-strategy-gtm-korea/) |
@@ -43,6 +41,8 @@
 | Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
 | Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
 | Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-07 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
