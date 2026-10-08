@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 系统架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17897/systems-architect/) |
+| 基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
+| 网络安全销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17896/sales-manager-cyber/) |
 | 商业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17895/commercial-sales-manager/) |
 | 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | 企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17894/enterprise-sales-manager/) |
@@ -40,9 +43,6 @@
 | 影响力制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 | 软件工程实习生 – 2027年冬季（美国基地） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17889/software-engineering-intern-winter-2027-us-based/) |
 | 物理工程业务主管（特殊情况） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
-| 拉美产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-latam-product-partnerships/) |
-| 高级运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
-| 技术团队成员（搜索爬虫分析师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17887/member-of-technical-staff-search-crawler-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
