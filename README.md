@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3023</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 影响制作者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
+| 沙特阿拉伯客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17874/account-executive-saudi-arabia/) |
 | 战略客户经理 - 沙特阿拉伯 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
 | 收入运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
 | 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
@@ -41,8 +43,6 @@
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 | 高级业务运营助理（企业发展） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
 | 东京大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
-| 制造行业客户总监-东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17857/account-director-manufacturing-tokyo/) |
-| 高级全栈软件工程师，AI可观察性与评估平台（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17860/senior-fullstack-software-engineer-ai-observability-evals-platform-ny/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3023</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
+| Account Executive - Saudi Arabia | On-site | [View →](https://www.remotejobscan.com/job/17874/account-executive-saudi-arabia/) |
 | Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
 | Head of Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
 | 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
@@ -41,8 +43,6 @@
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 | Senior Business Operations Associate (Corporate Development) | Hybrid | [View →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
 | Account Director, Large Enterprise - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
-| Account Director, Manufacturing- Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17857/account-director-manufacturing-tokyo/) |
-| Senior Fullstack Software Engineer, AI Observability & Evals Platform (NY) | On-site | [View →](https://www.remotejobscan.com/job/17860/senior-fullstack-software-engineer-ai-observability-evals-platform-ny/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
