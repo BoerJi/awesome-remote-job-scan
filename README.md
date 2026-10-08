@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3262</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级业务运营助理（企业发展） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
+| 东京大型企业客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
+| 制造行业客户总监-东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17857/account-director-manufacturing-tokyo/) |
+| 高级全栈软件工程师，AI可观察性与评估平台（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17860/senior-fullstack-software-engineer-ai-observability-evals-platform-ny/) |
+| 高级后端软件工程师，AI可观察性与评估平台（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17859/senior-backend-software-engineer-ai-observability-evals-platform-nyc/) |
 | 内容生产实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17855/content-production-intern-winter-2027/) |
 | 产品设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
 | 财务经理（企业报告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
@@ -37,11 +42,6 @@
 | 高级法律运营及行政主管（完全远程！） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
 | 办公室经理与安全协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
 | 波兰应付账款专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
-| 企业风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
-| 信用风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| 高级经理，占用规划与工作场所战略 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17847/senior-manager-occupancy-planning-workplace-strategy/) |
-| API平台技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9721/technical-program-manager-api-platform/) |
-| Staff+ 软件工程师，研究系统工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

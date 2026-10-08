@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Business Operations Associate (Corporate Development) | Hybrid | [View →](https://www.remotejobscan.com/job/17861/senior-business-operations-associate-corporate-development/) |
+| Account Director, Large Enterprise - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17858/account-director-large-enterprise-tokyo/) |
+| Account Director, Manufacturing- Tokyo | On-site | [View →](https://www.remotejobscan.com/job/17857/account-director-manufacturing-tokyo/) |
+| Senior Fullstack Software Engineer, AI Observability & Evals Platform (NY) | On-site | [View →](https://www.remotejobscan.com/job/17860/senior-fullstack-software-engineer-ai-observability-evals-platform-ny/) |
+| Senior Backend Software Engineer, AI Observability & Evals Platform (NYC) | On-site | [View →](https://www.remotejobscan.com/job/17859/senior-backend-software-engineer-ai-observability-evals-platform-nyc/) |
 | Content Production Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17855/content-production-intern-winter-2027/) |
 | Product Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
 | Finance Manager (Corporate Reporting) | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
@@ -36,11 +41,6 @@
 | Senior Legal Operations & Admin Executive (fully remote!) | Remote | [View →](https://www.remotejobscan.com/job/17849/senior-legal-operations-admin-executive-fully-remote/) |
 | Office Manager & Security Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17848/office-manager-security-coordinator/) |
 | Accounts Payable Specialist (Poland) | On-site | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
-| Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
-| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
-| Senior Manager, Occupancy Planning & Workplace Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/17847/senior-manager-occupancy-planning-workplace-strategy/) |
-| Technical Program Manager, API Platform | On-site | [View →](https://www.remotejobscan.com/job/9721/technical-program-manager-api-platform/) |
-| Staff+ Software Engineer, Research Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
