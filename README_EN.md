@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
+| Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | Systems Architect | Remote | [View →](https://www.remotejobscan.com/job/17897/systems-architect/) |
 | Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
 | Sales Manager, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17896/sales-manager-cyber/) |
@@ -41,8 +43,6 @@
 | Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 | Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
-| Software Engineering Intern – Winter 2027 (U.S. Based) | Hybrid | [View →](https://www.remotejobscan.com/job/17889/software-engineering-intern-winter-2027-us-based/) |
-| Physical Engineering Business Lead (Special Situations) | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
