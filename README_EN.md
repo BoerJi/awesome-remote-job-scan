@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3175</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Binance Accelerator Program - System Performance Engineer (AI) | Remote | [View →](https://www.remotejobscan.com/job/17865/binance-accelerator-program-system-performance-engineer-ai/) |
+| Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
+| Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
+| VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
+| Applied AI Engineer, Codex | Hybrid | [View →](https://www.remotejobscan.com/job/17868/applied-ai-engineer-codex/) |
 | Java Back-end Development Engineer Java 后端开发工程师-业财 | Remote | [View →](https://www.remotejobscan.com/job/17331/java-back-end-development-engineer-java/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | BGW Senior Backend Engineer 区块链资深后端工程师 | Remote | [View →](https://www.remotejobscan.com/job/12147/bgw-senior-backend-engineer/) |
@@ -40,8 +43,6 @@
 | Product Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
 | Finance Manager (Corporate Reporting) | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
-| Director, Technical Accounting – Investments | On-site | [View →](https://www.remotejobscan.com/job/17853/director-technical-accounting-investments/) |
-| Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
