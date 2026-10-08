@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Content Production Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17855/content-production-intern-winter-2027/) |
+| Product Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
+| Finance Manager (Corporate Reporting) | Remote | [View →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
 | Deputy General Counsel - Litigation & Investigations, Asia Pacific, Middle East & Africa | On-site | [View →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | Director, Technical Accounting – Investments | On-site | [View →](https://www.remotejobscan.com/job/17853/director-technical-accounting-investments/) |
 | Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
@@ -38,9 +41,6 @@
 | Senior Manager, Occupancy Planning & Workplace Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/17847/senior-manager-occupancy-planning-workplace-strategy/) |
 | Technical Program Manager, API Platform | On-site | [View →](https://www.remotejobscan.com/job/9721/technical-program-manager-api-platform/) |
 | Staff+ Software Engineer, Research Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
-| Manager of Applied AI Architecture, Startups | On-site | [View →](https://www.remotejobscan.com/job/17845/manager-of-applied-ai-architecture-startups/) |
-| Senior Technical Recruiter, Consumer Devices - Singapore | On-site | [View →](https://www.remotejobscan.com/job/17846/senior-technical-recruiter-consumer-devices-singapore/) |
-| Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

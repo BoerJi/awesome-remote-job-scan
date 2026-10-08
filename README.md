@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3262</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内容生产实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17855/content-production-intern-winter-2027/) |
+| 产品设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17856/product-design-intern-winter-2027/) |
+| 财务经理（企业报告） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15654/finance-manager-corporate-reporting/) |
 | 亚太、中东及非洲地区副总法律顾问 - 诉讼与调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14401/deputy-general-counsel-litigation-investigations-asia-pacific-middle-east-africa/) |
 | 投资技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17853/director-technical-accounting-investments/) |
 | 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
@@ -39,9 +42,6 @@
 | 高级经理，占用规划与工作场所战略 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17847/senior-manager-occupancy-planning-workplace-strategy/) |
 | API平台技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9721/technical-program-manager-api-platform/) |
 | Staff+ 软件工程师，研究系统工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
-| 应用AI架构初创企业经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17845/manager-of-applied-ai-architecture-startups/) |
-| 高级技术招聘专员，消费电子 - 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17846/senior-technical-recruiter-consumer-devices-singapore/) |
-| Prime运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
