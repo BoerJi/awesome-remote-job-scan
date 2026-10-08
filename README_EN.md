@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
+| Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17884/enterprise-account-executive-financial-services/) |
+| Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 | Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
@@ -40,9 +43,6 @@
 | Strategic Account Executive - Saudi Arabia | Remote | [View →](https://www.remotejobscan.com/job/17873/strategic-account-executive-saudi-arabia/) |
 | Head of Revenue Operations | Remote | [View →](https://www.remotejobscan.com/job/17480/head-of-revenue-operations/) |
 | 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
-| PayFi Backend Engineer PayFi技术工程师 | Remote | [View →](https://www.remotejobscan.com/job/12146/payfi-backend-engineer-payfi/) |
-| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/17870/ai-infrastructure-system-engineer-bangalore/) |
-| Technology and Security Risk Director | On-site | [View →](https://www.remotejobscan.com/job/17869/technology-and-security-risk-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
