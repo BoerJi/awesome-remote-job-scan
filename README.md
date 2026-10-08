@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3020</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初创企业、绿地-客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| 高级身份风险与欺诈分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
 | 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
 | 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| 高级软件工程师，AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/staff-software-engineer-ai-compute-together-cloud/) |
 | 影响力制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 | 软件工程实习生 – 2027年冬季（美国基地） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17889/software-engineering-intern-winter-2027-us-based/) |
 | 物理工程业务主管（特殊情况） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
@@ -42,7 +43,6 @@
 | 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 | 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | 非英文模板 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
-| 隐私顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17881/privacy-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-08 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

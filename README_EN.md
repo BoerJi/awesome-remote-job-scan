@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
 | Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| Staff Software Engineer, AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/staff-software-engineer-ai-compute-together-cloud/) |
 | Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 | Software Engineering Intern – Winter 2027 (U.S. Based) | Hybrid | [View →](https://www.remotejobscan.com/job/17889/software-engineering-intern-winter-2027-us-based/) |
 | Physical Engineering Business Lead (Special Situations) | Hybrid | [View →](https://www.remotejobscan.com/job/17380/physical-engineering-business-lead-special-situations/) |
@@ -42,7 +43,6 @@
 | Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 | Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | Non-Eng Template | On-site | [View →](https://www.remotejobscan.com/job/17882/non-eng-template/) |
-| Privacy Counsel | On-site | [View →](https://www.remotejobscan.com/job/17881/privacy-counsel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
