@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accounts Payable Specialist (Poland) | On-site | [View →](https://www.remotejobscan.com/job/15156/accounts-payable-specialist-poland/) |
+| Enterprise Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/17599/enterprise-risk-management-analyst/) |
+| Credit Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/credit-risk-analyst/) |
+| Senior Manager, Occupancy Planning & Workplace Strategy | Hybrid | [View →](https://www.remotejobscan.com/job/17847/senior-manager-occupancy-planning-workplace-strategy/) |
 | Technical Program Manager, API Platform | On-site | [View →](https://www.remotejobscan.com/job/9721/technical-program-manager-api-platform/) |
 | Staff+ Software Engineer, Research Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/17835/staff-software-engineer-research-systems-engineering/) |
 | Manager of Applied AI Architecture, Startups | On-site | [View →](https://www.remotejobscan.com/job/17845/manager-of-applied-ai-architecture-startups/) |
@@ -39,10 +43,6 @@
 | Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
 | Staff Software Engineer, Environments Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/11651/staff-software-engineer-environments-infrastructure/) |
 | Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-08 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
