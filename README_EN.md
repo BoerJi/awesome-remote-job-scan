@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Director, AI & Agent (Chatbot) | On-site | [View →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent-chatbot/) |
+| Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/17922/product-manager-elevencreative-self-serve/) |
 | MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/mlro-indonesia/) |
 | MLRO, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/14410/mlro-pakistan/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
@@ -40,9 +42,6 @@
 | Senior Manager, Global Physical Security Operations | On-site | [View →](https://www.remotejobscan.com/job/17914/senior-manager-global-physical-security-operations/) |
 | Big Data Development Engineer (Risk Control Direction) 大数据开发工程师（风控方向） | Remote | [View →](https://www.remotejobscan.com/job/17912/big-data-development-engineer-risk-control-direction/) |
 | Account Director, Cyber | On-site | [View →](https://www.remotejobscan.com/job/17913/account-director-cyber/) |
-| Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
-| Vendor Admin Lead | On-site | [View →](https://www.remotejobscan.com/job/17911/vendor-admin-lead/) |
-| Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
