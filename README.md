@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3031</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户关系专员、交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17937/client-engagement-specialist-trading-expert/) |
+| 产品构建师，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17938/product-builder-sales/) |
+| 影响力制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 | 高级合规与许可顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 交易API产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
@@ -38,9 +41,6 @@
 | 高级产品总监，AI与代理（聊天机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17921/senior-product-director-ai-agent-chatbot/) |
 | 产品经理（ElevenCreative 自服务） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17922/product-manager-elevencreative-self-serve/) |
 | 合规官及反洗钱举报专员，印度尼西亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14409/mlro-indonesia/) |
-| 巴基斯坦反洗钱合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14410/mlro-pakistan/) |
-| 巴西 VIP 关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
-| 价值策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17917/value-strategist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
