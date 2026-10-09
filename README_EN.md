@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3027</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
+| Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
+| Technical Accounting Lead, Ads Revenue | Hybrid | [View →](https://www.remotejobscan.com/job/17908/technical-accounting-lead-ads-revenue/) |
+| Data Scientist, FinEng | Hybrid | [View →](https://www.remotejobscan.com/job/17904/data-scientist-fineng/) |
+| Demo Studio Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17906/demo-studio-engineer/) |
+| Senior Engineering Manager | Remote | [View →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
+| Frontend Software Engineer, ChatGPT Space | Hybrid | [View →](https://www.remotejobscan.com/job/17905/frontend-software-engineer-chatgpt-space/) |
+| Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | Systems Architect | Remote | [View →](https://www.remotejobscan.com/job/17897/systems-architect/) |
 | Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
 | Sales Manager, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17896/sales-manager-cyber/) |
@@ -37,12 +43,6 @@
 | Sr. Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
 | Assistant General Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
 | Senior Analyst, Travel & Expense | On-site | [View →](https://www.remotejobscan.com/job/17890/senior-analyst-travel-expense/) |
-| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
-| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

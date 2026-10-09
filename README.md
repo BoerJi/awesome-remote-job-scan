@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3027</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球市场商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
+| 高级软件工程师，后端/全栈（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
+| 广告收入技术会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17908/technical-accounting-lead-ads-revenue/) |
+| 金融工程数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17904/data-scientist-fineng/) |
+| 演示工作室工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17906/demo-studio-engineer/) |
+| 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
+| 前端软件工程师，ChatGPT 空间 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17905/frontend-software-engineer-chatgpt-space/) |
 | 软件工程师，HSM基础设施安全，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
-| 商业法律顾问，全球市场 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | 系统架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17897/systems-architect/) |
 | 基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
 | 网络安全销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17896/sales-manager-cyber/) |
@@ -37,12 +43,6 @@
 | 高级法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
 | 助理总法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
 | 高级分析师，差旅与费用 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17890/senior-analyst-travel-expense/) |
-| 初创企业、绿地-客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| 高级身份风险与欺诈分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17888/customer-success-manager/) |
-| 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| 影响力制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
