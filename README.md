@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3032</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易API产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
+| 设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17932/design-engineer/) |
+| 全栈工程师（后端倾向）- Flows | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17930/fullstack-engineer-backend-leaning-flows/) |
+| 合规运营分析师（反洗钱-KYC与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
+| AI工程师，交易运营与管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17928/ai-engineer-trading-ops-management/) |
+| 全栈工程师（前端倾向）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17931/fullstack-engineer-frontend-leaning-studio/) |
 | 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | 国际业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-international-business/) |
@@ -35,14 +41,6 @@
 | 价值策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17917/value-strategist/) |
 | 信任与安全机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17916/machine-learning-engineer-trust-safety/) |
 | 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 产品经理，Claude | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17909/product-manager-claude/) |
-| 安全软件工程师，检测与响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-software-engineer-detection-response/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
-| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
-| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
-| IT运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
-| 增长产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17915/product-designer-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
