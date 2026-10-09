@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3029</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3028</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 供应商管理主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17911/vendor-admin-lead/) |
 | App 基础产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17909/product-manager-app-foundations/) |
 | 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 | 全球市场商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
@@ -42,7 +43,6 @@
 | Staff+ 软件工程师，可观测性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17893/staff-software-engineer-observability/) |
 | 治理、风险与合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
-| 高级法律顾问 - 劳动与雇佣 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
