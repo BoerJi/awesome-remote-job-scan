@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3025</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 全栈软件工程师，安全防护工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
+| 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
+| 合作伙伴战略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
+| 潜在客户生成策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17945/lead-generation-strategy-and-operations/) |
+| Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
+| 高级软件工程师 - React Native - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17940/senior-software-engineer-react-native-consumer/) |
+| 大客户总监，中市场 | 韩国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17943/account-director-mid-market-korea/) |
+| 数字原生客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17942/account-director-digital-natives/) |
+| 消费者技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | SPARC商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | 广告解决方案客户成功经理（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
@@ -33,14 +42,6 @@
 | 高级合规与许可顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 交易API产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
-| 设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17932/design-engineer/) |
-| 全栈工程师（后端倾向）- Flows | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17930/fullstack-engineer-backend-leaning-flows/) |
-| 合规运营分析师（反洗钱-KYC与交易监控） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| AI工程师，交易运营与管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17928/ai-engineer-trading-ops-management/) |
-| 全栈工程师（前端倾向）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17931/fullstack-engineer-frontend-leaning-studio/) |
-| 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| 国际业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-international-business/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

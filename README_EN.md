@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3025</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Fullstack Software Engineer, Safeguards Engineering | On-site | [View →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
+| Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
+| Partnerships Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
+| Lead Generation Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17945/lead-generation-strategy-and-operations/) |
+| Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
+| Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17940/senior-software-engineer-react-native-consumer/) |
+| Account Director, Mid-Market | Korea | Hybrid | [View →](https://www.remotejobscan.com/job/17943/account-director-mid-market-korea/) |
+| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/17942/account-director-digital-natives/) |
+| Staff Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | Customer Success Manager - Ads Solutions (Spanish speaking) | On-site | [View →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
@@ -33,14 +42,6 @@
 | Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Product Manager / Director, Trading API | On-site | [View →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
-| Design Engineer | On-site | [View →](https://www.remotejobscan.com/job/17932/design-engineer/) |
-| Fullstack Engineer (Backend Leaning) - Flows | Remote | [View →](https://www.remotejobscan.com/job/17930/fullstack-engineer-backend-leaning-flows/) |
-| Compliance Operations Analyst (AML – KYC & Transaction Monitoring) | Remote | [View →](https://www.remotejobscan.com/job/9089/compliance-operations-analyst-aml-kyc-transaction-monitoring/) |
-| AI Engineer, Trading Ops & Management | Hybrid | [View →](https://www.remotejobscan.com/job/17928/ai-engineer-trading-ops-management/) |
-| Fullstack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/17931/fullstack-engineer-frontend-leaning-studio/) |
-| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
-| Recruiter, International Business | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-international-business/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
