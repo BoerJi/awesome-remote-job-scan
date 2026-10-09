@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3026</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3028</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
+| Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
+| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
+| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
+| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
+| Staff+ Fullstack Software Engineer, Safeguards Engineering | On-site | [View →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
+| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Enterprise Sales Lead- Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
 | Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
 | Market Research Lead, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/17962/market-research-lead-chatgpt/) |
@@ -35,14 +43,6 @@
 | Data Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
 | Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
-| Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
-| Finance & Strategy, Deal Strategy - APAC | On-site | [View →](https://www.remotejobscan.com/job/17954/finance-strategy-deal-strategy-apac/) |
-| People Systems Manager, Workday | Hybrid | [View →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
-| Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
-| Head of Digital Natives & Startups, ANZ | On-site | [View →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
-| Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
-| Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
-| Partnerships Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
