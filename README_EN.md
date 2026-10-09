@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3028</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
+| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
+| Account Executive (Mid Market) | Hybrid | [View →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
+| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17970/conceptual-reasoning-fellow/) |
+| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| Commercial Account Executive (SF) | Hybrid | [View →](https://www.remotejobscan.com/job/11075/commercial-account-executive-sf/) |
+| Commercial Account Executive (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14014/commercial-account-executive-nyc/) |
+| Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
+| Deployed Engineer (Boston) | On-site | [View →](https://www.remotejobscan.com/job/11089/deployed-engineer-boston/) |
+| Deployed Engineer (NYC) | On-site | [View →](https://www.remotejobscan.com/job/11073/deployed-engineer-nyc/) |
+| Sales Development Representative (SF) | On-site | [View →](https://www.remotejobscan.com/job/17973/sales-development-representative-sf/) |
+| Software Engineer, API Agents | On-site | [View →](https://www.remotejobscan.com/job/17972/software-engineer-api-agents/) |
+| Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
+| Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/17971/infrastructure-engineer/) |
 | Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
 | Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 | Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| Staff+ Fullstack Software Engineer, Safeguards Engineering | On-site | [View →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
-| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Enterprise Sales Lead- Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
-| Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
-| Market Research Lead, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/17962/market-research-lead-chatgpt/) |
-| Senior Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/17964/senior-software-engineer-developer-experience/) |
-| Strategic Account Executive - Brazil | Remote | [View →](https://www.remotejobscan.com/job/17963/strategic-account-executive-brazil/) |
-| Sales Development Manager | On-site | [View →](https://www.remotejobscan.com/job/17961/sales-development-manager/) |
-| Podcast Media Manager | On-site | [View →](https://www.remotejobscan.com/job/17960/podcast-media-manager/) |
-| Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
-| Forward Deployed Engineer Intern (HR Technology) | Hybrid | [View →](https://www.remotejobscan.com/job/17958/forward-deployed-engineer-intern-hr-technology/) |
-| Data Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
-| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
-| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

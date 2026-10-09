@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3028</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3033</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
+| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
+| 客户经理（中市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
+| 概念推理研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17970/conceptual-reasoning-fellow/) |
+| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| 商业客户经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11075/commercial-account-executive-sf/) |
+| 商业客户经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14014/commercial-account-executive-nyc/) |
+| 联邦部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
+| 部署工程师（波士顿） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11089/deployed-engineer-boston/) |
+| 部署工程师 (纽约) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11073/deployed-engineer-nyc/) |
+| 销售发展代表（SF） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17973/sales-development-representative-sf/) |
+| 软件工程师，API代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17972/software-engineer-api-agents/) |
+| 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
+| 基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17971/infrastructure-engineer/) |
 | 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
 | 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 | 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
 | 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| Safeguards工程团队Staff+全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
-| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| 金融服务企业销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
-| 企业销售主管 - 医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
-| ChatGPT市场研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17962/market-research-lead-chatgpt/) |
-| 高级软件工程师，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17964/senior-software-engineer-developer-experience/) |
-| 巴西战略客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17963/strategic-account-executive-brazil/) |
-| 销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17961/sales-development-manager/) |
-| 播客媒体经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17960/podcast-media-manager/) |
-| 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
-| HR技术前沿部署工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17958/forward-deployed-engineer-intern-hr-technology/) |
-| 数据工程师，产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
-| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
-| 应用AI架构师，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
