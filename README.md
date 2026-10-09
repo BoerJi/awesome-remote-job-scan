@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3033</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3034</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| KOL业务发展（波兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
+| 国际业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-international-business/) |
 | 高级产品总监，AI与智能体（聊天机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent-chatbot/) |
 | 高级产品总监，AI与代理（聊天机器人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17921/senior-product-director-ai-agent-chatbot/) |
 | 产品经理（ElevenCreative 自服务） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17922/product-manager-elevencreative-self-serve/) |
@@ -40,9 +43,6 @@
 | IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | IT运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
 | 增长产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17915/product-designer-growth/) |
-| 全球实体安全运营高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17914/senior-manager-global-physical-security-operations/) |
-| Big Data Development Engineer (Risk Control Direction) 大数据开发工程师（风控方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17912/big-data-development-engineer-risk-control-direction/) |
-| 网络安全客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17913/account-director-cyber/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

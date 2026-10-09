@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3034</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
+| Recruiter, International Business | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-international-business/) |
 | Senior Product Director, AI & Agent (Chatbot) | On-site | [View →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent-chatbot/) |
 | Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/17922/product-manager-elevencreative-self-serve/) |
 | MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/mlro-indonesia/) |
@@ -39,9 +42,6 @@
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | IT Ops Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
 | Product Designer, Growth | On-site | [View →](https://www.remotejobscan.com/job/17915/product-designer-growth/) |
-| Senior Manager, Global Physical Security Operations | On-site | [View →](https://www.remotejobscan.com/job/17914/senior-manager-global-physical-security-operations/) |
-| Big Data Development Engineer (Risk Control Direction) 大数据开发工程师（风控方向） | Remote | [View →](https://www.remotejobscan.com/job/17912/big-data-development-engineer-risk-control-direction/) |
-| Account Director, Cyber | On-site | [View →](https://www.remotejobscan.com/job/17913/account-director-cyber/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
