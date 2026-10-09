@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3027</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3029</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, App Foundations | On-site | [View →](https://www.remotejobscan.com/job/17909/product-manager-app-foundations/) |
+| Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 | Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
 | Technical Accounting Lead, Ads Revenue | Hybrid | [View →](https://www.remotejobscan.com/job/17908/technical-accounting-lead-ads-revenue/) |
@@ -41,8 +43,6 @@
 | GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
 | Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
 | Sr. Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17892/sr-counsel-labor-employment/) |
-| Assistant General Counsel - Labor & Employment | Remote | [View →](https://www.remotejobscan.com/job/17891/assistant-general-counsel-labor-employment/) |
-| Senior Analyst, Travel & Expense | On-site | [View →](https://www.remotejobscan.com/job/17890/senior-analyst-travel-expense/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
