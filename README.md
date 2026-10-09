@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规与许可顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
+| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | 交易API产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
 | 设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17932/design-engineer/) |
 | 全栈工程师（后端倾向）- Flows | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17930/fullstack-engineer-backend-leaning-flows/) |
@@ -39,8 +41,6 @@
 | 巴基斯坦反洗钱合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14410/mlro-pakistan/) |
 | 巴西 VIP 关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | 价值策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17917/value-strategist/) |
-| 信任与安全机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17916/machine-learning-engineer-trust-safety/) |
-| 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
