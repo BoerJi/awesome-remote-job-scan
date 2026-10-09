@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3033</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 北美首席财务官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
+| 程序化客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
+| 战略与运营项目支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
 | 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | 客户经理（中市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
-| 概念推理研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17970/conceptual-reasoning-fellow/) |
 | 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 | 商业客户经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11075/commercial-account-executive-sf/) |
 | 商业客户经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14014/commercial-account-executive-nyc/) |
@@ -41,8 +43,6 @@
 | 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
-| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
-| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

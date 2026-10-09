@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Chief Financial Officer, North America | Hybrid | [View →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
+| Head of Programmatic Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
+| Strategy & Operations Programs, Support | On-site | [View →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
 | Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | Account Executive (Mid Market) | Hybrid | [View →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
-| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17970/conceptual-reasoning-fellow/) |
 | Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 | Commercial Account Executive (SF) | Hybrid | [View →](https://www.remotejobscan.com/job/11075/commercial-account-executive-sf/) |
 | Commercial Account Executive (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14014/commercial-account-executive-nyc/) |
@@ -41,8 +43,6 @@
 | Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
-| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
