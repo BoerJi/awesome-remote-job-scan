@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Workday人力资源系统经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
+| 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
+| 亚太数字原生与初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
+| 产品合作业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
 | Staff+ 全栈软件工程师，安全防护工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
 | 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
 | 合作伙伴战略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
@@ -38,10 +42,6 @@
 | 高级/资深安全工程师，检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17939/seniorstaff-security-engineer-detection-response/) |
 | 客户关系专员、交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17937/client-engagement-specialist-trading-expert/) |
 | 产品构建师，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17938/product-builder-sales/) |
-| 影响力制作人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17875/impact-producer/) |
-| 高级合规与许可顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
-| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| 交易API产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

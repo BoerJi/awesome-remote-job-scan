@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Systems Manager, Workday | Hybrid | [View →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
+| Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
+| Head of Digital Natives & Startups, ANZ | On-site | [View →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
+| Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
 | Staff+ Fullstack Software Engineer, Safeguards Engineering | On-site | [View →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
 | Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
 | Partnerships Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
@@ -38,10 +42,6 @@
 | Senior/Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17939/seniorstaff-security-engineer-detection-response/) |
 | Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/17937/client-engagement-specialist-trading-expert/) |
 | Product Builder, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/17938/product-builder-sales/) |
-| Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
-| Senior Counsel, Regulatory and Licensing | Remote | [View →](https://www.remotejobscan.com/job/15521/senior-counsel-regulatory-and-licensing/) |
-| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| Product Manager / Director, Trading API | On-site | [View →](https://www.remotejobscan.com/job/17824/product-manager-director-trading-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
