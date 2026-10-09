@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西 VIP 关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
+| 价值策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17917/value-strategist/) |
 | 信任与安全机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17916/machine-learning-engineer-trust-safety/) |
 | 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
@@ -41,8 +43,6 @@
 | 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 | 全球市场商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | 高级软件工程师，后端/全栈（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
-| 广告收入技术会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17908/technical-accounting-lead-ads-revenue/) |
-| 金融工程数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17904/data-scientist-fineng/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

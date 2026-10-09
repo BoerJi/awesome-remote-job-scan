@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
+| Value Strategist | Remote | [View →](https://www.remotejobscan.com/job/17917/value-strategist/) |
 | Machine Learning Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/17916/machine-learning-engineer-trust-safety/) |
 | Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
@@ -41,8 +43,6 @@
 | Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 | Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
-| Technical Accounting Lead, Ads Revenue | Hybrid | [View →](https://www.remotejobscan.com/job/17908/technical-accounting-lead-ads-revenue/) |
-| Data Scientist, FinEng | Hybrid | [View →](https://www.remotejobscan.com/job/17904/data-scientist-fineng/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
