@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Manager | On-site | [View →](https://www.remotejobscan.com/job/17961/sales-development-manager/) |
+| Podcast Media Manager | On-site | [View →](https://www.remotejobscan.com/job/17960/podcast-media-manager/) |
+| Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
+| Forward Deployed Engineer Intern (HR Technology) | Hybrid | [View →](https://www.remotejobscan.com/job/17958/forward-deployed-engineer-intern-hr-technology/) |
+| Data Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
 | Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
 | Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
@@ -37,11 +42,6 @@
 | Lead Generation Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17945/lead-generation-strategy-and-operations/) |
 | Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
 | Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17940/senior-software-engineer-react-native-consumer/) |
-| Account Director, Mid-Market | Korea | Hybrid | [View →](https://www.remotejobscan.com/job/17943/account-director-mid-market-korea/) |
-| Account Director, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/17942/account-director-digital-natives/) |
-| Staff Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
-| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
