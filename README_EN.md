@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3029</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Machine Learning Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/17916/machine-learning-engineer-trust-safety/) |
+| Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| Product Manager, Claude | On-site | [View →](https://www.remotejobscan.com/job/17909/product-manager-claude/) |
+| Security Software Engineer, Detection & Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-software-engineer-detection-response/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/17862/applied-ai-architect/) |
 | Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | IT Ops Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
@@ -37,12 +43,6 @@
 | Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
 | Technical Accounting Lead, Ads Revenue | Hybrid | [View →](https://www.remotejobscan.com/job/17908/technical-accounting-lead-ads-revenue/) |
 | Data Scientist, FinEng | Hybrid | [View →](https://www.remotejobscan.com/job/17904/data-scientist-fineng/) |
-| Demo Studio Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17906/demo-studio-engineer/) |
-| Senior Engineering Manager | Remote | [View →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
-| Frontend Software Engineer, ChatGPT Space | Hybrid | [View →](https://www.remotejobscan.com/job/17905/frontend-software-engineer-chatgpt-space/) |
-| Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
-| Systems Architect | Remote | [View →](https://www.remotejobscan.com/job/17897/systems-architect/) |
-| Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
