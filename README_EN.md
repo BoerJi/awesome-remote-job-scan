@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3026</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Sales Lead- Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
+| Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
+| Market Research Lead, ChatGPT | Hybrid | [View →](https://www.remotejobscan.com/job/17962/market-research-lead-chatgpt/) |
+| Senior Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/17964/senior-software-engineer-developer-experience/) |
+| Strategic Account Executive - Brazil | Remote | [View →](https://www.remotejobscan.com/job/17963/strategic-account-executive-brazil/) |
 | Sales Development Manager | On-site | [View →](https://www.remotejobscan.com/job/17961/sales-development-manager/) |
 | Podcast Media Manager | On-site | [View →](https://www.remotejobscan.com/job/17960/podcast-media-manager/) |
 | Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
@@ -36,12 +41,8 @@
 | Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
 | Head of Digital Natives & Startups, ANZ | On-site | [View →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
 | Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
-| Staff+ Fullstack Software Engineer, Safeguards Engineering | On-site | [View →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
 | Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
 | Partnerships Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
-| Lead Generation Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/17945/lead-generation-strategy-and-operations/) |
-| Payfi Product Manager Payfi 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
-| Senior Software Engineer - React Native - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17940/senior-software-engineer-react-native-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

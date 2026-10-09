@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3026</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融服务企业销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/enterprise-sales-lead-financial-services/) |
+| 企业销售主管 - 医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
+| ChatGPT市场研究主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17962/market-research-lead-chatgpt/) |
+| 高级软件工程师，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17964/senior-software-engineer-developer-experience/) |
+| 巴西战略客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17963/strategic-account-executive-brazil/) |
 | 销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17961/sales-development-manager/) |
 | 播客媒体经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17960/podcast-media-manager/) |
 | 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
@@ -36,12 +41,8 @@
 | 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
 | 亚太数字原生与初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
 | 产品合作业务发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16716/business-development-manager-product-partnerships/) |
-| Staff+ 全栈软件工程师，安全防护工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17944/staff-fullstack-software-engineer-safeguards-engineering/) |
 | 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17947/vertical-sales-strategy-and-operations/) |
 | 合作伙伴战略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17946/partnerships-strategy-operations/) |
-| 潜在客户生成策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17945/lead-generation-strategy-and-operations/) |
-| Payfi Product Manager Payfi 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13696/payfi-product-manager-payfi/) |
-| 高级软件工程师 - React Native - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17940/senior-software-engineer-react-native-consumer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
