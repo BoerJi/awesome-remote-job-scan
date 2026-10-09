@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3031</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/mlro-indonesia/) |
+| MLRO, Pakistan | Remote | [View →](https://www.remotejobscan.com/job/14410/mlro-pakistan/) |
 | Brazil VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/11809/brazil-vip-relationship-manager/) |
 | Value Strategist | Remote | [View →](https://www.remotejobscan.com/job/17917/value-strategist/) |
 | Machine Learning Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/17916/machine-learning-engineer-trust-safety/) |
@@ -41,8 +43,6 @@
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | Vendor Admin Lead | On-site | [View →](https://www.remotejobscan.com/job/17911/vendor-admin-lead/) |
 | Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
-| Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
-| Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
