@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3028</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Big Data Development Engineer (Risk Control Direction) 大数据开发工程师（风控方向） | Remote | [View →](https://www.remotejobscan.com/job/17912/big-data-development-engineer-risk-control-direction/) |
+| Account Director, Cyber | On-site | [View →](https://www.remotejobscan.com/job/17913/account-director-cyber/) |
+| Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | Vendor Admin Lead | On-site | [View →](https://www.remotejobscan.com/job/17911/vendor-admin-lead/) |
 | Product Manager, App Foundations | On-site | [View →](https://www.remotejobscan.com/job/17909/product-manager-app-foundations/) |
 | Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
@@ -40,9 +43,6 @@
 | Commercial Sales Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17895/commercial-sales-manager/) |
 | Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Enterprise Sales Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17894/enterprise-sales-manager/) |
-| Staff+ Software Engineer, Observability | On-site | [View →](https://www.remotejobscan.com/job/17893/staff-software-engineer-observability/) |
-| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9863/senior-software-engineer-ai-compute-together-cloud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
