@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3029</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
+| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
+| IT Ops Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
+| Product Designer, Growth | On-site | [View →](https://www.remotejobscan.com/job/17915/product-designer-growth/) |
+| Senior Manager, Global Physical Security Operations | On-site | [View →](https://www.remotejobscan.com/job/17914/senior-manager-global-physical-security-operations/) |
 | Big Data Development Engineer (Risk Control Direction) 大数据开发工程师（风控方向） | Remote | [View →](https://www.remotejobscan.com/job/17912/big-data-development-engineer-risk-control-direction/) |
 | Account Director, Cyber | On-site | [View →](https://www.remotejobscan.com/job/17913/account-director-cyber/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | Vendor Admin Lead | On-site | [View →](https://www.remotejobscan.com/job/17911/vendor-admin-lead/) |
-| Product Manager, App Foundations | On-site | [View →](https://www.remotejobscan.com/job/17909/product-manager-app-foundations/) |
 | Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 | Commercial Counsel, GTM | On-site | [View →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
@@ -39,10 +43,6 @@
 | Software Engineer, HSM Infrastructure Security, Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | Systems Architect | Remote | [View →](https://www.remotejobscan.com/job/17897/systems-architect/) |
 | Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
-| Sales Manager, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/17896/sales-manager-cyber/) |
-| Commercial Sales Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17895/commercial-sales-manager/) |
-| Software Engineer | On-site | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Enterprise Sales Manager | Hybrid | [View →](https://www.remotejobscan.com/job/17894/enterprise-sales-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

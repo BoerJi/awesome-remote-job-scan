@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3029</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17866/security-software-engineer-iam/) |
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
+| IT运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15786/it-ops-engineer/) |
+| 增长产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17915/product-designer-growth/) |
+| 全球实体安全运营高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17914/senior-manager-global-physical-security-operations/) |
 | Big Data Development Engineer (Risk Control Direction) 大数据开发工程师（风控方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17912/big-data-development-engineer-risk-control-direction/) |
 | 网络安全客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17913/account-director-cyber/) |
 | SPARC商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
 | 供应商管理主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17911/vendor-admin-lead/) |
-| App 基础产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17909/product-manager-app-foundations/) |
 | 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17910/engineering-manager-mobile/) |
 | 全球市场商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9370/commercial-counsel-gtm/) |
 | 高级软件工程师，后端/全栈（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
@@ -39,10 +43,6 @@
 | 软件工程师，HSM基础设施安全，消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17902/software-engineer-hsm-infrastructure-security-consumer-devices/) |
 | 系统架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17897/systems-architect/) |
 | 基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17898/infrastructure-engineer/) |
-| 网络安全销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17896/sales-manager-cyber/) |
-| 商业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17895/commercial-sales-manager/) |
-| 软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| 企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17894/enterprise-sales-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
