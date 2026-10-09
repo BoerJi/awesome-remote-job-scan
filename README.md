@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3032</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
+| 医疗保健企业销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
+| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| 高级技术支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
+| 部署工程师，专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
+| 部署工程师，专业服务（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
+| 部署工程师，专业服务（纽约） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
+| 部署架构师，专业服务（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
+| 部署架构师，专业服务（奥斯汀） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
+| 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
+| 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
+| 部署架构师，专业服务（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
+| 续约与拓展业务经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
+| 美国东部区续约与拓展业务客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
+| 容量规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9195/capacity-planning-lead/) |
 | 北美首席财务官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
 | 程序化客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
 | 战略与运营项目支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
 | 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| 客户经理（中市场） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
-| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| 商业客户经理（旧金山） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11075/commercial-account-executive-sf/) |
-| 商业客户经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14014/commercial-account-executive-nyc/) |
-| 联邦部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
-| 部署工程师（波士顿） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11089/deployed-engineer-boston/) |
-| 部署工程师 (纽约) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11073/deployed-engineer-nyc/) |
-| 销售发展代表（SF） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17973/sales-development-representative-sf/) |
-| 软件工程师，API代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17972/software-engineer-api-agents/) |
-| 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
-| 基础设施工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17971/infrastructure-engineer/) |
-| 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
-| 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
-| 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

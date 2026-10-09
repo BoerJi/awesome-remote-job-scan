@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
+| Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
+| Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
+| Senior Technical Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/11054/senior-technical-support-engineer/) |
+| Deployed Engineer, Professional Services | Remote | [View →](https://www.remotejobscan.com/job/14778/deployed-engineer-professional-services/) |
+| Deployed Engineer, Professional Services (San Francisco) | Hybrid | [View →](https://www.remotejobscan.com/job/16977/deployed-engineer-professional-services-san-francisco/) |
+| Deployed Engineer, Professional Services (NYC) | Hybrid | [View →](https://www.remotejobscan.com/job/14777/deployed-engineer-professional-services-nyc/) |
+| Deployed Architect, Professional Services (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14378/deployed-architect-professional-services-nyc/) |
+| Deployed Architect, Professional Services (Austin) | Remote | [View →](https://www.remotejobscan.com/job/14379/deployed-architect-professional-services-austin/) |
+| Deployed Architect, Professional Services (Dallas) | Remote | [View →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
+| Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
+| Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
+| Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
+| Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
+| Capacity Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9195/capacity-planning-lead/) |
 | Chief Financial Officer, North America | Hybrid | [View →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
 | Head of Programmatic Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
 | Strategy & Operations Programs, Support | On-site | [View →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
 | Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| Account Executive (Mid Market) | Hybrid | [View →](https://www.remotejobscan.com/job/14913/account-executive-mid-market/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| Commercial Account Executive (SF) | Hybrid | [View →](https://www.remotejobscan.com/job/11075/commercial-account-executive-sf/) |
-| Commercial Account Executive (NYC) | On-site | [View →](https://www.remotejobscan.com/job/14014/commercial-account-executive-nyc/) |
-| Deployed Engineer (Federal) | Remote | [View →](https://www.remotejobscan.com/job/14346/deployed-engineer-federal/) |
-| Deployed Engineer (Boston) | On-site | [View →](https://www.remotejobscan.com/job/11089/deployed-engineer-boston/) |
-| Deployed Engineer (NYC) | On-site | [View →](https://www.remotejobscan.com/job/11073/deployed-engineer-nyc/) |
-| Sales Development Representative (SF) | On-site | [View →](https://www.remotejobscan.com/job/17973/sales-development-representative-sf/) |
-| Software Engineer, API Agents | On-site | [View →](https://www.remotejobscan.com/job/17972/software-engineer-api-agents/) |
-| Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
-| Infrastructure Engineer | Remote | [View →](https://www.remotejobscan.com/job/17971/infrastructure-engineer/) |
-| Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
-| Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
-| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
