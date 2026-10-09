@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3022</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
+| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
+| Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
+| Finance & Strategy, Deal Strategy - APAC | On-site | [View →](https://www.remotejobscan.com/job/17954/finance-strategy-deal-strategy-apac/) |
 | People Systems Manager, Workday | Hybrid | [View →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
 | Partnerships Manager, US Public Health | On-site | [View →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
 | Head of Digital Natives & Startups, ANZ | On-site | [View →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
@@ -38,10 +42,6 @@
 | Staff Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
-| Customer Success Manager - Ads Solutions (Spanish speaking) | On-site | [View →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
-| Senior/Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17939/seniorstaff-security-engineer-detection-response/) |
-| Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/17937/client-engagement-specialist-trading-expert/) |
-| Product Builder, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/17938/product-builder-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

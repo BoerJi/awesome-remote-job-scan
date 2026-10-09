@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17540/recruiter-applied-ai/) |
+| 应用AI架构师，初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
+| 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
+| 财务与战略、亚太区交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17954/finance-strategy-deal-strategy-apac/) |
 | Workday人力资源系统经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
 | 美国公共卫生合作伙伴关系经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15967/partnerships-manager-us-public-health/) |
 | 亚太数字原生与初创企业负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17948/head-of-digital-natives-startups-anz/) |
@@ -38,10 +42,6 @@
 | 消费者技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | SPARC商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
-| 广告解决方案客户成功经理（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
-| 高级/资深安全工程师，检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17939/seniorstaff-security-engineer-detection-response/) |
-| 客户关系专员、交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17937/client-engagement-specialist-trading-expert/) |
-| 产品构建师，销售 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17938/product-builder-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-09 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
