@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3031</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel, SPARC | On-site | [View →](https://www.remotejobscan.com/job/9372/commercial-counsel-sparc/) |
+| Customer Success Manager - Ads Solutions (Spanish speaking) | On-site | [View →](https://www.remotejobscan.com/job/16902/customer-success-manager-ads-solutions-spanish-speaking/) |
+| Senior/Staff Security Engineer, Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/17939/seniorstaff-security-engineer-detection-response/) |
 | Client Engagement Specialist, Trading Expert | Remote | [View →](https://www.remotejobscan.com/job/17937/client-engagement-specialist-trading-expert/) |
 | Product Builder, Sales | Hybrid | [View →](https://www.remotejobscan.com/job/17938/product-builder-sales/) |
 | Impact Producer | On-site | [View →](https://www.remotejobscan.com/job/17875/impact-producer/) |
@@ -38,8 +41,6 @@
 | KOL Business Development (Poland) | Remote | [View →](https://www.remotejobscan.com/job/7304/kol-business-development-poland/) |
 | Recruiter, International Business | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-international-business/) |
 | Senior Product Director, AI & Agent (Chatbot) | On-site | [View →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent-chatbot/) |
-| Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/17922/product-manager-elevencreative-self-serve/) |
-| MLRO, Indonesia | Remote | [View →](https://www.remotejobscan.com/job/14409/mlro-indonesia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-09 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
