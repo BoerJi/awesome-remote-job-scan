@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3032</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3034</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理II，增长 - 通知 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
 | 概念推理研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
 | 企业客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
@@ -42,7 +43,6 @@
 | 部署架构师，专业服务（达拉斯） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14380/deployed-architect-professional-services-dallas/) |
 | 部署架构师，专业服务（远程） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 | 部署架构师，专业服务（旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
-| 续约与拓展业务经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-10 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-10 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
