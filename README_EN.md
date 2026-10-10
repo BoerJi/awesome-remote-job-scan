@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| Manager, Applied AI Engineering (Megas) | On-site | [View →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
 | Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
 | Enterprise Sales Lead - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
 | Sr. Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
@@ -41,8 +43,6 @@
 | Chief Financial Officer, North America | Hybrid | [View →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
 | Head of Programmatic Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
 | Strategy & Operations Programs, Support | On-site | [View →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
-| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

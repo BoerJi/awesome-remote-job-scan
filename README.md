@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3032</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
+| Megas应用人工智能工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
 | 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
 | 医疗保健企业销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
 | 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
@@ -41,8 +43,6 @@
 | 北美首席财务官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
 | 程序化客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
 | 战略与运营项目支持 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
-| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-10 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-10 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
