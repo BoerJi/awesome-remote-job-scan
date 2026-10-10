@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -40,9 +40,6 @@
 | 高级软件工程师，秘密管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
 | 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | Megas应用人工智能工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
-| 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
-| 医疗保健企业销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/enterprise-sales-lead-healthcare/) |
-| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/sr-manager-accounting-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-10 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-10 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
