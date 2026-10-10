@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3034</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
 | Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
 | Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
 | Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
@@ -42,7 +43,6 @@
 | Deployed Architect, Professional Services (Remote) | Remote | [View →](https://www.remotejobscan.com/job/14381/deployed-architect-professional-services-remote/) |
 | Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
 | Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
-| Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
