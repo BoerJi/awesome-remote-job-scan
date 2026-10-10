@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
+| Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
+| Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
+| Senior Software Engineer, Secrets Management | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | Manager, Applied AI Engineering (Megas) | On-site | [View →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
 | Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
@@ -39,10 +43,6 @@
 | Deployed Architect, Professional Services (San Francisco) | On-site | [View →](https://www.remotejobscan.com/job/14375/deployed-architect-professional-services-san-francisco/) |
 | Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 | Account Manager, Renewals & Expansion (East Coast) | On-site | [View →](https://www.remotejobscan.com/job/12867/account-manager-renewals-expansion-east-coast/) |
-| Capacity Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/9195/capacity-planning-lead/) |
-| Chief Financial Officer, North America | Hybrid | [View →](https://www.remotejobscan.com/job/17976/chief-financial-officer-north-america/) |
-| Head of Programmatic Customer Success | On-site | [View →](https://www.remotejobscan.com/job/17975/head-of-programmatic-customer-success/) |
-| Strategy & Operations Programs, Support | On-site | [View →](https://www.remotejobscan.com/job/10001/strategy-operations-programs-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
