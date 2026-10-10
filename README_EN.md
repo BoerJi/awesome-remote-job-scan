@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,7 +39,6 @@
 | Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
 | Senior Software Engineer, Secrets Management | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
 | Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| Manager, Applied AI Engineering (Megas) | On-site | [View →](https://www.remotejobscan.com/job/17677/manager-applied-ai-engineering-megas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-10 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
