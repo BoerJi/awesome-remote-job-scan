@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3034</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18004/research-engineer/) |
 | 部署架构师，专业服务（阿姆斯特丹） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
 | 部署架构师，专业服务（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
 | 亚太区专业服务部署架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-11 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-11 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

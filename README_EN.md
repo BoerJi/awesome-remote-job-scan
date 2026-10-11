@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3034</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/18004/research-engineer/) |
 | Deployed Architect, Professional Services (Amsterdam) | Remote | [View →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
 | Deployed Architect, Professional Services (London) | Remote | [View →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
 | Deployed Architect, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-11 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-11 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
