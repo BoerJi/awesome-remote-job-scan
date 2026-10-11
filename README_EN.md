@@ -19,20 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/18004/research-engineer/) |
-| Deployed Architect, Professional Services (Amsterdam) | Remote | [View →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
-| Deployed Architect, Professional Services (London) | Remote | [View →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
-| Deployed Architect, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
-| Deployed Engineer, Professional Services (APAC) | Remote | [View →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
-| Regional Demand Generation Marketer | On-site | [View →](https://www.remotejobscan.com/job/16114/regional-demand-generation-marketer/) |
-| EMEA Deal Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/11110/emea-deal-strategy-operations-lead/) |
-| Enterprise Account Executive (UK) | Remote | [View →](https://www.remotejobscan.com/job/11079/enterprise-account-executive-uk/) |
-| Enterprise Account Executive - Munich | Remote | [View →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
-| Enterprise Account Executive (Stockholm) | Remote | [View →](https://www.remotejobscan.com/job/11086/enterprise-account-executive-stockholm/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-11 16:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-11 17:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

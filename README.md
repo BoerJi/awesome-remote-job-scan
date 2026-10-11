@@ -19,20 +19,11 @@
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（1 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18004/research-engineer/) |
-| 部署架构师，专业服务（阿姆斯特丹） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14376/deployed-architect-professional-services-amsterdam/) |
-| 部署架构师，专业服务（伦敦） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14377/deployed-architect-professional-services-london/) |
-| 亚太区专业服务部署架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14382/deployed-architect-professional-services-apac/) |
-| 亚太区专业服务部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16275/deployed-engineer-professional-services-apac/) |
-| 区域需求生成营销师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16114/regional-demand-generation-marketer/) |
-| EMEA交易策略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11110/emea-deal-strategy-operations-lead/) |
-| 英国企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11079/enterprise-account-executive-uk/) |
-| 慕尼黑企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
-| 企业客户经理（斯德哥尔摩） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11086/enterprise-account-executive-stockholm/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-11 16:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-11 17:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
