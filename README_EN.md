@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Enterprise Account Executive - Munich | Remote | [View →](https://www.remotejobscan.com/job/11080/enterprise-account-executive-munich/) |
 | Enterprise Account Executive (Stockholm) | Remote | [View →](https://www.remotejobscan.com/job/11086/enterprise-account-executive-stockholm/) |
 | Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
-| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/16428/customer-success-manager-enterprise-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-11 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-11 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
