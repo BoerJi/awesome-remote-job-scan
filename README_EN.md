@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3031</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
 | Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
 | Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/18004/research-engineer/) |
@@ -88,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
