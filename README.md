@@ -14,15 +14,23 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3023</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
+| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
+| 高级性能视频创意 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18020/senior-performance-video-creative-consumer/) |
+| 高级绩效视频创意 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18021/senior-performance-video-creative-consumer/) |
+| CEE企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18019/enterprise-account-executive-cee/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 | 软件工程师，移动核心（合规） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
 | 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
 | 产品经理/总监，TradingView（增长与交易经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
@@ -33,13 +41,6 @@
 | 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
 | 产品营销 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18013/product-marketing-elevenapi/) |
 | 企业客户经理，能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18010/enterprise-account-executive-energy-utilities/) |
-| Senior AI Application Development Engineer (Risk Control AI Direction) 资深 AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/senior-ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
-| 增长营销经理- Reception.ai | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18009/growth-marketer-receptionai/) |
-| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| 高级执行官员，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
-| 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
-| 研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18004/research-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,15 +14,22 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3023</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | Remote | [View →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
+| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
+| Senior Performance Video Creative - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18020/senior-performance-video-creative-consumer/) |
+| Enterprise Account Executive - CEE | On-site | [View →](https://www.remotejobscan.com/job/18019/enterprise-account-executive-cee/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 | Software Engineer, Mobile Core (Compliance) | On-site | [View →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
 | Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
 | Product Manager / Director, TradingView (Growth & Trading Experience) | On-site | [View →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
@@ -33,13 +40,6 @@
 | Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
 | Product Marketing - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18013/product-marketing-elevenapi/) |
 | Enterprise Account Executive, Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/18010/enterprise-account-executive-energy-utilities/) |
-| Senior AI Application Development Engineer (Risk Control AI Direction) 资深 AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/senior-ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
-| Growth Marketer- Reception.ai | Remote | [View →](https://www.remotejobscan.com/job/18009/growth-marketer-receptionai/) |
-| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
-| Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
-| Options Front-end Trading Product Manager 期权前端交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15665/options-front-end-trading-product-manager/) |
-| Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/18004/research-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
