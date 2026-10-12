@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3028</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3029</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18040/global-events-lead/) |
+| 企业客户经理，银行 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18039/enterprise-account-executive-banking/) |
+| 数据工程师，计费与支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
 | 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
 | 高级软件工程师（机构，客户生命周期） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18036/senior-software-engineer-institutional-client-lifecycle/) |
 | Staff软件工程师，Claude科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
@@ -40,8 +43,6 @@
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
-| GFCO项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
-| 礼宾专员IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
