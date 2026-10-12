@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>2993</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3028</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 工程总监，资产与发行 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18035/director-of-engineering-assets-issuance/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
-| 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
-| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
-| 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
-| 高级企业工程师 - Salesforce平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18034/recruiting-coordinator/) |
-| 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18033/analyst-relations/) |
-| 广告解决方案 - 金融服务的客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18032/client-partner-ads-solutions-financial-services/) |
-| 增长基础软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18031/software-engineer-growth-foundations/) |
-| 产品与技术沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18030/product-technology-communications-manager/) |
-| 交易运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
-| 产品工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
-| 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18024/senior-smart-contract-engineer/) |
-| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-gtm/) |
-| IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18023/it-engineer/) |
-| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
+| 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
+| 高级软件工程师（机构，客户生命周期） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18036/senior-software-engineer-institutional-client-lifecycle/) |
+| Staff软件工程师，Claude科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
+| 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
+| 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
+| 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
+| 客户成功团队主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
+| 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
+| 支付风险分析师I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
+| 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
+| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
+| 机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
+| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
+| GFCO项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
+| 礼宾专员IV | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9198/concierge-specialist-iv/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
