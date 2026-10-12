@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>2993</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Engineering, Assets & Issuance | Remote | [View →](https://www.remotejobscan.com/job/18035/director-of-engineering-assets-issuance/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
+| Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
+| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
+| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
+| Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18034/recruiting-coordinator/) |
 | Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/18033/analyst-relations/) |
 | Client Partner, Ads Solutions - Financial Services | Hybrid | [View →](https://www.remotejobscan.com/job/18032/client-partner-ads-solutions-financial-services/) |
@@ -34,14 +42,6 @@
 | Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-gtm/) |
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/18023/it-engineer/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
-| Strategic Account Executive - UAE | Remote | [View →](https://www.remotejobscan.com/job/18022/strategic-account-executive-uae/) |
-| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | Remote | [View →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
-| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
-| Senior Performance Video Creative - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18020/senior-performance-video-creative-consumer/) |
-| Enterprise Account Executive - CEE | On-site | [View →](https://www.remotejobscan.com/job/18019/enterprise-account-executive-cee/) |
-| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
-| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
-| Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

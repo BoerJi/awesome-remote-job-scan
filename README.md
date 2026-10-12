@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>2993</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 工程总监，资产与发行 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18035/director-of-engineering-assets-issuance/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17153/it-support-engineer/) |
+| 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
+| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9259/senior-it-automation-engineer/) |
+| 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
+| 高级企业工程师 - Salesforce平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18034/recruiting-coordinator/) |
 | 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18033/analyst-relations/) |
 | 广告解决方案 - 金融服务的客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18032/client-partner-ads-solutions-financial-services/) |
@@ -34,15 +42,6 @@
 | GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-gtm/) |
 | IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18023/it-engineer/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
-| 战略客户总监 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18022/strategic-account-executive-uae/) |
-| Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
-| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
-| 高级性能视频创意 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18020/senior-performance-video-creative-consumer/) |
-| 高级绩效视频创意 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18021/senior-performance-video-creative-consumer/) |
-| CEE企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18019/enterprise-account-executive-cee/) |
-| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
-| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
-| Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
