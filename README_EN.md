@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3034</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
@@ -90,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
