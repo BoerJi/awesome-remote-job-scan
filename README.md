@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18034/recruiting-coordinator/) |
+| 分析师关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18033/analyst-relations/) |
+| 广告解决方案 - 金融服务的客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18032/client-partner-ads-solutions-financial-services/) |
+| 增长基础软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18031/software-engineer-growth-foundations/) |
 | 产品与技术沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18030/product-technology-communications-manager/) |
 | 交易运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
 | 产品工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
@@ -39,9 +43,6 @@
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Financial mechanism risk control expert 金融机制风控专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| 软件工程师，移动核心（合规） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
-| 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
-| 产品经理/总监，TradingView（增长与交易经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

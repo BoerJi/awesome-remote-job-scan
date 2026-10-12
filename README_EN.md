@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18034/recruiting-coordinator/) |
+| Analyst Relations | Remote | [View →](https://www.remotejobscan.com/job/18033/analyst-relations/) |
+| Client Partner, Ads Solutions - Financial Services | Hybrid | [View →](https://www.remotejobscan.com/job/18032/client-partner-ads-solutions-financial-services/) |
+| Software Engineer - Growth Foundations | Remote | [View →](https://www.remotejobscan.com/job/18031/software-engineer-growth-foundations/) |
 | Product & Technology Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/18030/product-technology-communications-manager/) |
 | Trading Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
 | Product Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
@@ -38,9 +42,6 @@
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Financial mechanism risk control expert 金融机制风控专家 | Remote | [View →](https://www.remotejobscan.com/job/15065/financial-mechanism-risk-control-expert/) |
-| Software Engineer, Mobile Core (Compliance) | On-site | [View →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
-| Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
-| Product Manager / Director, TradingView (Growth & Trading Experience) | On-site | [View →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
