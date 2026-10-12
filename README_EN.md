@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3034</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior AI Application Development Engineer (Risk Control AI Direction) 资深 AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/senior-ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
+| Growth Marketer- Reception.ai | Remote | [View →](https://www.remotejobscan.com/job/18009/growth-marketer-receptionai/) |
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
@@ -91,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
