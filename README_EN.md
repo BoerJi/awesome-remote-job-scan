@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3028</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets) | Remote | [View →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
+| Strategic Finance Lead - GTM | Hybrid | [View →](https://www.remotejobscan.com/job/18041/strategic-finance-lead-gtm/) |
 | Global Events Lead | Remote | [View →](https://www.remotejobscan.com/job/18040/global-events-lead/) |
 | Enterprise Account Executive, Banking | On-site | [View →](https://www.remotejobscan.com/job/18039/enterprise-account-executive-banking/) |
 | Data Engineer, Billing & Payments | On-site | [View →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
@@ -41,8 +43,6 @@
 | Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
 | Senior Analytics Engineer, GFCO Analytics | Remote | [View →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/16997/risk-monitoring-analyst-iii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
