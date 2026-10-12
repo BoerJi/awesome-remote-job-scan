@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3027</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product & Technology Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/18030/product-technology-communications-manager/) |
 | Trading Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
 | Product Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
 | Senior Smart Contract Engineer | Remote | [View →](https://www.remotejobscan.com/job/18024/senior-smart-contract-engineer/) |
@@ -40,7 +41,6 @@
 | Software Engineer, Mobile Core (Compliance) | On-site | [View →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
 | Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
 | Product Manager / Director, TradingView (Growth & Trading Experience) | On-site | [View →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
-| Legal Counsel (Commercial & Litigation), UK | Hybrid | [View →](https://www.remotejobscan.com/job/18016/legal-counsel-commercial-litigation-uk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

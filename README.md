@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3027</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品与技术沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18030/product-technology-communications-manager/) |
 | 交易运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
 | 产品工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
 | 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18024/senior-smart-contract-engineer/) |
@@ -41,7 +42,6 @@
 | 软件工程师，移动核心（合规） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
 | 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
 | 产品经理/总监，TradingView（增长与交易经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
-| 英国商业与诉讼法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18016/legal-counsel-commercial-litigation-uk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
