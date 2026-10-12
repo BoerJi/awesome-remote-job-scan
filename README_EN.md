@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3025</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/18023/it-engineer/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
 | Strategic Account Executive - UAE | Remote | [View →](https://www.remotejobscan.com/job/18022/strategic-account-executive-uae/) |
 | Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | Remote | [View →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
@@ -39,7 +40,6 @@
 | Product Manager / Director, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-ai-trading/) |
 | AI Safety Engineer (Data) | Hybrid | [View →](https://www.remotejobscan.com/job/15148/ai-safety-engineer-data/) |
 | Partner Manager - Public Sector Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18012/partner-manager-public-sector-partnerships/) |
-| Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
