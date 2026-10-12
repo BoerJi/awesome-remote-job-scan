@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3022</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3024</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
+| 战略客户总监 - 阿联酋 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18022/strategic-account-executive-uae/) |
 | Business Risk Control Testing Expert 业务风控测试专家（交易 & 金融安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17240/business-risk-control-testing-expert/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17330/senior-testing-development-expert-ai/) |
 | 高级性能视频创意 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18020/senior-performance-video-creative-consumer/) |
@@ -39,8 +41,6 @@
 | AI安全工程师（数据） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15148/ai-safety-engineer-data/) |
 | 公共部门合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18012/partner-manager-public-sector-partnerships/) |
 | 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
-| 产品营销 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18013/product-marketing-elevenapi/) |
-| 企业客户经理，能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18010/enterprise-account-executive-energy-utilities/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
