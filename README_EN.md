@@ -19,10 +19,14 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Manager - Public Sector Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18012/partner-manager-public-sector-partnerships/) |
+| Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
+| Product Marketing - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18013/product-marketing-elevenapi/) |
+| Enterprise Account Executive, Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/18010/enterprise-account-executive-energy-utilities/) |
 | Senior AI Application Development Engineer (Risk Control AI Direction) 资深 AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/senior-ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | Growth Marketer- Reception.ai | Remote | [View →](https://www.remotejobscan.com/job/18009/growth-marketer-receptionai/) |
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
@@ -93,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
