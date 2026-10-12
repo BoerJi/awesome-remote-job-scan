@@ -14,22 +14,27 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Mobile Core (Compliance) | On-site | [View →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
+| Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
+| Product Manager / Director, TradingView (Growth & Trading Experience) | On-site | [View →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
+| Legal Counsel (Commercial & Litigation), UK | Hybrid | [View →](https://www.remotejobscan.com/job/18016/legal-counsel-commercial-litigation-uk/) |
+| Product Manager / Director, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-ai-trading/) |
+| AI Safety Engineer (Data) | Hybrid | [View →](https://www.remotejobscan.com/job/15148/ai-safety-engineer-data/) |
 | Partner Manager - Public Sector Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18012/partner-manager-public-sector-partnerships/) |
 | Paid Media Manager | Remote | [View →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
 | Product Marketing - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18013/product-marketing-elevenapi/) |
 | Enterprise Account Executive, Energy & Utilities | On-site | [View →](https://www.remotejobscan.com/job/18010/enterprise-account-executive-energy-utilities/) |
 | Senior AI Application Development Engineer (Risk Control AI Direction) 资深 AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/senior-ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | Growth Marketer- Reception.ai | Remote | [View →](https://www.remotejobscan.com/job/18009/growth-marketer-receptionai/) |
-| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
@@ -97,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

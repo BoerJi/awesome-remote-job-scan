@@ -14,22 +14,27 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（19 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，移动核心（合规） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18017/software-engineer-mobile-core-compliance/) |
+| 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
+| 产品经理/总监，TradingView（增长与交易经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
+| 英国商业与诉讼法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18016/legal-counsel-commercial-litigation-uk/) |
+| AI交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6605/product-manager-director-ai-trading/) |
+| AI安全工程师（数据） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15148/ai-safety-engineer-data/) |
 | 公共部门合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18012/partner-manager-public-sector-partnerships/) |
 | 付费媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18011/paid-media-manager/) |
 | 产品营销 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18013/product-marketing-elevenapi/) |
 | 企业客户经理，能源与公用事业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18010/enterprise-account-executive-energy-utilities/) |
 | Senior AI Application Development Engineer (Risk Control AI Direction) 资深 AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/senior-ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | 增长营销经理- Reception.ai | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18009/growth-marketer-receptionai/) |
-| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | 高级执行官员，ADGM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
@@ -97,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
