@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
+| 产品工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
+| 高级智能合约工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18024/senior-smart-contract-engineer/) |
 | GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-gtm/) |
 | IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18023/it-engineer/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
@@ -39,8 +42,6 @@
 | 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
 | 产品经理/总监，TradingView（增长与交易经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
 | 英国商业与诉讼法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18016/legal-counsel-commercial-litigation-uk/) |
-| AI交易产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6605/product-manager-director-ai-trading/) |
-| AI安全工程师（数据） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15148/ai-safety-engineer-data/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-12 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

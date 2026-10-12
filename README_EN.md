@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Trading Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18025/trading-operations-lead/) |
+| Product Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18026/product-engineer-elevencreative-enterprise/) |
+| Senior Smart Contract Engineer | Remote | [View →](https://www.remotejobscan.com/job/18024/senior-smart-contract-engineer/) |
 | Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-gtm/) |
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/18023/it-engineer/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/17247/specialist-legal-response/) |
@@ -38,8 +41,6 @@
 | Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
 | Product Manager / Director, TradingView (Growth & Trading Experience) | On-site | [View →](https://www.remotejobscan.com/job/18014/product-manager-director-tradingview-growth-trading-experience/) |
 | Legal Counsel (Commercial & Litigation), UK | Hybrid | [View →](https://www.remotejobscan.com/job/18016/legal-counsel-commercial-litigation-uk/) |
-| Product Manager / Director, AI Trading | On-site | [View →](https://www.remotejobscan.com/job/6605/product-manager-director-ai-trading/) |
-| AI Safety Engineer (Data) | Hybrid | [View →](https://www.remotejobscan.com/job/15148/ai-safety-engineer-data/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-12 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
