@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3029</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3031</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 高级软件工程师，稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12118/senior-software-engineer-stablecoins/) |
-| 高级软件工程师，后端 - 平台（代币与包装资产） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11833/senior-software-engineer-backend-platform-tokens-wrapped-assets/) |
-| GTM战略财务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18041/strategic-finance-lead-gtm/) |
-| 全球活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18040/global-events-lead/) |
-| 企业客户经理，银行 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18039/enterprise-account-executive-banking/) |
-| 数据工程师，计费与支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
-| 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
-| 高级软件工程师（机构，客户生命周期） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18036/senior-software-engineer-institutional-client-lifecycle/) |
-| Staff软件工程师，Claude科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15491/staff-software-engineer-claude-science/) |
 | 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| 战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/manager-strategic-programs/) |
+| 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
 | 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| 客户成功团队主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11626/supervisor-customer-success-team/) |
-| 合规代理体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| 支付风险分析师I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15884/payments-risk-analyst-i/) |
+| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
+| 合规代理体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 | 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
 | 机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
 | 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
-| 高级分析工程师，GFCO分析团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9191/senior-analytics-engineer-gfco-analytics/) |
+| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
+| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
+| 高级企业工程师 - Salesforce平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
+| 高级软件工程师 (EAA) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
+| EAA CX 资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
+| 产品工程师 - 广告引擎 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18048/product-engineer-ads-engine/) |
+| 产品与技术沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18047/product-technical-communications/) |
+| 雇佣法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18046/employment-counsel/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
