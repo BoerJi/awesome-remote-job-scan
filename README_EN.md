@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect (Brazil) | Hybrid | [View →](https://www.remotejobscan.com/job/18077/applied-ai-architect-brazil/) |
+| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/18076/customer-success-manager-dach/) |
+| Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18073/customer-support-specialist/) |
+| Full-Stack Engineer - Productions | Remote | [View →](https://www.remotejobscan.com/job/18074/full-stack-engineer-productions/) |
+| Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18075/full-stack-engineer-elevenmusic/) |
+| Senior Staff Software Engineer, Platform - IAM | Remote | [View →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
+| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| Group Product Manager, Core Infrastructure & Reliability | Remote | [View →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
 | Director, Legal Operations | Remote | [View →](https://www.remotejobscan.com/job/18071/director-legal-operations/) |
 | Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 | Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18070/private-equity-partnerships/) |
@@ -35,14 +43,6 @@
 | Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18063/mobile-engineer-elevenmusic/) |
 | Full-Stack Engineer (Frontend-Leaning) - CreativeMusic | Remote | [View →](https://www.remotejobscan.com/job/18061/full-stack-engineer-frontend-leaning-creativemusic/) |
-| Full-Stack Engineer (Backend-Leaning) - CoreMusic | Remote | [View →](https://www.remotejobscan.com/job/18062/full-stack-engineer-backend-leaning-coremusic/) |
-| Forward Deployed Engineer, Agentic Platform (Korea) | Remote | [View →](https://www.remotejobscan.com/job/18064/forward-deployed-engineer-agentic-platform-korea/) |
-| Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
-| Senior Mobile Engineer (React Native) | Remote | [View →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
-| Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/11771/design-engineer/) |
-| Customer Support Lead | Remote | [View →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
-| Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
-| Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

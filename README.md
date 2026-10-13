@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3033</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3014</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师（巴西） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18077/applied-ai-architect-brazil/) |
+| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18076/customer-success-manager-dach/) |
+| 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18073/customer-support-specialist/) |
+| 全栈工程师 - 生产部门 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18074/full-stack-engineer-productions/) |
+| 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18075/full-stack-engineer-elevenmusic/) |
+| 高级平台软件工程师 - IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
+| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| 核心基础设施与可靠性群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
 | 法务运营总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18071/director-legal-operations/) |
 | 高级工程经理，核心AI自动化（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
 | 私募股权合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18070/private-equity-partnerships/) |
@@ -35,14 +43,6 @@
 | 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18063/mobile-engineer-elevenmusic/) |
 | 全栈工程师（前端倾向）- CreativeMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18061/full-stack-engineer-frontend-leaning-creativemusic/) |
-| 全栈工程师（后端倾向）- CoreMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18062/full-stack-engineer-backend-leaning-coremusic/) |
-| 韩国代理平台前部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18064/forward-deployed-engineer-agentic-platform-korea/) |
-| 加入我们的工程人才网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
-| 高级移动工程师 (React Native) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
-| 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11771/design-engineer/) |
-| 客户支持主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
-| 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
-| 高级产品经理 - 交易增长（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
