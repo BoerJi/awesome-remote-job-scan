@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3027</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3025</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Intern (5-day; 6-month; Full Time) | Remote | [View →](https://www.remotejobscan.com/job/15224/legal-intern-5-day-6-month-full-time/) |
 | Product Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/product-engineer-elevenapi/) |
 | Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18054/enterprise-solutions-engineer-singapore/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
@@ -42,7 +43,6 @@
 | Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

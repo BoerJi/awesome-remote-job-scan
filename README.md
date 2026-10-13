@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3027</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3025</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法务实习生（5天/6个月/全职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15224/legal-intern-5-day-6-month-full-time/) |
 | 产品工程师 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18055/product-engineer-elevenapi/) |
 | 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18054/enterprise-solutions-engineer-singapore/) |
 | 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
@@ -42,7 +43,6 @@
 | 企业应用高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
