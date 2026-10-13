@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3032</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/18066/applied-ai-engineer/) |
+| Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18065/senior-customer-support-engineer/) |
 | IT Systems Engineer, M&A | Remote | [View →](https://www.remotejobscan.com/job/18060/it-systems-engineer-ma/) |
 | Full-Stack Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/full-stack-engineer-elevenapi/) |
 | Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
@@ -41,8 +43,6 @@
 | Software Engineer, Observability & Profiling | On-site | [View →](https://www.remotejobscan.com/job/15245/software-engineer-observability-profiling/) |
 | IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/18057/it-manager-bitget-eu/) |
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
-| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
