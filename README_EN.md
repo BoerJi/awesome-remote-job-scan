@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3030</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Systems Engineer, M&A | Remote | [View →](https://www.remotejobscan.com/job/18060/it-systems-engineer-ma/) |
+| Full-Stack Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/full-stack-engineer-elevenapi/) |
+| Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
+| Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18063/mobile-engineer-elevenmusic/) |
+| Full-Stack Engineer (Frontend-Leaning) - CreativeMusic | Remote | [View →](https://www.remotejobscan.com/job/18061/full-stack-engineer-frontend-leaning-creativemusic/) |
+| Full-Stack Engineer (Backend-Leaning) - CoreMusic | Remote | [View →](https://www.remotejobscan.com/job/18062/full-stack-engineer-backend-leaning-coremusic/) |
+| Forward Deployed Engineer, Agentic Platform (Korea) | Remote | [View →](https://www.remotejobscan.com/job/18064/forward-deployed-engineer-agentic-platform-korea/) |
+| Join Our Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
+| Senior Mobile Engineer (React Native) | Remote | [View →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
+| Design Engineer | Remote | [View →](https://www.remotejobscan.com/job/11771/design-engineer/) |
+| Customer Support Lead | Remote | [View →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
+| Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
+| Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
+| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | Sr. Web Designer - Growth Foundations | Remote | [View →](https://www.remotejobscan.com/job/18058/sr-web-designer-growth-foundations/) |
 | Software Engineer, Observability & Profiling | On-site | [View →](https://www.remotejobscan.com/job/15245/software-engineer-observability-profiling/) |
 | IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/18057/it-manager-bitget-eu/) |
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
-| Legal Intern (5-day; 6-month; Full Time) | Remote | [View →](https://www.remotejobscan.com/job/15224/legal-intern-5-day-6-month-full-time/) |
-| Product Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/product-engineer-elevenapi/) |
-| Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18054/enterprise-solutions-engineer-singapore/) |
-| Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| Senior Manager, Token Listing | On-site | [View →](https://www.remotejobscan.com/job/16872/senior-manager-token-listing/) |
-| Commercial Counsel-Infrastructure and GTM | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
-| Manager, Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18050/manager-applied-ai-architect/) |
-| Regulatory Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
-| Senior Engineering Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
-| Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
-| Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

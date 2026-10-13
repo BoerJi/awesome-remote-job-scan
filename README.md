@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3020</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT系统工程师，并购 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18060/it-systems-engineer-ma/) |
+| 全栈工程师 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18055/full-stack-engineer-elevenapi/) |
+| 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
+| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18063/mobile-engineer-elevenmusic/) |
+| 全栈工程师（前端倾向）- CreativeMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18061/full-stack-engineer-frontend-leaning-creativemusic/) |
+| 全栈工程师（后端倾向）- CoreMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18062/full-stack-engineer-backend-leaning-coremusic/) |
+| 韩国代理平台前部署工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18064/forward-deployed-engineer-agentic-platform-korea/) |
+| 加入我们的工程人才网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8855/join-our-engineering-talent-network/) |
+| 高级移动工程师 (React Native) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11772/senior-mobile-engineer-react-native/) |
+| 设计工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11771/design-engineer/) |
+| 客户支持主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
+| 高级产品经理 - 数据平台（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
+| 高级产品经理 - 交易增长（Web3） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
+| 首席AI工程师（LLM与智能体） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
 | 高级网页设计师 - 增长基础 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18058/sr-web-designer-growth-foundations/) |
 | 软件工程师，可观察性与性能分析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15245/software-engineer-observability-profiling/) |
 | IT经理（Bitget EU） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18057/it-manager-bitget-eu/) |
 | 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
-| 法务实习生（5天/6个月/全职） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15224/legal-intern-5-day-6-month-full-time/) |
-| 产品工程师 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18055/product-engineer-elevenapi/) |
-| 企业解决方案工程师 - 新加坡 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18054/enterprise-solutions-engineer-singapore/) |
-| 人才获取合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
-| 高级经理，代币上市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16872/senior-manager-token-listing/) |
-| 基础设施与GTM商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
-| 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18050/manager-applied-ai-architect/) |
-| 合规专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
-| AI基础架构高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
-| 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
-| 软件工程师，EAA | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
-| 高级系统分析师，金融，企业应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
