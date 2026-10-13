@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/18101/hr-business-partner/) |
+| Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
+| Data Program Manager, Science | Hybrid | [View →](https://www.remotejobscan.com/job/18100/data-program-manager-science/) |
+| Software Engineer II - Rust - Pro | Remote | [View →](https://www.remotejobscan.com/job/18099/software-engineer-ii-rust-pro/) |
 | Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | Partner Marketing Lead, Resellers | On-site | [View →](https://www.remotejobscan.com/job/18098/partner-marketing-lead-resellers/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
@@ -39,10 +43,6 @@
 | Compensation Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
 | Senior Blockchain Engineer, Moonshot | Hybrid | [View →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
 | Senior Software Engineer, Data Services | Hybrid | [View →](https://www.remotejobscan.com/job/18086/senior-software-engineer-data-services/) |
-| Senior Data Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18085/senior-data-engineer/) |
-| Senior Business Systems Analyst, Finance Systems | On-site | [View →](https://www.remotejobscan.com/job/18084/senior-business-systems-analyst-finance-systems/) |
-| Counsel, Employment | Remote | [View →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
-| Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
