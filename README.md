@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初创企业绿色田野客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| 渠道营销负责人，经销商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18098/partner-marketing-lead-resellers/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
 | 财务系统负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18097/finance-systems-lead/) |
 | 基础设施通信主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18095/infrastructure-communications-lead/) |
@@ -41,8 +43,6 @@
 | 高级业务系统分析师，财务系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18084/senior-business-systems-analyst-finance-systems/) |
 | 就业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
 | 高级企业安全助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
-| 首席行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
-| 增长机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

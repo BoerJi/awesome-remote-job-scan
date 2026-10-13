@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| Partner Marketing Lead, Resellers | On-site | [View →](https://www.remotejobscan.com/job/18098/partner-marketing-lead-resellers/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
 | Finance Systems Lead | On-site | [View →](https://www.remotejobscan.com/job/18097/finance-systems-lead/) |
 | Infrastructure Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18095/infrastructure-communications-lead/) |
@@ -41,8 +43,6 @@
 | Senior Business Systems Analyst, Finance Systems | On-site | [View →](https://www.remotejobscan.com/job/18084/senior-business-systems-analyst-finance-systems/) |
 | Counsel, Employment | Remote | [View →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
 | Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
-| Chief of Staff | Hybrid | [View →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
-| Machine Learning Engineer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
