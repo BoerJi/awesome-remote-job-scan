@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3029</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3027</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/product-engineer-elevenapi/) |
 | Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18054/enterprise-solutions-engineer-singapore/) |
 | Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17638/talent-acquisition-partner/) |
 | Senior Manager, Token Listing | On-site | [View →](https://www.remotejobscan.com/job/16872/senior-manager-token-listing/) |
@@ -42,7 +43,6 @@
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
