@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3010</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
+| Finance Systems Lead | On-site | [View →](https://www.remotejobscan.com/job/18097/finance-systems-lead/) |
+| Infrastructure Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18095/infrastructure-communications-lead/) |
+| Software Engineer, Cloud Computer | Hybrid | [View →](https://www.remotejobscan.com/job/18092/software-engineer-cloud-computer/) |
+| FP&A Lead | On-site | [View →](https://www.remotejobscan.com/job/18094/fpa-lead/) |
+| Machine Learning Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/18091/machine-learning-engineer-implicit-signals/) |
+| Activation Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
+| Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
+| Strategic Delivery Lead, Critical Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18093/strategic-delivery-lead-critical-infrastructure/) |
+| Manager, SEC Reporting | Remote | [View →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
 | Equity Administrator | On-site | [View →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
 | Compensation Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
 | Senior Blockchain Engineer, Moonshot | Hybrid | [View →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
@@ -33,16 +43,6 @@
 | Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
 | Chief of Staff | Hybrid | [View →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
 | Machine Learning Engineer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
-| AI Deployment Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18080/ai-deployment-manager/) |
-| Clean Energy and New Technology Lead | Remote | [View →](https://www.remotejobscan.com/job/18079/clean-energy-and-new-technology-lead/) |
-| Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/18078/senior-software-engineer-backend-retail-dex/) |
-| Applied AI Architect (Brazil) | Hybrid | [View →](https://www.remotejobscan.com/job/18077/applied-ai-architect-brazil/) |
-| Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/18076/customer-success-manager-dach/) |
-| Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18073/customer-support-specialist/) |
-| Full-Stack Engineer - Productions | Remote | [View →](https://www.remotejobscan.com/job/18074/full-stack-engineer-productions/) |
-| Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18075/full-stack-engineer-elevenmusic/) |
-| Senior Staff Software Engineer, Platform - IAM | Remote | [View →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
-| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

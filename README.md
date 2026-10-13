@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3010</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
+| 财务系统负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18097/finance-systems-lead/) |
+| 基础设施通信主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18095/infrastructure-communications-lead/) |
+| 云计算机软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18092/software-engineer-cloud-computer/) |
+| 财务规划与分析主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18094/fpa-lead/) |
+| 隐式信号机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18091/machine-learning-engineer-implicit-signals/) |
+| 激活经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
+| 企业技术应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
+| 关键基础设施战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18093/strategic-delivery-lead-critical-infrastructure/) |
+| SEC报告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
 | 股权管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
 | 薪酬运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
 | 高级区块链工程师，Moonshot | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
@@ -33,16 +43,6 @@
 | 高级企业安全助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
 | 首席行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
 | 增长机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
-| AI部署经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18080/ai-deployment-manager/) |
-| 清洁能源与新技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18079/clean-energy-and-new-technology-lead/) |
-| 高级软件工程师，后端（零售DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18078/senior-software-engineer-backend-retail-dex/) |
-| 应用AI架构师（巴西） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18077/applied-ai-architect-brazil/) |
-| DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18076/customer-success-manager-dach/) |
-| 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18073/customer-support-specialist/) |
-| 全栈工程师 - 生产部门 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18074/full-stack-engineer-productions/) |
-| 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18075/full-stack-engineer-elevenmusic/) |
-| 高级平台软件工程师 - IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
-| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
