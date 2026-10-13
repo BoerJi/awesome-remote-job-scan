@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3028</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3027</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel-Infrastructure and GTM | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
+| Manager, Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18050/manager-applied-ai-architect/) |
 | Regulatory Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
 | Senior Engineering Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
 | Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
@@ -41,8 +43,6 @@
 | Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
 | Senior Software Engineer (EAA) | Remote | [View →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
-| Staff Software Engineer, EAA CX | Remote | [View →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
-| Product Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/18048/product-engineer-ads-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
