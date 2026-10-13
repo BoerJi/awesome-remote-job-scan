@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3018</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Support Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18108/support-specialist/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| Finance Systems Analyst, Tax | On-site | [View →](https://www.remotejobscan.com/job/12227/finance-systems-analyst-tax/) |
+| Procurement Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/18106/procurement-coordinator/) |
 | Internal Communications Manager: GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-manager-gtm/) |
 | Global Head of Education GTM | Hybrid | [View →](https://www.remotejobscan.com/job/18104/global-head-of-education-gtm/) |
 | HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/18101/hr-business-partner/) |
@@ -39,10 +43,6 @@
 | Machine Learning Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/18091/machine-learning-engineer-implicit-signals/) |
 | Activation Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
 | Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
-| Strategic Delivery Lead, Critical Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18093/strategic-delivery-lead-critical-infrastructure/) |
-| Manager, SEC Reporting | Remote | [View →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
-| Equity Administrator | On-site | [View →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
-| Compensation Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3018</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支持专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18108/support-specialist/) |
+| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| 税务财务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12227/finance-systems-analyst-tax/) |
+| 采购协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18106/procurement-coordinator/) |
 | 内部沟通经理：市场拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-manager-gtm/) |
 | 全球教育GTM负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18104/global-head-of-education-gtm/) |
 | 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18101/hr-business-partner/) |
@@ -39,10 +43,6 @@
 | 隐式信号机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18091/machine-learning-engineer-implicit-signals/) |
 | 激活经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
 | 企业技术应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
-| 关键基础设施战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18093/strategic-delivery-lead-critical-infrastructure/) |
-| SEC报告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
-| 股权管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
-| 薪酬运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
