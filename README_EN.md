@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3031</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3033</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Legal Operations | Remote | [View →](https://www.remotejobscan.com/job/18071/director-legal-operations/) |
+| Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
+| Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18070/private-equity-partnerships/) |
+| Staff Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18068/staff-software-engineer-inference/) |
+| Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18067/senior-software-engineer-inference/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/18066/applied-ai-engineer/) |
 | Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18065/senior-customer-support-engineer/) |
 | IT Systems Engineer, M&A | Remote | [View →](https://www.remotejobscan.com/job/18060/it-systems-engineer-ma/) |
@@ -38,11 +43,6 @@
 | Customer Support Lead | Remote | [View →](https://www.remotejobscan.com/job/15998/customer-support-lead/) |
 | Senior Product Manager - Data Platform (Web3) | Remote | [View →](https://www.remotejobscan.com/job/16453/senior-product-manager-data-platform-web3/) |
 | Senior Product Manager - Trading Growth (Web3) | Remote | [View →](https://www.remotejobscan.com/job/17346/senior-product-manager-trading-growth-web3/) |
-| Lead AI Engineer (LLM & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/lead-ai-engineer-llm-agents/) |
-| Sr. Web Designer - Growth Foundations | Remote | [View →](https://www.remotejobscan.com/job/18058/sr-web-designer-growth-foundations/) |
-| Software Engineer, Observability & Profiling | On-site | [View →](https://www.remotejobscan.com/job/15245/software-engineer-observability-profiling/) |
-| IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/18057/it-manager-bitget-eu/) |
-| Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
