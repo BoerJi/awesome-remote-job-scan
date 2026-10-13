@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
+| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
+| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
 | Legal Intern (5-day; 6-month; Full Time) | Remote | [View →](https://www.remotejobscan.com/job/15224/legal-intern-5-day-6-month-full-time/) |
 | Product Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/product-engineer-elevenapi/) |
 | Enterprise Solutions Engineer - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18054/enterprise-solutions-engineer-singapore/) |
@@ -39,10 +43,6 @@
 | Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 | Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Staff Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/15001/staff-software-engineer-enterprise-apps/) |
-| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
