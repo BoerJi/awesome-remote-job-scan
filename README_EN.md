@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Web Designer - Growth Foundations | Remote | [View →](https://www.remotejobscan.com/job/18058/sr-web-designer-growth-foundations/) |
+| Software Engineer, Observability & Profiling | On-site | [View →](https://www.remotejobscan.com/job/15245/software-engineer-observability-profiling/) |
+| IT Manager (Bitget EU) | Remote | [View →](https://www.remotejobscan.com/job/18057/it-manager-bitget-eu/) |
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 | Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
@@ -40,9 +43,6 @@
 | Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
 | Software Engineer, EAA | Remote | [View →](https://www.remotejobscan.com/job/11907/software-engineer-eaa/) |
 | Sr. Systems Analyst, Finance, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/14483/sr-systems-analyst-finance-enterprise-apps/) |
-| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
