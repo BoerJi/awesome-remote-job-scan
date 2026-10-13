@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部沟通经理：市场拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-manager-gtm/) |
+| 全球教育GTM负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18104/global-head-of-education-gtm/) |
 | 人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18101/hr-business-partner/) |
 | 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
 | 科学数据项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18100/data-program-manager-science/) |
@@ -41,8 +43,6 @@
 | SEC报告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
 | 股权管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
 | 薪酬运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
-| 高级区块链工程师，Moonshot | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
-| 高级软件工程师，数据服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18086/senior-software-engineer-data-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

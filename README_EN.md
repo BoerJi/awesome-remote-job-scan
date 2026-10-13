@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Communications Manager: GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-manager-gtm/) |
+| Global Head of Education GTM | Hybrid | [View →](https://www.remotejobscan.com/job/18104/global-head-of-education-gtm/) |
 | HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/18101/hr-business-partner/) |
 | Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
 | Data Program Manager, Science | Hybrid | [View →](https://www.remotejobscan.com/job/18100/data-program-manager-science/) |
@@ -41,8 +43,6 @@
 | Manager, SEC Reporting | Remote | [View →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
 | Equity Administrator | On-site | [View →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
 | Compensation Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
-| Senior Blockchain Engineer, Moonshot | Hybrid | [View →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
-| Senior Software Engineer, Data Services | Hybrid | [View →](https://www.remotejobscan.com/job/18086/senior-software-engineer-data-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
