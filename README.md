@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级经理，代币上市 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16872/senior-manager-token-listing/) |
 | 基础设施与GTM商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
 | 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18050/manager-applied-ai-architect/) |
 | 合规专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
@@ -41,7 +42,6 @@
 | 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 | 高级企业工程师 - Salesforce平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| 高级软件工程师 (EAA) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

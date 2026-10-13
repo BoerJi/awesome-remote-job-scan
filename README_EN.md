@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Token Listing | On-site | [View →](https://www.remotejobscan.com/job/16872/senior-manager-token-listing/) |
 | Commercial Counsel-Infrastructure and GTM | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel-infrastructure-and-gtm/) |
 | Manager, Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18050/manager-applied-ai-architect/) |
 | Regulatory Compliance Officer | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
@@ -42,7 +43,6 @@
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 | Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| Senior Software Engineer (EAA) | Remote | [View →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
