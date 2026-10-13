@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3018</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全研究员 - 边缘保障 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18112/researcher-safety-frontier-assurance/) |
+| 研究及教育销售主管，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
+| 政策制定、技术AI治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
+| 增长数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18110/data-scientist-growth/) |
+| AI技术招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18111/technical-recruiter-ai/) |
 | 支持专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18108/support-specialist/) |
 | 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | 税务财务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12227/finance-systems-analyst-tax/) |
@@ -38,11 +43,6 @@
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
 | 财务系统负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18097/finance-systems-lead/) |
 | 基础设施通信主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18095/infrastructure-communications-lead/) |
-| 云计算机软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18092/software-engineer-cloud-computer/) |
-| 财务规划与分析主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18094/fpa-lead/) |
-| 隐式信号机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18091/machine-learning-engineer-implicit-signals/) |
-| 激活经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
-| 企业技术应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3018</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Researcher, Safety - Frontier Assurance | On-site | [View →](https://www.remotejobscan.com/job/18112/researcher-safety-frontier-assurance/) |
+| Research & Education Sales Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/15567/research-education-sales-lead-beneficial-deployments/) |
+| Policy Development, Technical AI Governance | On-site | [View →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
+| Data Scientist, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18110/data-scientist-growth/) |
+| Technical Recruiter, AI | On-site | [View →](https://www.remotejobscan.com/job/18111/technical-recruiter-ai/) |
 | Support Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18108/support-specialist/) |
 | Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | Finance Systems Analyst, Tax | On-site | [View →](https://www.remotejobscan.com/job/12227/finance-systems-analyst-tax/) |
@@ -38,11 +43,6 @@
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18096/applied-ai-engineer-digital-natives/) |
 | Finance Systems Lead | On-site | [View →](https://www.remotejobscan.com/job/18097/finance-systems-lead/) |
 | Infrastructure Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18095/infrastructure-communications-lead/) |
-| Software Engineer, Cloud Computer | Hybrid | [View →](https://www.remotejobscan.com/job/18092/software-engineer-cloud-computer/) |
-| FP&A Lead | On-site | [View →](https://www.remotejobscan.com/job/18094/fpa-lead/) |
-| Machine Learning Engineer, Implicit Signals | Hybrid | [View →](https://www.remotejobscan.com/job/18091/machine-learning-engineer-implicit-signals/) |
-| Activation Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
-| Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
