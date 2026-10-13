@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3012</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3011</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 股权管理员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
+| 薪酬运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
+| 高级区块链工程师，Moonshot | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
+| 高级软件工程师，数据服务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18086/senior-software-engineer-data-services/) |
+| 高级数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18085/senior-data-engineer/) |
+| 高级业务系统分析师，财务系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18084/senior-business-systems-analyst-finance-systems/) |
+| 就业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
 | 高级企业安全助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
 | 首席行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
 | 增长机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
@@ -36,13 +43,6 @@
 | 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18075/full-stack-engineer-elevenmusic/) |
 | 高级平台软件工程师 - IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
 | 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| 核心基础设施与可靠性群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
-| 法务运营总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18071/director-legal-operations/) |
-| 高级工程经理，核心AI自动化（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
-| 私募股权合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18070/private-equity-partnerships/) |
-| 推理团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18068/staff-software-engineer-inference/) |
-| 高级软件工程师，推理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18067/senior-software-engineer-inference/) |
-| 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18066/applied-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

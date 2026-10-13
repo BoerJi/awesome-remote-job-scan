@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3012</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3011</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Equity Administrator | On-site | [View →](https://www.remotejobscan.com/job/18089/equity-administrator/) |
+| Compensation Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18088/compensation-operations-analyst/) |
+| Senior Blockchain Engineer, Moonshot | Hybrid | [View →](https://www.remotejobscan.com/job/18087/senior-blockchain-engineer-moonshot/) |
+| Senior Software Engineer, Data Services | Hybrid | [View →](https://www.remotejobscan.com/job/18086/senior-software-engineer-data-services/) |
+| Senior Data Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18085/senior-data-engineer/) |
+| Senior Business Systems Analyst, Finance Systems | On-site | [View →](https://www.remotejobscan.com/job/18084/senior-business-systems-analyst-finance-systems/) |
+| Counsel, Employment | Remote | [View →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
 | Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
 | Chief of Staff | Hybrid | [View →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
 | Machine Learning Engineer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
@@ -36,13 +43,6 @@
 | Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18075/full-stack-engineer-elevenmusic/) |
 | Senior Staff Software Engineer, Platform - IAM | Remote | [View →](https://www.remotejobscan.com/job/15959/senior-staff-software-engineer-platform-iam/) |
 | Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| Group Product Manager, Core Infrastructure & Reliability | Remote | [View →](https://www.remotejobscan.com/job/9214/group-product-manager-core-infrastructure-reliability/) |
-| Director, Legal Operations | Remote | [View →](https://www.remotejobscan.com/job/18071/director-legal-operations/) |
-| Senior Engineering Manager, Core AI Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/16761/senior-engineering-manager-core-ai-automation-platform/) |
-| Private Equity Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18070/private-equity-partnerships/) |
-| Staff Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18068/staff-software-engineer-inference/) |
-| Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18067/senior-software-engineer-inference/) |
-| Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/18066/applied-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
