@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3030</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3028</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer/) |
 | AI基础架构高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
 | 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
@@ -41,7 +42,6 @@
 | 高级软件工程师 (EAA) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9284/senior-software-engineer-eaa/) |
 | EAA CX 资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9326/staff-software-engineer-eaa-cx/) |
 | 产品工程师 - 广告引擎 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18048/product-engineer-ads-engine/) |
-| 产品与技术沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18047/product-technical-communications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
