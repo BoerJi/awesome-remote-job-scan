@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3014</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3012</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级企业安全助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
+| 首席行政官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
+| 增长机器学习工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
+| AI部署经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18080/ai-deployment-manager/) |
+| 清洁能源与新技术主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18079/clean-energy-and-new-technology-lead/) |
+| 高级软件工程师，后端（零售DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18078/senior-software-engineer-backend-retail-dex/) |
 | 应用AI架构师（巴西） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18077/applied-ai-architect-brazil/) |
 | DACH地区客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18076/customer-success-manager-dach/) |
 | 客户支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18073/customer-support-specialist/) |
@@ -37,12 +43,6 @@
 | 推理团队高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18068/staff-software-engineer-inference/) |
 | 高级软件工程师，推理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18067/senior-software-engineer-inference/) |
 | 应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18066/applied-ai-engineer/) |
-| 高级客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18065/senior-customer-support-engineer/) |
-| IT系统工程师，并购 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18060/it-systems-engineer-ma/) |
-| 全栈工程师 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18055/full-stack-engineer-elevenapi/) |
-| 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
-| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18063/mobile-engineer-elevenmusic/) |
-| 全栈工程师（前端倾向）- CreativeMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18061/full-stack-engineer-frontend-leaning-creativemusic/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-13 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

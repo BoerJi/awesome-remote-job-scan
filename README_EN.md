@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3012</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
+| Chief of Staff | Hybrid | [View →](https://www.remotejobscan.com/job/18082/chief-of-staff/) |
+| Machine Learning Engineer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18081/machine-learning-engineer-growth/) |
+| AI Deployment Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18080/ai-deployment-manager/) |
+| Clean Energy and New Technology Lead | Remote | [View →](https://www.remotejobscan.com/job/18079/clean-energy-and-new-technology-lead/) |
+| Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/18078/senior-software-engineer-backend-retail-dex/) |
 | Applied AI Architect (Brazil) | Hybrid | [View →](https://www.remotejobscan.com/job/18077/applied-ai-architect-brazil/) |
 | Customer Success Manager, DACH | On-site | [View →](https://www.remotejobscan.com/job/18076/customer-success-manager-dach/) |
 | Customer Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18073/customer-support-specialist/) |
@@ -37,12 +43,6 @@
 | Staff Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18068/staff-software-engineer-inference/) |
 | Senior Software Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18067/senior-software-engineer-inference/) |
 | Applied AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/18066/applied-ai-engineer/) |
-| Senior Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18065/senior-customer-support-engineer/) |
-| IT Systems Engineer, M&A | Remote | [View →](https://www.remotejobscan.com/job/18060/it-systems-engineer-ma/) |
-| Full-Stack Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/18055/full-stack-engineer-elevenapi/) |
-| Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
-| Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18063/mobile-engineer-elevenmusic/) |
-| Full-Stack Engineer (Frontend-Leaning) - CreativeMusic | Remote | [View →](https://www.remotejobscan.com/job/18061/full-stack-engineer-frontend-leaning-creativemusic/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-13 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
