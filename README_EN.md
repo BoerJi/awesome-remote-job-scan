@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3010</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/18151/it-support-engineer/) |
+| APAC GTM Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/18150/apac-gtm-enablement-lead/) |
+| Member of Technical Staff - Post-training (Data Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18149/member-of-technical-staff-post-training-data-infrastructure/) |
+| Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization) | Remote | [View →](https://www.remotejobscan.com/job/18148/member-of-technical-staff-post-training-reinforcement-learning-generalization/) |
+| Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/18147/full-stack-engineer-backend-leaning-payments-engineering/) |
+| Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/18146/full-stack-engineer-backend-leaning-platform-engineering/) |
+| Quantitative Trader, Cash OTC | On-site | [View →](https://www.remotejobscan.com/job/6607/quantitative-trader-cash-otc/) |
 | Techops Intern | Remote | [View →](https://www.remotejobscan.com/job/18140/techops-intern/) |
 | Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | Blockchain Investigator, Financial Crimes, Malta | Hybrid | [View →](https://www.remotejobscan.com/job/18138/blockchain-investigator-financial-crimes-malta/) |
@@ -35,12 +43,6 @@
 | Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
 | Engineering Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18129/engineering-manager-claude-platform/) |
 | KOL BD Manager - Indonesia | Remote | [View →](https://www.remotejobscan.com/job/18130/kol-bd-manager-indonesia/) |
-| Ad Creative Strategist (Creative Producer) | On-site | [View →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-creative-producer/) |
-| Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18124/account-director-large-enterprise/) |
-| Account Director, Enterprise | ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18123/account-director-enterprise-anz/) |
-| Enablement Lead, Knowledge Work | Hybrid | [View →](https://www.remotejobscan.com/job/18125/enablement-lead-knowledge-work/) |
-| Staff+ Software Engineer, Platform Acceleration | On-site | [View →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
-| Affiliate Business Development Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3010</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3016</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18151/it-support-engineer/) |
+| 亚太区 GTM 能力建设负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18150/apac-gtm-enablement-lead/) |
+| 技术团队成员 - 训练后（数据基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18149/member-of-technical-staff-post-training-data-infrastructure/) |
+| 技术团队成员 - 培训后 (强化学习与泛化) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18148/member-of-technical-staff-post-training-reinforcement-learning-generalization/) |
+| 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18147/full-stack-engineer-backend-leaning-payments-engineering/) |
+| 全栈工程师（偏后端）- 平台工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18146/full-stack-engineer-backend-leaning-platform-engineering/) |
+| 量化交易员，现金场外交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6607/quantitative-trader-cash-otc/) |
 | 技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18140/techops-intern/) |
 | Derivatives Growth Manager 衍生品增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | 马耳他金融犯罪区块链调查员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18138/blockchain-investigator-financial-crimes-malta/) |
@@ -35,13 +43,6 @@
 | 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
 | Claude平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18129/engineering-manager-claude-platform/) |
 | KOL BD经理 - 印度尼西亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18130/kol-bd-manager-indonesia/) |
-| 广告创意策略师（创意制作人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-creative-producer/) |
-| 大企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18124/account-director-large-enterprise/) |
-| 企业客户总监 | 澳新 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18123/account-director-enterprise-anz/) |
-| 知识工作赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18125/enablement-lead-knowledge-work/) |
-| 知识工作赋能专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18126/enablement-lead-knowledge-work/) |
-| 高级软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
-| 东南亚合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
