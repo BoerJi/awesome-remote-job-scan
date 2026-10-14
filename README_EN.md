@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3007</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Creative Delivery Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
+| Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
+| Senior Engineering Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
+| Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
+| Manager, SEC Reporting | Remote | [View →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
+| Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
+| Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
+| Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
+| Counsel, Employment | Remote | [View →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
+| Senior Engineering Manager | Remote | [View →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
+| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
 | Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 | Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | SoC Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
@@ -30,19 +43,6 @@
 | Head of Enterprise Risk Management | Hybrid | [View →](https://www.remotejobscan.com/job/18169/head-of-enterprise-risk-management/) |
 | Safety Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
-| Staff Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/18162/staff-forward-deployed-engineer/) |
-| Member of Editorial Staff, Economics & Policy | Remote | [View →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
-| Policy Development, Technical AI Governance | On-site | [View →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
-| Partner Applied AI Engineer - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/18163/partner-applied-ai-engineer-latam/) |
-| Enterprise Account Executive - Benelux | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux/) |
-| Manager - Sales Development Representatives (SDR) (London) - EMEA | On-site | [View →](https://www.remotejobscan.com/job/18164/manager-sales-development-representatives-sdr-london-emea/) |
-| Growth Marketing, Creative and Ad Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18161/growth-marketing-creative-and-ad-operations/) |
-| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
-| Revenue Enablement Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
-| Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
-| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

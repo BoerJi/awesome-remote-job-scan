@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3007</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业营销创意交付总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
+| 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
+| AI基础架构高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
+| 数字证券与市场结构政策高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
+| SEC报告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
+| 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
+| 高级产品设计师，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
+| 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
+| 劳动法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
+| 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
+| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
+| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
 | Anthropic STEM研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 | 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | SoC工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
@@ -30,19 +43,6 @@
 | 企业风险管理主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18169/head-of-enterprise-risk-management/) |
 | 安全工程师（后端倾向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
-| 高级前派工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18162/staff-forward-deployed-engineer/) |
-| 经济学与政策编辑团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
-| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
-| 政策开发、技术AI治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
-| 拉丁美洲合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18163/partner-applied-ai-engineer-latam/) |
-| 企业客户经理 - 比利时、卢森堡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux/) |
-| 销售发展代表（SDR）经理（伦敦）- EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18164/manager-sales-development-representatives-sdr-london-emea/) |
-| 增长营销、创意与广告运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18161/growth-marketing-creative-and-ad-operations/) |
-| 初创企业、安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
-| EMEA收入赋能经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
-| GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
-| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
