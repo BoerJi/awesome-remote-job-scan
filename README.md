@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3003</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术合作市场经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17759/marketing-manager-tech-partnership/) |
+| AI原生/精品系统集成商合作伙伴客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 | 云超大规模供应商赋能计划负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
 | 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
 | 艺术创意总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
@@ -41,8 +43,6 @@
 | 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
 | Anthropic STEM研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
-| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
-| SoC工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

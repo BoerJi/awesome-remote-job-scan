@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3003</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Marketing Manager, Tech Partnership | On-site | [View →](https://www.remotejobscan.com/job/17759/marketing-manager-tech-partnership/) |
+| Partner Account Manager, AI-Native/Boutique SI Partners | On-site | [View →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 | Cloud Hyperscaler Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
 | Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
 | Creative Director, Art | On-site | [View →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
@@ -41,8 +43,6 @@
 | Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
 | Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
-| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
-| SoC Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
