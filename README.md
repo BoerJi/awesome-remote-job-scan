@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
+| Derivatives Growth Manager 衍生品增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | 合作伙伴营销经理，全球及区域系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | 高级机器学习平台工程师 - 身份识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
 | 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
@@ -40,8 +42,6 @@
 | 战略财务合作伙伴，GPT基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18118/strategic-finance-partner-gpt-infra/) |
 | 企业客户经理 - 金融服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
 | 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
-| 高级交易台分析师，EMEA | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
-| 隐私分析师（事件管理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

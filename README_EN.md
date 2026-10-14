@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
+| Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | Senior Machine Learning Platform Engineer - Identity | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
 | Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
@@ -39,8 +41,6 @@
 | Strategic Finance Partner, GPT Infra | Hybrid | [View →](https://www.remotejobscan.com/job/18118/strategic-finance-partner-gpt-infra/) |
 | Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
 | Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
-| Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
-| Analyst, Privacy (Incident Management) | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
