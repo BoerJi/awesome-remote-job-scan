@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3011</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3014</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 经济与政策编辑团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
+| 政策开发、技术AI治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
+| 拉丁美洲合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18163/partner-applied-ai-engineer-latam/) |
+| 企业客户经理 - 比利时、卢森堡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux/) |
+| 销售发展代表（SDR）经理（伦敦）- EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18164/manager-sales-development-representatives-sdr-london-emea/) |
+| 增长营销、创意与广告运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18161/growth-marketing-creative-and-ad-operations/) |
+| 初创企业、安装基础客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| 软件工程师，CDP - 稳定币 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
 | EMEA收入赋能经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
 | GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
@@ -37,12 +43,6 @@
 | 高级人力资源业务合作伙伴 - G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
 | 高级交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
 | 企业级保险客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
-| 企业级健康医疗客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18154/account-executive-enterprise-healthcare/) |
-| 政府销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10702/sales-lead-government/) |
-| 销售主管 - 中市场 - 东部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17823/sales-lead-mid-market-east/) |
-| 企业销售主管 - 医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/sales-lead-enterprise-healthcare/) |
-| 企业销售主管 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/sales-lead-enterprise-financial-services/) |
-| 企业客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17980/account-executive-enterprise-financial-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

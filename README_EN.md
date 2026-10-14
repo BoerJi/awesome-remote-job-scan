@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3011</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Member of Editorial Staff, Economics & Policy | Remote | [View →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
+| Policy Development, Technical AI Governance | On-site | [View →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
+| Partner Applied AI Engineer - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/18163/partner-applied-ai-engineer-latam/) |
+| Enterprise Account Executive - Benelux | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux/) |
+| Manager - Sales Development Representatives (SDR) (London) - EMEA | On-site | [View →](https://www.remotejobscan.com/job/18164/manager-sales-development-representatives-sdr-london-emea/) |
+| Growth Marketing, Creative and Ad Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18161/growth-marketing-creative-and-ad-operations/) |
+| Account Executive- Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| Software Engineer, CDP - Stablecoin | Remote | [View →](https://www.remotejobscan.com/job/17532/software-engineer-cdp-stablecoin/) |
 | Revenue Enablement Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
 | Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
@@ -37,12 +43,6 @@
 | Senior HRBP - G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
 | Product Manager II, Advanced Trade | Remote | [View →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
 | Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
-| Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/18154/account-executive-enterprise-healthcare/) |
-| Sales Lead - Government | Remote | [View →](https://www.remotejobscan.com/job/10702/sales-lead-government/) |
-| Sales Lead - Mid-Market - East | Remote | [View →](https://www.remotejobscan.com/job/17823/sales-lead-mid-market-east/) |
-| Sales Lead - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/sales-lead-enterprise-healthcare/) |
-| Sales Lead - Enterprise - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/sales-lead-enterprise-financial-services/) |
-| Account Executive - Enterprise - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17980/account-executive-enterprise-financial-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
