@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>47</strong> 家公司 · <strong>3008</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3010</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18140/techops-intern/) |
 | Derivatives Growth Manager 衍生品增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | 马耳他金融犯罪区块链调查员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18138/blockchain-investigator-financial-crimes-malta/) |
 | G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18137/recruiter-ga/) |
@@ -41,12 +42,11 @@
 | 知识工作赋能专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18126/enablement-lead-knowledge-work/) |
 | 高级软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
 | 东南亚合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
-| 前沿部署工程师 - 软件工程师 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18119/forward-deployed-engineer-software-engineer-usa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（47 家）
+## 🏢 已收录公司（48 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -58,6 +58,7 @@
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
+| <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [查看职位 →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [查看职位 →](https://www.remotejobscan.com/?company=bybit) |
 | <img src="images/certik.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CertiK"> | <a href="https://www.certik.com/">CertiK</a> | [查看职位 →](https://www.remotejobscan.com/?company=certik) |
 | <img src="images/circle.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Circle"> | <a href="https://www.circle.com/">Circle</a> | [查看职位 →](https://www.remotejobscan.com/?company=circle) |
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
