@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3010</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 证券化股票会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| 高级人力资源业务合作伙伴 - G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
 | 高级交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
 | 企业级保险客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 | 企业级健康医疗客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18154/account-executive-enterprise-healthcare/) |
@@ -41,8 +43,6 @@
 | 技术团队成员 - 培训后 (强化学习与泛化) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18148/member-of-technical-staff-post-training-reinforcement-learning-generalization/) |
 | 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18147/full-stack-engineer-backend-leaning-payments-engineering/) |
 | 全栈工程师（偏后端）- 平台工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18146/full-stack-engineer-backend-leaning-platform-engineering/) |
-| 量化交易员，现金场外交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6607/quantitative-trader-cash-otc/) |
-| 技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18140/techops-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

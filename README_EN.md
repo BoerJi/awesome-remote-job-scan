@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3010</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
+| Senior HRBP - G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
 | Product Manager II, Advanced Trade | Remote | [View →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
 | Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 | Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/18154/account-executive-enterprise-healthcare/) |
@@ -41,8 +43,6 @@
 | Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization) | Remote | [View →](https://www.remotejobscan.com/job/18148/member-of-technical-staff-post-training-reinforcement-learning-generalization/) |
 | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/18147/full-stack-engineer-backend-leaning-payments-engineering/) |
 | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/18146/full-stack-engineer-backend-leaning-platform-engineering/) |
-| Quantitative Trader, Cash OTC | On-site | [View →](https://www.remotejobscan.com/job/6607/quantitative-trader-cash-otc/) |
-| Techops Intern | Remote | [View →](https://www.remotejobscan.com/job/18140/techops-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
