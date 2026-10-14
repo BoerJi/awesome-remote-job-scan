@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3007</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
+| Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
+| SoC Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
+| VIP Sales Manager — Prediction Markets & CFTC Perps | Hybrid | [View →](https://www.remotejobscan.com/job/18168/vip-sales-manager-prediction-markets-cftc-perps/) |
+| Head of Enterprise Risk Management | Hybrid | [View →](https://www.remotejobscan.com/job/18169/head-of-enterprise-risk-management/) |
 | Safety Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
 | Staff Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/18162/staff-forward-deployed-engineer/) |
@@ -38,11 +43,6 @@
 | Revenue Enablement Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
 | Business Systems Analyst, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| FullStack Engineer, AI Observability & Evals Platform (LangSmith) | On-site | [View →](https://www.remotejobscan.com/job/11056/fullstack-engineer-ai-observability-evals-platform-langsmith/) |
-| Data Science Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
-| Machine Learning Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15804/machine-learning-engineer-intern/) |
-| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
-| Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

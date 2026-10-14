@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3007</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Anthropic STEM研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
+| 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
+| SoC工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
+| VIP销售经理 — 预测市场与CFTC永续合约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18168/vip-sales-manager-prediction-markets-cftc-perps/) |
+| 企业风险管理主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18169/head-of-enterprise-risk-management/) |
 | 安全工程师（后端倾向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
 | 高级前派工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18162/staff-forward-deployed-engineer/) |
@@ -38,11 +43,6 @@
 | EMEA收入赋能经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
 | GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| 全栈工程师，AI可观测性与评估平台（LangSmith） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11056/fullstack-engineer-ai-observability-evals-platform-langsmith/) |
-| 数据科学实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
-| 机器学习工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15804/machine-learning-engineer-intern/) |
-| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
-| Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
