@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Ad Creative Strategist (Creative Producer) | On-site | [View →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-creative-producer/) |
+| Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18124/account-director-large-enterprise/) |
+| Account Director, Enterprise | ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18123/account-director-enterprise-anz/) |
+| Enablement Lead, Knowledge Work | Hybrid | [View →](https://www.remotejobscan.com/job/18125/enablement-lead-knowledge-work/) |
+| Staff+ Software Engineer, Platform Acceleration | On-site | [View →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
+| Affiliate Business Development Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
 | Forward Deployed Engineer - Software Engineer - USA | Remote | [View →](https://www.remotejobscan.com/job/18119/forward-deployed-engineer-software-engineer-usa/) |
 | VIP Operation & Relationship | Remote | [View →](https://www.remotejobscan.com/job/11589/vip-operation-relationship/) |
 | Strategic Finance Partner, GPT Infra | Hybrid | [View →](https://www.remotejobscan.com/job/18118/strategic-finance-partner-gpt-infra/) |
@@ -35,14 +41,6 @@
 | Senior Producer | Remote | [View →](https://www.remotejobscan.com/job/17572/senior-producer/) |
 | Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | Head of KYC | Remote | [View →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
-| Staff Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
-| Senior Software Engineer, Mobile QA | Remote | [View →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
-| Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
-| CRM and Lifecycle Manager II | Remote | [View →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
-| Experiential Marketing Associate | Remote | [View →](https://www.remotejobscan.com/job/17481/experiential-marketing-associate/) |
-| Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
-| Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
-| Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

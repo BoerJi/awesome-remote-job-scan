@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 广告创意策略师（创意制作人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-creative-producer/) |
+| 大企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18124/account-director-large-enterprise/) |
+| 企业客户总监 | 澳新 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18123/account-director-enterprise-anz/) |
+| 知识工作赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18125/enablement-lead-knowledge-work/) |
+| 知识工作赋能专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18126/enablement-lead-knowledge-work/) |
+| 高级软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
+| 东南亚合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
 | 前沿部署工程师 - 软件工程师 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18119/forward-deployed-engineer-software-engineer-usa/) |
 | VIP运营与关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/vip-operation-relationship/) |
 | 战略财务合作伙伴，GPT基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18118/strategic-finance-partner-gpt-infra/) |
@@ -35,14 +42,6 @@
 | 高级制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17572/senior-producer/) |
 | 客户参与与体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | KYC负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
-| 移动质量保障资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17392/staff-software-engineer-mobile-qa/) |
-| 高级移动测试软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17389/senior-software-engineer-mobile-qa/) |
-| 原生移动高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17387/senior-software-engineer-native-mobile/) |
-| CRM与生命周期经理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17479/crm-and-lifecycle-manager-ii/) |
-| 体验营销助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17481/experiential-marketing-associate/) |
-| 原生移动端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17390/staff-software-engineer-native-mobile/) |
-| 高级核心软件工程师，原生移动端 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17388/senior-staff-software-engineer-native-mobile/) |
-| 高级软件工程师，后端 - 监督者（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
