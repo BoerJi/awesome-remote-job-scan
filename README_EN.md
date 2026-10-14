@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3018</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
+| Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/18154/account-executive-enterprise-healthcare/) |
+| Sales Lead - Government | Remote | [View →](https://www.remotejobscan.com/job/10702/sales-lead-government/) |
+| Sales Lead - Mid-Market - East | Remote | [View →](https://www.remotejobscan.com/job/17823/sales-lead-mid-market-east/) |
+| Sales Lead - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/17879/sales-lead-enterprise-healthcare/) |
+| Sales Lead - Enterprise - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17878/sales-lead-enterprise-financial-services/) |
+| Account Executive - Enterprise - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17980/account-executive-enterprise-financial-services/) |
+| Account Executive - Enterprise - Consumer Brands | On-site | [View →](https://www.remotejobscan.com/job/17820/account-executive-enterprise-consumer-brands/) |
 | Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18153/senior-software-engineer-ai-infrastructure/) |
 | Adoption Strategist - APAC | Remote | [View →](https://www.remotejobscan.com/job/18152/adoption-strategist-apac/) |
 | Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
@@ -35,14 +43,6 @@
 | Quantitative Trader, Cash OTC | On-site | [View →](https://www.remotejobscan.com/job/6607/quantitative-trader-cash-otc/) |
 | Techops Intern | Remote | [View →](https://www.remotejobscan.com/job/18140/techops-intern/) |
 | Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
-| Blockchain Investigator, Financial Crimes, Malta | Hybrid | [View →](https://www.remotejobscan.com/job/18138/blockchain-investigator-financial-crimes-malta/) |
-| Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18137/recruiter-ga/) |
-| Financial Crimes Analyst, Malta | Hybrid | [View →](https://www.remotejobscan.com/job/18139/financial-crimes-analyst-malta/) |
-| Deployment Strategist - South Korea | Remote | [View →](https://www.remotejobscan.com/job/18136/deployment-strategist-south-korea/) |
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
-| Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
-| Senior Machine Learning Platform Engineer - Identity | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
-| Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
