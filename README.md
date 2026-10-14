@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3012</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>47</strong> 家公司 · <strong>3008</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Derivatives Growth Manager 衍生品增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
+| 马耳他金融犯罪区块链调查员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18138/blockchain-investigator-financial-crimes-malta/) |
+| G&A招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18137/recruiter-ga/) |
+| 马耳他金融犯罪分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18139/financial-crimes-analyst-malta/) |
+| 部署策略师 - 韩国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18136/deployment-strategist-south-korea/) |
+| 高级人才招聘合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | 合作伙伴营销经理，全球及区域系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | 高级机器学习平台工程师 - 身份识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
 | 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
@@ -38,15 +42,11 @@
 | 高级软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
 | 东南亚合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
 | 前沿部署工程师 - 软件工程师 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18119/forward-deployed-engineer-software-engineer-usa/) |
-| VIP运营与关系 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/vip-operation-relationship/) |
-| 战略财务合作伙伴，GPT基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18118/strategic-finance-partner-gpt-infra/) |
-| 企业客户经理 - 金融服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
-| 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（47 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -58,7 +58,6 @@
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
-| <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [查看职位 →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [查看职位 →](https://www.remotejobscan.com/?company=bybit) |
 | <img src="images/certik.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CertiK"> | <a href="https://www.certik.com/">CertiK</a> | [查看职位 →](https://www.remotejobscan.com/?company=certik) |
 | <img src="images/circle.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Circle"> | <a href="https://www.circle.com/">Circle</a> | [查看职位 →](https://www.remotejobscan.com/?company=circle) |
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

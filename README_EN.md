@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3012</strong> remote jobs · Updated every 30 min
+  📊 <strong>47</strong> companies · <strong>3008</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
+| Blockchain Investigator, Financial Crimes, Malta | Hybrid | [View →](https://www.remotejobscan.com/job/18138/blockchain-investigator-financial-crimes-malta/) |
+| Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18137/recruiter-ga/) |
+| Financial Crimes Analyst, Malta | Hybrid | [View →](https://www.remotejobscan.com/job/18139/financial-crimes-analyst-malta/) |
+| Deployment Strategist - South Korea | Remote | [View →](https://www.remotejobscan.com/job/18136/deployment-strategist-south-korea/) |
+| Senior Talent Acquisition Partner | On-site | [View →](https://www.remotejobscan.com/job/17710/senior-talent-acquisition-partner/) |
 | Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | Senior Machine Learning Platform Engineer - Identity | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
 | Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
@@ -37,15 +41,11 @@
 | Staff+ Software Engineer, Platform Acceleration | On-site | [View →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
 | Affiliate Business Development Manager, Southeast Asia | Remote | [View →](https://www.remotejobscan.com/job/18120/affiliate-business-development-manager-southeast-asia/) |
 | Forward Deployed Engineer - Software Engineer - USA | Remote | [View →](https://www.remotejobscan.com/job/18119/forward-deployed-engineer-software-engineer-usa/) |
-| VIP Operation & Relationship | Remote | [View →](https://www.remotejobscan.com/job/11589/vip-operation-relationship/) |
-| Strategic Finance Partner, GPT Infra | Hybrid | [View →](https://www.remotejobscan.com/job/18118/strategic-finance-partner-gpt-infra/) |
-| Enterprise Account Executive - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/17980/enterprise-account-executive-financial-services/) |
-| Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（47 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -57,7 +57,6 @@
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
-| <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
 | <img src="images/certik.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="CertiK"> | <a href="https://www.certik.com/">CertiK</a> | [View jobs →](https://www.remotejobscan.com/?company=certik) |
 | <img src="images/circle.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Circle"> | <a href="https://www.circle.com/">Circle</a> | [View jobs →](https://www.remotejobscan.com/?company=circle) |
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
