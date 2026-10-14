@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Cloud Hyperscaler Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
+| Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
+| Creative Director, Art | On-site | [View →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
+| Motion Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18177/motion-designer-business-marketing/) |
 | Creative Delivery Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
 | Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 | Senior Engineering Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
@@ -39,10 +43,6 @@
 | Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 | Applied AI Engineer, Beneficial Deployments (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | SoC Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
-| VIP Sales Manager — Prediction Markets & CFTC Perps | Hybrid | [View →](https://www.remotejobscan.com/job/18168/vip-sales-manager-prediction-markets-cftc-perps/) |
-| Head of Enterprise Risk Management | Hybrid | [View →](https://www.remotejobscan.com/job/18169/head-of-enterprise-risk-management/) |
-| Safety Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
-| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

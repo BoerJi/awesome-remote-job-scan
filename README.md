@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 云超大规模供应商赋能计划负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
+| 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
+| 艺术创意总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
+| 商业营销动画设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18177/motion-designer-business-marketing/) |
 | 商业营销创意交付总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
 | 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 | AI基础架构高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
@@ -39,10 +43,6 @@
 | Anthropic STEM研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 | 应用AI工程师，有益部署（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences/) |
 | SoC工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18170/soc-engineer/) |
-| VIP销售经理 — 预测市场与CFTC永续合约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18168/vip-sales-manager-prediction-markets-cftc-perps/) |
-| 企业风险管理主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18169/head-of-enterprise-risk-management/) |
-| 安全工程师（后端倾向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
-| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
