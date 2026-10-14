@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager II, Advanced Trade | Remote | [View →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
 | Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 | Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/18154/account-executive-enterprise-healthcare/) |
 | Sales Lead - Government | Remote | [View →](https://www.remotejobscan.com/job/10702/sales-lead-government/) |
@@ -42,7 +43,6 @@
 | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/18146/full-stack-engineer-backend-leaning-platform-engineering/) |
 | Quantitative Trader, Cash OTC | On-site | [View →](https://www.remotejobscan.com/job/6607/quantitative-trader-cash-otc/) |
 | Techops Intern | Remote | [View →](https://www.remotejobscan.com/job/18140/techops-intern/) |
-| Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
