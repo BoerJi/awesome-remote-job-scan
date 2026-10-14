@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18184/applied-ai-engineer-startups/) |
+| 体验制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
+| 续约与拓展客户经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 | 技术合作市场经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17759/marketing-manager-tech-partnership/) |
 | AI原生/精品系统集成商合作伙伴客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 | 云超大规模供应商赋能计划负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
@@ -40,9 +43,6 @@
 | 劳动法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
 | 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
 | 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
-| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| 高级财务与战略分析师，消费者业务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
-| Anthropic STEM研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

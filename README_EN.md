@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/18184/applied-ai-engineer-startups/) |
+| Experiential Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
+| Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 | Marketing Manager, Tech Partnership | On-site | [View →](https://www.remotejobscan.com/job/17759/marketing-manager-tech-partnership/) |
 | Partner Account Manager, AI-Native/Boutique SI Partners | On-site | [View →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 | Cloud Hyperscaler Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
@@ -40,9 +43,6 @@
 | Counsel, Employment | Remote | [View →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
 | Senior Engineering Manager | Remote | [View →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
 | Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
-| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| Senior Finance & Strategy Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/senior-finance-strategy-analyst-consumer/) |
-| Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
