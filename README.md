@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3016</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3017</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18153/senior-software-engineer-ai-infrastructure/) |
+| 亚太地区采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18152/adoption-strategist-apac/) |
 | 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18151/it-support-engineer/) |
 | 亚太区 GTM 能力建设负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18150/apac-gtm-enablement-lead/) |
@@ -41,8 +43,6 @@
 | 合作伙伴营销经理，全球及区域系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | 高级机器学习平台工程师 - 身份识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
 | 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
-| Claude平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18129/engineering-manager-claude-platform/) |
-| KOL BD经理 - 印度尼西亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18130/kol-bd-manager-indonesia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

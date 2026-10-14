@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3017</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18153/senior-software-engineer-ai-infrastructure/) |
+| Adoption Strategist - APAC | Remote | [View →](https://www.remotejobscan.com/job/18152/adoption-strategist-apac/) |
 | Applied AI Engineer, Beneficial Deployments (Lab Automation) | On-site | [View →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/18151/it-support-engineer/) |
 | APAC GTM Enablement Lead | On-site | [View →](https://www.remotejobscan.com/job/18150/apac-gtm-enablement-lead/) |
@@ -41,8 +43,6 @@
 | Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
 | Senior Machine Learning Platform Engineer - Identity | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
 | Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
-| Engineering Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18129/engineering-manager-claude-platform/) |
-| KOL BD Manager - Indonesia | Remote | [View →](https://www.remotejobscan.com/job/18130/kol-bd-manager-indonesia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
