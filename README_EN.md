@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>2989</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3026</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| The Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/the-corporate-communications-director/) |
 | Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
 | Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
 | Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
