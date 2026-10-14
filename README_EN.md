@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3021</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Marketing Manager, GSI & SI | On-site | [View →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
+| Senior Machine Learning Platform Engineer - Identity | Remote | [View →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
+| Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
+| Engineering Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18129/engineering-manager-claude-platform/) |
+| KOL BD Manager - Indonesia | Remote | [View →](https://www.remotejobscan.com/job/18130/kol-bd-manager-indonesia/) |
 | Ad Creative Strategist (Creative Producer) | On-site | [View →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-creative-producer/) |
 | Account Director, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18124/account-director-large-enterprise/) |
 | Account Director, Enterprise | ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18123/account-director-enterprise-anz/) |
@@ -36,11 +41,6 @@
 | Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 | Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | Analyst, Privacy (Incident Management) | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
-| Staff Technical Program Manager, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
-| Prime Operations Assistant | Remote | [View →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
-| Senior Producer | Remote | [View →](https://www.remotejobscan.com/job/17572/senior-producer/) |
-| Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| Head of KYC | Remote | [View →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

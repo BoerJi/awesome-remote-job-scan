@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3021</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴营销经理，全球及区域系统集成商 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17065/partner-marketing-manager-gsi-si/) |
+| 高级机器学习平台工程师 - 身份识别 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16472/senior-machine-learning-platform-engineer-identity/) |
+| 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
+| Claude平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18129/engineering-manager-claude-platform/) |
+| KOL BD经理 - 印度尼西亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18130/kol-bd-manager-indonesia/) |
 | 广告创意策略师（创意制作人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-creative-producer/) |
 | 大企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18124/account-director-large-enterprise/) |
 | 企业客户总监 | 澳新 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18123/account-director-enterprise-anz/) |
@@ -37,11 +42,6 @@
 | 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 | 高级交易台分析师，EMEA | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | 隐私分析师（事件管理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
-| 消费者技术项目经理（高级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
-| 高级运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17844/prime-operations-assistant/) |
-| 高级制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17572/senior-producer/) |
-| 客户参与与体验群产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| KYC负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17452/head-of-kyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
