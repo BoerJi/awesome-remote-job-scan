@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3007</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3011</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 经济与政策编辑团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
+| EMEA收入赋能经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16662/revenue-enablement-manager-emea/) |
+| GTM系统业务系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18159/business-systems-analyst-gtm-systems/) |
+| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
+| 全栈工程师，AI可观测性与评估平台（LangSmith） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11056/fullstack-engineer-ai-observability-evals-platform-langsmith/) |
+| 数据科学实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15802/data-science-intern/) |
+| 机器学习工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15804/machine-learning-engineer-intern/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
+| Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
+| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
 | 证券化股票会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
 | 高级人力资源业务合作伙伴 - G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
 | 高级交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
@@ -33,16 +43,6 @@
 | 企业销售主管 - 医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17879/sales-lead-enterprise-healthcare/) |
 | 企业销售主管 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17878/sales-lead-enterprise-financial-services/) |
 | 企业客户经理 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17980/account-executive-enterprise-financial-services/) |
-| 企业客户经理 - 消费品牌 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17820/account-executive-enterprise-consumer-brands/) |
-| 高级软件工程师 - AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18153/senior-software-engineer-ai-infrastructure/) |
-| 亚太地区采用策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18152/adoption-strategist-apac/) |
-| 应用AI工程师，有益部署（实验室自动化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18059/applied-ai-engineer-beneficial-deployments-lab-automation/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18151/it-support-engineer/) |
-| 亚太区 GTM 能力建设负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18150/apac-gtm-enablement-lead/) |
-| 技术团队成员 - 训练后（数据基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18149/member-of-technical-staff-post-training-data-infrastructure/) |
-| 技术团队成员 - 培训后 (强化学习与泛化) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18148/member-of-technical-staff-post-training-reinforcement-learning-generalization/) |
-| 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18147/full-stack-engineer-backend-leaning-payments-engineering/) |
-| 全栈工程师（偏后端）- 平台工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18146/full-stack-engineer-backend-leaning-platform-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
