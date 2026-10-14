@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safety Engineer (Back-End Leaning) | Remote | [View →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
+| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
+| Staff Forward Deployed Engineer | On-site | [View →](https://www.remotejobscan.com/job/18162/staff-forward-deployed-engineer/) |
+| Member of Editorial Staff, Economics & Policy | Remote | [View →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 | Policy Development, Technical AI Governance | On-site | [View →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
 | Partner Applied AI Engineer - LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/18163/partner-applied-ai-engineer-latam/) |
 | Enterprise Account Executive - Benelux | On-site | [View →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux/) |
@@ -38,11 +43,6 @@
 | Machine Learning Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15804/machine-learning-engineer-intern/) |
 | Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
-| Accounting Manager, Tokenized Equities | Remote | [View →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| Senior HRBP - G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
-| Product Manager II, Advanced Trade | Remote | [View →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
-| Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-14 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

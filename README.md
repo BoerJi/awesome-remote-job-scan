@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全工程师（后端倾向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18166/safety-engineer-back-end-leaning/) |
+| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18165/company-operations-lead/) |
+| 高级前派工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18162/staff-forward-deployed-engineer/) |
+| 经济学与政策编辑团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18158/member-of-editorial-staff-economics-policy/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9275/senior-software-engineer/) |
 | 政策开发、技术AI治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18109/policy-development-technical-ai-governance/) |
 | 拉丁美洲合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18163/partner-applied-ai-engineer-latam/) |
 | 企业客户经理 - 比利时、卢森堡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11886/enterprise-account-executive-benelux/) |
@@ -38,11 +43,6 @@
 | 机器学习工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15804/machine-learning-engineer-intern/) |
 | 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15815/institutional-operations-intern/) |
 | Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
-| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
-| 证券化股票会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14908/accounting-manager-tokenized-equities/) |
-| 高级人力资源业务合作伙伴 - G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hrbp-ga/) |
-| 高级交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18156/product-manager-ii-advanced-trade/) |
-| 企业级保险客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-14 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
