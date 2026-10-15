@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3012</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Deputy General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
 | Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | Associate General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
@@ -42,7 +43,6 @@
 | Cloud Hyperscaler Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
 | Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
 | Creative Director, Art | On-site | [View →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
-| Motion Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18177/motion-designer-business-marketing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
