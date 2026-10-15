@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3产品法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
+| 产品经理（ElevenCreative 自服务） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | 技术项目经理，推理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | 战略与运营主管 — 东南亚及澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
@@ -41,8 +43,6 @@
 | 基础设施租赁会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18190/director-infrastructure-lease-accounting/) |
 | 风险与监控分析师IV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
 | 市场平台负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
-| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
-| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

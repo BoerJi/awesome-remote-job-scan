@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
+| Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
@@ -41,8 +43,6 @@
 | Director, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/18190/director-infrastructure-lease-accounting/) |
 | Risk & Monitoring Analyst IV | On-site | [View →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
 | Marketplace Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
-| B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
-| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
