@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3009</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3012</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
+| Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
+| Client Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
+| Enterprise Security Engineer, Vulnerability Management | Hybrid | [View →](https://www.remotejobscan.com/job/18192/enterprise-security-engineer-vulnerability-management/) |
+| Director, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/18190/director-infrastructure-lease-accounting/) |
 | Risk & Monitoring Analyst IV | On-site | [View →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
 | Marketplace Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
@@ -38,11 +43,6 @@
 | Motion Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18177/motion-designer-business-marketing/) |
 | Creative Delivery Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
 | Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
-| Senior Engineering Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/18049/senior-engineering-manager-ai-foundations/) |
-| Senior Manager, Digital Securities & Market Structure Policy | Remote | [View →](https://www.remotejobscan.com/job/17840/senior-manager-digital-securities-market-structure-policy/) |
-| Manager, SEC Reporting | Remote | [View →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
-| Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
-| Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
