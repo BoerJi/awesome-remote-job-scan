@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3018</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,24 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚洲贵宾部主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
+| 高级软件工程师（SRE） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
+| 企业发展高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
+| 消费者品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18232/staff-brand-designer-consumer/) |
+| 社区参与经理，数据中心（路易斯安那州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18228/community-engagement-manager-data-centers-louisiana/) |
+| 社区参与经理，数据中心（弗吉尼亚州与西弗吉尼亚州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18230/community-engagement-manager-data-centers-virginia-west-virginia/) |
+| 社区参与经理，数据中心（纽约） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18229/community-engagement-manager-data-centers-new-york/) |
 | 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | 合规前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | 合规代理体验产品经理（集团级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 | 战略与运营、项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18227/strategy-operations-program-manager/) |
-| 企业发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17569/corporate-development-manager/) |
 | 品牌洞察与衡量主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
 | Web3项目管理办公室（PMO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
 | 高级/首席软件工程师（后端），推理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 | 首席运营官（行政） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
 | Kraken Pro 有机增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
 | 助理总法律顾问 – 产品与监管法律（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
-| 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
-| 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| 南欧客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18217/account-manager-southern-europe/) |
-| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
-| 数据与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
-| 拉丁美洲采用策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
-| B2B增长营销经理 - 比利时/荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

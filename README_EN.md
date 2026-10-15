@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3018</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,24 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of VIP - Asia | Remote | [View →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
+| Staff Software Engineer (SRE) | Remote | [View →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
+| Corporate Development Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
+| Staff Brand Designer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18232/staff-brand-designer-consumer/) |
+| Community Engagement Manager, Data Centers (Louisiana) | Remote | [View →](https://www.remotejobscan.com/job/18228/community-engagement-manager-data-centers-louisiana/) |
+| Community Engagement Manager, Data Centers (Virginia & West Virginia) | Remote | [View →](https://www.remotejobscan.com/job/18230/community-engagement-manager-data-centers-virginia-west-virginia/) |
+| Community Engagement Manager, Data Centers (New York) | Remote | [View →](https://www.remotejobscan.com/job/18229/community-engagement-manager-data-centers-new-york/) |
 | Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 | Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
 | Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 | Strategy & Operations, Program Manager | On-site | [View →](https://www.remotejobscan.com/job/18227/strategy-operations-program-manager/) |
-| Corporate Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-manager/) |
 | Brand Insights, Measurement Lead | On-site | [View →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
 | Project Management Officer (PMO) - Web3 | Remote | [View →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
 | Senior/Staff Software Engineer (Back-End), Inference | Remote | [View →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 | Chief of Staff to the CEO (Administrative) | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
 | Head of Organic Growth, Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
 | Assistant General Counsel – Product and Regulatory Legal (EU) | Remote | [View →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
-| Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
-| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| Account Manager - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/18217/account-manager-southern-europe/) |
-| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
-| Data & Analytics Lead | Remote | [View →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
-| Adoption Strategist - LATAM | On-site | [View →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
-| B2B Growth Marketer - Benelux | Remote | [View →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
