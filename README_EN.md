@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
+| Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
@@ -32,7 +34,6 @@
 | Head of Corporate Investigations | On-site | [View →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Deputy General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
-| Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | Associate General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
 | Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | Client Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
@@ -42,7 +43,6 @@
 | Marketplace Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
-| Applied AI Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/18184/applied-ai-engineer-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
