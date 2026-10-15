@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Chief of Staff to the CEO (Administrative) | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
 | Head of Organic Growth, Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
 | Assistant General Counsel – Product and Regulatory Legal (EU) | Remote | [View →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
 | Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
@@ -41,7 +42,6 @@
 | Legal Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
 | Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
-| Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

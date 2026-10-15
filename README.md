@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3016</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席运营官（行政） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
 | Kraken Pro 有机增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
 | 助理总法律顾问 – 产品与监管法律（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
 | 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
@@ -41,7 +42,6 @@
 | Web3产品法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
 | 产品经理（ElevenCreative 自服务） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
-| 技术项目经理，推理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
