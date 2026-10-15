@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3038</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
+| US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
+| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
+| Software Engineer, Research Productivity | On-site | [View →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
+| Technical Program Manager, SOX Compliance | On-site | [View →](https://www.remotejobscan.com/job/18254/technical-program-manager-sox-compliance/) |
+| Technical Program Manager, Corporate Engineering | On-site | [View →](https://www.remotejobscan.com/job/18251/technical-program-manager-corporate-engineering/) |
+| Strategic Senior Finance Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/strategic-senior-finance-analyst-consumer/) |
 | Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
 | VP Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
 | Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18247/principal-recruiter/) |
@@ -35,13 +42,6 @@
 | Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18242/compliance-associate/) |
 | Workforce Development & Education Manager, Infrastructure Sites | Hybrid | [View →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
 | Social Media Manager, Predictions | Remote | [View →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
-| Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
-| Senior Product Marketing Manager, Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
-| GTM Enablement Program Manager, Systems & Product | On-site | [View →](https://www.remotejobscan.com/job/18240/gtm-enablement-program-manager-systems-product/) |
-| Platform Operations Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18239/platform-operations-program-manager/) |
-| Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
-| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

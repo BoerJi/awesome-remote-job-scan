@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3038</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 投资者关系总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
+| 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
+| 高级招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
+| 研究生产力软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
+| SOX合规技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18254/technical-program-manager-sox-compliance/) |
+| 企业工程技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18251/technical-program-manager-corporate-engineering/) |
+| 战略高级财务分析师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/strategic-senior-finance-analyst-consumer/) |
 | 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
 | EMEA销售副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
 | 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18247/principal-recruiter/) |
@@ -35,13 +42,6 @@
 | 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18242/compliance-associate/) |
 | 基础设施站点劳动力发展与教育经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
 | 社交媒体经理，预测 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
-| 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
-| 基础设施高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
-| GTM赋能项目经理，系统与产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18240/gtm-enablement-program-manager-systems-product/) |
-| 平台运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18239/platform-operations-program-manager/) |
-| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| 高级产品设计师，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
-| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
