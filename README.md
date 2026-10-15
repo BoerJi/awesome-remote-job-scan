@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3003</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3009</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 风险与监控分析师IV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
+| 市场平台负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
+| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
+| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | 应用AI工程师，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18184/applied-ai-engineer-startups/) |
 | 体验制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
 | 续约与拓展客户经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
@@ -39,10 +43,6 @@
 | SEC报告经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
 | 企业工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
 | 高级产品设计师，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
-| 欧盟法律副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
-| 劳动法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
-| 高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
-| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

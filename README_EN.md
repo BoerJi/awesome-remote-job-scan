@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3003</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3009</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk & Monitoring Analyst IV | On-site | [View →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
+| Marketplace Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
+| B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
+| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | Applied AI Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/18184/applied-ai-engineer-startups/) |
 | Experiential Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
 | Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
@@ -39,10 +43,6 @@
 | Manager, SEC Reporting | Remote | [View →](https://www.remotejobscan.com/job/18090/manager-sec-reporting/) |
 | Enterprise Engineer | Remote | [View →](https://www.remotejobscan.com/job/17967/enterprise-engineer/) |
 | Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
-| Associate General Counsel, EU Legal | Hybrid | [View →](https://www.remotejobscan.com/job/18018/associate-general-counsel-eu-legal/) |
-| Counsel, Employment | Remote | [View →](https://www.remotejobscan.com/job/18046/counsel-employment/) |
-| Senior Engineering Manager | Remote | [View →](https://www.remotejobscan.com/job/17903/senior-engineering-manager/) |
-| Staff Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/17968/staff-machine-learning-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
