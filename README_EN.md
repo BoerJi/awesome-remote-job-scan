@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3031</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
+| VP Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
+| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18247/principal-recruiter/) |
+| Corporate Security Manager - Americas | Hybrid | [View →](https://www.remotejobscan.com/job/18249/corporate-security-manager-americas/) |
+| IT Logistics Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18248/it-logistics-lead/) |
 | VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
 | Senior Growth Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
 | Order Management Operations & Automation | On-site | [View →](https://www.remotejobscan.com/job/18246/order-management-operations-automation/) |
@@ -37,11 +42,6 @@
 | Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
-| Experiential Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
-| Cloud Hyperscaler Readiness Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-readiness-lead/) |
-| Head of VIP - Asia | Remote | [View →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
-| Staff Software Engineer (SRE) | Remote | [View →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
-| Corporate Development Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
