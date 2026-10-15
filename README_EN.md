@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
+| Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
+| Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
+| Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Head of Corporate Investigations | On-site | [View →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
@@ -39,10 +43,6 @@
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | Applied AI Engineer, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/18184/applied-ai-engineer-startups/) |
-| Experiential Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
-| Account Manager, Renewals & Expansion (West Coast) | On-site | [View →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
-| Marketing Manager, Tech Partnership | On-site | [View →](https://www.remotejobscan.com/job/17759/marketing-manager-tech-partnership/) |
-| Partner Account Manager, AI-Native/Boutique SI Partners | On-site | [View →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
