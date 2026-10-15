@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accounts Payable Specialist (Poland) | Remote | [View →](https://www.remotejobscan.com/job/18210/accounts-payable-specialist-poland/) |
+| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
+| Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
 | Legal Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
 | Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
@@ -30,7 +34,6 @@
 | Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
-| Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Head of Corporate Investigations | On-site | [View →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
@@ -40,9 +43,6 @@
 | Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | Client Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
 | Enterprise Security Engineer, Vulnerability Management | Hybrid | [View →](https://www.remotejobscan.com/job/18192/enterprise-security-engineer-vulnerability-management/) |
-| Director, Infrastructure Lease Accounting | On-site | [View →](https://www.remotejobscan.com/job/18190/director-infrastructure-lease-accounting/) |
-| Risk & Monitoring Analyst IV | On-site | [View →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
-| Marketplace Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

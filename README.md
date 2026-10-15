@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3014</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3016</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 波兰应付账款专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18210/accounts-payable-specialist-poland/) |
+| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
+| 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
 | Web3产品法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
 | 产品经理（ElevenCreative 自服务） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
@@ -30,7 +34,6 @@
 | 战略与运营主管 — 东南亚及澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | 印度客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
-| Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | 高级软件工程师，后端 - 监督者（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
 | 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 企业调查主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
@@ -40,9 +43,6 @@
 | 全球健康合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | 客户端平台工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
 | 企业安全工程师，漏洞管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18192/enterprise-security-engineer-vulnerability-management/) |
-| 基础设施租赁会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18190/director-infrastructure-lease-accounting/) |
-| 风险与监控分析师IV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18185/risk-monitoring-analyst-iv/) |
-| 市场平台负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18189/marketplace-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
