@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3011</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Project Management Officer (PMO) - Web3 | Remote | [View →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
+| Senior/Staff Software Engineer (Back-End), Inference | Remote | [View →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 | Chief of Staff to the CEO (Administrative) | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
 | Head of Organic Growth, Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
 | Assistant General Counsel – Product and Regulatory Legal (EU) | Remote | [View →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
@@ -40,8 +42,6 @@
 | Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
 | Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
 | Legal Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
-| Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
-| SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
