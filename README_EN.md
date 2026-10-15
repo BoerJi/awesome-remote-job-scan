@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3011</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
+| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
+| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
+| Strategy & Operations, Program Manager | On-site | [View →](https://www.remotejobscan.com/job/18227/strategy-operations-program-manager/) |
+| Corporate Development Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-manager/) |
+| Brand Insights, Measurement Lead | On-site | [View →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
 | Project Management Officer (PMO) - Web3 | Remote | [View →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
 | Senior/Staff Software Engineer (Back-End), Inference | Remote | [View →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 | Chief of Staff to the CEO (Administrative) | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
@@ -35,13 +42,6 @@
 | Data & Analytics Lead | Remote | [View →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
 | Adoption Strategist - LATAM | On-site | [View →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
 | B2B Growth Marketer - Benelux | Remote | [View →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
-| Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
-| Tech Lead, iOS | Hybrid | [View →](https://www.remotejobscan.com/job/18211/tech-lead-ios/) |
-| Accounts Payable Specialist (Poland) | Remote | [View →](https://www.remotejobscan.com/job/18210/accounts-payable-specialist-poland/) |
-| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
-| Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
-| Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
-| Legal Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

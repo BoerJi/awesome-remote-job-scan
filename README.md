@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3011</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
+| 合规前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
+| 合规代理体验产品经理（集团级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
+| 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
+| 战略与运营、项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18227/strategy-operations-program-manager/) |
+| 企业发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17569/corporate-development-manager/) |
+| 品牌洞察与衡量主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
 | Web3项目管理办公室（PMO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
 | 高级/首席软件工程师（后端），推理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 | 首席运营官（行政） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
@@ -35,13 +42,6 @@
 | 数据与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
 | 拉丁美洲采用策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
 | B2B增长营销经理 - 比利时/荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
-| Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
-| iOS 技术主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18211/tech-lead-ios/) |
-| 波兰应付账款专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18210/accounts-payable-specialist-poland/) |
-| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
-| 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
-| Fund Security Strategy Analyst 资金安全策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
-| Web3产品法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/legal-counsel-web3-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
