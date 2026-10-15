@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3025</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Workforce Development & Education Manager, Infrastructure Sites | Hybrid | [View →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
+| Social Media Manager, Predictions | Remote | [View →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
+| Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
+| Senior Product Marketing Manager, Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
+| GTM Enablement Program Manager, Systems & Product | On-site | [View →](https://www.remotejobscan.com/job/18240/gtm-enablement-program-manager-systems-product/) |
+| Platform Operations Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18239/platform-operations-program-manager/) |
+| Security Software Engineer, IAM | Remote | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
 | Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | Experiential Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
@@ -35,13 +42,6 @@
 | Community Engagement Manager, Data Centers (Virginia & West Virginia) | Remote | [View →](https://www.remotejobscan.com/job/18230/community-engagement-manager-data-centers-virginia-west-virginia/) |
 | Community Engagement Manager, Data Centers (New York) | Remote | [View →](https://www.remotejobscan.com/job/18229/community-engagement-manager-data-centers-new-york/) |
 | Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| Forward Deployed Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| Strategy & Operations, Program Manager | On-site | [View →](https://www.remotejobscan.com/job/18227/strategy-operations-program-manager/) |
-| Brand Insights, Measurement Lead | On-site | [View →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
-| Project Management Officer (PMO) - Web3 | Remote | [View →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
-| Senior/Staff Software Engineer (Back-End), Inference | Remote | [View →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

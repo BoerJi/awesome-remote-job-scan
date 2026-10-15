@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3025</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 基础设施站点劳动力发展与教育经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
+| 社交媒体经理，预测 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
+| 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
+| 基础设施高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
+| GTM赋能项目经理，系统与产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18240/gtm-enablement-program-manager-systems-product/) |
+| 平台运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18239/platform-operations-program-manager/) |
+| 安全软件工程师，IAM | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | 高级产品设计师，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
 | 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
 | 体验制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
@@ -35,13 +42,6 @@
 | 社区参与经理，数据中心（弗吉尼亚州与西弗吉尼亚州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18230/community-engagement-manager-data-centers-virginia-west-virginia/) |
 | 社区参与经理，数据中心（纽约） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18229/community-engagement-manager-data-centers-new-york/) |
 | 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
-| 合规前部署工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/forward-deployed-engineer-compliance-office-of-the-cto/) |
-| 合规代理体验产品经理（集团级） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
-| 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| 战略与运营、项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18227/strategy-operations-program-manager/) |
-| 品牌洞察与衡量主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
-| Web3项目管理办公室（PMO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
-| 高级/首席软件工程师（后端），推理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
