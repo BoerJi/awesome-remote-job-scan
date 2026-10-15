@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3016</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3020</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
+| 拉丁美洲采用策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
+| B2B增长营销经理 - 比利时/荷兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
+| Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
+| iOS 技术主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18211/tech-lead-ios/) |
 | 波兰应付账款专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18210/accounts-payable-specialist-poland/) |
 | AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
@@ -38,11 +43,6 @@
 | 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 企业调查主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
-| 首席法律顾问（劳动法） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
-| 劳动法副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
-| 全球健康合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
-| 客户端平台工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
-| 企业安全工程师，漏洞管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18192/enterprise-security-engineer-vulnerability-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data & Analytics Lead | Remote | [View →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
+| Adoption Strategist - LATAM | On-site | [View →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
+| B2B Growth Marketer - Benelux | Remote | [View →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
+| Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
+| Tech Lead, iOS | Hybrid | [View →](https://www.remotejobscan.com/job/18211/tech-lead-ios/) |
 | Accounts Payable Specialist (Poland) | Remote | [View →](https://www.remotejobscan.com/job/18210/accounts-payable-specialist-poland/) |
 | AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18208/revenue-accountant/) |
@@ -38,11 +43,6 @@
 | Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | Head of Corporate Investigations | On-site | [View →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
-| Deputy General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
-| Associate General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
-| Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
-| Client Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
-| Enterprise Security Engineer, Vulnerability Management | Hybrid | [View →](https://www.remotejobscan.com/job/18192/enterprise-security-engineer-vulnerability-management/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
