@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3013</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3014</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Corporate Investigations | On-site | [View →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Deputy General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
 | Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
@@ -42,7 +43,6 @@
 | Partner Account Manager, AI-Native/Boutique SI Partners | On-site | [View →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 | Cloud Hyperscaler Enablement Programs Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
 | Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
-| Creative Director, Art | On-site | [View →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

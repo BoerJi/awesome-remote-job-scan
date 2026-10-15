@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3014</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业调查主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | 首席法律顾问（劳动法） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
 | 推理技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
@@ -42,7 +43,6 @@
 | AI原生/精品系统集成商合作伙伴客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
 | 云超大规模供应商赋能计划负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
 | 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
-| 艺术创意总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
