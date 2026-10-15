@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3020</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3024</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
+| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
+| Account Manager - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/18217/account-manager-southern-europe/) |
+| Senior Architect of the Securities Trading System 证券交易系统资深架构师 | Remote | [View →](https://www.remotejobscan.com/job/12085/senior-architect-of-the-securities-trading-system/) |
 | Data & Analytics Lead | Remote | [View →](https://www.remotejobscan.com/job/18215/data-analytics-lead/) |
 | Adoption Strategist - LATAM | On-site | [View →](https://www.remotejobscan.com/job/18216/adoption-strategist-latam/) |
 | B2B Growth Marketer - Benelux | Remote | [View →](https://www.remotejobscan.com/job/18212/b2b-growth-marketer-benelux/) |
@@ -39,10 +43,6 @@
 | Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
-| Senior Software Engineer, Backend - Overseer (Platform) | Remote | [View →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
-| Internal Control Operation Officer | Remote | [View →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
-| Head of Corporate Investigations | On-site | [View →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
