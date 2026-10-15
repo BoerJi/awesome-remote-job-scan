@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3038</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业级体育专家 - 账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
+| 应用AI工程师，初创企业（物理AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
+| 应用AI工程师，初创公司（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
+| 应用AI工程师，有益部署（临床开发，罕见病和被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
+| GTM策略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
+| 代理运行平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/engineering-manager-agent-runtime-platform/) |
+| 风险与保险专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 | 投资者关系总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
 | 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
 | 高级招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
@@ -36,12 +43,6 @@
 | 企业安全经理 - 美洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18249/corporate-security-manager-americas/) |
 | IT物流主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18248/it-logistics-lead/) |
 | 公共部门销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
-| 巴西高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
-| 订单管理运营与自动化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18246/order-management-operations-automation/) |
-| 发布制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18243/launch-producer/) |
-| 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18242/compliance-associate/) |
-| 基础设施站点劳动力发展与教育经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
-| 社交媒体经理，预测 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

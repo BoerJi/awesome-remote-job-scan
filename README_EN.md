@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3038</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - Enterprise - Sports Specialist | On-site | [View →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
+| Applied AI Engineer, Startups (Physical AI) | On-site | [View →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
+| Applied AI Engineer, Startups (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
+| Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
+| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
+| Engineering Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/engineering-manager-agent-runtime-platform/) |
+| Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 | Director of Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
 | US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
 | Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
@@ -36,12 +43,6 @@
 | Corporate Security Manager - Americas | Hybrid | [View →](https://www.remotejobscan.com/job/18249/corporate-security-manager-americas/) |
 | IT Logistics Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18248/it-logistics-lead/) |
 | VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
-| Senior Growth Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
-| Order Management Operations & Automation | On-site | [View →](https://www.remotejobscan.com/job/18246/order-management-operations-automation/) |
-| Launch Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18243/launch-producer/) |
-| Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18242/compliance-associate/) |
-| Workforce Development & Education Manager, Infrastructure Sites | Hybrid | [View →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
-| Social Media Manager, Predictions | Remote | [View →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
