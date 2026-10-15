@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3016</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3015</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Kraken Pro 有机增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
+| 助理总法律顾问 – 产品与监管法律（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
 | 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
 | 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | 南欧客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18217/account-manager-southern-europe/) |
@@ -40,9 +42,6 @@
 | 产品经理（ElevenCreative 自服务） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME资产（钱包） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | 技术项目经理，推理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
-| 战略与运营主管 — 东南亚及澳新地区 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
-| Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
-| 印度客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

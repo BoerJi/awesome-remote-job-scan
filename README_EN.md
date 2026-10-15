@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3016</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3015</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Organic Growth, Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
+| Assistant General Counsel – Product and Regulatory Legal (EU) | Remote | [View →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
 | Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18218/developer-advocate/) |
 | Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | Account Manager - Southern Europe | Remote | [View →](https://www.remotejobscan.com/job/18217/account-manager-southern-europe/) |
@@ -40,9 +42,6 @@
 | Product Manager (ElevenCreative Self-Serve) | Remote | [View →](https://www.remotejobscan.com/job/18205/product-manager-elevencreative-self-serve/) |
 | SME Asset (Wallet) | Remote | [View →](https://www.remotejobscan.com/job/15378/sme-asset-wallet/) |
 | Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
-| Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
-| Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
-| Account Manager - India | Remote | [View →](https://www.remotejobscan.com/job/11384/account-manager-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
