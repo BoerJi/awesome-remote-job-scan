@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3018</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3019</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品设计师，平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
+| 合规技术高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
+| 体验制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
+| 云超大规模提供商准备领导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-readiness-lead/) |
 | 亚洲贵宾部主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
 | 高级软件工程师（SRE） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
 | 企业发展高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
@@ -38,9 +42,6 @@
 | 品牌洞察与衡量主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
 | Web3项目管理办公室（PMO） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
 | 高级/首席软件工程师（后端），推理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
-| 首席运营官（行政） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
-| Kraken Pro 有机增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
-| 助理总法律顾问 – 产品与监管法律（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

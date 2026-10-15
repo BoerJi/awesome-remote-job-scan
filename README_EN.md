@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3018</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3019</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Designer, Platform | Remote | [View →](https://www.remotejobscan.com/job/18167/senior-product-designer-platform/) |
+| Senior Analyst, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/16737/senior-analyst-compliance-technology/) |
+| Experiential Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18183/experiential-producer/) |
+| Cloud Hyperscaler Readiness Lead | On-site | [View →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-readiness-lead/) |
 | Head of VIP - Asia | Remote | [View →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
 | Staff Software Engineer (SRE) | Remote | [View →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
 | Corporate Development Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
@@ -38,9 +42,6 @@
 | Brand Insights, Measurement Lead | On-site | [View →](https://www.remotejobscan.com/job/18226/brand-insights-measurement-lead/) |
 | Project Management Officer (PMO) - Web3 | Remote | [View →](https://www.remotejobscan.com/job/18225/project-management-officer-pmo-web3/) |
 | Senior/Staff Software Engineer (Back-End), Inference | Remote | [View →](https://www.remotejobscan.com/job/18223/seniorstaff-software-engineer-back-end-inference/) |
-| Chief of Staff to the CEO (Administrative) | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceo-administrative/) |
-| Head of Organic Growth, Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18220/head-of-organic-growth-kraken-pro/) |
-| Assistant General Counsel – Product and Regulatory Legal (EU) | Remote | [View →](https://www.remotejobscan.com/job/18219/assistant-general-counsel-product-and-regulatory-legal-eu/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
