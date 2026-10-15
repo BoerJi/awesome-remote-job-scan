@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3025</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3031</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
+| Senior Growth Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
+| Order Management Operations & Automation | On-site | [View →](https://www.remotejobscan.com/job/18246/order-management-operations-automation/) |
+| Launch Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18243/launch-producer/) |
+| Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18242/compliance-associate/) |
 | Workforce Development & Education Manager, Infrastructure Sites | Hybrid | [View →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
 | Social Media Manager, Predictions | Remote | [View →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
 | Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
@@ -37,11 +42,6 @@
 | Head of VIP - Asia | Remote | [View →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
 | Staff Software Engineer (SRE) | Remote | [View →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
 | Corporate Development Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
-| Staff Brand Designer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18232/staff-brand-designer-consumer/) |
-| Community Engagement Manager, Data Centers (Louisiana) | Remote | [View →](https://www.remotejobscan.com/job/18228/community-engagement-manager-data-centers-louisiana/) |
-| Community Engagement Manager, Data Centers (Virginia & West Virginia) | Remote | [View →](https://www.remotejobscan.com/job/18230/community-engagement-manager-data-centers-virginia-west-virginia/) |
-| Community Engagement Manager, Data Centers (New York) | Remote | [View →](https://www.remotejobscan.com/job/18229/community-engagement-manager-data-centers-new-york/) |
-| Group Product Manager, Customer Engagement & Experience | Remote | [View →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3025</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3031</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
+| 巴西高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12142/senior-growth-manager-brazil/) |
+| 订单管理运营与自动化 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18246/order-management-operations-automation/) |
+| 发布制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18243/launch-producer/) |
+| 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18242/compliance-associate/) |
 | 基础设施站点劳动力发展与教育经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18241/workforce-development-education-manager-infrastructure-sites/) |
 | 社交媒体经理，预测 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18237/social-media-manager-predictions/) |
 | 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
@@ -37,11 +42,6 @@
 | 亚洲贵宾部主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18233/head-of-vip-asia/) |
 | 高级软件工程师（SRE） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18234/staff-software-engineer-sre/) |
 | 企业发展高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17569/corporate-development-senior-manager/) |
-| 消费者品牌设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18232/staff-brand-designer-consumer/) |
-| 社区参与经理，数据中心（路易斯安那州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18228/community-engagement-manager-data-centers-louisiana/) |
-| 社区参与经理，数据中心（弗吉尼亚州与西弗吉尼亚州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18230/community-engagement-manager-data-centers-virginia-west-virginia/) |
-| 社区参与经理，数据中心（纽约） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18229/community-engagement-manager-data-centers-new-york/) |
-| 客户参与与体验集团产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17530/group-product-manager-customer-engagement-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
