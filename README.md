@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席法律顾问（劳动法） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
+| 推理技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | 劳动法副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
 | 全球健康合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | 客户端平台工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
@@ -41,8 +43,6 @@
 | 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
 | 艺术创意总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
 | 商业营销动画设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18177/motion-designer-business-marketing/) |
-| 商业营销创意交付总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
-| 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

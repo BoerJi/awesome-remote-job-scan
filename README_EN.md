@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deputy General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
+| Technical Program Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/18195/technical-program-manager-inference/) |
 | Associate General Counsel, Employment Law | On-site | [View →](https://www.remotejobscan.com/job/18193/associate-general-counsel-employment-law/) |
 | Partner Manager, Global Health | On-site | [View →](https://www.remotejobscan.com/job/9512/partner-manager-global-health/) |
 | Client Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18191/client-platform-engineer/) |
@@ -41,8 +43,6 @@
 | Staff Software Engineer: Compute | On-site | [View →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
 | Creative Director, Art | On-site | [View →](https://www.remotejobscan.com/job/18176/creative-director-art/) |
 | Motion Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18177/motion-designer-business-marketing/) |
-| Creative Delivery Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18175/creative-delivery-director-business-marketing/) |
-| Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-15 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
