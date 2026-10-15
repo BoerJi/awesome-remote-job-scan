@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3013</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3014</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，后端 - 监督者（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17361/senior-software-engineer-backend-overseer-platform/) |
+| 内部控制运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13268/internal-control-operation-officer/) |
 | 企业调查主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18197/head-of-corporate-investigations/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | 首席法律顾问（劳动法） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18194/deputy-general-counsel-employment-law/) |
@@ -41,8 +43,6 @@
 | 续约与拓展客户经理（西海岸） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11108/account-manager-renewals-expansion-west-coast/) |
 | 技术合作市场经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17759/marketing-manager-tech-partnership/) |
 | AI原生/精品系统集成商合作伙伴客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18182/partner-account-manager-ai-nativeboutique-si-partners/) |
-| 云超大规模供应商赋能计划负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11621/cloud-hyperscaler-enablement-programs-lead/) |
-| 计算方向高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18179/staff-software-engineer-compute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-15 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
