@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3045</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3048</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 日本区客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18271/account-executive-japan/) |
+| 硬件安全工程师实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18269/hardware-security-engineer-intern-summer-2027/) |
+| 硬件安全工程师，应届生（2027） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
 | 企业级平台软件工程师（高级专家） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
 | 企业级软件工程师（全栈）Staff+ | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
 | Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
@@ -40,9 +43,6 @@
 | 代理运行平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/engineering-manager-agent-runtime-platform/) |
 | 风险与保险专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 | 投资者关系总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
-| 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
-| 高级招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
-| 研究生产力软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

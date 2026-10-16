@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3045</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3048</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18271/account-executive-japan/) |
+| Hardware Security Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18269/hardware-security-engineer-intern-summer-2027/) |
+| Hardware Security Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
 | Staff+ Software Engineer, Enterprise (Platform) | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
 | Staff+ Software Engineer, Enterprise (Full Stack) | On-site | [View →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
 | Growth Product Operations 增长产品运营 | Remote | [View →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
@@ -40,9 +43,6 @@
 | Engineering Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/engineering-manager-agent-runtime-platform/) |
 | Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 | Director of Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
-| US Congressional Lead, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
-| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
-| Software Engineer, Research Productivity | On-site | [View →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
