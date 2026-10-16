@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3048</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3040</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
+| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 | FinHub（转账）团队高级后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
 | 内部审计主管（非技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
 | 执行助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
@@ -41,8 +43,6 @@
 | GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
 | 企业级体育专家 - 账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
 | 应用AI工程师，初创企业（物理AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
-| 应用AI工程师，初创公司（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
-| 应用AI工程师，有益部署（临床开发，罕见病和被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

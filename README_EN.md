@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3048</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3040</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
+| Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 | Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
 | Internal Audit Lead (Non-Tech) | Remote | [View →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
 | Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
@@ -41,8 +43,6 @@
 | GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
 | Account Executive - Enterprise - Sports Specialist | On-site | [View →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
 | Applied AI Engineer, Startups (Physical AI) | On-site | [View →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
-| Applied AI Engineer, Startups (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
-| Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
