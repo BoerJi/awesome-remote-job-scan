@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级分析工程师 - 金融 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
+| 法律应对专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
+| 应用AI工程师，有益部署（临床开发，罕见病与被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
 | 财务主管（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17333/head-of-finance-eu/) |
 | EMEA数字原生应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
@@ -39,10 +42,6 @@
 | 硬件安全工程师，应届生（2027） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
 | 企业级平台软件工程师（高级专家） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
 | 企业级软件工程师（全栈）Staff+ | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
-| Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
-| 亚太区执行助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
-| 战略型数字原生客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
-| 高级前端工程师（消费者 - 高级交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

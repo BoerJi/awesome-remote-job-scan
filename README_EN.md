@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Analytics Engineer - Finance | Remote | [View →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
+| Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
 | Head of Finance (EU) | Remote | [View →](https://www.remotejobscan.com/job/17333/head-of-finance-eu/) |
 | Manager, Applied AI Architects - Digital Natives, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
@@ -39,10 +42,6 @@
 | Hardware Security Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
 | Staff+ Software Engineer, Enterprise (Platform) | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
 | Staff+ Software Engineer, Enterprise (Full Stack) | On-site | [View →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
-| Growth Product Operations 增长产品运营 | Remote | [View →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
-| Executive Assistant - APAC | On-site | [View →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
-| Account Executive - Digital Natives - Strategic | Remote | [View →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
-| Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
