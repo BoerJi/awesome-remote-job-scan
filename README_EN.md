@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3054</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3053</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Platform Acceleration | On-site | [View →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
+| Content Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18309/content-studio-lead/) |
+| Applied AI Architect, Security Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
+| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| Senior Frontend Engineer, Portfolio | Remote | [View →](https://www.remotejobscan.com/job/18308/senior-frontend-engineer-portfolio/) |
 | Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10954/design-engineer/) |
 | Financial Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18304/financial-systems-engineer/) |
 | Community Engagement Manager, Data Centers (Montana & Utah) | Remote | [View →](https://www.remotejobscan.com/job/18303/community-engagement-manager-data-centers-montana-utah/) |
@@ -38,11 +43,6 @@
 | Events Design Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18298/events-design-producer/) |
 | Deployed Engineer (Singapore) - APAC | Remote | [View →](https://www.remotejobscan.com/job/18302/deployed-engineer-singapore-apac/) |
 | Audio Engineer, Live Video | On-site | [View →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
-| Applied AI Architect, Security Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
-| Global Technical Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/18294/global-technical-talent-lead/) |
-| Global GTM Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/18293/global-gtm-talent-lead/) |
-| Chief of Staff - Talent | Remote | [View →](https://www.remotejobscan.com/job/18295/chief-of-staff-talent/) |
-| Senior / Staff Engineer, DEX Trading System | On-site | [View →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

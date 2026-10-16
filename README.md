@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3054</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3053</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
+| 内容工作室负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18309/content-studio-lead/) |
+| 应用AI架构师，安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
+| 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| 高级前端工程师，投资组合 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18308/senior-frontend-engineer-portfolio/) |
 | 设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10954/design-engineer/) |
 | 财务系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18304/financial-systems-engineer/) |
 | 社区参与经理，数据中心（蒙大拿州 & 犹他州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18303/community-engagement-manager-data-centers-montana-utah/) |
@@ -38,11 +43,6 @@
 | 活动设计制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18298/events-design-producer/) |
 | 部署工程师（新加坡）- 亚太地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18302/deployed-engineer-singapore-apac/) |
 | 现场视频音频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
-| 应用AI架构师，安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
-| 全球技术人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18294/global-technical-talent-lead/) |
-| 全球全球市场人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18293/global-gtm-talent-lead/) |
-| 首席人才官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18295/chief-of-staff-talent/) |
-| 高级/资深工程师，DEX交易系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
