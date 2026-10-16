@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3039</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务主管（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17333/head-of-finance-eu/) |
+| EMEA数字原生应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
+| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| 高级/资深AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer/) |
+| 业务发展经理（斯洛伐克 & 捷克） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
 | 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 | FinHub（转账）团队高级后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
@@ -38,11 +43,6 @@
 | 亚太区执行助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
 | 战略型数字原生客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
 | 高级前端工程师（消费者 - 高级交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
-| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18263/senior-data-scientist-product/) |
-| 公共政策总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18262/director-public-policy/) |
-| GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
-| 企业级体育专家 - 账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
-| 应用AI工程师，初创企业（物理AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

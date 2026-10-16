@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3039</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Finance (EU) | Remote | [View →](https://www.remotejobscan.com/job/17333/head-of-finance-eu/) |
+| Manager, Applied AI Architects - Digital Natives, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
+| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
+| Senior /Staff AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer/) |
+| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
 | Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 | Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
@@ -38,11 +43,6 @@
 | Executive Assistant - APAC | On-site | [View →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
 | Account Executive - Digital Natives - Strategic | Remote | [View →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
 | Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
-| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18263/senior-data-scientist-product/) |
-| Director, Public Policy | On-site | [View →](https://www.remotejobscan.com/job/18262/director-public-policy/) |
-| GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
-| Account Executive - Enterprise - Sports Specialist | On-site | [View →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
-| Applied AI Engineer, Startups (Physical AI) | On-site | [View →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
