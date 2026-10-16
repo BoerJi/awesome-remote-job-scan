@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3041</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3043</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
+| 亚太区执行助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
+| 战略型数字原生客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
 | 高级前端工程师（消费者 - 高级交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 | 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18263/senior-data-scientist-product/) |
 | 公共政策总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18262/director-public-policy/) |
@@ -40,9 +43,6 @@
 | 研究生产力软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
 | SOX合规技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18254/technical-program-manager-sox-compliance/) |
 | 企业工程技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18251/technical-program-manager-corporate-engineering/) |
-| 战略高级财务分析师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/strategic-senior-finance-analyst-consumer/) |
-| 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
-| EMEA销售副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

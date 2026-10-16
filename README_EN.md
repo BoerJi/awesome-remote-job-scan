@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3041</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3043</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Product Operations 增长产品运营 | Remote | [View →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
+| Executive Assistant - APAC | On-site | [View →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
+| Account Executive - Digital Natives - Strategic | Remote | [View →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
 | Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 | Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18263/senior-data-scientist-product/) |
 | Director, Public Policy | On-site | [View →](https://www.remotejobscan.com/job/18262/director-public-policy/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Research Productivity | On-site | [View →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
 | Technical Program Manager, SOX Compliance | On-site | [View →](https://www.remotejobscan.com/job/18254/technical-program-manager-sox-compliance/) |
 | Technical Program Manager, Corporate Engineering | On-site | [View →](https://www.remotejobscan.com/job/18251/technical-program-manager-corporate-engineering/) |
-| Strategic Senior Finance Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/strategic-senior-finance-analyst-consumer/) |
-| Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
-| VP Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
