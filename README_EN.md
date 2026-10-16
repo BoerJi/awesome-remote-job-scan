@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3061</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Machine Learning Engineer, CX | Remote | [View →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
+| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
+| B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | AI Growth Ops | Remote | [View →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
@@ -39,10 +43,6 @@
 | Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 | Analyst, Privacy (Incident Management) | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
 | Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
-| Senior Strategic Program Lead, GFCO | Remote | [View →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
-| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| Recruiting Sourcer, Business (GTM, Infrastructure Strategy & G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

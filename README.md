@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3058</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3061</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级机器学习工程师，客户体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
+| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
+| B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | 应用AI架构师，战略企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | AI增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
@@ -39,10 +43,6 @@
 | 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 | 隐私分析师（事件管理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
 | GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
-| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
-| 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
-| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| 招聘寻访师，业务（市场拓展、基础设施战略与行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
