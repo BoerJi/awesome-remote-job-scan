@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3043</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3045</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业级平台软件工程师（高级专家） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
+| 企业级软件工程师（全栈）Staff+ | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
 | Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
 | 亚太区执行助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18264/executive-assistant-apac/) |
 | 战略型数字原生客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18265/account-executive-digital-natives-strategic/) |
@@ -41,8 +43,6 @@
 | 美国国会事务负责人，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18256/us-congressional-lead-global-affairs/) |
 | 高级招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
 | 研究生产力软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15905/software-engineer-research-productivity/) |
-| SOX合规技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18254/technical-program-manager-sox-compliance/) |
-| 企业工程技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18251/technical-program-manager-corporate-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
