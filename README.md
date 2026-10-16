@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3051</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3056</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略机构合作总监 - 特殊项目负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16650/director-strategic-institutional-partnerships-special-projects-lead/) |
+| 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
+| 隐私分析师（事件管理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
+| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| 核心AI基础设施高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
+| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
+| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| 招聘寻访师，业务（市场拓展、基础设施战略与行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
 | Staff+ 软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
 | 内容工作室负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18309/content-studio-lead/) |
 | 应用AI架构师，安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
@@ -34,15 +43,6 @@
 | 招聘运营系统与赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18307/systems-enablement-lead-recruiting-operations/) |
 | 日本创意负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18306/creative-lead-japan/) |
 | 高等教育产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18305/product-designer-higher-education/) |
-| 亚太区人力资源法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
-| 伦敦销售发展代表（EMEA） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18301/sales-development-representative-london-emea/) |
-| 绩效管理专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18296/people-specialist-performance-management/) |
-| 战略财务、新兴B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18297/strategic-finance-emerging-b2b-products/) |
-| 数据中心设计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18300/data-center-design-manager/) |
-| 活动管理总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18299/director-of-events-management/) |
-| 活动设计制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18298/events-design-producer/) |
-| 部署工程师（新加坡）- 亚太地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18302/deployed-engineer-singapore-apac/) |
-| 现场视频音频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

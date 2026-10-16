@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3051</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3056</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Strategic Institutional Partnerships - Special Projects Lead | Remote | [View →](https://www.remotejobscan.com/job/16650/director-strategic-institutional-partnerships-special-projects-lead/) |
+| Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
+| Analyst, Privacy (Incident Management) | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
+| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
+| Senior Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9272/senior-software-engineer-core-ai-infrastructure/) |
+| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| Senior Strategic Program Lead, GFCO | Remote | [View →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
+| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| Recruiting Sourcer, Business (GTM, Infrastructure Strategy & G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
 | Staff+ Software Engineer, Platform Acceleration | On-site | [View →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
 | Content Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18309/content-studio-lead/) |
 | Applied AI Architect, Security Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
@@ -34,15 +43,6 @@
 | Systems & Enablement Lead, Recruiting Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18307/systems-enablement-lead-recruiting-operations/) |
 | Creative Lead, Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18306/creative-lead-japan/) |
 | Product Designer, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/18305/product-designer-higher-education/) |
-| People Legal Counsel, APAC | On-site | [View →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
-| Sales Development Representative (London) - EMEA | On-site | [View →](https://www.remotejobscan.com/job/18301/sales-development-representative-london-emea/) |
-| People Specialist, Performance Management | On-site | [View →](https://www.remotejobscan.com/job/18296/people-specialist-performance-management/) |
-| Strategic Finance, Emerging B2B Products | Hybrid | [View →](https://www.remotejobscan.com/job/18297/strategic-finance-emerging-b2b-products/) |
-| Data Center Design Manager | Remote | [View →](https://www.remotejobscan.com/job/18300/data-center-design-manager/) |
-| Director of Events Management | Hybrid | [View →](https://www.remotejobscan.com/job/18299/director-of-events-management/) |
-| Events Design Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18298/events-design-producer/) |
-| Deployed Engineer (Singapore) - APAC | Remote | [View →](https://www.remotejobscan.com/job/18302/deployed-engineer-singapore-apac/) |
-| Audio Engineer, Live Video | On-site | [View →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
