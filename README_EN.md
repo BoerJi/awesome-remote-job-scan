@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3050</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3051</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
 | Internal Audit Lead (Non-Tech) | Remote | [View →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
 | Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
 | Technical Sourcer - Engineering | On-site | [View →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
@@ -42,7 +43,6 @@
 | Applied AI Engineer, Startups (Physical AI) | On-site | [View →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
 | Applied AI Engineer, Startups (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
 | Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
-| GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

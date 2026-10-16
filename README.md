@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3050</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3051</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| FinHub（转账）团队高级后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
 | 内部审计主管（非技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
 | 执行助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
 | 技术招聘专员 - 工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
@@ -42,7 +43,6 @@
 | 应用AI工程师，初创企业（物理AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
 | 应用AI工程师，初创公司（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
 | 应用AI工程师，有益部署（临床开发，罕见病和被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
-| GTM策略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
