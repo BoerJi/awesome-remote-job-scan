@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3037</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3039</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Systems Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/18287/strategy-systems-manager-communications/) |
+| B2B Communications Manager, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/18288/b2b-communications-manager-latam/) |
+| Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 | Product Marketing, Messaging Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18285/product-marketing-messaging-lead/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18284/applied-ai-architect-partnerships/) |
 | Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
@@ -39,9 +42,6 @@
 | Manager, Applied AI Architects - Digital Natives, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
 | Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | Senior /Staff AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer/) |
-| Business Development Manager (Slovakia & Czech Republic) | On-site | [View →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
-| Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
-| Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

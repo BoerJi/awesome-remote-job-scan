@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3037</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3039</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略与系统经理，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18287/strategy-systems-manager-communications/) |
+| 拉美区B2B通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18288/b2b-communications-manager-latam/) |
+| 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 | 产品营销与信息负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18285/product-marketing-messaging-lead/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18284/applied-ai-architect-partnerships/) |
 | 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
@@ -39,9 +42,6 @@
 | EMEA数字原生应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
 | 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
 | 高级/资深AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer/) |
-| 业务发展经理（斯洛伐克 & 捷克） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15733/business-development-manager-slovakia-czech-republic/) |
-| 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
-| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
