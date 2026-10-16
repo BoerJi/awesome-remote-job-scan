@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3048</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3050</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Audit Lead (Non-Tech) | Remote | [View →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
+| Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
+| Technical Sourcer - Engineering | On-site | [View →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
 | Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18271/account-executive-japan/) |
 | Hardware Security Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18269/hardware-security-engineer-intern-summer-2027/) |
 | Hardware Security Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
@@ -40,9 +43,6 @@
 | Applied AI Engineer, Startups (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
 | Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
 | GTM Strategy & Operations, Frontier | On-site | [View →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| Engineering Manager, Agent Runtime Platform | On-site | [View →](https://www.remotejobscan.com/job/9417/engineering-manager-agent-runtime-platform/) |
-| Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
-| Director of Investor Relations | On-site | [View →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

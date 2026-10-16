@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3048</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3050</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部审计主管（非技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
+| 执行助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
+| 技术招聘专员 - 工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
 | 日本区客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18271/account-executive-japan/) |
 | 硬件安全工程师实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18269/hardware-security-engineer-intern-summer-2027/) |
 | 硬件安全工程师，应届生（2027） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
@@ -40,9 +43,6 @@
 | 应用AI工程师，初创公司（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
 | 应用AI工程师，有益部署（临床开发，罕见病和被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
 | GTM策略与运营，前沿团队 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13923/gtm-strategy-operations-frontier/) |
-| 代理运行平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9417/engineering-manager-agent-runtime-platform/) |
-| 风险与保险专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
-| 投资者关系总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18255/director-of-investor-relations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
