@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3061</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3068</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Media Relations, Safety Communications | On-site | [View →](https://www.remotejobscan.com/job/18329/media-relations-safety-communications/) |
+| Full-Stack Software Engineer, Child Safety Tools & Systems (London) | On-site | [View →](https://www.remotejobscan.com/job/18330/full-stack-software-engineer-child-safety-tools-systems-london/) |
+| Member of Technical Staff (Software Engineer, Enterprise Trust & Governance) | On-site | [View →](https://www.remotejobscan.com/job/18331/member-of-technical-staff-software-engineer-enterprise-trust-governance/) |
+| Finance & Accounting Analyst | On-site | [View →](https://www.remotejobscan.com/job/18326/finance-accounting-analyst/) |
+| Technical Program Manager, Science Strategy & Communications | On-site | [View →](https://www.remotejobscan.com/job/18324/technical-program-manager-science-strategy-communications/) |
+| Director, US International Tax Planning | On-site | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
+| Head of First Party Chip Finance | Hybrid | [View →](https://www.remotejobscan.com/job/18325/head-of-first-party-chip-finance/) |
 | Senior Machine Learning Engineer, CX | Remote | [View →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
@@ -36,13 +43,6 @@
 | GTM Enablement - Sales Execution & North America Lead | On-site | [View →](https://www.remotejobscan.com/job/18317/gtm-enablement-sales-execution-north-america-lead/) |
 | Account Manager - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
 | Senior Security Engineer - xStocks | Remote | [View →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
-| Software Engineer - Java - CF Benchmark | Remote | [View →](https://www.remotejobscan.com/job/18311/software-engineer-java-cf-benchmark/) |
-| Member of Technical Staff (Android Engineer, Computer Growth) | Hybrid | [View →](https://www.remotejobscan.com/job/18312/member-of-technical-staff-android-engineer-computer-growth/) |
-| Member of Technical Staff (iOS Engineer, Computer Growth) | On-site | [View →](https://www.remotejobscan.com/job/18313/member-of-technical-staff-ios-engineer-computer-growth/) |
-| Director, Strategic Institutional Partnerships - Special Projects Lead | Remote | [View →](https://www.remotejobscan.com/job/16650/director-strategic-institutional-partnerships-special-projects-lead/) |
-| Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
-| Analyst, Privacy (Incident Management) | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
-| Manager, GRC | Remote | [View →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

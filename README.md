@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3061</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3068</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 媒体关系、安全沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18329/media-relations-safety-communications/) |
+| 全栈软件工程师，儿童安全工具与系统（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18330/full-stack-software-engineer-child-safety-tools-systems-london/) |
+| 技术专家（企业信任与治理软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18331/member-of-technical-staff-software-engineer-enterprise-trust-governance/) |
+| 财务与会计分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18326/finance-accounting-analyst/) |
+| 科学战略与沟通技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18324/technical-program-manager-science-strategy-communications/) |
+| 美国国际税务规划总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
+| 首单芯片金融负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18325/head-of-first-party-chip-finance/) |
 | 高级机器学习工程师，客户体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
 | 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
@@ -36,13 +43,6 @@
 | GTM赋能 - 销售执行与北美负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18317/gtm-enablement-sales-execution-north-america-lead/) |
 | 中市场客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
 | 高级安全工程师 - xStocks | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
-| 软件工程师 - Java - CF基准 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18311/software-engineer-java-cf-benchmark/) |
-| 技术团队成员（安卓工程师，计算机增长） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18312/member-of-technical-staff-android-engineer-computer-growth/) |
-| 技术团队成员（iOS工程师，计算机增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18313/member-of-technical-staff-ios-engineer-computer-growth/) |
-| 战略机构合作总监 - 特殊项目负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16650/director-strategic-institutional-partnerships-special-projects-lead/) |
-| 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
-| 隐私分析师（事件管理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
-| GRC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15038/manager-grc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
