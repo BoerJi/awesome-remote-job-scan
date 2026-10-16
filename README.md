@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3054</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10954/design-engineer/) |
+| 财务系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18304/financial-systems-engineer/) |
+| 社区参与经理，数据中心（蒙大拿州 & 犹他州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18303/community-engagement-manager-data-centers-montana-utah/) |
+| 招聘运营系统与赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18307/systems-enablement-lead-recruiting-operations/) |
+| 日本创意负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18306/creative-lead-japan/) |
+| 高等教育产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18305/product-designer-higher-education/) |
+| 亚太区人力资源法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
+| 伦敦销售发展代表（EMEA） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18301/sales-development-representative-london-emea/) |
+| 绩效管理专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18296/people-specialist-performance-management/) |
+| 战略财务、新兴B2B产品 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18297/strategic-finance-emerging-b2b-products/) |
+| 数据中心设计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18300/data-center-design-manager/) |
+| 活动管理总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18299/director-of-events-management/) |
+| 活动设计制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18298/events-design-producer/) |
+| 部署工程师（新加坡）- 亚太地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18302/deployed-engineer-singapore-apac/) |
 | 现场视频音频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
 | 应用AI架构师，安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
 | 全球技术人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18294/global-technical-talent-lead/) |
 | 全球全球市场人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18293/global-gtm-talent-lead/) |
 | 首席人才官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18295/chief-of-staff-talent/) |
 | 高级/资深工程师，DEX交易系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
-| 需求生成内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18289/content-marketing-manager-demand-generation/) |
-| 战略与系统经理，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18287/strategy-systems-manager-communications/) |
-| 拉美区B2B通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18288/b2b-communications-manager-latam/) |
-| 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| 产品营销与信息负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18285/product-marketing-messaging-lead/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18284/applied-ai-architect-partnerships/) |
-| 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
-| 拉丁美洲VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
-| CFD业务发展经理，拉美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
-| CFD业务发展经理-巴西 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
-| KOL业务发展经理-巴西 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18267/kol-business-development-manager-brazil/) |
-| ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
-| 企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
-| 高级分析工程师 - 金融 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

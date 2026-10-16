@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3054</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10954/design-engineer/) |
+| Financial Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18304/financial-systems-engineer/) |
+| Community Engagement Manager, Data Centers (Montana & Utah) | Remote | [View →](https://www.remotejobscan.com/job/18303/community-engagement-manager-data-centers-montana-utah/) |
+| Systems & Enablement Lead, Recruiting Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18307/systems-enablement-lead-recruiting-operations/) |
+| Creative Lead, Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18306/creative-lead-japan/) |
+| Product Designer, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/18305/product-designer-higher-education/) |
+| People Legal Counsel, APAC | On-site | [View →](https://www.remotejobscan.com/job/17117/people-legal-counsel-apac/) |
+| Sales Development Representative (London) - EMEA | On-site | [View →](https://www.remotejobscan.com/job/18301/sales-development-representative-london-emea/) |
+| People Specialist, Performance Management | On-site | [View →](https://www.remotejobscan.com/job/18296/people-specialist-performance-management/) |
+| Strategic Finance, Emerging B2B Products | Hybrid | [View →](https://www.remotejobscan.com/job/18297/strategic-finance-emerging-b2b-products/) |
+| Data Center Design Manager | Remote | [View →](https://www.remotejobscan.com/job/18300/data-center-design-manager/) |
+| Director of Events Management | Hybrid | [View →](https://www.remotejobscan.com/job/18299/director-of-events-management/) |
+| Events Design Producer | Hybrid | [View →](https://www.remotejobscan.com/job/18298/events-design-producer/) |
+| Deployed Engineer (Singapore) - APAC | Remote | [View →](https://www.remotejobscan.com/job/18302/deployed-engineer-singapore-apac/) |
 | Audio Engineer, Live Video | On-site | [View →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
 | Applied AI Architect, Security Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
 | Global Technical Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/18294/global-technical-talent-lead/) |
 | Global GTM Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/18293/global-gtm-talent-lead/) |
 | Chief of Staff - Talent | Remote | [View →](https://www.remotejobscan.com/job/18295/chief-of-staff-talent/) |
 | Senior / Staff Engineer, DEX Trading System | On-site | [View →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
-| Content Marketing Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/18289/content-marketing-manager-demand-generation/) |
-| Strategy & Systems Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/18287/strategy-systems-manager-communications/) |
-| B2B Communications Manager, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/18288/b2b-communications-manager-latam/) |
-| Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| Product Marketing, Messaging Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18285/product-marketing-messaging-lead/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18284/applied-ai-architect-partnerships/) |
-| Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
-| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
-| CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
-| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
-| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/18267/kol-business-development-manager-brazil/) |
-| ICT Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
-| Enterprise Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
-| Senior Analytics Engineer - Finance | Remote | [View →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
