@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3045</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
+| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18263/senior-data-scientist-product/) |
+| Director, Public Policy | On-site | [View →](https://www.remotejobscan.com/job/18262/director-public-policy/) |
+| GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
 | Account Executive - Enterprise - Sports Specialist | On-site | [View →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
 | Applied AI Engineer, Startups (Physical AI) | On-site | [View →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
 | Applied AI Engineer, Startups (Life Sciences) | On-site | [View →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
@@ -39,10 +43,6 @@
 | Strategic Senior Finance Analyst, Consumer | Remote | [View →](https://www.remotejobscan.com/job/17977/strategic-senior-finance-analyst-consumer/) |
 | Partner Development Manager | Remote | [View →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
 | VP Sales, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
-| Principal Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18247/principal-recruiter/) |
-| Corporate Security Manager - Americas | Hybrid | [View →](https://www.remotejobscan.com/job/18249/corporate-security-manager-americas/) |
-| IT Logistics Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18248/it-logistics-lead/) |
-| VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

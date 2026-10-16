@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3045</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级前端工程师（消费者 - 高级交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
+| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18263/senior-data-scientist-product/) |
+| 公共政策总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18262/director-public-policy/) |
+| GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
 | 企业级体育专家 - 账户执行经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18260/account-executive-enterprise-sports-specialist/) |
 | 应用AI工程师，初创企业（物理AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18259/applied-ai-engineer-startups-physical-ai/) |
 | 应用AI工程师，初创公司（生命科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18258/applied-ai-engineer-startups-life-sciences/) |
@@ -39,10 +43,6 @@
 | 战略高级财务分析师，消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17977/strategic-senior-finance-analyst-consumer/) |
 | 合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18250/partner-development-manager/) |
 | EMEA销售副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10897/vp-sales-emea/) |
-| 高级招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18247/principal-recruiter/) |
-| 企业安全经理 - 美洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18249/corporate-security-manager-americas/) |
-| IT物流主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18248/it-logistics-lead/) |
-| 公共部门销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
