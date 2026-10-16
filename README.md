@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3056</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3055</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 中市场客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
+| 高级安全工程师 - xStocks | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
+| 软件工程师 - Java - CF基准 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18311/software-engineer-java-cf-benchmark/) |
+| 技术团队成员（安卓工程师，计算机增长） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18312/member-of-technical-staff-android-engineer-computer-growth/) |
+| 技术团队成员（iOS工程师，计算机增长） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18313/member-of-technical-staff-ios-engineer-computer-growth/) |
 | 战略机构合作总监 - 特殊项目负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16650/director-strategic-institutional-partnerships-special-projects-lead/) |
 | 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 | 隐私分析师（事件管理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
@@ -38,11 +43,6 @@
 | 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | 高级前端工程师，投资组合 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18308/senior-frontend-engineer-portfolio/) |
 | 设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10954/design-engineer/) |
-| 财务系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18304/financial-systems-engineer/) |
-| 社区参与经理，数据中心（蒙大拿州 & 犹他州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18303/community-engagement-manager-data-centers-montana-utah/) |
-| 招聘运营系统与赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18307/systems-enablement-lead-recruiting-operations/) |
-| 日本创意负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18306/creative-lead-japan/) |
-| 高等教育产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18305/product-designer-higher-education/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

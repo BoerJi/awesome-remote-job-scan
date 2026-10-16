@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3056</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3055</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Manager - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
+| Senior Security Engineer - xStocks | Remote | [View →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
+| Software Engineer - Java - CF Benchmark | Remote | [View →](https://www.remotejobscan.com/job/18311/software-engineer-java-cf-benchmark/) |
+| Member of Technical Staff (Android Engineer, Computer Growth) | Hybrid | [View →](https://www.remotejobscan.com/job/18312/member-of-technical-staff-android-engineer-computer-growth/) |
+| Member of Technical Staff (iOS Engineer, Computer Growth) | On-site | [View →](https://www.remotejobscan.com/job/18313/member-of-technical-staff-ios-engineer-computer-growth/) |
 | Director, Strategic Institutional Partnerships - Special Projects Lead | Remote | [View →](https://www.remotejobscan.com/job/16650/director-strategic-institutional-partnerships-special-projects-lead/) |
 | Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18116/analyst-privacy-privacy-assessments/) |
 | Analyst, Privacy (Incident Management) | Remote | [View →](https://www.remotejobscan.com/job/15150/analyst-privacy-incident-management/) |
@@ -38,11 +43,6 @@
 | Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | Senior Frontend Engineer, Portfolio | Remote | [View →](https://www.remotejobscan.com/job/18308/senior-frontend-engineer-portfolio/) |
 | Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10954/design-engineer/) |
-| Financial Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18304/financial-systems-engineer/) |
-| Community Engagement Manager, Data Centers (Montana & Utah) | Remote | [View →](https://www.remotejobscan.com/job/18303/community-engagement-manager-data-centers-montana-utah/) |
-| Systems & Enablement Lead, Recruiting Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18307/systems-enablement-lead-recruiting-operations/) |
-| Creative Lead, Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18306/creative-lead-japan/) |
-| Product Designer, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/18305/product-designer-higher-education/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
