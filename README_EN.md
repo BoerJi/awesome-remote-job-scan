@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3039</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Audio Engineer, Live Video | On-site | [View →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
+| Applied AI Architect, Security Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
+| Global Technical Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/18294/global-technical-talent-lead/) |
+| Global GTM Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/18293/global-gtm-talent-lead/) |
+| Chief of Staff - Talent | Remote | [View →](https://www.remotejobscan.com/job/18295/chief-of-staff-talent/) |
+| Senior / Staff Engineer, DEX Trading System | On-site | [View →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
+| Content Marketing Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/18289/content-marketing-manager-demand-generation/) |
 | Strategy & Systems Manager, Communications | Hybrid | [View →](https://www.remotejobscan.com/job/18287/strategy-systems-manager-communications/) |
 | B2B Communications Manager, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/18288/b2b-communications-manager-latam/) |
 | Solutions Architect | Remote | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
@@ -36,12 +43,6 @@
 | ICT Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
 | Enterprise Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 | Senior Analytics Engineer - Finance | Remote | [View →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
-| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
-| Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
-| Head of Finance (EU) | Remote | [View →](https://www.remotejobscan.com/job/17333/head-of-finance-eu/) |
-| Manager, Applied AI Architects - Digital Natives, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
-| Senior Quantitative Trader | Remote | [View →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| Senior /Staff AI Engineer | On-site | [View →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

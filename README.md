@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3039</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 现场视频音频工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18292/audio-engineer-live-video/) |
+| 应用AI架构师，安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
+| 全球技术人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18294/global-technical-talent-lead/) |
+| 全球全球市场人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18293/global-gtm-talent-lead/) |
+| 首席人才官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18295/chief-of-staff-talent/) |
+| 高级/资深工程师，DEX交易系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
+| 需求生成内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18289/content-marketing-manager-demand-generation/) |
 | 战略与系统经理，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18287/strategy-systems-manager-communications/) |
 | 拉美区B2B通讯经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18288/b2b-communications-manager-latam/) |
 | 解决方案架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
@@ -36,12 +43,6 @@
 | ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
 | 企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 | 高级分析工程师 - 金融 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
-| 法律应对专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
-| 应用AI工程师，有益部署（临床开发，罕见病与被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
-| 财务主管（欧盟） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17333/head-of-finance-eu/) |
-| EMEA数字原生应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18278/manager-applied-ai-architects-digital-natives-emea/) |
-| 高级量化交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8659/senior-quantitative-trader/) |
-| 高级/资深AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6956/senior-staff-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
