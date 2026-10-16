@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3055</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3060</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，战略企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
+| 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
+| AI增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
+| 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18316/customer-program-manager-executive-briefings/) |
+| 北美采用策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18318/adoption-strategist-north-america/) |
+| 市场推广支持 - 产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18319/gtm-enablement-product/) |
+| GTM赋能 - 销售执行与北美负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18317/gtm-enablement-sales-execution-north-america-lead/) |
 | 中市场客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
 | 高级安全工程师 - xStocks | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
 | 软件工程师 - Java - CF基准 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18311/software-engineer-java-cf-benchmark/) |
@@ -36,13 +43,6 @@
 | 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
 | 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| 招聘寻访师，业务（市场拓展、基础设施战略与行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
-| Staff+ 软件工程师，平台加速 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
-| 内容工作室负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18309/content-studio-lead/) |
-| 应用AI架构师，安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
-| 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
-| 高级前端工程师，投资组合 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18308/senior-frontend-engineer-portfolio/) |
-| 设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/10954/design-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

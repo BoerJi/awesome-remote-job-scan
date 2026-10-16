@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3055</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3060</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
+| Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
+| AI Growth Ops | Remote | [View →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
+| Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/18316/customer-program-manager-executive-briefings/) |
+| Adoption Strategist - North America | On-site | [View →](https://www.remotejobscan.com/job/18318/adoption-strategist-north-america/) |
+| GTM Enablement - Product | On-site | [View →](https://www.remotejobscan.com/job/18319/gtm-enablement-product/) |
+| GTM Enablement - Sales Execution & North America Lead | On-site | [View →](https://www.remotejobscan.com/job/18317/gtm-enablement-sales-execution-north-america-lead/) |
 | Account Manager - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
 | Senior Security Engineer - xStocks | Remote | [View →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
 | Software Engineer - Java - CF Benchmark | Remote | [View →](https://www.remotejobscan.com/job/18311/software-engineer-java-cf-benchmark/) |
@@ -36,13 +43,6 @@
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Senior Strategic Program Lead, GFCO | Remote | [View →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
 | Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| Recruiting Sourcer, Business (GTM, Infrastructure Strategy & G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
-| Staff+ Software Engineer, Platform Acceleration | On-site | [View →](https://www.remotejobscan.com/job/18122/staff-software-engineer-platform-acceleration/) |
-| Content Studio Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18309/content-studio-lead/) |
-| Applied AI Architect, Security Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-security-specialist/) |
-| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
-| Senior Frontend Engineer, Portfolio | Remote | [View →](https://www.remotejobscan.com/job/18308/senior-frontend-engineer-portfolio/) |
-| Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/10954/design-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
