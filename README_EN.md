@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3035</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3042</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/18284/applied-ai-architect-partnerships/) |
+| Technical Accounting Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
+| LATAM VIP Relationship Manager (Spanish) | Remote | [View →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| CFD Business Development Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
+| CFD Business Development Manager- Brazil | Remote | [View →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
+| KOL Business Development Manager-Brazil | Remote | [View →](https://www.remotejobscan.com/job/18267/kol-business-development-manager-brazil/) |
+| ICT Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
+| Enterprise Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 | Senior Analytics Engineer - Finance | Remote | [View →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
 | Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | On-site | [View →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
@@ -34,14 +42,6 @@
 | Senior Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 | Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
-| Internal Audit Lead (Non-Tech) | Remote | [View →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
-| Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
-| Technical Sourcer - Engineering | On-site | [View →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
-| Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18271/account-executive-japan/) |
-| Hardware Security Engineer Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18269/hardware-security-engineer-intern-summer-2027/) |
-| Hardware Security Engineer, New Grad (2027) | On-site | [View →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
-| Staff+ Software Engineer, Enterprise (Platform) | On-site | [View →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
-| Staff+ Software Engineer, Enterprise (Full Stack) | On-site | [View →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-16 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

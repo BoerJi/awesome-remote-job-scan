@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3035</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3042</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18284/applied-ai-architect-partnerships/) |
+| 高级技术会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14841/technical-accounting-senior-manager/) |
+| 拉丁美洲VIP关系经理（西班牙语） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11370/latam-vip-relationship-manager-spanish/) |
+| CFD业务发展经理，拉美地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15857/cfd-business-development-manager-latam/) |
+| CFD业务发展经理-巴西 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15313/cfd-business-development-manager-brazil/) |
+| KOL业务发展经理-巴西 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18267/kol-business-development-manager-brazil/) |
+| ICT风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11313/ict-risk-manager/) |
+| 企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 | 高级分析工程师 - 金融 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18280/senior-analytics-engineer-finance/) |
 | 法律应对专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
 | 应用AI工程师，有益部署（临床开发，罕见病与被忽视疾病） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18257/applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases/) |
@@ -34,14 +42,6 @@
 | 高级运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8983/senior-operations-manager/) |
 | 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 | FinHub（转账）团队高级后端软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
-| 内部审计主管（非技术） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18273/internal-audit-lead-non-tech/) |
-| 执行助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18274/executive-assistant-india-middle-east/) |
-| 技术招聘专员 - 工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
-| 日本区客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18271/account-executive-japan/) |
-| 硬件安全工程师实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18269/hardware-security-engineer-intern-summer-2027/) |
-| 硬件安全工程师，应届生（2027） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18270/hardware-security-engineer-new-grad-2027/) |
-| 企业级平台软件工程师（高级专家） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9677/staff-software-engineer-enterprise-platform/) |
-| 企业级软件工程师（全栈）Staff+ | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18268/staff-software-engineer-enterprise-full-stack/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-16 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
