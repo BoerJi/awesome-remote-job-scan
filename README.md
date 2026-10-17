@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3072</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 桌面推演负责人，Anthropic研究所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18335/tabletop-exercise-lead-the-anthropic-institute/) |
+| 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 | 软件工程师，全栈 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18333/software-engineer-full-stack-dots/) |
 | 软件工程师，移动网页 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
 | 前沿推测解码研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
@@ -41,8 +43,6 @@
 | B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | 应用AI架构师，战略企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
-| AI增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
-| 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18316/customer-program-manager-executive-briefings/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

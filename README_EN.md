@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3072</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Tabletop Exercise Lead, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18335/tabletop-exercise-lead-the-anthropic-institute/) |
+| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 | Software Engineer, Full Stack — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18333/software-engineer-full-stack-dots/) |
 | Software Engineer, Mobile Web — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
 | Research Intern, Frontier Speculative Decoding (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
@@ -41,8 +43,6 @@
 | B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | Applied AI Architect, Strategic Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/14788/applied-ai-architect-strategic-enterprise-tech/) |
 | Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
-| AI Growth Ops | Remote | [View →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
-| Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/18316/customer-program-manager-executive-briefings/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
