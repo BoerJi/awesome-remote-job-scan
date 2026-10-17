@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -40,9 +40,6 @@
 | Technical Program Manager, Science Strategy & Communications | On-site | [View →](https://www.remotejobscan.com/job/18324/technical-program-manager-science-strategy-communications/) |
 | Director, US International Tax Planning | On-site | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
 | Head of First Party Chip Finance | Hybrid | [View →](https://www.remotejobscan.com/job/18325/head-of-first-party-chip-finance/) |
-| Senior Machine Learning Engineer, CX | Remote | [View →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
-| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
-| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 21:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 22:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

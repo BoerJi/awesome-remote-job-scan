@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -40,9 +40,6 @@
 | 科学战略与沟通技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18324/technical-program-manager-science-strategy-communications/) |
 | 美国国际税务规划总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
 | 首单芯片金融负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18325/head-of-first-party-chip-finance/) |
-| 高级机器学习工程师，客户体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
-| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
-| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 21:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 22:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
