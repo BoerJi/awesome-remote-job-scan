@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,11 +35,6 @@
 | Model Policy Manager, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/18332/model-policy-manager-national-security/) |
 | Media Relations, Safety Communications | On-site | [View →](https://www.remotejobscan.com/job/18329/media-relations-safety-communications/) |
 | Full-Stack Software Engineer, Child Safety Tools & Systems (London) | On-site | [View →](https://www.remotejobscan.com/job/18330/full-stack-software-engineer-child-safety-tools-systems-london/) |
-| Member of Technical Staff (Software Engineer, Enterprise Trust & Governance) | On-site | [View →](https://www.remotejobscan.com/job/18331/member-of-technical-staff-software-engineer-enterprise-trust-governance/) |
-| Finance & Accounting Analyst | On-site | [View →](https://www.remotejobscan.com/job/18326/finance-accounting-analyst/) |
-| Technical Program Manager, Science Strategy & Communications | On-site | [View →](https://www.remotejobscan.com/job/18324/technical-program-manager-science-strategy-communications/) |
-| Director, US International Tax Planning | On-site | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
-| Head of First Party Chip Finance | Hybrid | [View →](https://www.remotejobscan.com/job/18325/head-of-first-party-chip-finance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

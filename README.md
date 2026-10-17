@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -35,11 +35,6 @@
 | 模型政策经理，国家安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18332/model-policy-manager-national-security/) |
 | 媒体关系、安全沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18329/media-relations-safety-communications/) |
 | 全栈软件工程师，儿童安全工具与系统（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18330/full-stack-software-engineer-child-safety-tools-systems-london/) |
-| 技术专家（企业信任与治理软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18331/member-of-technical-staff-software-engineer-enterprise-trust-governance/) |
-| 财务与会计分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18326/finance-accounting-analyst/) |
-| 科学战略与沟通技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18324/technical-program-manager-science-strategy-communications/) |
-| 美国国际税务规划总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
-| 首单芯片金融负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18325/head-of-first-party-chip-finance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
