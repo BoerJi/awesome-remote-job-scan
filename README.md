@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3068</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3072</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，全栈 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18333/software-engineer-full-stack-dots/) |
+| 软件工程师，移动网页 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
+| 前沿推测解码研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
+| 前沿推测解码研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
+| 模型政策经理，国家安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18332/model-policy-manager-national-security/) |
 | 媒体关系、安全沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18329/media-relations-safety-communications/) |
 | 全栈软件工程师，儿童安全工具与系统（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18330/full-stack-software-engineer-child-safety-tools-systems-london/) |
 | 技术专家（企业信任与治理软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18331/member-of-technical-staff-software-engineer-enterprise-trust-governance/) |
@@ -38,11 +43,6 @@
 | 企业技术应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | AI增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
 | 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18316/customer-program-manager-executive-briefings/) |
-| 北美采用策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18318/adoption-strategist-north-america/) |
-| 市场推广支持 - 产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18319/gtm-enablement-product/) |
-| GTM赋能 - 销售执行与北美负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18317/gtm-enablement-sales-execution-north-america-lead/) |
-| 中市场客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
-| 高级安全工程师 - xStocks | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

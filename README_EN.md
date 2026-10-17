@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3068</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3072</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Full Stack — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18333/software-engineer-full-stack-dots/) |
+| Software Engineer, Mobile Web — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
+| Research Intern, Frontier Speculative Decoding (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
+| Research Intern, Frontier Speculative Decoding (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
+| Model Policy Manager, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/18332/model-policy-manager-national-security/) |
 | Media Relations, Safety Communications | On-site | [View →](https://www.remotejobscan.com/job/18329/media-relations-safety-communications/) |
 | Full-Stack Software Engineer, Child Safety Tools & Systems (London) | On-site | [View →](https://www.remotejobscan.com/job/18330/full-stack-software-engineer-child-safety-tools-systems-london/) |
 | Member of Technical Staff (Software Engineer, Enterprise Trust & Governance) | On-site | [View →](https://www.remotejobscan.com/job/18331/member-of-technical-staff-software-engineer-enterprise-trust-governance/) |
@@ -38,11 +43,6 @@
 | Applied AI Architect, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12274/applied-ai-architect-enterprise-tech/) |
 | AI Growth Ops | Remote | [View →](https://www.remotejobscan.com/job/18320/ai-growth-ops/) |
 | Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/18316/customer-program-manager-executive-briefings/) |
-| Adoption Strategist - North America | On-site | [View →](https://www.remotejobscan.com/job/18318/adoption-strategist-north-america/) |
-| GTM Enablement - Product | On-site | [View →](https://www.remotejobscan.com/job/18319/gtm-enablement-product/) |
-| GTM Enablement - Sales Execution & North America Lead | On-site | [View →](https://www.remotejobscan.com/job/18317/gtm-enablement-sales-execution-north-america-lead/) |
-| Account Manager - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/18315/account-manager-mid-market/) |
-| Senior Security Engineer - xStocks | Remote | [View →](https://www.remotejobscan.com/job/18314/senior-security-engineer-xstocks/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
