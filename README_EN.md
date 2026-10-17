@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,7 +32,6 @@
 | Software Engineer, Mobile Web — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
 | Research Intern, Frontier Speculative Decoding (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
 | Research Intern, Frontier Speculative Decoding (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
-| Model Policy Manager, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/18332/model-policy-manager-national-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

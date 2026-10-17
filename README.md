@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,7 +32,6 @@
 | 软件工程师，移动网页 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
 | 前沿推测解码研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
 | 前沿推测解码研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
-| 模型政策经理，国家安全 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18332/model-policy-manager-national-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
