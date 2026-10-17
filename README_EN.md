@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3071</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
 | Policy Design Manager, Integrity and Authenticity | On-site | [View →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
 | Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/18336/customer-success-manager-enterprise-tech/) |
 | Tabletop Exercise Lead, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18335/tabletop-exercise-lead-the-anthropic-institute/) |
@@ -42,7 +43,6 @@
 | Senior Machine Learning Engineer, CX | Remote | [View →](https://www.remotejobscan.com/job/18321/senior-machine-learning-engineer-cx/) |
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
-| B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
