@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3074</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3075</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Account Executive | On-site | [View →](https://www.remotejobscan.com/job/18357/manager-account-executive/) |
 | Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
