@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3074</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（2 个精选职位）
+## 🆕 今日更新（3 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社区参与经理，数据中心（印第安纳州和肯塔基州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18365/community-engagement-manager-data-centers-indiana-kentucky/) |
 | 容量/计算首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18364/principal-engineer-capacitycompute/) |
 | 高级客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18357/manager-account-executive/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
@@ -87,6 +88,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-18 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-18 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
