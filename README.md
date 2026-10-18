@@ -19,13 +19,11 @@
 
 ---
 
-## 🆕 今日更新（3 个精选职位）
+## 🆕 今日更新（1 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 企业技术应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
-| 诚信与真实性政策设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
-| 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18336/customer-success-manager-enterprise-tech/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -88,6 +86,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-18 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-18 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

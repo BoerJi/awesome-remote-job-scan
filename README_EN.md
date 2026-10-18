@@ -19,13 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
-| Policy Design Manager, Integrity and Authenticity | On-site | [View →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
-| Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/18336/customer-success-manager-enterprise-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -88,6 +86,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
