@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,10 +28,6 @@
 | Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/18336/customer-success-manager-enterprise-tech/) |
 | Tabletop Exercise Lead, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18335/tabletop-exercise-lead-the-anthropic-institute/) |
 | Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
-| Software Engineer, Full Stack — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18333/software-engineer-full-stack-dots/) |
-| Software Engineer, Mobile Web — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
-| Research Intern, Frontier Speculative Decoding (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
-| Research Intern, Frontier Speculative Decoding (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-17 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

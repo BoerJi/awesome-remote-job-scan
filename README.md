@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（5 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -28,10 +28,6 @@
 | 企业技术客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18336/customer-success-manager-enterprise-tech/) |
 | 桌面推演负责人，Anthropic研究所 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18335/tabletop-exercise-lead-the-anthropic-institute/) |
 | 高级IT自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
-| 软件工程师，全栈 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18333/software-engineer-full-stack-dots/) |
-| 软件工程师，移动网页 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18334/software-engineer-mobile-web-dots/) |
-| 前沿推测解码研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
-| 前沿推测解码研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-17 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-18 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
