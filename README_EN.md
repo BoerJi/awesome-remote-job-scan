@@ -19,15 +19,13 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Applied AI Engineer, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise-tech/) |
 | Policy Design Manager, Integrity and Authenticity | On-site | [View →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
 | Customer Success Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/18336/customer-success-manager-enterprise-tech/) |
-| Tabletop Exercise Lead, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18335/tabletop-exercise-lead-the-anthropic-institute/) |
-| Senior IT Automation Engineer | Remote | [View →](https://www.remotejobscan.com/job/11787/senior-it-automation-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
