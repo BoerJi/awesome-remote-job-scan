@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3075</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3076</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/18364/principal-engineer-capacitycompute/) |
 | Manager, Account Executive | On-site | [View →](https://www.remotejobscan.com/job/18357/manager-account-executive/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -86,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-18 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
