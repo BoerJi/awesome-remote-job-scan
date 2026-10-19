@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3064</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3067</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployment Lead, Forward Deployed Engineering (FDE) - Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18412/deployment-lead-forward-deployed-engineering-fde-platform/) |
+| [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Head of Business Development, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
+| Technical Accounting Policy Manager | Remote | [View →](https://www.remotejobscan.com/job/9226/technical-accounting-policy-manager/) |
 | Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/18411/enterprise-deployment-chief-of-staff/) |
 | Global Candidate Experience Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18410/global-candidate-experience-manager/) |
 | Global Treasury Manager, Investments & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/18409/global-treasury-manager-investments-risk/) |
@@ -39,10 +43,6 @@
 | Data Engineer, Billing & Payments | On-site | [View →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
 | Applied AI Architect, Cyber Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
 | Customer Success Manager, Beneficial Deployments - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
-| Software Engineer, Backend — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18400/software-engineer-backend-dots/) |
-| Mechanical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18398/mechanical-engineer-pcba-test-infrastructure-robotics/) |
-| Program Manager, National Security Policy Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18399/program-manager-national-security-policy-operations/) |
-| Data Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
