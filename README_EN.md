@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3053</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3056</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| General Manager, Philippines | Hybrid | [View →](https://www.remotejobscan.com/job/18377/general-manager-philippines/) |
 | Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
 | Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/affiliate-business-development-manager-western-europe/) |
 | Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
