@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3058</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3062</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
+| 数据工程师，计费与支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
+| 应用AI架构师，网络安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
+| 客户成功经理，有益部署-生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
+| 软件工程师，后端 — Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18400/software-engineer-backend-dots/) |
+| 机械工程师，PCBA测试基础设施，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18398/mechanical-engineer-pcba-test-infrastructure-robotics/) |
+| 国家安全政策运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18399/program-manager-national-security-policy-operations/) |
+| 数据工程师，产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
+| Staff软件工程师，记忆与搜索 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18375/staff-software-engineer-memory-search/) |
+| WFM CX运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18396/manager-wfm-cx-operations/) |
 | 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | 软件工程师，CI/CD与ML基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-cicd-ml-infrastructure/) |
 | 行业应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/manager-of-applied-ai-architecture-industries/) |
@@ -33,16 +43,6 @@
 | 品牌与沟通活动经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18392/events-manager-brand-communications/) |
 | 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | 会计运营与战略项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
-| 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| 高级全栈工程师，增长与实验 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18387/senior-full-stack-engineer-growth-experimentation-krak/) |
-| 全栈工程师（后端倾向）- CoreMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
-| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
-| 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18386/full-stack-engineer-elevenmusic/) |
-| 全栈工程师（前端导向）- CreativeMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18383/full-stack-engineer-frontend-leaning-creativemusic/) |
-| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18382/customer-success-manager/) |
-| 企业客户经理，数字原生业务 - 慕尼黑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18381/enterprise-account-executive-digital-native-business-munich/) |
-| 菲律宾总经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18377/general-manager-philippines/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

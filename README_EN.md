@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3062</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
+| Data Engineer, Billing & Payments | On-site | [View →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
+| Applied AI Architect, Cyber Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
+| Customer Success Manager, Beneficial Deployments - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
+| Software Engineer, Backend — Dots | Hybrid | [View →](https://www.remotejobscan.com/job/18400/software-engineer-backend-dots/) |
+| Mechanical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18398/mechanical-engineer-pcba-test-infrastructure-robotics/) |
+| Program Manager, National Security Policy Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18399/program-manager-national-security-policy-operations/) |
+| Data Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
+| Staff Software Engineer, Memory & Search | Remote | [View →](https://www.remotejobscan.com/job/18375/staff-software-engineer-memory-search/) |
+| Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/18396/manager-wfm-cx-operations/) |
 | Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | Software Engineer, CI/CD & ML Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-cicd-ml-infrastructure/) |
 | Manager of Applied AI Architecture, Industries | On-site | [View →](https://www.remotejobscan.com/job/18395/manager-of-applied-ai-architecture-industries/) |
@@ -33,16 +43,6 @@
 | Events Manager, Brand & Communications | Hybrid | [View →](https://www.remotejobscan.com/job/18392/events-manager-brand-communications/) |
 | Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | Program Manager, Accounting Operations & Strategy | On-site | [View →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
-| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| Senior Full Stack Engineer, Growth & Experimentation – Krak | Remote | [View →](https://www.remotejobscan.com/job/18387/senior-full-stack-engineer-growth-experimentation-krak/) |
-| Full-Stack Engineer (Backend Leaning) - CoreMusic | Remote | [View →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
-| Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
-| Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18386/full-stack-engineer-elevenmusic/) |
-| Full-Stack Engineer (Frontend-Leaning) - CreativeMusic | Remote | [View →](https://www.remotejobscan.com/job/18383/full-stack-engineer-frontend-leaning-creativemusic/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18382/customer-success-manager/) |
-| Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/18381/enterprise-account-executive-digital-native-business-munich/) |
-| General Manager, Philippines | Hybrid | [View →](https://www.remotejobscan.com/job/18377/general-manager-philippines/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
