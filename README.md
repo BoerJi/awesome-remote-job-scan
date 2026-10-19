@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3064</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3070</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 准备工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
+| 合规KYC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
+| 新加坡政策与政府关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
+| 审计、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18415/audit-security-grc/) |
+| 平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
+| 产品设计师，安全卫士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
+| 商业营销创意资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18417/creative-resource-manager-business-marketing/) |
+| 企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 | 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
 | IT系统工程师，客户端平台工程师，ChromeOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
 | 创意总监，文案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18414/creative-director-copy/) |
@@ -35,14 +43,6 @@
 | 全球财富管理经理，投资与风险 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18409/global-treasury-manager-investments-risk/) |
 | 产品经理，Claude 市场 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
 | 薪酬项目与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
-| 产品可靠性工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18406/product-reliability-engineer/) |
-| 高级产品设计师，开发者基础 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18404/senior-product-designer-developer-foundations/) |
-| 政策项目经理，安全监管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18405/policy-program-manager-safeguards-regulatory/) |
-| IT SOX总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
-| 企业行业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18402/sales-manager-enterprise-industries/) |
-| 欧洲、中东和非洲（EMEA）市场拓展项目负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
-| 交付运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18403/delivery-operations-analyst/) |
-| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

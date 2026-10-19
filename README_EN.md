@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3064</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3070</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Preparedness | Hybrid | [View →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
+| Compliance KYC Manager | Remote | [View →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
+| Manager, Policy & Government Relations - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
+| Audit, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/18415/audit-security-grc/) |
+| Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
+| Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
+| Creative Resource Manager, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/18417/creative-resource-manager-business-marketing/) |
+| Enterprise Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 | Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
 | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
 | Creative Director, Copy | Hybrid | [View →](https://www.remotejobscan.com/job/18414/creative-director-copy/) |
@@ -35,14 +43,6 @@
 | Global Treasury Manager, Investments & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/18409/global-treasury-manager-investments-risk/) |
 | Product Manager, Claude Marketplace | On-site | [View →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
 | Compensation Programs & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
-| Product Reliability Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18406/product-reliability-engineer/) |
-| Senior Product Designer, Developer Foundations | Remote | [View →](https://www.remotejobscan.com/job/18404/senior-product-designer-developer-foundations/) |
-| Policy Program Manager, Safeguards Regulatory | On-site | [View →](https://www.remotejobscan.com/job/18405/policy-program-manager-safeguards-regulatory/) |
-| Director, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
-| Sales Manager, Enterprise Industries | On-site | [View →](https://www.remotejobscan.com/job/18402/sales-manager-enterprise-industries/) |
-| Head of GTM Programs EMEA | On-site | [View →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
-| Delivery Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/18403/delivery-operations-analyst/) |
-| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
