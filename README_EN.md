@@ -14,18 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3069</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3075</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（3 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/18371/principal-engineer-capacitycompute/) |
 | Community Engagement Manager, Data Centers (Indiana & Kentucky) | Remote | [View →](https://www.remotejobscan.com/job/18365/community-engagement-manager-data-centers-indiana-kentucky/) |
-| Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/18364/principal-engineer-capacitycompute/) |
-| Manager, Account Executive | On-site | [View →](https://www.remotejobscan.com/job/18357/manager-account-executive/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -88,6 +87,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
