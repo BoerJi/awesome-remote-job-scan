@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3062</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3066</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 薪酬项目与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
+| 产品可靠性工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18406/product-reliability-engineer/) |
+| 高级产品设计师，开发者基础 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18404/senior-product-designer-developer-foundations/) |
+| 政策项目经理，安全监管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18405/policy-program-manager-safeguards-regulatory/) |
+| IT SOX总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
+| 企业行业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18402/sales-manager-enterprise-industries/) |
+| 欧洲、中东和非洲（EMEA）市场拓展项目负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
+| 交付运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18403/delivery-operations-analyst/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
 | 数据工程师，计费与支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
 | 应用AI架构师，网络安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
@@ -35,14 +43,6 @@
 | WFM CX运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18396/manager-wfm-cx-operations/) |
 | 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | 软件工程师，CI/CD与ML基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17298/software-engineer-cicd-ml-infrastructure/) |
-| 行业应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/manager-of-applied-ai-architecture-industries/) |
-| 三方收入会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18394/3p-revenue-accounting-reporting/) |
-| 高管助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18393/executive-assistant-india-middle-east/) |
-| 高级销售运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
-| 沙盒软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
-| 品牌与沟通活动经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18392/events-manager-brand-communications/) |
-| 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
-| 会计运营与战略项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

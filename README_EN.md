@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3062</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3066</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compensation Programs & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
+| Product Reliability Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18406/product-reliability-engineer/) |
+| Senior Product Designer, Developer Foundations | Remote | [View →](https://www.remotejobscan.com/job/18404/senior-product-designer-developer-foundations/) |
+| Policy Program Manager, Safeguards Regulatory | On-site | [View →](https://www.remotejobscan.com/job/18405/policy-program-manager-safeguards-regulatory/) |
+| Director, IT SOX | On-site | [View →](https://www.remotejobscan.com/job/16719/director-it-sox/) |
+| Sales Manager, Enterprise Industries | On-site | [View →](https://www.remotejobscan.com/job/18402/sales-manager-enterprise-industries/) |
+| Head of GTM Programs EMEA | On-site | [View →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
+| Delivery Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/18403/delivery-operations-analyst/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
 | Data Engineer, Billing & Payments | On-site | [View →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
 | Applied AI Architect, Cyber Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
@@ -35,14 +43,6 @@
 | Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/18396/manager-wfm-cx-operations/) |
 | Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | Software Engineer, CI/CD & ML Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-cicd-ml-infrastructure/) |
-| Manager of Applied AI Architecture, Industries | On-site | [View →](https://www.remotejobscan.com/job/18395/manager-of-applied-ai-architecture-industries/) |
-| 3P Revenue Accounting & Reporting | On-site | [View →](https://www.remotejobscan.com/job/18394/3p-revenue-accounting-reporting/) |
-| Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18393/executive-assistant-india-middle-east/) |
-| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
-| Software Engineer, Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
-| Events Manager, Brand & Communications | Hybrid | [View →](https://www.remotejobscan.com/job/18392/events-manager-brand-communications/) |
-| Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
-| Program Manager, Accounting Operations & Strategy | On-site | [View →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
