@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3067</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3065</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
+| IT系统工程师，客户端平台工程师，ChromeOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
+| 创意总监，文案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18414/creative-director-copy/) |
 | 部署主管，前沿部署工程（FDE）- 平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18412/deployment-lead-forward-deployed-engineering-fde-platform/) |
 | [初级 / 中级 / 高级] 软件工程师，推理 / 计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 拉丁美洲业务发展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
@@ -40,9 +43,6 @@
 | 欧洲、中东和非洲（EMEA）市场拓展项目负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
 | 交付运营分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18403/delivery-operations-analyst/) |
 | 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
-| 数据工程师，计费与支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
-| 应用AI架构师，网络安全专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
-| 客户成功经理，有益部署-生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

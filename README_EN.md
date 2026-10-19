@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3067</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3065</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
+| IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
+| Creative Director, Copy | Hybrid | [View →](https://www.remotejobscan.com/job/18414/creative-director-copy/) |
 | Deployment Lead, Forward Deployed Engineering (FDE) - Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18412/deployment-lead-forward-deployed-engineering-fde-platform/) |
 | [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Head of Business Development, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
@@ -40,9 +43,6 @@
 | Head of GTM Programs EMEA | On-site | [View →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
 | Delivery Operations Analyst | Remote | [View →](https://www.remotejobscan.com/job/18403/delivery-operations-analyst/) |
 | Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18401/recruiting-coordinator/) |
-| Data Engineer, Billing & Payments | On-site | [View →](https://www.remotejobscan.com/job/18038/data-engineer-billing-payments/) |
-| Applied AI Architect, Cyber Specialist | On-site | [View →](https://www.remotejobscan.com/job/18291/applied-ai-architect-cyber-specialist/) |
-| Customer Success Manager, Beneficial Deployments - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15833/customer-success-manager-beneficial-deployments-life-sciences/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
