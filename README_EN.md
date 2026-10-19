@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3057</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
+| Account Executive, Mid Market - India | Remote | [View →](https://www.remotejobscan.com/job/18376/account-executive-mid-market-india/) |
+| Web3 Product Manager Web3 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
+| Software Engineer, Memory & Search | Remote | [View →](https://www.remotejobscan.com/job/18375/software-engineer-memory-search/) |
 | Applied AI Engineer, Startups (Mandarin-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
 | Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/15691/hrbp/) |
@@ -92,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

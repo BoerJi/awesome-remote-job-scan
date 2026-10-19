@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3057</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3058</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社交媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
+| 印度中型市场客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18376/account-executive-mid-market-india/) |
+| Web3 Product Manager Web3 产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
+| 记忆与搜索软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18375/software-engineer-memory-search/) |
 | 应用AI工程师，初创企业（普通话） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
 | 全球财富服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | 全球资金服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-global-treasury-services/) |
@@ -94,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
