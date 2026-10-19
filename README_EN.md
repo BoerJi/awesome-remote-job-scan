@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3070</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| Applied AI Demo Engineer | On-site | [View →](https://www.remotejobscan.com/job/18422/applied-ai-demo-engineer/) |
+| Deployment Strategist - Italy | Remote | [View →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
+| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
+| Senior Software Engineer, Mobile (Platform - Identity) | Remote | [View →](https://www.remotejobscan.com/job/14888/senior-software-engineer-mobile-platform-identity/) |
 | Engineering Manager, Preparedness | Hybrid | [View →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
 | Compliance KYC Manager | Remote | [View →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
 | Manager, Policy & Government Relations - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
@@ -38,11 +43,6 @@
 | [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Head of Business Development, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
 | Technical Accounting Policy Manager | Remote | [View →](https://www.remotejobscan.com/job/9226/technical-accounting-policy-manager/) |
-| Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/18411/enterprise-deployment-chief-of-staff/) |
-| Global Candidate Experience Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18410/global-candidate-experience-manager/) |
-| Global Treasury Manager, Investments & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/18409/global-treasury-manager-investments-risk/) |
-| Product Manager, Claude Marketplace | On-site | [View →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
-| Compensation Programs & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

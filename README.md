@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3070</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| 应用AI演示工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18422/applied-ai-demo-engineer/) |
+| 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
+| 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
+| 高级移动工程师（平台-身份） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14888/senior-software-engineer-mobile-platform-identity/) |
 | 准备工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
 | 合规KYC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
 | 新加坡政策与政府关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
@@ -38,11 +43,6 @@
 | [初级 / 中级 / 高级] 软件工程师，推理 / 计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 拉丁美洲业务发展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
 | 技术会计政策经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9226/technical-accounting-policy-manager/) |
-| 企业部署 - 总务长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18411/enterprise-deployment-chief-of-staff/) |
-| 全球候选人体验经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18410/global-candidate-experience-manager/) |
-| 全球财富管理经理，投资与风险 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18409/global-treasury-manager-investments-risk/) |
-| 产品经理，Claude 市场 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
-| 薪酬项目与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
