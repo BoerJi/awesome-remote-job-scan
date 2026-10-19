@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3062</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3061</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Full Stack Engineer, Growth & Experimentation – Krak | Remote | [View →](https://www.remotejobscan.com/job/18387/senior-full-stack-engineer-growth-experimentation-krak/) |
 | Full-Stack Engineer (Backend Leaning) - CoreMusic | Remote | [View →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
 | Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18386/full-stack-engineer-elevenmusic/) |
@@ -41,7 +42,6 @@
 | Applied AI Engineer, Startups (Mandarin-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
 | Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/15691/hrbp/) |
-| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

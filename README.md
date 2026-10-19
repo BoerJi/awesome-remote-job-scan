@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3062</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3061</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级全栈工程师，增长与实验 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18387/senior-full-stack-engineer-growth-experimentation-krak/) |
 | 全栈工程师（后端倾向）- CoreMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
 | 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18386/full-stack-engineer-elevenmusic/) |
@@ -42,7 +43,6 @@
 | 全球财富服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | 全球资金服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-global-treasury-services/) |
 | 人力资源业务伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15691/hrbp/) |
-| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
