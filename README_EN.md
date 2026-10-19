@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3054</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 | Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
 | Account Executive, Mid Market - India | Remote | [View →](https://www.remotejobscan.com/job/18376/account-executive-mid-market-india/) |
 | Web3 Product Manager Web3 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
@@ -96,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
