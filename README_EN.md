@@ -14,15 +14,21 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3056</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3062</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Engineer (Backend Leaning) - CoreMusic | Remote | [View →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
+| Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
+| Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18386/full-stack-engineer-elevenmusic/) |
+| Full-Stack Engineer (Frontend-Leaning) - CreativeMusic | Remote | [View →](https://www.remotejobscan.com/job/18383/full-stack-engineer-frontend-leaning-creativemusic/) |
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18382/customer-success-manager/) |
+| Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/18381/enterprise-account-executive-digital-native-business-munich/) |
 | General Manager, Philippines | Hybrid | [View →](https://www.remotejobscan.com/job/18377/general-manager-philippines/) |
 | Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
 | Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/affiliate-business-development-manager-western-europe/) |
@@ -36,9 +42,6 @@
 | Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/15691/hrbp/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
-| Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/18372/member-of-technical-staff-software-engineer-enterprise-agent-evals-efficiency/) |
-| Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/18371/principal-engineer-capacitycompute/) |
-| Community Engagement Manager, Data Centers (Indiana & Kentucky) | Remote | [View →](https://www.remotejobscan.com/job/18365/community-engagement-manager-data-centers-indiana-kentucky/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
