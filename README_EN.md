@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3057</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Startups (Mandarin-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
+| Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | HRBP | Remote | [View →](https://www.remotejobscan.com/job/15691/hrbp/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/18372/member-of-technical-staff-software-engineer-enterprise-agent-evals-efficiency/) |
@@ -90,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
