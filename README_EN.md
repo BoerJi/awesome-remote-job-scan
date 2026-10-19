@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3057</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3058</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| Software Engineer, CI/CD & ML Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-cicd-ml-infrastructure/) |
+| Manager of Applied AI Architecture, Industries | On-site | [View →](https://www.remotejobscan.com/job/18395/manager-of-applied-ai-architecture-industries/) |
+| 3P Revenue Accounting & Reporting | On-site | [View →](https://www.remotejobscan.com/job/18394/3p-revenue-accounting-reporting/) |
 | Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18393/executive-assistant-india-middle-east/) |
 | Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | Software Engineer, Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
@@ -39,10 +43,6 @@
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18382/customer-success-manager/) |
 | Enterprise Account Executive, Digital Native Business - Munich | On-site | [View →](https://www.remotejobscan.com/job/18381/enterprise-account-executive-digital-native-business-munich/) |
 | General Manager, Philippines | Hybrid | [View →](https://www.remotejobscan.com/job/18377/general-manager-philippines/) |
-| Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
-| Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/affiliate-business-development-manager-western-europe/) |
-| Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
-| Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
