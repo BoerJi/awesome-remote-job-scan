@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3054</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3053</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Backend - FinHub (Transfers) | Remote | [View →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
+| Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/affiliate-business-development-manager-western-europe/) |
+| Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
 | Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 | Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
 | Account Executive, Mid Market - India | Remote | [View →](https://www.remotejobscan.com/job/18376/account-executive-mid-market-india/) |
@@ -97,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

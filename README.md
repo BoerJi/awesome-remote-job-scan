@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3054</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3053</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| FinHub（转账）团队后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18275/staff-software-engineer-backend-finhub-transfers/) |
+| 西欧联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11523/affiliate-business-development-manager-western-europe/) |
+| 技术合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
 | 社区运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
 | 社交媒体经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
 | 印度中型市场客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18376/account-executive-mid-market-india/) |
@@ -99,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
