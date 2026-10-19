@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3066</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3064</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Deployment - Chief of Staff | Remote | [View →](https://www.remotejobscan.com/job/18411/enterprise-deployment-chief-of-staff/) |
+| Global Candidate Experience Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18410/global-candidate-experience-manager/) |
+| Global Treasury Manager, Investments & Risk | Hybrid | [View →](https://www.remotejobscan.com/job/18409/global-treasury-manager-investments-risk/) |
+| Product Manager, Claude Marketplace | On-site | [View →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
 | Compensation Programs & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18407/compensation-programs-operations-lead/) |
 | Product Reliability Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18406/product-reliability-engineer/) |
 | Senior Product Designer, Developer Foundations | Remote | [View →](https://www.remotejobscan.com/job/18404/senior-product-designer-developer-foundations/) |
@@ -39,10 +43,6 @@
 | Mechanical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18398/mechanical-engineer-pcba-test-infrastructure-robotics/) |
 | Program Manager, National Security Policy Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18399/program-manager-national-security-policy-operations/) |
 | Data Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/17959/data-engineer-product/) |
-| Staff Software Engineer, Memory & Search | Remote | [View →](https://www.remotejobscan.com/job/18375/staff-software-engineer-memory-search/) |
-| Manager, WFM CX Operations | Remote | [View →](https://www.remotejobscan.com/job/18396/manager-wfm-cx-operations/) |
-| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
-| Software Engineer, CI/CD & ML Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/17298/software-engineer-cicd-ml-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
