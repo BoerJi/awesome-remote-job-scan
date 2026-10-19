@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 | Senior Full Stack Engineer, Growth & Experimentation – Krak | Remote | [View →](https://www.remotejobscan.com/job/18387/senior-full-stack-engineer-growth-experimentation-krak/) |
 | Full-Stack Engineer (Backend Leaning) - CoreMusic | Remote | [View →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
@@ -41,7 +42,6 @@
 | Software Engineer, Memory & Search | Remote | [View →](https://www.remotejobscan.com/job/18375/software-engineer-memory-search/) |
 | Applied AI Engineer, Startups (Mandarin-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
 | Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
-| HRBP | Remote | [View →](https://www.remotejobscan.com/job/15691/hrbp/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

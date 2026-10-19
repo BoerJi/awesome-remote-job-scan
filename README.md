@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 | 高级全栈工程师，增长与实验 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18387/senior-full-stack-engineer-growth-experimentation-krak/) |
 | 全栈工程师（后端倾向）- CoreMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18384/full-stack-engineer-backend-leaning-coremusic/) |
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18385/mobile-engineer-elevenmusic/) |
@@ -42,7 +43,6 @@
 | 应用AI工程师，初创企业（普通话） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
 | 全球财富服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17545/director-global-treasury-services/) |
 | 全球资金服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7632/director-global-treasury-services/) |
-| 人力资源业务伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15691/hrbp/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
