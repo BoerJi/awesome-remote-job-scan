@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3055</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3057</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18393/executive-assistant-india-middle-east/) |
+| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
+| Software Engineer, Sandboxing | On-site | [View →](https://www.remotejobscan.com/job/17512/software-engineer-sandboxing/) |
+| Events Manager, Brand & Communications | Hybrid | [View →](https://www.remotejobscan.com/job/18392/events-manager-brand-communications/) |
+| Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | Program Manager, Accounting Operations & Strategy | On-site | [View →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
 | Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
@@ -38,11 +43,6 @@
 | Affiliate Business Development Manager, Western Europe | Remote | [View →](https://www.remotejobscan.com/job/11523/affiliate-business-development-manager-western-europe/) |
 | Lead, Technical Compliance | Remote | [View →](https://www.remotejobscan.com/job/15133/lead-technical-compliance/) |
 | Community Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/12669/community-operations-manager/) |
-| Social Media Manager | Remote | [View →](https://www.remotejobscan.com/job/12676/social-media-manager/) |
-| Account Executive, Mid Market - India | Remote | [View →](https://www.remotejobscan.com/job/18376/account-executive-mid-market-india/) |
-| Web3 Product Manager Web3 产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16749/web3-product-manager-web3/) |
-| Software Engineer, Memory & Search | Remote | [View →](https://www.remotejobscan.com/job/18375/software-engineer-memory-search/) |
-| Applied AI Engineer, Startups (Mandarin-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18374/applied-ai-engineer-startups-mandarin-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
