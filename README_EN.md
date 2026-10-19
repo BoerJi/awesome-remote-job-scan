@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3075</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency) | On-site | [View →](https://www.remotejobscan.com/job/18372/member-of-technical-staff-software-engineer-enterprise-agent-evals-efficiency/) |
 | Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/18371/principal-engineer-capacitycompute/) |
 | Community Engagement Manager, Data Centers (Indiana & Kentucky) | Remote | [View →](https://www.remotejobscan.com/job/18365/community-engagement-manager-data-centers-indiana-kentucky/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
@@ -87,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-19 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

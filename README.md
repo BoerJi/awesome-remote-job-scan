@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3075</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（5 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术专家（软件工程师，企业代理评估与效率） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18372/member-of-technical-staff-software-engineer-enterprise-agent-evals-efficiency/) |
 | 计算能力首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18371/principal-engineer-capacitycompute/) |
 | 首席工程师 - 容量/计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18370/principal-engineer-capacitycompute/) |
 | 社区参与经理，数据中心（印第安纳州和肯塔基州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18365/community-engagement-manager-data-centers-indiana-kentucky/) |
@@ -88,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-19 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
