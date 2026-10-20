@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3077</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,13 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Lead - Corporate - West | Remote | [View →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
+| Software Engineering Manager, AI Observability & Evals Platform (New York, NY) | On-site | [View →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
+| Software Engineering Manager, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
+| Technical Program Manager, AI Delivery for Public Sector & Defense, Germany | Remote | [View →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
 | Senior Manager, Solutions Architecture | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
 | Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
 | Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| Sales Lead - Corporate - West | Remote | [View →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
 | Research Engineer - Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18424/research-engineer-data-infrastructure/) |
 | HPC Infrastructure Engineer - GPU Clusters | Remote | [View →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
 | Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
@@ -40,9 +43,6 @@
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
 | Senior Software Engineer, Mobile (Platform - Identity) | Remote | [View →](https://www.remotejobscan.com/job/14888/senior-software-engineer-mobile-platform-identity/) |
 | Engineering Manager, Preparedness | Hybrid | [View →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
-| Compliance KYC Manager | Remote | [View →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
-| Manager, Policy & Government Relations - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
-| Audit, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/18415/audit-security-grc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

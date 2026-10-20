@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3077</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售主管 - 企业业务 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
+| 软件工程经理，AI可观察性与评估平台（纽约，纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
+| AI可观察性与评估平台软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
+| 技术项目经理，公共部门和国防AI交付，德国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
 | 高级解决方案架构师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | 专业服务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
 | 初创企业解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
 | 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| 企业销售主管 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
 | 研究工程师 - 数据基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18424/research-engineer-data-infrastructure/) |
 | HPC基础设施工程师 - GPU集群 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
 | Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
@@ -40,9 +43,6 @@
 | 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
 | 高级移动工程师（平台-身份） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14888/senior-software-engineer-mobile-platform-identity/) |
 | 准备工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
-| 合规KYC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
-| 新加坡政策与政府关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
-| 审计、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18415/audit-security-grc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
