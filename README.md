@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3076</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 对冲基金企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
+| 生命科学企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
+| 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
+| 网络安全销售专家经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
+| 拉丁美洲VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18471/vip-relationship-manager-latam/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 | 企业客户经理，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
 | 销售发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
@@ -37,11 +42,6 @@
 | 业务与AI流程自动化分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18456/business-ai-process-automation-analyst/) |
 | Web3产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
-| 联邦政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18430/account-director-federal-civilian/) |
-| 销售主管 - 企业业务 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
-| 软件工程经理，AI可观察性与评估平台（纽约，纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
-| AI可观察性与评估平台软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
-| 技术项目经理，公共部门和国防AI交付，德国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

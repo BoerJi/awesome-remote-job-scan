@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3076</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
+| Manager, Enterprise Sales - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
+| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
+| Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
+| VIP Relationship Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/18471/vip-relationship-manager-latam/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 | Enterprise Account Executive, DNB | On-site | [View →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
 | Manager, Sales Development | Hybrid | [View →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
@@ -36,11 +41,6 @@
 | Business & AI Process Automation Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18456/business-ai-process-automation-analyst/) |
 | Deputy General Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
-| Account Director, Federal Civilian | Hybrid | [View →](https://www.remotejobscan.com/job/18430/account-director-federal-civilian/) |
-| Sales Lead - Corporate - West | Remote | [View →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
-| Software Engineering Manager, AI Observability & Evals Platform (New York, NY) | On-site | [View →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
-| Software Engineering Manager, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
-| Technical Program Manager, AI Delivery for Public Sector & Defense, Germany | Remote | [View →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
