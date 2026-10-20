@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3056</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Federal Civilian | Hybrid | [View →](https://www.remotejobscan.com/job/18430/account-director-federal-civilian/) |
 | Sales Lead - Corporate - West | Remote | [View →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
 | Software Engineering Manager, AI Observability & Evals Platform (New York, NY) | On-site | [View →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
 | Software Engineering Manager, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
@@ -42,7 +43,6 @@
 | Deployment Strategist - Italy | Remote | [View →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
 | Senior Software Engineer, Mobile (Platform - Identity) | Remote | [View →](https://www.remotejobscan.com/job/14888/senior-software-engineer-mobile-platform-identity/) |
-| Engineering Manager, Preparedness | Hybrid | [View →](https://www.remotejobscan.com/job/18419/engineering-manager-preparedness/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
