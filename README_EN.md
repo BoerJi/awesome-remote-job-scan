@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3092</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
+| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
+| Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
+| Deputy General Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
+| GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | Product Data Scientist - Youth, Families and Learning | Hybrid | [View →](https://www.remotejobscan.com/job/18512/product-data-scientist-youth-families-and-learning/) |
 | Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
-| Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/18510/complaints-analyst-iii/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
@@ -37,11 +42,6 @@
 | Mid-Market Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/9504/mid-market-account-executive-industries/) |
 | Program Manager, Accounting Operations & Strategy | On-site | [View →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
 | Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/18504/finance-strategy-gtm-post-sales/) |
-| Corporate Development, Deal Lead | On-site | [View →](https://www.remotejobscan.com/job/18503/corporate-development-deal-lead/) |
-| Compliance Program Manager — Regulatory Compliance | Hybrid | [View →](https://www.remotejobscan.com/job/18502/compliance-program-manager-regulatory-compliance/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
-| Manager, Applied AI Cyber Specialists | On-site | [View →](https://www.remotejobscan.com/job/18499/manager-applied-ai-cyber-specialists/) |
-| Finance & Strategy, Compute Network | On-site | [View →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-network/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3095</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| (Staff / Senior Staff) AI基础架构工程师，推理基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
+| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
+| 美国AI监管法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
+| Web3产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
+| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | 产品数据科学家 - 青少年、家庭与学习 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18512/product-data-scientist-youth-families-and-learning/) |
 | 合规分析师，市场监控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
-| 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18510/complaints-analyst-iii/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
 | Next.js 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
@@ -37,11 +42,6 @@
 | 中市场行业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9504/mid-market-account-executive-industries/) |
 | 会计运营与战略项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
 | 财务与战略，GTM-售后 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18504/finance-strategy-gtm-post-sales/) |
-| 企业发展，交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18503/corporate-development-deal-lead/) |
-| 合规项目经理 — 监管合规 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18502/compliance-program-manager-regulatory-compliance/) |
-| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
-| 应用人工智能网络安全专家经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18499/manager-applied-ai-cyber-specialists/) |
-| 财务与战略，计算网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-network/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
