@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级解决方案架构师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| 专业服务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
+| 初创企业解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
+| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | 企业销售主管 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
@@ -39,10 +43,6 @@
 | 合规KYC经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
 | 新加坡政策与政府关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
 | 审计、安全GRC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18415/audit-security-grc/) |
-| 平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
-| 产品设计师，安全卫士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
-| 商业营销创意资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18417/creative-resource-manager-business-marketing/) |
-| 企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

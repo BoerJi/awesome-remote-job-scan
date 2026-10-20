@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Solutions Architecture | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
+| Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
+| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | Sales Lead - Corporate - West | Remote | [View →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
@@ -39,10 +43,6 @@
 | Compliance KYC Manager | Remote | [View →](https://www.remotejobscan.com/job/18418/compliance-kyc-manager/) |
 | Manager, Policy & Government Relations - Singapore | Remote | [View →](https://www.remotejobscan.com/job/18416/manager-policy-government-relations-singapore/) |
 | Audit, Security GRC | On-site | [View →](https://www.remotejobscan.com/job/18415/audit-security-grc/) |
-| Software Engineer, Platform | Hybrid | [View →](https://www.remotejobscan.com/job/16406/software-engineer-platform/) |
-| Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
-| Creative Resource Manager, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/18417/creative-resource-manager-business-marketing/) |
-| Enterprise Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
