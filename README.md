@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3076</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3079</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据科学家，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
+| Staff+ 软件工程师，VectorDB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18458/staff-software-engineer-vectordb/) |
+| 业务与AI流程自动化分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18456/business-ai-process-automation-analyst/) |
+| Web3产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 | 联邦政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18430/account-director-federal-civilian/) |
 | 销售主管 - 企业业务 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
@@ -39,10 +43,6 @@
 | HPC基础设施工程师 - GPU集群 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
 | Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
 | 代理后训练、计算机使用研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18423/agent-post-training-computer-use-research/) |
-| 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
-| 应用AI演示工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18422/applied-ai-demo-engineer/) |
-| 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
-| 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
