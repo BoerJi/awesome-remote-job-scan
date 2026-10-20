@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3081</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| Enterprise Account Executive, DNB | On-site | [View →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
 | Manager, Sales Development | Hybrid | [View →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
 | Senior Support Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/18462/senior-support-operations-manager/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
@@ -39,8 +41,6 @@
 | Software Engineering Manager, AI Observability & Evals Platform (New York, NY) | On-site | [View →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
 | Software Engineering Manager, AI Observability & Evals Platform | On-site | [View →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
 | Technical Program Manager, AI Delivery for Public Sector & Defense, Germany | Remote | [View →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
-| Senior Manager, Solutions Architecture | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
-| Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

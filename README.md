@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3081</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| 企业客户经理，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
 | 销售发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
 | 高级支持运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18462/senior-support-operations-manager/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
@@ -40,8 +42,6 @@
 | 软件工程经理，AI可观察性与评估平台（纽约，纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
 | AI可观察性与评估平台软件工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16061/software-engineering-manager-ai-observability-evals-platform/) |
 | 技术项目经理，公共部门和国防AI交付，德国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
-| 高级解决方案架构师经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
-| 专业服务负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
