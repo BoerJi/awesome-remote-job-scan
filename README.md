@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3077</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 存储产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
+| 高级产品总监，AI与智能体 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent/) |
 | 高级产品总监，AI与代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17921/senior-product-director-ai-agent/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18459/applied-ai-engineer-digital-natives/) |
 | 数据科学家，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
@@ -41,8 +43,6 @@
 | 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| 研究工程师 - 数据基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18424/research-engineer-data-infrastructure/) |
-| HPC基础设施工程师 - GPU集群 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
