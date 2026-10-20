@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3081</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
+| Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/18485/head-of-consumer-and-lending-compliance/) |
+| Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Staff+ Software Engineer, Storage + Transfer | On-site | [View →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
+| Senior Product Designer, Fiat/Earn | On-site | [View →](https://www.remotejobscan.com/job/18484/senior-product-designer-fiatearn/) |
 | Customer Success Manager, Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/18482/customer-success-manager-southern-europe/) |
 | Director of Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18483/director-of-engineering/) |
 | Revenue Partnerships - Southern Latam | On-site | [View →](https://www.remotejobscan.com/job/18481/revenue-partnerships-southern-latam/) |
@@ -36,10 +42,6 @@
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 | Enterprise Account Executive, DNB | On-site | [View →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
 | Manager, Sales Development | Hybrid | [View →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
-| Senior Support Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/18462/senior-support-operations-manager/) |
-| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
-| Product Manager, Storage | Remote | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| Senior Product Director, AI & Agent | On-site | [View →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

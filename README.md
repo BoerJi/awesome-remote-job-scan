@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3081</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
+| 高级解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| 消费者与借贷合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18485/head-of-consumer-and-lending-compliance/) |
+| 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13876/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Staff+ 软件工程师，存储 + 传输 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
+| 高级产品设计师，法币/赚取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18484/senior-product-designer-fiatearn/) |
 | 南欧客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18482/customer-success-manager-southern-europe/) |
 | 工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18483/director-of-engineering/) |
 | 收入合作 - 南美拉美 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18481/revenue-partnerships-southern-latam/) |
@@ -36,11 +42,6 @@
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 | 企业客户经理，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
 | 销售发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
-| 高级支持运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18462/senior-support-operations-manager/) |
-| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
-| 存储产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| 高级产品总监，AI与智能体 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent/) |
-| 高级产品总监，AI与代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17921/senior-product-director-ai-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
