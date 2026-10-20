@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3075</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3076</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 | 联邦政府客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18430/account-director-federal-civilian/) |
 | 销售主管 - 企业业务 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
 | 软件工程经理，AI可观察性与评估平台（纽约，纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18429/software-engineering-manager-ai-observability-evals-platform-new-york-ny/) |
@@ -42,7 +43,6 @@
 | 应用AI演示工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18422/applied-ai-demo-engineer/) |
 | 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
 | 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
-| 高级移动工程师（平台-身份） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14888/senior-software-engineer-mobile-platform-identity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
