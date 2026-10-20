@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3073</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3077</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| Sales Lead - Corporate - West | Remote | [View →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
+| Research Engineer - Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18424/research-engineer-data-infrastructure/) |
+| HPC Infrastructure Engineer - GPU Clusters | Remote | [View →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
+| Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
+| Agent Post-Training, Computer Use Research | On-site | [View →](https://www.remotejobscan.com/job/18423/agent-post-training-computer-use-research/) |
 | Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | Applied AI Demo Engineer | On-site | [View →](https://www.remotejobscan.com/job/18422/applied-ai-demo-engineer/) |
 | Deployment Strategist - Italy | Remote | [View →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
@@ -36,13 +43,6 @@
 | Product Designer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
 | Creative Resource Manager, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/18417/creative-resource-manager-business-marketing/) |
 | Enterprise Sales Manager | On-site | [View →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
-| Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
-| IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
-| Creative Director, Copy | Hybrid | [View →](https://www.remotejobscan.com/job/18414/creative-director-copy/) |
-| Deployment Lead, Forward Deployed Engineering (FDE) - Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18412/deployment-lead-forward-deployed-engineering-fde-platform/) |
-| [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Head of Business Development, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
-| Technical Accounting Policy Manager | Remote | [View →](https://www.remotejobscan.com/job/9226/technical-accounting-policy-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

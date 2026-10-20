@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3073</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3077</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| 企业销售主管 - 西部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18425/sales-lead-corporate-west/) |
+| 研究工程师 - 数据基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18424/research-engineer-data-infrastructure/) |
+| HPC基础设施工程师 - GPU集群 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
+| Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
+| 代理后训练、计算机使用研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18423/agent-post-training-computer-use-research/) |
 | 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | 应用AI演示工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18422/applied-ai-demo-engineer/) |
 | 意大利部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18421/deployment-strategist-italy/) |
@@ -36,13 +43,6 @@
 | 产品设计师，安全卫士 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17130/product-designer-safeguards/) |
 | 商业营销创意资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18417/creative-resource-manager-business-marketing/) |
 | 企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18282/enterprise-sales-manager/) |
-| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16841/engineering-manager-dashboard/) |
-| IT系统工程师，客户端平台工程师，ChromeOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
-| 创意总监，文案 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18414/creative-director-copy/) |
-| 部署主管，前沿部署工程（FDE）- 平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18412/deployment-lead-forward-deployed-engineering-fde-platform/) |
-| [初级 / 中级 / 高级] 软件工程师，推理 / 计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9874/junior-senior-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 拉丁美洲业务发展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
-| 技术会计政策经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9226/technical-accounting-policy-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
