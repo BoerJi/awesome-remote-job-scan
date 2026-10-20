@@ -23,7 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 高级软件工程师 - 访问与授权（平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
+| 生命科学业务发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18489/business-development-lead-life-sciences/) |
+| 拉丁美洲业务发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
+| G&A（政策）招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18488/recruiter-ga-policy/) |
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
+| 高级办公空间协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18486/sr-workplace-coordinator/) |
 | 高级解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | 消费者与借贷合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18485/head-of-consumer-and-lending-compliance/) |
 | 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13876/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -38,10 +42,6 @@
 | 生命科学企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
 | 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | 网络安全销售专家经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
-| 拉丁美洲VIP关系经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18471/vip-relationship-manager-latam/) |
-| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
-| 企业客户经理，DNB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
-| 销售发展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

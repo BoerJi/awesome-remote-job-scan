@@ -23,7 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
+| Business Development Lead, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/18489/business-development-lead-life-sciences/) |
+| Head of Business Development, LATAM | Remote | [View →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
+| Recruiter, G&A (Policy) | On-site | [View →](https://www.remotejobscan.com/job/18488/recruiter-ga-policy/) |
+| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
+| Sr. Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18486/sr-workplace-coordinator/) |
 | Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/18485/head-of-consumer-and-lending-compliance/) |
 | Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
@@ -38,10 +42,6 @@
 | Manager, Enterprise Sales - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
 | Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
 | Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
-| VIP Relationship Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/18471/vip-relationship-manager-latam/) |
-| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
-| Enterprise Account Executive, DNB | On-site | [View →](https://www.remotejobscan.com/job/18465/enterprise-account-executive-dnb/) |
-| Manager, Sales Development | Hybrid | [View →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
