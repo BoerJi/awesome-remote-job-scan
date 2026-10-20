@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3076</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 国际薪酬合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18474/international-compensation-partner/) |
+| 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18480/developer-advocate/) |
 | 对冲基金企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
 | 生命科学企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
 | 网络安全销售专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
@@ -39,9 +41,6 @@
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18459/applied-ai-engineer-digital-natives/) |
 | 数据科学家，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Staff+ 软件工程师，VectorDB | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18458/staff-software-engineer-vectordb/) |
-| 业务与AI流程自动化分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18456/business-ai-process-automation-analyst/) |
-| Web3产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

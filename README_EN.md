@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3076</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3080</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| International Compensation Partner | On-site | [View →](https://www.remotejobscan.com/job/18474/international-compensation-partner/) |
+| Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18480/developer-advocate/) |
 | Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
 | Manager, Enterprise Sales - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
 | Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
@@ -38,9 +40,6 @@
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18459/applied-ai-engineer-digital-natives/) |
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Staff+ Software Engineer, VectorDB | On-site | [View →](https://www.remotejobscan.com/job/18458/staff-software-engineer-vectordb/) |
-| Business & AI Process Automation Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18456/business-ai-process-automation-analyst/) |
-| Deputy General Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15807/software-engineer-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
