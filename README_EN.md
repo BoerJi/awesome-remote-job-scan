@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3079</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3081</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Sales Development | Hybrid | [View →](https://www.remotejobscan.com/job/18464/manager-sales-development/) |
+| Senior Support Operations Manager | On-site | [View →](https://www.remotejobscan.com/job/18462/senior-support-operations-manager/) |
 | Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | Product Manager, Storage | Remote | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | Senior Product Director, AI & Agent | On-site | [View →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent/) |
@@ -39,9 +41,6 @@
 | Technical Program Manager, AI Delivery for Public Sector & Defense, Germany | Remote | [View →](https://www.remotejobscan.com/job/18428/technical-program-manager-ai-delivery-for-public-sector-defense-germany/) |
 | Senior Manager, Solutions Architecture | Remote | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
-| Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
-| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
