@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3079</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3086</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Operations Associate | On-site | [View →](https://www.remotejobscan.com/job/18494/product-operations-associate/) |
+| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| Software Engineer - Crypto Data Foundations | Remote | [View →](https://www.remotejobscan.com/job/18492/software-engineer-crypto-data-foundations/) |
+| Applied AI Architect, Startups | On-site | [View →](https://www.remotejobscan.com/job/14869/applied-ai-architect-startups/) |
+| Data Center Capacity Delivery, Canada | Remote | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
+| Staff+ Software Engineer, Platform Safety | On-site | [View →](https://www.remotejobscan.com/job/18493/staff-software-engineer-platform-safety/) |
+| Head of Real Estate | Remote | [View →](https://www.remotejobscan.com/job/18491/head-of-real-estate/) |
+| Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
+| Senior Software Engineer, Secrets Management | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
+| Head of GTM Planning & Incentives | Hybrid | [View →](https://www.remotejobscan.com/job/18490/head-of-gtm-planning-incentives/) |
+| Senior Software Engineer - Access & Authorization (Platform) | Remote | [View →](https://www.remotejobscan.com/job/14153/senior-software-engineer-access-authorization-platform/) |
 | Business Development Lead, Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/18489/business-development-lead-life-sciences/) |
 | Head of Business Development, LATAM | Remote | [View →](https://www.remotejobscan.com/job/17886/head-of-business-development-latam/) |
 | Recruiter, G&A (Policy) | On-site | [View →](https://www.remotejobscan.com/job/18488/recruiter-ga-policy/) |
-| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
 | Sr. Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18486/sr-workplace-coordinator/) |
 | Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | Head of Consumer and Lending Compliance | Remote | [View →](https://www.remotejobscan.com/job/18485/head-of-consumer-and-lending-compliance/) |
 | Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/13876/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Staff+ Software Engineer, Storage + Transfer | On-site | [View →](https://www.remotejobscan.com/job/16597/staff-software-engineer-storage-transfer/) |
 | Senior Product Designer, Fiat/Earn | On-site | [View →](https://www.remotejobscan.com/job/18484/senior-product-designer-fiatearn/) |
-| Customer Success Manager, Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/18482/customer-success-manager-southern-europe/) |
-| Director of Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18483/director-of-engineering/) |
-| Revenue Partnerships - Southern Latam | On-site | [View →](https://www.remotejobscan.com/job/18481/revenue-partnerships-southern-latam/) |
-| International Compensation Partner | On-site | [View →](https://www.remotejobscan.com/job/18474/international-compensation-partner/) |
-| Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18480/developer-advocate/) |
-| Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
-| Manager, Enterprise Sales - Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-life-sciences/) |
-| Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/17969/cybersecurity-sales-specialist/) |
-| Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
