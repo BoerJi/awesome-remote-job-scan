@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3079</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | Product Manager, Storage | Remote | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | Senior Product Director, AI & Agent | On-site | [View →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18459/applied-ai-engineer-digital-natives/) |
@@ -41,7 +42,6 @@
 | Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
 | Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3078</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3079</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Blockchain Security Development Engineer 区块链安全开发工程师（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15682/blockchain-security-development-engineer/) |
 | 存储产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | 高级产品总监，AI与智能体 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17920/senior-product-director-ai-agent/) |
 | 高级产品总监，AI与代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17921/senior-product-director-ai-agent/) |
@@ -42,7 +43,6 @@
 | 初创企业解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
 | 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
