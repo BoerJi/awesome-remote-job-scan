@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3078</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3077</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Director, AI & Agent | On-site | [View →](https://www.remotejobscan.com/job/17921/senior-product-director-ai-agent/) |
+| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18459/applied-ai-engineer-digital-natives/) |
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Staff+ Software Engineer, VectorDB | On-site | [View →](https://www.remotejobscan.com/job/18458/staff-software-engineer-vectordb/) |
 | Business & AI Process Automation Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18456/business-ai-process-automation-analyst/) |
@@ -41,8 +43,6 @@
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | Research Engineer - Data Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18424/research-engineer-data-infrastructure/) |
 | HPC Infrastructure Engineer - GPU Clusters | Remote | [View →](https://www.remotejobscan.com/job/18426/hpc-infrastructure-engineer-gpu-clusters/) |
-| Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
-| Agent Post-Training, Computer Use Research | On-site | [View →](https://www.remotejobscan.com/job/18423/agent-post-training-computer-use-research/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-20 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
