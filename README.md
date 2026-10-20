@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3080</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3115</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 企业传播总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| 企业传播总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7913/the-corporate-communications-director/) |
 | 企业发言人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
 | 社区运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7911/community-operation/) |
 | 研究与投资实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
@@ -37,7 +37,7 @@
 | 业务拓展与战略合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
 | 客户服务代表 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative/) |
 | 合作伙伴与业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
-| 业务发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
 | 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
 | 机构客户增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | 数据产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-20 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
