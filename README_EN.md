@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
 | Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 | Software Engineer, Enterprise Knowledge Platform | On-site | [View →](https://www.remotejobscan.com/job/18523/software-engineer-enterprise-knowledge-platform/) |
 | Associate, Finance Administration & Bank Management | Hybrid | [View →](https://www.remotejobscan.com/job/18522/associate-finance-administration-bank-management/) |
@@ -40,7 +41,6 @@
 | (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
-| Deputy General Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
