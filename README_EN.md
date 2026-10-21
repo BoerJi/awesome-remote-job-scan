@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3097</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
+| Financial Data and Controls Lead, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/18520/financial-data-and-controls-lead-billing-platform/) |
+| Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
+| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
+| Security Engineer / Research Engineer, RL Security | On-site | [View →](https://www.remotejobscan.com/job/18519/security-engineer-research-engineer-rl-security/) |
+| Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
+| GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
 | (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
 | Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
@@ -35,13 +42,6 @@
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | Staff Software Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
-| Technical Program Manager, Security | On-site | [View →](https://www.remotejobscan.com/job/9734/technical-program-manager-security/) |
-| [Expression of Interest] Research Manager, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/9454/expression-of-interest-research-manager-interpretability/) |
-| Research Engineer, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/9562/research-engineer-interpretability/) |
-| Research Scientist, Interpretability | On-site | [View →](https://www.remotejobscan.com/job/9593/research-scientist-interpretability/) |
-| Mid-Market Account Executive, Industries | On-site | [View →](https://www.remotejobscan.com/job/9504/mid-market-account-executive-industries/) |
-| Program Manager, Accounting Operations & Strategy | On-site | [View →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
-| Finance & Strategy, GTM - Post Sales | On-site | [View →](https://www.remotejobscan.com/job/18504/finance-strategy-gtm-post-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

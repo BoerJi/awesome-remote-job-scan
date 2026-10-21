@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3095</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3097</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
+| 财务数据与控制主管，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18520/financial-data-and-controls-lead-billing-platform/) |
+| Compute平台（路由）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
+| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
+| 安全工程师/研究工程师，RL安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18519/security-engineer-research-engineer-rl-security/) |
+| 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
+| GTM项目经理，GTM计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
 | (Staff / Senior Staff) AI基础架构工程师，推理基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
 | 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
@@ -35,13 +42,6 @@
 | Next.js 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | 高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
-| 安全技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9734/technical-program-manager-security/) |
-| [表达兴趣] 可解释性研究经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9454/expression-of-interest-research-manager-interpretability/) |
-| 可解释性研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9562/research-engineer-interpretability/) |
-| 可解释性研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9593/research-scientist-interpretability/) |
-| 中市场行业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9504/mid-market-account-executive-industries/) |
-| 会计运营与战略项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18391/program-manager-accounting-operations-strategy/) |
-| 财务与战略，GTM-售后 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18504/finance-strategy-gtm-post-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
