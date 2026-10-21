@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
+| Enterprise Account Executive - India | Remote | [View →](https://www.remotejobscan.com/job/18534/enterprise-account-executive-india/) |
+| (Senior) Strategy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
+| Enterprise Account Executive, Industrial | On-site | [View →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
 | Enterprise Account Executive, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
@@ -35,12 +39,6 @@
 | Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
-| Financial Data and Controls Lead, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/18520/financial-data-and-controls-lead-billing-platform/) |
-| Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
-| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
-| Security Engineer / Research Engineer, RL Security | On-site | [View →](https://www.remotejobscan.com/job/18519/security-engineer-research-engineer-rl-security/) |
-| Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
-| GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

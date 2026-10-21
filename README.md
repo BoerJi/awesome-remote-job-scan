@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3099</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3100</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
+| 印度企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18534/enterprise-account-executive-india/) |
+| (高级)策略分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
+| (高级)战略助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18531/senior-strategy-associate/) |
+| 工业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
 | 企业客户经理，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
 | 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 | Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
@@ -35,12 +40,6 @@
 | 合规高级副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
 | 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | 企业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
-| 财务数据与控制主管，计费平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18520/financial-data-and-controls-lead-billing-platform/) |
-| Compute平台（路由）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
-| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
-| 安全工程师/研究工程师，RL安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18519/security-engineer-research-engineer-rl-security/) |
-| 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
-| GTM项目经理，GTM计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
