@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3101</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3095</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 定价策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18563/pricing-strategist/) |
+| EMEA GTM项目负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
 | 应用AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18553/applied-ai-engineer/) |
 | 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18550/data-scientist-product-analytics/) |
@@ -40,8 +42,6 @@
 | (高级)策略分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
 | (高级)战略助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18531/senior-strategy-associate/) |
 | 工业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
-| 企业客户经理，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
-| 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

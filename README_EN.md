@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3101</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/18563/pricing-strategist/) |
+| Head of GTM Programs, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
 | Applied AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/18553/applied-ai-engineer/) |
 | Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/18550/data-scientist-product-analytics/) |
@@ -39,8 +41,6 @@
 | Enterprise Account Executive - India | Remote | [View →](https://www.remotejobscan.com/job/18534/enterprise-account-executive-india/) |
 | (Senior) Strategy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
 | Enterprise Account Executive, Industrial | On-site | [View →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
-| Enterprise Account Executive, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
-| Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
