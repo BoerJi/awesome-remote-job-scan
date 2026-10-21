@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3097</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
+| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
 | Financial Data and Controls Lead, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/18520/financial-data-and-controls-lead-billing-platform/) |
 | Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
@@ -40,8 +42,6 @@
 | Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/9558/research-engineer-cybersecurity-rl-reinforcement-learning/) |
-| Staff Software Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/15425/staff-software-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
