@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3102</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
+| Enterprise Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18541/enterprise-account-executive-japan/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | Enterprise Account Executive - India | Remote | [View →](https://www.remotejobscan.com/job/18534/enterprise-account-executive-india/) |
 | (Senior) Strategy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
@@ -37,8 +39,6 @@
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | Senior Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18521/senior-data-engineer/) |
 | Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
-| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
-| Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
