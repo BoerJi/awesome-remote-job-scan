@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3104</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3108</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18590/infrastructure-engineer/) |
+| Solana客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
+| 企业客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
+| 代理安全与安全技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18582/technical-program-manager-agent-safety-security/) |
+| 计算电气工程师，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18587/compute-electrical-engineer-robotics/) |
 | 全栈软件工程师，经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
 | 网络安全 - 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
 | 产品设计师，人员创新实验室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18579/product-designer-people-innovation-labs/) |
@@ -38,16 +43,11 @@
 | 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
 | 客户成功经理 - 广告解决方案（荷兰语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
-| 首席软件工程师，全栈 — Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18573/principal-software-engineer-full-stack-codex/) |
-| Vercel 平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
-| 业务运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9194/business-operations-senior-associate/) |
-| 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（48 家）
+## 🏢 已收录公司（49 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -81,6 +81,7 @@
 | <img src="images/layerzero.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="LayerZero"> | <a href="https://layerzero.network">LayerZero</a> | [查看职位 →](https://www.remotejobscan.com/?company=layerzero) |
 | <img src="images/lbank.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lbank"> | <a href="https://www.lbank.com/">Lbank</a> | [查看职位 →](https://www.remotejobscan.com/?company=lbank) |
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [查看职位 →](https://www.remotejobscan.com/?company=lista-dao) |
+| <img src="images/nodereal.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="NodeReal"> | <a href="https://nodereal.io">NodeReal</a> | [查看职位 →](https://www.remotejobscan.com/?company=nodereal) |
 | <img src="images/offchainlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OffchainLabs"> | <a href="https://www.offchainlabs.com/">OffchainLabs</a> | [查看职位 →](https://www.remotejobscan.com/?company=offchainlabs) |
 | <img src="images/okx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OKX"> | <a href="http://okx.com/">OKX</a> | [查看职位 →](https://www.remotejobscan.com/?company=okx) |
 | <img src="images/op-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OP Labs"> | <a href="https://www.optimism.io/">OP Labs</a> | [查看职位 →](https://www.remotejobscan.com/?company=op-labs) |
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

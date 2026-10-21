@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3104</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3108</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18590/infrastructure-engineer/) |
+| Account Executive, Solana | Remote | [View →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
+| Account Executive, Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
+| Technical Program Manager, Agent Safety & Security | On-site | [View →](https://www.remotejobscan.com/job/18582/technical-program-manager-agent-safety-security/) |
+| Compute Electrical Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18587/compute-electrical-engineer-robotics/) |
 | Full-Stack Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
 | Manager, Cyber - Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
 | Product Designer, People Innovation Labs | On-site | [View →](https://www.remotejobscan.com/job/18579/product-designer-people-innovation-labs/) |
@@ -38,16 +43,11 @@
 | Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
 | Customer Success Manager - Ads Solutions (Dutch speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
-| Principal Software Engineer, Full Stack — Codex | On-site | [View →](https://www.remotejobscan.com/job/18573/principal-software-engineer-full-stack-codex/) |
-| Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
-| Business Operations, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9194/business-operations-senior-associate/) |
-| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（49 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -81,6 +81,7 @@
 | <img src="images/layerzero.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="LayerZero"> | <a href="https://layerzero.network">LayerZero</a> | [View jobs →](https://www.remotejobscan.com/?company=layerzero) |
 | <img src="images/lbank.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lbank"> | <a href="https://www.lbank.com/">Lbank</a> | [View jobs →](https://www.remotejobscan.com/?company=lbank) |
 | <img src="images/lista-dao.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Lista DAO"> | <a href="https://lista.org">Lista DAO</a> | [View jobs →](https://www.remotejobscan.com/?company=lista-dao) |
+| <img src="images/nodereal.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="NodeReal"> | <a href="https://nodereal.io">NodeReal</a> | [View jobs →](https://www.remotejobscan.com/?company=nodereal) |
 | <img src="images/offchainlabs.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OffchainLabs"> | <a href="https://www.offchainlabs.com/">OffchainLabs</a> | [View jobs →](https://www.remotejobscan.com/?company=offchainlabs) |
 | <img src="images/okx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OKX"> | <a href="http://okx.com/">OKX</a> | [View jobs →](https://www.remotejobscan.com/?company=okx) |
 | <img src="images/op-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="OP Labs"> | <a href="https://www.optimism.io/">OP Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=op-labs) |
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
