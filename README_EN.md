@@ -23,7 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Privacy Engineering (Lawful Access) | On-site | [View →](https://www.remotejobscan.com/job/18595/software-engineer-privacy-engineering-lawful-access/) |
+| Software Engineer, CDP - Foundations | Remote | [View →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
+| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
+| Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
+| Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
 | Senior Market Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
+| Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
+| Senior Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
+| Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | Head of Financial Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
 | Internal Comms | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-comms/) |
 | Research Scientist / Research Engineer, Search Integrity | On-site | [View →](https://www.remotejobscan.com/job/18593/research-scientist-research-engineer-search-integrity/) |
@@ -35,14 +43,6 @@
 | Compute Electrical Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18587/compute-electrical-engineer-robotics/) |
 | Full-Stack Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
 | Manager, Cyber - Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
-| Product Designer, People Innovation Labs | On-site | [View →](https://www.remotejobscan.com/job/18579/product-designer-people-innovation-labs/) |
-| Brand Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/18576/brand-design-intern-winter-2027/) |
-| Research Engineer, Chip Design RL | On-site | [View →](https://www.remotejobscan.com/job/18574/research-engineer-chip-design-rl/) |
-| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
-| Enterprise Account Executive, Federal Civilian Sales - Transport & Land | On-site | [View →](https://www.remotejobscan.com/job/9438/enterprise-account-executive-federal-civilian-sales-transport-land/) |
-| Enterprise Account Executive, Federal Civilian Sales - Commerce & Interior | On-site | [View →](https://www.remotejobscan.com/job/9436/enterprise-account-executive-federal-civilian-sales-commerce-interior/) |
-| Enterprise Account Executive, Federal Civilian Sales | On-site | [View →](https://www.remotejobscan.com/job/9435/enterprise-account-executive-federal-civilian-sales/) |
-| Applied Scientist, Product Policy | Hybrid | [View →](https://www.remotejobscan.com/job/18575/applied-scientist-product-policy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

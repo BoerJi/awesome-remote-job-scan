@@ -23,7 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 隐私工程软件工程师（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18595/software-engineer-privacy-engineering-lawful-access/) |
+| 软件工程师，CDP - 基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
+| 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
+| 高级软件工程师（机构、融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
+| 高级技术风险架构师，统一交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
 | 高级市场数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
+| 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
+| 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
+| 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | 金融系统工程负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
 | 内部沟通 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-comms/) |
 | 研究科学家 / 研究工程师，搜索完整性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18593/research-scientist-research-engineer-search-integrity/) |
@@ -35,14 +43,6 @@
 | 计算电气工程师，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18587/compute-electrical-engineer-robotics/) |
 | 全栈软件工程师，经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
 | 网络安全 - 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
-| 产品设计师，人员创新实验室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18579/product-designer-people-innovation-labs/) |
-| 品牌设计实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18576/brand-design-intern-winter-2027/) |
-| 芯片设计强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18574/research-engineer-chip-design-rl/) |
-| 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
-| 联邦 civilian 销售企业客户经理 - 交通与陆地 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9438/enterprise-account-executive-federal-civilian-sales-transport-land/) |
-| 企业客户经理，联邦民用销售 - 商业部与内政部 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9436/enterprise-account-executive-federal-civilian-sales-commerce-interior/) |
-| 联邦 civilian 销售企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9435/enterprise-account-executive-federal-civilian-sales/) |
-| 产品政策应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18575/applied-scientist-product-policy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
