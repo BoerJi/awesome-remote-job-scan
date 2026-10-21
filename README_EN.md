@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3108</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Financial Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
+| Internal Comms | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-comms/) |
+| Research Scientist / Research Engineer, Search Integrity | On-site | [View →](https://www.remotejobscan.com/job/18593/research-scientist-research-engineer-search-integrity/) |
+| Research Scientist / Research Engineer, Search - Knowledge Graphs | On-site | [View →](https://www.remotejobscan.com/job/18592/research-scientist-research-engineer-search-knowledge-graphs/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18590/infrastructure-engineer/) |
 | Account Executive, Solana | Remote | [View →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
 | Account Executive, Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
@@ -39,10 +43,6 @@
 | Enterprise Account Executive, Federal Civilian Sales | On-site | [View →](https://www.remotejobscan.com/job/9435/enterprise-account-executive-federal-civilian-sales/) |
 | Applied Scientist, Product Policy | Hybrid | [View →](https://www.remotejobscan.com/job/18575/applied-scientist-product-policy/) |
 | Red Team Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9549/red-team-engineer-safeguards/) |
-| Technical Cyber Threat Investigator | On-site | [View →](https://www.remotejobscan.com/job/9719/technical-cyber-threat-investigator/) |
-| Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
-| Customer Success Manager - Ads Solutions (Dutch speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3108</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3111</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融系统工程负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
+| 内部沟通 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-comms/) |
+| 研究科学家 / 研究工程师，搜索完整性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18593/research-scientist-research-engineer-search-integrity/) |
+| 研究科学家/研究工程师，搜索-知识图谱 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18592/research-scientist-research-engineer-search-knowledge-graphs/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18590/infrastructure-engineer/) |
 | Solana客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
 | 企业客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
@@ -39,10 +43,6 @@
 | 联邦 civilian 销售企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9435/enterprise-account-executive-federal-civilian-sales/) |
 | 产品政策应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18575/applied-scientist-product-policy/) |
 | 安全防护红队工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9549/red-team-engineer-safeguards/) |
-| 技术网络安全威胁调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9719/technical-cyber-threat-investigator/) |
-| 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
-| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
-| 客户成功经理 - 广告解决方案（荷兰语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
