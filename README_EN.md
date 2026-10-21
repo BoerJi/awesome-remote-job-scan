@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3103</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/18545/product-manager-langsmith/) |
+| Staff Engineer, Distributed Storage, HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18544/staff-engineer-distributed-storage-hpc-ai-infrastructure/) |
+| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/18542/it-engineer/) |
+| B2B Marketing - Singapore & NE Asia | On-site | [View →](https://www.remotejobscan.com/job/18543/b2b-marketing-singapore-ne-asia/) |
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 | Enterprise Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18541/enterprise-account-executive-japan/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
@@ -35,10 +39,6 @@
 | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
 | Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
 | Software Engineer, Enterprise Knowledge Platform | On-site | [View →](https://www.remotejobscan.com/job/18523/software-engineer-enterprise-knowledge-platform/) |
-| Associate, Finance Administration & Bank Management | Hybrid | [View →](https://www.remotejobscan.com/job/18522/associate-finance-administration-bank-management/) |
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| Senior Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18521/senior-data-engineer/) |
-| Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
