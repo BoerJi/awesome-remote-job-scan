@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3102</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3101</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
+| Applied AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/18553/applied-ai-engineer/) |
 | Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/18550/data-scientist-product-analytics/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
@@ -39,8 +41,6 @@
 | Enterprise Account Executive, Industrial | On-site | [View →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
 | Enterprise Account Executive, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
-| Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
-| IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

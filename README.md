@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3102</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3101</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
+| 应用AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18553/applied-ai-engineer/) |
 | 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18550/data-scientist-product-analytics/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | Staff+ 软件工程师，安全数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
@@ -40,8 +42,6 @@
 | 工业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
 | 企业客户经理，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
 | 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
-| Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
-| IT系统工程师，客户端平台工程师，ChromeOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
