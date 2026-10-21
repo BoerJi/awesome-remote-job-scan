@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3097</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3099</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| 企业知识平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18523/software-engineer-enterprise-knowledge-platform/) |
 | 财务行政与银行管理助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18522/associate-finance-administration-bank-management/) |
 | 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | 高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18521/senior-data-engineer/) |
@@ -40,8 +41,6 @@
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
 | 美国AI监管法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | Web3产品副总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
-| GTM战略与运营 - 美洲企业技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
-| 产品数据科学家 - 青少年、家庭与学习 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18512/product-data-scientist-youth-families-and-learning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
