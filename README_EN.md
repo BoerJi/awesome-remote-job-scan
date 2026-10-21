@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| Analytics Manager, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18566/analytics-manager-global-affairs/) |
+| Senior Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15729/senior-business-development-manager/) |
+| Intern - HR Operations | Remote | [View →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
+| Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18564/workplace-coordinator/) |
 | Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/18563/pricing-strategist/) |
 | Head of GTM Programs, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
 | Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
@@ -38,9 +43,6 @@
 | Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 | Enterprise Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18541/enterprise-account-executive-japan/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| Enterprise Account Executive - India | Remote | [View →](https://www.remotejobscan.com/job/18534/enterprise-account-executive-india/) |
-| (Senior) Strategy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
-| Enterprise Account Executive, Industrial | On-site | [View →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

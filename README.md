@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3094</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3098</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| 全球事务分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18566/analytics-manager-global-affairs/) |
+| 高级业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15729/senior-business-development-manager/) |
+| 人力资源运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
+| 工作场所协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18564/workplace-coordinator/) |
 | 定价策略师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18563/pricing-strategist/) |
 | EMEA GTM项目负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
 | 客户成功经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
@@ -38,10 +43,6 @@
 | 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
 | 日本企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18541/enterprise-account-executive-japan/) |
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| 印度企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18534/enterprise-account-executive-india/) |
-| (高级)策略分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18532/senior-strategy-associate/) |
-| (高级)战略助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18531/senior-strategy-associate/) |
-| 工业企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18530/enterprise-account-executive-industrial/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
