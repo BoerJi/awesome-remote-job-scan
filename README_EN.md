@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3099</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18521/senior-data-engineer/) |
 | Compliance, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/17441/compliance-senior-associate/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Applied AI Engineer, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/12112/applied-ai-engineer-enterprise/) |
@@ -41,7 +42,6 @@
 | Product Data Scientist - Youth, Families and Learning | Hybrid | [View →](https://www.remotejobscan.com/job/18512/product-data-scientist-youth-families-and-learning/) |
 | Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
-| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
