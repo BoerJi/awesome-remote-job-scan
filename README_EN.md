@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -35,13 +35,14 @@
 | Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
 | (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
-| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18513/compliance-analyst/) |
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | Deputy General Counsel, Web3 Products | On-site | [View →](https://www.remotejobscan.com/job/18206/deputy-general-counsel-web3-products/) |
 | GTM Strategy & Operations - AMER Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/15796/gtm-strategy-operations-amer-enterprise-tech/) |
 | Product Data Scientist - Youth, Families and Learning | Hybrid | [View →](https://www.remotejobscan.com/job/18512/product-data-scientist-youth-families-and-learning/) |
 | Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
+| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 03:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 04:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
