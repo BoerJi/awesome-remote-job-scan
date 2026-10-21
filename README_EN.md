@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3097</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3104</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
+| Manager, Cyber - Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
+| Product Designer, People Innovation Labs | On-site | [View →](https://www.remotejobscan.com/job/18579/product-designer-people-innovation-labs/) |
+| Brand Design Intern (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/18576/brand-design-intern-winter-2027/) |
+| Research Engineer, Chip Design RL | On-site | [View →](https://www.remotejobscan.com/job/18574/research-engineer-chip-design-rl/) |
+| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
+| Enterprise Account Executive, Federal Civilian Sales - Transport & Land | On-site | [View →](https://www.remotejobscan.com/job/9438/enterprise-account-executive-federal-civilian-sales-transport-land/) |
+| Enterprise Account Executive, Federal Civilian Sales - Commerce & Interior | On-site | [View →](https://www.remotejobscan.com/job/9436/enterprise-account-executive-federal-civilian-sales-commerce-interior/) |
+| Enterprise Account Executive, Federal Civilian Sales | On-site | [View →](https://www.remotejobscan.com/job/9435/enterprise-account-executive-federal-civilian-sales/) |
+| Applied Scientist, Product Policy | Hybrid | [View →](https://www.remotejobscan.com/job/18575/applied-scientist-product-policy/) |
+| Red Team Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9549/red-team-engineer-safeguards/) |
+| Technical Cyber Threat Investigator | On-site | [View →](https://www.remotejobscan.com/job/9719/technical-cyber-threat-investigator/) |
 | Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
 | Customer Success Manager - Ads Solutions (Dutch speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
@@ -31,18 +43,6 @@
 | Business Operations, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9194/business-operations-senior-associate/) |
 | Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
-| Analytics Manager, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18566/analytics-manager-global-affairs/) |
-| Senior Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15729/senior-business-development-manager/) |
-| Intern - HR Operations | Remote | [View →](https://www.remotejobscan.com/job/16378/intern-hr-operations/) |
-| Workplace Coordinator | On-site | [View →](https://www.remotejobscan.com/job/18564/workplace-coordinator/) |
-| Pricing Strategist | Hybrid | [View →](https://www.remotejobscan.com/job/18563/pricing-strategist/) |
-| Head of GTM Programs, EMEA | On-site | [View →](https://www.remotejobscan.com/job/18397/head-of-gtm-programs-emea/) |
-| Customer Success Manager | On-site | [View →](https://www.remotejobscan.com/job/18552/customer-success-manager/) |
-| Applied AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/18553/applied-ai-engineer/) |
-| Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/18550/data-scientist-product-analytics/) |
-| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
-| Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
-| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
