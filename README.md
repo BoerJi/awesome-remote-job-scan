@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>48</strong> 家公司 · <strong>3098</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3101</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
+| 客户成功经理 - 广告解决方案（荷兰语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
+| 首席软件工程师，全栈 — Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18573/principal-software-engineer-full-stack-codex/) |
+| Vercel 平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
+| 业务运营高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9194/business-operations-senior-associate/) |
+| 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | 全球事务分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18566/analytics-manager-global-affairs/) |
 | 高级业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15729/senior-business-development-manager/) |
@@ -36,13 +43,6 @@
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | Staff+ 软件工程师，安全数据 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
 | 客户体验专员 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
-| LangSmith产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18545/product-manager-langsmith/) |
-| 高级工程师，分布式存储、HPC与AI基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18544/staff-engineer-distributed-storage-hpc-ai-infrastructure/) |
-| IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18542/it-engineer/) |
-| B2B营销 - 新加坡与东北亚 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18543/b2b-marketing-singapore-ne-asia/) |
-| 站点可靠性工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
-| 日本企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18541/enterprise-account-executive-japan/) |
-| 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

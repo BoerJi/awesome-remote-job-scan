@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3101</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
+| Customer Success Manager - Ads Solutions (Dutch speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/18572/customer-success-manager-ads-solutions-dutch-speaking/) |
+| Principal Software Engineer, Full Stack — Codex | On-site | [View →](https://www.remotejobscan.com/job/18573/principal-software-engineer-full-stack-codex/) |
+| Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
+| Business Operations, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/9194/business-operations-senior-associate/) |
+| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | Analytics Manager, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18566/analytics-manager-global-affairs/) |
 | Senior Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/15729/senior-business-development-manager/) |
@@ -36,13 +43,6 @@
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
 | Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
-| Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/18545/product-manager-langsmith/) |
-| Staff Engineer, Distributed Storage, HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18544/staff-engineer-distributed-storage-hpc-ai-infrastructure/) |
-| IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/18542/it-engineer/) |
-| B2B Marketing - Singapore & NE Asia | On-site | [View →](https://www.remotejobscan.com/job/18543/b2b-marketing-singapore-ne-asia/) |
-| Site Reliability Engineer | Remote | [View →](https://www.remotejobscan.com/job/18056/site-reliability-engineer/) |
-| Enterprise Account Executive - Japan | Remote | [View →](https://www.remotejobscan.com/job/18541/enterprise-account-executive-japan/) |
-| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
