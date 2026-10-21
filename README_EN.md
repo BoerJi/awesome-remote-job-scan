@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3109</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Market Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
 | Head of Financial Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
 | Internal Comms | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-comms/) |
 | Research Scientist / Research Engineer, Search Integrity | On-site | [View →](https://www.remotejobscan.com/job/18593/research-scientist-research-engineer-search-integrity/) |
@@ -42,7 +43,6 @@
 | Enterprise Account Executive, Federal Civilian Sales - Commerce & Interior | On-site | [View →](https://www.remotejobscan.com/job/9436/enterprise-account-executive-federal-civilian-sales-commerce-interior/) |
 | Enterprise Account Executive, Federal Civilian Sales | On-site | [View →](https://www.remotejobscan.com/job/9435/enterprise-account-executive-federal-civilian-sales/) |
 | Applied Scientist, Product Policy | Hybrid | [View →](https://www.remotejobscan.com/job/18575/applied-scientist-product-policy/) |
-| Red Team Engineer, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/9549/red-team-engineer-safeguards/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
