@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3102</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3103</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/18550/data-scientist-product-analytics/) |
+| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
+| Staff+ Software Engineer, Safeguards Data | On-site | [View →](https://www.remotejobscan.com/job/17553/staff-software-engineer-safeguards-data/) |
+| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
 | Product Manager, LangSmith | On-site | [View →](https://www.remotejobscan.com/job/18545/product-manager-langsmith/) |
 | Staff Engineer, Distributed Storage, HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18544/staff-engineer-distributed-storage-hpc-ai-infrastructure/) |
 | IT Engineer | Remote | [View →](https://www.remotejobscan.com/job/18542/it-engineer/) |
@@ -37,8 +41,6 @@
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
-| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| Software Engineer, Enterprise Knowledge Platform | On-site | [View →](https://www.remotejobscan.com/job/18523/software-engineer-enterprise-knowledge-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
