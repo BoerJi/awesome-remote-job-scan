@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Professional Services | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
 | Product Support Specialist | On-site | [View →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote | [View →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
@@ -40,7 +41,6 @@
 | Security Engineer / Research Engineer, RL Security | On-site | [View →](https://www.remotejobscan.com/job/18519/security-engineer-research-engineer-rl-security/) |
 | Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
-| (Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-21 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

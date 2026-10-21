@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理，专业服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-professional-services/) |
 | 产品支持专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18526/product-support-specialist/) |
 | Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | IT系统工程师，客户端平台工程师，ChromeOS | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18413/it-systems-engineer-client-platform-engineer-chromeos/) |
@@ -40,7 +41,6 @@
 | 安全工程师/研究工程师，RL安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18519/security-engineer-research-engineer-rl-security/) |
 | 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | GTM项目经理，GTM计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18517/gtm-programs-manager-gtm-initiatives/) |
-| (Staff / Senior Staff) AI基础架构工程师，推理基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-infra-engineer-inference-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-21 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
