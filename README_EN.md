@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3116</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior AI Analytics Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
+| Full-Stack Engineer - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
 | 做市业务主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/job-18623/) |
 | 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
 | Backend Production Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
@@ -41,8 +43,6 @@
 | Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
 | Copywriter, Developer | On-site | [View →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
 | Machine Learning Data Scientist - Consumer Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
-| Growth Partnerships Manager, Korea | Remote | [View →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
-| Staff Software Engineer, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
