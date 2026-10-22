@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3116</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 后端生产支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
 | AI成果经理，战略技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
 | 个人助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
+| 产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18614/product-marketing-manager/) |
 | 电气工程师，PCBA测试基础设施，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
 | 应用AI工程师（全栈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
 | 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
 | 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | 高级软件工程师，代理基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
 | 文案、开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
+| 机器学习数据科学家 - 消费者预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
 | 韩国增长合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
 | 财务工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
 | 金融工程工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
 | 基础设施销售高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
-| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
-| 产品经理，Claude 市场平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
-| 服务设计师，支持 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18601/service-designer-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

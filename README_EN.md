@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3116</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,12 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Backend Production Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
 | AI Outcomes Manager, Strategic Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
 | Personal Assistant | Remote | [View →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
+| Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18614/product-marketing-manager/) |
 | Electrical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
 | Applied AI Engineer (Full-Stack) | Hybrid | [View →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
 | Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
@@ -36,13 +38,11 @@
 | Senior Software Engineer, Agent Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
 | Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
 | Copywriter, Developer | On-site | [View →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
+| Machine Learning Data Scientist - Consumer Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
 | Growth Partnerships Manager, Korea | Remote | [View →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
 | Staff Software Engineer, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
 | Engineering Manager, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
 | Sr Manager, Infrastructure Sales | Remote | [View →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
-| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
-| Product Manager, Claude Marketplace | On-site | [View →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
-| Service Designer, Support | Hybrid | [View →](https://www.remotejobscan.com/job/18601/service-designer-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
