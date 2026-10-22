@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3114</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
+| Senior Staff Data Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18635/senior-staff-data-engineer/) |
+| Senior Business Analytics Manager | On-site | [View →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
+| Employer Branding Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/18632/employer-branding-manager-senior-manager/) |
+| Strategic Account Executive - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/18634/strategic-account-executive-switzerland/) |
 | Senior Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
 | 做市业务运营主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/job-18623/) |
 | VP/ Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
@@ -38,11 +43,6 @@
 | Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18614/product-marketing-manager/) |
 | Electrical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
-| Applied AI Engineer (Full-Stack) | Hybrid | [View →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
-| Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
-| Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
-| Senior Software Engineer, Agent Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
-| Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

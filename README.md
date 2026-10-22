@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3114</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
+| 高级数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18635/senior-staff-data-engineer/) |
+| 高级商业分析经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
+| 雇主品牌经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18632/employer-branding-manager-senior-manager/) |
+| 瑞士战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18634/strategic-account-executive-switzerland/) |
 | 高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
 | 做市业务运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/job-18623/) |
 | 交易服务副总裁/高级工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
@@ -38,10 +43,6 @@
 | Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | 产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18614/product-marketing-manager/) |
 | 电气工程师，PCBA测试基础设施，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
-| 应用AI工程师（全栈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
-| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
-| 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
-| 高级软件工程师，代理基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
