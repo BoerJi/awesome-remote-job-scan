@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3107</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3113</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
+| Engineering Manager, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
+| Sr Manager, Infrastructure Sales | Remote | [View →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
+| Product Manager, Claude Marketplace | On-site | [View →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
+| Service Designer, Support | Hybrid | [View →](https://www.remotejobscan.com/job/18601/service-designer-support/) |
 | AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
 | Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
 | Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
@@ -36,12 +42,6 @@
 | Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | Head of Financial Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
 | Internal Comms | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-comms/) |
-| Research Scientist / Research Engineer, Search Integrity | On-site | [View →](https://www.remotejobscan.com/job/18593/research-scientist-research-engineer-search-integrity/) |
-| Research Scientist / Research Engineer, Search - Knowledge Graphs | On-site | [View →](https://www.remotejobscan.com/job/18592/research-scientist-research-engineer-search-knowledge-graphs/) |
-| Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18590/infrastructure-engineer/) |
-| Account Executive, Solana | Remote | [View →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
-| Account Executive, Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
-| Technical Program Manager, Agent Safety & Security | On-site | [View →](https://www.remotejobscan.com/job/18582/technical-program-manager-agent-safety-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
