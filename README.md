@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI成果经理，战略技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
+| 个人助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
@@ -39,9 +42,6 @@
 | 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | 产品经理，Claude 市场平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
 | 服务设计师，支持 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18601/service-designer-support/) |
-| AI成果经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
-| 技术产品经理，产品支持经验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
-| 软件工程师，隐私工程（合法访问） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

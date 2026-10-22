@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Outcomes Manager, Strategic Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
+| Personal Assistant | Remote | [View →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
 | Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
 | Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
@@ -40,9 +43,6 @@
 | Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | Product Manager, Claude Marketplace | On-site | [View →](https://www.remotejobscan.com/job/18408/product-manager-claude-marketplace/) |
 | Service Designer, Support | Hybrid | [View →](https://www.remotejobscan.com/job/18601/service-designer-support/) |
-| AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
-| Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
-| Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
