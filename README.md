@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3122</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| 合规副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
+| 公共部门销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
+| 企业会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18666/corporate-accounting/) |
+| Communications Manager，Anthropic Institute | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
+| 高级物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
+| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
+| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| 合作伙伴内容与故事讲述项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
 | 偏差监控负责人研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
 | 区域研究经济学家，经济研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
 | 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
@@ -32,15 +40,6 @@
 | 计算与基础设施会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
 | 高级管理人员，行政助理，收入（东部时间） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
 | 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
-| 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
-| iOS工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18655/ios-engineer-creative-app/) |
-| Android工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18654/android-engineer-creative-app/) |
-| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
-| 内部沟通，市场推广 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
-| 增长营销实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
-| 身份基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
-| 学院合作，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18653/academy-partnerships-global-affairs/) |
-| 产品与隐私高级顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

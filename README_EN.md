@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| VP, Compliance | On-site | [View →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
+| VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
+| Corporate Accounting | On-site | [View →](https://www.remotejobscan.com/job/18666/corporate-accounting/) |
+| Communications Manager, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
+| Staff / Senior Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
+| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
+| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
+| Program Manager, Partner Content & Storytelling | Hybrid | [View →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
 | Researcher, Misalignment Monitoring Lead | On-site | [View →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
 | Regional Research Economist, Economic Research | On-site | [View →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
 | Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
@@ -32,15 +40,6 @@
 | Compute & Infrastructure Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
 | Manager, Executive Assistants, Revenue (EST) | On-site | [View →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
 | Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
-| Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
-| iOS Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18655/ios-engineer-creative-app/) |
-| Android Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18654/android-engineer-creative-app/) |
-| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
-| Internal Communications, GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
-| Growth Marketing Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
-| Software Engineer, Identity Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
-| Academy Partnerships, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18653/academy-partnerships-global-affairs/) |
-| Senior Counsel - Product & Privacy | On-site | [View →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
