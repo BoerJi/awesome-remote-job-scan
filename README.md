@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3110</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3116</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
+| 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
+| 高级软件工程师，代理基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
+| 文案、开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
+| 韩国增长合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
 | 财务工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
 | 金融工程工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
 | 基础设施销售高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
@@ -37,12 +42,6 @@
 | 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | 高级软件工程师（机构、融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
 | 高级技术风险架构师，统一交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
-| 高级市场数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
-| 市场数据高级数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
-| 统一交易高级技术架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
-| 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
-| 金融系统工程负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
-| 内部沟通 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-comms/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

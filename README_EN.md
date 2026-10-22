@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3110</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3116</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
+| Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
+| Senior Software Engineer, Agent Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
+| Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
+| Copywriter, Developer | On-site | [View →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
+| Growth Partnerships Manager, Korea | Remote | [View →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
 | Staff Software Engineer, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
 | Engineering Manager, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
 | Sr Manager, Infrastructure Sales | Remote | [View →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
@@ -36,12 +42,6 @@
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
 | Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
-| Senior Market Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/15575/senior-market-data-engineer/) |
-| Staff Data Engineer, Market Data | Remote | [View →](https://www.remotejobscan.com/job/14048/staff-data-engineer-market-data/) |
-| Senior Staff Technical Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14033/senior-staff-technical-architect-unified-trading/) |
-| Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
-| Head of Financial Systems Engineering | Remote | [View →](https://www.remotejobscan.com/job/18594/head-of-financial-systems-engineering/) |
-| Internal Comms | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-comms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
