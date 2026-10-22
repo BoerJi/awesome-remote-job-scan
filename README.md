@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3115</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3116</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 做市业务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/job-18623/) |
+| 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
 | 后端生产支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
 | AI成果经理，战略技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
 | 个人助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
@@ -40,8 +42,6 @@
 | 机器学习数据科学家 - 消费者预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
 | 韩国增长合作伙伴经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
 | 财务工程高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
-| 金融工程工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
-| 基础设施销售高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

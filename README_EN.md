@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3115</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3116</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 做市业务主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/job-18623/) |
+| 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
 | Backend Production Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
 | AI Outcomes Manager, Strategic Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
 | Personal Assistant | Remote | [View →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
@@ -41,8 +43,6 @@
 | Machine Learning Data Scientist - Consumer Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
 | Growth Partnerships Manager, Korea | Remote | [View →](https://www.remotejobscan.com/job/18603/growth-partnerships-manager-korea/) |
 | Staff Software Engineer, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18600/staff-software-engineer-finance-engineering/) |
-| Engineering Manager, Finance Engineering | On-site | [View →](https://www.remotejobscan.com/job/18599/engineering-manager-finance-engineering/) |
-| Sr Manager, Infrastructure Sales | Remote | [View →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
