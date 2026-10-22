@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 高级软件工程师，核心可靠性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
+| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| 伙伴赋能负责人，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18671/partner-enablement-lead-beneficial-deployments/) |
+| 制裁运营高级合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18672/compliance-senior-lead-sanctions-operations/) |
+| 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18510/complaints-analyst-iii/) |
+| SOX安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 | Compute平台（路由）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
 | 嵌入式工程师，合规 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 | 联邦公务员销售 - 联邦金融 - 企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
@@ -36,10 +41,7 @@
 | 高级物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
 | 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| 投诉分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | 合作伙伴内容与故事讲述项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
-| 偏差监控负责人研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
-| 区域研究经济学家，经济研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

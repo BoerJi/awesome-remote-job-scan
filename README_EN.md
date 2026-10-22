@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| Partner Enablement Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/18671/partner-enablement-lead-beneficial-deployments/) |
+| Compliance Senior Lead - Sanctions Operations | Remote | [View →](https://www.remotejobscan.com/job/18672/compliance-senior-lead-sanctions-operations/) |
+| Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/18510/complaints-analyst-iii/) |
+| Head of Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 | Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
 | Embedded Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 | Enterprise Account Executive, Federal Civilian Sales - Federal Financials | On-site | [View →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
@@ -36,10 +41,7 @@
 | Staff / Senior Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
 | Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| Complaints Analyst III | On-site | [View →](https://www.remotejobscan.com/job/18514/complaints-analyst-iii/) |
 | Program Manager, Partner Content & Storytelling | Hybrid | [View →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
-| Researcher, Misalignment Monitoring Lead | On-site | [View →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
-| Regional Research Economist, Economic Research | On-site | [View →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
