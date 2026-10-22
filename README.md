@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3115</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才体验与赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18637/head-of-talent-experience-enablement/) |
 | 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
 | 高级数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18635/senior-staff-data-engineer/) |
 | 高级商业分析经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
@@ -39,10 +40,9 @@
 | 个人助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
-| Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
-| Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | 产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18614/product-marketing-manager/) |
 | 电气工程师，PCBA测试基础设施，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
+| 应用AI工程师（全栈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

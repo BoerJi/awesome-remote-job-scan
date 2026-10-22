@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3115</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Talent Experience & Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/18637/head-of-talent-experience-enablement/) |
 | Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
 | Senior Staff Data Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18635/senior-staff-data-engineer/) |
 | Senior Business Analytics Manager | On-site | [View →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
@@ -39,10 +40,9 @@
 | Personal Assistant | Remote | [View →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
-| Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
-| Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18614/product-marketing-manager/) |
 | Electrical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
+| Applied AI Engineer (Full-Stack) | Hybrid | [View →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
