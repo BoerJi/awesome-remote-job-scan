@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
+| Embedded Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
+| Enterprise Account Executive, Federal Civilian Sales - Federal Financials | On-site | [View →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
+| Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
 | VP, Compliance | On-site | [View →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
+| Technical Editor | On-site | [View →](https://www.remotejobscan.com/job/18670/technical-editor/) |
 | VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
 | Corporate Accounting | On-site | [View →](https://www.remotejobscan.com/job/18666/corporate-accounting/) |
 | Communications Manager, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
@@ -35,11 +40,6 @@
 | Researcher, Misalignment Monitoring Lead | On-site | [View →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
 | Regional Research Economist, Economic Research | On-site | [View →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
 | Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
-| Engineering - Internal AI Transformation | Remote | [View →](https://www.remotejobscan.com/job/18662/engineering-internal-ai-transformation/) |
-| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/18657/finance-strategy-datacenter-strategic-initiatives/) |
-| Compute & Infrastructure Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
-| Manager, Executive Assistants, Revenue (EST) | On-site | [View →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
-| Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
