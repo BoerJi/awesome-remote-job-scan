@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3117</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3116</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易服务副总裁/高级工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
 | 高级AI分析工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
 | 企业级全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
-| 做市业务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/job-18623/) |
 | 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
 | 后端生产支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
 | AI成果经理，战略技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
