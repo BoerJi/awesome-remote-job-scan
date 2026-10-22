@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，核心可靠性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Compute平台（路由）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
 | 嵌入式工程师，合规 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 | 联邦公务员销售 - 联邦金融 - 企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
@@ -39,7 +40,6 @@
 | 合作伙伴内容与故事讲述项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
 | 偏差监控负责人研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
 | 区域研究经济学家，经济研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
-| 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 21:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 22:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
