@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3120</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| Researcher, Misalignment Monitoring Lead | On-site | [View →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
+| Regional Research Economist, Economic Research | On-site | [View →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
+| Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
+| Engineering - Internal AI Transformation | Remote | [View →](https://www.remotejobscan.com/job/18662/engineering-internal-ai-transformation/) |
 | Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/18657/finance-strategy-datacenter-strategic-initiatives/) |
 | Compute & Infrastructure Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
 | Manager, Executive Assistants, Revenue (EST) | On-site | [View →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
@@ -36,13 +41,6 @@
 | Software Engineer, Identity Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
 | Academy Partnerships, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18653/academy-partnerships-global-affairs/) |
 | Senior Counsel - Product & Privacy | On-site | [View →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
-| Translator, Portuguese (pt-PT) | Remote | [View →](https://www.remotejobscan.com/job/18647/translator-portuguese-pt-pt/) |
-| Translator, Italian (IT) | Remote | [View →](https://www.remotejobscan.com/job/18649/translator-italian-it/) |
-| Translator, Spanish (es-ES) | Remote | [View →](https://www.remotejobscan.com/job/18648/translator-spanish-es-es/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| Member of Technical Staff, Finance Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
-| Head of Policy Design, Societal Harms | On-site | [View →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
-| Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

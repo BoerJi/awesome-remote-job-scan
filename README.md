@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| 偏差监控负责人研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18663/researcher-misalignment-monitoring-lead/) |
+| 区域研究经济学家，经济研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18659/regional-research-economist-economic-research/) |
+| 诉讼助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
+| 工程 - 内部AI转型 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18662/engineering-internal-ai-transformation/) |
 | 财务与战略、数据中心战略计划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18657/finance-strategy-datacenter-strategic-initiatives/) |
 | 计算与基础设施会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
 | 高级管理人员，行政助理，收入（东部时间） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
@@ -36,13 +41,6 @@
 | 身份基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
 | 学院合作，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18653/academy-partnerships-global-affairs/) |
 | 产品与隐私高级顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
-| 葡萄牙语（pt-PT）翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18647/translator-portuguese-pt-pt/) |
-| 意大利语翻译（意大利） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18649/translator-italian-it/) |
-| 西班牙语翻译（es-ES） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18648/translator-spanish-es-es/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
-| 社会危害政策设计主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
-| 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
