@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3112</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3111</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲中东市场企业客户专员-法语 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
+| 欧洲、中东、非洲地区企业账户专员（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
+| 欧洲、中东、非洲地区企业账户助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17062/enterprise-account-associate-emea/) |
+| 行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18641/executive-assistant/) |
+| AI基础设施系统工程师班加罗尔 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18640/ai-infrastructure-system-engineer-bangalore/) |
 | 生物学研究助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18639/research-associate-biology/) |
 | AEOI合规高级经理/经理（FATCA、CRS和CARF） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | (高级) Web3增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
@@ -38,11 +43,6 @@
 | 高级AI分析工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
 | 企业级全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
 | 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
-| 后端生产支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
-| AI成果经理，战略技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
-| 个人助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

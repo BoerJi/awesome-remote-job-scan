@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3112</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
+| Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
+| Enterprise Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17062/enterprise-account-associate-emea/) |
+| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/18641/executive-assistant/) |
+| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/18640/ai-infrastructure-system-engineer-bangalore/) |
 | Research Associate, Biology | On-site | [View →](https://www.remotejobscan.com/job/18639/research-associate-biology/) |
 | AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
 | (Senior) Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
@@ -38,11 +43,6 @@
 | Senior AI Analytics Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
 | Full-Stack Engineer - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
 | 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
-| Backend Production Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18613/backend-production-support-engineer/) |
-| AI Outcomes Manager, Strategic Tech | On-site | [View →](https://www.remotejobscan.com/job/13711/ai-outcomes-manager-strategic-tech/) |
-| Personal Assistant | Remote | [View →](https://www.remotejobscan.com/job/18453/personal-assistant/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
