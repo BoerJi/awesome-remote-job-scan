@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3109</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3107</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI成果经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
+| 技术产品经理，产品支持经验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
+| 软件工程师，隐私工程（合法访问） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
 | 隐私工程软件工程师（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18595/software-engineer-privacy-engineering-lawful-access/) |
 | 软件工程师，CDP - 基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
 | 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
@@ -40,9 +43,6 @@
 | Solana客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
 | 企业客户总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
 | 代理安全与安全技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18582/technical-program-manager-agent-safety-security/) |
-| 计算电气工程师，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18587/compute-electrical-engineer-robotics/) |
-| 全栈软件工程师，经验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
-| 网络安全 - 应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

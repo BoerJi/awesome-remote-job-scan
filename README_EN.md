@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3109</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3107</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Software Engineer, Privacy Engineering (Lawful Access) | On-site | [View →](https://www.remotejobscan.com/job/18595/software-engineer-privacy-engineering-lawful-access/) |
+| AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
+| Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
+| Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
 | Software Engineer, CDP - Foundations | Remote | [View →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
@@ -40,9 +42,6 @@
 | Account Executive, Solana | Remote | [View →](https://www.remotejobscan.com/job/18589/account-executive-solana/) |
 | Account Executive, Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18588/account-executive-enterprise/) |
 | Technical Program Manager, Agent Safety & Security | On-site | [View →](https://www.remotejobscan.com/job/18582/technical-program-manager-agent-safety-security/) |
-| Compute Electrical Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18587/compute-electrical-engineer-robotics/) |
-| Full-Stack Software Engineer, Experience | Hybrid | [View →](https://www.remotejobscan.com/job/18581/full-stack-software-engineer-experience/) |
-| Manager, Cyber - Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/18580/manager-cyber-applied-ai-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
