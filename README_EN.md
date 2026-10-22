@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3114</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3120</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance & Strategy, Datacenter Strategic Initiatives | On-site | [View →](https://www.remotejobscan.com/job/18657/finance-strategy-datacenter-strategic-initiatives/) |
+| Compute & Infrastructure Accounting | Hybrid | [View →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
+| Manager, Executive Assistants, Revenue (EST) | On-site | [View →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
+| Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
+| Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
+| iOS Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18655/ios-engineer-creative-app/) |
+| Android Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18654/android-engineer-creative-app/) |
+| Senior Software Engineer, Compute Platform | Remote | [View →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
 | Internal Communications, GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
 | Growth Marketing Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
 | Software Engineer, Identity Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
@@ -35,13 +43,6 @@
 | Member of Technical Staff, Finance Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | Head of Policy Design, Societal Harms | On-site | [View →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
 | Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
-| Talent Operations | Remote | [View →](https://www.remotejobscan.com/job/18645/talent-operations/) |
-| Copywriter - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18642/copywriter-kraken-pro/) |
-| AI Outcomes Manager, GSI | On-site | [View →](https://www.remotejobscan.com/job/13542/ai-outcomes-manager-gsi/) |
-| Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
-| Senior Software Engineer, Secrets Management | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
-| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

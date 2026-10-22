@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3114</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务与战略、数据中心战略计划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18657/finance-strategy-datacenter-strategic-initiatives/) |
+| 计算与基础设施会计 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18658/compute-infrastructure-accounting/) |
+| 高级管理人员，行政助理，收入（东部时间） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18656/manager-executive-assistants-revenue-est/) |
+| 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
+| 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
+| iOS工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18655/ios-engineer-creative-app/) |
+| Android工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18654/android-engineer-creative-app/) |
+| 高级软件工程师，计算平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18322/senior-software-engineer-compute-platform/) |
 | 内部沟通，市场推广 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
 | 增长营销实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
 | 身份基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
@@ -35,14 +43,6 @@
 | 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | 社会危害政策设计主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
 | 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
-| 人才运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18645/talent-operations/) |
-| 文案 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18642/copywriter-kraken-pro/) |
-| 文案策划 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18643/copywriter-kraken-pro/) |
-| AI成果经理，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13542/ai-outcomes-manager-gsi/) |
-| 高级软件工程师，证书管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
-| 高级软件工程师，秘密管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
-| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
-| 欧洲中东市场企业客户专员-法语 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
