@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3113</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Copywriter - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18642/copywriter-kraken-pro/) |
+| AI Outcomes Manager, GSI | On-site | [View →](https://www.remotejobscan.com/job/13542/ai-outcomes-manager-gsi/) |
+| Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
+| Senior Software Engineer, Secrets Management | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
+| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
 | Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
 | Enterprise Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17062/enterprise-account-associate-emea/) |
@@ -37,12 +42,6 @@
 | Senior Business Analytics Manager | On-site | [View →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
 | Employer Branding Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/18632/employer-branding-manager-senior-manager/) |
 | Strategic Account Executive - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/18634/strategic-account-executive-switzerland/) |
-| Senior Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
-| 做市业务运营主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/job-18623/) |
-| VP/ Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
-| Senior AI Analytics Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
-| Full-Stack Engineer - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
-| 做市风控值班岗 | Remote | [View →](https://www.remotejobscan.com/job/17871/job-17871/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3111</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3113</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 文案 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18642/copywriter-kraken-pro/) |
+| 文案策划 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18643/copywriter-kraken-pro/) |
+| AI成果经理，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13542/ai-outcomes-manager-gsi/) |
+| 高级软件工程师，证书管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
+| 高级软件工程师，秘密管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
+| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | 欧洲中东市场企业客户专员-法语 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
 | 欧洲、中东、非洲地区企业账户专员（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
 | 欧洲、中东、非洲地区企业账户助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17062/enterprise-account-associate-emea/) |
@@ -37,12 +43,6 @@
 | 高级商业分析经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
 | 雇主品牌经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18632/employer-branding-manager-senior-manager/) |
 | 瑞士战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18634/strategic-account-executive-switzerland/) |
-| 高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
-| 做市业务运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/job-18623/) |
-| 交易服务副总裁/高级工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
-| 高级AI分析工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
-| 企业级全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
-| 做市风控值班岗 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17871/job-17871/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
