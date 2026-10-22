@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3114</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
+| Senior Manager / Expert, RWA Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
+| Web3高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
+| 电气工程师，PCBA测试基础设施，机器人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
+| 应用AI工程师（全栈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
 | 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
 | 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | 高级软件工程师，代理基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
@@ -37,11 +42,6 @@
 | AI成果经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
 | 技术产品经理，产品支持经验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
 | 软件工程师，隐私工程（合法访问） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
-| 隐私工程软件工程师（合法访问） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18595/software-engineer-privacy-engineering-lawful-access/) |
-| 软件工程师，CDP - 基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
-| 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
-| 高级软件工程师（机构、融资） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
-| 高级技术风险架构师，统一交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

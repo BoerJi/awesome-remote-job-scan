@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3114</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18611/applied-ai-engineer/) |
+| Senior Manager / Expert, RWA Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/14191/senior-manager-expert-rwa-ecosystem-growth/) |
+| Senior Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
+| Electrical Engineer, PCBA Test Infrastructure, Robotics | On-site | [View →](https://www.remotejobscan.com/job/18609/electrical-engineer-pcba-test-infrastructure-robotics/) |
+| Applied AI Engineer (Full-Stack) | Hybrid | [View →](https://www.remotejobscan.com/job/18610/applied-ai-engineer-full-stack/) |
 | Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
 | Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | Senior Software Engineer, Agent Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
@@ -38,10 +43,6 @@
 | AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
 | Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18596/product-manager-technical-product-support-experience/) |
 | Software Engineer, Privacy Engineering (Lawful Access) | Hybrid | [View →](https://www.remotejobscan.com/job/18597/software-engineer-privacy-engineering-lawful-access/) |
-| Software Engineer, CDP - Foundations | Remote | [View →](https://www.remotejobscan.com/job/17381/software-engineer-cdp-foundations/) |
-| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
-| Senior Software Engineer (Institutional, Financing) | Remote | [View →](https://www.remotejobscan.com/job/17582/senior-software-engineer-institutional-financing/) |
-| Senior Staff Technical Risk Architect, Unified Trading | Remote | [View →](https://www.remotejobscan.com/job/14141/senior-staff-technical-risk-architect-unified-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
