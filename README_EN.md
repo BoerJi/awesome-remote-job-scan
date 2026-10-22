@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3114</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Internal Communications, GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
+| Growth Marketing Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
+| Software Engineer, Identity Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
+| Academy Partnerships, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/18653/academy-partnerships-global-affairs/) |
+| Senior Counsel - Product & Privacy | On-site | [View →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
+| Translator, Portuguese (pt-PT) | Remote | [View →](https://www.remotejobscan.com/job/18647/translator-portuguese-pt-pt/) |
+| Translator, Italian (IT) | Remote | [View →](https://www.remotejobscan.com/job/18649/translator-italian-it/) |
+| Translator, Spanish (es-ES) | Remote | [View →](https://www.remotejobscan.com/job/18648/translator-spanish-es-es/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | Member of Technical Staff, Finance Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | Head of Policy Design, Societal Harms | On-site | [View →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
 | Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
@@ -33,15 +42,6 @@
 | Senior Software Engineer, Secrets Management | Remote | [View →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
-| Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
-| Enterprise Account Associate - EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/17062/enterprise-account-associate-emea/) |
-| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/18641/executive-assistant/) |
-| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/18640/ai-infrastructure-system-engineer-bangalore/) |
-| Research Associate, Biology | On-site | [View →](https://www.remotejobscan.com/job/18639/research-associate-biology/) |
-| AEOI Compliance Senior Manager / Manager (FATCA, CRS and CARF) | Remote | [View →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
-| (Senior) Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
-| Head of Talent Experience & Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/18637/head-of-talent-experience-enablement/) |
-| Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

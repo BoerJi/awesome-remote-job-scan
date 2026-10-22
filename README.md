@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3111</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3114</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部沟通，市场推广 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
+| 增长营销实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
+| 身份基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18652/software-engineer-identity-infrastructure/) |
+| 学院合作，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18653/academy-partnerships-global-affairs/) |
+| 产品与隐私高级顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
+| 葡萄牙语（pt-PT）翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18647/translator-portuguese-pt-pt/) |
+| 意大利语翻译（意大利） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18649/translator-italian-it/) |
+| 西班牙语翻译（es-ES） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18648/translator-spanish-es-es/) |
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | 社会危害政策设计主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
 | 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
@@ -34,15 +43,6 @@
 | 高级软件工程师，秘密管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9274/senior-software-engineer-secrets-management/) |
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9302/software-engineer/) |
 | 欧洲中东市场企业客户专员-法语 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
-| 欧洲、中东、非洲地区企业账户专员（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
-| 欧洲、中东、非洲地区企业账户助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17062/enterprise-account-associate-emea/) |
-| 行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18641/executive-assistant/) |
-| AI基础设施系统工程师班加罗尔 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18640/ai-infrastructure-system-engineer-bangalore/) |
-| 生物学研究助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18639/research-associate-biology/) |
-| AEOI合规高级经理/经理（FATCA、CRS和CARF） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15227/aeoi-compliance-senior-manager-manager-fatca-crs-and-carf/) |
-| (高级) Web3增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
-| 人才体验与赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18637/head-of-talent-experience-enablement/) |
-| 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
