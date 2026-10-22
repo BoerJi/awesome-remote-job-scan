@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员，（软件工程师，经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
+| 数据团队成员（数据加速） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18677/member-of-data-staff-data-acceleration/) |
+| 研究通信、模型与前沿AI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18674/research-communications-models-frontier-ai/) |
+| 产品效率高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18676/principal-software-engineer-productivity/) |
+| 商业活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18675/events-manager-business/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
+| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | 伙伴赋能负责人，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18671/partner-enablement-lead-beneficial-deployments/) |
@@ -36,12 +43,6 @@
 | 合规副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
 | 技术编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18670/technical-editor/) |
 | 公共部门销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
-| 企业会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18666/corporate-accounting/) |
-| Communications Manager，Anthropic Institute | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
-| 高级物理安全系统工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
-| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
-| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| 合作伙伴内容与故事讲述项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

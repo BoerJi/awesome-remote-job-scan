@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3120</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff, (Software Engineer, Experience) | On-site | [View →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
+| Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/18677/member-of-data-staff-data-acceleration/) |
+| Research Communications, Models & Frontier AI | Hybrid | [View →](https://www.remotejobscan.com/job/18674/research-communications-models-frontier-ai/) |
+| Principal Software Engineer, Productivity | On-site | [View →](https://www.remotejobscan.com/job/18676/principal-software-engineer-productivity/) |
+| Events Manager, Business | On-site | [View →](https://www.remotejobscan.com/job/18675/events-manager-business/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Partner Enablement Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/18671/partner-enablement-lead-beneficial-deployments/) |
@@ -36,12 +43,6 @@
 | VP, Compliance | On-site | [View →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
 | Technical Editor | On-site | [View →](https://www.remotejobscan.com/job/18670/technical-editor/) |
 | VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
-| Corporate Accounting | On-site | [View →](https://www.remotejobscan.com/job/18666/corporate-accounting/) |
-| Communications Manager, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
-| Staff / Senior Physical Security Systems Engineer | Remote | [View →](https://www.remotejobscan.com/job/17370/staff-senior-physical-security-systems-engineer/) |
-| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
-| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| Program Manager, Partner Content & Storytelling | Hybrid | [View →](https://www.remotejobscan.com/job/18664/program-manager-partner-content-storytelling/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
