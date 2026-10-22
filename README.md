@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3116</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3114</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
+| 做市业务运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/job-18623/) |
 | 交易服务副总裁/高级工程总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
 | 高级AI分析工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
 | 企业级全栈工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
@@ -40,8 +42,6 @@
 | 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
 | 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | 高级软件工程师，代理基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
-| 文案、开发者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
-| 机器学习数据科学家 - 消费者预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

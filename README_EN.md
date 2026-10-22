@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3116</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3114</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
+| 做市业务运营主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/job-18623/) |
 | VP/ Senior Engineering Director, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/6834/vp-senior-engineering-director-trading-services/) |
 | Senior AI Analytics Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18627/senior-ai-analytics-engineer/) |
 | Full-Stack Engineer - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/18628/full-stack-engineer-enterprise/) |
@@ -41,8 +43,6 @@
 | Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | Senior Software Engineer, Agent Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18608/senior-software-engineer-agent-infrastructure/) |
 | Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
-| Copywriter, Developer | On-site | [View →](https://www.remotejobscan.com/job/18602/copywriter-developer/) |
-| Machine Learning Data Scientist - Consumer Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/18616/machine-learning-data-scientist-consumer-forecasting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
