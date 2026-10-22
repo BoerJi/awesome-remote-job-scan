@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3113</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3111</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
+| 社会危害政策设计主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
+| 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
+| 人才运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18645/talent-operations/) |
 | 文案 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18642/copywriter-kraken-pro/) |
 | 文案策划 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18643/copywriter-kraken-pro/) |
 | AI成果经理，GSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13542/ai-outcomes-manager-gsi/) |
@@ -39,10 +43,6 @@
 | (高级) Web3增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | 人才体验与赋能负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18637/head-of-talent-experience-enablement/) |
 | 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
-| 高级数据工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18635/senior-staff-data-engineer/) |
-| 高级商业分析经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
-| 雇主品牌经理/高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18632/employer-branding-manager-senior-manager/) |
-| 瑞士战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18634/strategic-account-executive-switzerland/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-22 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

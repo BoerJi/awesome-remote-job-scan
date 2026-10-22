@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3113</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3111</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff, Finance Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
+| Head of Policy Design, Societal Harms | On-site | [View →](https://www.remotejobscan.com/job/14890/head-of-policy-design-societal-harms/) |
+| Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
+| Talent Operations | Remote | [View →](https://www.remotejobscan.com/job/18645/talent-operations/) |
 | Copywriter - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/18642/copywriter-kraken-pro/) |
 | AI Outcomes Manager, GSI | On-site | [View →](https://www.remotejobscan.com/job/13542/ai-outcomes-manager-gsi/) |
 | Senior Software Engineer, Certificate Management | Remote | [View →](https://www.remotejobscan.com/job/17978/senior-software-engineer-certificate-management/) |
@@ -38,10 +42,6 @@
 | (Senior) Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18203/senior-growth-manager-web3/) |
 | Head of Talent Experience & Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/18637/head-of-talent-experience-enablement/) |
 | Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/18636/full-stack-engineer-frontend-leaning-studio/) |
-| Senior Staff Data Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18635/senior-staff-data-engineer/) |
-| Senior Business Analytics Manager | On-site | [View →](https://www.remotejobscan.com/job/18631/senior-business-analytics-manager/) |
-| Employer Branding Manager/ Senior Manager | Remote | [View →](https://www.remotejobscan.com/job/18632/employer-branding-manager-senior-manager/) |
-| Strategic Account Executive - Switzerland | On-site | [View →](https://www.remotejobscan.com/job/18634/strategic-account-executive-switzerland/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-22 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
