@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3147</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3146</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
+| 公共部门交付分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18745/public-sector-delivery-analyst/) |
+| 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18752/partnerships-private-equity/) |
 | 高级数据中心容量交付经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
 | 薪酬负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18751/compensation-lead/) |
 | 创意合作、入职和赋能经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
@@ -40,9 +43,6 @@
 | 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
 | 法律响应专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18740/legal-response-specialist/) |
 | TPU性能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9741/tpu-performance-engineer/) |
-| 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18739/senior-software-engineer-compute-platform/) |
-| 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
-| 执行器工程技术人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18738/engineering-technician-actuators/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
