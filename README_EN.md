@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -32,7 +32,6 @@
 | Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| Senior Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/senior-cloud-infrastructure-engineer/) |
 | Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 | Applied AI Architect, Public Sector (GovTech) | On-site | [View →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
 | Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
@@ -43,6 +42,7 @@
 | Legal Counsel, Litigation & Legal Process | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
 | Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
 | Go-to-Market Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
+| Member of Technical Staff, (Software Engineer, Experience) | On-site | [View →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 04:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 05:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

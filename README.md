@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3127</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -32,7 +32,6 @@
 | 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 | 研发效率平台高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/senior-cloud-infrastructure-engineer/) |
 | 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 | 公共部门应用AI架构师（政企科技） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
 | 房地产投资组合经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
@@ -43,6 +42,7 @@
 | 法律顾问、诉讼与法律流程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
 | 计算会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
 | 市场拓展招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
+| 技术团队成员，（软件工程师，经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 04:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 05:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
