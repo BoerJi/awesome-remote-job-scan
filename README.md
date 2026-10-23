@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律顾问、诉讼与法律流程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
+| 计算会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
+| 市场拓展招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
 | 技术团队成员，（软件工程师，经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
 | 数据团队成员（数据加速） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18677/member-of-data-staff-data-acceleration/) |
 | 研究通信、模型与前沿AI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18674/research-communications-models-frontier-ai/) |
@@ -40,9 +43,6 @@
 | 嵌入式工程师，合规 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 | 联邦公务员销售 - 联邦金融 - 企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
 | 体验式营销社区经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
-| 合规副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
-| 技术编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18670/technical-editor/) |
-| 公共部门销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

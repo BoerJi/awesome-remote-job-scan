@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Counsel, Litigation & Legal Process | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
+| Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
+| Go-to-Market Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
 | Member of Technical Staff, (Software Engineer, Experience) | On-site | [View →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
 | Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/18677/member-of-data-staff-data-acceleration/) |
 | Research Communications, Models & Frontier AI | Hybrid | [View →](https://www.remotejobscan.com/job/18674/research-communications-models-frontier-ai/) |
@@ -40,9 +43,6 @@
 | Embedded Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 | Enterprise Account Executive, Federal Civilian Sales - Federal Financials | On-site | [View →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
 | Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
-| VP, Compliance | On-site | [View →](https://www.remotejobscan.com/job/18668/vp-compliance/) |
-| Technical Editor | On-site | [View →](https://www.remotejobscan.com/job/18670/technical-editor/) |
-| VP of Sales - Public Sector | Remote | [View →](https://www.remotejobscan.com/job/18244/vp-of-sales-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
