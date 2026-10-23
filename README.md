@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3124</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/senior-cloud-infrastructure-engineer/) |
+| 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
+| 公共部门应用AI架构师（政企科技） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
+| 房地产投资组合经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
+| 增长产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18688/product-designer-growth/) |
+| 全球休假与合理便利分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18684/global-leaves-and-accommodations-analyst/) |
 | ChatGPT 教育与学习首席软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18683/principal-software-engineer-chatgpt-education-and-learning/) |
 | 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18682/analyst-privacy-privacy-assessments/) |
 | 法律顾问、诉讼与法律流程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
@@ -37,12 +43,6 @@
 | 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | 核心基础设施系统高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
-| 伙伴赋能负责人，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18671/partner-enablement-lead-beneficial-deployments/) |
-| 制裁运营高级合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18672/compliance-senior-lead-sanctions-operations/) |
-| 投诉分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18510/complaints-analyst-iii/) |
-| SOX安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
-| Compute平台（路由）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
-| 嵌入式工程师，合规 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

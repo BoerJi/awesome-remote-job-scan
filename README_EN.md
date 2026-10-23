@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/senior-cloud-infrastructure-engineer/) |
+| Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
+| Applied AI Architect, Public Sector (GovTech) | On-site | [View →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
+| Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
+| Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18688/product-designer-growth/) |
+| Global Leaves and Accommodations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18684/global-leaves-and-accommodations-analyst/) |
 | Principal Software Engineer, ChatGPT Education and Learning | On-site | [View →](https://www.remotejobscan.com/job/18683/principal-software-engineer-chatgpt-education-and-learning/) |
 | Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18682/analyst-privacy-privacy-assessments/) |
 | Legal Counsel, Litigation & Legal Process | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
@@ -37,12 +43,6 @@
 | Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | Senior Software Engineer, Core Infra Systems | Remote | [View →](https://www.remotejobscan.com/job/17708/senior-software-engineer-core-infra-systems/) |
 | Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
-| Partner Enablement Lead, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/18671/partner-enablement-lead-beneficial-deployments/) |
-| Compliance Senior Lead - Sanctions Operations | Remote | [View →](https://www.remotejobscan.com/job/18672/compliance-senior-lead-sanctions-operations/) |
-| Complaints Analyst III | Remote | [View →](https://www.remotejobscan.com/job/18510/complaints-analyst-iii/) |
-| Head of Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
-| Staff Software Engineer, Compute Platform (Routing) | Remote | [View →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
-| Embedded Engineer, Compliance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
