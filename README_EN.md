@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Consulting and Agency Groups | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-consulting-and-agency-groups/) |
+| SDR Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
 | Senior Staff, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
 | Financial Analyst | Remote | [View →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
 | Applied AI Security Architect - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/18717/applied-ai-security-architect-healthcare-life-sciences/) |
@@ -39,7 +41,6 @@
 | Tech Ops Intern (Web3) | Remote | [View →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
 | Senior Data Analyst, Compliance | Remote | [View →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
 | Senior Product Manager, User Growth | On-site | [View →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
-| Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
