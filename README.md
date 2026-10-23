@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 管理培训生（非技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
 | 国际金融项目管理工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
 | 移民与签证运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18706/immigration-and-visa-operations-specialist/) |
@@ -39,7 +40,6 @@
 | 企业风险管理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18693/head-of-enterprise-risk-management/) |
 | 高级/资深数据工程师，风控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | 高级/资深数据工程师，分析与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
-| 数据工程师，产品数据开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

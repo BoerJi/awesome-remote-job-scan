@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Management Trainee (Non-Tech Track) | Remote | [View →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
 | International Finance Program Management | On-site | [View →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
 | Immigration and Visa Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/18706/immigration-and-visa-operations-specialist/) |
@@ -39,7 +40,6 @@
 | Head of Enterprise Risk Management | Hybrid | [View →](https://www.remotejobscan.com/job/18693/head-of-enterprise-risk-management/) |
 | Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | Senior/Staff Data Engineer, Analytics and Reporting | On-site | [View →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
-| Data Engineer, Product Data Development | On-site | [View →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
