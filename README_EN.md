@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Management Trainee (Non-Tech Track) | Remote | [View →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
+| International Finance Program Management | On-site | [View →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
+| Immigration and Visa Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/18706/immigration-and-visa-operations-specialist/) |
 | IT Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18704/it-support-engineer/) |
 | Tech Ops Intern (Web3) | Remote | [View →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
 | Senior Data Analyst, Compliance | Remote | [View →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
@@ -37,9 +40,6 @@
 | Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | Senior/Staff Data Engineer, Analytics and Reporting | On-site | [View →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
 | Data Engineer, Product Data Development | On-site | [View →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
-| Senior Data Engineer, Compliance Data Platform | On-site | [View →](https://www.remotejobscan.com/job/8481/senior-data-engineer-compliance-data-platform/) |
-| Staff Data Engineer, Finance Data Platform | On-site | [View →](https://www.remotejobscan.com/job/8480/staff-data-engineer-finance-data-platform/) |
-| Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

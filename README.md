@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3134</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 管理培训生（非技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
+| 国际金融项目管理工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
+| 移民与签证运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18706/immigration-and-visa-operations-specialist/) |
 | IT支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18704/it-support-engineer/) |
 | Web3技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
 | 合规高级数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
@@ -37,9 +40,6 @@
 | 高级/资深数据工程师，风控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | 高级/资深数据工程师，分析与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
 | 数据工程师，产品数据开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
-| 合规数据平台高级数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8481/senior-data-engineer-compliance-data-platform/) |
-| 财务数据平台高级数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8480/staff-data-engineer-finance-data-platform/) |
-| 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
