@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Deals Lead, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18725/strategic-deals-lead-compute-infrastructure/) |
+| Offensive Security Engineer, AI | Remote | [View →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
+| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
+| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| Member of Technical Staff (Software Engineer, Fraud Prevention) | Hybrid | [View →](https://www.remotejobscan.com/job/18723/member-of-technical-staff-software-engineer-fraud-prevention/) |
+| Sales Lead - Enterprise - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/18721/sales-lead-enterprise-financial-services/) |
+| Sales Lead - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/18722/sales-lead-enterprise-healthcare/) |
+| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18720/it-systems-engineer/) |
 | Enterprise Account Executive, Consulting and Agency Groups | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-consulting-and-agency-groups/) |
 | SDR Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
 | Senior Staff, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
@@ -35,12 +43,6 @@
 | Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/18711/customer-success-uki/) |
 | Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Management Trainee (Non-Tech Track) | Remote | [View →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
-| International Finance Program Management | On-site | [View →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
-| Immigration and Visa Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/18706/immigration-and-visa-operations-specialist/) |
-| IT Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18704/it-support-engineer/) |
-| Tech Ops Intern (Web3) | Remote | [View →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
-| Senior Data Analyst, Compliance | Remote | [View →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
-| Senior Product Manager, User Growth | On-site | [View →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

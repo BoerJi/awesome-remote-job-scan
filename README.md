@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算与基础设施战略交易负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18725/strategic-deals-lead-compute-infrastructure/) |
+| AI防御安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
+| 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
+| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
+| 技术团队成员（软件工程师，反欺诈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18723/member-of-technical-staff-software-engineer-fraud-prevention/) |
+| 企业销售主管 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18721/sales-lead-enterprise-financial-services/) |
+| 企业销售主管 - 医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18722/sales-lead-enterprise-healthcare/) |
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18720/it-systems-engineer/) |
 | 企业客户经理，咨询和代理集团 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-consulting-and-agency-groups/) |
 | SDR经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
 | 合规技术高级员工 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
@@ -35,12 +43,6 @@
 | 客户成功 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18711/customer-success-uki/) |
 | 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 管理培训生（非技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
-| 国际金融项目管理工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
-| 移民与签证运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18706/immigration-and-visa-operations-specialist/) |
-| IT支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18704/it-support-engineer/) |
-| Web3技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
-| 合规高级数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
-| 高级用户增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
