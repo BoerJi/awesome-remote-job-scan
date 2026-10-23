@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3135</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SOX安全控制保障负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
+| 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18736/software-engineer/) |
+| AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18737/lead-engineer-ai-platform/) |
+| 高级Staff软件工程师，数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9295/senior-staff-software-engineer-data-platform/) |
+| 数据中心运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18735/data-center-operations-engineer/) |
+| 高级用户体验研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
+| 企业高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18734/senior-commercial-counsel-enterprise/) |
+| 财务与战略计算、网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-networks/) |
 | 企业治理与合规法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18732/legal-counsel-corporate-governance-regulatory/) |
 | GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18728/applied-ai-engineer-digital-natives/) |
@@ -34,14 +42,6 @@
 | AI防御安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
 | 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
-| 技术团队成员（软件工程师，反欺诈） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18723/member-of-technical-staff-software-engineer-fraud-prevention/) |
-| 企业销售主管 - 金融服务业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18721/sales-lead-enterprise-financial-services/) |
-| 企业销售主管 - 医疗保健 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18722/sales-lead-enterprise-healthcare/) |
-| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18720/it-systems-engineer/) |
-| 企业客户经理，咨询和代理集团 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-consulting-and-agency-groups/) |
-| SDR经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
-| 合规技术高级员工 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
-| 财务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

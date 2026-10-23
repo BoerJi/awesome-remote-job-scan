@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3135</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead - Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
+| Software Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18736/software-engineer/) |
+| Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/18737/lead-engineer-ai-platform/) |
+| Senior Staff Software Engineer, Data Platform | Remote | [View →](https://www.remotejobscan.com/job/9295/senior-staff-software-engineer-data-platform/) |
+| Data Center Operations Engineer | On-site | [View →](https://www.remotejobscan.com/job/18735/data-center-operations-engineer/) |
+| Staff User Researcher | Remote | [View →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
+| Senior Commercial Counsel, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18734/senior-commercial-counsel-enterprise/) |
+| Finance & Strategy Compute, Networks | On-site | [View →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-networks/) |
 | Legal Counsel, Corporate Governance & Regulatory | Remote | [View →](https://www.remotejobscan.com/job/18732/legal-counsel-corporate-governance-regulatory/) |
 | Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18728/applied-ai-engineer-digital-natives/) |
@@ -34,14 +42,6 @@
 | Offensive Security Engineer, AI | Remote | [View →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
 | Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
-| Member of Technical Staff (Software Engineer, Fraud Prevention) | Hybrid | [View →](https://www.remotejobscan.com/job/18723/member-of-technical-staff-software-engineer-fraud-prevention/) |
-| Sales Lead - Enterprise - Financial Services | Remote | [View →](https://www.remotejobscan.com/job/18721/sales-lead-enterprise-financial-services/) |
-| Sales Lead - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/18722/sales-lead-enterprise-healthcare/) |
-| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18720/it-systems-engineer/) |
-| Enterprise Account Executive, Consulting and Agency Groups | On-site | [View →](https://www.remotejobscan.com/job/18529/enterprise-account-executive-consulting-and-agency-groups/) |
-| SDR Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
-| Senior Staff, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
-| Financial Analyst | Remote | [View →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
