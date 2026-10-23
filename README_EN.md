@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18704/it-support-engineer/) |
 | Tech Ops Intern (Web3) | Remote | [View →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
 | Senior Data Analyst, Compliance | Remote | [View →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
 | Senior Product Manager, User Growth | On-site | [View →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
@@ -39,8 +40,6 @@
 | Senior Data Engineer, Compliance Data Platform | On-site | [View →](https://www.remotejobscan.com/job/8481/senior-data-engineer-compliance-data-platform/) |
 | Staff Data Engineer, Finance Data Platform | On-site | [View →](https://www.remotejobscan.com/job/8480/staff-data-engineer-finance-data-platform/) |
 | Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

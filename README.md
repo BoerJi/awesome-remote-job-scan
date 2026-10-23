@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18704/it-support-engineer/) |
 | Web3技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
 | 合规高级数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
 | 高级用户增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
@@ -39,8 +40,6 @@
 | 合规数据平台高级数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8481/senior-data-engineer-compliance-data-platform/) |
 | 财务数据平台高级数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8480/staff-data-engineer-finance-data-platform/) |
 | 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
