@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,15 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 高级/资深风险控制数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
-| 高级/专家数据工程师，分析与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
-| 数据工程师，产品数据开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
-| 合规数据平台高级数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8481/senior-data-engineer-compliance-data-platform/) |
-| 高级数据工程师，金融数据平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8480/staff-data-engineer-finance-data-platform/) |
-| 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| 研发效率平台高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
+| 执行助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18692/executive-assistant-india-middle-east/) |
+| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
+| 销售卓越与方法论主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18689/head-of-sales-excellence-methodology/) |
 | 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 | 公共部门应用AI架构师（政企科技） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
 | 房地产投资组合经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
@@ -43,6 +37,12 @@
 | 计算会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
 | 市场拓展招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
 | 技术团队成员，（软件工程师，经验） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
+| 数据团队成员（数据加速） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18677/member-of-data-staff-data-acceleration/) |
+| 研究通信、模型与前沿AI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18674/research-communications-models-frontier-ai/) |
+| 产品效率高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18676/principal-software-engineer-productivity/) |
+| 商业活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18675/events-manager-business/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
+| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

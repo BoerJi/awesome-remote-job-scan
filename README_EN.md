@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,15 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
-| Senior/Staff Data Engineer, Analytics and Reporting | On-site | [View →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
-| Data Engineer, Product Data Development | On-site | [View →](https://www.remotejobscan.com/job/8825/data-engineer-product-data-development/) |
-| Senior Data Engineer, Compliance Data Platform | On-site | [View →](https://www.remotejobscan.com/job/8481/senior-data-engineer-compliance-data-platform/) |
-| Staff Data Engineer, Finance Data Platform | On-site | [View →](https://www.remotejobscan.com/job/8480/staff-data-engineer-finance-data-platform/) |
-| Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
-| Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
-| Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
+| Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18692/executive-assistant-india-middle-east/) |
+| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
+| Head of Sales Excellence & Methodology | On-site | [View →](https://www.remotejobscan.com/job/18689/head-of-sales-excellence-methodology/) |
 | Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 | Applied AI Architect, Public Sector (GovTech) | On-site | [View →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
 | Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
@@ -43,6 +37,12 @@
 | Manager, Compute Accounting | On-site | [View →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
 | Go-to-Market Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
 | Member of Technical Staff, (Software Engineer, Experience) | On-site | [View →](https://www.remotejobscan.com/job/18678/member-of-technical-staff-software-engineer-experience/) |
+| Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/18677/member-of-data-staff-data-acceleration/) |
+| Research Communications, Models & Frontier AI | Hybrid | [View →](https://www.remotejobscan.com/job/18674/research-communications-models-frontier-ai/) |
+| Principal Software Engineer, Productivity | On-site | [View →](https://www.remotejobscan.com/job/18676/principal-software-engineer-productivity/) |
+| Events Manager, Business | On-site | [View →](https://www.remotejobscan.com/job/18675/events-manager-business/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
