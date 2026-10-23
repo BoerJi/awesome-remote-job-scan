@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Counsel, Corporate Governance & Regulatory | Remote | [View →](https://www.remotejobscan.com/job/18732/legal-counsel-corporate-governance-regulatory/) |
+| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
+| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18728/applied-ai-engineer-digital-natives/) |
+| Senior Complaints Analyst | On-site | [View →](https://www.remotejobscan.com/job/18726/senior-complaints-analyst/) |
+| Full Stack Software Engineer, Monetization Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18729/full-stack-software-engineer-monetization-platform/) |
+| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18730/gtm-recruiter/) |
 | Strategic Deals Lead, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18725/strategic-deals-lead-compute-infrastructure/) |
 | Offensive Security Engineer, AI | Remote | [View →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
 | Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
@@ -35,14 +42,6 @@
 | SDR Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
 | Senior Staff, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
 | Financial Analyst | Remote | [View →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
-| Applied AI Security Architect - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/18717/applied-ai-security-architect-healthcare-life-sciences/) |
-| Compliance Analyst - AML Investigations | On-site | [View →](https://www.remotejobscan.com/job/18713/compliance-analyst-aml-investigations/) |
-| Head of UK Legal | On-site | [View →](https://www.remotejobscan.com/job/18714/head-of-uk-legal/) |
-| Associate General Counsel, Malta | On-site | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel-malta/) |
-| Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/18715/business-recruiter/) |
-| Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/18711/customer-success-uki/) |
-| Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| Management Trainee (Non-Tech Track) | Remote | [View →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

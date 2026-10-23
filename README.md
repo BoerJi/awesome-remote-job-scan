@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业治理与合规法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18732/legal-counsel-corporate-governance-regulatory/) |
+| GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
+| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18728/applied-ai-engineer-digital-natives/) |
+| 高级投诉分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18726/senior-complaints-analyst/) |
+| 全栈软件工程师，变现平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18729/full-stack-software-engineer-monetization-platform/) |
+| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
+| GTM招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18730/gtm-recruiter/) |
 | 计算与基础设施战略交易负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18725/strategic-deals-lead-compute-infrastructure/) |
 | AI防御安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
 | 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
@@ -35,14 +42,6 @@
 | SDR经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18719/sdr-manager/) |
 | 合规技术高级员工 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
 | 财务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
-| 应用AI安全架构师 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18717/applied-ai-security-architect-healthcare-life-sciences/) |
-| 合规分析师 - 反洗钱调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18713/compliance-analyst-aml-investigations/) |
-| 英国法律总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18714/head-of-uk-legal/) |
-| 马耳他助理总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel-malta/) |
-| 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18715/business-recruiter/) |
-| 客户成功 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18711/customer-success-uki/) |
-| 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
-| 管理培训生（非技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
