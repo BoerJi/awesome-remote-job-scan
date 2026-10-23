@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| ChatGPT 教育与学习首席软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18683/principal-software-engineer-chatgpt-education-and-learning/) |
+| 隐私分析师（隐私评估） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18682/analyst-privacy-privacy-assessments/) |
 | 法律顾问、诉讼与法律流程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation-legal-process/) |
 | 计算会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18679/manager-compute-accounting/) |
 | 市场拓展招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18680/go-to-market-recruiter/) |
@@ -41,8 +43,6 @@
 | SOX安全控制保证主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 | Compute平台（路由）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14674/staff-software-engineer-compute-platform-routing/) |
 | 嵌入式工程师，合规 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-compliance-office-of-the-cto/) |
-| 联邦公务员销售 - 联邦金融 - 企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18669/enterprise-account-executive-federal-civilian-sales-federal-financials/) |
-| 体验式营销社区经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
