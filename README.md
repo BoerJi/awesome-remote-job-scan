@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3147</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级数据中心容量交付经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
+| 薪酬负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18751/compensation-lead/) |
+| 创意合作、入职和赋能经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
+| Cohere API和开发者体验工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
+| 日本政府事务与公共政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
+| 产品市场经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
+| 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18748/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
+| 数据中心设施运营主管-调试与交付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 | 分布式存储与HPC和AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | 招聘专员，通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 | GTM赋能 - 合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18742/gtm-enablement-partnerships/) |
@@ -35,13 +43,6 @@
 | 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18739/senior-software-engineer-compute-platform/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | 执行器工程技术人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18738/engineering-technician-actuators/) |
-| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
-| 高级软件工程师，开发者基础设施（测试基础设施） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
-| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| SOX安全控制保障负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
-| 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18736/software-engineer/) |
-| AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18737/lead-engineer-ai-platform/) |
-| 高级Staff软件工程师，数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9295/senior-staff-software-engineer-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

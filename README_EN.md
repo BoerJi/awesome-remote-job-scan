@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Data Center Capacity Delivery Manager | On-site | [View →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
+| Compensation Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18751/compensation-lead/) |
+| Creative Partnerships, Onboarding and Enablement Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
+| Engineering Manager, Cohere APIs and DevEx | Hybrid | [View →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
+| Manager, Government Affairs & Public Policy - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
+| Product Marketing Manager, Partners | On-site | [View →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
+| Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18748/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
+| Data Center Facility Operations Lead - Commissioning & Delivery | Remote | [View →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 | GTM Enablement - Partnerships | Remote | [View →](https://www.remotejobscan.com/job/18742/gtm-enablement-partnerships/) |
@@ -35,14 +43,6 @@
 | Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18739/senior-software-engineer-compute-platform/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | Engineering Technician, Actuators | On-site | [View →](https://www.remotejobscan.com/job/18738/engineering-technician-actuators/) |
-| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
-| Staff Software Engineer, Developer Infrastructure (Test Infrastructure) | Remote | [View →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
-| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
-| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
-| Lead - Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
-| Software Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18736/software-engineer/) |
-| Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/18737/lead-engineer-ai-platform/) |
-| Senior Staff Software Engineer, Data Platform | Remote | [View →](https://www.remotejobscan.com/job/9295/senior-staff-software-engineer-data-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
