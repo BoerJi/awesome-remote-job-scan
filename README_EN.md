@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst - AML Investigations | On-site | [View →](https://www.remotejobscan.com/job/18713/compliance-analyst-aml-investigations/) |
+| Head of UK Legal | On-site | [View →](https://www.remotejobscan.com/job/18714/head-of-uk-legal/) |
+| Associate General Counsel, Malta | On-site | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel-malta/) |
+| Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/18715/business-recruiter/) |
+| Customer Success - UK/I | Remote | [View →](https://www.remotejobscan.com/job/18711/customer-success-uki/) |
 | Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | Management Trainee (Non-Tech Track) | Remote | [View →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
 | International Finance Program Management | On-site | [View →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
@@ -35,11 +40,6 @@
 | Operations Manager, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | Senior Finance Transformation & Strategy PMO (BI / AI) | On-site | [View →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
-| Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
-| Head of Enterprise Risk Management | Hybrid | [View →](https://www.remotejobscan.com/job/18693/head-of-enterprise-risk-management/) |
-| Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
-| Senior/Staff Data Engineer, Analytics and Reporting | On-site | [View →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

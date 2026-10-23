@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规分析师 - 反洗钱调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18713/compliance-analyst-aml-investigations/) |
+| 英国法律总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18714/head-of-uk-legal/) |
+| 马耳他助理总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel-malta/) |
+| 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18715/business-recruiter/) |
+| 客户成功 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18711/customer-success-uki/) |
 | 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
 | 管理培训生（非技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/management-trainee-non-tech-track/) |
 | 国际金融项目管理工作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18708/international-finance-program-management/) |
@@ -35,11 +40,6 @@
 | ADGM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | 高级财务转型与战略PMO（BI / AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| VIP客户关系经理，CIS地区（俄语要求） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
-| 高级VIP关系经理，CIS | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
-| 企业风险管理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18693/head-of-enterprise-risk-management/) |
-| 高级/资深数据工程师，风控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
-| 高级/资深数据工程师，分析与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
