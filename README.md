@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,25 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 分布式存储与HPC和AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| 招聘专员，通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| GTM赋能 - 合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18742/gtm-enablement-partnerships/) |
+| GTM赋能 - 全球入职与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18743/gtm-enablement-global-onboarding-operations/) |
+| AI成果经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
+| 战略推理前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-strategic-inference/) |
+| 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| 法律响应专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18740/legal-response-specialist/) |
+| TPU性能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9741/tpu-performance-engineer/) |
+| 高级软件工程师，计算平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18739/senior-software-engineer-compute-platform/) |
+| 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
+| 执行器工程技术人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18738/engineering-technician-actuators/) |
+| 高级软件工程师，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
+| 高级软件工程师，开发者基础设施（测试基础设施） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
+| 商业运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | SOX安全控制保障负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
 | 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18736/software-engineer/) |
 | AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18737/lead-engineer-ai-platform/) |
 | 高级Staff软件工程师，数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9295/senior-staff-software-engineer-data-platform/) |
-| 数据中心运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18735/data-center-operations-engineer/) |
-| 高级用户体验研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
-| 企业高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18734/senior-commercial-counsel-enterprise/) |
-| 财务与战略计算、网络 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-networks/) |
-| 企业治理与合规法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18732/legal-counsel-corporate-governance-regulatory/) |
-| GPU集群技术支持工程师 - 美国周末 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
-| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18728/applied-ai-engineer-digital-natives/) |
-| 高级投诉分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18726/senior-complaints-analyst/) |
-| 全栈软件工程师，变现平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18729/full-stack-software-engineer-monetization-platform/) |
-| 投诉分析师III | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| GTM招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18730/gtm-recruiter/) |
-| 计算与基础设施战略交易负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18725/strategic-deals-lead-compute-infrastructure/) |
-| AI防御安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
-| 高级资深软件工程师，机构交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
-| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

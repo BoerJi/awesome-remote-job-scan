@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
+| GTM Enablement - Partnerships | Remote | [View →](https://www.remotejobscan.com/job/18742/gtm-enablement-partnerships/) |
+| GTM Enablement - Global Onboarding & Operations | On-site | [View →](https://www.remotejobscan.com/job/18743/gtm-enablement-global-onboarding-operations/) |
+| AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
+| Forward Deployed Engineer, Strategic Inference | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-strategic-inference/) |
+| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
+| Legal Response Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18740/legal-response-specialist/) |
+| TPU Performance Engineer | On-site | [View →](https://www.remotejobscan.com/job/9741/tpu-performance-engineer/) |
+| Senior Software Engineer, Compute Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18739/senior-software-engineer-compute-platform/) |
+| Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
+| Engineering Technician, Actuators | On-site | [View →](https://www.remotejobscan.com/job/18738/engineering-technician-actuators/) |
+| Staff Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18487/staff-software-engineer-developer-infrastructure/) |
+| Staff Software Engineer, Developer Infrastructure (Test Infrastructure) | Remote | [View →](https://www.remotejobscan.com/job/9325/staff-software-engineer-developer-infrastructure-test-infrastructure/) |
+| Senior Software Engineer, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/16033/senior-software-engineer-developer-infrastructure/) |
+| Commercial Operations Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercial-operations-program-manager/) |
 | Lead - Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/lead-security-controls-assurance-sox/) |
 | Software Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18736/software-engineer/) |
 | Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/18737/lead-engineer-ai-platform/) |
 | Senior Staff Software Engineer, Data Platform | Remote | [View →](https://www.remotejobscan.com/job/9295/senior-staff-software-engineer-data-platform/) |
-| Data Center Operations Engineer | On-site | [View →](https://www.remotejobscan.com/job/18735/data-center-operations-engineer/) |
-| Staff User Researcher | Remote | [View →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
-| Senior Commercial Counsel, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18734/senior-commercial-counsel-enterprise/) |
-| Finance & Strategy Compute, Networks | On-site | [View →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-networks/) |
-| Legal Counsel, Corporate Governance & Regulatory | Remote | [View →](https://www.remotejobscan.com/job/18732/legal-counsel-corporate-governance-regulatory/) |
-| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
-| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/18728/applied-ai-engineer-digital-natives/) |
-| Senior Complaints Analyst | On-site | [View →](https://www.remotejobscan.com/job/18726/senior-complaints-analyst/) |
-| Full Stack Software Engineer, Monetization Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18729/full-stack-software-engineer-monetization-platform/) |
-| Complaints Analyst III | Hybrid | [View →](https://www.remotejobscan.com/job/17159/complaints-analyst-iii/) |
-| GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18730/gtm-recruiter/) |
-| Strategic Deals Lead, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18725/strategic-deals-lead-compute-infrastructure/) |
-| Offensive Security Engineer, AI | Remote | [View →](https://www.remotejobscan.com/job/18724/offensive-security-engineer-ai/) |
-| Senior Staff Software Engineer, Institutional Exchange | Remote | [View →](https://www.remotejobscan.com/job/15576/senior-staff-software-engineer-institutional-exchange/) |
-| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/16034/senior-software-engineer-data-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
