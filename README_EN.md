@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Tech Ops Intern (Web3) | Remote | [View →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
+| Senior Data Analyst, Compliance | Remote | [View →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
+| Senior Product Manager, User Growth | On-site | [View →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | Operations Manager, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | Senior Finance Transformation & Strategy PMO (BI / AI) | On-site | [View →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
@@ -38,11 +41,6 @@
 | Senior/Staff Engineer, Operations Automation & Cloud Management Platform | On-site | [View →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 | Product Manager, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | Senior/Staff Engineer, Security Platform Development | On-site | [View →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| Senior/Staff Engineer, R&D Efficiency Platform | On-site | [View →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| Executive Assistant - India & Middle East | Remote | [View →](https://www.remotejobscan.com/job/18692/executive-assistant-india-middle-east/) |
-| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
-| Head of Sales Excellence & Methodology | On-site | [View →](https://www.remotejobscan.com/job/18689/head-of-sales-excellence-methodology/) |
-| Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

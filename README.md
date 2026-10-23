@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3127</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3技术运营实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18701/tech-ops-intern-web3/) |
+| 合规高级数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
+| 高级用户增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
 | ADGM高级执行官员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
 | ADGM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | 高级财务转型与战略PMO（BI / AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
@@ -38,11 +41,6 @@
 | 高级/资深工程师，运营自动化与云管理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9002/seniorstaff-engineer-operations-automation-cloud-management-platform/) |
 | 研发效率平台产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9001/product-manager-rd-efficiency-platform/) |
 | 高级/资深工程师，安全平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8998/seniorstaff-engineer-security-platform-development/) |
-| 高级/资深工程师，研发效率平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8997/seniorstaff-engineer-rd-efficiency-platform/) |
-| 执行助理 - 印度与中东 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18692/executive-assistant-india-middle-east/) |
-| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
-| 销售卓越与方法论主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18689/head-of-sales-excellence-methodology/) |
-| 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
