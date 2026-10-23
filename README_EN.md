@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3124</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Transformation & Strategy PMO (BI / AI) | On-site | [View →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
+| Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 | Head of Enterprise Risk Management | Hybrid | [View →](https://www.remotejobscan.com/job/18693/head-of-enterprise-risk-management/) |
 | Senior/Staff Data Engineer, Risk Control | On-site | [View →](https://www.remotejobscan.com/job/8827/seniorstaff-data-engineer-risk-control/) |
 | Senior/Staff Data Engineer, Analytics and Reporting | On-site | [View →](https://www.remotejobscan.com/job/8826/seniorstaff-data-engineer-analytics-and-reporting/) |
@@ -39,10 +43,6 @@
 | Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 | Applied AI Architect, Public Sector (GovTech) | On-site | [View →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
 | Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
-| Product Designer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18688/product-designer-growth/) |
-| Global Leaves and Accommodations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18684/global-leaves-and-accommodations-analyst/) |
-| Principal Software Engineer, ChatGPT Education and Learning | On-site | [View →](https://www.remotejobscan.com/job/18683/principal-software-engineer-chatgpt-education-and-learning/) |
-| Analyst, Privacy (Privacy Assessments) | Remote | [View →](https://www.remotejobscan.com/job/18682/analyst-privacy-privacy-assessments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
