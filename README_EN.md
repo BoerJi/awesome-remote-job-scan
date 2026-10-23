@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Staff, Compliance Technology | Remote | [View →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
+| Financial Analyst | Remote | [View →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
+| Applied AI Security Architect - Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/18717/applied-ai-security-architect-healthcare-life-sciences/) |
 | Compliance Analyst - AML Investigations | On-site | [View →](https://www.remotejobscan.com/job/18713/compliance-analyst-aml-investigations/) |
 | Head of UK Legal | On-site | [View →](https://www.remotejobscan.com/job/18714/head-of-uk-legal/) |
 | Associate General Counsel, Malta | On-site | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel-malta/) |
@@ -37,9 +40,6 @@
 | Senior Data Analyst, Compliance | Remote | [View →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
 | Senior Product Manager, User Growth | On-site | [View →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
 | Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
-| Operations Manager, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
-| Senior Finance Transformation & Strategy PMO (BI / AI) | On-site | [View →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

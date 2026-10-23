@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规技术高级员工 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18716/senior-staff-compliance-technology/) |
+| 财务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18718/financial-analyst/) |
+| 应用AI安全架构师 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18717/applied-ai-security-architect-healthcare-life-sciences/) |
 | 合规分析师 - 反洗钱调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18713/compliance-analyst-aml-investigations/) |
 | 英国法律总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18714/head-of-uk-legal/) |
 | 马耳他助理总法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel-malta/) |
@@ -37,9 +40,6 @@
 | 合规高级数据分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18699/senior-data-analyst-compliance/) |
 | 高级用户增长产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18697/senior-product-manager-user-growth/) |
 | ADGM高级执行官员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
-| ADGM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
-| 高级财务转型与战略PMO（BI / AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
