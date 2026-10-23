@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3126</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3128</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| ADGM高级执行官员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
+| ADGM运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | 高级财务转型与战略PMO（BI / AI） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | VIP客户关系经理，CIS地区（俄语要求） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
@@ -41,8 +43,6 @@
 | 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | 销售卓越与方法论主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18689/head-of-sales-excellence-methodology/) |
 | 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
-| 公共部门应用AI架构师（政企科技） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
-| 房地产投资组合经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-23 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3128</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Executive Officer, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17430/senior-executive-officer-adgm/) |
+| Operations Manager, ADGM | Remote | [View →](https://www.remotejobscan.com/job/17429/operations-manager-adgm/) |
 | Senior Finance Transformation & Strategy PMO (BI / AI) | On-site | [View →](https://www.remotejobscan.com/job/18694/senior-finance-transformation-strategy-pmo-bi-ai/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | VIP Relationship Manager, CIS (Russian Speaking) | On-site | [View →](https://www.remotejobscan.com/job/7873/vip-relationship-manager-cis-russian-speaking/) |
@@ -41,8 +43,6 @@
 | Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | Head of Sales Excellence & Methodology | On-site | [View →](https://www.remotejobscan.com/job/18689/head-of-sales-excellence-methodology/) |
 | Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
-| Applied AI Architect, Public Sector (GovTech) | On-site | [View →](https://www.remotejobscan.com/job/18687/applied-ai-architect-public-sector-govtech/) |
-| Real Estate Portfolio Manager | On-site | [View →](https://www.remotejobscan.com/job/9544/real-estate-portfolio-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-23 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
