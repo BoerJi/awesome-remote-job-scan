@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 | 技术团队成员（软件工程师，培训基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
@@ -42,7 +43,6 @@
 | 供应商主数据运营高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
 | Claude平台通信经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
 | 技术产品经理，产品支持经验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
-| 战略财务专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18753/strategic-finance-generalist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
