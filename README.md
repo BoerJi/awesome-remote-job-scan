@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全事件经理，保障 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
+| 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 | 社区沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
 | 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
@@ -41,8 +43,6 @@
 | 创意合作、入职和赋能经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
 | Cohere API和开发者体验工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
 | 日本政府事务与公共政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
-| 产品市场经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
-| 数据中心设施运营主管-调试与交付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

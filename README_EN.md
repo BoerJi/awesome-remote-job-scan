@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
+| Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 | Community Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
 | Member of Technical Staff, Finance Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
@@ -41,8 +43,6 @@
 | Creative Partnerships, Onboarding and Enablement Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
 | Engineering Manager, Cohere APIs and DevEx | Hybrid | [View →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
 | Manager, Government Affairs & Public Policy - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
-| Product Marketing Manager, Partners | On-site | [View →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
-| Data Center Facility Operations Lead - Commissioning & Delivery | Remote | [View →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
