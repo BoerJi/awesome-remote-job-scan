@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 | Lead, Operations & Growth | On-site | [View →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Enterprise Account Executive - Manufacturing Industries, Taiwan | On-site | [View →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
@@ -42,7 +43,6 @@
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Public Sector Delivery Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18745/public-sector-delivery-analyst/) |
 | Partnerships - Private Equity | On-site | [View →](https://www.remotejobscan.com/job/18752/partnerships-private-equity/) |
-| Senior Data Center Capacity Delivery Manager | On-site | [View →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级经理，全球合作伙伴（上市与代币化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 | 运营与增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | 企业客户经理 - 台湾制造业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
@@ -42,7 +43,6 @@
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | 公共部门交付分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18745/public-sector-delivery-analyst/) |
 | 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18752/partnerships-private-equity/) |
-| 高级数据中心容量交付经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
