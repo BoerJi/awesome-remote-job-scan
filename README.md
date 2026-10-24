@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3144</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社区沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
+| 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 前部署工程师，训练后 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18756/forward-deployed-engineer-post-training/) |
 | 欧盟政策/监管高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18759/senior-counsel-eu-policyregulatory/) |
 | 采购运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
@@ -40,9 +43,6 @@
 | 日本政府事务与公共政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
 | 产品市场经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
 | 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18748/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
-| 数据中心设施运营主管-调试与交付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
-| 分布式存储与HPC和AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| 招聘专员，通信 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
