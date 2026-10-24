@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员（软件工程师，培训基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
+| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
 | 高级经理，全球合作伙伴（上市与代币化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 | 运营与增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 | 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
@@ -41,8 +43,6 @@
 | 技术产品经理，产品支持经验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
 | 战略财务专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18753/strategic-finance-generalist/) |
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
-| 公共部门交付分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18745/public-sector-delivery-analyst/) |
-| 私募股权合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18752/partnerships-private-equity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
