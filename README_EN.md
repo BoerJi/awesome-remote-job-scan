@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3144</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -42,7 +42,7 @@
 | Engineering Manager, Cohere APIs and DevEx | Hybrid | [View →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
 | Manager, Government Affairs & Public Policy - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
 | Product Marketing Manager, Partners | On-site | [View →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
-| Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18748/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
+| Data Center Facility Operations Lead - Commissioning & Delivery | Remote | [View →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

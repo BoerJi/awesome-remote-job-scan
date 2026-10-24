@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3144</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3143</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -42,7 +42,7 @@
 | Cohere API和开发者体验工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
 | 日本政府事务与公共政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
 | 产品市场经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
-| 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18748/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
+| 数据中心设施运营主管-调试与交付 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
