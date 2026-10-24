@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 | Member of Technical Staff (Software Engineer, Training Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
 | Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
@@ -42,7 +43,6 @@
 | Communications Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
 | Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
 | Strategic Finance Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/18753/strategic-finance-generalist/) |
-| Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
