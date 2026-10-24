@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3143</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 台湾制造业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
+| 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | 安全事件经理，保障 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 | 社区沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
@@ -41,8 +43,6 @@
 | 高级数据中心容量交付经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
 | 薪酬负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18751/compensation-lead/) |
 | 创意合作、入职和赋能经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
-| Cohere API和开发者体验工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
-| 日本政府事务与公共政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

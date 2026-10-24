@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive - Manufacturing Industries, Taiwan | On-site | [View →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
+| Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 | Community Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
@@ -41,8 +43,6 @@
 | Senior Data Center Capacity Delivery Manager | On-site | [View →](https://www.remotejobscan.com/job/18749/senior-data-center-capacity-delivery-manager/) |
 | Compensation Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18751/compensation-lead/) |
 | Creative Partnerships, Onboarding and Enablement Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18750/creative-partnerships-onboarding-and-enablement-manager/) |
-| Engineering Manager, Cohere APIs and DevEx | Hybrid | [View →](https://www.remotejobscan.com/job/18746/engineering-manager-cohere-apis-and-devex/) |
-| Manager, Government Affairs & Public Policy - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/18747/manager-government-affairs-public-policy-japan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
