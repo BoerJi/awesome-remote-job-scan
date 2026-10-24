@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -42,7 +42,6 @@
 | Procurement Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
 | Senior Manager, Supplier MDM Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
 | Communications Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
-| Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
