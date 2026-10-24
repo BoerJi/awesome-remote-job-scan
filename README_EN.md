@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Post-Training | On-site | [View →](https://www.remotejobscan.com/job/18756/forward-deployed-engineer-post-training/) |
+| Senior Counsel, EU Policy/Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/18759/senior-counsel-eu-policyregulatory/) |
+| Procurement Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
+| Senior Manager, Supplier MDM Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
 | Communications Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
 | Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
 | Strategic Finance Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/18753/strategic-finance-generalist/) |
@@ -39,10 +43,6 @@
 | Data Center Facility Operations Lead - Commissioning & Delivery | Remote | [View →](https://www.remotejobscan.com/job/18744/data-center-facility-operations-lead-commissioning-delivery/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/17299/recruiter-communications/) |
-| GTM Enablement - Partnerships | Remote | [View →](https://www.remotejobscan.com/job/18742/gtm-enablement-partnerships/) |
-| GTM Enablement - Global Onboarding & Operations | On-site | [View →](https://www.remotejobscan.com/job/18743/gtm-enablement-global-onboarding-operations/) |
-| AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
-| Forward Deployed Engineer, Strategic Inference | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-strategic-inference/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
