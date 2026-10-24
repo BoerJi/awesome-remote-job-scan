@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3139</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Claude平台通信经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
+| 技术产品经理，产品支持经验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
 | 战略财务专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18753/strategic-finance-generalist/) |
 | 公共部门解决方案营销主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | 公共部门交付分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18745/public-sector-delivery-analyst/) |
@@ -41,8 +43,6 @@
 | GTM赋能 - 全球入职与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18743/gtm-enablement-global-onboarding-operations/) |
 | AI成果经理，金融服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
 | 战略推理前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-strategic-inference/) |
-| 商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
-| 法律响应专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18740/legal-response-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

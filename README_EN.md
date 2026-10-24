@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Communications Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
+| Product Manager (Technical), Product Support Experience | On-site | [View →](https://www.remotejobscan.com/job/18755/product-manager-technical-product-support-experience/) |
 | Strategic Finance Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/18753/strategic-finance-generalist/) |
 | Solutions Marketing Lead, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/13126/solutions-marketing-lead-public-sector/) |
 | Public Sector Delivery Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18745/public-sector-delivery-analyst/) |
@@ -41,8 +43,6 @@
 | GTM Enablement - Global Onboarding & Operations | On-site | [View →](https://www.remotejobscan.com/job/18743/gtm-enablement-global-onboarding-operations/) |
 | AI Outcomes Manager, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/13541/ai-outcomes-manager-financial-services/) |
 | Forward Deployed Engineer, Strategic Inference | On-site | [View →](https://www.remotejobscan.com/job/15777/forward-deployed-engineer-strategic-inference/) |
-| Commercial Counsel | On-site | [View →](https://www.remotejobscan.com/job/9823/commercial-counsel/) |
-| Legal Response Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18740/legal-response-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
