@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -37,10 +37,6 @@
 | 社区沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
 | 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 前部署工程师，训练后 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18756/forward-deployed-engineer-post-training/) |
-| 欧盟政策/监管高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18759/senior-counsel-eu-policyregulatory/) |
-| 采购运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
-| 供应商主数据运营高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

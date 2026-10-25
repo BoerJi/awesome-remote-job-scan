@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,10 +37,6 @@
 | Community Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
 | Member of Technical Staff, Finance Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Forward Deployed Engineer, Post-Training | On-site | [View →](https://www.remotejobscan.com/job/18756/forward-deployed-engineer-post-training/) |
-| Senior Counsel, EU Policy/Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/18759/senior-counsel-eu-policyregulatory/) |
-| Procurement Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
-| Senior Manager, Supplier MDM Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
