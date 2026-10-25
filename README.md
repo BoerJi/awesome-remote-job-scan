@@ -23,13 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心基础设施架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | 推理/计算基础设施工程高级软件工程师，伦敦或阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | 代理对齐执行分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18790/enforcement-analyst-agentic-alignment/) |
 | 事件经理，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
-| 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

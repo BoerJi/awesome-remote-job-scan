@@ -23,13 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Enforcement Analyst, Agentic Alignment | On-site | [View →](https://www.remotejobscan.com/job/18790/enforcement-analyst-agentic-alignment/) |
 | Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
-| Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
