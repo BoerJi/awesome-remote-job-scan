@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -30,7 +30,6 @@
 | 技术团队成员（软件工程师，培训基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
 | 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
 | 高级经理，全球合作伙伴（上市与代币化） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
-| 运营与增长主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9172/lead-operations-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 07:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 08:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
