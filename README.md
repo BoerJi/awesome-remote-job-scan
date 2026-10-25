@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（14 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -35,8 +35,6 @@
 | 安全事件经理，保障 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 | 社区沟通负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
-| 财务数据技术团队成员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-finance-data/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
