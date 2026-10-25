@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -29,7 +29,6 @@
 | Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 | Member of Technical Staff (Software Engineer, Training Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
 | Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
-| Senior Manager, Global Partnerships (Listing & Tokenization) | On-site | [View →](https://www.remotejobscan.com/job/11885/senior-manager-global-partnerships-listing-tokenization/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
