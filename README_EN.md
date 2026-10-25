@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Enforcement Analyst, Agentic Alignment | On-site | [View →](https://www.remotejobscan.com/job/18790/enforcement-analyst-agentic-alignment/) |
 | Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
@@ -93,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
