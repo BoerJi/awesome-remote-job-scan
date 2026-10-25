@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Enforcement Analyst, Agentic Alignment | On-site | [View →](https://www.remotejobscan.com/job/18790/enforcement-analyst-agentic-alignment/) |
+| Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 | Member of Technical Staff (Software Engineer, Training Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
@@ -32,7 +34,6 @@
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Enterprise Account Executive - Manufacturing Industries, Taiwan | On-site | [View →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
-| Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -97,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
