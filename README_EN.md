@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,7 +34,6 @@
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Enterprise Account Executive - Manufacturing Industries, Taiwan | On-site | [View →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
-| Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

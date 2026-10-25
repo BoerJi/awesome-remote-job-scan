@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（11 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -34,7 +34,6 @@
 | 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | 企业客户经理 - 台湾制造业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18787/enterprise-account-executive-manufacturing-industries-taiwan/) |
 | 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
-| 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
