@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（18 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -41,7 +41,6 @@
 | 欧盟政策/监管高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18759/senior-counsel-eu-policyregulatory/) |
 | 采购运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
 | 供应商主数据运营高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
-| Claude平台通信经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-24 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

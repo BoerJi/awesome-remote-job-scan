@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -41,7 +41,6 @@
 | Senior Counsel, EU Policy/Regulatory | Hybrid | [View →](https://www.remotejobscan.com/job/18759/senior-counsel-eu-policyregulatory/) |
 | Procurement Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18758/procurement-operations-specialist/) |
 | Senior Manager, Supplier MDM Operations | Hybrid | [View →](https://www.remotejobscan.com/job/18757/senior-manager-supplier-mdm-operations/) |
-| Communications Manager, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-24 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
