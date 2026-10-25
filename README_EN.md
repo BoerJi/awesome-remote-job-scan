@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,7 +34,6 @@
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
-| Community Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18760/community-communications-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 01:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 02:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
