@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -29,7 +29,6 @@
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Enforcement Analyst, Agentic Alignment | On-site | [View →](https://www.remotejobscan.com/job/18790/enforcement-analyst-agentic-alignment/) |
 | Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
-| Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
