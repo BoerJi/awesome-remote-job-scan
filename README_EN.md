@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,8 +30,6 @@
 | Incident Manager, Safeguards | On-site | [View →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | Director of Commercial Sales | On-site | [View →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
-| Member of Technical Staff (Software Engineer, Training Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
-| Member of Technical Staff (AI Software Engineer, Agents) | On-site | [View →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-25 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

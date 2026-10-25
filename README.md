@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -30,8 +30,6 @@
 | 事件经理，安全防护 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18761/incident-manager-safeguards/) |
 | 商业销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11869/director-of-commercial-sales/) |
 | 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
-| 技术团队成员（软件工程师，培训基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
-| 技术团队成员（AI软件工程师，智能体） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18788/member-of-technical-staff-ai-software-engineer-agents/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-25 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
