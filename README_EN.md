@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer (FDE) - AI Infra - SF | Hybrid | [View →](https://www.remotejobscan.com/job/18838/forward-deployed-engineer-fde-ai-infra-sf/) |
+| VC Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18837/vc-partnerships-manager/) |
+| Senior Product Designer, Fiat/Earn | On-site | [View →](https://www.remotejobscan.com/job/18835/senior-product-designer-fiatearn/) |
 | Data Center Electrical R&D Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
 | Hyperscaler & Systems Integrator Partner Manager (North America) | On-site | [View →](https://www.remotejobscan.com/job/18834/hyperscaler-systems-integrator-partner-manager-north-america/) |
 | Internal Communications, GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
@@ -40,9 +43,6 @@
 | Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
 | Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | Remote | [View →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
-| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
-| Model Partnerships - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/18820/model-partnerships-elevencreative/) |
-| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
