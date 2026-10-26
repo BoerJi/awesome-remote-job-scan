@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3146</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
+| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
+| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
+| 客户体验专员 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
+| 模型合作 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18820/model-partnerships-elevencreative/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
 | Trust Wallet毕业生领导计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
@@ -36,10 +42,6 @@
 | 高级执行助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 | 并购分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
 | AI赋能项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11586/ai-enablement-project-director/) |
-| 英国法律副总顾问/英国法律负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18714/deputy-general-counselhead-of-uk-legal/) |
-| 技术专家 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

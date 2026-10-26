@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3146</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
+| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
+| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | Remote | [View →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
+| Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
+| Model Partnerships - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/18820/model-partnerships-elevencreative/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
 | Trust Wallet Graduate Leadership Programme | Remote | [View →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
@@ -36,10 +42,6 @@
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 | M&A Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
 | AI Enablement Project Director | On-site | [View →](https://www.remotejobscan.com/job/11586/ai-enablement-project-director/) |
-| Deputy General Counsel/Head of UK Legal | On-site | [View →](https://www.remotejobscan.com/job/18714/deputy-general-counselhead-of-uk-legal/) |
-| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
-| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
