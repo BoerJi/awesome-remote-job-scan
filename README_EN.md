@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Center Electrical R&D Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
+| Hyperscaler & Systems Integrator Partner Manager (North America) | On-site | [View →](https://www.remotejobscan.com/job/18834/hyperscaler-systems-integrator-partner-manager-north-america/) |
+| Internal Communications, GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
+| Revenue Operations Intern (Winter, 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/18832/revenue-operations-intern-winter-2027/) |
 | Director, Debt Capital Markets | On-site | [View →](https://www.remotejobscan.com/job/18830/director-debt-capital-markets/) |
 | Founding Emerging Talent Recruiter | On-site | [View →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
 | Android Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
@@ -39,10 +43,6 @@
 | Client Experience Specialist | Fixed-term | Remote | [View →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
 | Model Partnerships - ElevenCreative | Remote | [View →](https://www.remotejobscan.com/job/18820/model-partnerships-elevencreative/) |
 | On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| Trust Wallet Graduate Leadership Programme | Remote | [View →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
-| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| Growth Product Operations 增长产品运营 | Remote | [View →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

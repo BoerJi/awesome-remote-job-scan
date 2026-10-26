@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心电气研发设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
+| 北美超级云与系统集成商合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18834/hyperscaler-systems-integrator-partner-manager-north-america/) |
+| 内部沟通，市场拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
+| 收入运营实习生（2027年冬季） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18832/revenue-operations-intern-winter-2027/) |
 | 债务资本市场总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18830/director-debt-capital-markets/) |
 | 创始新兴人才招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
 | 安卓工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
@@ -39,10 +43,6 @@
 | 客户体验专员 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18549/client-experience-specialist-fixed-term/) |
 | 模型合作 - ElevenCreative | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18820/model-partnerships-elevencreative/) |
 | On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| Trust Wallet毕业生领导计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
-| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
-| Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
