@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（6 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Research Scientist, Life Sciences (Computational Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
 | Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
@@ -92,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
