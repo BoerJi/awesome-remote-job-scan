@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| M&A Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18800/ma-analyst/) |
+| Deputy General Counsel/Head of UK Legal | On-site | [View →](https://www.remotejobscan.com/job/18714/deputy-general-counselhead-of-uk-legal/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
@@ -35,7 +37,6 @@
 | Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
-| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
