@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3146</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
+| 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
 | Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
@@ -40,8 +42,6 @@
 | 增长营销技术高级专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
 | 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | 高级执行助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
-| 并购分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
-| AI赋能项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11586/ai-enablement-project-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

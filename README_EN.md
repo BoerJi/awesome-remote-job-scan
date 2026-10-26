@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3146</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
+| Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
 | Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | Remote | [View →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
@@ -40,8 +42,6 @@
 | Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
-| M&A Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
-| AI Enablement Project Director | On-site | [View →](https://www.remotejobscan.com/job/11586/ai-enablement-project-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
