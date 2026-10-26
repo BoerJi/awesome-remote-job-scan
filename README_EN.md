@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3146</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Key Account VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
+| VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
+| Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 | M&A Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
@@ -36,9 +39,6 @@
 | Product Manager / Director, Live & Monetization | On-site | [View →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
 | Senior Business Manager - Liquidity Management | On-site | [View →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| Research Scientist, Life Sciences (Computational Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
-| Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
-| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
