@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18848/security-engineer-corporate-security/) |
+| 高级安全工程师，企业安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18849/senior-security-engineer-corporate-security/) |
+| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
+| VP，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18851/vp-communication/) |
+| 英国战略合作与伙伴关系负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
+| 生命科学企业发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
+| 设计施工项目经理 - 研发/实验室扩建 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18846/project-manager-design-and-construction-rdlab-buildouts/) |
 | 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 | 高级产品政策主管，监管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18845/senior-product-policy-lead-regulation/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18844/infrastructure-engineer/) |
@@ -36,13 +43,6 @@
 | 风险投资合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18837/vc-partnerships-manager/) |
 | 高级产品设计师，法币/赚取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18835/senior-product-designer-fiatearn/) |
 | 数据中心电气研发设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
-| 北美超级云与系统集成商合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18834/hyperscaler-systems-integrator-partner-manager-north-america/) |
-| 内部沟通，市场拓展 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
-| 收入运营实习生（2027年冬季） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18832/revenue-operations-intern-winter-2027/) |
-| 债务资本市场总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18830/director-debt-capital-markets/) |
-| 创始新兴人才招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
-| 安卓工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
-| 产品经理II，钱包与DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

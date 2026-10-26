@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Engineer, Corporate Security | Remote | [View →](https://www.remotejobscan.com/job/18848/security-engineer-corporate-security/) |
+| Senior Security Engineer, Corporate Security | Remote | [View →](https://www.remotejobscan.com/job/18849/senior-security-engineer-corporate-security/) |
+| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
+| VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/18851/vp-communication/) |
+| UK Head of Strategic Engagement & Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
+| Corporate Development Lead, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
+| Project Manager, Design and Construction - R&D/Lab Buildouts | Hybrid | [View →](https://www.remotejobscan.com/job/18846/project-manager-design-and-construction-rdlab-buildouts/) |
 | Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 | Senior Product Policy Lead, Regulation | Hybrid | [View →](https://www.remotejobscan.com/job/18845/senior-product-policy-lead-regulation/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18844/infrastructure-engineer/) |
@@ -35,13 +42,6 @@
 | VC Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18837/vc-partnerships-manager/) |
 | Senior Product Designer, Fiat/Earn | On-site | [View →](https://www.remotejobscan.com/job/18835/senior-product-designer-fiatearn/) |
 | Data Center Electrical R&D Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
-| Hyperscaler & Systems Integrator Partner Manager (North America) | On-site | [View →](https://www.remotejobscan.com/job/18834/hyperscaler-systems-integrator-partner-manager-north-america/) |
-| Internal Communications, GTM | On-site | [View →](https://www.remotejobscan.com/job/18102/internal-communications-gtm/) |
-| Revenue Operations Intern (Winter, 2027) | Hybrid | [View →](https://www.remotejobscan.com/job/18832/revenue-operations-intern-winter-2027/) |
-| Director, Debt Capital Markets | On-site | [View →](https://www.remotejobscan.com/job/18830/director-debt-capital-markets/) |
-| Founding Emerging Talent Recruiter | On-site | [View →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
-| Android Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
-| Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
