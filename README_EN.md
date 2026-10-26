@@ -19,10 +19,12 @@
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Business Manager - Liquidity Management | On-site | [View →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
+| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | Research Scientist, Life Sciences (Computational Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
 | Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
@@ -91,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
