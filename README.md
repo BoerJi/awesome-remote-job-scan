@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
+| 高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18840/sr-product-marketing-manager/) |
+| 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | 前沿部署工程师 (FDE) - AI 基础设施 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18838/forward-deployed-engineer-fde-ai-infra-sf/) |
 | 风险投资合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18837/vc-partnerships-manager/) |
 | 高级产品设计师，法币/赚取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18835/senior-product-designer-fiatearn/) |
@@ -37,12 +40,9 @@
 | AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer-bangalore/) |
 | 非营利组织客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18826/account-executive-nonprofit/) |
 | EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| 全栈工程师 - 广告引擎 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18823/full-stack-engineer-ads-engine/) |
 | 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
 | 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
-| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
-| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
