@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| Regional Security Manager, APAC | Remote | [View →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
+| Value Engineer - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/18853/value-engineer-nyc/) |
+| Value Engineer - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/18852/value-engineer-san-francisco/) |
+| GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/18854/gtm-strategy-operations-policy/) |
+| Content Marketing Manager, Events | Hybrid | [View →](https://www.remotejobscan.com/job/18855/content-marketing-manager-events/) |
 | Security Engineer, Corporate Security | Remote | [View →](https://www.remotejobscan.com/job/18848/security-engineer-corporate-security/) |
 | Senior Security Engineer, Corporate Security | Remote | [View →](https://www.remotejobscan.com/job/18849/senior-security-engineer-corporate-security/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
@@ -36,12 +42,6 @@
 | Back End Developer(Golang) | On-site | [View →](https://www.remotejobscan.com/job/18843/back-end-developergolang/) |
 | Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18841/data-engineer/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| Sr Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18840/sr-product-marketing-manager/) |
-| Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
-| Forward Deployed Engineer (FDE) - AI Infra - SF | Hybrid | [View →](https://www.remotejobscan.com/job/18838/forward-deployed-engineer-fde-ai-infra-sf/) |
-| VC Partnerships Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18837/vc-partnerships-manager/) |
-| Senior Product Designer, Fiat/Earn | On-site | [View →](https://www.remotejobscan.com/job/18835/senior-product-designer-fiatearn/) |
-| Data Center Electrical R&D Design Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

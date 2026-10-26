@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
+| 价值工程师 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18853/value-engineer-nyc/) |
+| 价值工程师 - 圣弗朗西斯科 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18852/value-engineer-san-francisco/) |
+| GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18854/gtm-strategy-operations-policy/) |
+| 活动内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18855/content-marketing-manager-events/) |
 | 企业安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18848/security-engineer-corporate-security/) |
 | 高级安全工程师，企业安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18849/senior-security-engineer-corporate-security/) |
 | 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
@@ -37,12 +43,6 @@
 | 后端开发工程师（Go语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18842/back-end-developergolang/) |
 | 数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18841/data-engineer/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
-| 高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18840/sr-product-marketing-manager/) |
-| 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
-| 前沿部署工程师 (FDE) - AI 基础设施 - 旧金山 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18838/forward-deployed-engineer-fde-ai-infra-sf/) |
-| 风险投资合作伙伴关系经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18837/vc-partnerships-manager/) |
-| 高级产品设计师，法币/赚取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18835/senior-product-designer-fiatearn/) |
-| 数据中心电气研发设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18833/data-center-electrical-rd-design-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
