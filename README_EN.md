@@ -14,16 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
-| M&A Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18800/ma-analyst/) |
+| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
+| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
+| M&A Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
+| AI Enablement Project Director | On-site | [View →](https://www.remotejobscan.com/job/11586/ai-enablement-project-director/) |
 | Deputy General Counsel/Head of UK Legal | On-site | [View →](https://www.remotejobscan.com/job/18714/deputy-general-counselhead-of-uk-legal/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
@@ -36,7 +39,6 @@
 | Research Scientist, Life Sciences (Computational Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
 | Data Center Infrastructure Architect | On-site | [View →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

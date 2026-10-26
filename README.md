@@ -14,16 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3139</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（15 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 并购分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18800/ma-analyst/) |
+| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
+| 高级执行助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
+| 并购分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18801/ma-analyst/) |
+| AI赋能项目总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11586/ai-enablement-project-director/) |
 | 英国法律副总顾问/英国法律负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18714/deputy-general-counselhead-of-uk-legal/) |
 | 技术专家 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
@@ -36,7 +39,6 @@
 | 生命科学研究员（计算化学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
 | 数据中心基础设施架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15061/data-center-infrastructure-architect/) |
 | 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| 推理/计算基础设施工程高级软件工程师，伦敦或阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
