@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Debt Capital Markets | On-site | [View →](https://www.remotejobscan.com/job/18830/director-debt-capital-markets/) |
+| Founding Emerging Talent Recruiter | On-site | [View →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
+| Android Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
+| Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
+| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer-bangalore/) |
 | Account Executive, Nonprofit | On-site | [View →](https://www.remotejobscan.com/job/18826/account-executive-nonprofit/) |
 | Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Full-Stack Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/18823/full-stack-engineer-ads-engine/) |
@@ -38,11 +43,6 @@
 | US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
 | Growth Product Operations 增长产品运营 | Remote | [View →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
-| Financial Risk Product Manager 金融风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
-| Talent Sourcer | Remote | [View →](https://www.remotejobscan.com/job/18811/talent-sourcer/) |
-| Key Account VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
-| VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18825/growth-martech-senior-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

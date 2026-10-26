@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 债务资本市场总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18830/director-debt-capital-markets/) |
+| 创始新兴人才招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
+| 安卓工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
+| 产品经理II，钱包与DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
+| AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer-bangalore/) |
 | 非营利组织客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18826/account-executive-nonprofit/) |
 | EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | 全栈工程师 - 广告引擎 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18823/full-stack-engineer-ads-engine/) |
@@ -38,11 +43,6 @@
 | US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
 | Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
 | Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
-| Financial Risk Product Manager 金融风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
-| 人才招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18811/talent-sourcer/) |
-| 核心客户VIP业务发展经理（全球） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
-| 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| 增长营销技术高级专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18825/growth-martech-senior-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
