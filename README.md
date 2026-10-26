@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Trust Wallet毕业生领导计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
+| US Equity Risk Control Operations 美股风控运营（夜班） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
+| Institutional Operations Manager 机构KA运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Growth Product Operations 增长产品运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
+| Financial Risk Product Manager 金融风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
+| 人才招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18811/talent-sourcer/) |
 | 核心客户VIP业务发展经理（全球） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
 | 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | 增长营销技术高级专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
@@ -34,11 +40,6 @@
 | 技术专家 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| 高级/资深工程师，DEX交易系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
-| 政府应用AI架构师，OpenAI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18797/applied-ai-architect-openai-for-government/) |
-| 直播与变现产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
-| 高级业务经理 - 流动性管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
-| 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

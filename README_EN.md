@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Trust Wallet Graduate Leadership Programme | Remote | [View →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
+| US Equity Risk Control Operations 美股风控运营（夜班） | Remote | [View →](https://www.remotejobscan.com/job/18196/us-equity-risk-control-operations/) |
+| Institutional Operations Manager 机构KA运营 | Remote | [View →](https://www.remotejobscan.com/job/12986/institutional-operations-manager-ka/) |
+| Growth Product Operations 增长产品运营 | Remote | [View →](https://www.remotejobscan.com/job/18266/growth-product-operations/) |
+| Financial Risk Product Manager 金融风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
+| Talent Sourcer | Remote | [View →](https://www.remotejobscan.com/job/18811/talent-sourcer/) |
 | Key Account VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
 | VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
@@ -34,11 +40,6 @@
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
 | Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
-| Senior / Staff Engineer, DEX Trading System | On-site | [View →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
-| Applied AI Architect, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/18797/applied-ai-architect-openai-for-government/) |
-| Product Manager / Director, Live & Monetization | On-site | [View →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
-| Senior Business Manager - Liquidity Management | On-site | [View →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
-| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
