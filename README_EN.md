@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| Senior/Staff Engineer, Decentralize Exchange (DEX) | On-site | [View →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| Senior/Staff Engineer, Growth | On-site | [View →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| Senior / Staff Engineer, DEX Trading System | On-site | [View →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
+| Applied AI Architect, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/18797/applied-ai-architect-openai-for-government/) |
 | Product Manager / Director, Live & Monetization | On-site | [View →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
 | Senior Business Manager - Liquidity Management | On-site | [View →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
@@ -94,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

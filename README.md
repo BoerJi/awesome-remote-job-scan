@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3147</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术专家 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| 高级/资深工程师，去中心化交易所 (DEX) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11670/seniorstaff-engineer-decentralize-exchange-dex/) |
+| 高级/资深工程师，增长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8696/seniorstaff-engineer-growth/) |
+| 高级/资深工程师，DEX交易系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18290/senior-staff-engineer-dex-trading-system/) |
+| 政府应用AI架构师，OpenAI | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18797/applied-ai-architect-openai-for-government/) |
 | 直播与变现产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
 | 高级业务经理 - 流动性管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
 | 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
@@ -94,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
