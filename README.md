@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
+| 高级产品政策主管，监管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18845/senior-product-policy-lead-regulation/) |
+| 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18844/infrastructure-engineer/) |
+| 后端开发工程师(Golang) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18843/back-end-developergolang/) |
+| 后端开发工程师（Go语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18842/back-end-developergolang/) |
+| 数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18841/data-engineer/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 | 高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18840/sr-product-marketing-manager/) |
 | 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
@@ -37,12 +43,6 @@
 | 创始新兴人才招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
 | 安卓工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
 | 产品经理II，钱包与DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
-| AI基础设施系统工程师 Bangalore | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer-bangalore/) |
-| 非营利组织客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18826/account-executive-nonprofit/) |
-| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
-| 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
-| Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
+| Senior Product Policy Lead, Regulation | Hybrid | [View →](https://www.remotejobscan.com/job/18845/senior-product-policy-lead-regulation/) |
+| Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18844/infrastructure-engineer/) |
+| Back End Developer(Golang) | On-site | [View →](https://www.remotejobscan.com/job/18843/back-end-developergolang/) |
+| Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18841/data-engineer/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 | Sr Product Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18840/sr-product-marketing-manager/) |
 | Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
@@ -37,12 +42,6 @@
 | Founding Emerging Talent Recruiter | On-site | [View →](https://www.remotejobscan.com/job/18831/founding-emerging-talent-recruiter/) |
 | Android Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18829/android-engineer-creative-app/) |
 | Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
-| AI Infrastructure System Engineer Bangalore | On-site | [View →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer-bangalore/) |
-| Account Executive, Nonprofit | On-site | [View →](https://www.remotejobscan.com/job/18826/account-executive-nonprofit/) |
-| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
-| Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
-| Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
