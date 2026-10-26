@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive, Nonprofit | On-site | [View →](https://www.remotejobscan.com/job/18826/account-executive-nonprofit/) |
+| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Full-Stack Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/18823/full-stack-engineer-ads-engine/) |
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
 | Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
@@ -40,8 +42,7 @@
 | Talent Sourcer | Remote | [View →](https://www.remotejobscan.com/job/18811/talent-sourcer/) |
 | Key Account VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/13183/key-account-vip-business-development-manager-global/) |
 | VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
-| Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
-| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
+| Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18825/growth-martech-senior-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
