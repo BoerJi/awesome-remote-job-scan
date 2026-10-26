@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager / Director, Live & Monetization | On-site | [View →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
 | Senior Business Manager - Liquidity Management | On-site | [View →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | Research Scientist, Life Sciences (Computational Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

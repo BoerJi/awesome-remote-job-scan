@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（7 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 直播与变现产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18796/product-manager-director-live-monetization/) |
 | 高级业务经理 - 流动性管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17091/senior-business-manager-liquidity-management/) |
 | 法律专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | 生命科学研究员（计算化学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18792/research-scientist-life-sciences-computational-chemistry/) |
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
