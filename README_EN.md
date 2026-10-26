@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3146</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/18823/full-stack-engineer-ads-engine/) |
 | Senior Legal Analyst | On-site | [View →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
 | Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
@@ -41,7 +42,6 @@
 | VIP Business Development Manager (Global) | On-site | [View →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | Growth MarTech Senior Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
-| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-26 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

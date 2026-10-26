@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3146</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3147</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈工程师 - 广告引擎 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18823/full-stack-engineer-ads-engine/) |
 | 高级法律分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18821/senior-legal-analyst/) |
 | 分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18822/analytics-engineer/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
@@ -41,7 +42,6 @@
 | 全球VIP业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8475/vip-business-development-manager-global/) |
 | 增长营销技术高级专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18806/growth-martech-senior-specialist/) |
 | 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
-| 高级执行助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9147/senior-executive-assistant-ceo-office/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
