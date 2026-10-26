@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18858/security-data-engineer/) |
+| 实验室高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
+| 商业营销活动设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18859/events-designer-business-marketing/) |
+| 物理工程软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18857/software-engineer-physical-engineering/) |
 | Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
 | 价值工程师 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18853/value-engineer-nyc/) |
@@ -39,10 +43,6 @@
 | 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 | 高级产品政策主管，监管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18845/senior-product-policy-lead-regulation/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18844/infrastructure-engineer/) |
-| 后端开发工程师(Golang) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18843/back-end-developergolang/) |
-| 后端开发工程师（Go语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18842/back-end-developergolang/) |
-| 数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18841/data-engineer/) |
-| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17318/senior-strategic-program-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-26 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
