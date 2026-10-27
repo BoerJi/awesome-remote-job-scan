@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
+| iOS工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
+| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
 | 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
 | 高级商业分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18875/senior-business-analyst/) |
 | Lead / Expert, Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18873/lead-expert-ecosystem-growth/) |
@@ -40,9 +43,6 @@
 | 法律响应团队专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
 | 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
 | 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
-| Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
-| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
-| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
