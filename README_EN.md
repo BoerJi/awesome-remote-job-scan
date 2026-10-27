@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3177</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Autonomous Systems Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
+| IP Counsel, Life Sciences Patents | On-site | [View →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
+| Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/18918/head-of-tax-information-reporting/) |
+| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
+| Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
+| Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
+| Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
+| Accounts Payable Accountant (Remote) | Hybrid | [View →](https://www.remotejobscan.com/job/18917/accounts-payable-accountant-remote/) |
 | AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/18914/ai-engineer/) |
 | (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
 | (Senior/Junior AI Inference Reliability Engineer, Compute Infra) | On-site | [View →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
@@ -35,14 +43,6 @@
 | Chief of Staff, Office of the President | Hybrid | [View →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
 | Executive Assistant - Europe | Remote | [View →](https://www.remotejobscan.com/job/18908/executive-assistant-europe/) |
 | Executive Assistant - LATAM | Remote | [View →](https://www.remotejobscan.com/job/18904/executive-assistant-latam/) |
-| Product & Technical Communications | Remote | [View →](https://www.remotejobscan.com/job/18903/product-technical-communications/) |
-| Field Marketer - Middle East (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/18905/field-marketer-middle-east-freelance/) |
-| Deployment Lead, Forward Deployed Engineering (FDE) - Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18901/deployment-lead-forward-deployed-engineering-fde-platform/) |
-| Executive Assistant (Bucharest) | Hybrid | [View →](https://www.remotejobscan.com/job/18902/executive-assistant-bucharest/) |
-| Manager, Enterprise Sales - Pharma | On-site | [View →](https://www.remotejobscan.com/job/18900/manager-enterprise-sales-pharma/) |
-| Manager, Enterprise Sales - MedTech | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-medtech/) |
-| Acceleration Programs Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15813/acceleration-programs-intern/) |
-| Manager, Enterprise Sales - Asset & Wealth Management | On-site | [View →](https://www.remotejobscan.com/job/18897/manager-enterprise-sales-asset-wealth-management/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

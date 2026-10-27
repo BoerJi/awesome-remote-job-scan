@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3177</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 自主系统安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
+| 生物医学专利知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
+| 税务信息报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18918/head-of-tax-information-reporting/) |
+| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
+| 新兴行业解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
+| 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
+| 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
+| 应付账款会计（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18917/accounts-payable-accountant-remote/) |
 | AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18914/ai-engineer/) |
 | (员工/高级员工) AI推理可靠性工程师，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
 | (高级/初级AI推理可靠性工程师，计算基础设施) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
@@ -35,14 +43,6 @@
 | 总裁办公室主任 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
 | 欧洲执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18908/executive-assistant-europe/) |
 | 拉丁美洲高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18904/executive-assistant-latam/) |
-| 产品与技术沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18903/product-technical-communications/) |
-| 中东区域市场专员（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18905/field-marketer-middle-east-freelance/) |
-| 部署主管，前沿部署工程 (FDE) - 平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18901/deployment-lead-forward-deployed-engineering-fde-platform/) |
-| 布加勒斯特执行助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18902/executive-assistant-bucharest/) |
-| 医药企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18900/manager-enterprise-sales-pharma/) |
-| 企业销售经理 - 医疗技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-medtech/) |
-| 加速项目实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15813/acceleration-programs-intern/) |
-| 企业销售经理 - 资产与财富管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18897/manager-enterprise-sales-asset-wealth-management/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
