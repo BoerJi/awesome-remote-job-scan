@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regulatory Compliance Officer (CMS Program) | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer-cms-program/) |
+| Web3 Licensing and Regulatory Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/18871/web3-licensing-and-regulatory-compliance-specialist/) |
+| Executive Assistant to Executive VP | On-site | [View →](https://www.remotejobscan.com/job/18869/executive-assistant-to-executive-vp/) |
+| Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | Head of Regulatory Change & Policy | On-site | [View →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
 | Financial Risk Product Manager 金融风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
 | Site Civil, Structural & Architectural Lead (CSLA) | Remote | [View →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
@@ -38,10 +42,6 @@
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 | Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
-| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | Remote | [View →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
-| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
-| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
-| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
