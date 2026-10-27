@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3149</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 关键危害运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
 | 就业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 | AI基础设施产品成本管理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
@@ -41,8 +43,6 @@
 | 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
 | VP，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18851/vp-communication/) |
 | 英国战略合作与伙伴关系负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
-| 生命科学企业发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
-| 设计施工项目经理 - 研发/实验室扩建 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18846/project-manager-design-and-construction-rdlab-buildouts/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

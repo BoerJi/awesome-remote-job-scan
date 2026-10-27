@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3149</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
 | Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 | Product Cost Management Lead - AI Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
@@ -41,8 +43,6 @@
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
 | VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/18851/vp-communication/) |
 | UK Head of Strategic Engagement & Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
-| Corporate Development Lead, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
-| Project Manager, Design and Construction - R&D/Lab Buildouts | Hybrid | [View →](https://www.remotejobscan.com/job/18846/project-manager-design-and-construction-rdlab-buildouts/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
