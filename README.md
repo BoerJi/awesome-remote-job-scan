@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3143</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
+| Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
+| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
+| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
+| 工程经理（智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 | 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 关键危害运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
@@ -33,16 +43,6 @@
 | 商业营销活动设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18859/events-designer-business-marketing/) |
 | 物理工程软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18857/software-engineer-physical-engineering/) |
 | Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
-| 价值工程师 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18853/value-engineer-nyc/) |
-| 价值工程师 - 圣弗朗西斯科 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18852/value-engineer-san-francisco/) |
-| GTM战略与运营、政策 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18854/gtm-strategy-operations-policy/) |
-| 活动内容营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18855/content-marketing-manager-events/) |
-| 企业安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18848/security-engineer-corporate-security/) |
-| 高级安全工程师，企业安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18849/senior-security-engineer-corporate-security/) |
-| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
-| VP，通信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18851/vp-communication/) |
-| 英国战略合作与伙伴关系负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

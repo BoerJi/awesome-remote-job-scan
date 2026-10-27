@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
+| Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
+| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | Remote | [View →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
+| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
+| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
@@ -33,16 +43,6 @@
 | Events Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18859/events-designer-business-marketing/) |
 | Software Engineer, Physical Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18857/software-engineer-physical-engineering/) |
 | Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| Regional Security Manager, APAC | Remote | [View →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
-| Value Engineer - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/18853/value-engineer-nyc/) |
-| Value Engineer - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/18852/value-engineer-san-francisco/) |
-| GTM Strategy & Operations, Policy | On-site | [View →](https://www.remotejobscan.com/job/18854/gtm-strategy-operations-policy/) |
-| Content Marketing Manager, Events | Hybrid | [View →](https://www.remotejobscan.com/job/18855/content-marketing-manager-events/) |
-| Security Engineer, Corporate Security | Remote | [View →](https://www.remotejobscan.com/job/18848/security-engineer-corporate-security/) |
-| Senior Security Engineer, Corporate Security | Remote | [View →](https://www.remotejobscan.com/job/18849/senior-security-engineer-corporate-security/) |
-| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
-| VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/18851/vp-communication/) |
-| UK Head of Strategic Engagement & Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
