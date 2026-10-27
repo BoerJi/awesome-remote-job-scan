@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长负责人，市场平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
+| 高级软件工程师，证书管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | 高级合规副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
 | 企业客户经理主管 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18883/account-manager-lead-corporate/) |
 | Trust Wallet 毕业生领导力计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
@@ -41,8 +43,6 @@
 | (高级)Web3增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18872/senior-growth-manager-web3/) |
 | 开发者平台产品数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
 | 监管合规官（资本市场监管计划） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer-cms-program/) |
-| Web3许可与监管合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18871/web3-licensing-and-regulatory-compliance-specialist/) |
-| 执行副总裁行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18869/executive-assistant-to-executive-vp/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
