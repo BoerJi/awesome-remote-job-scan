@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
+| 企业客户经理主管 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18883/account-manager-lead-corporate/) |
 | Trust Wallet 毕业生领导力计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| 预测市场平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18882/software-engineer-prediction-markets-platform/) |
+| 预测市场平台高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18881/senior-software-engineer-prediction-markets-platform/) |
 | 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
 | 税务总监、税务顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
@@ -39,10 +43,6 @@
 | 监管合规官（资本市场监管计划） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer-cms-program/) |
 | Web3许可与监管合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18871/web3-licensing-and-regulatory-compliance-specialist/) |
 | 执行副总裁行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18869/executive-assistant-to-executive-vp/) |
-| Derivatives Growth Manager 衍生品增长专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
-| 监管变革与政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
-| 监管变革与政策负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18867/head-of-regulatory-change-policy/) |
-| Financial Risk Product Manager 金融风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

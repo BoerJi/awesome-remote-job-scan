@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Associate Compliance | Remote | [View →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
+| Account Manager Lead - Corporate | Remote | [View →](https://www.remotejobscan.com/job/18883/account-manager-lead-corporate/) |
 | Trust Wallet Graduate Leadership Programme | Remote | [View →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Software Engineer, Prediction Markets Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18882/software-engineer-prediction-markets-platform/) |
+| Senior Software Engineer, Prediction Markets Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18881/senior-software-engineer-prediction-markets-platform/) |
 | Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
 | Tax Director, Tax Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
@@ -39,9 +43,6 @@
 | Regulatory Compliance Officer (CMS Program) | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer-cms-program/) |
 | Web3 Licensing and Regulatory Compliance Specialist | Remote | [View →](https://www.remotejobscan.com/job/18871/web3-licensing-and-regulatory-compliance-specialist/) |
 | Executive Assistant to Executive VP | On-site | [View →](https://www.remotejobscan.com/job/18869/executive-assistant-to-executive-vp/) |
-| Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
-| Head of Regulatory Change & Policy | On-site | [View →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
-| Financial Risk Product Manager 金融风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
