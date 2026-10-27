@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
 | iOS工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
 | 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
@@ -42,7 +43,6 @@
 | 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | 法律响应团队专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
 | 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
-| 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

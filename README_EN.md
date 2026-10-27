@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
 | iOS Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
 | Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
@@ -41,7 +42,6 @@
 | Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | Specialist, Legal Response Team | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
 | Software Engineer, Mobile (iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
-| Software Engineer, Mobile (Android) | On-site | [View →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
