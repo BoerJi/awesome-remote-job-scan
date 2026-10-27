@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3167</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3174</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Program Manager, Lab Infrastructure (Silicon & Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
+| Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
+| Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
+| Chief of Staff, Office of the President | Hybrid | [View →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
+| Executive Assistant - Europe | Remote | [View →](https://www.remotejobscan.com/job/18908/executive-assistant-europe/) |
+| Executive Assistant - LATAM | Remote | [View →](https://www.remotejobscan.com/job/18904/executive-assistant-latam/) |
+| Product & Technical Communications | Remote | [View →](https://www.remotejobscan.com/job/18903/product-technical-communications/) |
+| Field Marketer - Middle East (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/18905/field-marketer-middle-east-freelance/) |
 | Deployment Lead, Forward Deployed Engineering (FDE) - Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18901/deployment-lead-forward-deployed-engineering-fde-platform/) |
 | Executive Assistant (Bucharest) | Hybrid | [View →](https://www.remotejobscan.com/job/18902/executive-assistant-bucharest/) |
 | Manager, Enterprise Sales - Pharma | On-site | [View →](https://www.remotejobscan.com/job/18900/manager-enterprise-sales-pharma/) |
@@ -35,12 +43,6 @@
 | Growth Marketing Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
 | Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
 | Data Annotation Specialist - German Writer/Translator | Remote | [View →](https://www.remotejobscan.com/job/18899/data-annotation-specialist-german-writertranslator/) |
-| Video Editor | On-site | [View →](https://www.remotejobscan.com/job/18895/video-editor/) |
-| Enterprise Account Executive, Retail | On-site | [View →](https://www.remotejobscan.com/job/18893/enterprise-account-executive-retail/) |
-| Senior Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18894/senior-revenue-accountant/) |
-| Strategic Account Executive - Colombia | Remote | [View →](https://www.remotejobscan.com/job/18888/strategic-account-executive-colombia/) |
-| Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/18887/director-revenue-accounting/) |
-| Customer Support Specialist, APAC | Remote | [View →](https://www.remotejobscan.com/job/18892/customer-support-specialist-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

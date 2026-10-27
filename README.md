@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3167</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3174</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 实验室基础设施技术项目经理（硅与系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
+| 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
+| 高级副理，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
+| 总裁办公室主任 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
+| 欧洲执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18908/executive-assistant-europe/) |
+| 拉丁美洲高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18904/executive-assistant-latam/) |
+| 产品与技术沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18903/product-technical-communications/) |
+| 中东区域市场专员（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18905/field-marketer-middle-east-freelance/) |
 | 部署主管，前沿部署工程 (FDE) - 平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18901/deployment-lead-forward-deployed-engineering-fde-platform/) |
 | 布加勒斯特执行助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18902/executive-assistant-bucharest/) |
 | 医药企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18900/manager-enterprise-sales-pharma/) |
@@ -35,12 +43,6 @@
 | 增长营销实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
 | 概念推理研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
 | 数据标注专家 - 德语写手/翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18899/data-annotation-specialist-german-writertranslator/) |
-| 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
-| 企业客户经理，零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18893/enterprise-account-executive-retail/) |
-| 高级收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18894/senior-revenue-accountant/) |
-| 哥伦比亚战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18888/strategic-account-executive-colombia/) |
-| 收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18887/director-revenue-accounting/) |
-| 亚太区客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18892/customer-support-specialist-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
