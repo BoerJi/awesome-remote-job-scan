@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3162</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Video Editor | On-site | [View →](https://www.remotejobscan.com/job/18895/video-editor/) |
+| Enterprise Account Executive, Retail | On-site | [View →](https://www.remotejobscan.com/job/18893/enterprise-account-executive-retail/) |
+| Senior Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18894/senior-revenue-accountant/) |
+| Strategic Account Executive - Colombia | Remote | [View →](https://www.remotejobscan.com/job/18888/strategic-account-executive-colombia/) |
+| Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/18887/director-revenue-accounting/) |
+| Customer Support Specialist, APAC | Remote | [View →](https://www.remotejobscan.com/job/18892/customer-support-specialist-apac/) |
 | Growth Lead, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
 | Senior Software Engineer, Certificates Management | Remote | [View →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | Principal Associate Compliance | Remote | [View →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
@@ -34,15 +40,6 @@
 | Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
 | Tax Director, Tax Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
-| iOS Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
-| Regulatory Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
-| Senior Business Analyst | Remote | [View →](https://www.remotejobscan.com/job/18875/senior-business-analyst/) |
-| Lead / Expert, Ecosystem Growth | On-site | [View →](https://www.remotejobscan.com/job/18873/lead-expert-ecosystem-growth/) |
-| (Senior) Growth Manager, Web3 | On-site | [View →](https://www.remotejobscan.com/job/18872/senior-growth-manager-web3/) |
-| Tech Lead Manager, Developer Platform Product Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
-| Regulatory Compliance Officer (CMS Program) | On-site | [View →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer-cms-program/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3159</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3162</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
+| 企业客户经理，零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18893/enterprise-account-executive-retail/) |
+| 高级收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18894/senior-revenue-accountant/) |
+| 哥伦比亚战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18888/strategic-account-executive-colombia/) |
+| 收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18887/director-revenue-accounting/) |
+| 亚太区客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18892/customer-support-specialist-apac/) |
 | 增长负责人，市场平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
 | 高级软件工程师，证书管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | 高级合规副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
@@ -34,15 +40,6 @@
 | 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
 | 税务总监、税务顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
-| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
-| iOS工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
-| 监管合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14577/regulatory-compliance-manager/) |
-| 运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
-| 高级商业分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18875/senior-business-analyst/) |
-| Lead / Expert, Ecosystem Growth | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18873/lead-expert-ecosystem-growth/) |
-| (高级)Web3增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18872/senior-growth-manager-web3/) |
-| 开发者平台产品数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
-| 监管合规官（资本市场监管计划） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17795/regulatory-compliance-officer-cms-program/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
