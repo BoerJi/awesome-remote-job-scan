@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Trust Wallet 毕业生领导力计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
+| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
+| 税务总监、税务顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
 | iOS工程师 - 创意应用 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
@@ -39,10 +43,6 @@
 | 监管变革与政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
 | 监管变革与政策负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18867/head-of-regulatory-change-policy/) |
 | Financial Risk Product Manager 金融风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
-| 场地土木、结构及建筑负责人（CSLA） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
-| 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
-| 法律响应团队专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
-| 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

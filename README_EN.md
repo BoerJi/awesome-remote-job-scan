@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Trust Wallet Graduate Leadership Programme | Remote | [View →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
+| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
+| Tax Director, Tax Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
 | Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/18877/mobile-engineer-elevenmusic/) |
 | iOS Engineer - Creative App | Remote | [View →](https://www.remotejobscan.com/job/18878/ios-engineer-creative-app/) |
@@ -38,10 +42,6 @@
 | Derivatives Growth Manager 衍生品增长专家 | Remote | [View →](https://www.remotejobscan.com/job/18132/derivatives-growth-manager/) |
 | Head of Regulatory Change & Policy | On-site | [View →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
 | Financial Risk Product Manager 金融风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
-| Site Civil, Structural & Architectural Lead (CSLA) | Remote | [View →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
-| Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
-| Specialist, Legal Response Team | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
-| Software Engineer, Mobile (iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
