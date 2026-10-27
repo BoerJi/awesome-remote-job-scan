@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,23 +23,24 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 部署主管，前沿部署工程 (FDE) - 平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18901/deployment-lead-forward-deployed-engineering-fde-platform/) |
+| 布加勒斯特执行助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18902/executive-assistant-bucharest/) |
+| 医药企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18900/manager-enterprise-sales-pharma/) |
+| 企业销售经理 - 医疗技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-medtech/) |
+| 加速项目实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15813/acceleration-programs-intern/) |
+| 企业销售经理 - 资产与财富管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18897/manager-enterprise-sales-asset-wealth-management/) |
+| 对冲基金企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
+| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18896/senior-software-engineer-data-platform/) |
+| ElevenMusic - 内容创作者与策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18898/elevenmusic-content-creator-strategist/) |
+| 增长营销实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
+| 概念推理研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
+| 数据标注专家 - 德语写手/翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18899/data-annotation-specialist-german-writertranslator/) |
 | 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
 | 企业客户经理，零售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18893/enterprise-account-executive-retail/) |
 | 高级收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18894/senior-revenue-accountant/) |
 | 哥伦比亚战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18888/strategic-account-executive-colombia/) |
 | 收入会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18887/director-revenue-accounting/) |
 | 亚太区客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18892/customer-support-specialist-apac/) |
-| 增长负责人，市场平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
-| 高级软件工程师，证书管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
-| 高级合规副理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
-| 企业客户经理主管 - 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18883/account-manager-lead-corporate/) |
-| Trust Wallet 毕业生领导力计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
-| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| 预测市场平台软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18882/software-engineer-prediction-markets-platform/) |
-| 预测市场平台高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18881/senior-software-engineer-prediction-markets-platform/) |
-| 垂直销售策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
-| 税务总监、税务顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,24 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deployment Lead, Forward Deployed Engineering (FDE) - Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18901/deployment-lead-forward-deployed-engineering-fde-platform/) |
+| Executive Assistant (Bucharest) | Hybrid | [View →](https://www.remotejobscan.com/job/18902/executive-assistant-bucharest/) |
+| Manager, Enterprise Sales - Pharma | On-site | [View →](https://www.remotejobscan.com/job/18900/manager-enterprise-sales-pharma/) |
+| Manager, Enterprise Sales - MedTech | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-medtech/) |
+| Acceleration Programs Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15813/acceleration-programs-intern/) |
+| Manager, Enterprise Sales - Asset & Wealth Management | On-site | [View →](https://www.remotejobscan.com/job/18897/manager-enterprise-sales-asset-wealth-management/) |
+| Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
+| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/18896/senior-software-engineer-data-platform/) |
+| ElevenMusic - Content Creator & Strategist | Remote | [View →](https://www.remotejobscan.com/job/18898/elevenmusic-content-creator-strategist/) |
+| Growth Marketing Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
+| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
+| Data Annotation Specialist - German Writer/Translator | Remote | [View →](https://www.remotejobscan.com/job/18899/data-annotation-specialist-german-writertranslator/) |
 | Video Editor | On-site | [View →](https://www.remotejobscan.com/job/18895/video-editor/) |
 | Enterprise Account Executive, Retail | On-site | [View →](https://www.remotejobscan.com/job/18893/enterprise-account-executive-retail/) |
 | Senior Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/18894/senior-revenue-accountant/) |
 | Strategic Account Executive - Colombia | Remote | [View →](https://www.remotejobscan.com/job/18888/strategic-account-executive-colombia/) |
 | Director, Revenue Accounting | On-site | [View →](https://www.remotejobscan.com/job/18887/director-revenue-accounting/) |
 | Customer Support Specialist, APAC | Remote | [View →](https://www.remotejobscan.com/job/18892/customer-support-specialist-apac/) |
-| Growth Lead, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
-| Senior Software Engineer, Certificates Management | Remote | [View →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
-| Principal Associate Compliance | Remote | [View →](https://www.remotejobscan.com/job/18884/principal-associate-compliance/) |
-| Account Manager Lead - Corporate | Remote | [View →](https://www.remotejobscan.com/job/18883/account-manager-lead-corporate/) |
-| Trust Wallet Graduate Leadership Programme | Remote | [View →](https://www.remotejobscan.com/job/18709/trust-wallet-graduate-leadership-programme/) |
-| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| Software Engineer, Prediction Markets Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18882/software-engineer-prediction-markets-platform/) |
-| Senior Software Engineer, Prediction Markets Platform | Hybrid | [View →](https://www.remotejobscan.com/job/18881/senior-software-engineer-prediction-markets-platform/) |
-| Vertical Sales Strategy and Operations | Remote | [View →](https://www.remotejobscan.com/job/18880/vertical-sales-strategy-and-operations/) |
-| Tax Director, Tax Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/18879/tax-director-tax-counsel/) |
-| Omnibus Clearing & Settlement Product Manager Omnibus清结算产品经理（美股&期权） | Remote | [View →](https://www.remotejobscan.com/job/16976/omnibus-clearing-settlement-product-manager-omnibus/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
