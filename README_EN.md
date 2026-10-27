@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3179</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -41,8 +41,8 @@
 | Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
 | Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | Technical Program Manager, Lab Infrastructure (Silicon & Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
-| Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
 | Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
+| Chief of Staff, Office of the President | Hybrid | [View →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

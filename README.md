@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3179</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -41,8 +41,8 @@
 | 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
 | 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | 实验室基础设施技术项目经理（硅与系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
-| 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
 | 高级副理，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
+| 总裁办公室主任 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
