@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3174</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3178</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18914/ai-engineer/) |
+| (员工/高级员工) AI推理可靠性工程师，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
+| (高级/初级AI推理可靠性工程师，计算基础设施) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
+| 高级销售专员 - CB基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
+| 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
+| 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | 实验室基础设施技术项目经理（硅与系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
 | 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
 | 高级副理，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
@@ -37,12 +43,6 @@
 | 企业销售经理 - 医疗技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-medtech/) |
 | 加速项目实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15813/acceleration-programs-intern/) |
 | 企业销售经理 - 资产与财富管理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18897/manager-enterprise-sales-asset-wealth-management/) |
-| 对冲基金企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
-| 高级软件工程师 - 数据平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18896/senior-software-engineer-data-platform/) |
-| ElevenMusic - 内容创作者与策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18898/elevenmusic-content-creator-strategist/) |
-| 增长营销实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
-| 概念推理研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
-| 数据标注专家 - 德语写手/翻译 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18899/data-annotation-specialist-german-writertranslator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

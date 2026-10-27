@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3174</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3178</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/18914/ai-engineer/) |
+| (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
+| (Senior/Junior AI Inference Reliability Engineer, Compute Infra) | On-site | [View →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
+| Senior Sales Associate - CB Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
+| Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
+| Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | Technical Program Manager, Lab Infrastructure (Silicon & Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
 | Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
 | Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
@@ -37,12 +43,6 @@
 | Manager, Enterprise Sales - MedTech | On-site | [View →](https://www.remotejobscan.com/job/17808/manager-enterprise-sales-medtech/) |
 | Acceleration Programs Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15813/acceleration-programs-intern/) |
 | Manager, Enterprise Sales - Asset & Wealth Management | On-site | [View →](https://www.remotejobscan.com/job/18897/manager-enterprise-sales-asset-wealth-management/) |
-| Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
-| Senior Software Engineer - Data Platform | Remote | [View →](https://www.remotejobscan.com/job/18896/senior-software-engineer-data-platform/) |
-| ElevenMusic - Content Creator & Strategist | Remote | [View →](https://www.remotejobscan.com/job/18898/elevenmusic-content-creator-strategist/) |
-| Growth Marketing Intern (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18650/growth-marketing-intern-summer-2027/) |
-| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
-| Data Annotation Specialist - German Writer/Translator | Remote | [View →](https://www.remotejobscan.com/job/18899/data-annotation-specialist-german-writertranslator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
