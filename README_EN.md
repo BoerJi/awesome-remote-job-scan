@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3156</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
+| Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
+| Product Cost Management Lead - AI Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
 | Security Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18858/security-data-engineer/) |
 | Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 | Events Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18859/events-designer-business-marketing/) |
@@ -40,9 +43,6 @@
 | UK Head of Strategic Engagement & Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18850/uk-head-of-strategic-engagement-partnerships/) |
 | Corporate Development Lead, Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/15563/corporate-development-lead-life-sciences/) |
 | Project Manager, Design and Construction - R&D/Lab Buildouts | Hybrid | [View →](https://www.remotejobscan.com/job/18846/project-manager-design-and-construction-rdlab-buildouts/) |
-| Director of Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-operations/) |
-| Senior Product Policy Lead, Regulation | Hybrid | [View →](https://www.remotejobscan.com/job/18845/senior-product-policy-lead-regulation/) |
-| Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18844/infrastructure-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
