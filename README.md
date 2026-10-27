@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3144</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3146</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 场地土木、结构及建筑负责人（CSLA） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
+| 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
+| 法律响应团队专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
 | 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
 | 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
 | Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
@@ -40,9 +43,6 @@
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 关键危害运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
 | 就业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
-| AI基础设施产品成本管理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
-| 安全数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18858/security-data-engineer/) |
-| 实验室高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3144</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3146</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Site Civil, Structural & Architectural Lead (CSLA) | Remote | [View →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
+| Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
+| Specialist, Legal Response Team | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
 | Software Engineer, Mobile (iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
 | Software Engineer, Mobile (Android) | On-site | [View →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
 | Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
-| Product Cost Management Lead - AI Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
-| Security Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18858/security-data-engineer/) |
-| Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
