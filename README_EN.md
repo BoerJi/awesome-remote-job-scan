@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3146</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3148</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Regulatory Change & Policy | On-site | [View →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
+| Financial Risk Product Manager 金融风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
 | Site Civil, Structural & Architectural Lead (CSLA) | Remote | [View →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
 | Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | Specialist, Legal Response Team | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
@@ -40,9 +42,6 @@
 | AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Program Manager, Critical Harm Operations | On-site | [View →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
-| Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

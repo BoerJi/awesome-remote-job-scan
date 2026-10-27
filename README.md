@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3146</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3148</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 监管变革与政策主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
+| 监管变革与政策负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18867/head-of-regulatory-change-policy/) |
+| Financial Risk Product Manager 金融风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18807/financial-risk-product-manager/) |
 | 场地土木、结构及建筑负责人（CSLA） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18866/site-civil-structural-architectural-lead-csla/) |
 | 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | 法律响应团队专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response-team/) |
@@ -40,9 +43,6 @@
 | AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | 工程经理（智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 | 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15778/software-engineering-intern-summer-27/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 关键危害运营项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18862/program-manager-critical-harm-operations/) |
-| 就业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
