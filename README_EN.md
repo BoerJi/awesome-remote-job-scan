@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3179</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3189</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Finance, Workloads | Hybrid | [View →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
+| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
+| Senior Counsel, Competition | Hybrid | [View →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
+| Content Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18930/content-designer/) |
+| Marketing Technology & Operations Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18929/marketing-technology-operations-lead-apac/) |
+| Core Operations Lead, Community & Culture | Hybrid | [View →](https://www.remotejobscan.com/job/18931/core-operations-lead-community-culture/) |
+| Staff User Researcher | Remote | [View →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
+| Strategy and Operations Lead, Creative Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18926/strategy-and-operations-lead-creative-partnerships/) |
+| Tech Lead Manager, Core Apps Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/18923/tech-lead-manager-core-apps-data-scientist/) |
+| Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18927/senior-data-scientist/) |
 | Web Developer | Remote | [View →](https://www.remotejobscan.com/job/18925/web-developer/) |
 | Field Service Engineer | Remote | [View →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
 | Autonomous Systems Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
@@ -33,16 +43,6 @@
 | Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 | Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | Accounts Payable Accountant (Remote) | Hybrid | [View →](https://www.remotejobscan.com/job/18917/accounts-payable-accountant-remote/) |
-| AI Engineer | Remote | [View →](https://www.remotejobscan.com/job/18914/ai-engineer/) |
-| (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
-| (Senior/Junior AI Inference Reliability Engineer, Compute Infra) | On-site | [View →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
-| Senior Sales Associate - CB Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
-| Consumer Product Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18924/consumer-product-communications-lead/) |
-| Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
-| Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
-| Technical Program Manager, Lab Infrastructure (Silicon & Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
-| Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
-| Chief of Staff, Office of the President | Hybrid | [View →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

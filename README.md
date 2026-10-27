@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3179</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3189</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略财务，工作负载 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
+| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
+| 竞争法务高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
+| 内容设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18930/content-designer/) |
+| 亚太区市场营销技术与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18929/marketing-technology-operations-lead-apac/) |
+| 核心运营负责人，社区与文化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18931/core-operations-lead-community-culture/) |
+| 高级用户体验研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
+| 创意合作战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18926/strategy-and-operations-lead-creative-partnerships/) |
+| 核心应用数据科学家技术领导经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18923/tech-lead-manager-core-apps-data-scientist/) |
+| 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18927/senior-data-scientist/) |
 | Web 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18925/web-developer/) |
 | 现场服务工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
 | 自主系统安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
@@ -33,16 +43,6 @@
 | 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 | 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | 应付账款会计（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18917/accounts-payable-accountant-remote/) |
-| AI工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18914/ai-engineer/) |
-| (员工/高级员工) AI推理可靠性工程师，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
-| (高级/初级AI推理可靠性工程师，计算基础设施) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
-| 高级销售专员 - CB基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
-| 消费者产品沟通主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18924/consumer-product-communications-lead/) |
-| 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
-| 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
-| 实验室基础设施技术项目经理（硅与系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
-| 高级副理，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
-| 总裁办公室主任 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
