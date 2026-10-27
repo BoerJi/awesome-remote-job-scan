@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3142</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3145</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 移动工程师（iOS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
+| 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
+| Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
@@ -40,9 +43,6 @@
 | AI基础设施产品成本管理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
 | 安全数据工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18858/security-data-engineer/) |
 | 实验室高级软件安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
-| 商业营销活动设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18859/events-designer-business-marketing/) |
-| 物理工程软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18857/software-engineer-physical-engineering/) |
-| Staff+ 软件工程师，隐私 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3142</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3145</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Mobile (iOS) | On-site | [View →](https://www.remotejobscan.com/job/17113/software-engineer-mobile-ios/) |
+| Software Engineer, Mobile (Android) | On-site | [View →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
+| Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
@@ -40,9 +43,6 @@
 | Product Cost Management Lead - AI Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18860/product-cost-management-lead-ai-infrastructure/) |
 | Security Data Engineer | Remote | [View →](https://www.remotejobscan.com/job/18858/security-data-engineer/) |
 | Staff + Software Security Engineer, Labs | On-site | [View →](https://www.remotejobscan.com/job/17695/staff-software-security-engineer-labs/) |
-| Events Designer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18859/events-designer-business-marketing/) |
-| Software Engineer, Physical Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18857/software-engineer-physical-engineering/) |
-| Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
