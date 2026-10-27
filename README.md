@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18925/web-developer/) |
+| 现场服务工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
 | 自主系统安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
 | 生物医学专利知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
 | 税务信息报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18918/head-of-tax-information-reporting/) |
@@ -35,14 +37,12 @@
 | (员工/高级员工) AI推理可靠性工程师，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
 | (高级/初级AI推理可靠性工程师，计算基础设施) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
 | 高级销售专员 - CB基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
+| 消费者产品沟通主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18924/consumer-product-communications-lead/) |
 | 移动端工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
 | 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | 实验室基础设施技术项目经理（硅与系统） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
 | 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
 | 高级副理，企业安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
-| 总裁办公室主任 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
-| 欧洲执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18908/executive-assistant-europe/) |
-| 拉丁美洲高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18904/executive-assistant-latam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-27 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

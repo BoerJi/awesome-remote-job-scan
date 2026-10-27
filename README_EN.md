@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Web Developer | Remote | [View →](https://www.remotejobscan.com/job/18925/web-developer/) |
+| Field Service Engineer | Remote | [View →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
 | Autonomous Systems Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
 | IP Counsel, Life Sciences Patents | On-site | [View →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
 | Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/18918/head-of-tax-information-reporting/) |
@@ -35,14 +37,12 @@
 | (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
 | (Senior/Junior AI Inference Reliability Engineer, Compute Infra) | On-site | [View →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
 | Senior Sales Associate - CB Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
+| Consumer Product Communications Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18924/consumer-product-communications-lead/) |
 | Engineering Manager, Mobile | Hybrid | [View →](https://www.remotejobscan.com/job/18912/engineering-manager-mobile/) |
 | Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | Technical Program Manager, Lab Infrastructure (Silicon & Systems) | Hybrid | [View →](https://www.remotejobscan.com/job/18907/technical-program-manager-lab-infrastructure-silicon-systems/) |
 | Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18906/senior-data-scientist/) |
 | Senior Associate, Corporate Security | On-site | [View →](https://www.remotejobscan.com/job/18083/senior-associate-corporate-security/) |
-| Chief of Staff, Office of the President | Hybrid | [View →](https://www.remotejobscan.com/job/18909/chief-of-staff-office-of-the-president/) |
-| Executive Assistant - Europe | Remote | [View →](https://www.remotejobscan.com/job/18908/executive-assistant-europe/) |
-| Executive Assistant - LATAM | Remote | [View →](https://www.remotejobscan.com/job/18904/executive-assistant-latam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-27 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
