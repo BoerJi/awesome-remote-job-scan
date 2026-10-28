@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18936/motion-designer/) |
+| Senior Software Engineer, Certificates Management | Remote | [View →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | Support Vendor Manager, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
 | Intelligence Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/18934/intelligence-systems-analyst/) |
 | Strategic Finance, Workloads | Hybrid | [View →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
@@ -41,8 +43,6 @@
 | IP Counsel, Life Sciences Patents | On-site | [View →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
 | Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/18918/head-of-tax-information-reporting/) |
 | Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
-| Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
-| Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
