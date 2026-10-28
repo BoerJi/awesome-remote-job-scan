@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18982/compliance-associate/) |
+| 产品财务规划与分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
+| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
+| 软件工程实习生 - 冬季'27 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
+| 人类繁荣研究工程师/研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18983/research-engineer-research-scientist-human-flourishing/) |
+| 欧洲、中东、非洲地区企业账户专员（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
+| 网络安全通信主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18981/communications-lead-cyber/) |
+| 高级合作伙伴系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18980/senior-partner-systems-analyst/) |
+| 欧洲、中东、非洲区高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | 网站可靠性工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
 | 高级企业产品经理，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
 | 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
@@ -33,15 +42,6 @@
 | 设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18975/designer/) |
 | 澳大利亚公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
 | 公共部门合作 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18974/public-sector-partnerships-us/) |
-| 巴西商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18973/commercial-counsel-brazil/) |
-| 中东GTM招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18970/gtm-recruiter-middle-east/) |
-| 软件工程经理，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11411/software-engineering-manager-tooling-product/) |
-| 工具产品首席软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11409/principal-software-engineer-tooling-product/) |
-| Staff软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
-| AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18971/lead-engineer-ai-platform/) |
-| 高级软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
-| 欧洲、中东欧解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

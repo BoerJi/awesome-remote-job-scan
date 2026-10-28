@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18982/compliance-associate/) |
+| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
+| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
+| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
+| Research Engineer / Research Scientist, Human Flourishing | On-site | [View →](https://www.remotejobscan.com/job/18983/research-engineer-research-scientist-human-flourishing/) |
+| Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
+| Communications Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/18981/communications-lead-cyber/) |
+| Senior Partner Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/18980/senior-partner-systems-analyst/) |
+| Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
 | Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
@@ -34,15 +43,6 @@
 | Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18975/designer/) |
 | Public Sector Partnerships - Australia | Remote | [View →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
 | Public Sector Partnerships - US | Remote | [View →](https://www.remotejobscan.com/job/18974/public-sector-partnerships-us/) |
-| Commercial Counsel - Brazil | Remote | [View →](https://www.remotejobscan.com/job/18973/commercial-counsel-brazil/) |
-| GTM Recruiter - Middle East | Remote | [View →](https://www.remotejobscan.com/job/18970/gtm-recruiter-middle-east/) |
-| Software Engineering Manager, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11411/software-engineering-manager-tooling-product/) |
-| Principal Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11409/principal-software-engineer-tooling-product/) |
-| Staff Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
-| Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/18971/lead-engineer-ai-platform/) |
-| Senior Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
-| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
