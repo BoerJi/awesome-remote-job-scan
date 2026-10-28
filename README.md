@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3200</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3201</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | 产品营销经理（活动） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18614/product-marketing-manager-campaigns/) |
 | Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
 | Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
@@ -40,7 +41,6 @@
 | 机构业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
 | 土地与数据中心开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
 | 机械主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
-| 消防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

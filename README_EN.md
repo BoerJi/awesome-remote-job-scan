@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3200</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3201</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | Product Marketing Manager (Campaigns) | Remote | [View →](https://www.remotejobscan.com/job/18614/product-marketing-manager-campaigns/) |
 | Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
 | Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
@@ -39,7 +40,6 @@
 | Institution BD Manager （OC） | Remote | [View →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
 | Land and Data Center Development | On-site | [View →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
 | Mechanical Lead | Remote | [View →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
-| Fire Protection Engineer | Remote | [View →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
