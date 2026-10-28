@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3199</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3208</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,21 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Staff Site Reliability Engineer - Dev Platform | Remote | [View →](https://www.remotejobscan.com/job/18962/staff-site-reliability-engineer-dev-platform/) |
-| Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18963/developer-advocate/) |
-| Senior Software Engineer - Dev Platform | Remote | [View →](https://www.remotejobscan.com/job/18961/senior-software-engineer-dev-platform/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
-| Product Marketing Manager (Campaigns) | Remote | [View →](https://www.remotejobscan.com/job/18614/product-marketing-manager-campaigns/) |
-| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
-| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
-| Backend Software Engineer (Reconciliation System)后端研发工程师（对账系统 / 实时数据处理方向） | Remote | [View →](https://www.remotejobscan.com/job/18955/backend-software-engineer-reconciliation-system/) |
-| Principal/Senior VIP Product Manager, Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
-| Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/18950/principalsenior-product-manager-growth/) |
-| VIP Growth Manager (VIP增长经理) | On-site | [View →](https://www.remotejobscan.com/job/18951/vip-growth-manager-vip/) |
-| Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
-| Data Science Tech Lead Manager, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
-| Product Manager / Director, Community & Livestream | On-site | [View →](https://www.remotejobscan.com/job/18796/product-manager-director-community-livestream/) |
-| Ad Creative Strategist (AIGC Creative Producer) | On-site | [View →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-aigc-creative-producer/) |
-| Business Development Manager（OC） | Remote | [View →](https://www.remotejobscan.com/job/15364/business-development-manageroc/) |
-| CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
+| GTM Recruiter - Middle East | Remote | [View →](https://www.remotejobscan.com/job/18970/gtm-recruiter-middle-east/) |
+| Software Engineering Manager, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11411/software-engineering-manager-tooling-product/) |
+| Principal Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11409/principal-software-engineer-tooling-product/) |
+| Staff Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
+| Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/18971/lead-engineer-ai-platform/) |
+| Senior Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
+| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
+| Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
+| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
+| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| Senior Director of Product - P2P Marketplace & Platform | Remote | [View →](https://www.remotejobscan.com/job/18964/senior-director-of-product-p2p-marketplace-platform/) |
+| Customer Support Specialist, APAC | Remote | [View →](https://www.remotejobscan.com/job/18968/customer-support-specialist-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

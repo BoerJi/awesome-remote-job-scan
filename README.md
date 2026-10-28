@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3199</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3208</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,24 +23,21 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 高级站点可靠性工程师 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18962/staff-site-reliability-engineer-dev-platform/) |
-| 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18963/developer-advocate/) |
-| 高级软件工程师 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18961/senior-software-engineer-dev-platform/) |
-| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
-| 产品营销经理（活动） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18614/product-marketing-manager-campaigns/) |
-| Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
-| Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
-| Backend Software Engineer (Reconciliation System)后端研发工程师（对账系统 / 实时数据处理方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18955/backend-software-engineer-reconciliation-system/) |
-| 大中华区首席/高级VIP产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
-| 成长产品总监/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18950/principalsenior-product-manager-growth/) |
-| VIP Growth Manager (VIP增长经理) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18951/vip-growth-manager-vip/) |
-| 高级产品经理，离岸高级交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
-| 高级产品经理，高级交易（岸上） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18948/senior-product-manager-advanced-trading-onshore/) |
-| 数据科学技术负责人，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
-| 社区与直播产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18796/product-manager-director-community-livestream/) |
-| 广告创意策略师（AIGC创意制作人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-aigc-creative-producer/) |
-| 业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15364/business-development-manageroc/) |
-| CFD BD (CN) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
+| 中东GTM招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18970/gtm-recruiter-middle-east/) |
+| 软件工程经理，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11411/software-engineering-manager-tooling-product/) |
+| 工具产品首席软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11409/principal-software-engineer-tooling-product/) |
+| Staff软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11412/staff-software-engineer-tooling-product/) |
+| AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18971/lead-engineer-ai-platform/) |
+| 高级软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
+| 欧洲、中东欧解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
+| 解决方案架构高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| EMEA合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
+| 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
+| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
+| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| 高级产品总监 - P2P市场与平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18964/senior-director-of-product-p2p-marketplace-platform/) |
+| 亚太区客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18968/customer-support-specialist-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
