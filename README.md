@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3208</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3209</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
+| 设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18975/designer/) |
+| 澳大利亚公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
+| 公共部门合作 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18974/public-sector-partnerships-us/) |
+| 巴西商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18973/commercial-counsel-brazil/) |
 | 中东GTM招聘专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18970/gtm-recruiter-middle-east/) |
 | 软件工程经理，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11411/software-engineering-manager-tooling-product/) |
 | 工具产品首席软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11409/principal-software-engineer-tooling-product/) |
@@ -36,8 +41,6 @@
 | 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
 | 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| 高级产品总监 - P2P市场与平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18964/senior-director-of-product-p2p-marketplace-platform/) |
-| 亚太区客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18968/customer-support-specialist-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

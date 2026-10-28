@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3208</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3209</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Video Editor | On-site | [View →](https://www.remotejobscan.com/job/18895/video-editor/) |
+| Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18975/designer/) |
+| Public Sector Partnerships - Australia | Remote | [View →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
+| Public Sector Partnerships - US | Remote | [View →](https://www.remotejobscan.com/job/18974/public-sector-partnerships-us/) |
+| Commercial Counsel - Brazil | Remote | [View →](https://www.remotejobscan.com/job/18973/commercial-counsel-brazil/) |
 | GTM Recruiter - Middle East | Remote | [View →](https://www.remotejobscan.com/job/18970/gtm-recruiter-middle-east/) |
 | Software Engineering Manager, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11411/software-engineering-manager-tooling-product/) |
 | Principal Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11409/principal-software-engineer-tooling-product/) |
@@ -36,8 +41,6 @@
 | Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
 | Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
 | Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| Senior Director of Product - P2P Marketplace & Platform | Remote | [View →](https://www.remotejobscan.com/job/18964/senior-director-of-product-p2p-marketplace-platform/) |
-| Customer Support Specialist, APAC | Remote | [View →](https://www.remotejobscan.com/job/18968/customer-support-specialist-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
