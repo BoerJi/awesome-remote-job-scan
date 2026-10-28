@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3190</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3195</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Land and Data Center Development | On-site | [View →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
+| Mechanical Lead | Remote | [View →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
+| Fire Protection Engineer | Remote | [View →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
+| HSE and Portfolio Performance Lead | Remote | [View →](https://www.remotejobscan.com/job/18943/hse-and-portfolio-performance-lead/) |
+| Network Infrastructure Lead | Remote | [View →](https://www.remotejobscan.com/job/18944/network-infrastructure-lead/) |
+| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | Safe operation 安全运营 | Remote | [View →](https://www.remotejobscan.com/job/15741/safe-operation/) |
 | Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
@@ -37,12 +43,6 @@
 | Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18936/motion-designer/) |
 | Senior Software Engineer, Certificates Management | Remote | [View →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | Support Vendor Manager, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
-| Intelligence Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/18934/intelligence-systems-analyst/) |
-| Strategic Finance, Workloads | Hybrid | [View →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
-| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
-| Senior Counsel, Competition | Hybrid | [View →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
-| Content Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18930/content-designer/) |
-| Marketing Technology & Operations Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18929/marketing-technology-operations-lead-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

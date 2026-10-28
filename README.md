@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3190</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3195</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 土地与数据中心开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
+| 机械主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
+| 消防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
+| HSE与投资组合绩效主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18943/hse-and-portfolio-performance-lead/) |
+| 网络基础设施主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18944/network-infrastructure-lead/) |
+| 营销合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | Safe operation 安全运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15741/safe-operation/) |
 | 技术团队成员（站点可靠性工程师，云基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
@@ -37,12 +43,6 @@
 | 动态设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18936/motion-designer/) |
 | 高级软件工程师，证书管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | 亚太区支持供应商经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
-| 情报系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18934/intelligence-systems-analyst/) |
-| 战略财务，工作负载 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
-| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
-| 竞争法务高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
-| 内容设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18930/content-designer/) |
-| 亚太区市场营销技术与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18929/marketing-technology-operations-lead-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
