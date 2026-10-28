@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3195</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3198</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
+| Backend Software Engineer (Reconciliation System)后端研发工程师（对账系统 / 实时数据处理方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18955/backend-software-engineer-reconciliation-system/) |
+| 大中华区首席/高级VIP产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
 | 成长产品总监/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18950/principalsenior-product-manager-growth/) |
 | VIP Growth Manager (VIP增长经理) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18951/vip-growth-manager-vip/) |
 | 高级产品经理，离岸高级交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
@@ -38,9 +41,6 @@
 | 消防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
 | HSE与投资组合绩效主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18943/hse-and-portfolio-performance-lead/) |
 | 网络基础设施主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18944/network-infrastructure-lead/) |
-| 营销合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
-| Safe operation 安全运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15741/safe-operation/) |
-| 技术团队成员（站点可靠性工程师，云基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

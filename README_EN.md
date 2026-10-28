@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3195</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3198</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
+| Backend Software Engineer (Reconciliation System)后端研发工程师（对账系统 / 实时数据处理方向） | Remote | [View →](https://www.remotejobscan.com/job/18955/backend-software-engineer-reconciliation-system/) |
+| Principal/Senior VIP Product Manager, Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
 | Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/18950/principalsenior-product-manager-growth/) |
 | VIP Growth Manager (VIP增长经理) | On-site | [View →](https://www.remotejobscan.com/job/18951/vip-growth-manager-vip/) |
 | Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
@@ -37,9 +40,6 @@
 | Fire Protection Engineer | Remote | [View →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
 | HSE and Portfolio Performance Lead | Remote | [View →](https://www.remotejobscan.com/job/18943/hse-and-portfolio-performance-lead/) |
 | Network Infrastructure Lead | Remote | [View →](https://www.remotejobscan.com/job/18944/network-infrastructure-lead/) |
-| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
-| Safe operation 安全运营 | Remote | [View →](https://www.remotejobscan.com/job/15741/safe-operation/) |
-| Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
