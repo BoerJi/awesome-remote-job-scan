@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3189</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
+| Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 | Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18936/motion-designer/) |
 | Senior Software Engineer, Certificates Management | Remote | [View →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
 | Support Vendor Manager, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
@@ -41,8 +43,6 @@
 | Field Service Engineer | Remote | [View →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
 | Autonomous Systems Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
 | IP Counsel, Life Sciences Patents | On-site | [View →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
-| Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/18918/head-of-tax-information-reporting/) |
-| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
