@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3192</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3193</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理，离岸高级交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
+| 高级产品经理，高级交易（岸上） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18948/senior-product-manager-advanced-trading-onshore/) |
+| 数据科学技术负责人，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
+| 社区与直播产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18796/product-manager-director-community-livestream/) |
 | 广告创意策略师（AIGC创意制作人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-aigc-creative-producer/) |
 | 业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15364/business-development-manageroc/) |
 | CFD BD (CN) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
@@ -37,11 +41,6 @@
 | 技术团队成员（站点可靠性工程师，云基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
 | Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
 | Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
-| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
-| 技术人才招聘师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18938/talent-sourcer-tech/) |
-| 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18939/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
-| 实时数仓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
-| 工程副总裁/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18937/engineering-vp-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
