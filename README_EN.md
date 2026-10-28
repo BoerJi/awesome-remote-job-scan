@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3207</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3206</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
+| Staff+ Software Engineer, Deployment | Remote | [View →](https://www.remotejobscan.com/job/18988/staff-software-engineer-deployment/) |
+| Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
+| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
 | Data Scientist, Cloud Distribution & Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18987/data-scientist-cloud-distribution-growth/) |
 | Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
 | Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
@@ -38,10 +42,6 @@
 | Senior Partner Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/18980/senior-partner-systems-analyst/) |
 | Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
-| Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
-| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
-| Design Engineer: Power Generation | Hybrid | [View →](https://www.remotejobscan.com/job/18978/design-engineer-power-generation/) |
-| Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18977/senior-software-engineer-frontend-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
