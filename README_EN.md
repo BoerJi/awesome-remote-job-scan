@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3206</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3210</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Associate - Automation & Systems | Remote | [View →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
+| Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
+| Incident Commander, Detection & Response - APAC | Remote | [View →](https://www.remotejobscan.com/job/18992/incident-commander-detection-response-apac/) |
 | Forward Deployed Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/18990/bim-designer-coordinator/) |
@@ -35,13 +38,8 @@
 | Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Senior Engineering Manager, Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18984/senior-engineering-manager-payments-platform/) |
 | Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18982/compliance-associate/) |
 | FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| Software Engineering Intern - Winter '27 | Hybrid | [View →](https://www.remotejobscan.com/job/15779/software-engineering-intern-winter-27/) |
-| Research Engineer / Research Scientist, Human Flourishing | On-site | [View →](https://www.remotejobscan.com/job/18983/research-engineer-research-scientist-human-flourishing/) |
-| Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
-| Communications Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/18981/communications-lead-cyber/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
