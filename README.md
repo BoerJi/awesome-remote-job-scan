@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3193</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3195</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 成长产品总监/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18950/principalsenior-product-manager-growth/) |
+| VIP Growth Manager (VIP增长经理) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18951/vip-growth-manager-vip/) |
 | 高级产品经理，离岸高级交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
 | 高级产品经理，高级交易（岸上） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18948/senior-product-manager-advanced-trading-onshore/) |
 | 数据科学技术负责人，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
@@ -39,8 +41,6 @@
 | 营销合规主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | Safe operation 安全运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15741/safe-operation/) |
 | 技术团队成员（站点可靠性工程师，云基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
-| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
-| Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

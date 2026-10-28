@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3193</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3195</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal/Senior Product Manager, Growth | On-site | [View →](https://www.remotejobscan.com/job/18950/principalsenior-product-manager-growth/) |
+| VIP Growth Manager (VIP增长经理) | On-site | [View →](https://www.remotejobscan.com/job/18951/vip-growth-manager-vip/) |
 | Senior Product Manager, Advanced Trading (Onshore) | On-site | [View →](https://www.remotejobscan.com/job/18949/senior-product-manager-advanced-trading-onshore/) |
 | Data Science Tech Lead Manager, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
 | Product Manager / Director, Community & Livestream | On-site | [View →](https://www.remotejobscan.com/job/18796/product-manager-director-community-livestream/) |
@@ -38,8 +40,6 @@
 | Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17880/head-of-marketing-compliance/) |
 | Safe operation 安全运营 | Remote | [View →](https://www.remotejobscan.com/job/15741/safe-operation/) |
 | Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
-| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
-| Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
