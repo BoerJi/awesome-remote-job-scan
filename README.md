@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3190</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Safe operation 安全运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15741/safe-operation/) |
+| 技术团队成员（站点可靠性工程师，云基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
+| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
+| Senior Risk Control Development Engineer 风控高级研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
+| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | 技术人才招聘师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18938/talent-sourcer-tech/) |
 | 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18939/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | 实时数仓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
@@ -38,11 +43,6 @@
 | 竞争法务高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
 | 内容设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18930/content-designer/) |
 | 亚太区市场营销技术与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18929/marketing-technology-operations-lead-apac/) |
-| 核心运营负责人，社区与文化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18931/core-operations-lead-community-culture/) |
-| 高级用户体验研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
-| 创意合作战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18926/strategy-and-operations-lead-creative-partnerships/) |
-| 核心应用数据科学家技术领导经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18923/tech-lead-manager-core-apps-data-scientist/) |
-| 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18927/senior-data-scientist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

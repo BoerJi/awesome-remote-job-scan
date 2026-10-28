@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3190</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safe operation 安全运营 | Remote | [View →](https://www.remotejobscan.com/job/15741/safe-operation/) |
+| Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18940/member-of-technical-staff-site-reliability-engineer-cloud-infrastructure/) |
+| Java Backend Engineer (Blockchain Risk Control / Full Chain Linking of Funds Direction) Java后端工程师（区块链风控 / 资金全链路方向） | Remote | [View →](https://www.remotejobscan.com/job/18813/java-backend-engineer-blockchain-risk-control-full-chain-linking-of-funds-direction-java/) |
+| Senior Risk Control Development Engineer 风控高级研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/18812/senior-risk-control-development-engineer/) |
+| AI Application Development Engineer (Risk Control AI Direction) AI 应用开发工程师（风控 AI方向） | Remote | [View →](https://www.remotejobscan.com/job/17241/ai-application-development-engineer-risk-control-ai-direction-ai-ai/) |
 | Talent Sourcer, Tech | Remote | [View →](https://www.remotejobscan.com/job/18938/talent-sourcer-tech/) |
 | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18939/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
@@ -38,11 +43,6 @@
 | Senior Counsel, Competition | Hybrid | [View →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
 | Content Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18930/content-designer/) |
 | Marketing Technology & Operations Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18929/marketing-technology-operations-lead-apac/) |
-| Core Operations Lead, Community & Culture | Hybrid | [View →](https://www.remotejobscan.com/job/18931/core-operations-lead-community-culture/) |
-| Staff User Researcher | Remote | [View →](https://www.remotejobscan.com/job/18733/staff-user-researcher/) |
-| Strategy and Operations Lead, Creative Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18926/strategy-and-operations-lead-creative-partnerships/) |
-| Tech Lead Manager, Core Apps Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/18923/tech-lead-manager-core-apps-data-scientist/) |
-| Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18927/senior-data-scientist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
