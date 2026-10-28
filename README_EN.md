@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3207</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3213</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
+| Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
+| Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
+| Design Engineer: Power Generation | Hybrid | [View →](https://www.remotejobscan.com/job/18978/design-engineer-power-generation/) |
+| Head of Regulatory Change & Policy | On-site | [View →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
+| Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18977/senior-software-engineer-frontend-consumer/) |
+| Senior Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
+| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | Video Editor | On-site | [View →](https://www.remotejobscan.com/job/18895/video-editor/) |
 | Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18975/designer/) |
 | Public Sector Partnerships - Australia | Remote | [View →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
@@ -35,12 +43,6 @@
 | Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/18971/lead-engineer-ai-platform/) |
 | Senior Software Engineer, Tooling (Product) | On-site | [View →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
 | Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
-| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
-| Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

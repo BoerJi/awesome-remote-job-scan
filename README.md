@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3207</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3213</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网站可靠性工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
+| 高级企业产品经理，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
+| 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
+| 电力设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18978/design-engineer-power-generation/) |
+| 监管变革与政策负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18868/head-of-regulatory-change-policy/) |
+| 高级前端工程师 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18977/senior-software-engineer-frontend-consumer/) |
+| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
 | 设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18975/designer/) |
 | 澳大利亚公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
@@ -35,12 +42,6 @@
 | AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18971/lead-engineer-ai-platform/) |
 | 高级软件工程师，工具（产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11410/senior-software-engineer-tooling-product/) |
 | 欧洲、中东欧解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| 解决方案架构高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
-| EMEA合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
-| 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
-| 技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11383/technical-account-manager/) |
-| 前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
