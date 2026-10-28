@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Talent Sourcer, Tech | Remote | [View →](https://www.remotejobscan.com/job/18938/talent-sourcer-tech/) |
+| Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18939/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
+| Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
+| Engineering VP / Director | On-site | [View →](https://www.remotejobscan.com/job/18937/engineering-vp-director/) |
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 | Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18936/motion-designer/) |
@@ -39,10 +43,6 @@
 | Strategy and Operations Lead, Creative Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/18926/strategy-and-operations-lead-creative-partnerships/) |
 | Tech Lead Manager, Core Apps Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/18923/tech-lead-manager-core-apps-data-scientist/) |
 | Senior Data Scientist | Remote | [View →](https://www.remotejobscan.com/job/18927/senior-data-scientist/) |
-| Web Developer | Remote | [View →](https://www.remotejobscan.com/job/18925/web-developer/) |
-| Field Service Engineer | Remote | [View →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
-| Autonomous Systems Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
-| IP Counsel, Life Sciences Patents | On-site | [View →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

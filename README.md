@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3187</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术人才招聘师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18938/talent-sourcer-tech/) |
+| 技术专家（软件工程师，GPU集群基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18939/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
+| 实时数仓工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
+| 工程副总裁/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18937/engineering-vp-director/) |
 | AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | 企业级保险客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
 | 动态设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18936/motion-designer/) |
@@ -39,10 +43,6 @@
 | 创意合作战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18926/strategy-and-operations-lead-creative-partnerships/) |
 | 核心应用数据科学家技术领导经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18923/tech-lead-manager-core-apps-data-scientist/) |
 | 高级数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18927/senior-data-scientist/) |
-| Web 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18925/web-developer/) |
-| 现场服务工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18922/field-service-engineer/) |
-| 自主系统安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18919/autonomous-systems-security-engineer/) |
-| 生物医学专利知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18920/ip-counsel-life-sciences-patents/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
