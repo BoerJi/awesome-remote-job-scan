@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/18990/bim-designer-coordinator/) |
 | Engineering Manager, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
 | Staff+ Software Engineer, Deployment | Remote | [View →](https://www.remotejobscan.com/job/18988/staff-software-engineer-deployment/) |
 | Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
@@ -39,9 +42,6 @@
 | Research Engineer / Research Scientist, Human Flourishing | On-site | [View →](https://www.remotejobscan.com/job/18983/research-engineer-research-scientist-human-flourishing/) |
 | Enterprise Account Associate- EMEA (French Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
 | Communications Lead, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/18981/communications-lead-cyber/) |
-| Senior Partner Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/18980/senior-partner-systems-analyst/) |
-| Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
-| Engineering Manager, Site Reliability Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

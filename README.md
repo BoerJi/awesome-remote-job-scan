@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| BIM设计师与协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18990/bim-designer-coordinator/) |
 | Guardian 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
 | Staff+ 部署软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18988/staff-software-engineer-deployment/) |
 | Anthropic科学工程研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
@@ -39,9 +42,6 @@
 | 人类繁荣研究工程师/研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18983/research-engineer-research-scientist-human-flourishing/) |
 | 欧洲、中东、非洲地区企业账户专员（法语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15106/enterprise-account-associate-emea-french-speaking/) |
 | 网络安全通信主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18981/communications-lead-cyber/) |
-| 高级合作伙伴系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18980/senior-partner-systems-analyst/) |
-| 欧洲、中东、非洲区高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
-| 网站可靠性工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18979/engineering-manager-site-reliability-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
