@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3208</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3207</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 云分发与增长数据科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18987/data-scientist-cloud-distribution-growth/) |
+| 技术讲师主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
+| Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
+| 支付平台高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18984/senior-engineering-manager-payments-platform/) |
 | 安全软件工程师，身份与访问管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18982/compliance-associate/) |
 | 产品财务规划与分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
@@ -38,10 +42,6 @@
 | 高级软件工程师，后端 - 支付平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
 | 电力设计工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18978/design-engineer-power-generation/) |
 | 高级前端工程师 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18977/senior-software-engineer-frontend-consumer/) |
-| 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
-| 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
-| 设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18975/designer/) |
-| 澳大利亚公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

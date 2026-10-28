@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3208</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3207</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist, Cloud Distribution & Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18987/data-scientist-cloud-distribution-growth/) |
+| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
+| Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
+| Senior Engineering Manager, Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18984/senior-engineering-manager-payments-platform/) |
 | Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18982/compliance-associate/) |
 | FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
@@ -38,11 +42,6 @@
 | Staff Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
 | Design Engineer: Power Generation | Hybrid | [View →](https://www.remotejobscan.com/job/18978/design-engineer-power-generation/) |
 | Senior Software Engineer - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/18977/senior-software-engineer-frontend-consumer/) |
-| Senior Software Engineer, Backend - Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/17523/senior-software-engineer-backend-payments-platform/) |
-| Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
-| Video Editor | On-site | [View →](https://www.remotejobscan.com/job/18895/video-editor/) |
-| Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18975/designer/) |
-| Public Sector Partnerships - Australia | Remote | [View →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
