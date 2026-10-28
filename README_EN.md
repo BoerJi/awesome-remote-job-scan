@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3198</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3200</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Manager (Campaigns) | Remote | [View →](https://www.remotejobscan.com/job/18614/product-marketing-manager-campaigns/) |
+| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
 | Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 | Backend Software Engineer (Reconciliation System)后端研发工程师（对账系统 / 实时数据处理方向） | Remote | [View →](https://www.remotejobscan.com/job/18955/backend-software-engineer-reconciliation-system/) |
 | Principal/Senior VIP Product Manager, Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
@@ -38,8 +40,6 @@
 | Land and Data Center Development | On-site | [View →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
 | Mechanical Lead | Remote | [View →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
 | Fire Protection Engineer | Remote | [View →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
-| HSE and Portfolio Performance Lead | Remote | [View →](https://www.remotejobscan.com/job/18943/hse-and-portfolio-performance-lead/) |
-| Network Infrastructure Lead | Remote | [View →](https://www.remotejobscan.com/job/18944/network-infrastructure-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
