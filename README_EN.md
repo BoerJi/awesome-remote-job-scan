@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Support Vendor Manager, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
+| Intelligence Systems Analyst | On-site | [View →](https://www.remotejobscan.com/job/18934/intelligence-systems-analyst/) |
 | Strategic Finance, Workloads | Hybrid | [View →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
 | Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
 | Senior Counsel, Competition | Hybrid | [View →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
@@ -41,8 +43,6 @@
 | Senior Product Marketing Manager, Trading | Remote | [View →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
 | Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
-| Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
-| Accounts Payable Accountant (Remote) | Hybrid | [View →](https://www.remotejobscan.com/job/18917/accounts-payable-accountant-remote/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

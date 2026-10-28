@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太区支持供应商经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
+| 情报系统分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18934/intelligence-systems-analyst/) |
 | 战略财务，工作负载 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18933/strategic-finance-workloads/) |
 | 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
 | 竞争法务高级顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18932/senior-counsel-competition/) |
@@ -41,8 +43,6 @@
 | 高级产品营销经理，交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12684/senior-product-marketing-manager-trading/) |
 | 新兴行业解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
 | 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
-| 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
-| 应付账款会计（远程） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18917/accounts-payable-accountant-remote/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
