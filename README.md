@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3201</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3204</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级站点可靠性工程师 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18962/staff-site-reliability-engineer-dev-platform/) |
+| 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18963/developer-advocate/) |
+| 高级软件工程师 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18961/senior-software-engineer-dev-platform/) |
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | 产品营销经理（活动） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18614/product-marketing-manager-campaigns/) |
 | Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
@@ -38,9 +41,6 @@
 | 广告创意策略师（AIGC创意制作人） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-aigc-creative-producer/) |
 | 业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15364/business-development-manageroc/) |
 | CFD BD (CN) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
-| 机构业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
-| 土地与数据中心开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
-| 机械主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
