@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3190</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3192</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Ad Creative Strategist (AIGC Creative Producer) | On-site | [View →](https://www.remotejobscan.com/job/18128/ad-creative-strategist-aigc-creative-producer/) |
+| Business Development Manager（OC） | Remote | [View →](https://www.remotejobscan.com/job/15364/business-development-manageroc/) |
+| CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
+| Institution BD Manager （OC） | Remote | [View →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
 | Land and Data Center Development | On-site | [View →](https://www.remotejobscan.com/job/18945/land-and-data-center-development/) |
 | Mechanical Lead | Remote | [View →](https://www.remotejobscan.com/job/18941/mechanical-lead/) |
 | Fire Protection Engineer | Remote | [View →](https://www.remotejobscan.com/job/18942/fire-protection-engineer/) |
@@ -38,11 +42,6 @@
 | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18939/member-of-technical-staff-software-engineer-gpu-cluster-infrastructure/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | Engineering VP / Director | On-site | [View →](https://www.remotejobscan.com/job/18937/engineering-vp-director/) |
-| Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
-| Account Executive - Enterprise - Insurance | On-site | [View →](https://www.remotejobscan.com/job/18155/account-executive-enterprise-insurance/) |
-| Motion Designer | Hybrid | [View →](https://www.remotejobscan.com/job/18936/motion-designer/) |
-| Senior Software Engineer, Certificates Management | Remote | [View →](https://www.remotejobscan.com/job/18885/senior-software-engineer-certificates-management/) |
-| Support Vendor Manager, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/18935/support-vendor-manager-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-28 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
