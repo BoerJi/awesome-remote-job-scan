@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3212</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3208</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全软件工程师，身份与访问管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18982/compliance-associate/) |
 | 产品财务规划与分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 | 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
@@ -41,7 +42,6 @@
 | 视频编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18895/video-editor/) |
 | 设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18975/designer/) |
 | 澳大利亚公共部门合作 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18972/public-sector-partnerships-australia/) |
-| 公共部门合作 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18974/public-sector-partnerships-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-28 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
