@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3208</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3212</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
+| Talent Acquisition Manager / Lead | Remote | [View →](https://www.remotejobscan.com/job/18446/talent-acquisition-manager-lead/) |
+| Network Infrastructure Engineer, Global Network Infra (WAN) | Hybrid | [View →](https://www.remotejobscan.com/job/19002/network-infrastructure-engineer-global-network-infra-wan/) |
+| Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | Software Engineer, IP Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18999/software-engineer-ip-infrastructure/) |
 | Senior Field Engineer, Data Center Design and Engineering | Remote | [View →](https://www.remotejobscan.com/job/18998/senior-field-engineer-data-center-design-and-engineering/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
@@ -37,10 +41,6 @@
 | Engineering Manager, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
 | Staff+ Software Engineer, Deployment | Remote | [View →](https://www.remotejobscan.com/job/18988/staff-software-engineer-deployment/) |
 | Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
-| Conceptual Reasoning Fellow | Remote | [View →](https://www.remotejobscan.com/job/17979/conceptual-reasoning-fellow/) |
-| Data Scientist, Cloud Distribution & Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18987/data-scientist-cloud-distribution-growth/) |
-| Lead Technical Instructor | On-site | [View →](https://www.remotejobscan.com/job/15549/lead-technical-instructor/) |
-| Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
