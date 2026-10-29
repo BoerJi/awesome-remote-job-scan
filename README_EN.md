@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
+| Sales Manager, Startups | On-site | [View →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
+| B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
+| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Growth Lead, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
 | Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19041/customer-support-specialist-ll/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19040/customer-support-specialist-ii/) |
@@ -37,9 +41,6 @@
 | People Systems Manager, Workday | Hybrid | [View →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
 | Senior HR Business Partner, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
 | Full-Stack Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
-| Account Executive - Italy - SMB | Remote | [View →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
-| CE Specialist, Voice | Fixed-Term | Remote | [View →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
-| Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading) | On-site | [View →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

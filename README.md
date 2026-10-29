@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级经理，订单到回款保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
+| 初创企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
+| B2B营销 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
+| 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | 市场增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
 | 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19041/customer-support-specialist-ll/) |
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19040/customer-support-specialist-ii/) |
@@ -38,9 +42,6 @@
 | Workday人事系统经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
 | 高级人力资源业务合作伙伴，G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
 | 全栈工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
-| 意大利中小企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
-| 语音客户体验专家 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
-| 高级产品经理，高级交易（现货/衍生品/加密货币交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
