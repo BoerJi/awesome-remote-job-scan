@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading) | On-site | [View →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
+| Senior Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
 | HR Operations - Contract | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
@@ -38,10 +40,6 @@
 | Staff Machine Learning Engineer, Compliance Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/19011/staff-machine-learning-engineer-compliance-automation-platform/) |
 | Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Staff+ Software Engineer, Enterprise Connectivity | On-site | [View →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
-| Employer Brand, Communications & Social | Hybrid | [View →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
-| Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
-| Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
-| Software Engineer, Infranomics | On-site | [View →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

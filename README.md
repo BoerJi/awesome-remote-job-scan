@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理，高级交易（现货/衍生品/加密货币交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
+| 高级产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
+| 用户中心高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19025/senior-product-manager-user-center/) |
 | 人力资源运营-合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
 | 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
@@ -39,9 +42,6 @@
 | 平台合规自动化高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19011/staff-machine-learning-engineer-compliance-automation-platform/) |
 | Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | 企业连接Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
-| 雇主品牌、沟通与社交 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
-| 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
-| 软件工程师，Infranomics | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
