@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior HR Business Partner, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
+| Full-Stack Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 | Account Executive - Italy - SMB | Remote | [View →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19029/customer-support-specialist-ii/) |
 | CE Specialist, Voice | Fixed-Term | Remote | [View →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
@@ -38,8 +40,6 @@
 | Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/19014/head-of-tax-information-reporting/) |
 | Growth Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
-| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| Senior Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

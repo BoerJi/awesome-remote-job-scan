@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人力资源业务合作伙伴，G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
+| 全栈工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 | 意大利中小企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19029/customer-support-specialist-ii/) |
 | 语音客户体验专家 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
@@ -40,8 +42,6 @@
 | 税务信息报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19014/head-of-tax-information-reporting/) |
 | 增长运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
-| 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| 高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
