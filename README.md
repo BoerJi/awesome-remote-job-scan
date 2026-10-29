@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI与智能体产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
 | 拉美区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19020/account-manager-latam/) |
 | SRE Engineer SRE工程师（监控日志中间件） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
 | 税务信息报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19014/head-of-tax-information-reporting/) |
@@ -41,7 +42,6 @@
 | 高级执行助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
 | 人才获取经理/主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18446/talent-acquisition-manager-lead/) |
 | 网络基础设施工程师，全球网络基础设施（WAN） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19002/network-infrastructure-engineer-global-network-infra-wan/) |
-| 高级G&A招聘官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
