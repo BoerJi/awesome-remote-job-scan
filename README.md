@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3233</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19036/customer-support-specialist-ii/) |
+| 市场增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
+| 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19041/customer-support-specialist-ll/) |
+| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19040/customer-support-specialist-ii/) |
+| 客户支持专员 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19036/customer-support-specialist-ii/) |
+| 收入策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19038/revenue-strategy-operations/) |
+| 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19037/public-sector-sales-lead/) |
+| 欧洲、中东、非洲技术支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19039/emea-technical-support-engineer/) |
 | 高级企业工程师 - Salesforce 平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
 | 基础设施复杂交易高级采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
 | 公共部门企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
@@ -35,11 +41,6 @@
 | 意大利中小企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
 | 语音客户体验专家 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
 | 高级产品经理，高级交易（现货/衍生品/加密货币交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
-| 高级产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
-| 用户中心高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19025/senior-product-manager-user-center/) |
-| 人力资源运营-合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
-| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| 百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
