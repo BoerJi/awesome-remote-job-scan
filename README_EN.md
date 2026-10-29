@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3220</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/19020/account-manager-latam/) |
+| SRE Engineer SRE工程师（监控日志中间件） | Remote | [View →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
+| Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/19014/head-of-tax-information-reporting/) |
 | Growth Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
@@ -39,9 +42,6 @@
 | Talent Acquisition Manager / Lead | Remote | [View →](https://www.remotejobscan.com/job/18446/talent-acquisition-manager-lead/) |
 | Network Infrastructure Engineer, Global Network Infra (WAN) | Hybrid | [View →](https://www.remotejobscan.com/job/19002/network-infrastructure-engineer-global-network-infra-wan/) |
 | Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
-| Software Engineer, IP Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18999/software-engineer-ip-infrastructure/) |
-| Senior Field Engineer, Data Center Design and Engineering | Remote | [View →](https://www.remotejobscan.com/job/18998/senior-field-engineer-data-center-design-and-engineering/) |
-| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
