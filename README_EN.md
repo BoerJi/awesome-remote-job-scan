@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
+| Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
+| Customer Success Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
 | Account Director, Federal Partnerships (Defense) | Hybrid | [View →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
 | PR & Communications Manager - Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
 | Art Director | Hybrid | [View →](https://www.remotejobscan.com/job/19047/art-director/) |
@@ -36,12 +39,8 @@
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Growth Lead, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
 | Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19041/customer-support-specialist-ll/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19040/customer-support-specialist-ii/) |
 | Revenue Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/19038/revenue-strategy-operations/) |
 | Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/19037/public-sector-sales-lead/) |
-| EMEA Technical Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/19039/emea-technical-support-engineer/) |
-| Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| Senior Procurement Manager – Infrastructure Complex Deals | Hybrid | [View →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

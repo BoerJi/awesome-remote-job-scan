@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
+| 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
+| 客户成功主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
 | 联邦合作伙伴关系（国防）客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
 | 德国公关与沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
 | 艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19047/art-director/) |
@@ -40,9 +43,6 @@
 | 客户支持专员 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19036/customer-support-specialist-ii/) |
 | 收入策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19038/revenue-strategy-operations/) |
 | 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19037/public-sector-sales-lead/) |
-| 欧洲、中东、非洲技术支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19039/emea-technical-support-engineer/) |
-| 高级企业工程师 - Salesforce 平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
-| 基础设施复杂交易高级采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
