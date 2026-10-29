@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3233</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19036/customer-support-specialist-ii/) |
+| 高级企业工程师 - Salesforce 平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
+| 基础设施复杂交易高级采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
 | 公共部门企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
 | Workday 集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 | 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/senior-manager-accounting-india/) |
@@ -30,7 +33,6 @@
 | 高级人力资源业务合作伙伴，G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
 | 全栈工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 | 意大利中小企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
-| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19029/customer-support-specialist-ii/) |
 | 语音客户体验专家 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
 | 高级产品经理，高级交易（现货/衍生品/加密货币交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
 | 高级产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
@@ -38,9 +40,6 @@
 | 人力资源运营-合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
 | 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
-| 首席/高级VIP产品经理，陆地区域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19022/principalsenior-vip-product-manager-onshore-markets/) |
-| 大中华区首席/高级VIP产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
-| AI与智能体产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

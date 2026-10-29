@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3233</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19036/customer-support-specialist-ii/) |
+| Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
+| Senior Procurement Manager – Infrastructure Complex Deals | Hybrid | [View →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
 | Enterprise Account Executive, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
 | Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
 | Senior Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/senior-manager-accounting-india/) |
@@ -30,15 +33,12 @@
 | Senior HR Business Partner, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
 | Full-Stack Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 | Account Executive - Italy - SMB | Remote | [View →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19029/customer-support-specialist-ii/) |
 | CE Specialist, Voice | Fixed-Term | Remote | [View →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
 | Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading) | On-site | [View →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
 | Senior Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
 | HR Operations - Contract | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
-| Principal/Senior VIP Product Manager, Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/19022/principalsenior-vip-product-manager-onshore-markets/) |
-| Head of Product, AI and Agent | On-site | [View →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
