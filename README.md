@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3215</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3219</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
+| 企业连接Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
+| 雇主品牌、沟通与社交 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
 | 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
 | 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | 软件工程师，Infranomics | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
@@ -39,9 +42,6 @@
 | 欧洲贸易合规主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
 | 高级合规专员 - 自动化与系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
 | 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
-| 亚太区事件指挥官、检测与响应 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18992/incident-commander-detection-response-apac/) |
-| 推理前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3215</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3219</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
+| Staff+ Software Engineer, Enterprise Connectivity | On-site | [View →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
+| Employer Brand, Communications & Social | Hybrid | [View →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
 | Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
 | Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | Software Engineer, Infranomics | On-site | [View →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
@@ -38,9 +41,6 @@
 | Europe Trade Compliance Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
 | Senior Compliance Associate - Automation & Systems | Remote | [View →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
 | Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
-| Incident Commander, Detection & Response - APAC | Remote | [View →](https://www.remotejobscan.com/job/18992/incident-commander-detection-response-apac/) |
-| Forward Deployed Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
