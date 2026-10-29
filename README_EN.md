@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Onboarding Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
+| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
+| Staff / Senior Data Center Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
+| Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19057/business-recruiter/) |
+| Enterprise Account Executive - Semiconductors | On-site | [View →](https://www.remotejobscan.com/job/19055/enterprise-account-executive-semiconductors/) |
+| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
 | Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
 | Customer Success Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
@@ -36,11 +42,6 @@
 | Senior Manager, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
 | Sales Manager, Startups | On-site | [View →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
 | B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
-| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| Growth Lead, Marketplace | Remote | [View →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
-| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19041/customer-support-specialist-ll/) |
-| Revenue Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/19038/revenue-strategy-operations/) |
-| Public Sector Sales Lead | On-site | [View →](https://www.remotejobscan.com/job/19037/public-sector-sales-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

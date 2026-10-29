@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售入职经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
+| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
+| 数据中心安全工程师（高级/职员） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
+| 商业招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19057/business-recruiter/) |
+| 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18715/business-recruiter/) |
+| 半导体企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19055/enterprise-account-executive-semiconductors/) |
+| 招聘协调员（合同工） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
 | 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
 | 客户成功主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
@@ -36,13 +43,6 @@
 | 高级经理，订单到回款保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
 | 初创企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
 | B2B营销 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
-| 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| 市场增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18886/growth-lead-marketplace/) |
-| 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19041/customer-support-specialist-ll/) |
-| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19040/customer-support-specialist-ii/) |
-| 客户支持专员 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19036/customer-support-specialist-ii/) |
-| 收入策略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19038/revenue-strategy-operations/) |
-| 公共部门销售主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19037/public-sector-sales-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
