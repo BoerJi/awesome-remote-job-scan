@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共部门企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
+| Workday 集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
+| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/senior-manager-accounting-india/) |
+| Workday人事系统经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
 | 高级人力资源业务合作伙伴，G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
 | 全栈工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 | 意大利中小企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
@@ -37,11 +41,6 @@
 | 首席/高级VIP产品经理，陆地区域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19022/principalsenior-vip-product-manager-onshore-markets/) |
 | 大中华区首席/高级VIP产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
 | AI与智能体产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
-| 拉美区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19020/account-manager-latam/) |
-| SRE Engineer SRE工程师（监控日志中间件） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
-| 税务信息报告主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19014/head-of-tax-information-reporting/) |
-| 增长运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
-| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

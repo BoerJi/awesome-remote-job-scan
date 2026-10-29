@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Executive, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
+| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
+| Senior Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/senior-manager-accounting-india/) |
+| People Systems Manager, Workday | Hybrid | [View →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
 | Senior HR Business Partner, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
 | Full-Stack Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 | Account Executive - Italy - SMB | Remote | [View →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
@@ -35,11 +39,6 @@
 | Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
 | Principal/Senior VIP Product Manager, Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/19022/principalsenior-vip-product-manager-onshore-markets/) |
 | Head of Product, AI and Agent | On-site | [View →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
-| Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/19020/account-manager-latam/) |
-| SRE Engineer SRE工程师（监控日志中间件） | Remote | [View →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
-| Head of Tax Information Reporting | Remote | [View →](https://www.remotejobscan.com/job/19014/head-of-tax-information-reporting/) |
-| Growth Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
-| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
