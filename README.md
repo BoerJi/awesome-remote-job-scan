@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级后端软件工程师（Coinbase One） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
+| 人才合作伙伴，G&A（合同工） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19064/talent-partner-ga-contract/) |
 | 拉丁美洲公共政策助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
 | 绩效与人才项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
 | 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19063/program-manager-local-community-impact/) |
@@ -41,8 +43,6 @@
 | 联邦合作伙伴关系（国防）客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
 | 德国公关与沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
 | 艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19047/art-director/) |
-| 可信访问运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19049/trusted-access-operations-lead/) |
-| 可信访问运营专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19048/trusted-access-operations-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Backend (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
+| Talent Partner, G&A (Contract) | Remote | [View →](https://www.remotejobscan.com/job/19064/talent-partner-ga-contract/) |
 | LATAM Public Policy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
 | Performance & Talent Programs Manager | On-site | [View →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
 | Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19063/program-manager-local-community-impact/) |
@@ -40,8 +42,6 @@
 | Account Director, Federal Partnerships (Defense) | Hybrid | [View →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
 | PR & Communications Manager - Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
 | Art Director | Hybrid | [View →](https://www.remotejobscan.com/job/19047/art-director/) |
-| Trusted Access Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19049/trusted-access-operations-lead/) |
-| Trusted Access Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/19048/trusted-access-operations-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
