@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3213</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3215</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
+| 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | 软件工程师，Infranomics | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
 | 交通基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19006/software-engineer-traffic-infrastructure/) |
 | 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
@@ -40,8 +42,6 @@
 | 亚太区事件指挥官、检测与响应 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18992/incident-commander-detection-response-apac/) |
 | 推理前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| BIM设计师与协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18990/bim-designer-coordinator/) |
-| Guardian 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

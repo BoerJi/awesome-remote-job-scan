@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3213</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3215</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
+| Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | Software Engineer, Infranomics | On-site | [View →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
 | Software Engineer, Traffic Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19006/software-engineer-traffic-infrastructure/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
@@ -39,8 +41,6 @@
 | Incident Commander, Detection & Response - APAC | Remote | [View →](https://www.remotejobscan.com/job/18992/incident-commander-detection-response-apac/) |
 | Forward Deployed Engineer, Inference | On-site | [View →](https://www.remotejobscan.com/job/18991/forward-deployed-engineer-inference/) |
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/18990/bim-designer-coordinator/) |
-| Engineering Manager, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
