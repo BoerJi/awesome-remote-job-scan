@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3220</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
+| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
+| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| Senior Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
+| Staff Machine Learning Engineer, Compliance Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/19011/staff-machine-learning-engineer-compliance-automation-platform/) |
 | Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Staff+ Software Engineer, Enterprise Connectivity | On-site | [View →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
 | Employer Brand, Communications & Social | Hybrid | [View →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
@@ -37,10 +42,6 @@
 | Software Engineer, IP Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/18999/software-engineer-ip-infrastructure/) |
 | Senior Field Engineer, Data Center Design and Engineering | Remote | [View →](https://www.remotejobscan.com/job/18998/senior-field-engineer-data-center-design-and-engineering/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| Product Content Creator | Hybrid | [View →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
-| Europe Trade Compliance Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
-| Senior Compliance Associate - Automation & Systems | Remote | [View →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
-| Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3220</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 增长运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11589/growth-operation-specialist/) |
+| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
+| 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| 高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
+| 平台合规自动化高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19011/staff-machine-learning-engineer-compliance-automation-platform/) |
 | Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | 企业连接Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
 | 雇主品牌、沟通与社交 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
 | 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
-| 商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | 软件工程师，Infranomics | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
 | 交通基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19006/software-engineer-traffic-infrastructure/) |
 | 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
@@ -38,10 +42,6 @@
 | 软件工程师，知识产权基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18999/software-engineer-ip-infrastructure/) |
 | 高级现场工程师，数据中心设计与工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18998/senior-field-engineer-data-center-design-and-engineering/) |
 | 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| 产品内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
-| 欧洲贸易合规主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
-| 高级合规专员 - 自动化与系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
-| 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
