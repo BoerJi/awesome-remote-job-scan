@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 意大利中小企业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
+| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19029/customer-support-specialist-ii/) |
+| 语音客户体验专家 | 固定期限 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
 | 高级产品经理，高级交易（现货/衍生品/加密货币交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
 | 高级产品经理，用户中心 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
 | 用户中心高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19025/senior-product-manager-user-center/) |
@@ -39,9 +42,6 @@
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | 高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
-| 平台合规自动化高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19011/staff-machine-learning-engineer-compliance-automation-platform/) |
-| Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
-| 企业连接Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

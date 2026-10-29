@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - Italy - SMB | Remote | [View →](https://www.remotejobscan.com/job/19030/account-executive-italy-smb/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19029/customer-support-specialist-ii/) |
+| CE Specialist, Voice | Fixed-Term | Remote | [View →](https://www.remotejobscan.com/job/19028/ce-specialist-voice-fixed-term/) |
 | Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading) | On-site | [View →](https://www.remotejobscan.com/job/19026/principalsenior-product-manager-advanced-trading-spotderivativescrypto-trading/) |
 | Senior Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/19024/senior-product-manager-user-center/) |
 | HR Operations - Contract | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
@@ -37,9 +40,6 @@
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Senior Compliance Manager | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-manager/) |
-| Staff Machine Learning Engineer, Compliance Automation (Platform) | Remote | [View →](https://www.remotejobscan.com/job/19011/staff-machine-learning-engineer-compliance-automation-platform/) |
-| Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
-| Staff+ Software Engineer, Enterprise Connectivity | On-site | [View →](https://www.remotejobscan.com/job/19008/staff-software-engineer-enterprise-connectivity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
