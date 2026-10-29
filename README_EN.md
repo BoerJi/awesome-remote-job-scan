@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3212</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3213</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Infranomics | On-site | [View →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
+| Software Engineer, Traffic Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19006/software-engineer-traffic-infrastructure/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | Talent Acquisition Manager / Lead | Remote | [View →](https://www.remotejobscan.com/job/18446/talent-acquisition-manager-lead/) |
 | Network Infrastructure Engineer, Global Network Infra (WAN) | Hybrid | [View →](https://www.remotejobscan.com/job/19002/network-infrastructure-engineer-global-network-infra-wan/) |
@@ -39,8 +41,6 @@
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | BIM Designer & Coordinator | Hybrid | [View →](https://www.remotejobscan.com/job/18990/bim-designer-coordinator/) |
 | Engineering Manager, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/18989/engineering-manager-guardian/) |
-| Staff+ Software Engineer, Deployment | Remote | [View →](https://www.remotejobscan.com/job/18988/staff-software-engineer-deployment/) |
-| Anthropic STEM Fellow | Remote | [View →](https://www.remotejobscan.com/job/18171/anthropic-stem-fellow/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
