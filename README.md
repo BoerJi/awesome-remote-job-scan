@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 拉丁美洲公共政策助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
+| 绩效与人才项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
+| 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19063/program-manager-local-community-impact/) |
 | 高级销售运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | 测试与质量项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19060/commissioning-and-quality-program-manager/) |
 | 销售入职经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
@@ -40,9 +43,6 @@
 | 艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19047/art-director/) |
 | 可信访问运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19049/trusted-access-operations-lead/) |
 | 可信访问运营专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19048/trusted-access-operations-specialist/) |
-| 营销运营总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19045/head-of-marketing-operations/) |
-| 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
-| 高级经理，订单到回款保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

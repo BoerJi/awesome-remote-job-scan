@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| LATAM Public Policy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
+| Performance & Talent Programs Manager | On-site | [View →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
+| Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19063/program-manager-local-community-impact/) |
 | Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | Commissioning and Quality Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19060/commissioning-and-quality-program-manager/) |
 | Sales Onboarding Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
@@ -39,9 +42,6 @@
 | Art Director | Hybrid | [View →](https://www.remotejobscan.com/job/19047/art-director/) |
 | Trusted Access Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19049/trusted-access-operations-lead/) |
 | Trusted Access Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/19048/trusted-access-operations-specialist/) |
-| Head of Marketing Operations | Remote | [View →](https://www.remotejobscan.com/job/19045/head-of-marketing-operations/) |
-| Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
-| Senior Manager, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
