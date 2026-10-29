@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3210</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3206</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Europe Trade Compliance Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
 | Senior Compliance Associate - Automation & Systems | Remote | [View →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
 | Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
 | Incident Commander, Detection & Response - APAC | Remote | [View →](https://www.remotejobscan.com/job/18992/incident-commander-detection-response-apac/) |
@@ -39,7 +40,6 @@
 | Senior Engineering Manager, Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18984/senior-engineering-manager-payments-platform/) |
 | Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 | FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
-| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
