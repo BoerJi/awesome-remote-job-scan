@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Director, Federal Partnerships (Defense) | Hybrid | [View →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
+| PR & Communications Manager - Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
+| Art Director | Hybrid | [View →](https://www.remotejobscan.com/job/19047/art-director/) |
+| Trusted Access Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19049/trusted-access-operations-lead/) |
+| Trusted Access Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/19048/trusted-access-operations-specialist/) |
+| Head of Marketing Operations | Remote | [View →](https://www.remotejobscan.com/job/19045/head-of-marketing-operations/) |
+| Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | Senior Manager, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
 | Sales Manager, Startups | On-site | [View →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
 | B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
@@ -35,12 +42,6 @@
 | EMEA Technical Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/19039/emea-technical-support-engineer/) |
 | Senior Enterprise Engineer - Salesforce Platform (EAA - STP) | Remote | [View →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
 | Senior Procurement Manager – Infrastructure Complex Deals | Hybrid | [View →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
-| Enterprise Account Executive, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
-| Workday Integrations Developer | Hybrid | [View →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| Senior Manager, Accounting (India) | Hybrid | [View →](https://www.remotejobscan.com/job/11382/senior-manager-accounting-india/) |
-| People Systems Manager, Workday | Hybrid | [View →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
-| Senior HR Business Partner, G&A | Hybrid | [View →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
-| Full-Stack Engineer - ElevenCreative Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

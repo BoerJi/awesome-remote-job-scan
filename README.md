@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 联邦合作伙伴关系（国防）客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
+| 德国公关与沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
+| 艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19047/art-director/) |
+| 可信访问运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19049/trusted-access-operations-lead/) |
+| 可信访问运营专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19048/trusted-access-operations-specialist/) |
+| 营销运营总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19045/head-of-marketing-operations/) |
+| 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | 高级经理，订单到回款保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
 | 初创企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
 | B2B营销 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
@@ -36,12 +43,6 @@
 | 欧洲、中东、非洲技术支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19039/emea-technical-support-engineer/) |
 | 高级企业工程师 - Salesforce 平台 (EAA - STP) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11966/senior-enterprise-engineer-salesforce-platform-eaa-stp/) |
 | 基础设施复杂交易高级采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19035/senior-procurement-manager-infrastructure-complex-deals/) |
-| 公共部门企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19033/enterprise-account-executive-public-sector/) |
-| Workday 集成开发工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16454/workday-integrations-developer/) |
-| 高级会计经理（印度） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11382/senior-manager-accounting-india/) |
-| Workday人事系统经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17951/people-systems-manager-workday/) |
-| 高级人力资源业务合作伙伴，G&A | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9782/senior-hr-business-partner-ga/) |
-| 全栈工程师 - ElevenCreative 企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19032/full-stack-engineer-elevencreative-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
