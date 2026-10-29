@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3225</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Operations - Contract | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
+| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
+| Principal/Senior VIP Product Manager, Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/19022/principalsenior-vip-product-manager-onshore-markets/) |
 | Head of Product, AI and Agent | On-site | [View →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
 | Account Manager - LATAM | Remote | [View →](https://www.remotejobscan.com/job/19020/account-manager-latam/) |
 | SRE Engineer SRE工程师（监控日志中间件） | Remote | [View →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
@@ -38,10 +42,6 @@
 | Senior Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
 | Legal Counsel - Commercial | Hybrid | [View →](https://www.remotejobscan.com/job/16568/legal-counsel-commercial/) |
 | Software Engineer, Infranomics | On-site | [View →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
-| Software Engineer, Traffic Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19006/software-engineer-traffic-infrastructure/) |
-| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
-| Talent Acquisition Manager / Lead | Remote | [View →](https://www.remotejobscan.com/job/18446/talent-acquisition-manager-lead/) |
-| Network Infrastructure Engineer, Global Network Infra (WAN) | Hybrid | [View →](https://www.remotejobscan.com/job/19002/network-infrastructure-engineer-global-network-infra-wan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

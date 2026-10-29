@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人力资源运营-合同 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
+| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| 百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
+| 首席/高级VIP产品经理，陆地区域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19022/principalsenior-vip-product-manager-onshore-markets/) |
+| 大中华区首席/高级VIP产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18953/principalsenior-vip-product-manager-onshore-markets/) |
 | AI与智能体产品负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19021/head-of-product-ai-and-agent/) |
 | 拉美区客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19020/account-manager-latam/) |
 | SRE Engineer SRE工程师（监控日志中间件） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
@@ -37,11 +42,6 @@
 | 雇主品牌、沟通与社交 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19007/employer-brand-communications-social/) |
 | 高级会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17955/senior-accountant/) |
 | 软件工程师，Infranomics | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19005/software-engineer-infranomics/) |
-| 交通基础设施软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19006/software-engineer-traffic-infrastructure/) |
-| 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
-| 高级执行助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
-| 人才获取经理/主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18446/talent-acquisition-manager-lead/) |
-| 网络基础设施工程师，全球网络基础设施（WAN） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19002/network-infrastructure-engineer-global-network-infra-wan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
