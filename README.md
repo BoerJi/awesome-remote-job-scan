@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级销售运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
+| 测试与质量项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19060/commissioning-and-quality-program-manager/) |
 | 销售入职经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
 | 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
 | 数据中心安全工程师（高级/职员） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
@@ -41,8 +43,6 @@
 | 营销运营总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19045/head-of-marketing-operations/) |
 | 生命科学（化学）研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | 高级经理，订单到回款保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
-| 初创企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
-| B2B营销 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

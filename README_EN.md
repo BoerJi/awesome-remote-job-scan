@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
+| Commissioning and Quality Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19060/commissioning-and-quality-program-manager/) |
 | Sales Onboarding Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
 | Staff / Senior Data Center Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
@@ -40,8 +42,6 @@
 | Head of Marketing Operations | Remote | [View →](https://www.remotejobscan.com/job/19045/head-of-marketing-operations/) |
 | Research Scientist, Life Sciences (Chemistry) | On-site | [View →](https://www.remotejobscan.com/job/13373/research-scientist-life-sciences-chemistry/) |
 | Senior Manager, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/senior-manager-order-to-cash-assurance/) |
-| Sales Manager, Startups | On-site | [View →](https://www.remotejobscan.com/job/19042/sales-manager-startups/) |
-| B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19043/b2b-marketing-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
