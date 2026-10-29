@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3206</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3207</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| Product Content Creator | Hybrid | [View →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
 | Europe Trade Compliance Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
 | Senior Compliance Associate - Automation & Systems | Remote | [View →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
 | Compliance Associate | Remote | [View →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
@@ -39,7 +41,6 @@
 | Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Senior Engineering Manager, Payments Platform | Remote | [View →](https://www.remotejobscan.com/job/18984/senior-engineering-manager-payments-platform/) |
 | Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-29 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

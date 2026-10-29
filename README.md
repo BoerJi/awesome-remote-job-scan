@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3206</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3207</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| 产品内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
 | 欧洲贸易合规主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18996/europe-trade-compliance-lead/) |
 | 高级合规专员 - 自动化与系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18994/senior-compliance-associate-automation-systems/) |
 | 合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18995/compliance-associate/) |
@@ -39,7 +41,6 @@
 | Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | 支付平台高级工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18984/senior-engineering-manager-payments-platform/) |
 | 安全软件工程师，身份与访问管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| 产品财务规划与分析经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-29 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
