@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 北美基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19131/forward-deployed-engineer-infrastructure-specialist-north-america/) |
+| EMEA高级现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
+| 活动与现场市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
 | 知识产权助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19128/ip-paralegal/) |
 | 云安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9778/security-engineer-cloud/) |
 | 治理、风险与合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
@@ -38,9 +41,6 @@
 | 企业开发、交易负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18503/corporate-development-deal-lead/) |
 | 产品增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19110/product-growth/) |
 | Vercel平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
-| Compute产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
-| 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

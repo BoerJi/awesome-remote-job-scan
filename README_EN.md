@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Infrastructure Specialist (North America) | Hybrid | [View →](https://www.remotejobscan.com/job/19131/forward-deployed-engineer-infrastructure-specialist-north-america/) |
+| Sr. Field Marketing & Community Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
+| Event & Field Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
 | IP Paralegal | Hybrid | [View →](https://www.remotejobscan.com/job/19128/ip-paralegal/) |
 | Security Engineer, Cloud | Remote | [View →](https://www.remotejobscan.com/job/9778/security-engineer-cloud/) |
 | GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
@@ -37,9 +40,6 @@
 | Corporate Development, Deal Lead | On-site | [View →](https://www.remotejobscan.com/job/18503/corporate-development-deal-lead/) |
 | Product Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19110/product-growth/) |
 | Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
-| Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
-| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
