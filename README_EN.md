@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Compliance & MLRO - Nigeria | Remote | [View →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
+| Service Designer, Intelligence & Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
+| Software Engineer, Mobile (Android) | On-site | [View →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
 | Compliance Senior Associate & Deputy MLRO, CBIE | On-site | [View →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 | Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | Research Program Manager, Safety Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
@@ -39,9 +42,6 @@
 | Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
 | Staff / Senior Data Center Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
 | Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19057/business-recruiter/) |
-| Enterprise Account Executive - Semiconductors | On-site | [View →](https://www.remotejobscan.com/job/19055/enterprise-account-executive-semiconductors/) |
-| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
