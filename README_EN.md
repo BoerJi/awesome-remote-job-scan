@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3228</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
 | KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 | Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 | Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
@@ -40,7 +41,6 @@
 | Research Program Manager, Safety Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
 | Research Scientist, Life Sciences (Large Molecules, Process Development) | On-site | [View →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
 | Research Scientist, Life Sciences (Large Molecules, Antibody Design) | On-site | [View →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
-| Senior Software Engineer, Backend (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
