@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
+| 支付合作BD（数字银行） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
+| 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
+| 澳大利亚销售与合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
+| 首席/高级资产管理产品经理（税务报告、客户陈述与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| 首席/高级资产管理产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| 用户中心首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19024/principalsenior-product-manager-user-center/) |
+| 企业事务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19075/head-of-corporate-affairs/) |
+| 联盟经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19074/affiliate-manager/) |
 | Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | 合规与反洗钱报告官负责人 - 尼日利亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
 | 服务设计师，智能与调查 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
@@ -33,16 +42,6 @@
 | 生命科学研究员（大分子，工艺开发） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
 | 生命科学研究员（大分子，抗体设计） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
 | 高级后端软件工程师（Coinbase One） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
-| 人才合作伙伴，G&A（合同工） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19064/talent-partner-ga-contract/) |
-| 拉丁美洲公共政策助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
-| 绩效与人才项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
-| 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19063/program-manager-local-community-impact/) |
-| 高级销售运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
-| 测试与质量项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19060/commissioning-and-quality-program-manager/) |
-| 销售入职经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
-| 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
-| 数据中心安全工程师（高级/职员） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
-| 商业招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19057/business-recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
+| Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
+| Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
+| Head of Sales & Partnerships, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
+| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
+| Principal/Senior Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/19024/principalsenior-product-manager-user-center/) |
+| Head of Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19075/head-of-corporate-affairs/) |
+| Affiliate Manager | On-site | [View →](https://www.remotejobscan.com/job/19074/affiliate-manager/) |
 | Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Head of Compliance & MLRO - Nigeria | Remote | [View →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
 | Service Designer, Intelligence & Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
@@ -33,16 +41,6 @@
 | Research Scientist, Life Sciences (Large Molecules, Process Development) | On-site | [View →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
 | Research Scientist, Life Sciences (Large Molecules, Antibody Design) | On-site | [View →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
 | Senior Software Engineer, Backend (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
-| Talent Partner, G&A (Contract) | Remote | [View →](https://www.remotejobscan.com/job/19064/talent-partner-ga-contract/) |
-| LATAM Public Policy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
-| Performance & Talent Programs Manager | On-site | [View →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
-| Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19063/program-manager-local-community-impact/) |
-| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
-| Commissioning and Quality Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19060/commissioning-and-quality-program-manager/) |
-| Sales Onboarding Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19059/sales-onboarding-manager/) |
-| Senior Software Engineer, Data Engineering Platform | Remote | [View →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
-| Staff / Senior Data Center Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
-| Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19057/business-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
