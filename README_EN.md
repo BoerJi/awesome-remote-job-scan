@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3096</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IP Paralegal | Hybrid | [View →](https://www.remotejobscan.com/job/19128/ip-paralegal/) |
+| Security Engineer, Cloud | Remote | [View →](https://www.remotejobscan.com/job/9778/security-engineer-cloud/) |
+| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19126/customer-support-specialist-ii/) |
+| Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19127/business-development-representative-startups/) |
 | Engineering Manager, Integrity and Attestation | On-site | [View →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19119/customer-support-specialist-ii/) |
 | Senior Software Engineer, Tax Engineering | Remote | [View →](https://www.remotejobscan.com/job/19122/senior-software-engineer-tax-engineering/) |
 | Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19121/customer-support-specialist-ll/) |
@@ -35,12 +40,6 @@
 | Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| Product Designer, Marketplace | Hybrid | [View →](https://www.remotejobscan.com/job/14758/product-designer-marketplace/) |
-| Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| Account Executive-Startups, EMEA (French Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
-| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Engineering Manager - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/12842/engineering-manager-nextjs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

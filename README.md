@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3091</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3096</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,9 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 知识产权助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19128/ip-paralegal/) |
+| 云安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9778/security-engineer-cloud/) |
+| 治理、风险与合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19126/customer-support-specialist-ii/) |
+| 初创企业业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19127/business-development-representative-startups/) |
 | 可信与验证工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19119/customer-support-specialist-ii/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19116/customer-support-specialist-ii/) |
 | 高级软件工程师，税务工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19122/senior-software-engineer-tax-engineering/) |
 | 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19121/customer-support-specialist-ll/) |
@@ -36,12 +41,6 @@
 | Compute产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 | 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 | 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| 产品设计师，市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14758/product-designer-marketplace/) |
-| 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| 初创企业EMEA区客户经理（法语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-speaker/) |
-| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Next.js 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12842/engineering-manager-nextjs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
