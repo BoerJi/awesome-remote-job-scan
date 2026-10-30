@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3246</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/19092/payments-risk-analyst-ii/) |
+| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19095/customer-support-specialist-ll/) |
+| Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/19094/lead-engineer-ai-platform/) |
+| Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/19093/payments-risk-analyst-ii/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19091/customer-support-specialist-ii/) |
 | Commercialization Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercialization-program-manager/) |
 | Trust Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/19087/trust-strategy-operations/) |
@@ -37,9 +39,6 @@
 | 区块链架构师 Blockchain Architect | Remote | [View →](https://www.remotejobscan.com/job/19078/blockchain-architect/) |
 | Leader of the Safety Research Team 安全研发组Leader | Remote | [View →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
 | Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
-| Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
-| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
