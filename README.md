@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Quality Assurance Engineer 资深质量保证工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19086/senior-quality-assurance-engineer/) |
+| Senior Blockchain Wallet Development Engineer (Funding / Settlement Direction) 资深区块链钱包开发工程师（充提 / 对账方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19080/senior-blockchain-wallet-development-engineer-funding-settlement-direction/) |
+| DevOps 专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19081/devops/) |
+| Senior Blockchain Development Engineer / Architect 资深区块链开发工程师/架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19082/senior-blockchain-development-engineer-architect/) |
+| Senior Platform Engineering Development Expert 资深平台工程开发专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19083/senior-platform-engineering-development-expert/) |
+| Blockchain Development Engineer 区块链开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19084/blockchain-development-engineer/) |
+| Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
+| 区块链架构师 Blockchain Architect | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19078/blockchain-architect/) |
+| Leader of the Safety Research Team 安全研发组Leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
 | 客户成功经理，有益部署EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | 品牌专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
@@ -34,14 +43,6 @@
 | 首席/高级资产管理产品经理（税务报告、客户陈述与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | 首席/高级资产管理产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | 用户中心首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19024/principalsenior-product-manager-user-center/) |
-| 企业事务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19075/head-of-corporate-affairs/) |
-| 联盟经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19074/affiliate-manager/) |
-| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| 合规与反洗钱报告官负责人 - 尼日利亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
-| 服务设计师，智能与调查 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
-| 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
-| 合规高级专员及副MLRO，CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
-| 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

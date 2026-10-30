@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Quality Assurance Engineer 资深质量保证工程师 | Remote | [View →](https://www.remotejobscan.com/job/19086/senior-quality-assurance-engineer/) |
+| Senior Blockchain Wallet Development Engineer (Funding / Settlement Direction) 资深区块链钱包开发工程师（充提 / 对账方向） | Remote | [View →](https://www.remotejobscan.com/job/19080/senior-blockchain-wallet-development-engineer-funding-settlement-direction/) |
+| DevOps 专家 | Remote | [View →](https://www.remotejobscan.com/job/19081/devops/) |
+| Senior Blockchain Development Engineer / Architect 资深区块链开发工程师/架构师 | Remote | [View →](https://www.remotejobscan.com/job/19082/senior-blockchain-development-engineer-architect/) |
+| Senior Platform Engineering Development Expert 资深平台工程开发专家 | Remote | [View →](https://www.remotejobscan.com/job/19083/senior-platform-engineering-development-expert/) |
+| Blockchain Development Engineer 区块链开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19084/blockchain-development-engineer/) |
+| Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | Remote | [View →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
+| 区块链架构师 Blockchain Architect | Remote | [View →](https://www.remotejobscan.com/job/19078/blockchain-architect/) |
+| Leader of the Safety Research Team 安全研发组Leader | Remote | [View →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
 | Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
@@ -33,14 +42,6 @@
 | Head of Sales & Partnerships, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
 | Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 | Principal/Senior Product Manager, User Center | On-site | [View →](https://www.remotejobscan.com/job/19024/principalsenior-product-manager-user-center/) |
-| Head of Corporate Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19075/head-of-corporate-affairs/) |
-| Affiliate Manager | On-site | [View →](https://www.remotejobscan.com/job/19074/affiliate-manager/) |
-| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
-| Head of Compliance & MLRO - Nigeria | Remote | [View →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
-| Service Designer, Intelligence & Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
-| Software Engineer, Mobile (Android) | On-site | [View →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
-| Compliance Senior Associate & Deputy MLRO, CBIE | On-site | [View →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
-| Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
