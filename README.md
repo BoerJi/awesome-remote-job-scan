@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3245</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3207</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 伦敦应用AI交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19096/applied-ai-delivery-lead-london/) |
+| EMEA合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
 | 客户支持专员ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19095/customer-support-specialist-ll/) |
 | AI 平台首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19094/lead-engineer-ai-platform/) |
 | 支付风险分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19093/payments-risk-analyst-ii/) |
@@ -38,8 +40,6 @@
 | Blockchain Development Engineer 区块链开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19084/blockchain-development-engineer/) |
 | Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
 | 区块链架构师 Blockchain Architect | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19078/blockchain-architect/) |
-| Leader of the Safety Research Team 安全研发组Leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
-| 客户成功经理，有益部署EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3207</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Delivery Lead - London | On-site | [View →](https://www.remotejobscan.com/job/19096/applied-ai-delivery-lead-london/) |
+| Partner Solutions Engineer, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/12223/partner-solutions-engineer-emea/) |
 | Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19095/customer-support-specialist-ll/) |
 | Lead Engineer, AI Platform | Remote | [View →](https://www.remotejobscan.com/job/19094/lead-engineer-ai-platform/) |
 | Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/19093/payments-risk-analyst-ii/) |
@@ -37,8 +39,6 @@
 | Blockchain Development Engineer 区块链开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19084/blockchain-development-engineer/) |
 | Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | Remote | [View →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
 | 区块链架构师 Blockchain Architect | Remote | [View →](https://www.remotejobscan.com/job/19078/blockchain-architect/) |
-| Leader of the Safety Research Team 安全研发组Leader | Remote | [View →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
-| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
