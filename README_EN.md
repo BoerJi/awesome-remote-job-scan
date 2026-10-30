@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3238</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19088/customer-support-specialist-ii/) |
+| Commercialization Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercialization-program-manager/) |
 | Trust Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/19087/trust-strategy-operations/) |
 | Senior Quality Assurance Engineer 资深质量保证工程师 | Remote | [View →](https://www.remotejobscan.com/job/19086/senior-quality-assurance-engineer/) |
 | Senior Blockchain Wallet Development Engineer (Funding / Settlement Direction) 资深区块链钱包开发工程师（充提 / 对账方向） | Remote | [View →](https://www.remotejobscan.com/job/19080/senior-blockchain-wallet-development-engineer-funding-settlement-direction/) |
@@ -41,7 +43,6 @@
 | Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 | Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | Head of Sales & Partnerships, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
-| Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio) | On-site | [View →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

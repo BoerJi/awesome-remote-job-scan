@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3238</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19088/customer-support-specialist-ii/) |
+| 商业化项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercialization-program-manager/) |
 | 信任战略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19087/trust-strategy-operations/) |
 | Senior Quality Assurance Engineer 资深质量保证工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19086/senior-quality-assurance-engineer/) |
 | Senior Blockchain Wallet Development Engineer (Funding / Settlement Direction) 资深区块链钱包开发工程师（充提 / 对账方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19080/senior-blockchain-wallet-development-engineer-funding-settlement-direction/) |
@@ -41,8 +43,6 @@
 | 支付合作BD（数字银行） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
 | 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | 澳大利亚销售与合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
-| 首席/高级资产管理产品经理（税务报告、客户陈述与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17791/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
-| 首席/高级资产管理产品经理（税务报告、客户声明与投资组合） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15743/principal-senior-product-manager-asset-tax-reporting-client-statements-portfolio/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
