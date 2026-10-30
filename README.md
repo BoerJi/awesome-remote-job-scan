@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3096</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3098</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| 数据中心设备制造质量工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
+| 订单到账保证总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
+| 税务信息报告与预扣预缴咨询经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19132/manager-tax-information-reporting-and-withholding-advisory/) |
+| 数据中心OFE - 采购负责人，数据中心电源与冷却 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14879/data-center-ofe-sourcing-lead-data-center-power-cooling/) |
 | 北美基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19131/forward-deployed-engineer-infrastructure-specialist-north-america/) |
 | EMEA高级现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
 | 活动与现场市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
@@ -36,11 +41,6 @@
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19119/customer-support-specialist-ii/) |
 | 高级软件工程师，税务工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19122/senior-software-engineer-tax-engineering/) |
 | 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
-| 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19121/customer-support-specialist-ll/) |
-| 应用AI交付负责人 - 山景城 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19117/applied-ai-delivery-lead-mountain-view/) |
-| 企业开发、交易负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18503/corporate-development-deal-lead/) |
-| 产品增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19110/product-growth/) |
-| Vercel平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

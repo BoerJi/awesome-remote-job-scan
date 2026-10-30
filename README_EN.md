@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3096</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
+| Manufacturing Quality Engineer, Data Center Equipment | Hybrid | [View →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
+| Director, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
+| Manager, Tax Information Reporting and Withholding Advisory | Remote | [View →](https://www.remotejobscan.com/job/19132/manager-tax-information-reporting-and-withholding-advisory/) |
+| Data Center OFE - Sourcing Lead, Data Center Power & Cooling | Remote | [View →](https://www.remotejobscan.com/job/14879/data-center-ofe-sourcing-lead-data-center-power-cooling/) |
 | Forward Deployed Engineer, Infrastructure Specialist (North America) | Hybrid | [View →](https://www.remotejobscan.com/job/19131/forward-deployed-engineer-infrastructure-specialist-north-america/) |
 | Sr. Field Marketing & Community Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
 | Event & Field Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
@@ -35,11 +40,6 @@
 | Engineering Manager, Integrity and Attestation | On-site | [View →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
 | Senior Software Engineer, Tax Engineering | Remote | [View →](https://www.remotejobscan.com/job/19122/senior-software-engineer-tax-engineering/) |
 | Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
-| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19121/customer-support-specialist-ll/) |
-| Applied AI Delivery Lead - Mountain View | On-site | [View →](https://www.remotejobscan.com/job/19117/applied-ai-delivery-lead-mountain-view/) |
-| Corporate Development, Deal Lead | On-site | [View →](https://www.remotejobscan.com/job/18503/corporate-development-deal-lead/) |
-| Product Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19110/product-growth/) |
-| Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
