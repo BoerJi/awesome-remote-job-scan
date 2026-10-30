@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全测量研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
+| 生命科学研究员（大分子，工艺开发） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
+| 生命科学研究员（大分子，抗体设计） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
 | 高级后端软件工程师（Coinbase One） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
 | 人才合作伙伴，G&A（合同工） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19064/talent-partner-ga-contract/) |
 | 拉丁美洲公共政策助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
@@ -40,9 +43,6 @@
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
 | 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
 | 客户成功主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
-| 联邦合作伙伴关系（国防）客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
-| 德国公关与沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
-| 艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19047/art-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

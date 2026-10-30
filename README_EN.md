@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Program Manager, Safety Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
+| Research Scientist, Life Sciences (Large Molecules, Process Development) | On-site | [View →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
+| Research Scientist, Life Sciences (Large Molecules, Antibody Design) | On-site | [View →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
 | Senior Software Engineer, Backend (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-backend-coinbase-one/) |
 | Talent Partner, G&A (Contract) | Remote | [View →](https://www.remotejobscan.com/job/19064/talent-partner-ga-contract/) |
 | LATAM Public Policy Associate | Hybrid | [View →](https://www.remotejobscan.com/job/19062/latam-public-policy-associate/) |
@@ -39,9 +42,6 @@
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
 | Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
 | Customer Success Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
-| Account Director, Federal Partnerships (Defense) | Hybrid | [View →](https://www.remotejobscan.com/job/19050/account-director-federal-partnerships-defense/) |
-| PR & Communications Manager - Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19051/pr-communications-manager-germany/) |
-| Art Director | Hybrid | [View →](https://www.remotejobscan.com/job/19047/art-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
