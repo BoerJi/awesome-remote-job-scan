@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19088/customer-support-specialist-ii/) |
+| 支付风险分析师 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19092/payments-risk-analyst-ii/) |
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19091/customer-support-specialist-ii/) |
 | 商业化项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17706/commercialization-program-manager/) |
 | 信任战略与运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19087/trust-strategy-operations/) |
 | Senior Quality Assurance Engineer 资深质量保证工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19086/senior-quality-assurance-engineer/) |
@@ -39,10 +40,6 @@
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | 品牌专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
-| KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
-| 支付合作BD（数字银行） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
-| 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
-| 澳大利亚销售与合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

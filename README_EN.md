@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19088/customer-support-specialist-ii/) |
+| Payments Risk Analyst II | On-site | [View →](https://www.remotejobscan.com/job/19092/payments-risk-analyst-ii/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19091/customer-support-specialist-ii/) |
 | Commercialization Program Manager | On-site | [View →](https://www.remotejobscan.com/job/17706/commercialization-program-manager/) |
 | Trust Strategy & Operations | Remote | [View →](https://www.remotejobscan.com/job/19087/trust-strategy-operations/) |
 | Senior Quality Assurance Engineer 资深质量保证工程师 | Remote | [View →](https://www.remotejobscan.com/job/19086/senior-quality-assurance-engineer/) |
@@ -39,10 +40,6 @@
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
-| KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
-| Payment Partnership BD (Digital Bank) | On-site | [View →](https://www.remotejobscan.com/job/13273/payment-partnership-bd-digital-bank/) |
-| Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
-| Head of Sales & Partnerships, AU | On-site | [View →](https://www.remotejobscan.com/job/16371/head-of-sales-partnerships-au/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
