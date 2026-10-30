@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户成功经理，有益部署EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/senior-marketing-manager/) |
 | 品牌专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
@@ -41,7 +42,6 @@
 | 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
 | 合规高级专员及副MLRO，CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 | 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
-| 安全测量研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
