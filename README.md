@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3091</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,27 +23,30 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 数据中心变电站、保护和自动化工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19100/data-center-substation-protection-automation-engineer/) |
-| 数据中心发电与微电网工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19099/data-center-power-generation-and-microgrids-engineer/) |
-| G&A人才搜寻师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19101/talent-sourcer-ga/) |
-| 销售发展代表（SF） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17973/sales-development-representative-sf/) |
-| 支付风险分析师II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19092/payments-risk-analyst-ii/) |
-| 支付风险分析师 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19093/payments-risk-analyst-ii/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19089/customer-support-specialist-ii/) |
-| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19090/customer-support-specialist-ii/) |
-| 客户支持专员ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19095/customer-support-specialist-ll/) |
-| 客户支持专家 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
-| 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19091/customer-support-specialist-ll/) |
-| 合规高级专员及副首席合规官, CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
-| 产品经理 II，钱包与 DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
-| 高级企业产品经理，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
-| 支付平台后端高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18420/staff-software-engineer-backend-payments-platform/) |
-| 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
+| 企业传播总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
+| 企业发言人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
+| 社区运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7911/community-operation/) |
+| 研究投资实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
+| 内容编辑/SEO专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
+| 全球市场经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
+| 社区专员/经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
+| 创意文案撰稿人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
+| 数据仓库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
+| 高级深度学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
+| 研究分析师实习生 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
+| 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
+| 业务拓展与战略合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
+| 客户服务代表（英文） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
+| 合作伙伴与业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
+| 业务发展总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
+| 关键客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
+| 机构客户增长经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
+| 数据产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（49 家）
+## 🏢 已收录公司（50 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -54,6 +57,7 @@
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [查看职位 →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [查看职位 →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [查看职位 →](https://www.remotejobscan.com/?company=binance) |
+| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [查看职位 →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [查看职位 →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [查看职位 →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [查看职位 →](https://www.remotejobscan.com/?company=bybit) |
@@ -102,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
