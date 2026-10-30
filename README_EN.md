@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Senior Associate & Deputy MLRO, CBIE | On-site | [View →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
+| Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | Research Program Manager, Safety Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
 | Research Scientist, Life Sciences (Large Molecules, Process Development) | On-site | [View →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
 | Research Scientist, Life Sciences (Large Molecules, Antibody Design) | On-site | [View →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
@@ -40,8 +42,6 @@
 | Enterprise Account Executive - Semiconductors | On-site | [View →](https://www.remotejobscan.com/job/19055/enterprise-account-executive-semiconductors/) |
 | Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
-| Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
-| Customer Success Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

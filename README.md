@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规高级专员及副MLRO，CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
+| 现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 | 安全测量研究项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19068/research-program-manager-safety-measurement/) |
 | 生命科学研究员（大分子，工艺开发） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19067/research-scientist-life-sciences-large-molecules-process-development/) |
 | 生命科学研究员（大分子，抗体设计） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19066/research-scientist-life-sciences-large-molecules-antibody-design/) |
@@ -41,8 +43,6 @@
 | 半导体企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19055/enterprise-account-executive-semiconductors/) |
 | 招聘协调员（合同工） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19054/customer-support-specialist-ii/) |
-| 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
-| 客户成功主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19053/customer-success-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
