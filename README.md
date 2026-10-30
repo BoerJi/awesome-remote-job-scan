@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3229</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Derivatives Trading Expert 衍生品交易专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | 合规与反洗钱报告官负责人 - 尼日利亚 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
 | 服务设计师，智能与调查 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
 | 移动工程师（安卓） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
@@ -42,7 +43,6 @@
 | 高级软件工程师，数据工程平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19056/senior-software-engineer-data-engineering-platform/) |
 | 数据中心安全工程师（高级/职员） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19058/staff-senior-data-center-security-engineer/) |
 | 商业招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19057/business-recruiter/) |
-| 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18715/business-recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-30 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

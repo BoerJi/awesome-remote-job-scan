@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3229</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivatives Trading Expert 衍生品交易专家 | Remote | [View →](https://www.remotejobscan.com/job/12987/derivatives-trading-expert/) |
 | Head of Compliance & MLRO - Nigeria | Remote | [View →](https://www.remotejobscan.com/job/19073/head-of-compliance-mlro-nigeria/) |
 | Service Designer, Intelligence & Investigations | Hybrid | [View →](https://www.remotejobscan.com/job/19072/service-designer-intelligence-investigations/) |
 | Software Engineer, Mobile (Android) | On-site | [View →](https://www.remotejobscan.com/job/18864/software-engineer-mobile-android/) |
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
