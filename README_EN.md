@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3112</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3097</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -28,7 +28,6 @@
 | Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
 | Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
 | Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
-| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
 | Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
 | Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
 | Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
@@ -42,6 +41,7 @@
 | Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
 | Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
 | Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| Data Analyst | Remote | [View →](https://www.remotejobscan.com/job/7893/data-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-30 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
