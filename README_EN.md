@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3097</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
+| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | HR Manager | On-site | [View →](https://www.remotejobscan.com/job/17789/hr-manager/) |
@@ -38,9 +39,6 @@
 | Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
 | Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
-| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
-| Staff Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

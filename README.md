@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3095</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3097</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19143/customer-support-specialist-ii/) |
+| 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
 | 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 | 海外运营经理（点对点） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
@@ -39,9 +42,6 @@
 | 高级客服专员（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | 高级客服代理（法语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
 | 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
-| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
-| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
-| 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
