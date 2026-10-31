@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3090</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Team Lead, Customer Service | On-site | [View →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
+| Specialist, Customer Due Diligence Operations - KYB | On-site | [View →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
+| Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
+| Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
+| Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
+| Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
+| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | Staff Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 | Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
@@ -32,17 +41,6 @@
 | Member of Technical Staff (Software Engineer, Training Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
 | Member of Technical Staff (Software Engineer, API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
 | Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
-| Manager, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/19138/manager-controls-and-governance/) |
-| Procurement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19139/procurement-lead/) |
-| Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/19136/staff-software-engineer-backend/) |
-| Field Engineer, Data Center Design and Engineering | Remote | [View →](https://www.remotejobscan.com/job/18998/field-engineer-data-center-design-and-engineering/) |
-| Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer/) |
-| IT Engineer | On-site | [View →](https://www.remotejobscan.com/job/19137/it-engineer/) |
-| Senior Counsel, AI Product | Hybrid | [View →](https://www.remotejobscan.com/job/19134/senior-counsel-ai-product/) |
-| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
-| Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| Manufacturing Quality Engineer, Data Center Equipment | Hybrid | [View →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
-| Director, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

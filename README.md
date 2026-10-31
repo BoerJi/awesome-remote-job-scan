@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3098</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3090</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户服务团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
+| 法律响应专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
+| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
+| KYB客户尽职调查运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
+| 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
+| 高级客服专员（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
+| 高级客服代理（法语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
+| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
+| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 | 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | 工程经理（代理引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
@@ -32,17 +42,6 @@
 | 技术团队成员（软件工程师，培训基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
 | 技术团队成员（软件工程师，API平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
 | 技术专家（加速软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
-| 控制与治理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19138/manager-controls-and-governance/) |
-| 采购主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19139/procurement-lead/) |
-| Staff+ 软件工程师，后端 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19136/staff-software-engineer-backend/) |
-| 数据中心设计与工程现场工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18998/field-engineer-data-center-design-and-engineering/) |
-| 数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19135/data-engineer/) |
-| IT工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19137/it-engineer/) |
-| AI产品高级律师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19134/senior-counsel-ai-product/) |
-| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
-| 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| 数据中心设备制造质量工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
-| 订单到账保证总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
