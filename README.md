@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3098</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3100</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 消费级技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17773/staff-technical-program-manager-consumer/) |
+| 高级身份风险与诈骗分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 | 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | 工程经理（代理引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
@@ -41,8 +43,6 @@
 | AI产品高级律师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19134/senior-counsel-ai-product/) |
 | 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
 | 商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
-| 数据中心设备制造质量工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
-| 订单到账保证总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
