@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3098</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/19136/staff-software-engineer-backend/) |
+| Field Engineer, Data Center Design and Engineering | Remote | [View →](https://www.remotejobscan.com/job/18998/field-engineer-data-center-design-and-engineering/) |
+| Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer/) |
+| IT Engineer | On-site | [View →](https://www.remotejobscan.com/job/19137/it-engineer/) |
+| Senior Counsel, AI Product | Hybrid | [View →](https://www.remotejobscan.com/job/19134/senior-counsel-ai-product/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Manufacturing Quality Engineer, Data Center Equipment | Hybrid | [View →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
 | Director, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
@@ -37,9 +43,6 @@
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19126/customer-support-specialist-ii/) |
 | Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19127/business-development-representative-startups/) |
-| Engineering Manager, Integrity and Attestation | On-site | [View →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
-| Senior Software Engineer, Tax Engineering | Remote | [View →](https://www.remotejobscan.com/job/19122/senior-software-engineer-tax-engineering/) |
-| Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/17691/field-marketing-community-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
