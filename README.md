@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 | 海外运营经理（点对点） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | 人力资源经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17789/hr-manager/) |
 | 业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
@@ -41,7 +42,6 @@
 | 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 | 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
-| 工程经理（代理引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

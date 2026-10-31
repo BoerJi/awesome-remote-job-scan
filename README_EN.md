@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | HR Manager | On-site | [View →](https://www.remotejobscan.com/job/17789/hr-manager/) |
 | Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
@@ -40,7 +41,6 @@
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | Staff Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 | Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
-| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
