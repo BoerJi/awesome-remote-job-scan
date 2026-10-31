@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3095</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 | Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
 | HR Manager | On-site | [View →](https://www.remotejobscan.com/job/17789/hr-manager/) |
@@ -40,7 +41,6 @@
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/14714/senior-compliance-analyst/) |
 | Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18960/compliance-analyst/) |
 | Staff Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
-| Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
