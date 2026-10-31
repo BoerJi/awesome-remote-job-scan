@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3103</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3102</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/19140/staff-analytics-engineer/) |
 | Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 | Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
@@ -42,7 +43,6 @@
 | Counsel, Commercial | Remote | [View →](https://www.remotejobscan.com/job/9203/counsel-commercial/) |
 | Manufacturing Quality Engineer, Data Center Equipment | Hybrid | [View →](https://www.remotejobscan.com/job/19133/manufacturing-quality-engineer-data-center-equipment/) |
 | Director, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
-| Manager, Tax Information Reporting and Withholding Advisory | Remote | [View →](https://www.remotejobscan.com/job/19132/manager-tax-information-reporting-and-withholding-advisory/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
