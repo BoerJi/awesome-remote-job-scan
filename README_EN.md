@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3100</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3102</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
+| Member of Technical Staff (AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
+| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| Member of Technical Staff (Secure Intelligence Institute) | On-site | [View →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
+| Member of Technical Staff (Software Engineer, Training Infrastructure) | On-site | [View →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
+| Member of Technical Staff (Software Engineer, API Platform) | On-site | [View →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
+| Member of Technical Staff (Software Engineer, Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| Manager, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/19138/manager-controls-and-governance/) |
+| Procurement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19139/procurement-lead/) |
 | Staff+ Software Engineer, Backend | On-site | [View →](https://www.remotejobscan.com/job/19136/staff-software-engineer-backend/) |
 | Field Engineer, Data Center Design and Engineering | Remote | [View →](https://www.remotejobscan.com/job/18998/field-engineer-data-center-design-and-engineering/) |
 | Data Engineer | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer/) |
@@ -34,15 +43,6 @@
 | Director, Order-to-Cash Assurance | On-site | [View →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
 | Manager, Tax Information Reporting and Withholding Advisory | Remote | [View →](https://www.remotejobscan.com/job/19132/manager-tax-information-reporting-and-withholding-advisory/) |
 | Data Center OFE - Sourcing Lead, Data Center Power & Cooling | Remote | [View →](https://www.remotejobscan.com/job/14879/data-center-ofe-sourcing-lead-data-center-power-cooling/) |
-| Forward Deployed Engineer, Infrastructure Specialist (North America) | Hybrid | [View →](https://www.remotejobscan.com/job/19131/forward-deployed-engineer-infrastructure-specialist-north-america/) |
-| Sr. Field Marketing & Community Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
-| Event & Field Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
-| IP Paralegal | Hybrid | [View →](https://www.remotejobscan.com/job/19128/ip-paralegal/) |
-| Security Engineer, Cloud | Remote | [View →](https://www.remotejobscan.com/job/9778/security-engineer-cloud/) |
-| GRC Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19126/customer-support-specialist-ii/) |
-| Business Development Representative, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19127/business-development-representative-startups/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

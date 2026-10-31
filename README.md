@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3100</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3102</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 工程经理（代理引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
+| 技术专家（AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18762/member-of-technical-staff-ai-policy-and-strategic-initiatives/) |
+| 技术专家（AI软件工程师，智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| 安全智能研究所技术专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11419/member-of-technical-staff-secure-intelligence-institute/) |
+| 技术团队成员（软件工程师，培训基础设施） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18789/member-of-technical-staff-software-engineer-training-infrastructure/) |
+| 技术团队成员（软件工程师，API平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11206/member-of-technical-staff-software-engineer-api-platform/) |
+| 技术专家（加速软件工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11192/member-of-technical-staff-software-engineer-acceleration/) |
+| 控制与治理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19138/manager-controls-and-governance/) |
+| 采购主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19139/procurement-lead/) |
 | Staff+ 软件工程师，后端 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19136/staff-software-engineer-backend/) |
 | 数据中心设计与工程现场工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18998/field-engineer-data-center-design-and-engineering/) |
 | 数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19135/data-engineer/) |
@@ -34,15 +43,6 @@
 | 订单到账保证总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19044/director-order-to-cash-assurance/) |
 | 税务信息报告与预扣预缴咨询经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19132/manager-tax-information-reporting-and-withholding-advisory/) |
 | 数据中心OFE - 采购负责人，数据中心电源与冷却 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14879/data-center-ofe-sourcing-lead-data-center-power-cooling/) |
-| 北美基础设施专家，前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19131/forward-deployed-engineer-infrastructure-specialist-north-america/) |
-| EMEA高级现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
-| 活动与现场市场专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
-| 知识产权助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19128/ip-paralegal/) |
-| 云安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9778/security-engineer-cloud/) |
-| 治理、风险与合规分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9762/grc-analyst/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19126/customer-support-specialist-ii/) |
-| 初创企业业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19127/business-development-representative-startups/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
