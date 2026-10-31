@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Anthropic研究所沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19143/customer-support-specialist-ii/) |
 | 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
@@ -41,7 +42,6 @@
 | 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 | 高级客服专员（多语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | 高级客服代理（法语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| 高级客服代理（荷兰语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-10-31 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

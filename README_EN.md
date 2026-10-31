@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Communications Manager, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
 | Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
@@ -38,7 +39,6 @@
 | Senior Agent, Customer Service (Portuguese Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 | Senior Agent, Customer Service (Multi-Lingual) | On-site | [View →](https://www.remotejobscan.com/job/12034/senior-agent-customer-service-multi-lingual/) |
 | Senior Agent, Customer Service (French Speaker) | On-site | [View →](https://www.remotejobscan.com/job/8861/senior-agent-customer-service-french-speaker/) |
-| Senior Agent, Customer Service (Dutch Speaker) | On-site | [View →](https://www.remotejobscan.com/job/11304/senior-agent-customer-service-dutch-speaker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-10-31 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
