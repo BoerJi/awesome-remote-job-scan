@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -36,11 +36,6 @@
 | 中东地区联盟业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
 | CIS合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
 | 高级VIP客户关系经理，CIS | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
-| 客户服务团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17347/team-lead-customer-service/) |
-| 法律响应专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18865/specialist-legal-response/) |
-| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18279/specialist-legal-response/) |
-| KYB客户尽职调查运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8916/specialist-customer-due-diligence-operations-kyb/) |
-| 高级客服代理（葡萄牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11816/senior-agent-customer-service-portuguese-speaker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 11:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 12:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
