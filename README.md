@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3087</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3092</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（4 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
+| 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
+| 财务规划与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
+| 财务系统负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19152/finance-systems-lead/) |
+| 股权管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19151/equity-administrator/) |
 | 控制与治理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19147/controls-and-governance-manager/) |
 | DACH区域客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
@@ -89,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

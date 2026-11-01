@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3087</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3092</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
+| Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
+| FP&A Lead | Remote | [View →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
+| Finance Systems Lead | Remote | [View →](https://www.remotejobscan.com/job/19152/finance-systems-lead/) |
+| Equity Administrator | Remote | [View →](https://www.remotejobscan.com/job/19151/equity-administrator/) |
 | Controls and Governance Manager | On-site | [View →](https://www.remotejobscan.com/job/19147/controls-and-governance-manager/) |
 | Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
 | Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
@@ -89,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
