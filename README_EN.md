@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -27,8 +27,6 @@
 | Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
 | Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
 | Communications Manager, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
-| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

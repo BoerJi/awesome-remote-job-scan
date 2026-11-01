@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（5 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -27,9 +27,6 @@
 | DACH区域客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
 | Anthropic研究所沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
-| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19143/customer-support-specialist-ii/) |
-| 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
