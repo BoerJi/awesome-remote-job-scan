@@ -14,22 +14,23 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3094</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 控制与治理经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19147/controls-and-governance-manager/) |
+| DACH区域客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
 | Anthropic研究所沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19143/customer-support-specialist-ii/) |
 | 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
-| 高级安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -93,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-01 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
