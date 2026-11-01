@@ -14,19 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（4 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Controls and Governance Manager | On-site | [View →](https://www.remotejobscan.com/job/19147/controls-and-governance-manager/) |
 | Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
 | Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
-| Communications Manager, The Anthropic Institute | On-site | [View →](https://www.remotejobscan.com/job/18665/communications-manager-the-anthropic-institute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
