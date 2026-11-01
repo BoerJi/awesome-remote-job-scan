@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -28,12 +28,6 @@
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19144/customer-support-specialist-ii/) |
 | Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | Senior Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/15457/senior-security-engineer/) |
-| Overseas Operations Manager (P2P) | Remote | [View →](https://www.remotejobscan.com/job/16765/overseas-operations-manager-p2p/) |
-| HR Manager | On-site | [View →](https://www.remotejobscan.com/job/17789/hr-manager/) |
-| Business Development Manager | On-site | [View →](https://www.remotejobscan.com/job/8858/business-development-manager/) |
-| Affiliate Business Development Manager - MENA | Remote | [View →](https://www.remotejobscan.com/job/7701/affiliate-business-development-manager-mena/) |
-| Affiliate Business Development Manager, CIS | Remote | [View →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
-| Senior VIP Relationship Manager, CIS | On-site | [View →](https://www.remotejobscan.com/job/6965/senior-vip-relationship-manager-cis/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +91,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-01 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
