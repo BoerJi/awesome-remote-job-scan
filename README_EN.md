@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3092</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（18 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer / Scientist, Pre-training | Remote | [View →](https://www.remotejobscan.com/job/19160/research-engineer-scientist-pre-training/) |
 | Fullstack Engineer - Payward Services - Custody | Remote | [View →](https://www.remotejobscan.com/job/19158/fullstack-engineer-payward-services-custody/) |
 | Technical Program Manager, AI Delivery (Dammam) | Hybrid | [View →](https://www.remotejobscan.com/job/19159/technical-program-manager-ai-delivery-dammam/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
