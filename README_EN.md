@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>48</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3109</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,30 +23,23 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19180/social-support-specialist-i/) |
+| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19179/customer-support-specialist-ll/) |
+| Director of Trading Business Operations - Broker, Custody & Lending | Remote | [View →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
+| Senior Broker Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
+| HR & Office Administrator | On-site | [View →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19173/customer-support-specialist-ii/) |
+| Manager, Enterprise Sales, DACH & CEE | On-site | [View →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
+| Senior Product Designer | Remote | [View →](https://www.remotejobscan.com/job/19175/senior-product-designer/) |
 | Lead Engineer, AI | Remote | [View →](https://www.remotejobscan.com/job/19094/lead-engineer-ai/) |
 | Product Marketing - Agents - Government | Remote | [View →](https://www.remotejobscan.com/job/19169/product-marketing-agents-government/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/19167/applied-ai-architect/) |
 | Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/19168/technical-deployment-lead/) |
-| AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
-| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| AI Outcomes Manager, Strategic Tech (Spanish-speaking) | On-site | [View →](https://www.remotejobscan.com/job/19163/ai-outcomes-manager-strategic-tech-spanish-speaking/) |
-| Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
-| Institution BD Manager （OC） | Remote | [View →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
-| Head of EEA Legal, Deputy General Counsel | Remote | [View →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
-| Full-Stack Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/19162/full-stack-engineer-ads-engine/) |
-| Research Engineer / Scientist, Pre-training | Remote | [View →](https://www.remotejobscan.com/job/19160/research-engineer-scientist-pre-training/) |
-| Fullstack Engineer - Payward Services - Custody | Remote | [View →](https://www.remotejobscan.com/job/19158/fullstack-engineer-payward-services-custody/) |
-| Technical Program Manager, AI Delivery (Dammam) | Hybrid | [View →](https://www.remotejobscan.com/job/19159/technical-program-manager-ai-delivery-dammam/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
-| Partnerships - Private Equity | On-site | [View →](https://www.remotejobscan.com/job/19157/partnerships-private-equity/) |
-| Controls Engineer: Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
-| Data Center Controls Engineer (BMS / EPMS) | On-site | [View →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（48 companies）
+## 🏢 Companies Tracked（49 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -94,6 +87,7 @@
 | <img src="images/solana-foundation.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Solana Foundation"> | <a href="https://solana.org/">Solana Foundation</a> | [View jobs →](https://www.remotejobscan.com/?company=solana-foundation) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
 | <img src="images/together-ai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Together AI"> | <a href="https://www.together.ai/">Together AI</a> | [View jobs →](https://www.remotejobscan.com/?company=together-ai) |
+| <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [View jobs →](https://www.remotejobscan.com/?company=tothemoon) |
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
@@ -104,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
