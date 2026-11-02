@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3123</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国公共部门负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10702/head-of-public-sector-united-states/) |
+| 数据中心资产管理，商业专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
+| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| 全球商业中心高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
+| 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
+| 财务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
+| 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
+| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
+| 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
+| 纽约办公运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19208/workplace-operations-new-york/) |
+| 客户服务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19207/head-of-customer-service/) |
 | 能源供应主管 - 电力供应和电力购买协议 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
 | 美国和加拿大天然气供应与运输主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
 | 能源专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
@@ -30,17 +41,6 @@
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19203/customer-support-specialist-ii/) |
 | 亚太区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
 | 欧洲、中东和非洲专业服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
-| 高级数据中心前期建设和产能交付经理，欧洲、中东、非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19197/senior-data-center-pre-construction-and-capacity-delivery-manager-emea/) |
-| AWS联盟负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19198/aws-alliances-lead/) |
-| 前端工程经理 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19195/engineering-manager-frontend-krak/) |
-| DACH & CEE企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
-| 全栈工程师（后端倾向）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
-| 全栈工程师 - 制作部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
-| 南欧B2B营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19192/southern-europe-b2b-marketing-manager/) |
-| 事件管理 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19191/incident-manager-detection-response/) |
-| 高级/资深工程师 - 区块链解析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19190/seniorstaff-engineer-blockchain-parsing/) |
-| 企业账户专员 - 欧洲中东地区（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
-| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

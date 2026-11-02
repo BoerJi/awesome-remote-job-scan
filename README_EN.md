@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,23 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Public Sector, United States | Remote | [View →](https://www.remotejobscan.com/job/10702/head-of-public-sector-united-states/) |
+| Data Center Asset Management, Commercial Associate | On-site | [View →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
+| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| Senior HR Business Partner, Global Commercial Center | On-site | [View →](https://www.remotejobscan.com/job/9072/senior-hr-business-partner-global-commercial-center/) |
+| Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
+| Head of Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
+| Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
+| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
+| Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
+| Workplace Operations - New York | On-site | [View →](https://www.remotejobscan.com/job/19208/workplace-operations-new-york/) |
+| Head of Customer Service | On-site | [View →](https://www.remotejobscan.com/job/19207/head-of-customer-service/) |
 | Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
 | Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
 | Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19202/customer-support-specialist-ii/) |
 | Regional Vice President, Sales APAC | Remote | [View →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
 | Director, EMEA Professional Services | On-site | [View →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
-| Senior Data Center Pre-Construction and Capacity Delivery Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19197/senior-data-center-pre-construction-and-capacity-delivery-manager-emea/) |
-| AWS Alliances Lead | On-site | [View →](https://www.remotejobscan.com/job/19198/aws-alliances-lead/) |
-| Engineering Manager - Frontend - Krak | Remote | [View →](https://www.remotejobscan.com/job/19195/engineering-manager-frontend-krak/) |
-| Manager, Enterprise Sales, DACH & CEE | On-site | [View →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
-| Full-Stack Engineer (Backend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
-| Full-Stack Engineer - Productions | Remote | [View →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
-| Southern Europe B2B Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19192/southern-europe-b2b-marketing-manager/) |
-| Incident Manager - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/19191/incident-manager-detection-response/) |
-| Senior/Staff Engineer - Blockchain Parsing | On-site | [View →](https://www.remotejobscan.com/job/19190/seniorstaff-engineer-blockchain-parsing/) |
-| Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
-| Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
