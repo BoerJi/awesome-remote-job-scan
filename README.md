@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DACH & CEE企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
+| 全栈工程师（后端倾向）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
 | 全栈工程师 - 制作部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
 | 南欧B2B营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19192/southern-europe-b2b-marketing-manager/) |
 | 事件管理 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19191/incident-manager-detection-response/) |
@@ -35,8 +37,6 @@
 | 高级经纪运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
 | 客户支持专员ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19176/customer-support-specialist-ll/) |
 | 人力资源及行政专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19173/customer-support-specialist-ii/) |
-| 客户支持专家 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19172/customer-support-specialist-ll/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

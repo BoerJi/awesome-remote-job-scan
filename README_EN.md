@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3120</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Enterprise Sales, DACH & CEE | On-site | [View →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
+| Full-Stack Engineer (Backend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
 | Full-Stack Engineer - Productions | Remote | [View →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
 | Southern Europe B2B Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19192/southern-europe-b2b-marketing-manager/) |
 | Incident Manager - Detection & Response | On-site | [View →](https://www.remotejobscan.com/job/19191/incident-manager-detection-response/) |
@@ -34,7 +36,6 @@
 | Director of Trading Business Operations - Broker, Custody & Lending | Remote | [View →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
 | Senior Broker Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
 | HR & Office Administrator | On-site | [View →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19173/customer-support-specialist-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
