@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19199/customer-support-specialist-ii/) |
+| Regional Vice President, Sales APAC | Remote | [View →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
+| Director, EMEA Professional Services | On-site | [View →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
+| Senior Data Center Pre-Construction and Capacity Delivery Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19197/senior-data-center-pre-construction-and-capacity-delivery-manager-emea/) |
+| AWS Alliances Lead | On-site | [View →](https://www.remotejobscan.com/job/19198/aws-alliances-lead/) |
 | Engineering Manager - Frontend - Krak | Remote | [View →](https://www.remotejobscan.com/job/19195/engineering-manager-frontend-krak/) |
 | Manager, Enterprise Sales, DACH & CEE | On-site | [View →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
 | Full-Stack Engineer (Backend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
@@ -34,9 +39,6 @@
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
 | Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19185/social-support-specialist-i/) |
 | Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19179/customer-support-specialist-ll/) |
-| Director of Trading Business Operations - Broker, Custody & Lending | Remote | [View →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
-| Senior Broker Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
-| HR & Office Administrator | On-site | [View →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

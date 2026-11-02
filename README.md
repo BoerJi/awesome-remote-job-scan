@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19199/customer-support-specialist-ii/) |
+| 亚太区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
+| 欧洲、中东和非洲专业服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
+| 高级数据中心前期建设和产能交付经理，欧洲、中东、非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19197/senior-data-center-pre-construction-and-capacity-delivery-manager-emea/) |
+| AWS联盟负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19198/aws-alliances-lead/) |
 | 前端工程经理 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19195/engineering-manager-frontend-krak/) |
 | DACH & CEE企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
 | 全栈工程师（后端倾向）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
@@ -34,10 +39,6 @@
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
 | 社会支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19185/social-support-specialist-i/) |
 | 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19179/customer-support-specialist-ll/) |
-| 交易业务运营总监 - 经纪、托管与借贷 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
-| 高级经纪运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
-| 客户支持专员ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19176/customer-support-specialist-ll/) |
-| 人力资源及行政专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
