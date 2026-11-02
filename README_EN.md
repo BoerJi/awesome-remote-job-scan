@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Manager, Tokenized Securities Venue (Americas) | Remote | [View →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
+| Senior Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/19221/senior-compliance-analyst/) |
+| Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
+| Staff + Software Security Engineer, Secure Frameworks | On-site | [View →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
+| Strategic Partner Lead, Creators & Culture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19223/strategic-partner-lead-creators-culture-emea/) |
+| Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/19224/technical-success/) |
 | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/19220/full-stack-engineer-backend-leaning-payments-engineering/) |
 | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/19219/full-stack-engineer-backend-leaning-platform-engineering/) |
 | Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
@@ -37,12 +43,6 @@
 | Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 | Sr. Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/19215/sr-field-marketing-community-manager/) |
 | Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
-| Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
-| Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
-| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
-| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

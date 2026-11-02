@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3127</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国证券化产品交易平台高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
+| 高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19221/senior-compliance-analyst/) |
+| 社区经理，体验式营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
+| 高级软件安全工程师，安全框架 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17690/staff-software-security-engineer-secure-frameworks/) |
+| 战略合作伙伴负责人，创作者与文化，欧洲、中东、非洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19223/strategic-partner-lead-creators-culture-emea/) |
+| 技术成功 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19224/technical-success/) |
 | 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19220/full-stack-engineer-backend-leaning-payments-engineering/) |
 | 全栈工程师（偏后端）- 平台工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19219/full-stack-engineer-backend-leaning-platform-engineering/) |
 | 招聘协调员（合同工） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
@@ -37,12 +43,6 @@
 | 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
 | 高级现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19215/sr-field-marketing-community-manager/) |
 | 能源供应主管 - 电力供应和电力购买协议 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
-| 美国和加拿大天然气供应与运输主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
-| 能源特别项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
-| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| 高级欺诈风险管理师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
-| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
-| 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
