@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
+| Institution BD Manager （OC） | Remote | [View →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
 | Head of EEA Legal, Deputy General Counsel | Remote | [View →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
 | Full-Stack Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/19162/full-stack-engineer-ads-engine/) |
 | Research Engineer / Scientist, Pre-training | Remote | [View →](https://www.remotejobscan.com/job/19160/research-engineer-scientist-pre-training/) |
@@ -41,7 +43,6 @@
 | Equity Administrator | Remote | [View →](https://www.remotejobscan.com/job/19151/equity-administrator/) |
 | Controls and Governance Manager | On-site | [View →](https://www.remotejobscan.com/job/19147/controls-and-governance-manager/) |
 | Account Manager - DACH | Remote | [View →](https://www.remotejobscan.com/job/19148/account-manager-dach/) |
-| Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19145/chief-of-staff/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
