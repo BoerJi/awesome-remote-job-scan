@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3109</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3120</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 社会支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19180/social-support-specialist-i/) |
+| 全栈工程师 - 制作部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
+| 南欧B2B营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19192/southern-europe-b2b-marketing-manager/) |
+| 事件管理 - 检测与响应 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19191/incident-manager-detection-response/) |
+| 高级/资深工程师 - 区块链解析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19190/seniorstaff-engineer-blockchain-parsing/) |
+| 企业账户专员 - 欧洲中东地区（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
+| 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
+| 社会支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19185/social-support-specialist-i/) |
 | 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19179/customer-support-specialist-ll/) |
 | 交易业务运营总监 - 经纪、托管与借贷 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
 | 高级经纪运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
@@ -31,13 +37,6 @@
 | 人力资源及行政专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19173/customer-support-specialist-ii/) |
 | 客户支持专家 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19172/customer-support-specialist-ll/) |
-| DACH与CEE企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
-| 高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19175/senior-product-designer/) |
-| AI首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19094/lead-engineer-ai/) |
-| 产品营销 - 代理 - 政府 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19169/product-marketing-agents-government/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19167/applied-ai-architect/) |
-| 技术部署负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19168/technical-deployment-lead/) |
-| 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19166/technical-deployment-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
