@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3125</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3123</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19199/customer-support-specialist-ii/) |
+| 能源供应主管 - 电力供应和电力购买协议 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
+| 美国和加拿大天然气供应与运输主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
+| 能源专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
+| 客户支持专家 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19202/customer-support-specialist-ii/) |
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19203/customer-support-specialist-ii/) |
 | 亚太区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
 | 欧洲、中东和非洲专业服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
 | 高级数据中心前期建设和产能交付经理，欧洲、中东、非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19197/senior-data-center-pre-construction-and-capacity-delivery-manager-emea/) |
@@ -37,8 +41,6 @@
 | 高级/资深工程师 - 区块链解析 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19190/seniorstaff-engineer-blockchain-parsing/) |
 | 企业账户专员 - 欧洲中东地区（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
 | 移动工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
-| 社会支持专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19185/social-support-specialist-i/) |
-| 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19179/customer-support-specialist-ll/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

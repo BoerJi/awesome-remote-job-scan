@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3125</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19199/customer-support-specialist-ii/) |
+| Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
+| Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
+| Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19202/customer-support-specialist-ii/) |
 | Regional Vice President, Sales APAC | Remote | [View →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
 | Director, EMEA Professional Services | On-site | [View →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
 | Senior Data Center Pre-Construction and Capacity Delivery Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19197/senior-data-center-pre-construction-and-capacity-delivery-manager-emea/) |
@@ -37,8 +40,6 @@
 | Senior/Staff Engineer - Blockchain Parsing | On-site | [View →](https://www.remotejobscan.com/job/19190/seniorstaff-engineer-blockchain-parsing/) |
 | Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/15105/enterprise-account-associate-emea-german-speaking/) |
 | Mobile Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/19189/mobile-engineer-elevenmusic/) |
-| Social Support Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19185/social-support-specialist-i/) |
-| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19179/customer-support-specialist-ll/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
