@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
+  📊 <strong>48</strong> companies · <strong>3094</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead Engineer, AI | Remote | [View →](https://www.remotejobscan.com/job/19094/lead-engineer-ai/) |
+| Product Marketing - Agents - Government | Remote | [View →](https://www.remotejobscan.com/job/19169/product-marketing-agents-government/) |
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/19167/applied-ai-architect/) |
+| Technical Deployment Lead | On-site | [View →](https://www.remotejobscan.com/job/19168/technical-deployment-lead/) |
+| AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| HR & Office Administrator | On-site | [View →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 | AI Outcomes Manager, Strategic Tech (Spanish-speaking) | On-site | [View →](https://www.remotejobscan.com/job/19163/ai-outcomes-manager-strategic-tech-spanish-speaking/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | Institution BD Manager （OC） | Remote | [View →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
@@ -38,16 +42,11 @@
 | Partnerships - Private Equity | On-site | [View →](https://www.remotejobscan.com/job/19157/partnerships-private-equity/) |
 | Controls Engineer: Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
 | Data Center Controls Engineer (BMS / EPMS) | On-site | [View →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
-| White Space Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19154/white-space-manager/) |
-| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
-| Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
-| FP&A Lead | Remote | [View →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
-| Finance Systems Lead | Remote | [View →](https://www.remotejobscan.com/job/19152/finance-systems-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（49 companies）
+## 🏢 Companies Tracked（48 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -95,7 +94,6 @@
 | <img src="images/solana-foundation.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Solana Foundation"> | <a href="https://solana.org/">Solana Foundation</a> | [View jobs →](https://www.remotejobscan.com/?company=solana-foundation) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [View jobs →](https://www.remotejobscan.com/?company=sui) |
 | <img src="images/together-ai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Together AI"> | <a href="https://www.together.ai/">Together AI</a> | [View jobs →](https://www.remotejobscan.com/?company=together-ai) |
-| <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [View jobs →](https://www.remotejobscan.com/?company=tothemoon) |
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [View jobs →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [View jobs →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [View jobs →](https://www.remotejobscan.com/?company=united-stables) |
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

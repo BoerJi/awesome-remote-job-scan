@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3091</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>48</strong> 家公司 · <strong>3094</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19094/lead-engineer-ai/) |
+| 产品营销 - 代理 - 政府 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19169/product-marketing-agents-government/) |
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19167/applied-ai-architect/) |
+| 技术部署负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19168/technical-deployment-lead/) |
+| 技术部署主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19166/technical-deployment-lead/) |
+| AI Platform Product Lead AI中台产品负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | 法务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| 人力资源及行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 | AI成果经理，战略技术（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19163/ai-outcomes-manager-strategic-tech-spanish-speaking/) |
 | 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
 | 机构业务发展经理（OC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17325/institution-bd-manager-oc/) |
@@ -38,16 +43,11 @@
 | 合作伙伴 - 私募股权 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19157/partnerships-private-equity/) |
 | 控制系统工程师：发电 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
 | 数据中心控制工程师（BMS / EPMS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
-| 白空间经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19154/white-space-manager/) |
-| 高级会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
-| 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
-| 财务规划与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
-| 财务系统负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19152/finance-systems-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（49 家）
+## 🏢 已收录公司（48 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -95,7 +95,6 @@
 | <img src="images/solana-foundation.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Solana Foundation"> | <a href="https://solana.org/">Solana Foundation</a> | [查看职位 →](https://www.remotejobscan.com/?company=solana-foundation) |
 | <img src="images/sui.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Sui"> | <a href="https://www.sui.io">Sui</a> | [查看职位 →](https://www.remotejobscan.com/?company=sui) |
 | <img src="images/together-ai.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Together AI"> | <a href="https://www.together.ai/">Together AI</a> | [查看职位 →](https://www.remotejobscan.com/?company=together-ai) |
-| <img src="images/tothemoon.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Tothemoon"> | <a href="https://tothemoon.com/">Tothemoon</a> | [查看职位 →](https://www.remotejobscan.com/?company=tothemoon) |
 | <img src="images/tron.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="TRON"> | <a href="https://tron.network">TRON</a> | [查看职位 →](https://www.remotejobscan.com/?company=tron) |
 | <img src="images/trust-wallet.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Trust Wallet"> | <a href="https://trustwallet.com">Trust Wallet</a> | [查看职位 →](https://www.remotejobscan.com/?company=trust-wallet) |
 | <img src="images/united-stables.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="United Stables"> | <a href="https://u.tech">United Stables</a> | [查看职位 →](https://www.remotejobscan.com/?company=united-stables) |
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
