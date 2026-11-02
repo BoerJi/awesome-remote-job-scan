@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3089</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3091</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（17 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈工程师 - Payward Services - 保管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19158/fullstack-engineer-payward-services-custody/) |
+| AI交付技术项目经理（达曼） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19159/technical-program-manager-ai-delivery-dammam/) |
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| KOL业务发展（BD） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 | 合作伙伴 - 私募股权 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19157/partnerships-private-equity/) |
 | 控制系统工程师：发电 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
 | 数据中心控制工程师（BMS / EPMS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
@@ -98,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

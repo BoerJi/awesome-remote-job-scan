@@ -14,15 +14,19 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（17 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Fullstack Engineer - Payward Services - Custody | Remote | [View →](https://www.remotejobscan.com/job/19158/fullstack-engineer-payward-services-custody/) |
+| Technical Program Manager, AI Delivery (Dammam) | Hybrid | [View →](https://www.remotejobscan.com/job/19159/technical-program-manager-ai-delivery-dammam/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| KOL Business Development (BD) | Remote | [View →](https://www.remotejobscan.com/job/8318/kol-business-development-bd/) |
 | Partnerships - Private Equity | On-site | [View →](https://www.remotejobscan.com/job/19157/partnerships-private-equity/) |
 | Controls Engineer: Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
 | Data Center Controls Engineer (BMS / EPMS) | On-site | [View →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
@@ -98,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
