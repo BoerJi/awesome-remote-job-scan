@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3122</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前端工程经理 - Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19195/engineering-manager-frontend-krak/) |
 | DACH & CEE企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
 | 全栈工程师（后端倾向）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
 | 全栈工程师 - 制作部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

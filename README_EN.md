@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager - Frontend - Krak | Remote | [View →](https://www.remotejobscan.com/job/19195/engineering-manager-frontend-krak/) |
 | Manager, Enterprise Sales, DACH & CEE | On-site | [View →](https://www.remotejobscan.com/job/19174/manager-enterprise-sales-dach-cee/) |
 | Full-Stack Engineer (Backend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19194/full-stack-engineer-backend-leaning-studio/) |
 | Full-Stack Engineer - Productions | Remote | [View →](https://www.remotejobscan.com/job/19193/full-stack-engineer-productions/) |
@@ -99,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
