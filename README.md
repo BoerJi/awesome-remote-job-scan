@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 创意、实验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19228/creative-experiments/) |
+| 应用AI网络安全专家经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18499/manager-applied-ai-cyber-specialists/) |
+| 高级欺诈运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19226/senior-associate-fraud-operations/) |
+| 巴西增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19227/growth-lead-brazil/) |
+| 高级软件工程师 - Rust - 后端 - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
+| 高级安全运维工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19225/senior-security-operations-engineer/) |
+| 高级软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17842/senior-software-engineer-rust-consumer/) |
 | 美国证券化产品交易平台高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
 | 高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19221/senior-compliance-analyst/) |
 | 社区经理，体验式营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
@@ -36,13 +43,6 @@
 | 高级数据科学家，产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
 | 绩效与人才项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
 | 销售与合作伙伴关系 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19217/sales-and-partnerships/) |
-| 北美部署策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19216/deployment-strategist-north-america/) |
-| 支持工程师I（FC，周末班） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19213/support-engineer-i-fc-weekend-shift/) |
-| 支持工程师I (纽约，周末班) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19214/support-engineer-i-nyc-weekend-shift/) |
-| 活动与现场营销专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
-| 衍生品销售分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
-| 高级现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19215/sr-field-marketing-community-manager/) |
-| 能源供应主管 - 电力供应和电力购买协议 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

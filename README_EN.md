@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Creative, Experiments | Remote | [View →](https://www.remotejobscan.com/job/19228/creative-experiments/) |
+| Manager, Applied AI Cyber Specialists | On-site | [View →](https://www.remotejobscan.com/job/18499/manager-applied-ai-cyber-specialists/) |
+| Senior Associate, Fraud Operations | Remote | [View →](https://www.remotejobscan.com/job/19226/senior-associate-fraud-operations/) |
+| Growth Lead, Brazil | Hybrid | [View →](https://www.remotejobscan.com/job/19227/growth-lead-brazil/) |
+| Senior Software Engineer - Rust - Backend - Pro | Remote | [View →](https://www.remotejobscan.com/job/15006/senior-software-engineer-rust-backend-pro/) |
+| Senior Security Operations Engineer | On-site | [View →](https://www.remotejobscan.com/job/19225/senior-security-operations-engineer/) |
+| Senior Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/17842/senior-software-engineer-rust-consumer/) |
 | Senior Compliance Manager, Tokenized Securities Venue (Americas) | Remote | [View →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
 | Senior Compliance Analyst | Remote | [View →](https://www.remotejobscan.com/job/19221/senior-compliance-analyst/) |
 | Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
@@ -36,13 +43,6 @@
 | Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
 | Performance & Talent Programs Manager | On-site | [View →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
 | Sales and Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19217/sales-and-partnerships/) |
-| Deployment Strategist - North America | Remote | [View →](https://www.remotejobscan.com/job/19216/deployment-strategist-north-america/) |
-| Support Engineer I (FC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/19213/support-engineer-i-fc-weekend-shift/) |
-| Support Engineer I (NYC, Weekend Shift) | Hybrid | [View →](https://www.remotejobscan.com/job/19214/support-engineer-i-nyc-weekend-shift/) |
-| Event & Field Marketing Specialist | On-site | [View →](https://www.remotejobscan.com/job/19129/event-field-marketing-specialist/) |
-| Derivative Sales Analyst | Remote | [View →](https://www.remotejobscan.com/job/16137/derivative-sales-analyst/) |
-| Sr. Field Marketing & Community Manager | On-site | [View →](https://www.remotejobscan.com/job/19215/sr-field-marketing-community-manager/) |
-| Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
