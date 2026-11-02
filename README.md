@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3093</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| EEA法务主管，副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
+| 全栈工程师 - 广告引擎 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19162/full-stack-engineer-ads-engine/) |
 | 研究工程师 / 科学家，预训练 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19160/research-engineer-scientist-pre-training/) |
 | 全栈工程师 - Payward Services - 保管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19158/fullstack-engineer-payward-services-custody/) |
 | AI交付技术项目经理（达曼） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19159/technical-program-manager-ai-delivery-dammam/) |
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

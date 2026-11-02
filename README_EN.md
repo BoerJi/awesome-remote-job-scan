@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3092</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3093</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Head of EEA Legal, Deputy General Counsel | Remote | [View →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
+| Full-Stack Engineer - Ads Engine | Remote | [View →](https://www.remotejobscan.com/job/19162/full-stack-engineer-ads-engine/) |
 | Research Engineer / Scientist, Pre-training | Remote | [View →](https://www.remotejobscan.com/job/19160/research-engineer-scientist-pre-training/) |
 | Fullstack Engineer - Payward Services - Custody | Remote | [View →](https://www.remotejobscan.com/job/19158/fullstack-engineer-payward-services-custody/) |
 | Technical Program Manager, AI Delivery (Dammam) | Hybrid | [View →](https://www.remotejobscan.com/job/19159/technical-program-manager-ai-delivery-dammam/) |
@@ -103,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
