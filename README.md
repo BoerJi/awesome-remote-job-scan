@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3090</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3091</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 白空间经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19154/white-space-manager/) |
 | 高级会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
 | 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
 | 财务规划与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
@@ -94,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
