@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3092</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3091</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | 人力资源及行政助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 | AI成果经理，战略技术（西班牙语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19163/ai-outcomes-manager-strategic-tech-spanish-speaking/) |
 | 实时数仓工程师 出海 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
@@ -42,7 +43,6 @@
 | 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
 | 财务规划与分析主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
 | 财务系统负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19152/finance-systems-lead/) |
-| 股权管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19151/equity-administrator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

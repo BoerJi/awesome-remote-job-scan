@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3092</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3091</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | HR & Office Administrator | On-site | [View →](https://www.remotejobscan.com/job/19164/hr-office-administrator/) |
 | AI Outcomes Manager, Strategic Tech (Spanish-speaking) | On-site | [View →](https://www.remotejobscan.com/job/19163/ai-outcomes-manager-strategic-tech-spanish-speaking/) |
 | Real-time DWH Engineer | Remote | [View →](https://www.remotejobscan.com/job/16060/real-time-dwh-engineer/) |
@@ -42,7 +43,6 @@
 | Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
 | FP&A Lead | Remote | [View →](https://www.remotejobscan.com/job/19150/fpa-lead/) |
 | Finance Systems Lead | Remote | [View →](https://www.remotejobscan.com/job/19152/finance-systems-lead/) |
-| Equity Administrator | Remote | [View →](https://www.remotejobscan.com/job/19151/equity-administrator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
