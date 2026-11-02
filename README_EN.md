@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3126</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/19220/full-stack-engineer-backend-leaning-payments-engineering/) |
+| Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/19219/full-stack-engineer-backend-leaning-platform-engineering/) |
+| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
+| Account Director, Startups | New Business | Hybrid | [View →](https://www.remotejobscan.com/job/19218/account-director-startups-new-business/) |
+| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
 | Performance & Talent Programs Manager | On-site | [View →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
 | Sales and Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19217/sales-and-partnerships/) |
 | Deployment Strategist - North America | Remote | [View →](https://www.remotejobscan.com/job/19216/deployment-strategist-north-america/) |
@@ -38,10 +43,6 @@
 | Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
 | Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
 | Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
-| Director, Lifecycle Marketing | On-site | [View →](https://www.remotejobscan.com/job/8341/director-lifecycle-marketing/) |
-| Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
-| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
-| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
