@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3119</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3118</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| 高级欺诈风险管理师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
+| 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
+| 营销合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
+| 市场合规主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17753/head-of-marketing-compliance/) |
+| 生命周期营销总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8341/director-lifecycle-marketing/) |
+| 合规分析师，市场监控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
+| 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
+| 合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
+| 合规经理，萨尔瓦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
+| 区域研究经济学家，经济研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19210/regional-research-economist-economic-research/) |
+| 高级风险分析师，支付风险运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19211/senior-risk-analyst-payments-risk-operations/) |
 | 美国公共部门负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10702/head-of-public-sector-united-states/) |
 | 数据中心资产管理，商业专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
 | 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
@@ -30,17 +42,6 @@
 | 高级人力资源业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
 | 财务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
 | 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
-| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
-| 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
-| 纽约办公运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19208/workplace-operations-new-york/) |
-| 客户服务主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19207/head-of-customer-service/) |
-| 能源供应主管 - 电力供应和电力购买协议 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
-| 美国和加拿大天然气供应与运输主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
-| 能源专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
-| 客户支持专家 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19202/customer-support-specialist-ii/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19203/customer-support-specialist-ii/) |
-| 亚太区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
-| 欧洲、中东和非洲专业服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

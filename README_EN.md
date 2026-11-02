@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3119</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3118</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| Senior Fraud Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/17378/senior-fraud-risk-manager/) |
+| Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16324/senior-compliance-analyst/) |
+| Head of Marketing Compliance | Remote | [View →](https://www.remotejobscan.com/job/17752/head-of-marketing-compliance/) |
+| Director, Lifecycle Marketing | On-site | [View →](https://www.remotejobscan.com/job/8341/director-lifecycle-marketing/) |
+| Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
+| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/16418/compliance-analyst-financial-crime-compliance-qa/) |
+| Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/18569/compliance-analyst/) |
+| Compliance Manager, El Salvador | Remote | [View →](https://www.remotejobscan.com/job/11605/compliance-manager-el-salvador/) |
+| Regional Research Economist, Economic Research | On-site | [View →](https://www.remotejobscan.com/job/19210/regional-research-economist-economic-research/) |
+| Senior Risk Analyst, Payments Risk Operations | Remote | [View →](https://www.remotejobscan.com/job/19211/senior-risk-analyst-payments-risk-operations/) |
 | Head of Public Sector, United States | Remote | [View →](https://www.remotejobscan.com/job/10702/head-of-public-sector-united-states/) |
 | Data Center Asset Management, Commercial Associate | On-site | [View →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
@@ -30,16 +41,6 @@
 | Senior HR Business Partner | On-site | [View →](https://www.remotejobscan.com/job/16839/senior-hr-business-partner/) |
 | Head of Finance Operations | On-site | [View →](https://www.remotejobscan.com/job/16363/head-of-finance-operations/) |
 | Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
-| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18847/senior-visual-designer/) |
-| Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
-| Workplace Operations - New York | On-site | [View →](https://www.remotejobscan.com/job/19208/workplace-operations-new-york/) |
-| Head of Customer Service | On-site | [View →](https://www.remotejobscan.com/job/19207/head-of-customer-service/) |
-| Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
-| Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
-| Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19202/customer-support-specialist-ii/) |
-| Regional Vice President, Sales APAC | Remote | [View →](https://www.remotejobscan.com/job/19201/regional-vice-president-sales-apac/) |
-| Director, EMEA Professional Services | On-site | [View →](https://www.remotejobscan.com/job/19200/director-emea-professional-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
