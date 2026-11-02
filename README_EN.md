@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3089</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3090</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Controls Engineer: Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
+| Data Center Controls Engineer (BMS / EPMS) | On-site | [View →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
 | White Space Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19154/white-space-manager/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
 | Revenue Accountant | Remote | [View →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
@@ -95,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

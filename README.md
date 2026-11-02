@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3089</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3090</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（10 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 控制系统工程师：发电 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19156/controls-engineer-power-generation/) |
+| 数据中心控制工程师（BMS / EPMS） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19155/data-center-controls-engineer-bms-epms/) |
 | 白空间经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19154/white-space-manager/) |
 | 高级会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19149/senior-accountant/) |
 | 收入会计 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19153/revenue-accountant/) |
@@ -95,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-02 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
