@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3128</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Trademark Counsel | Hybrid | [View →](https://www.remotejobscan.com/job/19232/trademark-counsel/) |
+| Senior Backend Software Engineer, AI Observability & Evals Platform (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19233/senior-backend-software-engineer-ai-observability-evals-platform-nyc/) |
+| Head of Data Science, Strategic Finance | On-site | [View →](https://www.remotejobscan.com/job/19229/head-of-data-science-strategic-finance/) |
+| Account Manager - Mid-Market | On-site | [View →](https://www.remotejobscan.com/job/19231/account-manager-mid-market/) |
+| Account Manager - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19230/account-manager-enterprise/) |
 | Creative, Experiments | Remote | [View →](https://www.remotejobscan.com/job/19228/creative-experiments/) |
 | Manager, Applied AI Cyber Specialists | On-site | [View →](https://www.remotejobscan.com/job/18499/manager-applied-ai-cyber-specialists/) |
 | Senior Associate, Fraud Operations | Remote | [View →](https://www.remotejobscan.com/job/19226/senior-associate-fraud-operations/) |
@@ -38,11 +43,6 @@
 | Technical Success | Hybrid | [View →](https://www.remotejobscan.com/job/19224/technical-success/) |
 | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/19220/full-stack-engineer-backend-leaning-payments-engineering/) |
 | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/19219/full-stack-engineer-backend-leaning-platform-engineering/) |
-| Recruiting Coordinator (Contract) | Hybrid | [View →](https://www.remotejobscan.com/job/17678/recruiting-coordinator-contract/) |
-| Account Director, Startups | New Business | Hybrid | [View →](https://www.remotejobscan.com/job/19218/account-director-startups-new-business/) |
-| Senior Data Scientist, Product | Remote | [View →](https://www.remotejobscan.com/job/18928/senior-data-scientist-product/) |
-| Performance & Talent Programs Manager | On-site | [View →](https://www.remotejobscan.com/job/19061/performance-talent-programs-manager/) |
-| Sales and Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19217/sales-and-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-02 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
