@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3135</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Transformation Leads Regional Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19286/transformation-leads-regional-manager/) |
+| Contracts Manager, GTM | On-site | [View →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
 | Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
 | People Services Partner, Compliance | On-site | [View →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
 | AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/19285/ai-partner-director/) |
@@ -40,7 +42,6 @@
 | Communications Manager, Claude Developer Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-developer-platform/) |
 | Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 | Senior Video Creative, Performance - Kraken Consumer | Remote | [View →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
-| People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

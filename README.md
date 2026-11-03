@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3135</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 转型引领区域经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19286/transformation-leads-regional-manager/) |
+| GTM合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
 | ANZ大企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
 | 合规人事服务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
 | AI合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19285/ai-partner-director/) |
@@ -40,8 +42,6 @@
 | Claude开发者平台沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18754/communications-manager-claude-developer-platform/) |
 | 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 | 高级视频创意，绩效 - Kraken Consumer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
-| 高级视频创意，性能 - Kraken Consumer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19272/senior-video-creative-performance-kraken-consumer/) |
-| GTM业务伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
