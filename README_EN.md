@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Partner Engineering & Product | On-site | [View →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
+| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
+| Senior Compliance Associate, KYC | Remote | [View →](https://www.remotejobscan.com/job/19267/senior-compliance-associate-kyc/) |
+| Security Research Engineer 安全研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | Head of Intergovernmental & Regulatory Affairs - EU & UK | On-site | [View →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
 | Join Our Non-Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
@@ -38,10 +42,6 @@
 | Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Product & Technical Communications | Remote | [View →](https://www.remotejobscan.com/job/19256/product-technical-communications/) |
-| Finance Operations Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19253/finance-operations-senior-manager/) |
-| Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
