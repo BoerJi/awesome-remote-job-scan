@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3135</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| ANZ大企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
+| 合规人事服务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
+| AI合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19285/ai-partner-director/) |
+| 财务预测数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19282/data-scientist-finance-forecasting/) |
+| 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
+| API 多云工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19280/engineering-manager-api-multicloud/) |
 | 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | AI产品高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
 | 网络安全保障执行主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
@@ -36,12 +42,6 @@
 | 高级视频创意，绩效 - Kraken Consumer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
 | 高级视频创意，性能 - Kraken Consumer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19272/senior-video-creative-performance-kraken-consumer/) |
 | GTM业务伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
-| 工程与产品人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
-| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
-| 高级合规专员，KYC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19267/senior-compliance-associate-kyc/) |
-| Security Research Engineer 安全研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
-| 欧盟及英国政府间与监管事务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3135</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
+| People Services Partner, Compliance | On-site | [View →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
+| AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/19285/ai-partner-director/) |
+| Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/19282/data-scientist-finance-forecasting/) |
+| Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
+| Engineering Manager, API Multicloud | Hybrid | [View →](https://www.remotejobscan.com/job/19280/engineering-manager-api-multicloud/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | Staff Product Designer - AI Products | Remote | [View →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
 | Safeguards Enforcement Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
@@ -35,12 +41,6 @@
 | Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 | Senior Video Creative, Performance - Kraken Consumer | Remote | [View →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
 | People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
-| People Partner Engineering & Product | On-site | [View →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
-| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
-| Senior Compliance Associate, KYC | Remote | [View →](https://www.remotejobscan.com/job/19267/senior-compliance-associate-kyc/) |
-| Security Research Engineer 安全研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
-| Head of Intergovernmental & Regulatory Affairs - EU & UK | On-site | [View →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
