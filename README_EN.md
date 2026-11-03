@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,30 +23,29 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Corporate Communications Director | Remote | [View →](https://www.remotejobscan.com/job/7913/corporate-communications-director/) |
-| Corporate Spokesperson | Remote | [View →](https://www.remotejobscan.com/job/7912/corporate-spokesperson/) |
-| Community Operation | Remote | [View →](https://www.remotejobscan.com/job/7911/community-operation/) |
-| Research & Investment Internship | Remote | [View →](https://www.remotejobscan.com/job/7910/research-investment-internship/) |
-| Content Editor/SEO Specialist | Remote | [View →](https://www.remotejobscan.com/job/7909/content-editorseo-specialist/) |
-| Global Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/7908/global-marketing-manager/) |
-| Community Specialist/Manager | Remote | [View →](https://www.remotejobscan.com/job/7907/community-specialistmanager/) |
-| Creative Copywriter | Remote | [View →](https://www.remotejobscan.com/job/7906/creative-copywriter/) |
-| Data Warehouse Engineer | Remote | [View →](https://www.remotejobscan.com/job/7905/data-warehouse-engineer/) |
-| Senior Deep Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/7904/senior-deep-learning-engineer/) |
-| Research Analyst Intern | Remote | [View →](https://www.remotejobscan.com/job/7903/research-analyst-intern/) |
-| Trading Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7902/trading-product-manager/) |
-| Business Development and Strategic Partnership Manager | Remote | [View →](https://www.remotejobscan.com/job/7901/business-development-and-strategic-partnership-manager/) |
-| Customer Service Representative (English) | Remote | [View →](https://www.remotejobscan.com/job/7900/customer-service-representative-english/) |
-| Partnerships & Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/7899/partnerships-business-development-manager/) |
-| Head of Business Development | Remote | [View →](https://www.remotejobscan.com/job/7897/head-of-business-development/) |
-| Key account manager | Remote | [View →](https://www.remotejobscan.com/job/7896/key-account-manager/) |
-| Institutional Clients Growth Manager | Remote | [View →](https://www.remotejobscan.com/job/7895/institutional-clients-growth-manager/) |
-| Data Product Manager | Remote | [View →](https://www.remotejobscan.com/job/7894/data-product-manager/) |
+| Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
+| Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
+| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
+| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
+| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
+| Technical Sourcer - Engineering | On-site | [View →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
+| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
+| Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
+| Systems Research Engineer, GPU Programming | On-site | [View →](https://www.remotejobscan.com/job/9876/systems-research-engineer-gpu-programming/) |
+| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
+| Strategic Account Executive | On-site | [View →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
+| Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
+| (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
+| Staff Platform Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
+| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| Sr. Field Marketing & Community Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（50 companies）
+## 🏢 Companies Tracked（49 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -57,7 +56,6 @@
 | <img src="images/aptos-labs.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aptos Labs"> | <a href="https://aptoslabs.com/">Aptos Labs</a> | [View jobs →](https://www.remotejobscan.com/?company=aptos-labs) |
 | <img src="images/aster.webp" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Aster"> | <a href="https://asterdex.com">Aster</a> | [View jobs →](https://www.remotejobscan.com/?company=aster) |
 | <img src="images/binance.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Binance"> | <a href="https://www.binance.com">Binance</a> | [View jobs →](https://www.remotejobscan.com/?company=binance) |
-| <img src="images/bingx.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BingX"> | <a href="https://bingx.com/">BingX</a> | [View jobs →](https://www.remotejobscan.com/?company=bingx) |
 | <img src="images/bitget.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bitget"> | <a href="https://www.bitget.com/">Bitget</a> | [View jobs →](https://www.remotejobscan.com/?company=bitget) |
 | <img src="images/bnb-chain.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="BNB Chain"> | <a href="https://www.bnbchain.org">BNB Chain</a> | [View jobs →](https://www.remotejobscan.com/?company=bnb-chain) |
 | <img src="images/bybit.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Bybit"> | <a href="https://bybitglobal.com/">Bybit</a> | [View jobs →](https://www.remotejobscan.com/?company=bybit) |
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
