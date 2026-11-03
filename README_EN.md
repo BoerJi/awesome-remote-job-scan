@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
+| Office Network Security Manager 办公网安全负责人 | Remote | [View →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
+| Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
 | Senior Compliance Analyst (India) | Remote | [View →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
 | Wallet Leader (Head of Wallet Operations) | Hybrid | [View →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
 | Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
@@ -39,9 +42,6 @@
 | Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
 | Strategic Account Executive | On-site | [View →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
 | Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
-| (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
-| Staff Platform Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
-| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
