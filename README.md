@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3121</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3122</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级合规分析师（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
+| 钱包负责人（钱包运营主管） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
 | 马耳他反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
 | 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | 技术支持工程师（推理）- 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
@@ -41,8 +43,6 @@
 | (员工/高级员工) AI推理可靠性工程师，计算基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
 | 高级平台基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
 | 分布式存储与HPC和AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| 分布式存储与HPC及AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| EMEA高级现场营销与社区经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

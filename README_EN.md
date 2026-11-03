@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3121</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3122</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Analyst (India) | Remote | [View →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
+| Wallet Leader (Head of Wallet Operations) | Hybrid | [View →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
 | Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
 | Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
 | Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
@@ -40,7 +42,6 @@
 | (Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra | On-site | [View →](https://www.remotejobscan.com/job/18516/staff-senior-staff-ai-inference-reliability-engineer-compute-infra/) |
 | Staff Platform Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/9872/staff-platform-infrastructure-engineer/) |
 | Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/17927/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| Sr. Field Marketing & Community Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19130/sr-field-marketing-community-manager-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
