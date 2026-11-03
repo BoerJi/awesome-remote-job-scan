@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/9862/senior-software-engineer-ai-compute-together-cloud/) |
+| Senior Recruiter, GTM & Business | On-site | [View →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
+| Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
+| Senior Program Manager, Data Center Delivery | Remote | [View →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
+| Senior Product Manager, Model APIs & Developer Experience | On-site | [View →](https://www.remotejobscan.com/job/13565/senior-product-manager-model-apis-developer-experience/) |
+| Senior Product Engineer, Fullstack | On-site | [View →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
+| Senior Product Engineer | On-site | [View →](https://www.remotejobscan.com/job/9858/senior-product-engineer/) |
+| Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | On-site | [View →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
+| Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering | On-site | [View →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| Accounting Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/19245/accounting-lead-hardware/) |
 | Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
 | Trading Product Manager 交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
@@ -31,18 +41,6 @@
 | DEX Marketing Lead - Japan | Remote | [View →](https://www.remotejobscan.com/job/19243/dex-marketing-lead-japan/) |
 | Data Center Strategic Sourcing Lead - Construction | On-site | [View →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
 | EDA Cloud & Developer Infrastructure Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19241/eda-cloud-developer-infrastructure-engineer/) |
-| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/19240/staff-applied-data-scientist-pricing/) |
-| Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
-| (Senior/Junior AI Inference Reliability Engineer, Compute Infra) | On-site | [View →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
-| Senior Developer Productivity Engineer | On-site | [View →](https://www.remotejobscan.com/job/9853/senior-developer-productivity-engineer/) |
-| Senior Counsel - Product & Privacy | On-site | [View →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
-| Senior Software Engineer - Together Cloud Platform | On-site | [View →](https://www.remotejobscan.com/job/9864/senior-software-engineer-together-cloud-platform/) |
-| Senior Backend Engineer, Inference Platform | On-site | [View →](https://www.remotejobscan.com/job/9851/senior-backend-engineer-inference-platform/) |
-| Sales Development Engineer | On-site | [View →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
-| Research Intern, Inference (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

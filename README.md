@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3123</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9862/senior-software-engineer-ai-compute-together-cloud/) |
+| GTM与业务高级招聘官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17067/senior-recruiter-gtm-business/) |
+| 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
+| 数据中心交付高级项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9859/senior-program-manager-data-center-delivery/) |
+| 高级产品经理，模型API与开发者体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13565/senior-product-manager-model-apis-developer-experience/) |
+| 高级产品工程师，全栈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11714/senior-product-engineer-fullstack/) |
+| 高级产品工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9858/senior-product-engineer/) |
+| 推理/计算基础设施工程高级软件工程师，伦敦或阿姆斯特丹 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18791/staff-software-engineer-inference-compute-infrastructure-engineering-london-or-amsterdam/) |
+| 高级或资深软件工程师，推理/计算基础设施工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18710/senior-or-staff-software-engineer-inference-compute-infrastructure-engineering/) |
+| 硬件会计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19245/accounting-lead-hardware/) |
 | Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
 | Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
 | Trading Product Manager 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
@@ -31,18 +41,6 @@
 | DEX市场负责人 - 日本 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19243/dex-marketing-lead-japan/) |
 | 数据中心战略采购主管-建设 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
 | EDA云与开发者基础设施工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19241/eda-cloud-developer-infrastructure-engineer/) |
-| 定价应用数据科学家（高级职位） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19240/staff-applied-data-scientist-pricing/) |
-| 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
-| (高级/初级AI推理可靠性工程师，计算基础设施) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
-| 高级开发者生产力工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9853/senior-developer-productivity-engineer/) |
-| 产品与隐私高级律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18651/senior-counsel-product-privacy/) |
-| 高级软件工程师 - Together云平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9864/senior-software-engineer-together-cloud-platform/) |
-| 高级后端工程师，推理平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9851/senior-backend-engineer-inference-platform/) |
-| 销售发展工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15289/sales-development-engineer/) |
-| 模型塑造研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
-| 模型塑造研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
-| 推理研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
