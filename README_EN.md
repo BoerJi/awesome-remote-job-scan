@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3123</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
+| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
+| Product & Technical Communications | Remote | [View →](https://www.remotejobscan.com/job/19256/product-technical-communications/) |
+| Finance Operations Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19253/finance-operations-senior-manager/) |
+| Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 | Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
 | Office Network Security Manager 办公网安全负责人 | Remote | [View →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
 | Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
@@ -36,12 +43,6 @@
 | Technical Sourcer - Engineering | On-site | [View →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
-| Systems Research Engineer Intern - GPU Programming (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
-| Systems Research Engineer, GPU Programming | On-site | [View →](https://www.remotejobscan.com/job/9876/systems-research-engineer-gpu-programming/) |
-| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| Strategic Account Executive Inference EMEA | On-site | [View →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
-| Strategic Account Executive | On-site | [View →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
-| Staff Software Engineer - AI Compute, Together Cloud | On-site | [View →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

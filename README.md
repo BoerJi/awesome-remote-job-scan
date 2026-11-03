@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3123</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3127</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
+| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
+| 产品与技术沟通 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19256/product-technical-communications/) |
+| 财务运营高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19253/finance-operations-senior-manager/) |
+| Senior Network Security Architect 高级网络安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 | 高级软件工程师—基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
 | Office Network Security Manager 办公网安全负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
 | 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
@@ -36,13 +43,6 @@
 | 技术招聘专员 - 工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
 | 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
-| 系统研究工程师实习生 - GPU编程（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16584/systems-research-engineer-intern-gpu-programming-summer-2027/) |
-| 系统研究工程师，GPU编程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9876/systems-research-engineer-gpu-programming/) |
-| 战略财务高级助理 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| 战略客户经理（推理）EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16217/strategic-account-executive-inference-emea/) |
-| 战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9875/strategic-account-executive/) |
-| 高级软件工程师 - AI计算，Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18277/staff-software-engineer-ai-compute-together-cloud/) |
-| 高级软件工程师 - AI计算, Together Cloud | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16962/staff-software-engineer-ai-compute-together-cloud/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
