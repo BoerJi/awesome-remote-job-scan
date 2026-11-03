@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3136</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3134</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM业务伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
 | 工程与产品人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
 | 高级合规专员，KYC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19267/senior-compliance-associate-kyc/) |
@@ -41,7 +42,6 @@
 | 合规与风险专员（加拿大和美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19257/compliance-and-risk-officer-canada-and-us/) |
 | 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

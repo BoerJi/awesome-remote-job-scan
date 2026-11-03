@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3136</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
 | People Partner Engineering & Product | On-site | [View →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
 | Senior Compliance Associate, KYC | Remote | [View →](https://www.remotejobscan.com/job/19267/senior-compliance-associate-kyc/) |
@@ -41,7 +42,6 @@
 | Compliance and Risk Officer (Canada and US) | Hybrid | [View →](https://www.remotejobscan.com/job/19257/compliance-and-risk-officer-canada-and-us/) |
 | Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
