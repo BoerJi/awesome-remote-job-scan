@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3130</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Product Design Lead 产品设计组长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
+| Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
+| Trading Product Manager 交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
+| 风险与合规专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19244/cs-specialist-risk-and-compliance/) |
+| 数据中心OFE - 采购负责人，数据中心电源与冷却 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14879/data-center-ofe-sourcing-lead-data-center-power-cooling/) |
+| DEX市场负责人 - 日本 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19243/dex-marketing-lead-japan/) |
+| 数据中心战略采购主管-建设 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
 | EDA云与开发者基础设施工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19241/eda-cloud-developer-infrastructure-engineer/) |
 | 定价应用数据科学家（高级职位） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19240/staff-applied-data-scientist-pricing/) |
 | 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
@@ -36,13 +43,6 @@
 | 模型塑造研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
 | 模型塑造研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 | 推理研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
-| 推理研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
-| 前沿推测解码研究实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
-| 前沿推测解码研究实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
-| 前沿代理研究员实习生（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
-| 前沿代理研究员实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
-| 大规模训练研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11847/research-engineer-large-scale-training/) |
-| 招聘寻访师，业务（市场拓展、基础设施战略与行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

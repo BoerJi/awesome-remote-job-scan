@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3130</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Design Lead 产品设计组长 | Remote | [View →](https://www.remotejobscan.com/job/18524/product-design-lead/) |
+| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16980/senior-trading-product-manager/) |
+| Trading Product Manager 交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/16981/trading-product-manager/) |
+| CS Specialist - Risk and Compliance | Remote | [View →](https://www.remotejobscan.com/job/19244/cs-specialist-risk-and-compliance/) |
+| Data Center OFE - Sourcing Lead, Data Center Power & Cooling | Remote | [View →](https://www.remotejobscan.com/job/14879/data-center-ofe-sourcing-lead-data-center-power-cooling/) |
+| DEX Marketing Lead - Japan | Remote | [View →](https://www.remotejobscan.com/job/19243/dex-marketing-lead-japan/) |
+| Data Center Strategic Sourcing Lead - Construction | On-site | [View →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
 | EDA Cloud & Developer Infrastructure Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19241/eda-cloud-developer-infrastructure-engineer/) |
 | Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/19240/staff-applied-data-scientist-pricing/) |
 | Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
@@ -36,13 +43,6 @@
 | Research Intern, Model Shaping (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16579/research-intern-model-shaping-winter-2027/) |
 | Research Intern, Model Shaping (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16578/research-intern-model-shaping-summer-2027/) |
 | Research Intern, Inference (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16577/research-intern-inference-winter-2027/) |
-| Research Intern, Inference (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16576/research-intern-inference-summer-2027/) |
-| Research Intern, Frontier Speculative Decoding (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/18328/research-intern-frontier-speculative-decoding-winter-2027/) |
-| Research Intern, Frontier Speculative Decoding (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18327/research-intern-frontier-speculative-decoding-summer-2027/) |
-| Research Intern, Frontier Agents (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16575/research-intern-frontier-agents-winter-2027/) |
-| Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
-| Research Engineer, Large-Scale Training | On-site | [View →](https://www.remotejobscan.com/job/11847/research-engineer-large-scale-training/) |
-| Recruiting Sourcer, Business (GTM, Infrastructure Strategy & G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
