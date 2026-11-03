@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior BD Manager | Remote | [View →](https://www.remotejobscan.com/job/8411/senior-bd-manager/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/19273/it-support-engineer/) |
+| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
+| Software Engineer, Agent Auth | Hybrid | [View →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
+| Communications Manager, Claude Developer Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-developer-platform/) |
+| Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
+| Senior Video Creative, Performance - Kraken Consumer | Remote | [View →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
 | People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
 | People Partner Engineering & Product | On-site | [View →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
@@ -35,13 +42,6 @@
 | Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/19262/enterprise-account-executive-fsi/) |
 | Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
 | Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
-| Office Network Security Expert 办公网安全专家 | Remote | [View →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
-| Product Manager / Director, Institutional Liquidity & Growth | On-site | [View →](https://www.remotejobscan.com/job/7612/product-manager-director-institutional-liquidity-growth/) |
-| Internal Audit Lead — Technology | Remote | [View →](https://www.remotejobscan.com/job/19258/internal-audit-lead-technology/) |
-| Employee Relations Partner | On-site | [View →](https://www.remotejobscan.com/job/19259/employee-relations-partner/) |
-| Compliance and Risk Officer (Canada and US) | Hybrid | [View →](https://www.remotejobscan.com/job/19257/compliance-and-risk-officer-canada-and-us/) |
-| Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
-| Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

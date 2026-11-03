@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3134</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8411/senior-bd-manager/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19273/it-support-engineer/) |
+| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
+| 软件工程师，代理认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
+| Claude开发者平台沟通经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18754/communications-manager-claude-developer-platform/) |
+| 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
+| 高级视频创意，绩效 - Kraken Consumer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
+| 高级视频创意，性能 - Kraken Consumer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19272/senior-video-creative-performance-kraken-consumer/) |
 | GTM业务伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19270/people-partner-gtm/) |
 | 工程与产品人事合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19268/people-partner-engineering-product/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19269/company-operations-lead/) |
@@ -35,13 +43,6 @@
 | 企业客户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19262/enterprise-account-executive-fsi/) |
 | 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
 | Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
-| Office Network Security Expert 办公网安全专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
-| 机构流动性及增长产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7612/product-manager-director-institutional-liquidity-growth/) |
-| 内部审计主管—技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19258/internal-audit-lead-technology/) |
-| 员工关系合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19259/employee-relations-partner/) |
-| 合规与风险专员（加拿大和美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19257/compliance-and-risk-officer-canada-and-us/) |
-| 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
-| 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
