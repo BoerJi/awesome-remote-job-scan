@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3127</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3135</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
+| Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
+| Office Network Security Expert 办公网安全专家 | Remote | [View →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
+| Product Manager / Director, Institutional Liquidity & Growth | On-site | [View →](https://www.remotejobscan.com/job/7612/product-manager-director-institutional-liquidity-growth/) |
+| Internal Audit Lead — Technology | Remote | [View →](https://www.remotejobscan.com/job/19258/internal-audit-lead-technology/) |
+| Employee Relations Partner | On-site | [View →](https://www.remotejobscan.com/job/19259/employee-relations-partner/) |
+| Compliance and Risk Officer (Canada and US) | Hybrid | [View →](https://www.remotejobscan.com/job/19257/compliance-and-risk-officer-canada-and-us/) |
 | Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | Applied AI Engineer, Digital Natives | Hybrid | [View →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
@@ -35,14 +42,6 @@
 | Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
 | Senior Compliance Analyst (India) | Remote | [View →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
 | Wallet Leader (Head of Wallet Operations) | Hybrid | [View →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
-| Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
-| Technical Writer Intern, Developer Experience (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
-| Technical Support Engineer (Inference) - India Weekends | On-site | [View →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| Technical Support Engineer (GPU Clusters) - US Weekends | Remote | [View →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
-| Technical Support Engineer (GPU Cluster), India | On-site | [View →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
-| Technical Sourcer - Engineering | On-site | [View →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
-| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| Systems Research Engineer Intern - GPU Programming (Winter 2027) | On-site | [View →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

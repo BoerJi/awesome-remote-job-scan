@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3127</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3135</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
+| Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
+| Office Network Security Expert 办公网安全专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
+| 机构流动性及增长产品经理/总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7612/product-manager-director-institutional-liquidity-growth/) |
+| 内部审计主管—技术 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19258/internal-audit-lead-technology/) |
+| 员工关系合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19259/employee-relations-partner/) |
+| 合规与风险专员（加拿大和美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19257/compliance-and-risk-officer-canada-and-us/) |
 | 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | 应用AI工程师，数字原生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19255/applied-ai-engineer-digital-natives/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
@@ -35,14 +42,6 @@
 | 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
 | 高级合规分析师（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
 | 钱包负责人（钱包运营主管） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
-| 马耳他反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
-| 开发者体验技术写作实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18839/technical-writer-intern-developer-experience-summer-2027/) |
-| 技术支持工程师（推理）- 印度周末 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9828/technical-support-engineer-inference-india-weekends/) |
-| GPU集群技术支持工程师 - 美国周末班 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18731/technical-support-engineer-gpu-clusters-us-weekends/) |
-| GPU集群技术支持工程师，印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9826/technical-support-engineer-gpu-cluster-india/) |
-| 技术招聘专员 - 工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18272/technical-sourcer-engineering/) |
-| 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| 系统研究工程师实习生 - GPU编程（2027年冬季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16585/systems-research-engineer-intern-gpu-programming-winter-2027/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
