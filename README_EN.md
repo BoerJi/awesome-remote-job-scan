@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3129</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3130</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| EDA Cloud & Developer Infrastructure Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19241/eda-cloud-developer-infrastructure-engineer/) |
+| Staff Applied Data Scientist, Pricing | Remote | [View →](https://www.remotejobscan.com/job/19240/staff-applied-data-scientist-pricing/) |
 | Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
 | Senior Network Engineer | On-site | [View →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | (Senior/Junior AI Inference Reliability Engineer, Compute Infra) | On-site | [View →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
@@ -41,8 +43,6 @@
 | Research Intern, Frontier Agents (Summer 2027) | On-site | [View →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | Research Engineer, Large-Scale Training | On-site | [View →](https://www.remotejobscan.com/job/11847/research-engineer-large-scale-training/) |
 | Recruiting Sourcer, Business (GTM, Infrastructure Strategy & G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
-| Recruiting Coordinator | On-site | [View →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
-| Product Marketing Manager, Partners | On-site | [View →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

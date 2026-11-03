@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3129</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3130</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| EDA云与开发者基础设施工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19241/eda-cloud-developer-infrastructure-engineer/) |
+| 定价应用数据科学家（高级职位） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19240/staff-applied-data-scientist-pricing/) |
 | 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
 | 高级网络工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9855/senior-network-engineer/) |
 | (高级/初级AI推理可靠性工程师，计算基础设施) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18913/seniorjunior-ai-inference-reliability-engineer-compute-infra/) |
@@ -41,8 +43,6 @@
 | 前沿代理研究员实习生（2027年夏季） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16593/research-intern-frontier-agents-summer-2027/) |
 | 大规模训练研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11847/research-engineer-large-scale-training/) |
 | 招聘寻访师，业务（市场拓展、基础设施战略与行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-ga/) |
-| 招聘协调员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17531/recruiting-coordinator/) |
-| 产品市场经理，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17696/product-marketing-manager-partners/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
