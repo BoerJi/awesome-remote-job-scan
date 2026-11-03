@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3133</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| AI产品高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
+| 网络安全保障执行主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| 高级风险管理产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19277/senior-product-manager-risk/) |
 | 高级业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8411/senior-bd-manager/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19273/it-support-engineer/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
@@ -38,11 +42,6 @@
 | Security Research Engineer 安全研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | 欧盟及英国政府间与监管事务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
-| 加入我们的非工程人才网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
-| 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19263/enterprise-account-executive-healthcare-life-science/) |
-| 企业客户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19262/enterprise-account-executive-fsi/) |
-| 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
-| Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

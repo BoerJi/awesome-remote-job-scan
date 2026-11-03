@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
+| Staff Product Designer - AI Products | Remote | [View →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
+| Safeguards Enforcement Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
+| Senior Product Manager, Risk | Remote | [View →](https://www.remotejobscan.com/job/19277/senior-product-manager-risk/) |
 | Senior BD Manager | Remote | [View →](https://www.remotejobscan.com/job/8411/senior-bd-manager/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/19273/it-support-engineer/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
@@ -37,11 +41,6 @@
 | Security Research Engineer 安全研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | Head of Intergovernmental & Regulatory Affairs - EU & UK | On-site | [View →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
-| Join Our Non-Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
-| Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/19263/enterprise-account-executive-healthcare-life-science/) |
-| Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/19262/enterprise-account-executive-fsi/) |
-| Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
-| Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
