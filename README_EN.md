@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3131</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3132</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | Head of Intergovernmental & Regulatory Affairs - EU & UK | On-site | [View →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
 | Join Our Non-Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
 | Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/19263/enterprise-account-executive-healthcare-life-science/) |
@@ -41,7 +42,6 @@
 | Finance Operations Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19253/finance-operations-senior-manager/) |
 | Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
-| Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

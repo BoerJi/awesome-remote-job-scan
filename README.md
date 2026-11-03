@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3131</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3132</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | 欧盟及英国政府间与监管事务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19265/head-of-intergovernmental-regulatory-affairs-eu-uk/) |
 | 加入我们的非工程人才网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
 | 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19263/enterprise-account-executive-healthcare-life-science/) |
@@ -41,7 +42,6 @@
 | 财务运营高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19253/finance-operations-senior-manager/) |
 | Senior Network Security Architect 高级网络安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
-| 高级软件工程师—基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
