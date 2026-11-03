@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3139</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
+| Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
+| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| Senior Mobile Engineer, (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
+| Staff Software Engineer, iOS | On-site | [View →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
+| Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
+| Data Center Energy Lead | On-site | [View →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
+| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-applied-ai/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/19298/manager-forward-deployed-engineering/) |
 | Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
 | Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19299/account-director-mid-market-enterprise/) |
@@ -35,14 +43,6 @@
 | ML Silicon Performance Lead | On-site | [View →](https://www.remotejobscan.com/job/19291/ml-silicon-performance-lead/) |
 | Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
 | Technical CBRN-E Threat Investigator | On-site | [View →](https://www.remotejobscan.com/job/19290/technical-cbrn-e-threat-investigator/) |
-| Applied AI Architect, International Policy | On-site | [View →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19288/customer-support-specialist-ii/) |
-| Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
-| Strategic Finance, Research | Hybrid | [View →](https://www.remotejobscan.com/job/18933/strategic-finance-research/) |
-| Transformation Leads Regional Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19286/transformation-leads-regional-manager/) |
-| Contracts Manager, GTM | On-site | [View →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
-| Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
-| People Services Partner, Compliance | On-site | [View →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

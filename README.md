@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3139</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3143</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
+| 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
+| 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| 高级移动工程师，(iOS/Android) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
+| iOS高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
+| 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
+| 数据中心能源主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
+| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-applied-ai/) |
 | 高级部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19298/manager-forward-deployed-engineering/) |
 | 高级后端软件工程师（消费 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
 | 中市场企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19299/account-director-mid-market-enterprise/) |
@@ -35,14 +43,6 @@
 | ML硅芯片性能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19291/ml-silicon-performance-lead/) |
 | 应用AI架构师，有益部署（全球与公共卫生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
 | 技术CBRN-E威胁调查员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19290/technical-cbrn-e-threat-investigator/) |
-| 国际政策应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
-| 客户支持专员 II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19288/customer-support-specialist-ii/) |
-| 公共部门应用AI架构师（州及地方政府） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
-| 战略财务与研究 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18933/strategic-finance-research/) |
-| 转型引领区域经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19286/transformation-leads-regional-manager/) |
-| GTM合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
-| ANZ大企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
-| 合规人事服务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
