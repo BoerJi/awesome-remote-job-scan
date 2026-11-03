@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3135</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3134</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 加入我们的非工程人才网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
+| 企业客户经理 - 医疗保健与生命科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19263/enterprise-account-executive-healthcare-life-science/) |
+| 企业客户经理 - FSI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19262/enterprise-account-executive-fsi/) |
 | 全栈工程师（偏前端）- Studio | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
 | Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 | Office Network Security Expert 办公网安全专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
@@ -39,9 +42,6 @@
 | Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 | 高级软件工程师—基础设施代理系统远程印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
 | Office Network Security Manager 办公网安全负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
-| 高级网络工程师（阿姆斯特丹） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| 高级合规分析师（印度） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
-| 钱包负责人（钱包运营主管） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

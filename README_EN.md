@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3135</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3134</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Join Our Non-Engineering Talent Network | Remote | [View →](https://www.remotejobscan.com/job/19264/join-our-non-engineering-talent-network/) |
+| Enterprise Account Executive - Healthcare & Life Science | On-site | [View →](https://www.remotejobscan.com/job/19263/enterprise-account-executive-healthcare-life-science/) |
+| Enterprise Account Executive - FSI | On-site | [View →](https://www.remotejobscan.com/job/19262/enterprise-account-executive-fsi/) |
 | Full-Stack Engineer (Frontend Leaning) - Studio | Remote | [View →](https://www.remotejobscan.com/job/19261/full-stack-engineer-frontend-leaning-studio/) |
 | Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 | Office Network Security Expert 办公网安全专家 | Remote | [View →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
@@ -39,9 +42,6 @@
 | Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 | Senior Software Engineer — Infra Agent Systems Remote India | On-site | [View →](https://www.remotejobscan.com/job/19248/senior-software-engineer-infra-agent-systems-remote-india/) |
 | Office Network Security Manager 办公网安全负责人 | Remote | [View →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
-| Senior Network Engineer (Amsterdam) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-amsterdam/) |
-| Senior Compliance Analyst (India) | Remote | [View →](https://www.remotejobscan.com/job/19247/senior-compliance-analyst-india/) |
-| Wallet Leader (Head of Wallet Operations) | Hybrid | [View →](https://www.remotejobscan.com/job/19246/wallet-leader-head-of-wallet-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
