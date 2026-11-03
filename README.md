@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3137</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3141</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19298/manager-forward-deployed-engineering/) |
+| 高级后端软件工程师（消费 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
+| 中市场企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19299/account-director-mid-market-enterprise/) |
+| EMEA副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19296/vice-president-emea/) |
+| 高级企业架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19293/staff-enterprise-architect/) |
+| EMEA增长营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19294/growth-marketing-lead-emea/) |
+| 安全数据标注专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19295/data-annotation-specialist-safety/) |
+| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | 后端开发工程师（Golang） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19292/back-end-developergolang/) |
 | ML硅芯片性能主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19291/ml-silicon-performance-lead/) |
 | 应用AI架构师，有益部署（全球与公共卫生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
@@ -35,13 +43,6 @@
 | GTM合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
 | ANZ大企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
 | 合规人事服务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
-| AI合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19285/ai-partner-director/) |
-| 财务预测数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19282/data-scientist-finance-forecasting/) |
-| 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
-| API 多云工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19280/engineering-manager-api-multicloud/) |
-| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| AI产品高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
-| 网络安全保障执行主管，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-03 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3141</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/19298/manager-forward-deployed-engineering/) |
+| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
+| Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19299/account-director-mid-market-enterprise/) |
+| Vice President, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19296/vice-president-emea/) |
+| Staff Enterprise Architect | Remote | [View →](https://www.remotejobscan.com/job/19293/staff-enterprise-architect/) |
+| Growth Marketing Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19294/growth-marketing-lead-emea/) |
+| Data Annotation Specialist, Safety | Remote | [View →](https://www.remotejobscan.com/job/19295/data-annotation-specialist-safety/) |
+| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 | Back End Developer(Golang) | On-site | [View →](https://www.remotejobscan.com/job/19292/back-end-developergolang/) |
 | ML Silicon Performance Lead | On-site | [View →](https://www.remotejobscan.com/job/19291/ml-silicon-performance-lead/) |
 | Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
@@ -35,13 +43,6 @@
 | Contracts Manager, GTM | On-site | [View →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
 | Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
 | People Services Partner, Compliance | On-site | [View →](https://www.remotejobscan.com/job/19283/people-services-partner-compliance/) |
-| AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/19285/ai-partner-director/) |
-| Data Scientist, Finance Forecasting | On-site | [View →](https://www.remotejobscan.com/job/19282/data-scientist-finance-forecasting/) |
-| Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
-| Engineering Manager, API Multicloud | Hybrid | [View →](https://www.remotejobscan.com/job/19280/engineering-manager-api-multicloud/) |
-| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| Staff Product Designer - AI Products | Remote | [View →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
-| Safeguards Enforcement Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
