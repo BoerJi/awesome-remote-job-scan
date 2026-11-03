@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3133</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3137</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Back End Developer(Golang) | On-site | [View →](https://www.remotejobscan.com/job/19292/back-end-developergolang/) |
+| ML Silicon Performance Lead | On-site | [View →](https://www.remotejobscan.com/job/19291/ml-silicon-performance-lead/) |
+| Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
+| Technical CBRN-E Threat Investigator | On-site | [View →](https://www.remotejobscan.com/job/19290/technical-cbrn-e-threat-investigator/) |
+| Applied AI Architect, International Policy | On-site | [View →](https://www.remotejobscan.com/job/17434/applied-ai-architect-international-policy/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19288/customer-support-specialist-ii/) |
+| Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
+| Strategic Finance, Research | Hybrid | [View →](https://www.remotejobscan.com/job/18933/strategic-finance-research/) |
 | Transformation Leads Regional Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19286/transformation-leads-regional-manager/) |
 | Contracts Manager, GTM | On-site | [View →](https://www.remotejobscan.com/job/19124/contracts-manager-gtm/) |
 | Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
@@ -34,14 +42,6 @@
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | Staff Product Designer - AI Products | Remote | [View →](https://www.remotejobscan.com/job/19279/staff-product-designer-ai-products/) |
 | Safeguards Enforcement Lead, Cyber Harms | On-site | [View →](https://www.remotejobscan.com/job/14930/safeguards-enforcement-lead-cyber-harms/) |
-| Senior Product Manager, Risk | Remote | [View →](https://www.remotejobscan.com/job/19277/senior-product-manager-risk/) |
-| Senior BD Manager | Remote | [View →](https://www.remotejobscan.com/job/8411/senior-bd-manager/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/19273/it-support-engineer/) |
-| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
-| Software Engineer, Agent Auth | Hybrid | [View →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
-| Communications Manager, Claude Developer Platform | On-site | [View →](https://www.remotejobscan.com/job/18754/communications-manager-claude-developer-platform/) |
-| Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
-| Senior Video Creative, Performance - Kraken Consumer | Remote | [View →](https://www.remotejobscan.com/job/19271/senior-video-creative-performance-kraken-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-03 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
