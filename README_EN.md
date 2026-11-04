@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3144</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Social Support Specialist I | Remote | [View →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
+| Head of ASEAN, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19304/head-of-asean-applied-ai/) |
+| Customer Support Specialist II-3 | On-site | [View →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
+| Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
+| Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
+| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| Staff Backend Engineer, Financial Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19305/staff-backend-engineer-financial-engineering/) |
 | Recruiting Sourcer, Business (GTM, Infrastructure Strategy, and G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-and-ga/) |
 | Head of Partner Services Delivery and Success | Remote | [View →](https://www.remotejobscan.com/job/19302/head-of-partner-services-delivery-and-success/) |
 | Art Director, Research Team | Hybrid | [View →](https://www.remotejobscan.com/job/19303/art-director-research-team/) |
@@ -33,16 +40,7 @@
 | Senior Mobile Engineer, (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
 | Staff Software Engineer, iOS | On-site | [View →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
 | Staff Software Engineer, Android | On-site | [View →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
-| Data Center Energy Lead | On-site | [View →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/17926/recruiter-applied-ai/) |
-| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/19298/manager-forward-deployed-engineering/) |
-| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
-| Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19299/account-director-mid-market-enterprise/) |
-| Vice President, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19296/vice-president-emea/) |
-| Staff Enterprise Architect | Remote | [View →](https://www.remotejobscan.com/job/19293/staff-enterprise-architect/) |
-| Growth Marketing Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19294/growth-marketing-lead-emea/) |
-| Data Annotation Specialist, Safety | Remote | [View →](https://www.remotejobscan.com/job/19295/data-annotation-specialist-safety/) |
-| Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

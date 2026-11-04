@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3144</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社会支持专员I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
+| 东南亚应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19304/head-of-asean-applied-ai/) |
+| 客户支持专家II-3 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
+| 模型风险总监—人工智能与欺诈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
+| AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
+| 公共部门应用AI架构师（州及地方政府） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
+| 高级工程师，分布式存储与HPC及AI基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
+| 金融工程团队高级后端工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19305/staff-backend-engineer-financial-engineering/) |
 | 招聘寻访专员，业务（市场拓展、基础设施战略和行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-and-ga/) |
 | 合作伙伴服务交付与成功负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19302/head-of-partner-services-delivery-and-success/) |
 | 研究团队艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19303/art-director-research-team/) |
@@ -33,16 +41,7 @@
 | 高级移动工程师，(iOS/Android) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
 | iOS高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
 | 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
-| 数据中心能源主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
 | 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-applied-ai/) |
-| 高级部署工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19298/manager-forward-deployed-engineering/) |
-| 高级后端软件工程师（消费 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
-| 中市场企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19299/account-director-mid-market-enterprise/) |
-| EMEA副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19296/vice-president-emea/) |
-| 高级企业架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19293/staff-enterprise-architect/) |
-| EMEA增长营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19294/growth-marketing-lead-emea/) |
-| 安全数据标注专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19295/data-annotation-specialist-safety/) |
-| 高级销售运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
