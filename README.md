@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究团队编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19340/editor-research-team/) |
 | 支付风险专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
 | 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | 应用AI架构师（全球客户） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19337/applied-ai-architect-global-customers/) |
@@ -38,7 +39,6 @@
 | 高级人才招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
 | Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Anthropic研究驻留员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18985/anthropic-research-resident/) |
-| Contract Growth Operations 合约增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
