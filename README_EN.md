@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Payments Risk Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19334/payments-risk-specialist-i/) |
+| Payments Risk Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
+| Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
+| Applied AI Architect (Global Customers) | On-site | [View →](https://www.remotejobscan.com/job/19337/applied-ai-architect-global-customers/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
 | General Manager, Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
@@ -36,11 +38,6 @@
 | Senior Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
 | Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
-| Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
-| Performance Marketing Manager, Paid Search & AI Advertising | On-site | [View →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
-| Integrated Campaigns Manager | On-site | [View →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
-| Sr. Product Marketing Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
-| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

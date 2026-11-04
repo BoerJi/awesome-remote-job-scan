@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 支付风险专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19334/payments-risk-specialist-i/) |
+| 支付风险专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
+| 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
+| 应用AI架构师（全球客户） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19337/applied-ai-architect-global-customers/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
 | 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
@@ -37,11 +39,6 @@
 | Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Anthropic研究驻留员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18985/anthropic-research-resident/) |
 | Contract Growth Operations 合约增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
-| Campaign & User Operations Specialist 合约活动/用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
-| 绩效营销经理，付费搜索与AI广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
-| 整合营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
-| 拉美高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
-| 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
