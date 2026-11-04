@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Product Marketing Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
+| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | Industry & Experiential Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
 | Content & Solutions Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
@@ -39,8 +41,6 @@
 | Member of Technical Staff (GTM Engineer, Growth) | On-site | [View →](https://www.remotejobscan.com/job/19313/member-of-technical-staff-gtm-engineer-growth/) |
 | Partner Specializations Lead | On-site | [View →](https://www.remotejobscan.com/job/19312/partner-specializations-lead/) |
 | Social Support Specialist I | Remote | [View →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
-| Head of ASEAN, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19304/head-of-asean-applied-ai/) |
-| Customer Support Specialist II-3 | On-site | [View →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
