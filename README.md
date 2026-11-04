@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3147</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Contract Growth Operations 合约增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
+| Campaign & User Operations Specialist 合约活动/用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
+| 绩效营销经理，付费搜索与AI广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
+| 整合营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
+| 高级工程师，公共云运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 拉美高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
 | 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | 行业与体验营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
@@ -35,12 +42,6 @@
 | Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
 | Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 | 创意运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19316/head-of-creative-operations/) |
-| 高级合规模型治理专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19314/senior-associate-compliance-model-governance/) |
-| 数据分析赋能科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19315/data-scientist-analytics-enablement/) |
-| 数据中心能源负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
-| 技术团队成员（增长GTM工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19313/member-of-technical-staff-gtm-engineer-growth/) |
-| 合作伙伴专业领域负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19312/partner-specializations-lead/) |
-| 社会支持专员I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
+| Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
+| Performance Marketing Manager, Paid Search & AI Advertising | On-site | [View →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
+| Integrated Campaigns Manager | On-site | [View →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Sr. Product Marketing Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
 | Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | Industry & Experiential Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
@@ -35,12 +42,6 @@
 | Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
 | Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 | Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19316/head-of-creative-operations/) |
-| Senior Associate, Compliance Model Governance | Remote | [View →](https://www.remotejobscan.com/job/19314/senior-associate-compliance-model-governance/) |
-| Data Scientist, Analytics Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/19315/data-scientist-analytics-enablement/) |
-| Data Center Energy Lead | On-site | [View →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
-| Member of Technical Staff (GTM Engineer, Growth) | On-site | [View →](https://www.remotejobscan.com/job/19313/member-of-technical-staff-gtm-engineer-growth/) |
-| Partner Specializations Lead | On-site | [View →](https://www.remotejobscan.com/job/19312/partner-specializations-lead/) |
-| Social Support Specialist I | Remote | [View →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
