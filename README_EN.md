@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3162</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
+| Data Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer-gtm-systems/) |
+| Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
+| Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
+| Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/19353/accounting-analytics-bi-engineer/) |
+| Business Recruiter, London | On-site | [View →](https://www.remotejobscan.com/job/19351/business-recruiter-london/) |
 | Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
 | AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19350/ai-deployment-manager-builder/) |
 | Portfolio Product Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
@@ -37,9 +43,6 @@
 | Head of Sales, Defense & Intelligence | Remote | [View →](https://www.remotejobscan.com/job/19341/head-of-sales-defense-intelligence/) |
 | Editor, Research Team | On-site | [View →](https://www.remotejobscan.com/job/19340/editor-research-team/) |
 | Payments Risk Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
-| Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
-| Applied AI Architect (Global Customers) | On-site | [View →](https://www.remotejobscan.com/job/19337/applied-ai-architect-global-customers/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
