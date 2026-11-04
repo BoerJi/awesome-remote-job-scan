@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3144</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场监控合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
+| AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
+| 专业服务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
+| 企业客户总监 - 电信 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19383/account-executive-enterprise-telecommunications/) |
+| FP&A产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
+| 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
+| 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
+| 初创企业、绿野仙踪 - 账户执行经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| 数据中心设施运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19377/data-center-facility-operations-lead/) |
+| 高级合规分析师，KYC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19376/senior-compliance-analyst-kyc/) |
 | 绿色田野经理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19370/greenfield-manager-startups/) |
 | 安装基础管理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
 | 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
@@ -32,17 +42,6 @@
 | 企业金融首席法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
 | 金融犯罪经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19371/financial-crime-manager/) |
 | Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| 软件工程师，计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| 高级支付产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19367/senior-product-manager-payments/) |
-| 规模化客户经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19368/scaled-account-manager-beneficial-deployments/) |
-| 内部会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19369/intercompany-accountant/) |
-| 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19358/business-recruiter/) |
-| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| 硅设计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19366/silicon-design-lead/) |
-| 初创公司激活经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19365/activations-manager-startups/) |
-| 采购运营业务合作伙伴 - 办公场所、安全和人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
-| 中东部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
-| 高级后端工程师（数据平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

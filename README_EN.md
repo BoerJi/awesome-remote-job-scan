@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3144</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
+| Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
+| Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
+| Account Executive - Enterprise - Telecommunications | Remote | [View →](https://www.remotejobscan.com/job/19383/account-executive-enterprise-telecommunications/) |
+| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
+| Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
+| Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
+| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| Data Center Facility Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19377/data-center-facility-operations-lead/) |
+| Senior Compliance Analyst, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-analyst-kyc/) |
 | Greenfield Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19370/greenfield-manager-startups/) |
 | Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
 | Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
@@ -32,17 +42,6 @@
 | Principal Legal Counsel, Corporate & Finance | On-site | [View →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
 | Financial Crime Manager | On-site | [View →](https://www.remotejobscan.com/job/19371/financial-crime-manager/) |
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| Senior Product Manager, Payments | Remote | [View →](https://www.remotejobscan.com/job/19367/senior-product-manager-payments/) |
-| Scaled Account Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/19368/scaled-account-manager-beneficial-deployments/) |
-| Intercompany Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/19369/intercompany-accountant/) |
-| Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19358/business-recruiter/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| Silicon Design Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19366/silicon-design-lead/) |
-| Activations Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19365/activations-manager-startups/) |
-| Procurement Operations Business Partner - Workplace, Security and People | On-site | [View →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
-| Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
-| Senior Backend Engineer (Data Platform) | Remote | [View →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
