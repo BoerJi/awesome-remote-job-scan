@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
+| AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19350/ai-deployment-manager-builder/) |
+| Portfolio Product Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
+| Head of Performance Marketing | On-site | [View →](https://www.remotejobscan.com/job/19349/head-of-performance-marketing/) |
+| AI Deployment Manager - Knowledge (Korean-Speaking) | On-site | [View →](https://www.remotejobscan.com/job/19346/ai-deployment-manager-knowledge-korean-speaking/) |
+| Senior Software Engineer, Identity & Regulatory Platform | Remote | [View →](https://www.remotejobscan.com/job/19345/senior-software-engineer-identity-regulatory-platform/) |
 | Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19344/sales-manager-startups-new-business-uki/) |
 | AI Deployment Manager - Knowledge | Hybrid | [View →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
@@ -34,12 +40,6 @@
 | Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | Applied AI Architect (Global Customers) | On-site | [View →](https://www.remotejobscan.com/job/19337/applied-ai-architect-global-customers/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
-| General Manager, Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/19332/manager-forward-deployed-engineering/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

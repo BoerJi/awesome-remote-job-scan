@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3163</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
+| AI部署经理 - 构建者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19350/ai-deployment-manager-builder/) |
+| 产品组合营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
+| 绩效营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19349/head-of-performance-marketing/) |
+| AI部署经理 - 知识（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19346/ai-deployment-manager-knowledge-korean-speaking/) |
+| 高级软件工程师，身份与监管平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19345/senior-software-engineer-identity-regulatory-platform/) |
 | 初创企业销售经理 | 新业务英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19344/sales-manager-startups-new-business-uki/) |
 | AI部署经理 - 知识 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
 | 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
@@ -34,12 +40,6 @@
 | 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
 | 应用AI架构师（全球客户） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19337/applied-ai-architect-global-customers/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
-| 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
-| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| 前派工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19332/manager-forward-deployed-engineering/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
