@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付风险专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19334/payments-risk-specialist-i/) |
+| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
+| 非洲总经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 | Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
@@ -30,7 +33,6 @@
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
 | 高级分析师，企业发展与投资 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19330/senior-analyst-corporate-development-investment/) |
 | KYC/AML分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19015/kycaml-analyst/) |
-| 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17245/applied-ai-architect-partnerships/) |
 | 高级人才招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
 | Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Anthropic研究驻留员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18985/anthropic-research-resident/) |
@@ -40,9 +42,6 @@
 | 整合营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
 | 拉美高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
 | 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
-| 行业与体验营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
-| 内容与解决方案营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

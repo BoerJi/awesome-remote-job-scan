@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Payments Risk Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19334/payments-risk-specialist-i/) |
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19335/applied-ai-architect-partnerships/) |
+| General Manager, Africa | On-site | [View →](https://www.remotejobscan.com/job/16451/general-manager-africa/) |
 | Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
@@ -30,7 +33,6 @@
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
 | Senior Analyst, Corporate Development & Investment | Hybrid | [View →](https://www.remotejobscan.com/job/19330/senior-analyst-corporate-development-investment/) |
 | KYC/AML Analyst | Remote | [View →](https://www.remotejobscan.com/job/19015/kycaml-analyst/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/17245/applied-ai-architect-partnerships/) |
 | Senior Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
 | Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
@@ -39,9 +41,6 @@
 | Integrated Campaigns Manager | On-site | [View →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
 | Sr. Product Marketing Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
 | Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
-| Industry & Experiential Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
-| Content & Solutions Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
