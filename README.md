@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 初创企业销售经理 | 新业务英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19344/sales-manager-startups-new-business-uki/) |
+| AI部署经理 - 知识 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
+| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
+| 高级移动工程师，(iOS/Android) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
+| 合规代理体验团队高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
+| 国防与情报销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19341/head-of-sales-defense-intelligence/) |
 | 研究团队编辑 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19340/editor-research-team/) |
 | 支付风险专员I | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
 | 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
@@ -34,11 +40,6 @@
 | DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 前派工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19332/manager-forward-deployed-engineering/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
-| 高级分析师，企业发展与投资 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19330/senior-analyst-corporate-development-investment/) |
-| KYC/AML分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19015/kycaml-analyst/) |
-| 高级人才招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
-| Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
-| Anthropic研究驻留员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18985/anthropic-research-resident/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

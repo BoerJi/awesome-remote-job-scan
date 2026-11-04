@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19344/sales-manager-startups-new-business-uki/) |
+| AI Deployment Manager - Knowledge | Hybrid | [View →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
+| Senior Mobile Engineer, (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
+| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
+| Head of Sales, Defense & Intelligence | Remote | [View →](https://www.remotejobscan.com/job/19341/head-of-sales-defense-intelligence/) |
 | Editor, Research Team | On-site | [View →](https://www.remotejobscan.com/job/19340/editor-research-team/) |
 | Payments Risk Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
 | Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
@@ -34,10 +40,6 @@
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/19332/manager-forward-deployed-engineering/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
-| Senior Analyst, Corporate Development & Investment | Hybrid | [View →](https://www.remotejobscan.com/job/19330/senior-analyst-corporate-development-investment/) |
-| KYC/AML Analyst | Remote | [View →](https://www.remotejobscan.com/job/19015/kycaml-analyst/) |
-| Senior Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
-| Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
