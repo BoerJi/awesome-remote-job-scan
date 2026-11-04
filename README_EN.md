@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3149</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Principal Legal Counsel, Corporate & Finance | On-site | [View →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
+| Scaled Account Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/19368/scaled-account-manager-beneficial-deployments/) |
+| Intercompany Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/19369/intercompany-accountant/) |
+| Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19358/business-recruiter/) |
+| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| Silicon Design Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19366/silicon-design-lead/) |
+| Activations Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19365/activations-manager-startups/) |
 | Procurement Operations Business Partner - Workplace, Security and People | On-site | [View →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
 | Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
 | Senior Backend Engineer (Data Platform) | Remote | [View →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
@@ -38,11 +43,6 @@
 | Legal Discovery Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
 | Manager Applied AI Architecture, Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
-| Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
-| Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
-| Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/19353/accounting-analytics-bi-engineer/) |
-| Business Recruiter, London | On-site | [View →](https://www.remotejobscan.com/job/19351/business-recruiter-london/) |
-| Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3149</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 企业融资首席法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
+| 规模化客户经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19368/scaled-account-manager-beneficial-deployments/) |
+| 内部会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19369/intercompany-accountant/) |
+| 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19358/business-recruiter/) |
+| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| 硅设计主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19366/silicon-design-lead/) |
+| 初创公司激活经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19365/activations-manager-startups/) |
 | 采购运营业务合作伙伴 - 办公场所、安全和人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
 | 中东部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
 | 高级后端工程师（数据平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
@@ -38,11 +43,6 @@
 | 法律发现项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
 | 应用AI架构师（医疗健康与生命科学）经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
 | 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
-| 能源供应主管 - 电力供应和电力购买协议 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
-| 美国和加拿大天然气供应与运输主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
-| 会计分析与商业智能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19353/accounting-analytics-bi-engineer/) |
-| 伦敦业务招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19351/business-recruiter-london/) |
-| AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
