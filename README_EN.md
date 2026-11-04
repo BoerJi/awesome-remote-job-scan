@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/17245/applied-ai-architect-partnerships/) |
+| Senior Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
+| Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
 | Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
 | Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
 | Performance Marketing Manager, Paid Search & AI Advertising | On-site | [View →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
@@ -38,10 +41,6 @@
 | Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Platform Intelligence | On-site | [View →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
-| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19318/customer-support-specialist-ll/) |
-| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
-| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
-| Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19316/head-of-creative-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
