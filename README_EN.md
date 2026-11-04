@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3150</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Principal Legal Counsel, Corporate & Finance | On-site | [View →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
+| Procurement Operations Business Partner - Workplace, Security and People | On-site | [View →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
+| Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
+| Senior Backend Engineer (Data Platform) | Remote | [View →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
+| Prime Financing Trading Analyst | Remote | [View →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
 | Technical Program Manager, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/19359/technical-program-manager-people-innovation-labs/) |
-| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19358/recruiter-gtm/) |
 | Product Content Creator | Hybrid | [View →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
 | Google Cloud GTM Partnerships Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19357/google-cloud-gtm-partnerships-lead-emea/) |
 | Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
@@ -39,10 +43,6 @@
 | Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/19353/accounting-analytics-bi-engineer/) |
 | Business Recruiter, London | On-site | [View →](https://www.remotejobscan.com/job/19351/business-recruiter-london/) |
 | Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
-| AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19350/ai-deployment-manager-builder/) |
-| Portfolio Product Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
-| Head of Performance Marketing | On-site | [View →](https://www.remotejobscan.com/job/19349/head-of-performance-marketing/) |
-| AI Deployment Manager - Knowledge (Korean-Speaking) | On-site | [View →](https://www.remotejobscan.com/job/19346/ai-deployment-manager-knowledge-korean-speaking/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

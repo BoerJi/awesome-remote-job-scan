@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3150</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业融资首席法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
+| 采购运营业务合作伙伴 - 办公场所、安全和人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
+| 中东部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
+| 高级后端工程师（数据平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
+| prime融资交易分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
 | 人员创新实验室技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19359/technical-program-manager-people-innovation-labs/) |
-| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19358/recruiter-gtm/) |
 | 产品内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
 | 谷歌云区域能力中心合作伙伴关系负责人，欧洲、中东、非洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19357/google-cloud-gtm-partnerships-lead-emea/) |
 | 能源专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
@@ -39,10 +43,6 @@
 | 会计分析与商业智能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19353/accounting-analytics-bi-engineer/) |
 | 伦敦业务招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19351/business-recruiter-london/) |
 | AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
-| AI部署经理 - 构建者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19350/ai-deployment-manager-builder/) |
-| 产品组合营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
-| 绩效营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19349/head-of-performance-marketing/) |
-| AI部署经理 - 知识（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19346/ai-deployment-manager-knowledge-korean-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
