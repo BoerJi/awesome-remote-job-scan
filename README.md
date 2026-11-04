@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心能源负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
+| 技术团队成员（增长GTM工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19313/member-of-technical-staff-gtm-engineer-growth/) |
+| 合作伙伴专业领域负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19312/partner-specializations-lead/) |
 | 社会支持专员I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
 | 东南亚应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19304/head-of-asean-applied-ai/) |
 | 客户支持专家II-3 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
@@ -39,9 +42,6 @@
 | 会计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
 | 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | 高级移动工程师，(iOS/Android) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
-| iOS高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9686/staff-software-engineer-ios/) |
-| 安卓高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11565/staff-software-engineer-android/) |
-| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17926/recruiter-applied-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
