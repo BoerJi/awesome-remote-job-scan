@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19317/customer-support-specialist-ii/) |
+| 行业与体验营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
+| 内容与解决方案营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
 | 百吉特百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
 | Staff+ 平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | 高级软件工程师，平台智能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
@@ -39,9 +41,6 @@
 | 社会支持专员I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
 | 东南亚应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19304/head-of-asean-applied-ai/) |
 | 客户支持专家II-3 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
-| 模型风险总监—人工智能与欺诈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
-| AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
-| 公共部门应用AI架构师（州及地方政府） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

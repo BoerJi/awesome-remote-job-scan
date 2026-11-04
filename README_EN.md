@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3160</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19317/customer-support-specialist-ii/) |
+| Industry & Experiential Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
+| Content & Solutions Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
 | Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
 | Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
 | Staff+ Software Engineer, Platform Intelligence | On-site | [View →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
@@ -39,8 +41,6 @@
 | Social Support Specialist I | Remote | [View →](https://www.remotejobscan.com/job/19309/social-support-specialist-i/) |
 | Head of ASEAN, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19304/head-of-asean-applied-ai/) |
 | Customer Support Specialist II-3 | On-site | [View →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
-| Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
-| Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
