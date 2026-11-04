@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3153</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Program Manager, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/19359/technical-program-manager-people-innovation-labs/) |
+| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19358/recruiter-gtm/) |
+| Product Content Creator | Hybrid | [View →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
+| Google Cloud GTM Partnerships Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19357/google-cloud-gtm-partnerships-lead-emea/) |
+| Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
+| Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
 | Data Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer-gtm-systems/) |
 | Senior Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19356/senior-operations-associate/) |
 | Legal Discovery Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
@@ -37,12 +43,6 @@
 | Portfolio Product Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
 | Head of Performance Marketing | On-site | [View →](https://www.remotejobscan.com/job/19349/head-of-performance-marketing/) |
 | AI Deployment Manager - Knowledge (Korean-Speaking) | On-site | [View →](https://www.remotejobscan.com/job/19346/ai-deployment-manager-knowledge-korean-speaking/) |
-| Senior Software Engineer, Identity & Regulatory Platform | Remote | [View →](https://www.remotejobscan.com/job/19345/senior-software-engineer-identity-regulatory-platform/) |
-| Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19344/sales-manager-startups-new-business-uki/) |
-| AI Deployment Manager - Knowledge | Hybrid | [View →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
-| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
-| Senior Mobile Engineer, (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
-| Head of Sales, Defense & Intelligence | Remote | [View →](https://www.remotejobscan.com/job/19341/head-of-sales-defense-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

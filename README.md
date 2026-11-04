@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3153</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 人员创新实验室技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19359/technical-program-manager-people-innovation-labs/) |
+| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19358/recruiter-gtm/) |
+| 产品内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
+| 谷歌云区域能力中心合作伙伴关系负责人，欧洲、中东、非洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19357/google-cloud-gtm-partnerships-lead-emea/) |
+| 能源专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
+| ANZ 大型企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
 | GTM系统数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19135/data-engineer-gtm-systems/) |
 | 高级运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19356/senior-operations-associate/) |
 | 法律发现项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
@@ -37,12 +43,6 @@
 | 产品组合营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19348/portfolio-product-marketing-lead/) |
 | 绩效营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19349/head-of-performance-marketing/) |
 | AI部署经理 - 知识（韩语） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19346/ai-deployment-manager-knowledge-korean-speaking/) |
-| 高级软件工程师，身份与监管平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19345/senior-software-engineer-identity-regulatory-platform/) |
-| 初创企业销售经理 | 新业务英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19344/sales-manager-startups-new-business-uki/) |
-| AI部署经理 - 知识 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
-| 客户支持专家II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
-| 高级移动工程师，(iOS/Android) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
-| 国防与情报销售主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19341/head-of-sales-defense-intelligence/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
