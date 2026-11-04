@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3162</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
 | Data Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer-gtm-systems/) |
+| Senior Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19356/senior-operations-associate/) |
+| Legal Discovery Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
+| Manager Applied AI Architecture, Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
+| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
 | Energy Supply Lead - Power Supply and PPA | On-site | [View →](https://www.remotejobscan.com/job/19205/energy-supply-lead-power-supply-and-ppa/) |
 | Gas Supply and Transport Lead, US and Canada | On-site | [View →](https://www.remotejobscan.com/job/19206/gas-supply-and-transport-lead-us-and-canada/) |
 | Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/19353/accounting-analytics-bi-engineer/) |
@@ -39,10 +42,7 @@
 | AI Deployment Manager - Knowledge | Hybrid | [View →](https://www.remotejobscan.com/job/19343/ai-deployment-manager-knowledge/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19342/customer-support-specialist-ii/) |
 | Senior Mobile Engineer, (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
-| Group Product Manager, Compliance Agent Experience | Remote | [View →](https://www.remotejobscan.com/job/9212/group-product-manager-compliance-agent-experience/) |
 | Head of Sales, Defense & Intelligence | Remote | [View →](https://www.remotejobscan.com/job/19341/head-of-sales-defense-intelligence/) |
-| Editor, Research Team | On-site | [View →](https://www.remotejobscan.com/job/19340/editor-research-team/) |
-| Payments Risk Specialist I | On-site | [View →](https://www.remotejobscan.com/job/19339/payments-risk-specialist-i/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
