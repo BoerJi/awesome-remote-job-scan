@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3149</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3147</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 绿色田野经理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19370/greenfield-manager-startups/) |
+| 安装基础管理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
+| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
+| GTM人才合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19374/talent-partner-gtm/) |
+| 内容设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19375/content-designer/) |
+| 研究产品经理，实验室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19372/research-product-manager-labs/) |
+| 企业金融首席法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
+| 金融犯罪经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19371/financial-crime-manager/) |
+| Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| 软件工程师，计算 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| 高级支付产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19367/senior-product-manager-payments/) |
 | 规模化客户经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19368/scaled-account-manager-beneficial-deployments/) |
 | 内部会计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19369/intercompany-accountant/) |
 | 业务招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19358/business-recruiter/) |
@@ -32,17 +43,6 @@
 | 采购运营业务合作伙伴 - 办公场所、安全和人员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
 | 中东部署策略主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
 | 高级后端工程师（数据平台） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
-| prime融资交易分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
-| 人员创新实验室技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19359/technical-program-manager-people-innovation-labs/) |
-| 产品内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
-| 谷歌云区域能力中心合作伙伴关系负责人，欧洲、中东、非洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19357/google-cloud-gtm-partnerships-lead-emea/) |
-| 能源专项项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
-| ANZ 大型企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
-| GTM系统数据工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19135/data-engineer-gtm-systems/) |
-| 高级运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19356/senior-operations-associate/) |
-| 法律发现项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
-| 应用AI架构师（医疗健康与生命科学）经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
-| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

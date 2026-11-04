@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3149</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3147</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Greenfield Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19370/greenfield-manager-startups/) |
+| Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
+| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
+| Talent Partner, GTM | Remote | [View →](https://www.remotejobscan.com/job/19374/talent-partner-gtm/) |
+| Content Designer | On-site | [View →](https://www.remotejobscan.com/job/19375/content-designer/) |
+| Research Product Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/19372/research-product-manager-labs/) |
+| Principal Legal Counsel, Corporate & Finance | On-site | [View →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
+| Financial Crime Manager | On-site | [View →](https://www.remotejobscan.com/job/19371/financial-crime-manager/) |
+| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| Senior Product Manager, Payments | Remote | [View →](https://www.remotejobscan.com/job/19367/senior-product-manager-payments/) |
 | Scaled Account Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/19368/scaled-account-manager-beneficial-deployments/) |
 | Intercompany Accountant | Hybrid | [View →](https://www.remotejobscan.com/job/19369/intercompany-accountant/) |
 | Business Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19358/business-recruiter/) |
@@ -32,17 +43,6 @@
 | Procurement Operations Business Partner - Workplace, Security and People | On-site | [View →](https://www.remotejobscan.com/job/19362/procurement-operations-business-partner-workplace-security-and-people/) |
 | Deployment Strategist Lead - Middle East | Remote | [View →](https://www.remotejobscan.com/job/19363/deployment-strategist-lead-middle-east/) |
 | Senior Backend Engineer (Data Platform) | Remote | [View →](https://www.remotejobscan.com/job/19361/senior-backend-engineer-data-platform/) |
-| Prime Financing Trading Analyst | Remote | [View →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
-| Technical Program Manager, People Innovation Labs | Hybrid | [View →](https://www.remotejobscan.com/job/19359/technical-program-manager-people-innovation-labs/) |
-| Product Content Creator | Hybrid | [View →](https://www.remotejobscan.com/job/18997/product-content-creator/) |
-| Google Cloud GTM Partnerships Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19357/google-cloud-gtm-partnerships-lead-emea/) |
-| Energy Special Projects | On-site | [View →](https://www.remotejobscan.com/job/19204/energy-special-projects/) |
-| Sales Manager, ANZ | Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19284/sales-manager-anz-large-enterprise/) |
-| Data Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-engineer-gtm-systems/) |
-| Senior Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19356/senior-operations-associate/) |
-| Legal Discovery Program Manager | On-site | [View →](https://www.remotejobscan.com/job/19355/legal-discovery-program-manager/) |
-| Manager Applied AI Architecture, Healthcare & Life Sciences | On-site | [View →](https://www.remotejobscan.com/job/14068/manager-applied-ai-architecture-healthcare-life-sciences/) |
-| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19354/recruiter-applied-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
