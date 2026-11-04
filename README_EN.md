@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3156</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19316/head-of-creative-operations/) |
+| Senior Associate, Compliance Model Governance | Remote | [View →](https://www.remotejobscan.com/job/19314/senior-associate-compliance-model-governance/) |
+| Data Scientist, Analytics Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/19315/data-scientist-analytics-enablement/) |
 | Data Center Energy Lead | On-site | [View →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
 | Member of Technical Staff (GTM Engineer, Growth) | On-site | [View →](https://www.remotejobscan.com/job/19313/member-of-technical-staff-gtm-engineer-growth/) |
 | Partner Specializations Lead | On-site | [View →](https://www.remotejobscan.com/job/19312/partner-specializations-lead/) |
@@ -38,9 +41,6 @@
 | Art Director, Research Team | Hybrid | [View →](https://www.remotejobscan.com/job/19303/art-director-research-team/) |
 | Counsel, AI Safety & Cyber Incident Response | Hybrid | [View →](https://www.remotejobscan.com/job/19301/counsel-ai-safety-cyber-incident-response/) |
 | Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
-| Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
-| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| Senior Mobile Engineer, (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/11738/senior-mobile-engineer-iosandroid/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
