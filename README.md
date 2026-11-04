@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19317/customer-support-specialist-ii/) |
+| 百吉特百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
+| Staff+ 平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
+| 高级软件工程师，平台智能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
+| 客户支持专员 ll | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19318/customer-support-specialist-ll/) |
+| Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 | 创意运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19316/head-of-creative-operations/) |
 | 高级合规模型治理专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19314/senior-associate-compliance-model-governance/) |
 | 数据分析赋能科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19315/data-scientist-analytics-enablement/) |
@@ -35,13 +42,6 @@
 | 模型风险总监—人工智能与欺诈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
 | AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19307/director-model-risk-ai-fraud/) |
 | 公共部门应用AI架构师（州及地方政府） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
-| 高级工程师，分布式存储与HPC及AI基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| 金融工程团队高级后端工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19305/staff-backend-engineer-financial-engineering/) |
-| 招聘寻访专员，业务（市场拓展、基础设施战略和行政支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-and-ga/) |
-| 合作伙伴服务交付与成功负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19302/head-of-partner-services-delivery-and-success/) |
-| 研究团队艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19303/art-director-research-team/) |
-| AI安全与网络事件响应法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19301/counsel-ai-safety-cyber-incident-response/) |
-| 高级会计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

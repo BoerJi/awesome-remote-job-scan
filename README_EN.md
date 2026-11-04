@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3156</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19317/customer-support-specialist-ii/) |
+| Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
+| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
+| Staff+ Software Engineer, Platform Intelligence | On-site | [View →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
+| Customer Support Specialist ll | On-site | [View →](https://www.remotejobscan.com/job/19318/customer-support-specialist-ll/) |
+| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 | Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19316/head-of-creative-operations/) |
 | Senior Associate, Compliance Model Governance | Remote | [View →](https://www.remotejobscan.com/job/19314/senior-associate-compliance-model-governance/) |
 | Data Scientist, Analytics Enablement | Hybrid | [View →](https://www.remotejobscan.com/job/19315/data-scientist-analytics-enablement/) |
@@ -34,13 +41,6 @@
 | Customer Support Specialist II-3 | On-site | [View →](https://www.remotejobscan.com/job/19308/customer-support-specialist-ii-3/) |
 | Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
 | Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
-| Staff Engineer, Distributed Storage and HPC & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-and-hpc-ai-infrastructure/) |
-| Staff Backend Engineer, Financial Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19305/staff-backend-engineer-financial-engineering/) |
-| Recruiting Sourcer, Business (GTM, Infrastructure Strategy, and G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-and-ga/) |
-| Head of Partner Services Delivery and Success | Remote | [View →](https://www.remotejobscan.com/job/19302/head-of-partner-services-delivery-and-success/) |
-| Art Director, Research Team | Hybrid | [View →](https://www.remotejobscan.com/job/19303/art-director-research-team/) |
-| Counsel, AI Safety & Cyber Incident Response | Hybrid | [View →](https://www.remotejobscan.com/job/19301/counsel-ai-safety-cyber-incident-response/) |
-| Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
