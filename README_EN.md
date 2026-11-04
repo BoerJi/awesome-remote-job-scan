@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Manager, Forward Deployed Engineering | On-site | [View →](https://www.remotejobscan.com/job/19332/manager-forward-deployed-engineering/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
+| Senior Analyst, Corporate Development & Investment | Hybrid | [View →](https://www.remotejobscan.com/job/19330/senior-analyst-corporate-development-investment/) |
+| KYC/AML Analyst | Remote | [View →](https://www.remotejobscan.com/job/19015/kycaml-analyst/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/17245/applied-ai-architect-partnerships/) |
 | Senior Talent Acquisition Manager | Remote | [View →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
 | Anthropic Research Resident | On-site | [View →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
@@ -30,17 +37,11 @@
 | Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
 | Performance Marketing Manager, Paid Search & AI Advertising | On-site | [View →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
 | Integrated Campaigns Manager | On-site | [View →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Sr. Product Marketing Manager, LATAM | Remote | [View →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
 | Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | Industry & Experiential Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
 | Content & Solutions Marketing Lead, Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
 | Customer Support Specialist II | On-site | [View →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
-| Compliance Officer, Bermuda | Remote | [View →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
-| Staff+ Software Engineer, Platform | On-site | [View →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| Staff+ Software Engineer, Platform Intelligence | On-site | [View →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

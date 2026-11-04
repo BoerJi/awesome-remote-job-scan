@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| 前派工程师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19332/manager-forward-deployed-engineering/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
+| 高级分析师，企业发展与投资 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19330/senior-analyst-corporate-development-investment/) |
+| KYC/AML分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19015/kycaml-analyst/) |
 | 应用AI架构师，合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17245/applied-ai-architect-partnerships/) |
 | 高级人才招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19329/senior-talent-acquisition-manager/) |
 | Anthropic研究居民 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18986/anthropic-research-resident/) |
@@ -31,17 +38,11 @@
 | Campaign & User Operations Specialist 合约活动/用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
 | 绩效营销经理，付费搜索与AI广告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19328/performance-marketing-manager-paid-search-ai-advertising/) |
 | 整合营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19327/integrated-campaigns-manager/) |
-| 高级工程师，公共云运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 拉美高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19323/sr-product-marketing-manager-latam/) |
 | 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | 行业与体验营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19321/industry-experiential-marketing-lead-ads/) |
 | 内容与解决方案营销主管，广告 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19322/content-solutions-marketing-lead-ads/) |
 | 客户支持专员II | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19320/customer-support-specialist-ii/) |
-| 百吉特百慕大合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19023/compliance-officer-bermuda/) |
-| Staff+ 平台软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9689/staff-software-engineer-platform/) |
-| 高级软件工程师，平台智能 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19319/staff-software-engineer-platform-intelligence/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-04 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
