@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3143</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3144</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Recruiting Sourcer, Business (GTM, Infrastructure Strategy, and G&A) | On-site | [View →](https://www.remotejobscan.com/job/18310/recruiting-sourcer-business-gtm-infrastructure-strategy-and-ga/) |
+| Head of Partner Services Delivery and Success | Remote | [View →](https://www.remotejobscan.com/job/19302/head-of-partner-services-delivery-and-success/) |
+| Art Director, Research Team | Hybrid | [View →](https://www.remotejobscan.com/job/19303/art-director-research-team/) |
+| Counsel, AI Safety & Cyber Incident Response | Hybrid | [View →](https://www.remotejobscan.com/job/19301/counsel-ai-safety-cyber-incident-response/) |
 | Senior Accountant | On-site | [View →](https://www.remotejobscan.com/job/14384/senior-accountant/) |
 | Accounting Manager | On-site | [View →](https://www.remotejobscan.com/job/12110/accounting-manager/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
@@ -39,10 +43,6 @@
 | Growth Marketing Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19294/growth-marketing-lead-emea/) |
 | Data Annotation Specialist, Safety | Remote | [View →](https://www.remotejobscan.com/job/19295/data-annotation-specialist-safety/) |
 | Senior Sales Operations Specialist | Remote | [View →](https://www.remotejobscan.com/job/15288/senior-sales-operations-specialist/) |
-| Back End Developer(Golang) | On-site | [View →](https://www.remotejobscan.com/job/19292/back-end-developergolang/) |
-| ML Silicon Performance Lead | On-site | [View →](https://www.remotejobscan.com/job/19291/ml-silicon-performance-lead/) |
-| Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
-| Technical CBRN-E Threat Investigator | On-site | [View →](https://www.remotejobscan.com/job/19290/technical-cbrn-e-threat-investigator/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-04 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
