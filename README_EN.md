@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19399/sales-manager-startups-new-business-uki/) |
 | Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
 | Senior/Staff Java Engineer, Fraud Risk | On-site | [View →](https://www.remotejobscan.com/job/19398/seniorstaff-java-engineer-fraud-risk/) |
@@ -42,7 +43,6 @@
 | Sales Development Leader, Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19394/sales-development-leader-singapore/) |
 | AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19393/ai-deployment-manager-builder/) |
 | Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
-| Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
