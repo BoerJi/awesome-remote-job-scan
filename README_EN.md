@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Leader, Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19394/sales-development-leader-singapore/) |
+| AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19393/ai-deployment-manager-builder/) |
+| Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
+| Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
 | On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
@@ -39,9 +43,6 @@
 | Technical Program Manager, Research Compute Services | Hybrid | [View →](https://www.remotejobscan.com/job/19389/technical-program-manager-research-compute-services/) |
 | Technical Program Manager, Global Infrastructure Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19390/technical-program-manager-global-infrastructure-planning/) |
 | Technical Program Manager, Compute Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19387/technical-program-manager-compute-infrastructure/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
-| Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
-| Marketing Lead, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
