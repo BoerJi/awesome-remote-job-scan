@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,17 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
+| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
+| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/19395/senior-testing-development-expert-ai/) |
+| Senior/Staff Engineer, Liquidity Platform, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/6954/seniorstaff-engineer-liquidity-platform-trading-service/) |
 | Sales Development Leader, Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19394/sales-development-leader-singapore/) |
 | AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19393/ai-deployment-manager-builder/) |
 | Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
 | Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
 | On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
-| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
-| Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
-| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
-| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
-| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Senior Development Engineer (Legal Currency) 资深开发工程师（法币） | Remote | [View →](https://www.remotejobscan.com/job/15650/senior-development-engineer-legal-currency/) |
 | Platform Product Manager平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19391/platform-product-manager/) |
 | Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
@@ -42,7 +43,6 @@
 | Technical Program Manager, Capacity Analytics & Tooling | Hybrid | [View →](https://www.remotejobscan.com/job/19388/technical-program-manager-capacity-analytics-tooling/) |
 | Technical Program Manager, Research Compute Services | Hybrid | [View →](https://www.remotejobscan.com/job/19389/technical-program-manager-research-compute-services/) |
 | Technical Program Manager, Global Infrastructure Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19390/technical-program-manager-global-infrastructure-planning/) |
-| Technical Program Manager, Compute Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19387/technical-program-manager-compute-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
