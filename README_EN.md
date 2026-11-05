@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
+| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Senior Development Engineer (Legal Currency) 资深开发工程师（法币） | Remote | [View →](https://www.remotejobscan.com/job/15650/senior-development-engineer-legal-currency/) |
+| Platform Product Manager平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19391/platform-product-manager/) |
 | Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
 | Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
 | Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
@@ -33,15 +42,6 @@
 | Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
 | Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
 | Marketing Lead, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
-| University Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19386/university-recruiter/) |
-| Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19385/learning-education-specialist/) |
-| Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
-| Software Engineer, Agent Auth | Hybrid | [View →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
-| Software Engineer, Backend | Hybrid | [View →](https://www.remotejobscan.com/job/19378/software-engineer-backend/) |
-| Member of Technical Staff, Financial Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-financial-data/) |
-| Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/19384/engineering-manager-dashboard/) |
-| Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
-| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

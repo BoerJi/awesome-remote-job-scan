@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3163</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
+| Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
+| Senior Development Engineer (Legal Currency) 资深开发工程师（法币） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15650/senior-development-engineer-legal-currency/) |
+| Platform Product Manager平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19391/platform-product-manager/) |
 | Campaign & User Operations Specialist 合约活动/用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
 | Contract Growth Operations 合约增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
 | 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
@@ -34,15 +43,6 @@
 | 前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 | 常规武器安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
 | Claude Frontier Academy市场主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
-| 大学招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19386/university-recruiter/) |
-| 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19385/learning-education-specialist/) |
-| 连接软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
-| 软件工程师，代理认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
-| 后端软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19378/software-engineer-backend/) |
-| 财务数据技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-financial-data/) |
-| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19384/engineering-manager-dashboard/) |
-| Vercel平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
-| 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
