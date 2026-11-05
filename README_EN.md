@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
+| Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
+| Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
+| Technical Program Manager, Capacity Analytics & Tooling | Hybrid | [View →](https://www.remotejobscan.com/job/19388/technical-program-manager-capacity-analytics-tooling/) |
+| Technical Program Manager, Research Compute Services | Hybrid | [View →](https://www.remotejobscan.com/job/19389/technical-program-manager-research-compute-services/) |
+| Technical Program Manager, Global Infrastructure Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19390/technical-program-manager-global-infrastructure-planning/) |
+| Technical Program Manager, Compute Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19387/technical-program-manager-compute-infrastructure/) |
 | Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
 | Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
 | Marketing Lead, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
@@ -35,12 +42,6 @@
 | Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/19384/engineering-manager-dashboard/) |
 | Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
 | Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| Compliance Manager (MLRO), El Salvador | Remote | [View →](https://www.remotejobscan.com/job/11605/compliance-manager-mlro-el-salvador/) |
-| Engineering Manager, Integrity and Attestation | On-site | [View →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
-| Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
-| Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
-| Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
-| Account Executive - Enterprise - Telecommunications | Remote | [View →](https://www.remotejobscan.com/job/19383/account-executive-enterprise-telecommunications/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

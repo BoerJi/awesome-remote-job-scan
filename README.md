@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3163</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Campaign & User Operations Specialist 合约活动/用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
+| Contract Growth Operations 合约增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
+| 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
+| 容量分析及工具技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19388/technical-program-manager-capacity-analytics-tooling/) |
+| 研究计算服务技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19389/technical-program-manager-research-compute-services/) |
+| 全球基础设施规划技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19390/technical-program-manager-global-infrastructure-planning/) |
+| 计算基础设施技术项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19387/technical-program-manager-compute-infrastructure/) |
 | 前哨工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
 | 前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 | 常规武器安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
@@ -36,12 +43,6 @@
 | 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19384/engineering-manager-dashboard/) |
 | Vercel平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
 | 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
-| 合规经理（MLRO），萨尔瓦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11605/compliance-manager-mlro-el-salvador/) |
-| 工程经理，完整性与验证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
-| 市场监控合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
-| AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
-| 专业服务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
-| 企业客户总监 - 电信 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19383/account-executive-enterprise-telecommunications/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
