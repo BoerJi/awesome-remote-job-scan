@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | 初创企业销售经理 | 英国及爱尔兰新业务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19399/sales-manager-startups-new-business-uki/) |
 | 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
 | On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
@@ -41,8 +42,6 @@
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19395/senior-testing-development-expert-ai/) |
 | 高级/资深工程师，流动性平台，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6954/seniorstaff-engineer-liquidity-platform-trading-service/) |
 | 新加坡销售发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19394/sales-development-leader-singapore/) |
-| AI部署经理 - 构建者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19393/ai-deployment-manager-builder/) |
-| 马耳他反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
