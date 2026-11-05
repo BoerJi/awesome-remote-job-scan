@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Revenue Enablement Manager - APAC | Remote | [View →](https://www.remotejobscan.com/job/19403/revenue-enablement-manager-apac/) |
+| Head of Partner Services Delivery and Success | Remote | [View →](https://www.remotejobscan.com/job/19402/head-of-partner-services-delivery-and-success/) |
+| Executive Business Partner, EMEA (Strategy) | Hybrid | [View →](https://www.remotejobscan.com/job/19401/executive-business-partner-emea-strategy/) |
 | Senior Product Manager, Inference Platform | Remote | [View →](https://www.remotejobscan.com/job/19400/senior-product-manager-inference-platform/) |
 | Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19399/sales-manager-startups-new-business-uki/) |
@@ -39,9 +42,6 @@
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
 | Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
-| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
-| Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/19395/senior-testing-development-expert-ai/) |
-| Senior/Staff Engineer, Liquidity Platform, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/6954/seniorstaff-engineer-liquidity-platform-trading-service/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
