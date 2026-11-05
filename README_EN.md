@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, Inference Platform | Remote | [View →](https://www.remotejobscan.com/job/19400/senior-product-manager-inference-platform/) |
 | Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 | Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19399/sales-manager-startups-new-business-uki/) |
 | Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
@@ -41,7 +42,6 @@
 | Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 | Senior Testing Development Expert 资深测试开发专家（自动化落地 & AI效能方向） | Remote | [View →](https://www.remotejobscan.com/job/19395/senior-testing-development-expert-ai/) |
 | Senior/Staff Engineer, Liquidity Platform, Trading Service | On-site | [View →](https://www.remotejobscan.com/job/6954/seniorstaff-engineer-liquidity-platform-trading-service/) |
-| Sales Development Leader, Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19394/sales-development-leader-singapore/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
