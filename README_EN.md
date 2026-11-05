@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
+| Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
+| Marketing Lead, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
 | University Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19386/university-recruiter/) |
 | Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19385/learning-education-specialist/) |
 | Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
@@ -38,10 +41,6 @@
 | Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
 | Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
 | Account Executive - Enterprise - Telecommunications | Remote | [View →](https://www.remotejobscan.com/job/19383/account-executive-enterprise-telecommunications/) |
-| FP&A Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
-| Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
-| Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
-| Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

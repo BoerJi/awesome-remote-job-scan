@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3159</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前哨工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18157/forward-deployed-engineer/) |
+| 前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| 常规武器安全合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
+| Claude Frontier Academy市场主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
 | 大学招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19386/university-recruiter/) |
 | 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19385/learning-education-specialist/) |
 | 连接软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
@@ -38,10 +42,6 @@
 | AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
 | 专业服务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
 | 企业客户总监 - 电信 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19383/account-executive-enterprise-telecommunications/) |
-| FP&A产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15727/fpa-manager-product/) |
-| 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
-| 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
-| 初创企业、绿野仙踪 - 账户执行经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
