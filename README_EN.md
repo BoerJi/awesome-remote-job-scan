@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| University Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19386/university-recruiter/) |
+| Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19385/learning-education-specialist/) |
 | Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 | Software Engineer, Agent Auth | Hybrid | [View →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
 | Software Engineer, Backend | Hybrid | [View →](https://www.remotejobscan.com/job/19378/software-engineer-backend/) |
@@ -40,8 +42,6 @@
 | Head of Southern Europe & MEA, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | Senior Legal Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 | Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| Data Center Facility Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19377/data-center-facility-operations-lead/) |
-| Senior Compliance Analyst, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-analyst-kyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

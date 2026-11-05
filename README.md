@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 大学招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19386/university-recruiter/) |
+| 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19385/learning-education-specialist/) |
 | 连接软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 | 软件工程师，代理认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
 | 后端软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19378/software-engineer-backend/) |
@@ -40,8 +42,6 @@
 | 南欧及中东应用人工智能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18395/head-of-southern-europe-mea-applied-ai/) |
 | 高级产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9783/senior-legal-counsel-product/) |
 | 初创企业、绿野仙踪 - 账户执行经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| 数据中心设施运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19377/data-center-facility-operations-lead/) |
-| 高级合规分析师，KYC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19376/senior-compliance-analyst-kyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
