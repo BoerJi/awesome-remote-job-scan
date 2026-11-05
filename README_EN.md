@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Scientist, Discovery (Engineering & Applied Sciences) | On-site | [View →](https://www.remotejobscan.com/job/19418/research-scientist-discovery-engineering-applied-sciences/) |
+| Presentation Designer, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/19419/presentation-designer-business-marketing/) |
+| BIM Designer & Coordinator: Civil | Remote | [View →](https://www.remotejobscan.com/job/19420/bim-designer-coordinator-civil/) |
+| Senior Product Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/13565/senior-product-manager-inference/) |
+| Data Center Energy Lead | Remote | [View →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
+| GTM Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19416/gtm-recruiter/) |
+| Solutions Engineer | Remote | [View →](https://www.remotejobscan.com/job/19417/solutions-engineer/) |
 | Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | Product Finance & Strategy, Claude Platform, Forecasting & Rhythms | On-site | [View →](https://www.remotejobscan.com/job/19411/product-finance-strategy-claude-platform-forecasting-rhythms/) |
 | Applied AI Delivery Lead - Remote in AMER | Remote | [View →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
@@ -30,18 +37,11 @@
 | Applied Scientist, Engineering | On-site | [View →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
 | Head of Enablement Experience & Innovation | On-site | [View →](https://www.remotejobscan.com/job/19410/head-of-enablement-experience-innovation/) |
 | Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/19415/talent-lead/) |
-| GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/19414/gtm-recruiter/) |
 | Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 | Internal Communications Manager, Product | On-site | [View →](https://www.remotejobscan.com/job/19408/internal-communications-manager-product/) |
 | Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19407/head-of-creative-operations/) |
 | Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
 | Product Marketing Lead, Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/19405/product-marketing-lead-verticals/) |
-| Forward Deployed Engineering Manager, Financial Services | Hybrid | [View →](https://www.remotejobscan.com/job/19404/forward-deployed-engineering-manager-financial-services/) |
-| Revenue Enablement Manager - APAC | Remote | [View →](https://www.remotejobscan.com/job/19403/revenue-enablement-manager-apac/) |
-| Head of Partner Services Delivery and Success | Remote | [View →](https://www.remotejobscan.com/job/19402/head-of-partner-services-delivery-and-success/) |
-| Executive Business Partner, EMEA (Strategy) | Hybrid | [View →](https://www.remotejobscan.com/job/19401/executive-business-partner-emea-strategy/) |
-| Senior Product Manager, Inference Platform | Remote | [View →](https://www.remotejobscan.com/job/19400/senior-product-manager-inference-platform/) |
-| Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

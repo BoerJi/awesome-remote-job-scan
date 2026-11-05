@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 发现研究员，工程与应用科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19418/research-scientist-discovery-engineering-applied-sciences/) |
+| 商业营销演示设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19419/presentation-designer-business-marketing/) |
+| 土木BIM设计师与协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19420/bim-designer-coordinator-civil/) |
+| 高级推理产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13565/senior-product-manager-inference/) |
+| 数据中心能源主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
+| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19416/gtm-recruiter/) |
+| 解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19417/solutions-engineer/) |
 | 产品经理 II，钱包与 DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | 产品财务与战略、Claude平台、预测与节奏 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19411/product-finance-strategy-claude-platform-forecasting-rhythms/) |
 | 应用AI交付主管 - 美洲远程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
@@ -36,12 +43,6 @@
 | 创意运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19407/head-of-creative-operations/) |
 | 计费运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
 | 垂直领域产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19405/product-marketing-lead-verticals/) |
-| 金融服务前沿部署工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19404/forward-deployed-engineering-manager-financial-services/) |
-| 亚太区营收赋能经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19403/revenue-enablement-manager-apac/) |
-| 合作伙伴服务交付与成功负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19402/head-of-partner-services-delivery-and-success/) |
-| 欧洲、中东、非洲地区（战略）执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19401/executive-business-partner-emea-strategy/) |
-| 推理平台高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19400/senior-product-manager-inference-platform/) |
-| 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
