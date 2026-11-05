@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3156</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Lead, Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/19405/product-marketing-lead-verticals/) |
+| Forward Deployed Engineering Manager, Financial Services | Hybrid | [View →](https://www.remotejobscan.com/job/19404/forward-deployed-engineering-manager-financial-services/) |
 | Revenue Enablement Manager - APAC | Remote | [View →](https://www.remotejobscan.com/job/19403/revenue-enablement-manager-apac/) |
 | Head of Partner Services Delivery and Success | Remote | [View →](https://www.remotejobscan.com/job/19402/head-of-partner-services-delivery-and-success/) |
 | Executive Business Partner, EMEA (Strategy) | Hybrid | [View →](https://www.remotejobscan.com/job/19401/executive-business-partner-emea-strategy/) |
@@ -40,8 +42,6 @@
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
-| Transaction Monitoring Analyst 交易监控分析师 | Remote | [View →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
-| Market Surveillance Analyst 市场监察分析师 | Remote | [View →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
