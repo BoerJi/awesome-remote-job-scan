@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3160</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
+| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
+| Site Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9791/site-engineer/) |
+| Applied AI, Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
+| Sales Development Manager - Central | On-site | [View →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
+| User Education Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| Technical Program Manager, CX Intelligence & AI | Remote | [View →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
+| Technical Program Manager, Knowledge Systems | Remote | [View →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
+| Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
+| Senior Global Security Investigator | Hybrid | [View →](https://www.remotejobscan.com/job/19427/senior-global-security-investigator/) |
 | Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19426/quant-developer/) |
 | Head of Sales, Southern Europe (Italy, Spain, Portugal) | Remote | [View →](https://www.remotejobscan.com/job/19423/head-of-sales-southern-europe-italy-spain-portugal/) |
 | Lead IT Applications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19424/lead-it-applications-manager/) |
@@ -30,19 +42,6 @@
 | Software Engineer, Agent Platform | Hybrid | [View →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
 | Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
 | GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
-| Product Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
-| Research Scientist, Discovery (Engineering & Applied Sciences) | On-site | [View →](https://www.remotejobscan.com/job/19418/research-scientist-discovery-engineering-applied-sciences/) |
-| Presentation Designer, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/19419/presentation-designer-business-marketing/) |
-| BIM Designer & Coordinator: Civil | Remote | [View →](https://www.remotejobscan.com/job/19420/bim-designer-coordinator-civil/) |
-| Senior Product Manager, Inference | On-site | [View →](https://www.remotejobscan.com/job/13565/senior-product-manager-inference/) |
-| Data Center Energy Lead | Remote | [View →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
-| GTM Recruiter | On-site | [View →](https://www.remotejobscan.com/job/19416/gtm-recruiter/) |
-| Solutions Engineer | Remote | [View →](https://www.remotejobscan.com/job/19417/solutions-engineer/) |
-| Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
-| Product Finance & Strategy, Claude Platform, Forecasting & Rhythms | On-site | [View →](https://www.remotejobscan.com/job/19411/product-finance-strategy-claude-platform-forecasting-rhythms/) |
-| Applied AI Delivery Lead - Remote in AMER | Remote | [View →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
-| Applied AI Delivery Lead - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19412/applied-ai-delivery-lead-nyc/) |
-| Applied Scientist, Engineering | On-site | [View →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

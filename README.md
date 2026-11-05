@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,19 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Compute产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
+| 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
+| 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
+| 站点工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
+| 应用AI研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
+| 中央销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
+| 用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
+| 知识系统技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
+| WFM合规运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
+| 高级全球安全调查员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19427/senior-global-security-investigator/) |
 | 量化开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19426/quant-developer/) |
 | 南欧销售主管（意大利、西班牙、葡萄牙） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19423/head-of-sales-southern-europe-italy-spain-portugal/) |
 | IT应用主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19424/lead-it-applications-manager/) |
@@ -30,19 +43,6 @@
 | 软件工程师，智能代理平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
 | 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
 | GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
-| 产品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
-| 发现研究员，工程与应用科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19418/research-scientist-discovery-engineering-applied-sciences/) |
-| 商业营销演示设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19419/presentation-designer-business-marketing/) |
-| 土木BIM设计师与协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19420/bim-designer-coordinator-civil/) |
-| 高级推理产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13565/senior-product-manager-inference/) |
-| 数据中心能源主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19300/data-center-energy-lead/) |
-| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19416/gtm-recruiter/) |
-| 解决方案工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19417/solutions-engineer/) |
-| 产品经理 II，钱包与 DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
-| 产品财务与战略、Claude平台、预测与节奏 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19411/product-finance-strategy-claude-platform-forecasting-rhythms/) |
-| 应用AI交付主管 - 美洲远程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
-| 纽约应用AI交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19412/applied-ai-delivery-lead-nyc/) |
-| 应用科学家，工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
