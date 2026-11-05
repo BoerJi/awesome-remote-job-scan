@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
+| Web3 Business Development | Remote | [View →](https://www.remotejobscan.com/job/19396/web3-business-development/) |
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 | Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Fund Security Strategy Analyst 资金安全策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
@@ -40,9 +43,6 @@
 | Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
 | Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
 | Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
-| Technical Program Manager, Capacity Analytics & Tooling | Hybrid | [View →](https://www.remotejobscan.com/job/19388/technical-program-manager-capacity-analytics-tooling/) |
-| Technical Program Manager, Research Compute Services | Hybrid | [View →](https://www.remotejobscan.com/job/19389/technical-program-manager-research-compute-services/) |
-| Technical Program Manager, Global Infrastructure Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19390/technical-program-manager-global-infrastructure-planning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
