@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3152</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
+| Product Finance & Strategy, Claude Platform, Forecasting & Rhythms | On-site | [View →](https://www.remotejobscan.com/job/19411/product-finance-strategy-claude-platform-forecasting-rhythms/) |
+| Applied AI Delivery Lead - Remote in AMER | Remote | [View →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
+| Applied AI Delivery Lead - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19412/applied-ai-delivery-lead-nyc/) |
+| Applied Scientist, Engineering | On-site | [View →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
+| Head of Enablement Experience & Innovation | On-site | [View →](https://www.remotejobscan.com/job/19410/head-of-enablement-experience-innovation/) |
+| Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/19415/talent-lead/) |
+| GTM Recruiter | Remote | [View →](https://www.remotejobscan.com/job/19414/gtm-recruiter/) |
+| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 | Internal Communications Manager, Product | On-site | [View →](https://www.remotejobscan.com/job/19408/internal-communications-manager-product/) |
 | Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19407/head-of-creative-operations/) |
 | Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
@@ -33,15 +42,6 @@
 | Executive Business Partner, EMEA (Strategy) | Hybrid | [View →](https://www.remotejobscan.com/job/19401/executive-business-partner-emea-strategy/) |
 | Senior Product Manager, Inference Platform | Remote | [View →](https://www.remotejobscan.com/job/19400/senior-product-manager-inference-platform/) |
 | Senior Technical Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| Sales Manager, Startups | New Business UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19399/sales-manager-startups-new-business-uki/) |
-| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| Senior/Staff Java Engineer, Fraud Risk | On-site | [View →](https://www.remotejobscan.com/job/19398/seniorstaff-java-engineer-fraud-risk/) |
-| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
-| AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
-| Web3 Business Development | Remote | [View →](https://www.remotejobscan.com/job/19396/web3-business-development/) |
-| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

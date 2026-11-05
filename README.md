@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3152</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理 II，钱包与 DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
+| 产品财务与战略、Claude平台、预测与节奏 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19411/product-finance-strategy-claude-platform-forecasting-rhythms/) |
+| 应用AI交付主管 - 美洲远程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
+| 纽约应用AI交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19412/applied-ai-delivery-lead-nyc/) |
+| 应用科学家，工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
+| 赋能体验与创新负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19410/head-of-enablement-experience-innovation/) |
+| 人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19415/talent-lead/) |
+| GTM招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19414/gtm-recruiter/) |
+| 客户成功经理，EMEA有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 | 内部沟通经理，产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19408/internal-communications-manager-product/) |
 | 创意运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19407/head-of-creative-operations/) |
 | 计费运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
@@ -33,15 +42,6 @@
 | 欧洲、中东、非洲地区（战略）执行业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19401/executive-business-partner-emea-strategy/) |
 | 推理平台高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19400/senior-product-manager-inference-platform/) |
 | 高级技术客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9790/senior-technical-account-manager/) |
-| 初创企业销售经理 | 英国及爱尔兰新业务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19399/sales-manager-startups-new-business-uki/) |
-| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
-| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| 高级/资深Java工程师，反欺诈风险 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19398/seniorstaff-java-engineer-fraud-risk/) |
-| 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
-| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
-| AI Platform Product Lead AI中台产品负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
-| Web3业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19396/web3-business-development/) |
-| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
