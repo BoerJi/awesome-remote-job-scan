@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -31,7 +31,6 @@
 | 中央销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | 用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
 | 知识系统技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
 | WFM合规运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
@@ -43,6 +42,7 @@
 | 软件工程师，智能代理平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
 | 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
 | GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
+| 产品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 21:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 22:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

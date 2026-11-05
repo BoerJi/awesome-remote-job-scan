@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3160</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -30,7 +30,6 @@
 | Sales Development Manager - Central | On-site | [View →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | User Education Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | Technical Program Manager, CX Intelligence & AI | Remote | [View →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
 | Technical Program Manager, Knowledge Systems | Remote | [View →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
 | Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
@@ -42,6 +41,7 @@
 | Software Engineer, Agent Platform | Hybrid | [View →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
 | Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
 | GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
+| Product Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 21:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 22:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
