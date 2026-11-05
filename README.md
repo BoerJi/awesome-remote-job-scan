@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3159</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级工程师 - 法币支付，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| 高级/资深Java工程师，反欺诈风险 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19398/seniorstaff-java-engineer-fraud-risk/) |
+| 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
+| 高级机器学习工程师（风险智能/AI代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19397/staff-machine-learning-engineer-risk-intelligenceai-agent/) |
 | AI Platform Product Lead AI中台产品负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | Web3业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19396/web3-business-development/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
@@ -37,12 +43,6 @@
 | AI部署经理 - 构建者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19393/ai-deployment-manager-builder/) |
 | 马耳他反洗钱报告官副职 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
 | 新兴行业解决方案营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
-| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| Senior Development Engineer (Legal Currency) 资深开发工程师（法币） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15650/senior-development-engineer-legal-currency/) |
-| Platform Product Manager平台产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19391/platform-product-manager/) |
-| Campaign & User Operations Specialist 合约活动/用户运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
-| Contract Growth Operations 合约增长运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
-| 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

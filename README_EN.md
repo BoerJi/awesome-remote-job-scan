@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3156</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Engineer - Fiat Payment，Card | On-site | [View →](https://www.remotejobscan.com/job/9153/senior-engineer-fiat-paymentcard/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| Senior/Staff Java Engineer, Fraud Risk | On-site | [View →](https://www.remotejobscan.com/job/19398/seniorstaff-java-engineer-fraud-risk/) |
+| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
+| Localization Project Manager 本地化翻译项目经理(PMO) | Remote | [View →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
+| Staff Machine Learning Engineer (Risk Intelligence/AI Agent) | On-site | [View →](https://www.remotejobscan.com/job/19397/staff-machine-learning-engineer-risk-intelligenceai-agent/) |
 | AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | Web3 Business Development | Remote | [View →](https://www.remotejobscan.com/job/19396/web3-business-development/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | Remote | [View →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
@@ -37,12 +43,6 @@
 | AI Deployment Manager - Builder | Hybrid | [View →](https://www.remotejobscan.com/job/19393/ai-deployment-manager-builder/) |
 | Deputy Money Laundering Reporting Officer - Malta | On-site | [View →](https://www.remotejobscan.com/job/16552/deputy-money-laundering-reporting-officer-malta/) |
 | Solutions Marketing Manager, Emerging Industries | On-site | [View →](https://www.remotejobscan.com/job/18921/solutions-marketing-manager-emerging-industries/) |
-| On-Chain Risk Control Product Manager 链上风控产品经理 | Remote | [View →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
-| Senior Development Engineer (Legal Currency) 资深开发工程师（法币） | Remote | [View →](https://www.remotejobscan.com/job/15650/senior-development-engineer-legal-currency/) |
-| Platform Product Manager平台产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19391/platform-product-manager/) |
-| Campaign & User Operations Specialist 合约活动/用户运营 | Remote | [View →](https://www.remotejobscan.com/job/19326/campaign-user-operations-specialist/) |
-| Contract Growth Operations 合约增长运营 | Remote | [View →](https://www.remotejobscan.com/job/19325/contract-growth-operations/) |
-| Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
