@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3154</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3155</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19426/quant-developer/) |
+| Head of Sales, Southern Europe (Italy, Spain, Portugal) | Remote | [View →](https://www.remotejobscan.com/job/19423/head-of-sales-southern-europe-italy-spain-portugal/) |
+| Lead IT Applications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19424/lead-it-applications-manager/) |
+| Security Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19425/security-operations-engineer/) |
+| Software Engineer, Agent Platform | Hybrid | [View →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
+| Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
+| GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
+| Product Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
 | Research Scientist, Discovery (Engineering & Applied Sciences) | On-site | [View →](https://www.remotejobscan.com/job/19418/research-scientist-discovery-engineering-applied-sciences/) |
 | Presentation Designer, Business Marketing | On-site | [View →](https://www.remotejobscan.com/job/19419/presentation-designer-business-marketing/) |
 | BIM Designer & Coordinator: Civil | Remote | [View →](https://www.remotejobscan.com/job/19420/bim-designer-coordinator-civil/) |
@@ -35,18 +43,11 @@
 | Applied AI Delivery Lead - Remote in AMER | Remote | [View →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
 | Applied AI Delivery Lead - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19412/applied-ai-delivery-lead-nyc/) |
 | Applied Scientist, Engineering | On-site | [View →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
-| Head of Enablement Experience & Innovation | On-site | [View →](https://www.remotejobscan.com/job/19410/head-of-enablement-experience-innovation/) |
-| Talent Lead | Remote | [View →](https://www.remotejobscan.com/job/19415/talent-lead/) |
-| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| Internal Communications Manager, Product | On-site | [View →](https://www.remotejobscan.com/job/19408/internal-communications-manager-product/) |
-| Head of Creative Operations | Remote | [View →](https://www.remotejobscan.com/job/19407/head-of-creative-operations/) |
-| Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
-| Product Marketing Lead, Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/19405/product-marketing-lead-verticals/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 Companies Tracked（49 companies）
+## 🏢 Companies Tracked（50 companies）
 
 | Company | Website | Jobs |
 |---|---|---|
@@ -73,6 +74,7 @@
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [View jobs →](https://www.remotejobscan.com/?company=gate) |
 | <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [View jobs →](https://www.remotejobscan.com/?company=gauntlet) |
 | <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [View jobs →](https://www.remotejobscan.com/?company=gemini) |
+| <img src="images/hashoptima.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="HashOptima"> | <a href="https://www.hashoptima.com">HashOptima</a> | [View jobs →](https://www.remotejobscan.com/?company=hashoptima) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [View jobs →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [View jobs →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [View jobs →](https://www.remotejobscan.com/?company=kucoin) |
@@ -105,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

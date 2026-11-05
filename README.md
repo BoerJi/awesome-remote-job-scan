@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3154</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3155</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 量化开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19426/quant-developer/) |
+| 南欧销售主管（意大利、西班牙、葡萄牙） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19423/head-of-sales-southern-europe-italy-spain-portugal/) |
+| IT应用主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19424/lead-it-applications-manager/) |
+| 安全运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19425/security-operations-engineer/) |
+| 软件工程师，智能代理平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
+| 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
+| GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
+| 产品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
 | 发现研究员，工程与应用科学 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19418/research-scientist-discovery-engineering-applied-sciences/) |
 | 商业营销演示设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19419/presentation-designer-business-marketing/) |
 | 土木BIM设计师与协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19420/bim-designer-coordinator-civil/) |
@@ -35,19 +43,11 @@
 | 应用AI交付主管 - 美洲远程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19413/applied-ai-delivery-lead-remote-in-amer/) |
 | 纽约应用AI交付负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19412/applied-ai-delivery-lead-nyc/) |
 | 应用科学家，工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19409/applied-scientist-engineering/) |
-| 赋能体验与创新负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19410/head-of-enablement-experience-innovation/) |
-| 人才负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19415/talent-lead/) |
-| GTM招聘经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19414/gtm-recruiter/) |
-| 客户成功经理，EMEA有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| 内部沟通经理，产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19408/internal-communications-manager-product/) |
-| 创意运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19407/head-of-creative-operations/) |
-| 计费运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
-| 垂直领域产品营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19405/product-marketing-lead-verticals/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
 
-## 🏢 已收录公司（49 家）
+## 🏢 已收录公司（50 家）
 
 | 公司 | 官网 | 职位 |
 |---|---|---|
@@ -74,6 +74,7 @@
 | <img src="images/gate.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gate"> | <a href="https://www.gate.com/">Gate</a> | [查看职位 →](https://www.remotejobscan.com/?company=gate) |
 | <img src="images/gauntlet.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gauntlet"> | <a href="https://www.gauntlet.xyz/">Gauntlet</a> | [查看职位 →](https://www.remotejobscan.com/?company=gauntlet) |
 | <img src="images/gemini.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Gemini"> | <a href="https://www.gemini.com/">Gemini</a> | [查看职位 →](https://www.remotejobscan.com/?company=gemini) |
+| <img src="images/hashoptima.png" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="HashOptima"> | <a href="https://www.hashoptima.com">HashOptima</a> | [查看职位 →](https://www.remotejobscan.com/?company=hashoptima) |
 | <img src="images/hyperliquid.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Hyperliquid"> | <a href="https://hyperfoundation.org/">Hyperliquid</a> | [查看职位 →](https://www.remotejobscan.com/?company=hyperliquid) |
 | <img src="images/kraken.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="Kraken"> | <a href="https://www.kraken.com/">Kraken</a> | [查看职位 →](https://www.remotejobscan.com/?company=kraken) |
 | <img src="images/kucoin.jpg" width="32" height="32" style="border-radius:4px;object-fit:contain" alt="KuCoin"> | <a href="https://www.kucoin.com/">KuCoin</a> | [查看职位 →](https://www.remotejobscan.com/?company=kucoin) |
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
