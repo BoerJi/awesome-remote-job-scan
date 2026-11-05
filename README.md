@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3151</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3159</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 连接软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
+| 软件工程师，代理认证 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
+| 后端软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19378/software-engineer-backend/) |
+| 财务数据技术专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-financial-data/) |
+| 仪表盘工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19384/engineering-manager-dashboard/) |
+| Vercel平台工程总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
+| 软件工程师 - Next.js | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
+| 合规经理（MLRO），萨尔瓦多 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11605/compliance-manager-mlro-el-salvador/) |
+| 工程经理，完整性与验证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
 | 市场监控合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
 | AI与欺诈模型风险总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
 | 专业服务主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
@@ -33,15 +42,6 @@
 | 初创企业、绿野仙踪 - 账户执行经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | 数据中心设施运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19377/data-center-facility-operations-lead/) |
 | 高级合规分析师，KYC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19376/senior-compliance-analyst-kyc/) |
-| 绿色田野经理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19370/greenfield-manager-startups/) |
-| 安装基础管理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
-| 产品战略财务经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| GTM人才合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19374/talent-partner-gtm/) |
-| 内容设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19375/content-designer/) |
-| 研究产品经理，实验室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19372/research-product-manager-labs/) |
-| 企业金融首席法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
-| 金融犯罪经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19371/financial-crime-manager/) |
-| Anthropic研究员项目，AI安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

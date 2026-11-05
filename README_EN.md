@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>49</strong> companies · <strong>3151</strong> remote jobs · Updated every 30 min
+  📊 <strong>49</strong> companies · <strong>3159</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
+| Software Engineer, Agent Auth | Hybrid | [View →](https://www.remotejobscan.com/job/19275/software-engineer-agent-auth/) |
+| Software Engineer, Backend | Hybrid | [View →](https://www.remotejobscan.com/job/19378/software-engineer-backend/) |
+| Member of Technical Staff, Financial Data | Hybrid | [View →](https://www.remotejobscan.com/job/18646/member-of-technical-staff-financial-data/) |
+| Engineering Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/19384/engineering-manager-dashboard/) |
+| Engineering Director, Vercel for Platforms | Hybrid | [View →](https://www.remotejobscan.com/job/18567/engineering-director-vercel-for-platforms/) |
+| Software Engineer - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/15264/software-engineer-nextjs/) |
+| Compliance Manager (MLRO), El Salvador | Remote | [View →](https://www.remotejobscan.com/job/11605/compliance-manager-mlro-el-salvador/) |
+| Engineering Manager, Integrity and Attestation | On-site | [View →](https://www.remotejobscan.com/job/19125/engineering-manager-integrity-and-attestation/) |
 | Compliance Analyst, Market Surveillance | On-site | [View →](https://www.remotejobscan.com/job/18509/compliance-analyst-market-surveillance/) |
 | Director, Model Risk — AI & Fraud | On-site | [View →](https://www.remotejobscan.com/job/19306/director-model-risk-ai-fraud/) |
 | Head of Professional Services | Hybrid | [View →](https://www.remotejobscan.com/job/11345/head-of-professional-services/) |
@@ -33,15 +42,6 @@
 | Account Executive- Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
 | Data Center Facility Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19377/data-center-facility-operations-lead/) |
 | Senior Compliance Analyst, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-analyst-kyc/) |
-| Greenfield Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19370/greenfield-manager-startups/) |
-| Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
-| Strategic Finance Manager, Product | Hybrid | [View →](https://www.remotejobscan.com/job/9814/strategic-finance-manager-product/) |
-| Talent Partner, GTM | Remote | [View →](https://www.remotejobscan.com/job/19374/talent-partner-gtm/) |
-| Content Designer | On-site | [View →](https://www.remotejobscan.com/job/19375/content-designer/) |
-| Research Product Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/19372/research-product-manager-labs/) |
-| Principal Legal Counsel, Corporate & Finance | On-site | [View →](https://www.remotejobscan.com/job/19364/principal-legal-counsel-corporate-finance/) |
-| Financial Crime Manager | On-site | [View →](https://www.remotejobscan.com/job/19371/financial-crime-manager/) |
-| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
