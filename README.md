@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，定时任务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
+| 企业级创意专家 - 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
+| 咨询领域创始全栈软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
 | 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | 软件工程师，后端（交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
 | 软件工程师，Guardian团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
@@ -36,13 +39,10 @@
 | 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
 | 站点工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
 | 应用AI研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
-| 中央销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | 用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
 | 知识系统技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
-| WFM合规运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
-| 高级全球安全调查员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19427/senior-global-security-investigator/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
