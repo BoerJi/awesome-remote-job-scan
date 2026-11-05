@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3157</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| 软件工程师，后端（交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
+| 软件工程师，Guardian团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
+| 前部署工程师 (FDE) - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19432/forward-deployed-engineer-fde-nyc/) |
+| 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
+| 高级软件工程师，后端/全栈（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
+| 高级顾问，AI产品（企业/API） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19431/senior-counsel-ai-product-enterpriseapi/) |
+| 仪表盘产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 | Compute产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 | 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
@@ -35,14 +43,6 @@
 | 知识系统技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
 | WFM合规运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | 高级全球安全调查员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19427/senior-global-security-investigator/) |
-| 量化开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19426/quant-developer/) |
-| 南欧销售主管（意大利、西班牙、葡萄牙） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19423/head-of-sales-southern-europe-italy-spain-portugal/) |
-| IT应用主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19424/lead-it-applications-manager/) |
-| 安全运维工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19425/security-operations-engineer/) |
-| 软件工程师，智能代理平台 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
-| 合作伙伴解决方案工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
-| GTM工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
-| 产品运营经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

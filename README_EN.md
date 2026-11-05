@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3157</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| Software Engineer, Backend (Trading) | Remote | [View →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
+| Software Engineer, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
+| Forward Deployed Engineer (FDE) - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19432/forward-deployed-engineer-fde-nyc/) |
+| Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
+| Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
+| Senior Counsel, AI Product (Enterprise/API) | Hybrid | [View →](https://www.remotejobscan.com/job/19431/senior-counsel-ai-product-enterpriseapi/) |
+| Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 | Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
 | Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
 | Site Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9791/site-engineer/) |
@@ -34,14 +42,6 @@
 | Technical Program Manager, Knowledge Systems | Remote | [View →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
 | Manager, WFM Compliance Operations | Remote | [View →](https://www.remotejobscan.com/job/11962/manager-wfm-compliance-operations/) |
 | Senior Global Security Investigator | Hybrid | [View →](https://www.remotejobscan.com/job/19427/senior-global-security-investigator/) |
-| Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19426/quant-developer/) |
-| Head of Sales, Southern Europe (Italy, Spain, Portugal) | Remote | [View →](https://www.remotejobscan.com/job/19423/head-of-sales-southern-europe-italy-spain-portugal/) |
-| Lead IT Applications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19424/lead-it-applications-manager/) |
-| Security Operations Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19425/security-operations-engineer/) |
-| Software Engineer, Agent Platform | Hybrid | [View →](https://www.remotejobscan.com/job/19422/software-engineer-agent-platform/) |
-| Partner Solutions Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/16819/partner-solutions-engineer/) |
-| GTM Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18261/gtm-engineer/) |
-| Product Operations Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19421/product-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-05 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
