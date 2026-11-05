@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>49</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>49</strong> 家公司 · <strong>3156</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -34,7 +34,6 @@
 | 高级/资深Java工程师，反欺诈风险 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19398/seniorstaff-java-engineer-fraud-risk/) |
 | 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19001/senior-executive-assistant-ceo-office/) |
 | Localization Project Manager 本地化翻译项目经理(PMO) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19331/localization-project-manager-pmo/) |
-| 高级机器学习工程师（风险智能/AI代理） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19397/staff-machine-learning-engineer-risk-intelligenceai-agent/) |
 | AI Platform Product Lead AI中台产品负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | Web3业务拓展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19396/web3-business-development/) |
 | KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
@@ -42,6 +41,7 @@
 | Fiat Deposits and Withdrawals Risk & Control Strategy Analyst 法币出入金风控策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17329/fiat-deposits-and-withdrawals-risk-control-strategy-analyst/) |
 | Fund Security Strategy Analyst 资金安全策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
 | Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 14:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-05 15:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
