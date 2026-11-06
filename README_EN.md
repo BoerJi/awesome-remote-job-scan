@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3166</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19463/business-development-manager-product-partnerships/) |
 | Legal Manager | Remote | [View →](https://www.remotejobscan.com/job/19459/legal-manager/) |
 | IT Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19462/it-support-engineer/) |
 | Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
@@ -41,7 +42,6 @@
 | Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
 | Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
 | Recruiter, GTM - Seoul | On-site | [View →](https://www.remotejobscan.com/job/19450/recruiter-gtm-seoul/) |
-| Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/19451/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
