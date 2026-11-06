@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 技术团队成员，MLOps | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-mlops/) |
+| 技术团队高级成员，机器学习运维 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-ml-ops/) |
+| 机器学习工作负载平台技术专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19471/member-of-technical-staff-ml-workload-platform/) |
+| 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| 数据科学家，准备组 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19470/data-scientist-preparedness/) |
 | GPU基础设施技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19468/member-of-technical-staff-gpu-infrastructure/) |
 | 人才获取运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19466/ta-operations-associate/) |
 | 高级顾问 - 产品 (英国 & 欧盟) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19465/senior-counsel-product-uk-eu/) |
@@ -39,9 +42,6 @@
 | 品牌策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
 | 欧洲经济区法律负责人、副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
 | API BD Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
-| 初创企业客户总监 | 新业务 - 英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
-| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
-| 初创企业业务拓展总监 | 新业务 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

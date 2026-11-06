@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3160</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Member of Technical Staff, MLOps | Remote | [View →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-mlops/) |
+| Member of Technical Staff, ML Ops | Remote | [View →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-ml-ops/) |
+| Member of Technical Staff, ML Workload Platform | Remote | [View →](https://www.remotejobscan.com/job/19471/member-of-technical-staff-ml-workload-platform/) |
+| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
+| Data Scientist, Preparedness | On-site | [View →](https://www.remotejobscan.com/job/19470/data-scientist-preparedness/) |
 | Member of Technical Staff, GPU Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/19468/member-of-technical-staff-gpu-infrastructure/) |
 | TA Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19466/ta-operations-associate/) |
 | Senior Counsel - Product (UK & EU) | Remote | [View →](https://www.remotejobscan.com/job/19465/senior-counsel-product-uk-eu/) |
@@ -39,9 +42,6 @@
 | Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
 | Head of EEA Legal, Deputy General Counsel | Remote | [View →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
 | API Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
-| Account Director, Startups | New Business - UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
-| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
-| Account Director, Startups | New Business - France | Hybrid | [View →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
