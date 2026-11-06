@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
+| Product Manager II | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
 | Group Product Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
 | Public Policy, Strategic Advisory | On-site | [View →](https://www.remotejobscan.com/job/19444/public-policy-strategic-advisory/) |
 | Forward Deployed Engineer (FDE), Cyber- SF | On-site | [View →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
@@ -41,8 +43,6 @@
 | Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 | Software Engineer, Scheduled Tasks | Hybrid | [View →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
 | Account Executive - Creative Specialist - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
-| Founding Full Stack Software Engineer, Consulting | Hybrid | [View →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
-| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

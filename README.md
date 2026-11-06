@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
+| 产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
 | AI基础架构组产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
 | 公共政策、战略顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19444/public-policy-strategic-advisory/) |
 | 前沿部署工程师 (FDE), 网络安全 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
@@ -41,8 +43,6 @@
 | 安全平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 | 软件工程师，定时任务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
 | 企业级创意专家 - 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
-| 咨询领域创始全栈软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
-| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
