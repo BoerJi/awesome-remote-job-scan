@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3176</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/19519/counsel-product/) |
+| Strategic Partner Development, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19513/strategic-partner-development-product-partnerships/) |
+| Applied AI Engineer, Enterprise - EDU | On-site | [View →](https://www.remotejobscan.com/job/19517/applied-ai-engineer-enterprise-edu/) |
+| Deployment Strategist, Public Sector (Federal & SLED) - North America | Remote | [View →](https://www.remotejobscan.com/job/19518/deployment-strategist-public-sector-federal-sled-north-america/) |
+| Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | Hybrid | [View →](https://www.remotejobscan.com/job/19516/applied-ai-engineer-enterprise-healthcare-life-sciences-hls/) |
+| Robotics Test Engineer | On-site | [View →](https://www.remotejobscan.com/job/19515/robotics-test-engineer/) |
+| Senior Accountant, Corporate | Remote | [View →](https://www.remotejobscan.com/job/19514/senior-accountant-corporate/) |
+| Operational Risk, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
+| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
+| Chief Trust & Treasury Officer — Digital Asset Custody | On-site | [View →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
+| Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19508/senior-product-manager/) |
+| Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 | GTM Strategy & Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
 | Activation Specialist (London) | On-site | [View →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
 | Web Lead | On-site | [View →](https://www.remotejobscan.com/job/19506/web-lead/) |
@@ -31,17 +43,6 @@
 | Controls Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19502/controls-engineer-power-generation/) |
 | Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
 | Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
-| AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer/) |
-| AI Infrastructure System Engineer | On-site | [View →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer/) |
-| Sourcing Manager, Core Products | Hybrid | [View →](https://www.remotejobscan.com/job/19501/sourcing-manager-core-products/) |
-| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/19500/senior-machine-learning-engineer/) |
-| Finance Systems Lead, International | On-site | [View →](https://www.remotejobscan.com/job/19498/finance-systems-lead-international/) |
-| Web Design Manager | On-site | [View →](https://www.remotejobscan.com/job/19499/web-design-manager/) |
-| Manager, Corporate Accounting | Remote | [View →](https://www.remotejobscan.com/job/19497/manager-corporate-accounting/) |
-| Partner Development Manager - AWS | Remote | [View →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
-| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
-| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
-| Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

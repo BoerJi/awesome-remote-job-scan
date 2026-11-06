@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3176</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19519/counsel-product/) |
+| 战略合作伙伴发展与产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19513/strategic-partner-development-product-partnerships/) |
+| 企业级应用AI工程师 - 教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19517/applied-ai-engineer-enterprise-edu/) |
+| 公共部门部署策略师（联邦与SLED）- 北美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19518/deployment-strategist-public-sector-federal-sled-north-america/) |
+| 企业级应用AI工程师 - 医疗健康与生命科学 (HLS) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19516/applied-ai-engineer-enterprise-healthcare-life-sciences-hls/) |
+| 机器人测试工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19515/robotics-test-engineer/) |
+| 高级会计，企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19514/senior-accountant-corporate/) |
+| 运营风险高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
+| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
+| 首席信任与财库官 — 数字资产托管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
+| 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19508/senior-product-manager/) |
+| 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 | 市场策略与规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
 | 激活专家（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
 | Web 领导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19506/web-lead/) |
@@ -31,16 +43,6 @@
 | 控制工程师，发电 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19502/controls-engineer-power-generation/) |
 | 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
 | AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
-| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer/) |
-| 核心产品采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19501/sourcing-manager-core-products/) |
-| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19500/senior-machine-learning-engineer/) |
-| 国际财务系统主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19498/finance-systems-lead-international/) |
-| 网页设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19499/web-design-manager/) |
-| 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19497/manager-corporate-accounting/) |
-| AWS合作伙伴发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
-| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
-| 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
-| 政治经济学家，法治 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
