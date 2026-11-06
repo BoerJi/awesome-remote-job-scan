@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3166</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Manager | Remote | [View →](https://www.remotejobscan.com/job/19459/legal-manager/) |
+| IT Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19462/it-support-engineer/) |
+| Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
+| Product Marketing Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
 | Full Stack Engineer - Growth & Experimentation – Krak | Remote | [View →](https://www.remotejobscan.com/job/19458/full-stack-engineer-growth-experimentation-krak/) |
 | Global Events Lead | Remote | [View →](https://www.remotejobscan.com/job/19457/global-events-lead/) |
 | Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
@@ -38,11 +42,6 @@
 | Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
 | Recruiter, GTM - Seoul | On-site | [View →](https://www.remotejobscan.com/job/19450/recruiter-gtm-seoul/) |
 | Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/19451/research-engineer-cybersecurity-rl-reinforcement-learning/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
-| Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
-| Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
-| Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
-| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
