@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
+| Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
+| Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
 | Legal Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
 | Product Manager II | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
 | Group Product Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
@@ -40,9 +43,6 @@
 | Content Maker | Hybrid | [View →](https://www.remotejobscan.com/job/19439/content-maker/) |
 | Equity Accounting and Reporting | On-site | [View →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
-| Software Engineer, Scheduled Tasks | Hybrid | [View →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
-| Account Executive - Creative Specialist - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

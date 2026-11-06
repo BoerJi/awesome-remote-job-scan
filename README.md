@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
+| 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
+| 高级招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
 | 法律项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
 | 产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
 | AI基础架构组产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
@@ -40,9 +43,6 @@
 | 内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19439/content-maker/) |
 | 股权会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
 | 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| 安全平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
-| 软件工程师，定时任务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
-| 企业级创意专家 - 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
