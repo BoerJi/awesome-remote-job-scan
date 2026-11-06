@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3169</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿部署工程师 (FDE), 网络安全 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
+| 前部署工程师 (FDE)，网络安全-纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
+| 金融服务向前部署工程师 (FDE)- 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
+| 人才获取运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19440/ta-operations-associate/) |
+| 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
+| 存储产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
+| 支付基础设施产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
+| 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
+| 中央区销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
+| 内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19439/content-maker/) |
+| 股权会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
+| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| 安全平台软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 | 软件工程师，定时任务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
 | 企业级创意专家 - 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
 | 咨询领域创始全栈软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
 | 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | 软件工程师，后端（交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
 | 软件工程师，Guardian团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
-| 前部署工程师 (FDE) - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19432/forward-deployed-engineer-fde-nyc/) |
-| 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
-| 高级软件工程师，后端/全栈（Coinbase顾问 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
-| 高级顾问，AI产品（企业/API） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19431/senior-counsel-ai-product-enterpriseapi/) |
-| 仪表盘产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
-| Compute产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
-| 客户成功团队代理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
-| 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19141/customer-success-team-agent-ii/) |
-| 站点工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/site-engineer/) |
-| 应用AI研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
-| 用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| CX智能与AI技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
-| 知识系统技术项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

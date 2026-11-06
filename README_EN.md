@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3169</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer (FDE), Cyber- SF | On-site | [View →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
+| Forward Deployed Engineer (FDE), Cyber- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
+| Forward Deployed Engineer (FDE), Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
+| TA Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19440/ta-operations-associate/) |
+| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
+| Legal Counsel, Litigation | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
+| Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
+| Payments Infrastructure Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
+| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
+| Sales Development Manager - Central | On-site | [View →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
+| Content Maker | Hybrid | [View →](https://www.remotejobscan.com/job/19439/content-maker/) |
+| Equity Accounting and Reporting | On-site | [View →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
+| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| Software Engineer, Security Platform | Remote | [View →](https://www.remotejobscan.com/job/14921/software-engineer-security-platform/) |
 | Software Engineer, Scheduled Tasks | Hybrid | [View →](https://www.remotejobscan.com/job/17054/software-engineer-scheduled-tasks/) |
 | Account Executive - Creative Specialist - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
 | Founding Full Stack Software Engineer, Consulting | Hybrid | [View →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
 | Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | Software Engineer, Backend (Trading) | Remote | [View →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
 | Software Engineer, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
-| Forward Deployed Engineer (FDE) - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19432/forward-deployed-engineer-fde-nyc/) |
-| Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
-| Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/17907/senior-software-engineer-backendfullstack-coinbase-advisor-agentic-trading/) |
-| Senior Counsel, AI Product (Enterprise/API) | Hybrid | [View →](https://www.remotejobscan.com/job/19431/senior-counsel-ai-product-enterpriseapi/) |
-| Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
-| Product Manager, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/17313/product-manager-compute/) |
-| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19142/customer-success-team-agent-ii/) |
-| Site Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9791/site-engineer/) |
-| Applied AI, Research Engineer | On-site | [View →](https://www.remotejobscan.com/job/15547/applied-ai-research-engineer/) |
-| User Education Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19428/user-education-lead/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| Technical Program Manager, CX Intelligence & AI | Remote | [View →](https://www.remotejobscan.com/job/9332/technical-program-manager-cx-intelligence-ai/) |
-| Technical Program Manager, Knowledge Systems | Remote | [View →](https://www.remotejobscan.com/job/9334/technical-program-manager-knowledge-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
