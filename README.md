@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3166</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 服务、客户成功与支持副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19490/vp-of-services-customer-success-support/) |
+| 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
 | 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
@@ -41,8 +43,6 @@
 | 高级软件工程师，前端/移动端（消费级-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19474/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
 | 高级软件工程师，(Coinbase One) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
 | 高级管理层、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
-| 高级管理、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19477/senior-management-platform-infrastructure-audit/) |
-| 中市场销售主管 - 东部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19475/sales-lead-mid-market-east/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

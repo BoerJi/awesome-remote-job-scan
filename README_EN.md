@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3166</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VP of Services, Customer Success & Support | Remote | [View →](https://www.remotejobscan.com/job/19490/vp-of-services-customer-success-support/) |
+| Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
 | Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
@@ -39,7 +41,6 @@
 | Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
 | Senior Software Engineer, (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
 | Senior Management, Platform & Infrastructure Audit | On-site | [View →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
-| Sales Lead - Mid-Market - East | Remote | [View →](https://www.remotejobscan.com/job/19475/sales-lead-mid-market-east/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
