@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 欧洲经济区法律负责人、副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
+| API BD Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
+| 初创企业客户总监 | 新业务 - 英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
+| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
+| 初创企业业务拓展总监 | 新业务 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
 | EMEA产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
 | 新加坡GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
 | 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
@@ -37,11 +42,6 @@
 | 高级招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
 | 法律项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
 | 产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
-| AI基础架构组产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
-| 公共政策、战略顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19444/public-policy-strategic-advisory/) |
-| 前沿部署工程师 (FDE), 网络安全 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
-| 前部署工程师 (FDE)，网络安全-纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
-| 金融服务向前部署工程师 (FDE)- 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

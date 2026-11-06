@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3161</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of EEA Legal, Deputy General Counsel | Remote | [View →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
+| API Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
+| Account Director, Startups | New Business - UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
+| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
+| Account Director, Startups | New Business - France | Hybrid | [View →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
 | Product Marketing Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
 | Recruiter, GTM - Singapore | On-site | [View →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
 | Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
@@ -38,11 +43,6 @@
 | Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
 | Legal Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
 | Product Manager II | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
-| Group Product Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
-| Public Policy, Strategic Advisory | On-site | [View →](https://www.remotejobscan.com/job/19444/public-policy-strategic-advisory/) |
-| Forward Deployed Engineer (FDE), Cyber- SF | On-site | [View →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
-| Forward Deployed Engineer (FDE), Cyber- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
-| Forward Deployed Engineer (FDE), Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
