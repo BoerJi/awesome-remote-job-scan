@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3167</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Systems Lead, International | On-site | [View →](https://www.remotejobscan.com/job/19498/finance-systems-lead-international/) |
+| Web Design Manager | On-site | [View →](https://www.remotejobscan.com/job/19499/web-design-manager/) |
+| Manager, Corporate Accounting | Remote | [View →](https://www.remotejobscan.com/job/19497/manager-corporate-accounting/) |
+| Partner Development Manager - AWS | Remote | [View →](https://www.remotejobscan.com/job/10941/partner-development-manager-aws/) |
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
 | Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
 | Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
@@ -38,10 +42,6 @@
 | Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/19487/research-engineer/) |
 | Global Head of GTM Enablement | On-site | [View →](https://www.remotejobscan.com/job/19489/global-head-of-gtm-enablement/) |
 | Applied AI Architect, Democratic Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19483/applied-ai-architect-democratic-partnerships/) |
-| Applied AI Architect, International Policy | On-site | [View →](https://www.remotejobscan.com/job/19484/applied-ai-architect-international-policy/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| Affiliate Specialist - Pro (EMEA) | Remote | [View →](https://www.remotejobscan.com/job/19488/affiliate-specialist-pro-emea/) |
-| Staff Software Engineer - Backend (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19481/staff-software-engineer-backend-consumer-agentic-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
