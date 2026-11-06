@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3158</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| EMEA产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
+| 新加坡GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
+| 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
+| 高级软件工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
+| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
+| 首尔 GTM 招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19450/recruiter-gtm-seoul/) |
+| 网络安全强化学习研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19451/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
 | Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
 | AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
@@ -35,14 +42,6 @@
 | 前沿部署工程师 (FDE), 网络安全 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
 | 前部署工程师 (FDE)，网络安全-纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
 | 金融服务向前部署工程师 (FDE)- 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
-| 人才获取运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19440/ta-operations-associate/) |
-| 高级绩效营销经理，全球付费社交与移动用户获取 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
-| 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
-| 存储产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| 支付基础设施产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
-| 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
-| 中央区销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
-| 内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19439/content-maker/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

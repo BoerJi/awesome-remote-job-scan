@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3158</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
+| Recruiter, GTM - Singapore | On-site | [View →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
+| Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
+| Senior Staff Software Engineer, Trading Service (Retail Trading) | On-site | [View →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
+| Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
+| Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
+| Recruiter, GTM - Seoul | On-site | [View →](https://www.remotejobscan.com/job/19450/recruiter-gtm-seoul/) |
+| Research Engineer, Cybersecurity RL (Reinforcement Learning) | On-site | [View →](https://www.remotejobscan.com/job/19451/research-engineer-cybersecurity-rl-reinforcement-learning/) |
 | Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
 | Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
@@ -35,14 +43,6 @@
 | Forward Deployed Engineer (FDE), Cyber- SF | On-site | [View →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
 | Forward Deployed Engineer (FDE), Cyber- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
 | Forward Deployed Engineer (FDE), Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
-| TA Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19440/ta-operations-associate/) |
-| Senior Performance Marketing Manager, Global Paid Social & Mobile UA | Remote | [View →](https://www.remotejobscan.com/job/16314/senior-performance-marketing-manager-global-paid-social-mobile-ua/) |
-| Legal Counsel, Litigation | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
-| Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| Payments Infrastructure Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
-| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
-| Sales Development Manager - Central | On-site | [View →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
-| Content Maker | Hybrid | [View →](https://www.remotejobscan.com/job/19439/content-maker/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
