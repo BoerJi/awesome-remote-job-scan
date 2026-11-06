@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3160</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
+| Partner Account Manager - France | On-site | [View →](https://www.remotejobscan.com/job/19479/partner-account-manager-france/) |
+| Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
+| Senior Software Engineer, (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
+| Senior Management, Platform & Infrastructure Audit | On-site | [View →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
+| Sales Lead - Mid-Market - East | Remote | [View →](https://www.remotejobscan.com/job/19475/sales-lead-mid-market-east/) |
+| Senior Software Engineer (Institutional, USDC) | Remote | [View →](https://www.remotejobscan.com/job/19473/senior-software-engineer-institutional-usdc/) |
 | Member of Technical Staff, ML Ops | Remote | [View →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-ml-ops/) |
 | Member of Technical Staff, ML Workload Platform | Remote | [View →](https://www.remotejobscan.com/job/19471/member-of-technical-staff-ml-workload-platform/) |
 | Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
@@ -33,15 +40,6 @@
 | Lead Engineer, Member Growth | Remote | [View →](https://www.remotejobscan.com/job/19467/lead-engineer-member-growth/) |
 | Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19464/recruiter-applied-ai/) |
 | Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19463/business-development-manager-product-partnerships/) |
-| Legal Manager | Remote | [View →](https://www.remotejobscan.com/job/19459/legal-manager/) |
-| IT Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19462/it-support-engineer/) |
-| Associate General Counsel | Remote | [View →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
-| Product Marketing Manager - EMEA | Remote | [View →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
-| Full Stack Engineer - Growth & Experimentation – Krak | Remote | [View →](https://www.remotejobscan.com/job/19458/full-stack-engineer-growth-experimentation-krak/) |
-| Global Events Lead | Remote | [View →](https://www.remotejobscan.com/job/19457/global-events-lead/) |
-| Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
-| Head of EEA Legal, Deputy General Counsel | Remote | [View →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
-| API Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

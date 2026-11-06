@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3160</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，前端/移动端（消费者-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
+| 法国合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19479/partner-account-manager-france/) |
+| 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
+| 高级软件工程师，前端/移动端（消费级-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19474/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
+| 高级软件工程师，(Coinbase One) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
+| 高级管理层、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
+| 高级管理、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19477/senior-management-platform-infrastructure-audit/) |
+| 中市场销售主管 - 东部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19475/sales-lead-mid-market-east/) |
+| 高级软件工程师（机构，USDC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19473/senior-software-engineer-institutional-usdc/) |
+| 平台与基础设施审计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19472/senior-management-platform-infrastructure-audit/) |
 | 技术团队高级成员，机器学习运维 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-ml-ops/) |
 | 机器学习工作负载平台技术专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19471/member-of-technical-staff-ml-workload-platform/) |
 | 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
@@ -33,15 +43,6 @@
 | 成员增长首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19467/lead-engineer-member-growth/) |
 | 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19464/recruiter-applied-ai/) |
 | 业务发展经理，产品合作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19463/business-development-manager-product-partnerships/) |
-| 法律经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19459/legal-manager/) |
-| IT支持工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19462/it-support-engineer/) |
-| 高级法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18712/associate-general-counsel/) |
-| EMEA产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
-| 全栈工程师 - 增长与实验 – Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19458/full-stack-engineer-growth-experimentation-krak/) |
-| 全球活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19457/global-events-lead/) |
-| 品牌策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
-| 欧洲经济区法律负责人、副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
-| API BD Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
