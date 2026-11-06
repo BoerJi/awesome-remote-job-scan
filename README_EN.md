@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3169</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3171</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Group Product Manager, AI Foundations | Remote | [View →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
+| Public Policy, Strategic Advisory | On-site | [View →](https://www.remotejobscan.com/job/19444/public-policy-strategic-advisory/) |
 | Forward Deployed Engineer (FDE), Cyber- SF | On-site | [View →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
 | Forward Deployed Engineer (FDE), Cyber- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
 | Forward Deployed Engineer (FDE), Financial Services- NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
@@ -41,8 +43,6 @@
 | Account Executive - Creative Specialist - Enterprise | Remote | [View →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
 | Founding Full Stack Software Engineer, Consulting | Hybrid | [View →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
 | Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| Software Engineer, Backend (Trading) | Remote | [View →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
-| Software Engineer, Guardian | Hybrid | [View →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

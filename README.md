@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3169</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3171</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI基础架构组产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19445/group-product-manager-ai-foundations/) |
+| 公共政策、战略顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19444/public-policy-strategic-advisory/) |
 | 前沿部署工程师 (FDE), 网络安全 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19443/forward-deployed-engineer-fde-cyber-sf/) |
 | 前部署工程师 (FDE)，网络安全-纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19442/forward-deployed-engineer-fde-cyber-nyc/) |
 | 金融服务向前部署工程师 (FDE)- 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19441/forward-deployed-engineer-fde-financial-services-nyc/) |
@@ -41,8 +43,6 @@
 | 企业级创意专家 - 账户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19436/account-executive-creative-specialist-enterprise/) |
 | 咨询领域创始全栈软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19435/founding-full-stack-software-engineer-consulting/) |
 | 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| 软件工程师，后端（交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19434/software-engineer-backend-trading/) |
-| 软件工程师，Guardian团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19433/software-engineer-guardian/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
