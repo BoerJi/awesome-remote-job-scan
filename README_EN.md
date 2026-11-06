@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
 | Senior Recruiter | Remote | [View →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
@@ -42,7 +43,6 @@
 | Sales Development Manager - Central | On-site | [View →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | Content Maker | Hybrid | [View →](https://www.remotejobscan.com/job/19439/content-maker/) |
 | Equity Accounting and Reporting | On-site | [View →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
-| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

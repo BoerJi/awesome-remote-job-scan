@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
 | AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
 | 高级招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
@@ -42,7 +43,6 @@
 | 中央区销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | 内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19439/content-maker/) |
 | 股权会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
-| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
