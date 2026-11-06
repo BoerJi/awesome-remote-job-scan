@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3163</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
 | Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
 | AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
@@ -42,7 +43,6 @@
 | 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | 中央区销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | 内容创作者 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19439/content-maker/) |
-| 股权会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

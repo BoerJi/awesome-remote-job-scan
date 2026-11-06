@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3163</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
 | Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
 | Regulatory Counsel, AI Regulation, US | On-site | [View →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | Commercial Counsel, Hardware | On-site | [View →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
@@ -42,7 +43,6 @@
 | Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | Sales Development Manager - Central | On-site | [View →](https://www.remotejobscan.com/job/19430/sales-development-manager-central/) |
 | Content Maker | Hybrid | [View →](https://www.remotejobscan.com/job/19439/content-maker/) |
-| Equity Accounting and Reporting | On-site | [View →](https://www.remotejobscan.com/job/19438/equity-accounting-and-reporting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
