@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3167</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3176</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Strategy & Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
+| Activation Specialist (London) | On-site | [View →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
+| Web Lead | On-site | [View →](https://www.remotejobscan.com/job/19506/web-lead/) |
+| Electrical Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19504/electrical-engineer-power-generation/) |
+| Mechanical Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19503/mechanical-engineer-power-generation/) |
+| Controls Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19502/controls-engineer-power-generation/) |
+| Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
+| Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
+| AI Infrastructure Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer/) |
+| AI Infrastructure System Engineer | On-site | [View →](https://www.remotejobscan.com/job/18828/ai-infrastructure-system-engineer/) |
+| Sourcing Manager, Core Products | Hybrid | [View →](https://www.remotejobscan.com/job/19501/sourcing-manager-core-products/) |
+| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/19500/senior-machine-learning-engineer/) |
 | Finance Systems Lead, International | On-site | [View →](https://www.remotejobscan.com/job/19498/finance-systems-lead-international/) |
 | Web Design Manager | On-site | [View →](https://www.remotejobscan.com/job/19499/web-design-manager/) |
 | Manager, Corporate Accounting | Remote | [View →](https://www.remotejobscan.com/job/19497/manager-corporate-accounting/) |
@@ -30,18 +42,6 @@
 | Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
 | Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
 | Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
-| Forward Deployed Engineer (FDE), Life Sciences - SF | On-site | [View →](https://www.remotejobscan.com/job/19493/forward-deployed-engineer-fde-life-sciences-sf/) |
-| Forward Deployed Engineer (FDE), Life Sciences - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19492/forward-deployed-engineer-fde-life-sciences-nyc/) |
-| Marketing Lead, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
-| VP of Services, Customer Success & Support | Remote | [View →](https://www.remotejobscan.com/job/19490/vp-of-services-customer-success-support/) |
-| Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
-| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
-| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/19487/research-engineer/) |
-| Global Head of GTM Enablement | On-site | [View →](https://www.remotejobscan.com/job/19489/global-head-of-gtm-enablement/) |
-| Applied AI Architect, Democratic Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19483/applied-ai-architect-democratic-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

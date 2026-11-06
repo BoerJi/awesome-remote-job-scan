@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3167</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3176</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场策略与规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
+| 激活专家（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
+| Web 领导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19506/web-lead/) |
+| 电力工程师，发电 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19504/electrical-engineer-power-generation/) |
+| 电力生成机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19503/mechanical-engineer-power-generation/) |
+| 控制工程师，发电 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19502/controls-engineer-power-generation/) |
+| 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
+| AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
+| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9818/ai-infrastructure-systems-engineer/) |
+| 核心产品采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19501/sourcing-manager-core-products/) |
+| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19500/senior-machine-learning-engineer/) |
 | 国际财务系统主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19498/finance-systems-lead-international/) |
 | 网页设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19499/web-design-manager/) |
 | 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19497/manager-corporate-accounting/) |
@@ -30,18 +41,6 @@
 | 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
 | 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
 | 政治经济学家，法治 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
-| 前沿部署工程师 (FDE)，生命科学 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19493/forward-deployed-engineer-fde-life-sciences-sf/) |
-| 前沿部署工程师（FDE），生命科学 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19492/forward-deployed-engineer-fde-life-sciences-nyc/) |
-| 营销主管，Claude Frontier 学院 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
-| 服务、客户成功与支持副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19490/vp-of-services-customer-success-support/) |
-| 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
-| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
-| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
-| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| 智能基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| 研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19487/research-engineer/) |
-| 全球 GTM 能力提升负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19489/global-head-of-gtm-enablement/) |
-| 应用AI架构师，民主合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19483/applied-ai-architect-democratic-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
