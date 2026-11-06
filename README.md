@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3165</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员，MLOps | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-mlops/) |
+| GPU基础设施技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19468/member-of-technical-staff-gpu-infrastructure/) |
 | 人才获取运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19466/ta-operations-associate/) |
 | 高级顾问 - 产品 (英国 & 欧盟) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19465/senior-counsel-product-uk-eu/) |
 | 成员增长首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19467/lead-engineer-member-growth/) |
@@ -40,8 +42,6 @@
 | 初创企业客户总监 | 新业务 - 英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
 | 初创企业业务拓展总监 | 新业务 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
-| 新加坡GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
-| 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

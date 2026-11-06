@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3165</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff, MLOps | Remote | [View →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-mlops/) |
+| Member of Technical Staff, GPU Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/19468/member-of-technical-staff-gpu-infrastructure/) |
 | TA Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19466/ta-operations-associate/) |
 | Senior Counsel - Product (UK & EU) | Remote | [View →](https://www.remotejobscan.com/job/19465/senior-counsel-product-uk-eu/) |
 | Lead Engineer, Member Growth | Remote | [View →](https://www.remotejobscan.com/job/19467/lead-engineer-member-growth/) |
@@ -40,8 +42,6 @@
 | Account Director, Startups | New Business - UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
 | Account Director, Startups | New Business - France | Hybrid | [View →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
-| Recruiter, GTM - Singapore | On-site | [View →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
-| Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
