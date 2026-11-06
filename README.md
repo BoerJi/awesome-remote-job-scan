@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3161</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3162</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,12 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈工程师 - 增长与实验 – Krak | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19458/full-stack-engineer-growth-experimentation-krak/) |
+| 全球活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19457/global-events-lead/) |
+| 品牌策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
 | 欧洲经济区法律负责人、副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19161/head-of-eea-legal-deputy-general-counsel/) |
 | API BD Manager | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16653/api-business-development-manager/) |
 | 初创企业客户总监 | 新业务 - 英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19455/account-director-startups-new-business-uki/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14992/senior-marketing-manager/) |
 | 初创企业业务拓展总监 | 新业务 - 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19454/account-director-startups-new-business-france/) |
-| EMEA产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19452/product-marketing-manager-emea/) |
 | 新加坡GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19453/recruiter-gtm-singapore/) |
 | 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | 高级软件工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
@@ -40,8 +42,6 @@
 | AI监管法律顾问，美国 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18515/regulatory-counsel-ai-regulation-us/) |
 | 硬件商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17154/commercial-counsel-hardware/) |
 | 高级招聘官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18252/senior-recruiter/) |
-| 法律项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19447/legal-program-manager/) |
-| 产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
