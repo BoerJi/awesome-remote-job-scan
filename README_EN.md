@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3164</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,23 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
+| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
+| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| Research Engineer | Remote | [View →](https://www.remotejobscan.com/job/19487/research-engineer/) |
+| Global Head of GTM Enablement | On-site | [View →](https://www.remotejobscan.com/job/19489/global-head-of-gtm-enablement/) |
+| Applied AI Architect, Democratic Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19483/applied-ai-architect-democratic-partnerships/) |
+| Applied AI Architect, International Policy | On-site | [View →](https://www.remotejobscan.com/job/19484/applied-ai-architect-international-policy/) |
+| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| Affiliate Specialist - Pro (EMEA) | Remote | [View →](https://www.remotejobscan.com/job/19488/affiliate-specialist-pro-emea/) |
+| Staff Software Engineer - Backend (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19481/staff-software-engineer-backend-consumer-agentic-trading/) |
 | Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
 | Partner Account Manager - France | On-site | [View →](https://www.remotejobscan.com/job/19479/partner-account-manager-france/) |
 | Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
 | Senior Software Engineer, (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
 | Senior Management, Platform & Infrastructure Audit | On-site | [View →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
 | Sales Lead - Mid-Market - East | Remote | [View →](https://www.remotejobscan.com/job/19475/sales-lead-mid-market-east/) |
-| Senior Software Engineer (Institutional, USDC) | Remote | [View →](https://www.remotejobscan.com/job/19473/senior-software-engineer-institutional-usdc/) |
-| Member of Technical Staff, ML Ops | Remote | [View →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-ml-ops/) |
-| Member of Technical Staff, ML Workload Platform | Remote | [View →](https://www.remotejobscan.com/job/19471/member-of-technical-staff-ml-workload-platform/) |
-| Staff Software Engineer, Core AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| Data Scientist, Preparedness | On-site | [View →](https://www.remotejobscan.com/job/19470/data-scientist-preparedness/) |
-| Member of Technical Staff, GPU Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/19468/member-of-technical-staff-gpu-infrastructure/) |
-| TA Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19466/ta-operations-associate/) |
-| Senior Counsel - Product (UK & EU) | Remote | [View →](https://www.remotejobscan.com/job/19465/senior-counsel-product-uk-eu/) |
-| Lead Engineer, Member Growth | Remote | [View →](https://www.remotejobscan.com/job/19467/lead-engineer-member-growth/) |
-| Recruiter, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/19464/recruiter-applied-ai/) |
-| Business Development Manager, Product Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19463/business-development-manager-product-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

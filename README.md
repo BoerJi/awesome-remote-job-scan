@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3164</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
+| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
+| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| 智能基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| 研究工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19487/research-engineer/) |
+| 全球 GTM 能力提升负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19489/global-head-of-gtm-enablement/) |
+| 应用AI架构师，民主合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19483/applied-ai-architect-democratic-partnerships/) |
+| 国际政策应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19484/applied-ai-architect-international-policy/) |
+| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| EMEA地区Kraken Pro联盟专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19488/affiliate-specialist-pro-emea/) |
+| 高级后端软件工程师 - 后端（消费者 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19481/staff-software-engineer-backend-consumer-agentic-trading/) |
+| 高级后端软件工程师（消费者 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19482/staff-software-engineer-backend-consumer-agentic-trading/) |
 | 高级软件工程师，前端/移动端（消费者-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
 | 法国合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19479/partner-account-manager-france/) |
 | 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
@@ -31,18 +43,6 @@
 | 高级管理层、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
 | 高级管理、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19477/senior-management-platform-infrastructure-audit/) |
 | 中市场销售主管 - 东部 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19475/sales-lead-mid-market-east/) |
-| 高级软件工程师（机构，USDC） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19473/senior-software-engineer-institutional-usdc/) |
-| 平台与基础设施审计高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19472/senior-management-platform-infrastructure-audit/) |
-| 技术团队高级成员，机器学习运维 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19469/member-of-technical-staff-ml-ops/) |
-| 机器学习工作负载平台技术专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19471/member-of-technical-staff-ml-workload-platform/) |
-| 核心AI基础设施资深软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9316/staff-software-engineer-core-ai-infrastructure/) |
-| 数据科学家，准备组 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19470/data-scientist-preparedness/) |
-| GPU基础设施技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19468/member-of-technical-staff-gpu-infrastructure/) |
-| 人才获取运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19466/ta-operations-associate/) |
-| 高级顾问 - 产品 (英国 & 欧盟) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19465/senior-counsel-product-uk-eu/) |
-| 成员增长首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19467/lead-engineer-member-growth/) |
-| 应用人工智能招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19464/recruiter-applied-ai/) |
-| 业务发展经理，产品合作 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19463/business-development-manager-product-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
