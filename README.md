@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3166</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3168</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程实习生 - 2027年夏季 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
+| 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
+| 政治经济学家，法治 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
+| 前沿部署工程师 (FDE)，生命科学 - 旧金山 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19493/forward-deployed-engineer-fde-life-sciences-sf/) |
+| 前沿部署工程师（FDE），生命科学 - 纽约 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19492/forward-deployed-engineer-fde-life-sciences-nyc/) |
+| 营销主管，Claude Frontier 学院 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
 | 服务、客户成功与支持副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19490/vp-of-services-customer-success-support/) |
 | 销售发展代表（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
@@ -36,13 +42,6 @@
 | 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | EMEA地区Kraken Pro联盟专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19488/affiliate-specialist-pro-emea/) |
 | 高级后端软件工程师 - 后端（消费者 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19481/staff-software-engineer-backend-consumer-agentic-trading/) |
-| 高级后端软件工程师（消费者 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19482/staff-software-engineer-backend-consumer-agentic-trading/) |
-| 高级软件工程师，前端/移动端（消费者-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
-| 法国合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19479/partner-account-manager-france/) |
-| 安全风险分析师，风险工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
-| 高级软件工程师，前端/移动端（消费级-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19474/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
-| 高级软件工程师，(Coinbase One) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
-| 高级管理层、平台与基础设施审计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-06 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3166</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3168</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineering Intern - Summer '27 | Hybrid | [View →](https://www.remotejobscan.com/job/19496/software-engineering-intern-summer-27/) |
+| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19495/customer-success-team-agent-ii/) |
+| Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
+| Forward Deployed Engineer (FDE), Life Sciences - SF | On-site | [View →](https://www.remotejobscan.com/job/19493/forward-deployed-engineer-fde-life-sciences-sf/) |
+| Forward Deployed Engineer (FDE), Life Sciences - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19492/forward-deployed-engineer-fde-life-sciences-nyc/) |
+| Marketing Lead, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/19235/marketing-lead-claude-frontier-academy/) |
 | VP of Services, Customer Success & Support | Remote | [View →](https://www.remotejobscan.com/job/19490/vp-of-services-customer-success-support/) |
 | Sales Development Representative (NY) | On-site | [View →](https://www.remotejobscan.com/job/17974/sales-development-representative-ny/) |
 | Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
@@ -36,11 +42,6 @@
 | Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
 | Affiliate Specialist - Pro (EMEA) | Remote | [View →](https://www.remotejobscan.com/job/19488/affiliate-specialist-pro-emea/) |
 | Staff Software Engineer - Backend (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19481/staff-software-engineer-backend-consumer-agentic-trading/) |
-| Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
-| Partner Account Manager - France | On-site | [View →](https://www.remotejobscan.com/job/19479/partner-account-manager-france/) |
-| Security Risk Analyst, Risk Engineering | On-site | [View →](https://www.remotejobscan.com/job/17687/security-risk-analyst-risk-engineering/) |
-| Senior Software Engineer, (Coinbase One) | Remote | [View →](https://www.remotejobscan.com/job/19065/senior-software-engineer-coinbase-one/) |
-| Senior Management, Platform & Infrastructure Audit | On-site | [View →](https://www.remotejobscan.com/job/19476/senior-management-platform-infrastructure-audit/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-06 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
