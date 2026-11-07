@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3185</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户参与经理（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
+| 客户参与经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | 企业技术应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | 政治经济学家，法治 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
 | 法律专家，执法 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
@@ -41,8 +43,6 @@
 | 运营风险高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
 | GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
 | 首席信任与财库官 — 数字资产托管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
-| 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19508/senior-product-manager/) |
-| 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

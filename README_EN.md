@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
+| Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
 | Legal Specialist, Law Enforcement | On-site | [View →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
@@ -41,8 +43,6 @@
 | Operational Risk, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
 | Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
 | Chief Trust & Treasury Officer — Digital Asset Custody | On-site | [View →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
-| Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19508/senior-product-manager/) |
-| Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
