@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3184</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
 | Legal Specialist, Law Enforcement | On-site | [View →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
 | Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
@@ -42,7 +43,6 @@
 | Chief Trust & Treasury Officer — Digital Asset Custody | On-site | [View →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
 | Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19508/senior-product-manager/) |
 | Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
-| GTM Strategy & Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
