@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 品牌策略负责人，品牌架构与命名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
+| 高级入站专员，高端与财富 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
 | 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19519/counsel-product/) |
 | 战略合作伙伴发展与产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19513/strategic-partner-development-product-partnerships/) |
 | 企业级应用AI工程师 - 教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19517/applied-ai-engineer-enterprise-edu/) |
@@ -41,8 +43,6 @@
 | 电力工程师，发电 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19504/electrical-engineer-power-generation/) |
 | 电力生成机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19503/mechanical-engineer-power-generation/) |
 | 控制工程师，发电 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19502/controls-engineer-power-generation/) |
-| 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
-| AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

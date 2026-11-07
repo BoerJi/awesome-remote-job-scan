@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Brand Strategy Lead, Brand Architecture & Naming | On-site | [View →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
+| Inbound Specialist II, Premium & Wealth | Remote | [View →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
 | Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/19519/counsel-product/) |
 | Strategic Partner Development, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19513/strategic-partner-development-product-partnerships/) |
 | Applied AI Engineer, Enterprise - EDU | On-site | [View →](https://www.remotejobscan.com/job/19517/applied-ai-engineer-enterprise-edu/) |
@@ -41,8 +43,6 @@
 | Electrical Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19504/electrical-engineer-power-generation/) |
 | Mechanical Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19503/mechanical-engineer-power-generation/) |
 | Controls Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19502/controls-engineer-power-generation/) |
-| Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
-| Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
