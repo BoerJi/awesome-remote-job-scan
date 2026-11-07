@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3187</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3190</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律专家，执法 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
+| 商业法务高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
+| 用户体验研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19524/ux-researcher/) |
 | Staff+ 软件工程师，STEM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | 品牌策略负责人，品牌架构与命名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 | 高级入站专员，高端与财富 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
@@ -40,9 +43,6 @@
 | 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 | 市场策略与规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
 | 激活专家（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
-| Web 领导 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19506/web-lead/) |
-| 电力工程师，发电 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19504/electrical-engineer-power-generation/) |
-| 电力生成机械工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19503/mechanical-engineer-power-generation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

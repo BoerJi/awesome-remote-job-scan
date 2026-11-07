@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3190</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Specialist, Law Enforcement | On-site | [View →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
+| Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
+| UX Researcher | Remote | [View →](https://www.remotejobscan.com/job/19524/ux-researcher/) |
 | Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | Brand Strategy Lead, Brand Architecture & Naming | On-site | [View →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 | Inbound Specialist II, Premium & Wealth | Remote | [View →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
@@ -40,9 +43,6 @@
 | Learning & Education Specialist | On-site | [View →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 | GTM Strategy & Planning | Hybrid | [View →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
 | Activation Specialist (London) | On-site | [View →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
-| Web Lead | On-site | [View →](https://www.remotejobscan.com/job/19506/web-lead/) |
-| Electrical Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19504/electrical-engineer-power-generation/) |
-| Mechanical Engineer, Power Generation | On-site | [View →](https://www.remotejobscan.com/job/19503/mechanical-engineer-power-generation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
