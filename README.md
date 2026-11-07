@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3185</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政治经济学家，法治 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
 | 法律专家，执法 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
 | 商业法务高级顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | 用户体验研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19524/ux-researcher/) |
@@ -42,7 +43,6 @@
 | 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19508/senior-product-manager/) |
 | 学习与教育专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19509/learning-education-specialist/) |
 | 市场策略与规划 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19505/gtm-strategy-planning/) |
-| 激活专家（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19507/activation-specialist-london/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
