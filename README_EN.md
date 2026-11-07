@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | Brand Strategy Lead, Brand Architecture & Naming | On-site | [View →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 | Inbound Specialist II, Premium & Wealth | Remote | [View →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
-| Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/19519/counsel-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 23:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Staff+ 软件工程师，STEM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | 品牌策略负责人，品牌架构与命名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 | 高级入站专员，高端与财富 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
-| 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19519/counsel-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 23:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
