@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Back End Developer (Golang) | On-site | [View →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
+| Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 | Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
@@ -41,8 +43,6 @@
 | Robotics Test Engineer | On-site | [View →](https://www.remotejobscan.com/job/19515/robotics-test-engineer/) |
 | Senior Accountant, Corporate | Remote | [View →](https://www.remotejobscan.com/job/19514/senior-accountant-corporate/) |
 | Operational Risk, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
-| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
-| Chief Trust & Treasury Officer — Digital Asset Custody | On-site | [View →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

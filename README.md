@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3185</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 后端开发工程师（Go语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
+| 技术专家成员（软件工程师，AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | 客户参与经理（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 | 客户参与经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | 企业技术应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
@@ -41,8 +43,6 @@
 | 机器人测试工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19515/robotics-test-engineer/) |
 | 高级会计，企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19514/senior-accountant-corporate/) |
 | 运营风险高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
-| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
-| 首席信任与财库官 — 数字资产托管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19511/chief-trust-treasury-officer-digital-asset-custody/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
