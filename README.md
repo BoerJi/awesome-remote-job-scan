@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3185</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（16 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
+| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
+| 自主基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | 后端开发工程师（Go语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
 | 技术专家成员（软件工程师，AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | 客户参与经理（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
@@ -36,13 +39,6 @@
 | 品牌策略负责人，品牌架构与命名 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 | 高级入站专员，高端与财富 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
 | 产品法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19519/counsel-product/) |
-| 战略合作伙伴发展与产品合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19513/strategic-partner-development-product-partnerships/) |
-| 企业级应用AI工程师 - 教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19517/applied-ai-engineer-enterprise-edu/) |
-| 公共部门部署策略师（联邦与SLED）- 北美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19518/deployment-strategist-public-sector-federal-sled-north-america/) |
-| 企业级应用AI工程师 - 医疗健康与生命科学 (HLS) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19516/applied-ai-engineer-enterprise-healthcare-life-sciences-hls/) |
-| 机器人测试工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19515/robotics-test-engineer/) |
-| 高级会计，企业 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19514/senior-accountant-corporate/) |
-| 运营风险高级助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-07 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

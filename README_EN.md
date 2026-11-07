@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
+| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | Back End Developer (Golang) | On-site | [View →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
 | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
@@ -36,13 +39,6 @@
 | Brand Strategy Lead, Brand Architecture & Naming | On-site | [View →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 | Inbound Specialist II, Premium & Wealth | Remote | [View →](https://www.remotejobscan.com/job/19520/inbound-specialist-ii-premium-wealth/) |
 | Counsel, Product | Hybrid | [View →](https://www.remotejobscan.com/job/19519/counsel-product/) |
-| Strategic Partner Development, Product Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19513/strategic-partner-development-product-partnerships/) |
-| Applied AI Engineer, Enterprise - EDU | On-site | [View →](https://www.remotejobscan.com/job/19517/applied-ai-engineer-enterprise-edu/) |
-| Deployment Strategist, Public Sector (Federal & SLED) - North America | Remote | [View →](https://www.remotejobscan.com/job/19518/deployment-strategist-public-sector-federal-sled-north-america/) |
-| Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | Hybrid | [View →](https://www.remotejobscan.com/job/19516/applied-ai-engineer-enterprise-healthcare-life-sciences-hls/) |
-| Robotics Test Engineer | On-site | [View →](https://www.remotejobscan.com/job/19515/robotics-test-engineer/) |
-| Senior Accountant, Corporate | Remote | [View →](https://www.remotejobscan.com/job/19514/senior-accountant-corporate/) |
-| Operational Risk, Senior Associate | Remote | [View →](https://www.remotejobscan.com/job/19512/operational-risk-senior-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
