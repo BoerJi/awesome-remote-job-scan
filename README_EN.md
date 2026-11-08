@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| White Space Manager, Network & Data Halls | Hybrid | [View →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
 | Civil & Structural Architect, Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
 | Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
@@ -97,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
