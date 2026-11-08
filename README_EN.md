@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,9 +32,6 @@
 | Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 | Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
-| Legal Specialist, Law Enforcement | On-site | [View →](https://www.remotejobscan.com/job/19523/legal-specialist-law-enforcement/) |
-| Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
-| UX Researcher | Remote | [View →](https://www.remotejobscan.com/job/19524/ux-researcher/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
