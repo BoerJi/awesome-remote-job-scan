@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -36,7 +36,6 @@
 | Senior Counsel, Business Legal | Remote | [View →](https://www.remotejobscan.com/job/16973/senior-counsel-business-legal/) |
 | UX Researcher | Remote | [View →](https://www.remotejobscan.com/job/19524/ux-researcher/) |
 | Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
-| Brand Strategy Lead, Brand Architecture & Naming | On-site | [View →](https://www.remotejobscan.com/job/19521/brand-strategy-lead-brand-architecture-naming/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-07 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
