@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 支付基础设施产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
+| 产品经理II，钱包与DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | 网络与数据中心白空间经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
 | 电力系统土木与结构工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
 | 工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
@@ -33,7 +35,6 @@
 | 技术专家成员（软件工程师，AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | 客户参与经理（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 | 客户参与经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
-| 企业技术应用AI架构经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-08 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-08 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

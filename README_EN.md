@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Payments Infrastructure Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
+| Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | White Space Manager, Network & Data Halls | Hybrid | [View →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
 | Civil & Structural Architect, Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
 | Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
@@ -33,7 +35,6 @@
 | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 | Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
-| Manager, Applied AI Architecture, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/17830/manager-applied-ai-architecture-enterprise-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
