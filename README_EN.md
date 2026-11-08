@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3181</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,8 +33,6 @@
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | Back End Developer (Golang) | On-site | [View →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
 | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
-| Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
-| Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

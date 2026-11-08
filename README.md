@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3181</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,8 +33,6 @@
 | 自主基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | 后端开发工程师（Go语言） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
 | 技术专家成员（软件工程师，AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
-| 客户参与经理（伦敦） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
-| 客户参与经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-08 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-08 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
