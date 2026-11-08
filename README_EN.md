@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3181</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer, Cybersecurity RL | On-site | [View →](https://www.remotejobscan.com/job/19531/research-engineer-cybersecurity-rl/) |
 | Payments Infrastructure Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
 | Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | White Space Manager, Network & Data Halls | Hybrid | [View →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
@@ -32,7 +33,6 @@
 | Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | Back End Developer (Golang) | On-site | [View →](https://www.remotejobscan.com/job/19528/back-end-developer-golang/) |
-| Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
