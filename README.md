@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（8 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 电力系统土木与结构工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
+| 工业计算 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | AI网关软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
 | 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | 自主基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
@@ -95,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-08 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-08 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

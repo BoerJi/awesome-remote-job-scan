@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Civil & Structural Architect, Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
+| Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 | Software Engineer, AI Gateway | Hybrid | [View →](https://www.remotejobscan.com/job/19486/software-engineer-ai-gateway/) |
 | Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
@@ -95,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-08 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
