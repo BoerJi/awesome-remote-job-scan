@@ -23,9 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
+| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
 | Contract Content Operations 合约内容运营 | Remote | [View →](https://www.remotejobscan.com/job/19538/contract-content-operations/) |
-| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Senior SRE Engineer 高级SRE工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
@@ -42,7 +43,6 @@
 | Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | White Space Manager, Network & Data Halls | Hybrid | [View →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
 | Civil & Structural Architect, Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
-| Industrial Compute | Remote | [View →](https://www.remotejobscan.com/job/11920/industrial-compute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
