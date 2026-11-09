@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3183</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（12 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19537/quant-developer/) |
+| Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
 | National Security Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19535/national-security-lead-apac/) |
 | Strategic Sourcing Manager, Data Center Infrastructure, Electrical & Mechanical | On-site | [View →](https://www.remotejobscan.com/job/19534/strategic-sourcing-manager-data-center-infrastructure-electrical-mechanical/) |
 | Manager, Forward Deployed Engineering - Munich | Hybrid | [View →](https://www.remotejobscan.com/job/19532/manager-forward-deployed-engineering-munich/) |
@@ -99,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
