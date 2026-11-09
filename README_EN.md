@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, Payments & TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19508/senior-product-manager-payments-trust-network/) |
+| Senior Counsel, Commercial (Health and Life Sciences) | Hybrid | [View →](https://www.remotejobscan.com/job/19556/senior-counsel-commercial-health-and-life-sciences/) |
+| Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
+| Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
+| Account Director, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/19555/account-director-higher-education/) |
+| Web3 Business Development - North America | Remote | [View →](https://www.remotejobscan.com/job/19554/web3-business-development-north-america/) |
 | Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 | Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
@@ -36,12 +42,6 @@
 | Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
 | Applied AI Engineer, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19545/applied-ai-engineer-large-enterprise/) |
 | Director, US Operations - Kraken Securities | Remote | [View →](https://www.remotejobscan.com/job/19544/director-us-operations-kraken-securities/) |
-| Research Scientist, Discovery (Engineering & Applied Sciences) | On-site | [View →](https://www.remotejobscan.com/job/19543/research-scientist-discovery-engineering-applied-sciences/) |
-| Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
-| CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
-| Sales Manager, Enterprise - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/19542/sales-manager-enterprise-japan/) |
-| Revenue Strategy and Operations, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
-| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

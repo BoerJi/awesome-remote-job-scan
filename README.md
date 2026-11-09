@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3185</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理，支付与TRUST网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19508/senior-product-manager-payments-trust-network/) |
+| 高级商业法律顾问（健康与生命科学） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19556/senior-counsel-commercial-health-and-life-sciences/) |
+| 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
+| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
+| 高等教育客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19555/account-director-higher-education/) |
+| Web3业务拓展 - 北美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19554/web3-business-development-north-america/) |
 | 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 | 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
@@ -37,12 +43,6 @@
 | 广告解决方案工程师 - 纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
 | 应用AI工程师，大型企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19545/applied-ai-engineer-large-enterprise/) |
 | 美国运营总监 - Kraken Securities | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19544/director-us-operations-kraken-securities/) |
-| 研究科学家，发现（工程与应用科学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19543/research-scientist-discovery-engineering-applied-sciences/) |
-| 政治经济学家，法治 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
-| CFD BD (CN) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
-| 日本企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19542/sales-manager-enterprise-japan/) |
-| 澳新收入战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
-| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
