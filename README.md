@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
+| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| 网络安全首席居住官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19562/executive-in-residence-cyber/) |
+| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| 解决方案架构高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| 高级软件工程师，自主分析 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19563/staff-software-engineer-agentic-analytics/) |
+| 初创企业解决方案架构主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
+| 欧洲、中东、非洲解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
+| 技术合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19557/head-of-technology-partnerships/) |
+| 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19560/product-designer/) |
+| 高级产品设计师，Coinbase One | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
+| 欧洲、中东、非洲地区社区负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19558/head-of-community-emea/) |
+| 金融基础设施高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19559/staff-software-engineer-financial-infrastructure/) |
+| 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | 高级产品经理，支付与TRUST网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19508/senior-product-manager-payments-trust-network/) |
 | 高级商业法律顾问（健康与生命科学） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19556/senior-counsel-commercial-health-and-life-sciences/) |
 | 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
-| 高等教育客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19555/account-director-higher-education/) |
-| Web3业务拓展 - 北美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19554/web3-business-development-north-america/) |
-| 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
-| 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
-| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
-| 高级软件工程师，后端（消费 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
-| 高级后端软件工程师（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
-| 软件工程师，钱包、流动性与桥接团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19552/software-engineer-wallets-liquidity-and-bridging-team/) |
-| 全栈工程师 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19553/full-stack-engineer-elevenapi/) |
-| 高级企业产品经理，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
-| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19550/senior-strategic-program-lead/) |
-| 网站增长工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
-| 招聘专员，沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
-| 广告解决方案工程师 - 纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
-| 应用AI工程师，大型企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19545/applied-ai-engineer-large-enterprise/) |
-| 美国运营总监 - Kraken Securities | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19544/director-us-operations-kraken-securities/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

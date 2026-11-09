@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
+| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
+| Executive in Residence, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19562/executive-in-residence-cyber/) |
+| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
+| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
+| Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
+| Staff Software Engineer, Agentic Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/19563/staff-software-engineer-agentic-analytics/) |
+| Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
+| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
+| Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
+| Head of Technology Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19557/head-of-technology-partnerships/) |
+| Product Designer | Remote | [View →](https://www.remotejobscan.com/job/19560/product-designer/) |
+| Senior Product Designer, Coinbase One | Remote | [View →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
+| Head of Community, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19558/head-of-community-emea/) |
+| Staff Software Engineer, Financial Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19559/staff-software-engineer-financial-infrastructure/) |
+| Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
 | Senior Product Manager, Payments & TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19508/senior-product-manager-payments-trust-network/) |
 | Senior Counsel, Commercial (Health and Life Sciences) | Hybrid | [View →](https://www.remotejobscan.com/job/19556/senior-counsel-commercial-health-and-life-sciences/) |
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 | Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
-| Account Director, Higher Education | Hybrid | [View →](https://www.remotejobscan.com/job/19555/account-director-higher-education/) |
-| Web3 Business Development - North America | Remote | [View →](https://www.remotejobscan.com/job/19554/web3-business-development-north-america/) |
-| Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
-| Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
-| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
-| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
-| Software Engineer, Wallets, Liquidity and Bridging Team | Remote | [View →](https://www.remotejobscan.com/job/19552/software-engineer-wallets-liquidity-and-bridging-team/) |
-| Full-Stack Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/19553/full-stack-engineer-elevenapi/) |
-| Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
-| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/19550/senior-strategic-program-lead/) |
-| Website Growth Engineer | Remote | [View →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
-| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
-| Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
-| Applied AI Engineer, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19545/applied-ai-engineer-large-enterprise/) |
-| Director, US Operations - Kraken Securities | Remote | [View →](https://www.remotejobscan.com/job/19544/director-us-operations-kraken-securities/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
