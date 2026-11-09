@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3186</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3184</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 澳新收入战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
@@ -42,7 +43,6 @@
 | 支付基础设施产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
 | 产品经理II，钱包与DeFi | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | 网络与数据中心白空间经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
-| 电力系统土木与结构工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

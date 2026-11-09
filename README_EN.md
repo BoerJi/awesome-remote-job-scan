@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3186</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3184</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Revenue Strategy and Operations, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
@@ -42,7 +43,6 @@
 | Payments Infrastructure Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
 | Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
 | White Space Manager, Network & Data Halls | Hybrid | [View →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
-| Civil & Structural Architect, Power Generation | Remote | [View →](https://www.remotejobscan.com/job/19529/civil-structural-architect-power-generation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
