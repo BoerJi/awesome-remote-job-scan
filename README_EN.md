@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3183</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | Customer Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Research Engineer, Cybersecurity RL | On-site | [View →](https://www.remotejobscan.com/job/19531/research-engineer-cybersecurity-rl/) |
@@ -95,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
