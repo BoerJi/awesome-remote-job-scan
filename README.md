@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3179</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3185</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
+| 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
+| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
+| 高级软件工程师，后端（消费 - 风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
+| 高级后端软件工程师（消费端-风险） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9278/senior-software-engineer-backend-consumer-risk/) |
+| 软件工程师，钱包、流动性与桥接团队 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19552/software-engineer-wallets-liquidity-and-bridging-team/) |
+| 全栈工程师 - ElevenAPI | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19553/full-stack-engineer-elevenapi/) |
+| 高级企业产品经理，财务规划与分析 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
 | 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19550/senior-strategic-program-lead/) |
 | 网站增长工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
 | 招聘专员，沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
@@ -35,14 +43,6 @@
 | 日本企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19542/sales-manager-enterprise-japan/) |
 | 澳新收入战略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
-| Contract Content Operations 合约内容运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19538/contract-content-operations/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Senior SRE Engineer 高级SRE工程师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
-| 量化开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19537/quant-developer/) |
-| 后端开发工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

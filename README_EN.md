@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3179</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
+| Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
+| Enterprise Account Executive | Hybrid | [View →](https://www.remotejobscan.com/job/17885/enterprise-account-executive/) |
+| Senior Software Engineer, Backend (Consumer - Risk) | Remote | [View →](https://www.remotejobscan.com/job/19297/senior-software-engineer-backend-consumer-risk/) |
+| Software Engineer, Wallets, Liquidity and Bridging Team | Remote | [View →](https://www.remotejobscan.com/job/19552/software-engineer-wallets-liquidity-and-bridging-team/) |
+| Full-Stack Engineer - ElevenAPI | Remote | [View →](https://www.remotejobscan.com/job/19553/full-stack-engineer-elevenapi/) |
+| Senior Enterprise Product Manager, FP&A | Remote | [View →](https://www.remotejobscan.com/job/18976/senior-enterprise-product-manager-fpa/) |
 | Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/19550/senior-strategic-program-lead/) |
 | Website Growth Engineer | Remote | [View →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
@@ -35,14 +42,6 @@
 | Sales Manager, Enterprise - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/19542/sales-manager-enterprise-japan/) |
 | Revenue Strategy and Operations, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
-| Contract Content Operations 合约内容运营 | Remote | [View →](https://www.remotejobscan.com/job/19538/contract-content-operations/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Senior SRE Engineer 高级SRE工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
-| Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19537/quant-developer/) |
-| Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
