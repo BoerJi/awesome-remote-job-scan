@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3183</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 亚太区国家安全负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19535/national-security-lead-apac/) |
 | 战略采购经理，数据中心基础设施，电气与机械 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19534/strategic-sourcing-manager-data-center-infrastructure-electrical-mechanical/) |
 | 慕尼黑前派驻工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19532/manager-forward-deployed-engineering-munich/) |
 | 客户参与经理（纽约） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
@@ -98,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
