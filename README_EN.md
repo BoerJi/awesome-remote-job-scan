@@ -14,15 +14,20 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（19 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Contract Content Operations 合约内容运营 | Remote | [View →](https://www.remotejobscan.com/job/19538/contract-content-operations/) |
+| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
+| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Senior SRE Engineer 高级SRE工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19537/quant-developer/) |
 | Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
 | National Security Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19535/national-security-lead-apac/) |
@@ -101,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
