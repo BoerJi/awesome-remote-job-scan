@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3185</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3183</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Website Growth Engineer | Remote | [View →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
+| Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
+| Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
 | Applied AI Engineer, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19545/applied-ai-engineer-large-enterprise/) |
 | Director, US Operations - Kraken Securities | Remote | [View →](https://www.remotejobscan.com/job/19544/director-us-operations-kraken-securities/) |
 | Research Scientist, Discovery (Engineering & Applied Sciences) | On-site | [View →](https://www.remotejobscan.com/job/19543/research-scientist-discovery-engineering-applied-sciences/) |
@@ -40,9 +43,6 @@
 | Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19537/quant-developer/) |
 | Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
 | National Security Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19535/national-security-lead-apac/) |
-| Strategic Sourcing Manager, Data Center Infrastructure, Electrical & Mechanical | On-site | [View →](https://www.remotejobscan.com/job/19534/strategic-sourcing-manager-data-center-infrastructure-electrical-mechanical/) |
-| Manager, Forward Deployed Engineering - Munich | Hybrid | [View →](https://www.remotejobscan.com/job/19532/manager-forward-deployed-engineering-munich/) |
-| Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
