@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3187</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级诉讼律师（安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
+| 软件工程师-1 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
+| 技术团队成员（AI软件工程师，智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| 工程经理（智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
+| GTM与收入财务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19567/senior-manager-gtm-revenue-finance/) |
+| 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19494/customer-success-team-agent-ii/) |
 | 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | 网络安全首席居住官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19562/executive-in-residence-cyber/) |
@@ -37,12 +43,6 @@
 | 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19560/product-designer/) |
 | 高级产品设计师，Coinbase One | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
 | 欧洲、中东、非洲地区社区负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19558/head-of-community-emea/) |
-| 金融基础设施高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19559/staff-software-engineer-financial-infrastructure/) |
-| 高级招聘专员，G&A | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
-| 高级产品经理，支付与TRUST网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19508/senior-product-manager-payments-trust-network/) |
-| 高级商业法律顾问（健康与生命科学） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19556/senior-counsel-commercial-health-and-life-sciences/) |
-| 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
-| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

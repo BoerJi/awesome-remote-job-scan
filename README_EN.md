@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Counsel, Litigation (Safety) | Hybrid | [View →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
+| Software Engineer-1 | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
+| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
+| Senior Manager, GTM & Revenue Finance | On-site | [View →](https://www.remotejobscan.com/job/19567/senior-manager-gtm-revenue-finance/) |
+| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19494/customer-success-team-agent-ii/) |
 | Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
 | Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
 | Executive in Residence, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19562/executive-in-residence-cyber/) |
@@ -37,12 +43,6 @@
 | Product Designer | Remote | [View →](https://www.remotejobscan.com/job/19560/product-designer/) |
 | Senior Product Designer, Coinbase One | Remote | [View →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
 | Head of Community, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19558/head-of-community-emea/) |
-| Staff Software Engineer, Financial Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19559/staff-software-engineer-financial-infrastructure/) |
-| Senior Recruiter, G&A | On-site | [View →](https://www.remotejobscan.com/job/18911/senior-recruiter-ga/) |
-| Senior Product Manager, Payments & TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19508/senior-product-manager-payments-trust-network/) |
-| Senior Counsel, Commercial (Health and Life Sciences) | Hybrid | [View →](https://www.remotejobscan.com/job/19556/senior-counsel-commercial-health-and-life-sciences/) |
-| Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
-| Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
