@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3184</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Political Economist, Rule of Law | On-site | [View →](https://www.remotejobscan.com/job/19491/political-economist-rule-of-law/) |
+| CFD BD (CN) | Remote | [View →](https://www.remotejobscan.com/job/18625/cfd-bd-cn/) |
+| Sales Manager, Enterprise - Japan | Hybrid | [View →](https://www.remotejobscan.com/job/19542/sales-manager-enterprise-japan/) |
 | Revenue Strategy and Operations, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19541/revenue-strategy-and-operations-anz/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
@@ -40,9 +43,6 @@
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
 | Customer Support Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Research Engineer, Cybersecurity RL | On-site | [View →](https://www.remotejobscan.com/job/19531/research-engineer-cybersecurity-rl/) |
-| Payments Infrastructure Product Manager | Remote | [View →](https://www.remotejobscan.com/job/19437/payments-infrastructure-product-manager/) |
-| Product Manager II, Wallets and DeFi | Remote | [View →](https://www.remotejobscan.com/job/18827/product-manager-ii-wallets-and-defi/) |
-| White Space Manager, Network & Data Halls | Hybrid | [View →](https://www.remotejobscan.com/job/19530/white-space-manager-network-data-halls/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
