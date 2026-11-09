@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect | On-site | [View →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
 | Contract Content Operations 合约内容运营 | Remote | [View →](https://www.remotejobscan.com/job/19538/contract-content-operations/) |
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

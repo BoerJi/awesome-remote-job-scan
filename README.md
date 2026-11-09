@@ -19,10 +19,11 @@
 
 ---
 
-## 🆕 今日更新（19 个精选职位）
+## 🆕 今日更新（20 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19540/applied-ai-architect/) |
 | Contract Content Operations 合约内容运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19538/contract-content-operations/) |
 | Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
