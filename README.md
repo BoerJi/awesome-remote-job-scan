@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3183</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3180</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级战略项目主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19550/senior-strategic-program-lead/) |
 | 网站增长工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
 | 招聘专员，沟通 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
 | 广告解决方案工程师 - 纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
@@ -42,7 +43,6 @@
 | Senior SRE Engineer 高级SRE工程师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | 量化开发工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19537/quant-developer/) |
 | 后端开发工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
-| 亚太区国家安全负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19535/national-security-lead-apac/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3183</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3180</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Strategic Program Lead | Remote | [View →](https://www.remotejobscan.com/job/19550/senior-strategic-program-lead/) |
 | Website Growth Engineer | Remote | [View →](https://www.remotejobscan.com/job/19549/website-growth-engineer/) |
 | Recruiter, Communications | On-site | [View →](https://www.remotejobscan.com/job/19546/recruiter-communications/) |
 | Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/19548/solutions-engineer-ads-solutions-nyc/) |
@@ -42,7 +43,6 @@
 | Senior SRE Engineer 高级SRE工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Quant Developer | On-site | [View →](https://www.remotejobscan.com/job/19537/quant-developer/) |
 | Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19536/back-end-developer-java/) |
-| National Security Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19535/national-security-lead-apac/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
