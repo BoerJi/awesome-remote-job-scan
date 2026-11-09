@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3183</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Sales and Development Leader, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partner-sales-and-development-leader-southern-europe/) |
+| Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | Senior Counsel, Litigation (Safety) | Hybrid | [View →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
 | Software Engineer-1 | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
@@ -41,8 +43,6 @@
 | Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
 | Head of Technology Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19557/head-of-technology-partnerships/) |
 | Product Designer | Remote | [View →](https://www.remotejobscan.com/job/19560/product-designer/) |
-| Senior Product Designer, Coinbase One | Remote | [View →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
-| Head of Community, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19558/head-of-community-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

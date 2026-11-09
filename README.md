@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3187</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3183</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 南欧合作伙伴销售与发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partner-sales-and-development-leader-southern-europe/) |
+| Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | 高级诉讼律师（安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
 | 软件工程师-1 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
 | 技术团队成员（AI软件工程师，智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
@@ -41,8 +43,6 @@
 | 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
 | 技术合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19557/head-of-technology-partnerships/) |
 | 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19560/product-designer/) |
-| 高级产品设计师，Coinbase One | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12237/senior-product-designer-coinbase-one/) |
-| 欧洲、中东、非洲地区社区负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19558/head-of-community-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
