@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full-Stack Software Engineer, Child Safety Tools & Systems (London) | Hybrid | [View →](https://www.remotejobscan.com/job/19580/full-stack-software-engineer-child-safety-tools-systems-london/) |
+| Full-Stack Software Engineer, Child Safety Tools & Systems | Hybrid | [View →](https://www.remotejobscan.com/job/19579/full-stack-software-engineer-child-safety-tools-systems/) |
+| Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19577/strategy-operations-germany/) |
+| Solutions Engineer, Ads Solutions - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/19578/solutions-engineer-ads-solutions-tokyo/) |
+| Partner Director, GTM Cloud Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19581/partner-director-gtm-cloud-partnerships/) |
+| Adoption Specialist - Infrastructure & Agentic | Remote | [View →](https://www.remotejobscan.com/job/19576/adoption-specialist-infrastructure-agentic/) |
+| Community Programs Manager, Champion Network | Hybrid | [View →](https://www.remotejobscan.com/job/19574/community-programs-manager-champion-network/) |
+| Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
+| AI Outcomes Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/18336/ai-outcomes-manager-enterprise-tech/) |
+| Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/19575/financial-analyst-ga/) |
 | Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
 | Novel Abuse Red Teamer | Hybrid | [View →](https://www.remotejobscan.com/job/19572/novel-abuse-red-teamer/) |
@@ -33,16 +43,6 @@
 | Senior Counsel, Litigation (Safety) | Hybrid | [View →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
 | Software Engineer-1 | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
-| Senior Manager, GTM & Revenue Finance | On-site | [View →](https://www.remotejobscan.com/job/19567/senior-manager-gtm-revenue-finance/) |
-| Customer Success Team Agent II | Remote | [View →](https://www.remotejobscan.com/job/19494/customer-success-team-agent-ii/) |
-| Strategic Product Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| Strategic Cloud Partnerships Lead | Hybrid | [View →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| Executive in Residence, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19562/executive-in-residence-cyber/) |
-| Senior Partner Programs Manager | Hybrid | [View →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
-| Staff Software Engineer, Agentic Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/19563/staff-software-engineer-agentic-analytics/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

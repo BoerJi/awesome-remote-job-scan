@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈软件工程师，儿童安全工具与系统（伦敦） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19580/full-stack-software-engineer-child-safety-tools-systems-london/) |
+| 全栈软件工程师，儿童安全工具与系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19579/full-stack-software-engineer-child-safety-tools-systems/) |
+| 德国战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19577/strategy-operations-germany/) |
+| 解决方案工程师，广告解决方案 - 东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19578/solutions-engineer-ads-solutions-tokyo/) |
+| GTM云合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19581/partner-director-gtm-cloud-partnerships/) |
+| 基础设施与代理式AI采用专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19576/adoption-specialist-infrastructure-agentic/) |
+| 社区项目经理，冠军网络 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19574/community-programs-manager-champion-network/) |
+| 应用人工智能工程经理（Codex） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
+| 企业科技AI成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18336/ai-outcomes-manager-enterprise-tech/) |
+| 财务分析师，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19575/financial-analyst-ga/) |
 | 安装基础管理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
 | 新型滥用红队专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19572/novel-abuse-red-teamer/) |
@@ -33,16 +43,6 @@
 | 高级诉讼律师（安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
 | 软件工程师-1 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
 | 技术团队成员（AI软件工程师，智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| 工程经理（智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
-| GTM与收入财务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19567/senior-manager-gtm-revenue-finance/) |
-| 客户成功团队代理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19494/customer-success-team-agent-ii/) |
-| 战略产品合作负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16104/strategic-product-partnerships-lead/) |
-| 战略云合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16437/strategic-cloud-partnerships-lead/) |
-| 网络安全首席居住官 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19562/executive-in-residence-cyber/) |
-| 高级合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16103/senior-partner-programs-manager/) |
-| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
-| 解决方案架构高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
-| 高级软件工程师，自主分析 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19563/staff-software-engineer-agentic-analytics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
