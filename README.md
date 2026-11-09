@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3183</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3182</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安装基础管理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
+| 新型滥用红队专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19572/novel-abuse-red-teamer/) |
+| 知识工作产品营销经理 - 企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19571/product-marketing-manager-knowledge-work-enterprise/) |
+| 初创企业业务总监 | 新业务 - 英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19573/account-director-startups-new-business-uki/) |
 | 南欧合作伙伴销售与发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partner-sales-and-development-leader-southern-europe/) |
 | Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | 高级诉讼律师（安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
@@ -38,11 +43,6 @@
 | EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | 解决方案架构高级经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | 高级软件工程师，自主分析 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19563/staff-software-engineer-agentic-analytics/) |
-| 初创企业解决方案架构主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
-| 欧洲、中东、非洲解决方案架构负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| 生物信息学高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
-| 技术合作伙伴负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19557/head-of-technology-partnerships/) |
-| 产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19560/product-designer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-09 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

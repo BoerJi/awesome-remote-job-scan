@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3183</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
+| Novel Abuse Red Teamer | Hybrid | [View →](https://www.remotejobscan.com/job/19572/novel-abuse-red-teamer/) |
+| Product Marketing Manager, Knowledge Work - Enterprise | On-site | [View →](https://www.remotejobscan.com/job/19571/product-marketing-manager-knowledge-work-enterprise/) |
+| Account Director, Startups | New Business - UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19573/account-director-startups-new-business-uki/) |
 | Partner Sales and Development Leader, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partner-sales-and-development-leader-southern-europe/) |
 | Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | Senior Counsel, Litigation (Safety) | Hybrid | [View →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
@@ -38,11 +43,6 @@
 | Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Senior Manager, Solutions Architecture | Hybrid | [View →](https://www.remotejobscan.com/job/12667/senior-manager-solutions-architecture/) |
 | Staff Software Engineer, Agentic Analytics | Hybrid | [View →](https://www.remotejobscan.com/job/19563/staff-software-engineer-agentic-analytics/) |
-| Head of Solutions Architecture, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/11342/head-of-solutions-architecture-startups/) |
-| Head of Solutions Architecture, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/16277/head-of-solutions-architecture-emea/) |
-| Senior Engineer, Bioinformatics | On-site | [View →](https://www.remotejobscan.com/job/19052/senior-engineer-bioinformatics/) |
-| Head of Technology Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19557/head-of-technology-partnerships/) |
-| Product Designer | Remote | [View →](https://www.remotejobscan.com/job/19560/product-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
