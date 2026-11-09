@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3184</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3182</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Sourcing Manager, Data Center Infrastructure, Electrical & Mechanical | On-site | [View →](https://www.remotejobscan.com/job/19534/strategic-sourcing-manager-data-center-infrastructure-electrical-mechanical/) |
 | Manager, Forward Deployed Engineering - Munich | Hybrid | [View →](https://www.remotejobscan.com/job/19532/manager-forward-deployed-engineering-munich/) |
 | Engagement Manager (NYC) | On-site | [View →](https://www.remotejobscan.com/job/19526/engagement-manager-nyc/) |
 | Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
@@ -97,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-09 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
