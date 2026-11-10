@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西及拉丁美洲活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
 | 高级人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19626/senior-hr-business-partner/) |
 | [C] 研究工程师，发现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19625/c-research-engineer-discovery/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
@@ -42,7 +43,6 @@
 | Web3链上数据高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
 | 合规官、风险官和反洗钱合规官（加拿大和美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19612/compliance-officer-risk-officer-and-mlro-canada-and-us/) |
 | 合规经理（新加坡） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19611/compliance-manager-singapore/) |
-| 合规高级专员及代理MLRO，CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

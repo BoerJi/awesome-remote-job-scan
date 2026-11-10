@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Events Lead - Brazil and Latam | Remote | [View →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
 | Senior HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/19626/senior-hr-business-partner/) |
 | [C] Research Engineer, Discovery | On-site | [View →](https://www.remotejobscan.com/job/19625/c-research-engineer-discovery/) |
 | Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
@@ -41,7 +42,6 @@
 | Senior/Staff Engineer - Web3 - Onchain Data | On-site | [View →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
 | Compliance Officer, Risk Officer and MLRO (Canada and US) | Hybrid | [View →](https://www.remotejobscan.com/job/19612/compliance-officer-risk-officer-and-mlro-canada-and-us/) |
 | Compliance Manager (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/19611/compliance-manager-singapore/) |
-| Compliance Senior Associate & Deputy MLRO, CBIE | On-site | [View →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
