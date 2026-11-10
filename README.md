@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3202</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3204</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 全球续约、产品与工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19598/global-head-of-renewals-product-engineering/) |
-| HR运营-合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
-| RTL设计工程师，网络/网络-on-芯片 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19597/rtl-design-engineer-networking-noc/) |
-| Back-end Development Engineer 后端开发工程师-业财中台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17331/back-end-development-engineer/) |
-| 大中华区合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19596/partner-account-manager-anz/) |
-| 软件工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19595/software-engineer-beneficial-deployments/) |
-| 后端开发工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19594/back-end-developer-java/) |
-| 首席软件工程师，全栈 — Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19592/principal-software-engineer-full-stack-codex/) |
-| Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
-| 并购招聘项目经理 | 人事 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19593/program-manager-ma-recruiting-people/) |
-| 数据中心基础设施招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19589/recruiter-data-center-infrastructure/) |
-| 行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19588/executive-assistant/) |
-| 安全工程经理（云、基础设施与应用安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19590/engineering-manager-security-cloud-infrastructure-application-security/) |
-| 安全风险与合规，SOX IT | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19587/security-risk-compliance-sox-it/) |
-| SOC工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19586/soc-engineer/) |
-| 增长团队的安卓工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19585/android-engineer-growth/) |
-| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
-| 国际股权会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19438/international-equity-accounting-and-reporting/) |
-| 主要业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
-| Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
+| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
+| Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
+| Security Research Engineer 安全研发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
+| Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
+| Office Network Security Expert 办公网安全专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
+| Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Office Network Security Manager 办公网安全负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
+| Senior Platform Engineering Development Expert 资深平台工程开发专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19083/senior-platform-engineering-development-expert/) |
+| Senior Blockchain Development Engineer / Architect 资深区块链开发工程师/架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19082/senior-blockchain-development-engineer-architect/) |
+| Leader of the Safety Research Team 安全研发组Leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
+| 区块链架构师 Blockchain Architect | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19078/blockchain-architect/) |
+| SRE Engineer SRE工程师（监控日志中间件） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19017/sre-engineer-sre/) |
+| Transaction Monitoring Analyst 交易监控分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18958/transaction-monitoring-analyst/) |
+| Market Surveillance Analyst 市场监察分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18954/market-surveillance-analyst/) |
+| On-Chain Risk Control Product Manager 链上风控产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18815/on-chain-risk-control-product-manager/) |
+| Risk Control Platform Architect 风控平台架构师（多站点 / Java 技术方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18814/risk-control-platform-architect-java/) |
+| KYC & Anti-Fraud Strategy Analyst KYC&反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18466/kyc-anti-fraud-strategy-analyst-kyc/) |
+| Fund Security Strategy Analyst 资金安全策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18207/fund-security-strategy-analyst/) |
+| Marketing Anti-Fraud Strategy Analyst 营销反欺诈策略分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18008/marketing-anti-fraud-strategy-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
