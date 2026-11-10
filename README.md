@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球续约、产品与工程负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19598/global-head-of-renewals-product-engineering/) |
 | HR运营-合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
 | RTL设计工程师，网络/网络-on-芯片 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19597/rtl-design-engineer-networking-noc/) |
 | Back-end Development Engineer 后端开发工程师-业财中台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17331/back-end-development-engineer/) |
@@ -42,7 +43,6 @@
 | 国际股权会计与报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19438/international-equity-accounting-and-reporting/) |
 | 主要业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
-| 产品参与经理，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

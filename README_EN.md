@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global Head of Renewals, Product & Engineering | On-site | [View →](https://www.remotejobscan.com/job/19598/global-head-of-renewals-product-engineering/) |
 | HR Operations - Contract | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
 | RTL Design Engineer, Networking / NoC | Hybrid | [View →](https://www.remotejobscan.com/job/19597/rtl-design-engineer-networking-noc/) |
 | Back-end Development Engineer 后端开发工程师-业财中台 | Remote | [View →](https://www.remotejobscan.com/job/17331/back-end-development-engineer/) |
@@ -42,7 +43,6 @@
 | International Equity Accounting and Reporting | On-site | [View →](https://www.remotejobscan.com/job/19438/international-equity-accounting-and-reporting/) |
 | Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
-| Product Engagement Manager, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
