@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3188</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3187</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
+| 产品参与经理，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
+| 初创企业绿色田野业务拓展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| 初创企业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| 研究产品市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19584/research-product-marketing-manager/) |
+| 支付体验产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
+| _prime_融资交易分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
+| AI开发者生产力高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19582/staff-software-engineer-ai-developer-productivity/) |
 | 全栈软件工程师，儿童安全工具与系统（伦敦） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19580/full-stack-software-engineer-child-safety-tools-systems-london/) |
 | 全栈软件工程师，儿童安全工具与系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19579/full-stack-software-engineer-child-safety-tools-systems/) |
 | 德国战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19577/strategy-operations-germany/) |
@@ -35,14 +43,6 @@
 | 财务分析师，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19575/financial-analyst-ga/) |
 | 安装基础管理，初创企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
-| 新型滥用红队专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19572/novel-abuse-red-teamer/) |
-| 知识工作产品营销经理 - 企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19571/product-marketing-manager-knowledge-work-enterprise/) |
-| 初创企业业务总监 | 新业务 - 英国及爱尔兰 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19573/account-director-startups-new-business-uki/) |
-| 南欧合作伙伴销售与发展主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partner-sales-and-development-leader-southern-europe/) |
-| Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
-| 高级诉讼律师（安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
-| 软件工程师-1 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
-| 技术团队成员（AI软件工程师，智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

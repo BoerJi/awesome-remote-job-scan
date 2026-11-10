@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3188</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
+| Product Engagement Manager, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
+| Account Executive, Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| Account Executive, Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
+| Research Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19584/research-product-marketing-manager/) |
+| Product Manager II, Payment Experiences | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
+| Prime Financing Trading Analyst | Remote | [View →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
+| Staff Software Engineer, AI Developer Productivity | Remote | [View →](https://www.remotejobscan.com/job/19582/staff-software-engineer-ai-developer-productivity/) |
 | Full-Stack Software Engineer, Child Safety Tools & Systems (London) | Hybrid | [View →](https://www.remotejobscan.com/job/19580/full-stack-software-engineer-child-safety-tools-systems-london/) |
 | Full-Stack Software Engineer, Child Safety Tools & Systems | Hybrid | [View →](https://www.remotejobscan.com/job/19579/full-stack-software-engineer-child-safety-tools-systems/) |
 | Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19577/strategy-operations-germany/) |
@@ -35,14 +43,6 @@
 | Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/19575/financial-analyst-ga/) |
 | Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
-| Novel Abuse Red Teamer | Hybrid | [View →](https://www.remotejobscan.com/job/19572/novel-abuse-red-teamer/) |
-| Product Marketing Manager, Knowledge Work - Enterprise | On-site | [View →](https://www.remotejobscan.com/job/19571/product-marketing-manager-knowledge-work-enterprise/) |
-| Account Director, Startups | New Business - UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/19573/account-director-startups-new-business-uki/) |
-| Partner Sales and Development Leader, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partner-sales-and-development-leader-southern-europe/) |
-| Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
-| Senior Counsel, Litigation (Safety) | Hybrid | [View →](https://www.remotejobscan.com/job/19566/senior-counsel-litigation-safety/) |
-| Software Engineer-1 | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1/) |
-| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18798/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
