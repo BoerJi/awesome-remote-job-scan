@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3211</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3213</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Web3安全与风险控制产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
+| Staff / Senior Staff Software Engineer，匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19617/staff-senior-staff-software-engineer-matching-engine/) |
+| 亚太区 SMB 领导 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
+| 支付业务发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19616/payments-business-development-lead/) |
 | 媒体与KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
 | 活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19614/events-manager/) |
 | 机构业务发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19613/institutional-business-development-lead/) |
@@ -39,10 +43,6 @@
 | Senior Researcher 资深研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19607/senior-researcher/) |
 | 基础设施稳定性架构师（高级资深工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect-senior-staff-engineer/) |
 | 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
-| 跨境支付营销总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19604/head-of-marketing-cross-border-payments/) |
-| 财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19605/financial-manager/) |
-| 技术客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19606/technical-customer-support-specialist/) |
-| 技术账户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19603/technical-account-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

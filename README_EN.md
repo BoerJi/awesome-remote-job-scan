@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3211</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3213</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Web3 Security And Risk Control Product Manager | On-site | [View →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
+| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/19617/staff-senior-staff-software-engineer-matching-engine/) |
+| SMB Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
+| Payments Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19616/payments-business-development-lead/) |
 | Media & KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
 | Events Manager | Remote | [View →](https://www.remotejobscan.com/job/19614/events-manager/) |
 | Institutional Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19613/institutional-business-development-lead/) |
@@ -39,10 +43,6 @@
 | Senior Researcher 资深研究员 | Remote | [View →](https://www.remotejobscan.com/job/19607/senior-researcher/) |
 | Infrastructure Stability Architect (Senior Staff Engineer) | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect-senior-staff-engineer/) |
 | Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
-| Head of Marketing (Cross-Border Payments) | Hybrid | [View →](https://www.remotejobscan.com/job/19604/head-of-marketing-cross-border-payments/) |
-| Financial Manager | Remote | [View →](https://www.remotejobscan.com/job/19605/financial-manager/) |
-| Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/19606/technical-customer-support-specialist/) |
-| Technical Account Director | On-site | [View →](https://www.remotejobscan.com/job/19603/technical-account-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
