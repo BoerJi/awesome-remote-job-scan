@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3187</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3192</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SOC Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19586/soc-engineer/) |
+| Android Engineer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19585/android-engineer-growth/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
+| International Equity Accounting and Reporting | On-site | [View →](https://www.remotejobscan.com/job/19438/international-equity-accounting-and-reporting/) |
+| Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | Product Engagement Manager, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
 | Account Executive, Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
@@ -38,11 +43,6 @@
 | Partner Director, GTM Cloud Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19581/partner-director-gtm-cloud-partnerships/) |
 | Adoption Specialist - Infrastructure & Agentic | Remote | [View →](https://www.remotejobscan.com/job/19576/adoption-specialist-infrastructure-agentic/) |
 | Community Programs Manager, Champion Network | Hybrid | [View →](https://www.remotejobscan.com/job/19574/community-programs-manager-champion-network/) |
-| Manager, Applied AI Engineering (Codex) | Hybrid | [View →](https://www.remotejobscan.com/job/14739/manager-applied-ai-engineering-codex/) |
-| AI Outcomes Manager, Enterprise Tech | On-site | [View →](https://www.remotejobscan.com/job/18336/ai-outcomes-manager-enterprise-tech/) |
-| Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/19575/financial-analyst-ga/) |
-| Install Base Manager, Startups | Hybrid | [View →](https://www.remotejobscan.com/job/19373/install-base-manager-startups/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
