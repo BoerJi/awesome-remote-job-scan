@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户支持助理（信用卡支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
+| 零售交易所支持客户支持助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
+| 分布式存储与AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
+| 射频与技术窃听反制安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19648/security-engineer-rf-and-technical-surveillance-countermeasures/) |
+| 客户成功经理，EMEA有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
+| GTM赋能 - 销售执行与北美负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19645/gtm-enablement-sales-execution-north-america-lead/) |
 | GTM系统DevOps / AgentOps工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
 | 软件工程师-1，资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
@@ -37,12 +43,6 @@
 | 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | 法律领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
 | 北欧及DACH地区部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
-| 社区经理，体验式营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
-| 甲骨文北美合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19639/partner-director-oracle-north-america/) |
-| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| NTT Data全球合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19638/partner-director-ntt-data-global/) |
-| KPMG全球合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19637/partner-director-kpmg-global/) |
-| 初创企业销售经理 - 安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/manager-startup-sales-install-base/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

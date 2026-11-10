@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Associate, Customer Support (Credit Card Support) | On-site | [View →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
+| Associate, Customer Support (Retail Exchange Support) | On-site | [View →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
+| Staff Engineer, Distributed Storage & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
+| Security Engineer, RF and Technical Surveillance Countermeasures | On-site | [View →](https://www.remotejobscan.com/job/19648/security-engineer-rf-and-technical-surveillance-countermeasures/) |
+| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
+| GTM Enablement - Sales Execution & North America Lead | On-site | [View →](https://www.remotejobscan.com/job/19645/gtm-enablement-sales-execution-north-america-lead/) |
 | DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
 | Software Engineer-1, Money Movement | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
@@ -37,12 +43,6 @@
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | Subject Matter Expert, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
 | Deployed Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
-| Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
-| Partner Director, Oracle North America | Hybrid | [View →](https://www.remotejobscan.com/job/19639/partner-director-oracle-north-america/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
-| Partner Director, NTT Data Global | Hybrid | [View →](https://www.remotejobscan.com/job/19638/partner-director-ntt-data-global/) |
-| Partner Director, KPMG Global | Hybrid | [View →](https://www.remotejobscan.com/job/19637/partner-director-kpmg-global/) |
-| Manager, Startup Sales - Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/19373/manager-startup-sales-install-base/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
