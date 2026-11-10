@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3239</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
+| 战略大客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
+| 财务与战略计算、基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-infrastructure/) |
+| 数据合作伙伴关系经理（1年合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19661/data-partnerships-manager-1-year-contract/) |
+| GTM战略与运营，FDE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19659/gtm-strategy-operations-fde/) |
 | 软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
 | 商业营销启动制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19658/launch-producer-business-marketing/) |
 | 产品经理，卖家体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19655/product-manager-seller-experience/) |
@@ -37,12 +43,6 @@
 | 零售交易所支持客户支持助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
 | 分布式存储与AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
 | 射频与技术窃听反制安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19648/security-engineer-rf-and-technical-surveillance-countermeasures/) |
-| 客户成功经理，EMEA有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| GTM赋能 - 销售执行与北美负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19645/gtm-enablement-sales-execution-north-america-lead/) |
-| GTM系统DevOps / AgentOps工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
-| 软件工程师-1，资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
-| 计算转型项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19643/project-manager-compute-transformation/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

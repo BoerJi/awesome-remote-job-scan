@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
+| Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
+| Finance & Strategy Compute, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-infrastructure/) |
+| Data Partnerships Manager (1-year contract) | Hybrid | [View →](https://www.remotejobscan.com/job/19661/data-partnerships-manager-1-year-contract/) |
+| GTM Strategy & Operations, FDE | On-site | [View →](https://www.remotejobscan.com/job/19659/gtm-strategy-operations-fde/) |
 | Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
 | Launch Producer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/19658/launch-producer-business-marketing/) |
 | Product Manager, Seller Experience | On-site | [View →](https://www.remotejobscan.com/job/19655/product-manager-seller-experience/) |
@@ -37,12 +43,6 @@
 | Associate, Customer Support (Retail Exchange Support) | On-site | [View →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
 | Staff Engineer, Distributed Storage & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
 | Security Engineer, RF and Technical Surveillance Countermeasures | On-site | [View →](https://www.remotejobscan.com/job/19648/security-engineer-rf-and-technical-surveillance-countermeasures/) |
-| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| GTM Enablement - Sales Execution & North America Lead | On-site | [View →](https://www.remotejobscan.com/job/19645/gtm-enablement-sales-execution-north-america-lead/) |
-| DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
-| Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
-| Software Engineer-1, Money Movement | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
-| Project Manager, Compute Transformation | Hybrid | [View →](https://www.remotejobscan.com/job/19643/project-manager-compute-transformation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
