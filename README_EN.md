@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3192</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3200</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19594/back-end-developer-java/) |
+| Principal Software Engineer, Full Stack — Codex | On-site | [View →](https://www.remotejobscan.com/job/19592/principal-software-engineer-full-stack-codex/) |
+| Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
+| Program Manager, M&A Recruiting | People | Hybrid | [View →](https://www.remotejobscan.com/job/19593/program-manager-ma-recruiting-people/) |
+| Recruiter, Data Center Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19589/recruiter-data-center-infrastructure/) |
+| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/19588/executive-assistant/) |
+| Engineering Manager, Security (Cloud, Infrastructure & Application Security) | Hybrid | [View →](https://www.remotejobscan.com/job/19590/engineering-manager-security-cloud-infrastructure-application-security/) |
+| Security Risk & Compliance, SOX IT | On-site | [View →](https://www.remotejobscan.com/job/19587/security-risk-compliance-sox-it/) |
 | SOC Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19586/soc-engineer/) |
 | Android Engineer, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19585/android-engineer-growth/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
@@ -35,14 +43,6 @@
 | Research Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19584/research-product-marketing-manager/) |
 | Product Manager II, Payment Experiences | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
 | Prime Financing Trading Analyst | Remote | [View →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
-| Staff Software Engineer, AI Developer Productivity | Remote | [View →](https://www.remotejobscan.com/job/19582/staff-software-engineer-ai-developer-productivity/) |
-| Full-Stack Software Engineer, Child Safety Tools & Systems (London) | Hybrid | [View →](https://www.remotejobscan.com/job/19580/full-stack-software-engineer-child-safety-tools-systems-london/) |
-| Full-Stack Software Engineer, Child Safety Tools & Systems | Hybrid | [View →](https://www.remotejobscan.com/job/19579/full-stack-software-engineer-child-safety-tools-systems/) |
-| Strategy & Operations, Germany | Hybrid | [View →](https://www.remotejobscan.com/job/19577/strategy-operations-germany/) |
-| Solutions Engineer, Ads Solutions - Tokyo | On-site | [View →](https://www.remotejobscan.com/job/19578/solutions-engineer-ads-solutions-tokyo/) |
-| Partner Director, GTM Cloud Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19581/partner-director-gtm-cloud-partnerships/) |
-| Adoption Specialist - Infrastructure & Agentic | Remote | [View →](https://www.remotejobscan.com/job/19576/adoption-specialist-infrastructure-agentic/) |
-| Community Programs Manager, Champion Network | Hybrid | [View →](https://www.remotejobscan.com/job/19574/community-programs-manager-champion-network/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3192</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3200</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 后端开发工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19594/back-end-developer-java/) |
+| 首席软件工程师，全栈 — Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19592/principal-software-engineer-full-stack-codex/) |
+| Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
+| 并购招聘项目经理 | 人事 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19593/program-manager-ma-recruiting-people/) |
+| 数据中心基础设施招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19589/recruiter-data-center-infrastructure/) |
+| 行政助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19588/executive-assistant/) |
+| 安全工程经理（云、基础设施与应用安全） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19590/engineering-manager-security-cloud-infrastructure-application-security/) |
+| 安全风险与合规，SOX IT | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19587/security-risk-compliance-sox-it/) |
 | SOC工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19586/soc-engineer/) |
 | 增长团队的安卓工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19585/android-engineer-growth/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9810/solutions-architect/) |
@@ -35,14 +43,6 @@
 | 研究产品市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19584/research-product-marketing-manager/) |
 | 支付体验产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
 | _prime_融资交易分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
-| AI开发者生产力高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19582/staff-software-engineer-ai-developer-productivity/) |
-| 全栈软件工程师，儿童安全工具与系统（伦敦） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19580/full-stack-software-engineer-child-safety-tools-systems-london/) |
-| 全栈软件工程师，儿童安全工具与系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19579/full-stack-software-engineer-child-safety-tools-systems/) |
-| 德国战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19577/strategy-operations-germany/) |
-| 解决方案工程师，广告解决方案 - 东京 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19578/solutions-engineer-ads-solutions-tokyo/) |
-| GTM云合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19581/partner-director-gtm-cloud-partnerships/) |
-| 基础设施与代理式AI采用专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19576/adoption-specialist-infrastructure-agentic/) |
-| 社区项目经理，冠军网络 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19574/community-programs-manager-champion-network/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
