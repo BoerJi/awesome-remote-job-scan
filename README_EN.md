@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3217</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
+| Strategic Account Executive Inference India | On-site | [View →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
 | Events Lead - Brazil and Latam | Remote | [View →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
 | Senior HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/19626/senior-hr-business-partner/) |
 | [C] Research Engineer, Discovery | On-site | [View →](https://www.remotejobscan.com/job/19625/c-research-engineer-discovery/) |
@@ -40,8 +42,6 @@
 | Events Manager | Remote | [View →](https://www.remotejobscan.com/job/19614/events-manager/) |
 | Institutional Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19613/institutional-business-development-lead/) |
 | Senior/Staff Engineer - Web3 - Onchain Data | On-site | [View →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
-| Compliance Officer, Risk Officer and MLRO (Canada and US) | Hybrid | [View →](https://www.remotejobscan.com/job/19612/compliance-officer-risk-officer-and-mlro-canada-and-us/) |
-| Compliance Manager (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/19611/compliance-manager-singapore/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
