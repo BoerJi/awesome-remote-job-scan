@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3216</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3217</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19626/senior-hr-business-partner/) |
+| [C] 研究工程师，发现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19625/c-research-engineer-discovery/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
 | 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19624/chief-of-staff/) |
 | Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
@@ -41,8 +43,6 @@
 | 合规官、风险官和反洗钱合规官（加拿大和美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19612/compliance-officer-risk-officer-and-mlro-canada-and-us/) |
 | 合规经理（新加坡） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19611/compliance-manager-singapore/) |
 | 合规高级专员及代理MLRO，CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
-| 金融犯罪合规质量保证团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19608/team-lead-financial-crime-compliance-qa/) |
-| 新加坡地区商务拓展专员（马来语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
