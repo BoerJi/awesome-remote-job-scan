@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3220</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| 技术团队专员（TPM，计算） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19630/member-of-technical-staff-tpm-compute/) |
+| 国际市场活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
 | 账单运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
 | 印度推理策略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
 | 巴西及拉丁美洲活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
@@ -40,9 +43,6 @@
 | 亚太区 SMB 领导 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
 | 支付业务发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19616/payments-business-development-lead/) |
 | 媒体与KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
-| 活动经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19614/events-manager/) |
-| 机构业务发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19613/institutional-business-development-lead/) |
-| Web3链上数据高级/资深工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

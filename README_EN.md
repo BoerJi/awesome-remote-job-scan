@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3220</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
+| Member of Technical Staff (TPM, Compute) | On-site | [View →](https://www.remotejobscan.com/job/19630/member-of-technical-staff-tpm-compute/) |
+| Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
 | Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
 | Strategic Account Executive Inference India | On-site | [View →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
 | Events Lead - Brazil and Latam | Remote | [View →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
@@ -39,9 +42,6 @@
 | SMB Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
 | Payments Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19616/payments-business-development-lead/) |
 | Media & KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
-| Events Manager | Remote | [View →](https://www.remotejobscan.com/job/19614/events-manager/) |
-| Institutional Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19613/institutional-business-development-lead/) |
-| Senior/Staff Engineer - Web3 - Onchain Data | On-site | [View →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
