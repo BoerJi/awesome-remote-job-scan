@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3200</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3202</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Operations - Contract | Remote | [View →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
+| RTL Design Engineer, Networking / NoC | Hybrid | [View →](https://www.remotejobscan.com/job/19597/rtl-design-engineer-networking-noc/) |
+| Back-end Development Engineer 后端开发工程师-业财中台 | Remote | [View →](https://www.remotejobscan.com/job/17331/back-end-development-engineer/) |
+| Partner Account Manager, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19596/partner-account-manager-anz/) |
+| Software Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/19595/software-engineer-beneficial-deployments/) |
 | Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/19594/back-end-developer-java/) |
 | Principal Software Engineer, Full Stack — Codex | On-site | [View →](https://www.remotejobscan.com/job/19592/principal-software-engineer-full-stack-codex/) |
 | Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
@@ -38,11 +43,6 @@
 | Business Development Representative, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Staff+ Software Engineer, Safeguards Evals | On-site | [View →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | Product Engagement Manager, User Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
-| Account Executive, Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| Account Executive, Startups, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| Research Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19584/research-product-marketing-manager/) |
-| Product Manager II, Payment Experiences | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
-| Prime Financing Trading Analyst | Remote | [View →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

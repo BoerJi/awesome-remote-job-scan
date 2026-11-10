@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3200</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3202</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| HR运营-合同制 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16378/hr-operations-contract/) |
+| RTL设计工程师，网络/网络-on-芯片 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19597/rtl-design-engineer-networking-noc/) |
+| Back-end Development Engineer 后端开发工程师-业财中台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17331/back-end-development-engineer/) |
+| 大中华区合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19596/partner-account-manager-anz/) |
+| 软件工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19595/software-engineer-beneficial-deployments/) |
 | 后端开发工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19594/back-end-developer-java/) |
 | 首席软件工程师，全栈 — Codex | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19592/principal-software-engineer-full-stack-codex/) |
 | Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
@@ -38,11 +43,6 @@
 | 主要业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9751/business-development-representative-majors/) |
 | Staff+ 软件工程师，安全评估 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19568/staff-software-engineer-safeguards-evals/) |
 | 产品参与经理，用户运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19583/product-engagement-manager-user-operations/) |
-| 初创企业绿色田野业务拓展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| 初创企业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16830/account-executive-startups-install-base/) |
-| 研究产品市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19584/research-product-marketing-manager/) |
-| 支付体验产品经理 II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
-| _prime_融资交易分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19360/prime-financing-trading-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
