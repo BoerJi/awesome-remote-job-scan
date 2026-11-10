@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3209</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3211</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Media & KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
+| Events Manager | Remote | [View →](https://www.remotejobscan.com/job/19614/events-manager/) |
+| Institutional Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19613/institutional-business-development-lead/) |
+| Senior/Staff Engineer - Web3 - Onchain Data | On-site | [View →](https://www.remotejobscan.com/job/17095/seniorstaff-engineer-web3-onchain-data/) |
+| Compliance Officer, Risk Officer and MLRO (Canada and US) | Hybrid | [View →](https://www.remotejobscan.com/job/19612/compliance-officer-risk-officer-and-mlro-canada-and-us/) |
+| Compliance Manager (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/19611/compliance-manager-singapore/) |
+| Compliance Senior Associate & Deputy MLRO, CBIE | On-site | [View →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 | Team Lead, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19608/team-lead-financial-crime-compliance-qa/) |
 | Account Associate - Singapore (Bahasa-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
 | Senior Business Operations Associate (AI Enabled Workflow) | Hybrid | [View →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
@@ -36,12 +43,6 @@
 | Financial Manager | Remote | [View →](https://www.remotejobscan.com/job/19605/financial-manager/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/19606/technical-customer-support-specialist/) |
 | Technical Account Director | On-site | [View →](https://www.remotejobscan.com/job/19603/technical-account-director/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19449/terminal-software-security-engineer/) |
-| Blockchain wallet iOS development engineer 区块链钱包 iOS 开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19448/blockchain-wallet-ios-development-engineer-ios/) |
-| Security Research Engineer 安全研发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
-| Office Network Security Expert 办公网安全专家 | Remote | [View →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
