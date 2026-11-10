@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3235</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3238</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理，简易交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
+| 软件工程师 - DevOps - Bitnomial | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
+| 数据库软件工程师 - Bitnomial | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
+| 市场推广支持 - 产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19650/gtm-enablement-product/) |
+| GTM赋能 - 合作伙伴计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19651/gtm-enablement-partner-program/) |
+| 事件指挥官，检测与响应 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19649/incident-commander-detection-response-us/) |
 | 客户支持助理（信用卡支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
 | 零售交易所支持客户支持助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
 | 分布式存储与AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
@@ -37,12 +43,6 @@
 | 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
 | 嵌入式工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-office-of-the-cto/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
-| 加密资产库存运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
-| 机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| 法律领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
-| 北欧及DACH地区部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

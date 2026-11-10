@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3235</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3238</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, Simple Trading | Remote | [View →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
+| Software Engineer - DevOps - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
+| Software Engineer - Database - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
+| GTM Enablement - Product | On-site | [View →](https://www.remotejobscan.com/job/19650/gtm-enablement-product/) |
+| GTM Enablement - Partner Program | Remote | [View →](https://www.remotejobscan.com/job/19651/gtm-enablement-partner-program/) |
+| Incident Commander, Detection & Response - US | Remote | [View →](https://www.remotejobscan.com/job/19649/incident-commander-detection-response-us/) |
 | Associate, Customer Support (Credit Card Support) | On-site | [View →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
 | Associate, Customer Support (Retail Exchange Support) | On-site | [View →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
 | Staff Engineer, Distributed Storage & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
@@ -37,12 +43,6 @@
 | Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
 | Embedded Engineer [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-office-of-the-cto/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
-| Crypto Inventory Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Subject Matter Expert, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
-| Deployed Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
