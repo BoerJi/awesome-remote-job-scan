@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3238</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
+| Launch Producer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/19658/launch-producer-business-marketing/) |
+| Product Manager, Seller Experience | On-site | [View →](https://www.remotejobscan.com/job/19655/product-manager-seller-experience/) |
+| Data Science Tech Lead Manager, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
 | Senior Product Manager, Simple Trading | Remote | [View →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
 | Software Engineer - DevOps - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
 | Software Engineer - Database - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
@@ -39,10 +43,6 @@
 | Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
 | Software Engineer-1, Money Movement | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
 | Project Manager, Compute Transformation | Hybrid | [View →](https://www.remotejobscan.com/job/19643/project-manager-compute-transformation/) |
-| Principal Database Engineer | Remote | [View →](https://www.remotejobscan.com/job/19642/principal-database-engineer/) |
-| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
-| Embedded Engineer [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-office-of-the-cto/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
