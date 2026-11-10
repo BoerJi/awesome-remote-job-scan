@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3220</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3218</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 学院学习与教学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19635/learning-instruction-lead-academy/) |
+| Kubernetes裸金属基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19632/engineering-manager-kubernetes-bare-metal-infrastructure/) |
+| 合规分析师，反洗钱调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19631/compliance-analyst-aml-investigations/) |
+| 高级网页与入站增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19633/senior-web-inbound-growth-manager/) |
 | 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
 | 技术团队专员（TPM，计算） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19630/member-of-technical-staff-tpm-compute/) |
 | 国际市场活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
@@ -39,10 +43,6 @@
 | 初创企业应用AI工程经理 | 核心 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19621/applied-ai-engineering-manager-startups-core/) |
 | 应用AI工程经理，初创企业 | 绿地 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19620/applied-ai-engineering-manager-startups-greenfield/) |
 | Web3安全与风险控制产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
-| Staff / Senior Staff Software Engineer，匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19617/staff-senior-staff-software-engineer-matching-engine/) |
-| 亚太区 SMB 领导 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
-| 支付业务发展负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19616/payments-business-development-lead/) |
-| 媒体与KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

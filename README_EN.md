@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3220</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Learning & Instruction Lead, Academy | Hybrid | [View →](https://www.remotejobscan.com/job/19635/learning-instruction-lead-academy/) |
+| Engineering Manager, Kubernetes Bare Metal Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19632/engineering-manager-kubernetes-bare-metal-infrastructure/) |
+| Compliance Analyst, AML Investigations | On-site | [View →](https://www.remotejobscan.com/job/19631/compliance-analyst-aml-investigations/) |
+| Senior Web & Inbound Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/19633/senior-web-inbound-growth-manager/) |
 | Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
 | Member of Technical Staff (TPM, Compute) | On-site | [View →](https://www.remotejobscan.com/job/19630/member-of-technical-staff-tpm-compute/) |
 | Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
@@ -38,10 +42,6 @@
 | Applied AI Engineering Manager, Startups | Core | Hybrid | [View →](https://www.remotejobscan.com/job/19621/applied-ai-engineering-manager-startups-core/) |
 | Applied AI Engineering Manager, Startups | Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/19620/applied-ai-engineering-manager-startups-greenfield/) |
 | Web3 Security And Risk Control Product Manager | On-site | [View →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
-| Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/19617/staff-senior-staff-software-engineer-matching-engine/) |
-| SMB Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
-| Payments Business Development Lead | Remote | [View →](https://www.remotejobscan.com/job/19616/payments-business-development-lead/) |
-| Media & KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/19615/media-kol-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
