@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3206</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3210</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Team Lead, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19608/team-lead-financial-crime-compliance-qa/) |
+| Account Associate - Singapore (Bahasa-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
+| Senior Business Operations Associate (AI Enabled Workflow) | Hybrid | [View →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
+| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
+| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Application Architect (Senior Staff Engineer) | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-senior-staff-engineer/) |
 | Senior Researcher 资深研究员 | Remote | [View →](https://www.remotejobscan.com/job/19607/senior-researcher/) |
 | Infrastructure Stability Architect (Senior Staff Engineer) | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect-senior-staff-engineer/) |
@@ -37,11 +42,6 @@
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 | Office Network Security Expert 办公网安全专家 | Remote | [View →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Office Network Security Manager 办公网安全负责人 | Remote | [View →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
-| Senior Platform Engineering Development Expert 资深平台工程开发专家 | Remote | [View →](https://www.remotejobscan.com/job/19083/senior-platform-engineering-development-expert/) |
-| Senior Blockchain Development Engineer / Architect 资深区块链开发工程师/架构师 | Remote | [View →](https://www.remotejobscan.com/job/19082/senior-blockchain-development-engineer-architect/) |
-| Leader of the Safety Research Team 安全研发组Leader | Remote | [View →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

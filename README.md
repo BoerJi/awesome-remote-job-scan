@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3206</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3210</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融犯罪合规质量保证团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19608/team-lead-financial-crime-compliance-qa/) |
+| 新加坡地区商务拓展专员（马来语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
+| 高级业务运营助理（AI驱动工作流） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
+| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
+| Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | 应用架构师（高级工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8526/application-architect-senior-staff-engineer/) |
 | Senior Researcher 资深研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19607/senior-researcher/) |
 | 基础设施稳定性架构师（高级资深工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect-senior-staff-engineer/) |
@@ -37,11 +42,6 @@
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | Security Operations Specialist (Night Shift) (Soc) 安全运营专家（夜班）（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-night-shift-soc-soc/) |
 | Office Network Security Expert 办公网安全专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19251/office-network-security-expert/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Office Network Security Manager 办公网安全负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19249/office-network-security-manager/) |
-| Senior Platform Engineering Development Expert 资深平台工程开发专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19083/senior-platform-engineering-development-expert/) |
-| Senior Blockchain Development Engineer / Architect 资深区块链开发工程师/架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19082/senior-blockchain-development-engineer-architect/) |
-| Leader of the Safety Research Team 安全研发组Leader | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19079/leader-of-the-safety-research-team-leader/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
