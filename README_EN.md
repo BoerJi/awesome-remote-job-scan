@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3225</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| DevOps / AgentOps Engineer, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| Transaction Principal | On-site | [View →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
+| Software Engineer-1, Money Movement | Remote | [View →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
+| Project Manager, Compute Transformation | Hybrid | [View →](https://www.remotejobscan.com/job/19643/project-manager-compute-transformation/) |
+| Principal Database Engineer | Remote | [View →](https://www.remotejobscan.com/job/19642/principal-database-engineer/) |
+| Institutional Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
+| Embedded Engineer [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/12052/embedded-engineer-office-of-the-cto/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
+| Crypto Inventory Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
+| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | Subject Matter Expert, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
 | Deployed Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
 | Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
@@ -31,18 +43,6 @@
 | Partner Director, NTT Data Global | Hybrid | [View →](https://www.remotejobscan.com/job/19638/partner-director-ntt-data-global/) |
 | Partner Director, KPMG Global | Hybrid | [View →](https://www.remotejobscan.com/job/19637/partner-director-kpmg-global/) |
 | Manager, Startup Sales - Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/19373/manager-startup-sales-install-base/) |
-| Manager, Startup Sales - Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/19370/manager-startup-sales-greenfield/) |
-| Manager, Startup Sales - Activations | Hybrid | [View →](https://www.remotejobscan.com/job/19365/manager-startup-sales-activations/) |
-| Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
-| Learning & Instruction Lead, Academy | Hybrid | [View →](https://www.remotejobscan.com/job/19635/learning-instruction-lead-academy/) |
-| Engineering Manager, Kubernetes Bare Metal Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19632/engineering-manager-kubernetes-bare-metal-infrastructure/) |
-| Compliance Analyst, AML Investigations | On-site | [View →](https://www.remotejobscan.com/job/19631/compliance-analyst-aml-investigations/) |
-| Senior Web & Inbound Growth Manager | On-site | [View →](https://www.remotejobscan.com/job/19633/senior-web-inbound-growth-manager/) |
-| Software Engineer, Compute | Hybrid | [View →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| Member of Technical Staff (TPM, Compute) | On-site | [View →](https://www.remotejobscan.com/job/19630/member-of-technical-staff-tpm-compute/) |
-| Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
-| Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
-| Strategic Account Executive Inference India | On-site | [View →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM系统DevOps / AgentOps工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13900/devops-agentops-engineer-gtm-systems/) |
+| 交易主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19644/transaction-principal/) |
+| 软件工程师-1，资金流动 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19565/software-engineer-1-money-movement/) |
+| 计算转型项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19643/project-manager-compute-transformation/) |
+| 高级数据库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19642/principal-database-engineer/) |
+| 机构运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18673/institutional-operations-intern/) |
+| 嵌入式工程师 [首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12052/embedded-engineer-office-of-the-cto/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
+| 加密资产库存运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15826/crypto-inventory-operations-intern/) |
+| 机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | 法律领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
 | 北欧及DACH地区部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
 | 社区经理，体验式营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
@@ -31,18 +43,6 @@
 | NTT Data全球合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19638/partner-director-ntt-data-global/) |
 | KPMG全球合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19637/partner-director-kpmg-global/) |
 | 初创企业销售经理 - 安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/manager-startup-sales-install-base/) |
-| 初创业务销售经理 - Greenfield | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19370/manager-startup-sales-greenfield/) |
-| 初创销售激活经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19365/manager-startup-sales-activations/) |
-| 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
-| 学院学习与教学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19635/learning-instruction-lead-academy/) |
-| Kubernetes裸金属基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19632/engineering-manager-kubernetes-bare-metal-infrastructure/) |
-| 合规分析师，反洗钱调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19631/compliance-analyst-aml-investigations/) |
-| 高级网页与入站增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19633/senior-web-inbound-growth-manager/) |
-| 计算软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19212/software-engineer-compute/) |
-| 技术团队专员（TPM，计算） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19630/member-of-technical-staff-tpm-compute/) |
-| 国际市场活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
-| 账单运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
-| 印度推理策略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
