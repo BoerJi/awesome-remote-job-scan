@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
 | Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
 | Account Director, Large Enterprise | France | Hybrid | [View →](https://www.remotejobscan.com/job/19622/account-director-large-enterprise-france/) |
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
@@ -41,8 +42,6 @@
 | Compliance Senior Associate & Deputy MLRO, CBIE | On-site | [View →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 | Team Lead, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19608/team-lead-financial-crime-compliance-qa/) |
 | Account Associate - Singapore (Bahasa-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
-| Senior Business Operations Associate (AI Enabled Workflow) | Hybrid | [View →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
-| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

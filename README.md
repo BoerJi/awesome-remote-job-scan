@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
+| 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19624/chief-of-staff/) |
 | Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
 | 大企业客户总监 | 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19622/account-director-large-enterprise-france/) |
 | IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
@@ -41,8 +43,6 @@
 | 合规高级专员及代理MLRO，CBIE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19071/compliance-senior-associate-deputy-mlro-cbie/) |
 | 金融犯罪合规质量保证团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19608/team-lead-financial-crime-compliance-qa/) |
 | 新加坡地区商务拓展专员（马来语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
-| 高级业务运营助理（AI驱动工作流） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
-| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
