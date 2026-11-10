@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3218</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Subject Matter Expert, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
+| Deployed Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
+| Community Manager, Experiential Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
+| Partner Director, Oracle North America | Hybrid | [View →](https://www.remotejobscan.com/job/19639/partner-director-oracle-north-america/) |
+| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
+| Partner Director, NTT Data Global | Hybrid | [View →](https://www.remotejobscan.com/job/19638/partner-director-ntt-data-global/) |
+| Partner Director, KPMG Global | Hybrid | [View →](https://www.remotejobscan.com/job/19637/partner-director-kpmg-global/) |
+| Manager, Startup Sales - Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/19373/manager-startup-sales-install-base/) |
+| Manager, Startup Sales - Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/19370/manager-startup-sales-greenfield/) |
+| Manager, Startup Sales - Activations | Hybrid | [View →](https://www.remotejobscan.com/job/19365/manager-startup-sales-activations/) |
+| Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | Learning & Instruction Lead, Academy | Hybrid | [View →](https://www.remotejobscan.com/job/19635/learning-instruction-lead-academy/) |
 | Engineering Manager, Kubernetes Bare Metal Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19632/engineering-manager-kubernetes-bare-metal-infrastructure/) |
 | Compliance Analyst, AML Investigations | On-site | [View →](https://www.remotejobscan.com/job/19631/compliance-analyst-aml-investigations/) |
@@ -32,16 +43,6 @@
 | Marketing Events Manager, International | On-site | [View →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
 | Billing Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
 | Strategic Account Executive Inference India | On-site | [View →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
-| Events Lead - Brazil and Latam | Remote | [View →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
-| Senior HR Business Partner | Hybrid | [View →](https://www.remotejobscan.com/job/19626/senior-hr-business-partner/) |
-| [C] Research Engineer, Discovery | On-site | [View →](https://www.remotejobscan.com/job/19625/c-research-engineer-discovery/) |
-| Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
-| Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
-| Account Director, Large Enterprise | France | Hybrid | [View →](https://www.remotejobscan.com/job/19622/account-director-large-enterprise-france/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
-| Applied AI Engineering Manager, Startups | Core | Hybrid | [View →](https://www.remotejobscan.com/job/19621/applied-ai-engineering-manager-startups-core/) |
-| Applied AI Engineering Manager, Startups | Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/19620/applied-ai-engineering-manager-startups-greenfield/) |
-| Web3 Security And Risk Control Product Manager | On-site | [View →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

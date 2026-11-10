@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3218</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律领域专家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19640/subject-matter-expert-legal/) |
+| 北欧及DACH地区部署工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19641/deployed-engineering-manager-northern-europe-dach/) |
+| 社区经理，体验式营销 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18667/community-manager-experiential-marketing/) |
+| 甲骨文北美合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19639/partner-director-oracle-north-america/) |
+| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11477/senior-integrated-campaigns-manager/) |
+| NTT Data全球合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19638/partner-director-ntt-data-global/) |
+| KPMG全球合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19637/partner-director-kpmg-global/) |
+| 初创企业销售经理 - 安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19373/manager-startup-sales-install-base/) |
+| 初创业务销售经理 - Greenfield | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19370/manager-startup-sales-greenfield/) |
+| 初创销售激活经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19365/manager-startup-sales-activations/) |
+| 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | 学院学习与教学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19635/learning-instruction-lead-academy/) |
 | Kubernetes裸金属基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19632/engineering-manager-kubernetes-bare-metal-infrastructure/) |
 | 合规分析师，反洗钱调查 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19631/compliance-analyst-aml-investigations/) |
@@ -32,17 +43,6 @@
 | 国际市场活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19629/marketing-events-manager-international/) |
 | 账单运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19406/billing-operations-manager/) |
 | 印度推理策略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19628/strategic-account-executive-inference-india/) |
-| 巴西及拉丁美洲活动负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19627/events-lead-brazil-and-latam/) |
-| 高级人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19626/senior-hr-business-partner/) |
-| [C] 研究工程师，发现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19625/c-research-engineer-discovery/) |
-| 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19623/chief-of-staff/) |
-| 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19624/chief-of-staff/) |
-| Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
-| 大企业客户总监 | 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19622/account-director-large-enterprise-france/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
-| 初创企业应用AI工程经理 | 核心 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19621/applied-ai-engineering-manager-startups-core/) |
-| 应用AI工程经理，初创企业 | 绿地 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19620/applied-ai-engineering-manager-startups-greenfield/) |
-| Web3安全与风险控制产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
