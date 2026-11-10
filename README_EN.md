@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3213</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3217</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
+| Account Director, Large Enterprise | France | Hybrid | [View →](https://www.remotejobscan.com/job/19622/account-director-large-enterprise-france/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
+| Applied AI Engineering Manager, Startups | Core | Hybrid | [View →](https://www.remotejobscan.com/job/19621/applied-ai-engineering-manager-startups-core/) |
+| Applied AI Engineering Manager, Startups | Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/19620/applied-ai-engineering-manager-startups-greenfield/) |
 | Web3 Security And Risk Control Product Manager | On-site | [View →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
 | Staff / Senior Staff Software Engineer, Matching Engine | On-site | [View →](https://www.remotejobscan.com/job/19617/staff-senior-staff-software-engineer-matching-engine/) |
 | SMB Lead - APAC | Remote | [View →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
@@ -38,11 +43,6 @@
 | Account Associate - Singapore (Bahasa-speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
 | Senior Business Operations Associate (AI Enabled Workflow) | Hybrid | [View →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| Application Architect (Senior Staff Engineer) | On-site | [View →](https://www.remotejobscan.com/job/8526/application-architect-senior-staff-engineer/) |
-| Senior Researcher 资深研究员 | Remote | [View →](https://www.remotejobscan.com/job/19607/senior-researcher/) |
-| Infrastructure Stability Architect (Senior Staff Engineer) | On-site | [View →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect-senior-staff-engineer/) |
-| Data Scientist, Growth | On-site | [View →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-10 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

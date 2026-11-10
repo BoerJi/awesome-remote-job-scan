@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3213</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3217</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
+| 大企业客户总监 | 法国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19622/account-director-large-enterprise-france/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15853/it-support-engineer/) |
+| 初创企业应用AI工程经理 | 核心 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19621/applied-ai-engineering-manager-startups-core/) |
+| 应用AI工程经理，初创企业 | 绿地 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19620/applied-ai-engineering-manager-startups-greenfield/) |
 | Web3安全与风险控制产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19618/web3-security-and-risk-control-product-manager/) |
 | Staff / Senior Staff Software Engineer，匹配引擎 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19617/staff-senior-staff-software-engineer-matching-engine/) |
 | 亚太区 SMB 领导 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19619/smb-lead-apac/) |
@@ -38,11 +43,6 @@
 | 新加坡地区商务拓展专员（马来语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19610/account-associate-singapore-bahasa-speaking/) |
 | 高级业务运营助理（AI驱动工作流） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19609/senior-business-operations-associate-ai-enabled-workflow/) |
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| 应用架构师（高级工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8526/application-architect-senior-staff-engineer/) |
-| Senior Researcher 资深研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19607/senior-researcher/) |
-| 基础设施稳定性架构师（高级资深工程师） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8346/infrastructure-stability-architect-senior-staff-engineer/) |
-| 增长数据科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18457/data-scientist-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-10 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
