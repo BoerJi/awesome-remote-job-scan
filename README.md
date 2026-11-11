@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3251</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3250</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售运营分析师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
+| 统一账户测试工程师 Unified Account Test Engineer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
 | 高级人力资源行政专员（奥地利） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
 | Java Technology Expert (Unified Account) Java 技术专家（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
 | 国际基础设施会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
@@ -41,8 +43,6 @@
 | 客户服务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
 | 市场推广薪酬领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
 | 日本合作伙伴赋能专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
-| 交易台主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
-| 市场实习生 - KuCoin EU | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

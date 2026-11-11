@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3250</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Operations Analyst - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
+| 统一账户测试工程师 Unified Account Test Engineer | Remote | [View →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
 | Senior HR Admin Specialist (Austria) | Remote | [View →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
 | Java Technology Expert (Unified Account) Java 技术专家（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
 | International Infrastructure Accounting | On-site | [View →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
@@ -41,8 +43,6 @@
 | Client Services Analyst | Remote | [View →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
 | Go-To-Market Compensation Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
 | Partnerships Enablement Specialist, Japan | On-site | [View →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
-| Deal Desk Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
-| Marketing Intern - KuCoin EU | On-site | [View →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
