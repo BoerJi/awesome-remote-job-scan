@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior SAM Analyst | Remote | [View →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
+| Account Director, Mid-Market | Korea | Hybrid | [View →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
 | Applied AI Architect, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
 | Product Manager, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
@@ -40,9 +42,6 @@
 | Software Engineer - Database - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
 | GTM Enablement - Product | On-site | [View →](https://www.remotejobscan.com/job/19650/gtm-enablement-product/) |
 | GTM Enablement - Partner Program | Remote | [View →](https://www.remotejobscan.com/job/19651/gtm-enablement-partner-program/) |
-| Incident Commander, Detection & Response - US | Remote | [View →](https://www.remotejobscan.com/job/19649/incident-commander-detection-response-us/) |
-| Associate, Customer Support (Credit Card Support) | On-site | [View →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
-| Associate, Customer Support (Retail Exchange Support) | On-site | [View →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

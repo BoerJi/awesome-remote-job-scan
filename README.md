@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级SAM分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
+| 大客户总监，中市场 | 韩国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
 | 网络安全应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
 | 产品经理，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
@@ -40,9 +42,6 @@
 | 数据库软件工程师 - Bitnomial | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
 | 市场推广支持 - 产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19650/gtm-enablement-product/) |
 | GTM赋能 - 合作伙伴计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19651/gtm-enablement-partner-program/) |
-| 事件指挥官，检测与响应 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19649/incident-commander-detection-response-us/) |
-| 客户支持助理（信用卡支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
-| 零售交易所支持客户支持助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
