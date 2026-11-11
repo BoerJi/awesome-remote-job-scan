@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3246</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3250</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
+| IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
+| 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
+| 技术采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19685/technical-procurement-manager/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
@@ -39,9 +43,6 @@
 | 战略采购实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
 | 数据团队成员（数据加速） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
 | 新加坡，前沿部署工程（FDE）团队部署主管、部署领导、经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19668/manager-deployment-lead-forward-deployed-engineering-fde-singapore/) |
-| 收入经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
-| 高级SAM分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
-| 大客户总监，中市场 | 韩国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

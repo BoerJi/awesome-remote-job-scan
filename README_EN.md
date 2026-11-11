@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3246</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3250</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
+| IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
+| 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
+| Technical Procurement Manager | Remote | [View →](https://www.remotejobscan.com/job/19685/technical-procurement-manager/) |
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
@@ -39,9 +43,6 @@
 | Strategic Sourcing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
 | Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
 | Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19668/manager-deployment-lead-forward-deployed-engineering-fde-singapore/) |
-| Revenue Manager | On-site | [View →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
-| Senior SAM Analyst | Remote | [View →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
-| Account Director, Mid-Market | Korea | Hybrid | [View →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
