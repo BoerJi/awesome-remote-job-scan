@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3233</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
+| Principal Database Engineer | Remote | [View →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
+| Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
 | Partner Applied AI Engineer, Oracle and Cloud ISV | On-site | [View →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
 | Partner Applied AI Engineer, Google Cloud | Hybrid | [View →](https://www.remotejobscan.com/job/19696/partner-applied-ai-engineer-google-cloud/) |
 | Sales Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/sales-engineering-manager-northern-europe-dach/) |
@@ -40,9 +43,6 @@
 | Java Technology Expert (Unified Account) Java 技术专家（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
 | International Infrastructure Accounting | On-site | [View →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
 | Manager, Applied AI Architects (Australia) | On-site | [View →](https://www.remotejobscan.com/job/19688/manager-applied-ai-architects-australia/) |
-| Security Operations Specialist (Soc) 安全运营专家（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-soc-soc/) |
-| AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
-| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

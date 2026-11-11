@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3233</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
+| 首席数据库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
+| 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
 | 合作伙伴应用AI工程师，Oracle和云ISV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
 | 谷歌云合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19696/partner-applied-ai-engineer-google-cloud/) |
 | 北欧及DACH区销售工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19641/sales-engineering-manager-northern-europe-dach/) |
@@ -40,9 +43,6 @@
 | Java Technology Expert (Unified Account) Java 技术专家（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
 | 国际基础设施会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
 | 澳大利亚应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19688/manager-applied-ai-architects-australia/) |
-| Security Operations Specialist (Soc) 安全运营专家（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-soc-soc/) |
-| AI Platform Product Lead AI中台产品负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
-| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
