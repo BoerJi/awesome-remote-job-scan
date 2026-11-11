@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3238</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3236</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务价值策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19695/business-value-strategist/) |
 | 南欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
 | 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 | 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
@@ -42,7 +43,6 @@
 | IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
 | 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
 | 技术采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19685/technical-procurement-manager/) |
-| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
