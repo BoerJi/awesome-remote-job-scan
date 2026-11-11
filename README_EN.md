@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3242</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3245</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development - Japan | Remote | [View →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
+| Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
+| Strategic Sourcing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
 | Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
 | Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19668/manager-deployment-lead-forward-deployed-engineering-fde-singapore/) |
 | Revenue Manager | On-site | [View →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
@@ -39,9 +42,6 @@
 | Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
 | Launch Producer, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/19658/launch-producer-business-marketing/) |
 | Product Manager, Seller Experience | On-site | [View →](https://www.remotejobscan.com/job/19655/product-manager-seller-experience/) |
-| Data Science Tech Lead Manager, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
-| Senior Product Manager, Simple Trading | Remote | [View →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
-| Software Engineer - DevOps - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

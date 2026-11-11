@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3242</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3245</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 日本销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
+| 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
+| 战略采购实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
 | 数据团队成员（数据加速） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
 | 新加坡，前沿部署工程（FDE）团队部署主管、部署领导、经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19668/manager-deployment-lead-forward-deployed-engineering-fde-singapore/) |
 | 收入经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
@@ -39,9 +42,6 @@
 | 软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
 | 商业营销启动制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19658/launch-producer-business-marketing/) |
 | 产品经理，卖家体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19655/product-manager-seller-experience/) |
-| 数据科学技术主管，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
-| 高级产品经理，简易交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
-| 软件工程师 - DevOps - Bitnomial | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
