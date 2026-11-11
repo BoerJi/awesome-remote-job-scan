@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3246</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
+| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | US External Affairs Manager, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19681/us-external-affairs-manager-global-affairs/) |
 | Client Services Analyst | Remote | [View →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
 | Go-To-Market Compensation Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
@@ -38,10 +42,6 @@
 | Revenue Manager | On-site | [View →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
 | Senior SAM Analyst | Remote | [View →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
 | Account Director, Mid-Market | Korea | Hybrid | [View →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
-| Applied AI Architect, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
-| Product Manager, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
-| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
