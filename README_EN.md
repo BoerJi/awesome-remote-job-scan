@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3236</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/sales-engineering-manager-northern-europe-dach/) |
 | Business Value Strategist | On-site | [View →](https://www.remotejobscan.com/job/19695/business-value-strategist/) |
 | Partnerships Lead, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
@@ -42,7 +43,6 @@
 | flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 | IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
 | 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
-| Technical Procurement Manager | Remote | [View →](https://www.remotejobscan.com/job/19685/technical-procurement-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
