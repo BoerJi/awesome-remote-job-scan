@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3248</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3251</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人力资源行政专员（奥地利） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
+| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
+| 国际基础设施会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
+| 澳大利亚应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19688/manager-applied-ai-architects-australia/) |
 | Security Operations Specialist (Soc) 安全运营专家（soc） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19252/security-operations-specialist-soc-soc/) |
 | AI Platform Product Lead AI中台产品负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
@@ -39,10 +43,6 @@
 | 日本合作伙伴赋能专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
 | 交易台主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
 | 市场实习生 - KuCoin EU | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
-| IT审计/审计运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19676/it/) |
-| 日本销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
-| 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
-| 战略采购实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

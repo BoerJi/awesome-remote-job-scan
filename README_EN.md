@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3248</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior HR Admin Specialist (Austria) | Remote | [View →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
+| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
+| International Infrastructure Accounting | On-site | [View →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
+| Manager, Applied AI Architects (Australia) | On-site | [View →](https://www.remotejobscan.com/job/19688/manager-applied-ai-architects-australia/) |
 | Security Operations Specialist (Soc) 安全运营专家（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-soc-soc/) |
 | AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
@@ -39,10 +43,6 @@
 | Partnerships Enablement Specialist, Japan | On-site | [View →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
 | Deal Desk Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
 | Marketing Intern - KuCoin EU | On-site | [View →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
-| IT审计/审计运营 | Remote | [View →](https://www.remotejobscan.com/job/19676/it/) |
-| Sales Development - Japan | Remote | [View →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
-| Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
-| Strategic Sourcing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
