@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3240</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3241</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网络安全应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
+| 产品经理，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 | 战略大客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
@@ -41,8 +43,6 @@
 | 事件指挥官，检测与响应 - 美国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19649/incident-commander-detection-response-us/) |
 | 客户支持助理（信用卡支持） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
 | 零售交易所支持客户支持助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
-| 分布式存储与AI基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
-| 射频与技术窃听反制安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19648/security-engineer-rf-and-technical-surveillance-countermeasures/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3240</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3241</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
+| Product Manager, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
 | Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
@@ -41,8 +43,6 @@
 | Incident Commander, Detection & Response - US | Remote | [View →](https://www.remotejobscan.com/job/19649/incident-commander-detection-response-us/) |
 | Associate, Customer Support (Credit Card Support) | On-site | [View →](https://www.remotejobscan.com/job/19646/associate-customer-support-credit-card-support/) |
 | Associate, Customer Support (Retail Exchange Support) | On-site | [View →](https://www.remotejobscan.com/job/19647/associate-customer-support-retail-exchange-support/) |
-| Staff Engineer, Distributed Storage & AI Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9870/staff-engineer-distributed-storage-ai-infrastructure/) |
-| Security Engineer, RF and Technical Surveillance Countermeasures | On-site | [View →](https://www.remotejobscan.com/job/19648/security-engineer-rf-and-technical-surveillance-countermeasures/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
