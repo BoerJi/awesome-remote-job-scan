@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Security Operations Specialist (Soc) 安全运营专家（soc） | Remote | [View →](https://www.remotejobscan.com/job/19252/security-operations-specialist-soc-soc/) |
 | AI Platform Product Lead AI中台产品负责人 | Remote | [View →](https://www.remotejobscan.com/job/19165/ai-platform-product-lead-ai/) |
 | flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 | IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
@@ -42,7 +43,6 @@
 | Sales Development - Japan | Remote | [View →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | Strategic Sourcing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
-| Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
