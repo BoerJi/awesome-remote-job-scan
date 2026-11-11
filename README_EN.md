@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3241</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3242</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Data Staff (Data Acceleration) | On-site | [View →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
+| Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Hybrid | [View →](https://www.remotejobscan.com/job/19668/manager-deployment-lead-forward-deployed-engineering-fde-singapore/) |
+| Revenue Manager | On-site | [View →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
 | Senior SAM Analyst | Remote | [View →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
 | Account Director, Mid-Market | Korea | Hybrid | [View →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
 | Applied AI Architect, Cyber | Hybrid | [View →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
@@ -39,9 +42,6 @@
 | Data Science Tech Lead Manager, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
 | Senior Product Manager, Simple Trading | Remote | [View →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
 | Software Engineer - DevOps - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
-| Software Engineer - Database - Bitnomial | Remote | [View →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
-| GTM Enablement - Product | On-site | [View →](https://www.remotejobscan.com/job/19650/gtm-enablement-product/) |
-| GTM Enablement - Partner Program | Remote | [View →](https://www.remotejobscan.com/job/19651/gtm-enablement-partner-program/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

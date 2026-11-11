@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3241</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3242</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据团队成员（数据加速） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19670/member-of-data-staff-data-acceleration/) |
+| 新加坡，前沿部署工程（FDE）团队部署主管、部署领导、经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19668/manager-deployment-lead-forward-deployed-engineering-fde-singapore/) |
+| 收入经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19669/revenue-manager/) |
 | 高级SAM分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19666/senior-sam-analyst/) |
 | 大客户总监，中市场 | 韩国 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19667/account-director-mid-market-korea/) |
 | 网络安全应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19663/applied-ai-architect-cyber/) |
@@ -39,9 +42,6 @@
 | 数据科学技术主管，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18946/data-science-tech-lead-manager-model-experience/) |
 | 高级产品经理，简易交易 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19652/senior-product-manager-simple-trading/) |
 | 软件工程师 - DevOps - Bitnomial | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19653/software-engineer-devops-bitnomial/) |
-| 数据库软件工程师 - Bitnomial | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19654/software-engineer-database-bitnomial/) |
-| 市场推广支持 - 产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19650/gtm-enablement-product/) |
-| GTM赋能 - 合作伙伴计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19651/gtm-enablement-partner-program/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
