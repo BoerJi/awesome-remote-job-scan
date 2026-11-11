@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3246</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnerships Enablement Specialist, Japan | On-site | [View →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
+| Deal Desk Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
 | Marketing Intern - KuCoin EU | On-site | [View →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
 | IT审计/审计运营 | Remote | [View →](https://www.remotejobscan.com/job/19676/it/) |
 | Sales Development - Japan | Remote | [View →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
@@ -40,8 +42,6 @@
 | Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
 | Finance & Strategy Compute, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-infrastructure/) |
 | Data Partnerships Manager (1-year contract) | Hybrid | [View →](https://www.remotejobscan.com/job/19661/data-partnerships-manager-1-year-contract/) |
-| GTM Strategy & Operations, FDE | On-site | [View →](https://www.remotejobscan.com/job/19659/gtm-strategy-operations-fde/) |
-| Software Engineer - Rust - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
