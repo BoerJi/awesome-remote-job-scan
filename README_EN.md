@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| US External Affairs Manager, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19681/us-external-affairs-manager-global-affairs/) |
+| Client Services Analyst | Remote | [View →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
+| Go-To-Market Compensation Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
 | Partnerships Enablement Specialist, Japan | On-site | [View →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
 | Deal Desk Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
 | Marketing Intern - KuCoin EU | On-site | [View →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
@@ -39,9 +42,6 @@
 | Product Manager, Claude Science | On-site | [View →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| Director, Strategic Accounts | Hybrid | [View →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
-| Finance & Strategy Compute, Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-infrastructure/) |
-| Data Partnerships Manager (1-year contract) | Hybrid | [View →](https://www.remotejobscan.com/job/19661/data-partnerships-manager-1-year-contract/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3247</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3249</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国对外事务经理，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19681/us-external-affairs-manager-global-affairs/) |
+| 客户服务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
+| 市场推广薪酬领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
 | 日本合作伙伴赋能专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
 | 交易台主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19678/deal-desk-lead/) |
 | 市场实习生 - KuCoin EU | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
@@ -39,9 +42,6 @@
 | 产品经理，Claude Science | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15016/product-manager-claude-science/) |
 | 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| 战略大客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19660/director-strategic-accounts/) |
-| 财务与战略计算、基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18498/finance-strategy-compute-infrastructure/) |
-| 数据合作伙伴关系经理（1年合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19661/data-partnerships-manager-1-year-contract/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
