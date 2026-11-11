@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3243</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3239</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 南欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
+| 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | 业务运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19694/business-operations-associate/) |
 | 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19692/solutions-architect-inference/) |
 | 增长产品工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19693/engineering-manager-growth-product/) |
@@ -40,9 +43,6 @@
 | 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
 | 技术采购经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19685/technical-procurement-manager/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3243</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnerships Lead, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
+| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
+| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | Business Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19694/business-operations-associate/) |
 | Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19692/solutions-architect-inference/) |
 | Engineering Manager – Growth Product | Remote | [View →](https://www.remotejobscan.com/job/19693/engineering-manager-growth-product/) |
@@ -40,9 +43,6 @@
 | 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
 | Technical Procurement Manager | Remote | [View →](https://www.remotejobscan.com/job/19685/technical-procurement-manager/) |
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 （出海） | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
