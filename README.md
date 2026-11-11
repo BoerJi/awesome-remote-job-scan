@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3245</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3246</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场实习生 - KuCoin EU | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19673/marketing-intern-kucoin-eu/) |
+| IT审计/审计运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19676/it/) |
 | 日本销售开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19674/sales-development-japan/) |
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | 战略采购实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
@@ -40,8 +42,6 @@
 | 数据合作伙伴关系经理（1年合同） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19661/data-partnerships-manager-1-year-contract/) |
 | GTM战略与运营，FDE | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19659/gtm-strategy-operations-fde/) |
 | 软件工程师 - Rust - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19657/software-engineer-rust-consumer/) |
-| 商业营销启动制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19658/launch-producer-business-marketing/) |
-| 产品经理，卖家体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19655/product-manager-seller-experience/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
