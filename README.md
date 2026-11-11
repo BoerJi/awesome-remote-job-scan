@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3249</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3247</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19692/solutions-architect-inference/) |
+| 增长产品工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19693/engineering-manager-growth-product/) |
+| Google Cloud GTM合作伙伴关系负责人，欧洲、中东和非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19691/google-cloud-gtm-partnerships-lead-emea/) |
 | 销售运营分析师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
 | 统一账户测试工程师 Unified Account Test Engineer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
 | 高级人力资源行政专员（奥地利） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
@@ -40,9 +43,6 @@
 | Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | 加密支付业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | 美国对外事务经理，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19681/us-external-affairs-manager-global-affairs/) |
-| 客户服务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
-| 市场推广薪酬领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
-| 日本合作伙伴赋能专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-11 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3249</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19692/solutions-architect-inference/) |
+| Engineering Manager – Growth Product | Remote | [View →](https://www.remotejobscan.com/job/19693/engineering-manager-growth-product/) |
+| Google Cloud GTM Partnerships Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19691/google-cloud-gtm-partnerships-lead-emea/) |
 | Sales Operations Analyst - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
 | 统一账户测试工程师 Unified Account Test Engineer | Remote | [View →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
 | Senior HR Admin Specialist (Austria) | Remote | [View →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
@@ -40,9 +43,6 @@
 | Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Business Development Manager - Crypto Payment | On-site | [View →](https://www.remotejobscan.com/job/9077/business-development-manager-crypto-payment/) |
 | US External Affairs Manager, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19681/us-external-affairs-manager-global-affairs/) |
-| Client Services Analyst | Remote | [View →](https://www.remotejobscan.com/job/19680/client-services-analyst/) |
-| Go-To-Market Compensation Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19679/go-to-market-compensation-lead/) |
-| Partnerships Enablement Specialist, Japan | On-site | [View →](https://www.remotejobscan.com/job/19677/partnerships-enablement-specialist-japan/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-11 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
