@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Threat Detection Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
+| Security Incident Response Team Manager | On-site | [View →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
+| Application Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
+| Financial Manager | Remote | [View →](https://www.remotejobscan.com/job/19605/financial-manager/) |
 | Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 | Sr. Security Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/19729/sr-security-risk-management-analyst/) |
 | Security GRC Analyst, Mergers & Acquisitions | Remote | [View →](https://www.remotejobscan.com/job/19731/security-grc-analyst-mergers-acquisitions/) |
@@ -36,10 +40,6 @@
 | Compliance, International Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/19724/compliance-international-investigations-associate/) |
 | Partnerships Director, BCG EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
 | Partnerships Lead, Northern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
-| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Technical Program Manager, Pacing | On-site | [View →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
-| Technical Program Manager, External Evaluators | On-site | [View →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
-| Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

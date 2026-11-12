@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 威胁检测工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
+| 安全事件响应团队经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
+| 应用安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
+| 财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19605/financial-manager/) |
 | 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 | 高级安全风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19729/sr-security-risk-management-analyst/) |
 | 并购安全GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19731/security-grc-analyst-mergers-acquisitions/) |
@@ -37,10 +41,6 @@
 | 合规，国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19725/compliance-international-investigations-associate/) |
 | BCG EMEA 合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
 | 北欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
-| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| 技术项目经理，Pacing | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
-| 外部评估技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
-| Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
