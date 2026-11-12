@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
+| Sr. Security Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/19729/sr-security-risk-management-analyst/) |
+| Security GRC Analyst, Mergers & Acquisitions | Remote | [View →](https://www.remotejobscan.com/job/19731/security-grc-analyst-mergers-acquisitions/) |
+| Principal Engineer, Agent Infrastructure & Memory Architecture | On-site | [View →](https://www.remotejobscan.com/job/7608/principal-engineer-agent-infrastructure-memory-architecture/) |
+| Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/7607/principal-ai-engineer-chatbot-development/) |
+| Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/7606/principal-ai-engineer-ai-agent-development/) |
 | Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
 | B2B Comms Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
@@ -34,14 +40,6 @@
 | Technical Program Manager, Pacing | On-site | [View →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
 | Technical Program Manager, External Evaluators | On-site | [View →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
 | Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
-| Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | Remote | [View →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
-| DBA Platform Developer DBA 平台开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
-| Senior Development Engineer 高级开发工程师-合规交易监控方向 | Remote | [View →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
-| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
-| Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | Remote | [View →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
-| Architect 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19714/architect/) |
-| Senior Product Manager — HR Domain Products | On-site | [View →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

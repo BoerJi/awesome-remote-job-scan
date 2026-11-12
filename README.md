@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
+| 高级安全风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19729/sr-security-risk-management-analyst/) |
+| 并购安全GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19731/security-grc-analyst-mergers-acquisitions/) |
+| 首席工程师，代理基础设施与内存架构 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7608/principal-engineer-agent-infrastructure-memory-architecture/) |
+| 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7607/principal-ai-engineer-chatbot-development/) |
+| 高级AI工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7606/principal-ai-engineer-ai-agent-development/) |
 | 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
 | B2B沟通负责人，欧洲、中东和非洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
@@ -35,14 +41,6 @@
 | 技术项目经理，Pacing | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
 | 外部评估技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
 | Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
-| Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
-| DBA Platform Developer DBA 平台开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
-| Senior Development Engineer 高级开发工程师-合规交易监控方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
-| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
-| Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
-| Architect 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19714/architect/) |
-| 高级产品经理—人力资源领域产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
