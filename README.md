@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
 | B2B沟通负责人，欧洲、中东和非洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
 | 金融犯罪合规、内部审计助理经理（内部） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/financial-crimes-compliance-internal-audit-associate-manager-internal/) |
@@ -42,7 +43,6 @@
 | Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
 | Architect 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19714/architect/) |
 | 高级产品经理—人力资源领域产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
-| 全球事务合作伙伴与对外事务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19716/partnerships-external-affairs-associate-global-affairs/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

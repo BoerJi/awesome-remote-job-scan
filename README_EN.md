@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
 | B2B Comms Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
 | Financial Crimes Compliance, Internal Audit Associate Manager Internal | Remote | [View →](https://www.remotejobscan.com/job/14361/financial-crimes-compliance-internal-audit-associate-manager-internal/) |
@@ -41,7 +42,6 @@
 | Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | Remote | [View →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
 | Architect 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19714/architect/) |
 | Senior Product Manager — HR Domain Products | On-site | [View →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
-| Partnerships & External Affairs Associate, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19716/partnerships-external-affairs-associate-global-affairs/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
