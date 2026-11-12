@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3224</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人力资源业务合作伙伴，印度 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
+| 高级/资深工程师，数据平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
+| 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
+| IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
+| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
+| 亚太区通讯总监/高级总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19702/director-senior-director-of-communications-apac/) |
 | Anthropic研究员项目，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Anthropic研究员计划、机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Anthropic研究员项目，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
@@ -36,13 +42,6 @@
 | 业务价值策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19695/business-value-strategist/) |
 | 南欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
 | 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| 软件工程师，智能基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
-| 业务运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19694/business-operations-associate/) |
-| 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19692/solutions-architect-inference/) |
-| 增长产品工程经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19693/engineering-manager-growth-product/) |
-| Google Cloud GTM合作伙伴关系负责人，欧洲、中东和非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19691/google-cloud-gtm-partnerships-lead-emea/) |
-| 销售运营分析师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
-| 统一账户测试工程师 Unified Account Test Engineer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

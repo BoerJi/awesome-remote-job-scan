@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3224</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior HR Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
+| Senior/Staff Engineer, Data Platform Development | On-site | [View →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
+| 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
+| IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
+| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
+| Director / Senior Director of Communications – APAC | Hybrid | [View →](https://www.remotejobscan.com/job/19702/director-senior-director-of-communications-apac/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
 | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
 | Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
@@ -36,13 +42,6 @@
 | Business Value Strategist | On-site | [View →](https://www.remotejobscan.com/job/19695/business-value-strategist/) |
 | Partnerships Lead, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
 | DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
-| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
-| Business Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/19694/business-operations-associate/) |
-| Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19692/solutions-architect-inference/) |
-| Engineering Manager – Growth Product | Remote | [View →](https://www.remotejobscan.com/job/19693/engineering-manager-growth-product/) |
-| Google Cloud GTM Partnerships Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19691/google-cloud-gtm-partnerships-lead-emea/) |
-| Sales Operations Analyst - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
-| 统一账户测试工程师 Unified Account Test Engineer | Remote | [View →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
