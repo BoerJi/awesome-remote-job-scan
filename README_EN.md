@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,8 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Deployment Manager (Japanese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19756/ai-deployment-manager-japanese-speaking/) |
+| AI Deployment Manager (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19755/ai-deployment-manager-korean-speaking/) |
+| Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/19754/head-of-regulated-industries-customer-success/) |
+| Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences-molecular-design/) |
+| Resale Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19752/resale-operations-lead/) |
+| Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
 | Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
 | Data Center Capacity Delivery, Canada | Remote | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
+| Business Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19753/business-platform-engineer/) |
 | Content Strategist | Remote | [View →](https://www.remotejobscan.com/job/19749/content-strategist/) |
 | Content Editor | Remote | [View →](https://www.remotejobscan.com/job/19750/content-editor/) |
 | Sr Product Manager - Virality, Referrals & KOL | Remote | [View →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
@@ -36,13 +43,6 @@
 | Engineering Manager, Education | Hybrid | [View →](https://www.remotejobscan.com/job/12599/engineering-manager-education/) |
 | Staff Software Engineer, Support Technology | On-site | [View →](https://www.remotejobscan.com/job/19741/staff-software-engineer-support-technology/) |
 | Software Engineer II - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/19743/software-engineer-ii-frontend-developer-platform/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
-| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/19740/risk-monitoring-analyst-iv/) |
-| Product Designer, Physical Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19742/product-designer-physical-engineering/) |
-| Client Partner, Ads Solutions - CPG | On-site | [View →](https://www.remotejobscan.com/job/19738/client-partner-ads-solutions-cpg/) |
-| Client Partner, Ads Solutions - Technology | On-site | [View →](https://www.remotejobscan.com/job/19739/client-partner-ads-solutions-technology/) |
-| Threat Detection Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

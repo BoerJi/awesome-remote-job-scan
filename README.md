@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,8 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 日语AI部署经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19756/ai-deployment-manager-japanese-speaking/) |
+| AI部署经理（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19755/ai-deployment-manager-korean-speaking/) |
+| 监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19754/head-of-regulated-industries-customer-success/) |
+| 应用AI工程师，有益部署，生命科学（分子设计） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences-molecular-design/) |
+| 二手运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19752/resale-operations-lead/) |
+| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
 | 联邦账户总监，情报界 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
 | 数据中心能力交付，加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
+| 业务平台工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19753/business-platform-engineer/) |
 | 内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19749/content-strategist/) |
 | 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19750/content-editor/) |
 | 高级产品经理 - 病毒式传播、推荐与KOL | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
@@ -36,13 +43,6 @@
 | 教育工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12599/engineering-manager-education/) |
 | 支持技术Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19741/staff-software-engineer-support-technology/) |
 | 软件工程师II - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19743/software-engineer-ii-frontend-developer-platform/) |
-| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
-| 仓储与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
-| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19740/risk-monitoring-analyst-iv/) |
-| 物理工程产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19742/product-designer-physical-engineering/) |
-| 客户合作伙伴，广告解决方案 - 日用消费品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19738/client-partner-ads-solutions-cpg/) |
-| 技术广告解决方案客户合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19739/client-partner-ads-solutions-technology/) |
-| 威胁检测工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
