@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Support Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
+| Global Sales Program Manager (SMB Sales) | Hybrid | [View →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
+| Tech Lead Manager, Developer Platform Product Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
+| Tech Lead Manager, Growth Data Science | On-site | [View →](https://www.remotejobscan.com/job/19758/tech-lead-manager-growth-data-science/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
+| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| Partner Sales & Development Leader | Hybrid | [View →](https://www.remotejobscan.com/job/19759/partner-sales-development-leader/) |
 | AI Deployment Manager (Japanese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19756/ai-deployment-manager-japanese-speaking/) |
 | AI Deployment Manager (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19755/ai-deployment-manager-korean-speaking/) |
 | Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/19754/head-of-regulated-industries-customer-success/) |
@@ -34,15 +43,6 @@
 | Business Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19753/business-platform-engineer/) |
 | Content Strategist | Remote | [View →](https://www.remotejobscan.com/job/19749/content-strategist/) |
 | Content Editor | Remote | [View →](https://www.remotejobscan.com/job/19750/content-editor/) |
-| Sr Product Manager - Virality, Referrals & KOL | Remote | [View →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
-| Senior Product Manager - Virality, Referrals & KOL | Remote | [View →](https://www.remotejobscan.com/job/19744/senior-product-manager-virality-referrals-kol/) |
-| Sales Development Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/19747/sales-development-lead-north-america/) |
-| GTM Lead - Outbound & Prospecting | Remote | [View →](https://www.remotejobscan.com/job/19748/gtm-lead-outbound-prospecting/) |
-| Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
-| Client Partner, Ads Solutions - Retail/E-Commerce | Hybrid | [View →](https://www.remotejobscan.com/job/19746/client-partner-ads-solutions-retaile-commerce/) |
-| Engineering Manager, Education | Hybrid | [View →](https://www.remotejobscan.com/job/12599/engineering-manager-education/) |
-| Staff Software Engineer, Support Technology | On-site | [View →](https://www.remotejobscan.com/job/19741/staff-software-engineer-support-technology/) |
-| Software Engineer II - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/19743/software-engineer-ii-frontend-developer-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3232</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合作伙伴支持运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
+| 全球销售项目经理（中小企业销售） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
+| 开发者平台产品数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
+| 增长数据科学技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19758/tech-lead-manager-growth-data-science/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
+| CX智能机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
+| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
+| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
+| 合作伙伴销售与发展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19759/partner-sales-development-leader/) |
 | 日语AI部署经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19756/ai-deployment-manager-japanese-speaking/) |
 | AI部署经理（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19755/ai-deployment-manager-korean-speaking/) |
 | 监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19754/head-of-regulated-industries-customer-success/) |
@@ -34,15 +43,6 @@
 | 业务平台工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19753/business-platform-engineer/) |
 | 内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19749/content-strategist/) |
 | 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19750/content-editor/) |
-| 高级产品经理 - 病毒式传播、推荐与KOL | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
-| 高级产品经理 - 传播、推荐与意见领袖 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19744/senior-product-manager-virality-referrals-kol/) |
-| 北美销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19747/sales-development-lead-north-america/) |
-| GTM Lead - 外勤与开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19748/gtm-lead-outbound-prospecting/) |
-| 对冲基金企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
-| 广告解决方案 - 客户合作伙伴 - 零售/电商 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19746/client-partner-ads-solutions-retaile-commerce/) |
-| 教育工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12599/engineering-manager-education/) |
-| 支持技术Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19741/staff-software-engineer-support-technology/) |
-| 软件工程师II - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19743/software-engineer-ii-frontend-developer-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
