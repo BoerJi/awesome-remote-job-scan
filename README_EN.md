@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
+| Data Center Capacity Delivery, Canada | Remote | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
 | Content Strategist | Remote | [View →](https://www.remotejobscan.com/job/19749/content-strategist/) |
 | Content Editor | Remote | [View →](https://www.remotejobscan.com/job/19750/content-editor/) |
 | Sr Product Manager - Virality, Referrals & KOL | Remote | [View →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
@@ -41,8 +43,6 @@
 | Client Partner, Ads Solutions - CPG | On-site | [View →](https://www.remotejobscan.com/job/19738/client-partner-ads-solutions-cpg/) |
 | Client Partner, Ads Solutions - Technology | On-site | [View →](https://www.remotejobscan.com/job/19739/client-partner-ads-solutions-technology/) |
 | Threat Detection Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
-| Security Incident Response Team Manager | On-site | [View →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
-| Application Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

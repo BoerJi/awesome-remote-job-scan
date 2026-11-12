@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 联邦账户总监，情报界 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
+| 数据中心能力交付，加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
 | 内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19749/content-strategist/) |
 | 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19750/content-editor/) |
 | 高级产品经理 - 病毒式传播、推荐与KOL | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
@@ -41,8 +43,6 @@
 | 客户合作伙伴，广告解决方案 - 日用消费品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19738/client-partner-ads-solutions-cpg/) |
 | 技术广告解决方案客户合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19739/client-partner-ads-solutions-technology/) |
 | 威胁检测工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
-| 安全事件响应团队经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
-| 应用安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
