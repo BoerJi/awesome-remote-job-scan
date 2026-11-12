@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3232</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Thermal Engineer | On-site | [View →](https://www.remotejobscan.com/job/19761/thermal-engineer/) |
+| Senior Network Engineer (NL, India Remote or Singapore Remote) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-nl-india-remote-or-singapore-remote/) |
+| Senior Compliance Manager, Tokenized Securities Venue (Americas) | Remote | [View →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
 | Partner Support Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
 | Global Sales Program Manager (SMB Sales) | Hybrid | [View →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
 | Tech Lead Manager, Developer Platform Product Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
@@ -40,9 +43,6 @@
 | Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
 | Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
 | Data Center Capacity Delivery, Canada | Remote | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
-| Business Platform Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/19753/business-platform-engineer/) |
-| Content Strategist | Remote | [View →](https://www.remotejobscan.com/job/19749/content-strategist/) |
-| Content Editor | Remote | [View →](https://www.remotejobscan.com/job/19750/content-editor/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
