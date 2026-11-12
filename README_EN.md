@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3228</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
+| Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/19740/risk-monitoring-analyst-iv/) |
+| Product Designer, Physical Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19742/product-designer-physical-engineering/) |
+| Client Partner, Ads Solutions - CPG | On-site | [View →](https://www.remotejobscan.com/job/19738/client-partner-ads-solutions-cpg/) |
+| Client Partner, Ads Solutions - Technology | On-site | [View →](https://www.remotejobscan.com/job/19739/client-partner-ads-solutions-technology/) |
 | Threat Detection Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
 | Security Incident Response Team Manager | On-site | [View →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
 | Application Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
@@ -36,10 +41,6 @@
 | Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
 | B2B Comms Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
-| Financial Crimes Compliance, Internal Audit Associate Manager Internal | Remote | [View →](https://www.remotejobscan.com/job/14361/financial-crimes-compliance-internal-audit-associate-manager-internal/) |
-| Compliance, International Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/19724/compliance-international-investigations-associate/) |
-| Partnerships Director, BCG EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
-| Partnerships Lead, Northern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

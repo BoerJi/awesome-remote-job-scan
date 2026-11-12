@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3228</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 仓储与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
+| 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19740/risk-monitoring-analyst-iv/) |
+| 物理工程产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19742/product-designer-physical-engineering/) |
+| 客户合作伙伴，广告解决方案 - 日用消费品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19738/client-partner-ads-solutions-cpg/) |
+| 技术广告解决方案客户合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19739/client-partner-ads-solutions-technology/) |
 | 威胁检测工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
 | 安全事件响应团队经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
 | 应用安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
@@ -36,11 +41,6 @@
 | 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
 | B2B沟通负责人，欧洲、中东和非洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
-| 金融犯罪合规、内部审计助理经理（内部） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/financial-crimes-compliance-internal-audit-associate-manager-internal/) |
-| 合规、国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19724/compliance-international-investigations-associate/) |
-| 合规，国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19725/compliance-international-investigations-associate/) |
-| BCG EMEA 合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
-| 北欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
