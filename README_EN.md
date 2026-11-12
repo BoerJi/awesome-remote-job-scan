@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3231</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 | Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | Remote | [View →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
 | DBA Platform Developer DBA 平台开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
 | Senior Development Engineer 高级开发工程师-合规交易监控方向 | Remote | [View →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
@@ -41,7 +42,6 @@
 | Senior/Staff Engineer, Data Platform Development | On-site | [View →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
 | 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
 | IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
-| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

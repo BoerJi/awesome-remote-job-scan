@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3231</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 | Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
 | DBA Platform Developer DBA 平台开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
 | Senior Development Engineer 高级开发工程师-合规交易监控方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
@@ -41,7 +42,6 @@
 | 高级/资深工程师，数据平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
 | 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
 | IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
-| flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
