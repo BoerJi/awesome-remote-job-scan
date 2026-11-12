@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
+| Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | Remote | [View →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
+| Architect 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19714/architect/) |
+| Senior Product Manager — HR Domain Products | On-site | [View →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
+| Partnerships & External Affairs Associate, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19716/partnerships-external-affairs-associate-global-affairs/) |
+| Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | Firmware Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
 | C++ Trading Developer, Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
 | Content & Creator Partnerships Manager | Remote | [View →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
@@ -34,13 +41,6 @@
 | flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 | Director / Senior Director of Communications – APAC | Hybrid | [View →](https://www.remotejobscan.com/job/19702/director-senior-director-of-communications-apac/) |
 | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| Partner Account Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/19700/partner-account-manager-systems-integrators/) |
-| Staff Software Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
-| Principal Database Engineer | Remote | [View →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
-| Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
-| Partner Applied AI Engineer, Oracle and Cloud ISV | On-site | [View →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

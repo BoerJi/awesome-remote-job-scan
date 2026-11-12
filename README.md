@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
+| Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
+| Architect 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19714/architect/) |
+| 高级产品经理—人力资源领域产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
+| 全球事务合作伙伴与对外事务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19716/partnerships-external-affairs-associate-global-affairs/) |
+| Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | 机器人固件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
 | C++交易开发者，量化交易团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
 | 内容与创作者合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
@@ -34,13 +41,6 @@
 | flutter工程师（合规方向）Flutter Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19686/flutterflutter-engineer-compliance-focus/) |
 | 亚太区通讯总监/高级总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19702/director-senior-director-of-communications-apac/) |
 | Anthropic研究员项目，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
-| Anthropic研究员计划、机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
-| Anthropic研究员项目，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
-| 系统集成商合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19700/partner-account-manager-systems-integrators/) |
-| 高级产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
-| 首席数据库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
-| 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
-| 合作伙伴应用AI工程师，Oracle和云ISV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
