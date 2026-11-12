@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Anthropic研究员项目，Anthropic研究所（经济与政策） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Anthropic研究员计划、机器学习系统与强化学习 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
+| Anthropic研究员项目，人工智能安全与安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| 系统集成商合作伙伴账户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19700/partner-account-manager-systems-integrators/) |
 | 高级产品软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
 | 首席数据库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
 | 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
@@ -39,10 +43,6 @@
 | Google Cloud GTM合作伙伴关系负责人，欧洲、中东和非洲地区 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19691/google-cloud-gtm-partnerships-lead-emea/) |
 | 销售运营分析师 - Payward Services | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
 | 统一账户测试工程师 Unified Account Test Engineer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
-| 高级人力资源行政专员（奥地利） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
-| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
-| 国际基础设施会计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
-| 澳大利亚应用AI架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19688/manager-applied-ai-architects-australia/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

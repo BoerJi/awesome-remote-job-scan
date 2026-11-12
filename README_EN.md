@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote | [View →](https://www.remotejobscan.com/job/9344/anthropic-fellows-program-the-anthropic-institute-economics-policy/) |
+| Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote | [View →](https://www.remotejobscan.com/job/9342/anthropic-fellows-program-ml-systems-reinforcement-learning/) |
+| Anthropic Fellows Program, AI Safety & Security | Remote | [View →](https://www.remotejobscan.com/job/9340/anthropic-fellows-program-ai-safety-security/) |
+| Partner Account Manager, Systems Integrators | On-site | [View →](https://www.remotejobscan.com/job/19700/partner-account-manager-systems-integrators/) |
 | Staff Software Engineer, Product | On-site | [View →](https://www.remotejobscan.com/job/9668/staff-software-engineer-product/) |
 | Principal Database Engineer | Remote | [View →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
 | Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
@@ -39,10 +43,6 @@
 | Google Cloud GTM Partnerships Lead, EMEA | On-site | [View →](https://www.remotejobscan.com/job/19691/google-cloud-gtm-partnerships-lead-emea/) |
 | Sales Operations Analyst - Payward Services | Remote | [View →](https://www.remotejobscan.com/job/19379/sales-operations-analyst-payward-services/) |
 | 统一账户测试工程师 Unified Account Test Engineer | Remote | [View →](https://www.remotejobscan.com/job/19690/unified-account-test-engineer/) |
-| Senior HR Admin Specialist (Austria) | Remote | [View →](https://www.remotejobscan.com/job/19689/senior-hr-admin-specialist-austria/) |
-| Java Technology Expert (Unified Account) Java 技术专家（统一账户） | Remote | [View →](https://www.remotejobscan.com/job/15766/java-technology-expert-unified-account-java/) |
-| International Infrastructure Accounting | On-site | [View →](https://www.remotejobscan.com/job/19687/international-infrastructure-accounting/) |
-| Manager, Applied AI Architects (Australia) | On-site | [View →](https://www.remotejobscan.com/job/19688/manager-applied-ai-architects-australia/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
