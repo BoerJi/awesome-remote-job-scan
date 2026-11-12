@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
+| 技术项目经理，Pacing | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
+| 外部评估技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
 | Head of Fund Risk Control 资金风控负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 | Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
 | DBA Platform Developer DBA 平台开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
@@ -39,9 +42,6 @@
 | 内容与创作者合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
 | 法律产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
 | 高级人力资源业务合作伙伴，印度 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
-| 高级/资深工程师，数据平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
-| 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
-| IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

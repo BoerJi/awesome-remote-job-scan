@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
+| Technical Program Manager, Pacing | On-site | [View →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
+| Technical Program Manager, External Evaluators | On-site | [View →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
 | Head of Fund Risk Control 资金风控负责人 | Remote | [View →](https://www.remotejobscan.com/job/19260/head-of-fund-risk-control/) |
 | Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | Remote | [View →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
 | DBA Platform Developer DBA 平台开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
@@ -39,9 +42,6 @@
 | Content & Creator Partnerships Manager | Remote | [View →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
 | Product Manager, Legal | On-site | [View →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
 | Senior HR Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
-| Senior/Staff Engineer, Data Platform Development | On-site | [View →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
-| 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
-| IOS开发工程师（合规方向）iOS Development Engineer (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19683/iosios-development-engineer-compliance-focus/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
