@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partnerships Director, BCG EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
+| Partnerships Lead, Northern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Technical Program Manager, Pacing | On-site | [View →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
 | Technical Program Manager, External Evaluators | On-site | [View →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
@@ -40,8 +42,6 @@
 | Firmware Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
 | C++ Trading Developer, Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
 | Content & Creator Partnerships Manager | Remote | [View →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
-| Product Manager, Legal | On-site | [View →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
-| Senior HR Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

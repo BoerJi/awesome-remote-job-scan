@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| BCG EMEA 合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
+| 北欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | 技术项目经理，Pacing | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19721/technical-program-manager-pacing/) |
 | 外部评估技术项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19720/technical-program-manager-external-evaluators/) |
@@ -40,8 +42,6 @@
 | 机器人固件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
 | C++交易开发者，量化交易团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
 | 内容与创作者合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
-| 法律产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
-| 高级人力资源业务合作伙伴，印度 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
