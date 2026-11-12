@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3225</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
+| B2B沟通负责人，欧洲、中东和非洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
+| 金融犯罪合规、内部审计助理经理（内部） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14361/financial-crimes-compliance-internal-audit-associate-manager-internal/) |
+| 合规、国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19724/compliance-international-investigations-associate/) |
+| 合规，国际调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19725/compliance-international-investigations-associate/) |
 | BCG EMEA 合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
 | 北欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
@@ -38,10 +43,6 @@
 | Architect 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19714/architect/) |
 | 高级产品经理—人力资源领域产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
 | 全球事务合作伙伴与对外事务助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19716/partnerships-external-affairs-associate-global-affairs/) |
-| Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
-| 机器人固件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
-| C++交易开发者，量化交易团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
-| 内容与创作者合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

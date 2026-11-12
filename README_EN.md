@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3225</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
+| B2B Comms Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
+| Financial Crimes Compliance, Internal Audit Associate Manager Internal | Remote | [View →](https://www.remotejobscan.com/job/14361/financial-crimes-compliance-internal-audit-associate-manager-internal/) |
+| Compliance, International Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/19724/compliance-international-investigations-associate/) |
 | Partnerships Director, BCG EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19723/partnerships-director-bcg-emea/) |
 | Partnerships Lead, Northern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19722/partnerships-lead-northern-europe/) |
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
@@ -38,10 +42,6 @@
 | Architect 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19714/architect/) |
 | Senior Product Manager — HR Domain Products | On-site | [View →](https://www.remotejobscan.com/job/19711/senior-product-manager-hr-domain-products/) |
 | Partnerships & External Affairs Associate, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19716/partnerships-external-affairs-associate-global-affairs/) |
-| Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
-| Firmware Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
-| C++ Trading Developer, Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
-| Content & Creator Partnerships Manager | Remote | [View →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
