@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3227</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Content Strategist | Remote | [View →](https://www.remotejobscan.com/job/19749/content-strategist/) |
+| Content Editor | Remote | [View →](https://www.remotejobscan.com/job/19750/content-editor/) |
+| Sr Product Manager - Virality, Referrals & KOL | Remote | [View →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
+| Senior Product Manager - Virality, Referrals & KOL | Remote | [View →](https://www.remotejobscan.com/job/19744/senior-product-manager-virality-referrals-kol/) |
+| Sales Development Lead - North America | Remote | [View →](https://www.remotejobscan.com/job/19747/sales-development-lead-north-america/) |
+| GTM Lead - Outbound & Prospecting | Remote | [View →](https://www.remotejobscan.com/job/19748/gtm-lead-outbound-prospecting/) |
+| Manager, Enterprise Sales - Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
+| Client Partner, Ads Solutions - Retail/E-Commerce | Hybrid | [View →](https://www.remotejobscan.com/job/19746/client-partner-ads-solutions-retaile-commerce/) |
+| Engineering Manager, Education | Hybrid | [View →](https://www.remotejobscan.com/job/12599/engineering-manager-education/) |
+| Staff Software Engineer, Support Technology | On-site | [View →](https://www.remotejobscan.com/job/19741/staff-software-engineer-support-technology/) |
+| Software Engineer II - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/19743/software-engineer-ii-frontend-developer-platform/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
 | Risk & Monitoring Analyst IV | Remote | [View →](https://www.remotejobscan.com/job/19740/risk-monitoring-analyst-iv/) |
 | Product Designer, Physical Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19742/product-designer-physical-engineering/) |
@@ -31,16 +43,6 @@
 | Threat Detection Engineering Manager | On-site | [View →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
 | Security Incident Response Team Manager | On-site | [View →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
 | Application Security Engineer | On-site | [View →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
-| Financial Manager | Remote | [View →](https://www.remotejobscan.com/job/19605/financial-manager/) |
-| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
-| Sr. Security Risk Management Analyst | Remote | [View →](https://www.remotejobscan.com/job/19729/sr-security-risk-management-analyst/) |
-| Security GRC Analyst, Mergers & Acquisitions | Remote | [View →](https://www.remotejobscan.com/job/19731/security-grc-analyst-mergers-acquisitions/) |
-| Principal Engineer, Agent Infrastructure & Memory Architecture | On-site | [View →](https://www.remotejobscan.com/job/7608/principal-engineer-agent-infrastructure-memory-architecture/) |
-| Principal AI Engineer, Chatbot Development | On-site | [View →](https://www.remotejobscan.com/job/7607/principal-ai-engineer-chatbot-development/) |
-| Principal AI Engineer, AI Agent Development | On-site | [View →](https://www.remotejobscan.com/job/7606/principal-ai-engineer-ai-agent-development/) |
-| Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
-| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
-| B2B Comms Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

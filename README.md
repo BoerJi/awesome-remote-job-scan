@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3227</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内容策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19749/content-strategist/) |
+| 内容编辑 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19750/content-editor/) |
+| 高级产品经理 - 病毒式传播、推荐与KOL | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19745/sr-product-manager-virality-referrals-kol/) |
+| 高级产品经理 - 传播、推荐与意见领袖 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19744/senior-product-manager-virality-referrals-kol/) |
+| 北美销售发展主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19747/sales-development-lead-north-america/) |
+| GTM Lead - 外勤与开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19748/gtm-lead-outbound-prospecting/) |
+| 对冲基金企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17807/manager-enterprise-sales-hedge-funds/) |
+| 广告解决方案 - 客户合作伙伴 - 零售/电商 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19746/client-partner-ads-solutions-retaile-commerce/) |
+| 教育工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12599/engineering-manager-education/) |
+| 支持技术Staff软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19741/staff-software-engineer-support-technology/) |
+| 软件工程师II - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19743/software-engineer-ii-frontend-developer-platform/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13574/it-support-engineer/) |
 | 仓储与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
 | 风险与监控分析师IV | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19740/risk-monitoring-analyst-iv/) |
 | 物理工程产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19742/product-designer-physical-engineering/) |
@@ -31,16 +43,6 @@
 | 威胁检测工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19736/threat-detection-engineering-manager/) |
 | 安全事件响应团队经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19735/security-incident-response-team-manager/) |
 | 应用安全工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19737/application-security-engineer/) |
-| 财务经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19605/financial-manager/) |
-| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
-| 高级安全风险管理分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19729/sr-security-risk-management-analyst/) |
-| 并购安全GRC分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19731/security-grc-analyst-mergers-acquisitions/) |
-| 首席工程师，代理基础设施与内存架构 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7608/principal-engineer-agent-infrastructure-memory-architecture/) |
-| 首席AI工程师，聊天机器人开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7607/principal-ai-engineer-chatbot-development/) |
-| 高级AI工程师，AI代理开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/7606/principal-ai-engineer-ai-agent-development/) |
-| 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19728/workplace-experience-new-york/) |
-| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19727/company-operations-lead/) |
-| B2B沟通负责人，欧洲、中东和非洲 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19726/b2b-comms-lead-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
