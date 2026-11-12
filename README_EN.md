@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Firmware Engineer, Robotics | On-site | [View →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
 | C++ Trading Developer, Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
 | Content & Creator Partnerships Manager | Remote | [View →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
 | Product Manager, Legal | On-site | [View →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
@@ -40,7 +41,6 @@
 | Principal Database Engineer | Remote | [View →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
 | Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
 | Partner Applied AI Engineer, Oracle and Cloud ISV | On-site | [View →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
-| Partner Applied AI Engineer, Google Cloud | Hybrid | [View →](https://www.remotejobscan.com/job/19696/partner-applied-ai-engineer-google-cloud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

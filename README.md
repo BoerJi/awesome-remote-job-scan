@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机器人固件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19710/firmware-engineer-robotics/) |
 | C++交易开发者，量化交易团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
 | 内容与创作者合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
 | 法律产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
@@ -40,7 +41,6 @@
 | 首席数据库工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19699/principal-database-engineer/) |
 | 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
 | 合作伙伴应用AI工程师，Oracle和云ISV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
-| 谷歌云合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19696/partner-applied-ai-engineer-google-cloud/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
