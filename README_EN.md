@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3226</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3228</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| C++ Trading Developer, Quant Trading Team | Hybrid | [View →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
+| Content & Creator Partnerships Manager | Remote | [View →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
+| Product Manager, Legal | On-site | [View →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
 | Senior HR Business Partner, India | Hybrid | [View →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
 | Senior/Staff Engineer, Data Platform Development | On-site | [View →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
 | 安卓开发(合规方向) Android Development (Compliance Focus) | Remote | [View →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
@@ -38,10 +41,6 @@
 | Senior Compliance Analyst, Canada | Remote | [View →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
 | Partner Applied AI Engineer, Oracle and Cloud ISV | On-site | [View →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
 | Partner Applied AI Engineer, Google Cloud | Hybrid | [View →](https://www.remotejobscan.com/job/19696/partner-applied-ai-engineer-google-cloud/) |
-| Sales Engineering Manager, Northern Europe & DACH | On-site | [View →](https://www.remotejobscan.com/job/19641/sales-engineering-manager-northern-europe-dach/) |
-| Business Value Strategist | On-site | [View →](https://www.remotejobscan.com/job/19695/business-value-strategist/) |
-| Partnerships Lead, Southern Europe | Hybrid | [View →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
-| DevRel Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-12 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

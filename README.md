@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3226</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3228</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| C++交易开发者，量化交易团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19709/c-trading-developer-quant-trading-team/) |
+| 内容与创作者合作经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19707/content-creator-partnerships-manager/) |
+| 法律产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19706/product-manager-legal/) |
 | 高级人力资源业务合作伙伴，印度 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19704/senior-hr-business-partner-india/) |
 | 高级/资深工程师，数据平台开发 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19703/seniorstaff-engineer-data-platform-development/) |
 | 安卓开发(合规方向) Android Development (Compliance Focus) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19684/android-development-compliance-focus/) |
@@ -38,10 +41,6 @@
 | 加拿大高级合规分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19698/senior-compliance-analyst-canada/) |
 | 合作伙伴应用AI工程师，Oracle和云ISV | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19697/partner-applied-ai-engineer-oracle-and-cloud-isv/) |
 | 谷歌云合作伙伴应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19696/partner-applied-ai-engineer-google-cloud/) |
-| 北欧及DACH区销售工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19641/sales-engineering-manager-northern-europe-dach/) |
-| 业务价值策略师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19695/business-value-strategist/) |
-| 南欧合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19569/partnerships-lead-southern-europe/) |
-| 代理基础设施DevRel工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11473/devrel-engineer-agentic-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-12 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
