@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
+| Strategic Delivery Lead, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
+| Technical Operations Analyst, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19814/technical-operations-analyst-user-safety-risk-operations/) |
+| Model Safety Program Manager, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19815/model-safety-program-manager-user-safety-risk-operations/) |
+| Member of Technical Staff (Software Engineer, Cybersecurity Products) | On-site | [View →](https://www.remotejobscan.com/job/19812/member-of-technical-staff-software-engineer-cybersecurity-products/) |
+| Senior Software Engineer, Native Mobile (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/15242/senior-software-engineer-native-mobile-iosandroid/) |
 | Senior/Staff Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/19811/seniorstaff-software-engineer-developer-experience/) |
 | Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
@@ -36,11 +42,6 @@
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | Senior Staff Software Engineer, Trading Service (Retail Trading) | On-site | [View →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
-| Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
-| Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
-| Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/19798/fraud-risk-strategy-expert/) |
-| Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
-| Product Manager I | Remote | [View →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

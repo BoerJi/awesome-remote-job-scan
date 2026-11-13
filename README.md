@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户营销主管，初创企业项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
+| 国家安全战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
+| 技术运营分析师，用户安全与风险运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19814/technical-operations-analyst-user-safety-risk-operations/) |
+| 模型安全项目经理，用户安全与风险运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19815/model-safety-program-manager-user-safety-risk-operations/) |
+| 技术团队成员（软件工程师，网络安全产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19812/member-of-technical-staff-software-engineer-cybersecurity-products/) |
+| 高级软件工程师，原生移动（iOS/Android） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15242/senior-software-engineer-native-mobile-iosandroid/) |
 | 高级/资深软件工程师，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19811/seniorstaff-software-engineer-developer-experience/) |
 | 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | VIP RM-OC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
@@ -36,12 +42,6 @@
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
 | 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
 | 高级软件开发工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
-| 高级Staff软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
-| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
-| 欺诈风险策略专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19798/fraud-risk-strategy-expert/) |
-| SEA & ANZ 战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
-| 产品经理I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
-| 产品经理 I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
