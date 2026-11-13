@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3254</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3256</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 基础设施安全主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19822/infrastructure-security-lead/) |
+| Staff+ 消费者软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19821/staff-software-engineer-consumer/) |
+| CEO首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceos/) |
+| 内部产品高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19818/staff-software-engineer-internal-products/) |
+| 国际产品经理I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i-international/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19820/senior-accountant/) |
 | 亚太区合作伙伴市场负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19817/partner-marketing-lead-apac/) |
 | 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
@@ -38,11 +43,6 @@
 | 技术团队成员（软件工程师，网络安全产品） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19812/member-of-technical-staff-software-engineer-cybersecurity-products/) |
 | 高级软件工程师，原生移动（iOS/Android） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15242/senior-software-engineer-native-mobile-iosandroid/) |
 | 高级/资深软件工程师，开发者体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19811/seniorstaff-software-engineer-developer-experience/) |
-| 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| VIP RM-OC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
-| 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
-| 区域广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
-| 广告解决方案客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

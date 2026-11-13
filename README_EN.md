@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Infrastructure Security Lead | On-site | [View →](https://www.remotejobscan.com/job/19822/infrastructure-security-lead/) |
+| Staff+ Software Engineer, Consumer | On-site | [View →](https://www.remotejobscan.com/job/19821/staff-software-engineer-consumer/) |
+| Chief of Staff to the CEOs | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceos/) |
+| Staff Software Engineer, Internal Products | Remote | [View →](https://www.remotejobscan.com/job/19818/staff-software-engineer-internal-products/) |
+| Product Manager I - International | Remote | [View →](https://www.remotejobscan.com/job/19796/product-manager-i-international/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/19820/senior-accountant/) |
 | Partner Marketing Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19817/partner-marketing-lead-apac/) |
 | Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
@@ -38,11 +43,6 @@
 | Member of Technical Staff (Software Engineer, Cybersecurity Products) | On-site | [View →](https://www.remotejobscan.com/job/19812/member-of-technical-staff-software-engineer-cybersecurity-products/) |
 | Senior Software Engineer, Native Mobile (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/15242/senior-software-engineer-native-mobile-iosandroid/) |
 | Senior/Staff Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/19811/seniorstaff-software-engineer-developer-experience/) |
-| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
-| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
-| Regional Client Partner, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
-| Customer Success Manager, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
