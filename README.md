@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3248</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3256</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前端开发（合规）Front-end development (compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19800/front-end-development-compliance/) |
+| 亚太地区入职协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19801/onboarding-coordinator-apac/) |
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
+| 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
+| 高级软件开发工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
+| 高级Staff软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
+| 高级软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
+| 欺诈风险策略专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19798/fraud-risk-strategy-expert/) |
 | SEA & ANZ 战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | 产品经理I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
 | 产品经理 I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i/) |
@@ -35,14 +43,6 @@
 | Security Research Engineer 安全研发工程师（安全网关） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Network IT Engineer 网络IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
 | 安全工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19790/engineering-manager-security/) |
-| Web3 Application Security Engineer web3应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
-| Safety Data Development 安全数据开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19787/safety-data-development/) |
-| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Senior Frontend Developer of DEX DEX资深前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19788/senior-frontend-developer-of-dex-dex/) |
-| DEX Trading System Expert DEX交易系统专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19783/dex-trading-system-expert-dex/) |
-| 高级应付账款经理 - 付款 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
-| 美国政府事务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
-| 商业激活主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

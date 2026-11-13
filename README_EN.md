@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3248</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| 前端开发（合规）Front-end development (compliance) | Remote | [View →](https://www.remotejobscan.com/job/19800/front-end-development-compliance/) |
+| Onboarding Coordinator - APAC | Hybrid | [View →](https://www.remotejobscan.com/job/19801/onboarding-coordinator-apac/) |
+| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
+| Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
+| Senior Staff Software Engineer, Trading Service (Retail Trading) | On-site | [View →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
+| Senior Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12212/senior-staff-software-engineer-trading-services/) |
+| Senior Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/12211/senior-software-engineer-trading-services/) |
+| Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/19798/fraud-risk-strategy-expert/) |
 | Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Product Manager I | Remote | [View →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
@@ -34,14 +42,6 @@
 | Security Research Engineer 安全研发工程师（安全网关） | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Network IT Engineer 网络IT工程师 | Remote | [View →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
 | Engineering Manager, Security | Hybrid | [View →](https://www.remotejobscan.com/job/19790/engineering-manager-security/) |
-| Web3 Application Security Engineer web3应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
-| Safety Data Development 安全数据开发 | Remote | [View →](https://www.remotejobscan.com/job/19787/safety-data-development/) |
-| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Senior Frontend Developer of DEX DEX资深前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19788/senior-frontend-developer-of-dex-dex/) |
-| DEX Trading System Expert DEX交易系统专家 | Remote | [View →](https://www.remotejobscan.com/job/19783/dex-trading-system-expert-dex/) |
-| Senior Manager, Accounts Payable - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
-| U.S. Government Affairs, Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
-| Commercial Activation Lead | On-site | [View →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
