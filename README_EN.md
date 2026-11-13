@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development Manager, Enterprise (AMER) | On-site | [View →](https://www.remotejobscan.com/job/19826/sales-development-manager-enterprise-amer/) |
+| Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
+| GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
+| Enterprise B2B Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/19825/enterprise-b2b-communications-manager/) |
+| Application Security Engineer - Agents platform | Remote | [View →](https://www.remotejobscan.com/job/19824/application-security-engineer-agents-platform/) |
 | Infrastructure Security Lead | On-site | [View →](https://www.remotejobscan.com/job/19822/infrastructure-security-lead/) |
 | Staff+ Software Engineer, Consumer | On-site | [View →](https://www.remotejobscan.com/job/19821/staff-software-engineer-consumer/) |
 | Chief of Staff to the CEOs | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceos/) |
@@ -38,11 +43,6 @@
 | Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | Strategic Delivery Lead, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
-| Technical Operations Analyst, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19814/technical-operations-analyst-user-safety-risk-operations/) |
-| Model Safety Program Manager, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19815/model-safety-program-manager-user-safety-risk-operations/) |
-| Member of Technical Staff (Software Engineer, Cybersecurity Products) | On-site | [View →](https://www.remotejobscan.com/job/19812/member-of-technical-staff-software-engineer-cybersecurity-products/) |
-| Senior Software Engineer, Native Mobile (iOS/Android) | Remote | [View →](https://www.remotejobscan.com/job/15242/senior-software-engineer-native-mobile-iosandroid/) |
-| Senior/Staff Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/19811/seniorstaff-software-engineer-developer-experience/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
