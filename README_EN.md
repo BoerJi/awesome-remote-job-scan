@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
+| Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | Regional Client Partner, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
 | Customer Success Manager, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
 | Head of UK, Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19804/head-of-uk-ad-solutions/) |
@@ -39,8 +41,6 @@
 | Product Manager I | Remote | [View →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
-| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
-| CX Ops Specialist | On-site | [View →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

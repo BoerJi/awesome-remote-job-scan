@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP RM-OC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
+| 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | 区域广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
 | 广告解决方案客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
 | 英国广告解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19804/head-of-uk-ad-solutions/) |
@@ -40,8 +42,6 @@
 | 产品经理 I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i/) |
 | 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 衍生品交易报告高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
-| 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
-| 客户体验运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
