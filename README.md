@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3239</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3247</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级应付账款经理 - 付款 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
+| 美国政府事务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
+| 商业激活主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
+| 高级增长经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
+| 技术团队成员（网站可靠性工程师，爬虫） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19779/member-of-technical-staff-site-reliability-engineer-crawler/) |
 | 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
 | 技术团队成员（Web访问工程师，爬虫） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
 | 营销运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
@@ -36,13 +41,6 @@
 | 电力发电设计工程师，电气与机械 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19768/power-generation-design-engineer-electrical-mechanical/) |
 | 增长（移动端）首席产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19764/lead-product-designer-growth-mobile/) |
 | 移动端首席产品设计师（原生与移动） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19763/lead-product-designer-mobile-native-mobile/) |
-| 大客户总监，EY北美 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19762/partner-director-ey-north-america/) |
-| 热工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19761/thermal-engineer/) |
-| 高级网络工程师（荷兰，印度远程或新加坡远程） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-nl-india-remote-or-singapore-remote/) |
-| 美国地区代币化证券交易平台高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
-| 合作伙伴支持运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
-| 全球销售项目经理（中小企业销售） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
-| 开发者平台产品数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

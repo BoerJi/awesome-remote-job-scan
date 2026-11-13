@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Accounts Payable - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
+| U.S. Government Affairs, Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
+| Commercial Activation Lead | On-site | [View →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
+| Senior Manager, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
+| Member of Technical Staff (Site Reliability Engineer, Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19779/member-of-technical-staff-site-reliability-engineer-crawler/) |
 | Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
 | Member of Technical Staff (Web Access Engineer, Crawler) | Hybrid | [View →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
 | Head of Marketing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
@@ -36,13 +41,6 @@
 | Power Generation Design Engineer, Electrical & Mechanical | Hybrid | [View →](https://www.remotejobscan.com/job/19768/power-generation-design-engineer-electrical-mechanical/) |
 | Lead Product Designer, Growth (Mobile) | Hybrid | [View →](https://www.remotejobscan.com/job/19764/lead-product-designer-growth-mobile/) |
 | Lead Product Designer, Mobile (Native & Mobile) | Hybrid | [View →](https://www.remotejobscan.com/job/19763/lead-product-designer-mobile-native-mobile/) |
-| Partner Director, EY North America | Hybrid | [View →](https://www.remotejobscan.com/job/19762/partner-director-ey-north-america/) |
-| Thermal Engineer | On-site | [View →](https://www.remotejobscan.com/job/19761/thermal-engineer/) |
-| Senior Network Engineer (NL, India Remote or Singapore Remote) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-nl-india-remote-or-singapore-remote/) |
-| Senior Compliance Manager, Tokenized Securities Venue (Americas) | Remote | [View →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
-| Partner Support Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
-| Global Sales Program Manager (SMB Sales) | Hybrid | [View →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
-| Tech Lead Manager, Developer Platform Product Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
