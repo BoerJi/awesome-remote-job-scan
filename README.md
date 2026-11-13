@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户体验运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
+| 东南亚外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19792/external-affairs-southeast-asia/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
 | Security Research Engineer 安全研发工程师（安全网关） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Network IT Engineer 网络IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
@@ -39,8 +41,6 @@
 | 高级增长经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
 | 技术团队成员（网站可靠性工程师，爬虫） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19779/member-of-technical-staff-site-reliability-engineer-crawler/) |
 | 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
-| 技术团队成员（Web访问工程师，爬虫） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
-| 营销运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
