@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
+| Full-Stack Engineer (Frontend Leaning) - ElevenAI | Remote | [View →](https://www.remotejobscan.com/job/19809/full-stack-engineer-frontend-leaning-elevenai/) |
+| Full-Stack Engineer (Backend Leaning) - ElevenAI | Remote | [View →](https://www.remotejobscan.com/job/19808/full-stack-engineer-backend-leaning-elevenai/) |
 | VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | Regional Client Partner, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
@@ -39,8 +42,6 @@
 | Fraud Risk Strategy Expert | On-site | [View →](https://www.remotejobscan.com/job/19798/fraud-risk-strategy-expert/) |
 | Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Product Manager I | Remote | [View →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
-| 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
-| Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
