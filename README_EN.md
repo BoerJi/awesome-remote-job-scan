@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3255</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full Stack Software Engineer, ChatGPT Finances | Hybrid | [View →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
+| Enterprise Sales Manager, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
+| Program Lead, Performance & Enablement | On-site | [View →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
+| Field Marketer - Southern Europe (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/19828/field-marketer-southern-europe-freelance/) |
+| Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | Sales Development Manager, Enterprise (AMER) | On-site | [View →](https://www.remotejobscan.com/job/19826/sales-development-manager-enterprise-amer/) |
 | Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
 | GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
@@ -38,11 +43,6 @@
 | Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 | Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
-| Engineering Manager - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/19819/engineering-manager-nextjs/) |
-| Staff Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
-| Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
-| Strategic Delivery Lead, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

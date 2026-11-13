@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3255</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈软件工程师，ChatGPT金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
+| 医疗保健企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
+| 绩效与赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
+| 南方欧洲现场营销员（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19828/field-marketer-southern-europe-freelance/) |
+| 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
 | 企业销售发展经理（美洲区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19826/sales-development-manager-enterprise-amer/) |
 | Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
 | GTM项目经理，GTM计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
@@ -38,11 +43,6 @@
 | 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
 | 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
 | Staff+ 软件工程师，Claude Design | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
-| Next.js 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19819/engineering-manager-nextjs/) |
-| TRUST网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
-| 存储产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| 客户营销主管，初创企业项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
-| 国家安全战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
