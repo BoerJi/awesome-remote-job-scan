@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,9 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Software Engineer, Developer Experience | Hybrid | [View →](https://www.remotejobscan.com/job/19811/seniorstaff-software-engineer-developer-experience/) |
 | Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| Full-Stack Engineer (Frontend Leaning) - ElevenAI | Remote | [View →](https://www.remotejobscan.com/job/19809/full-stack-engineer-frontend-leaning-elevenai/) |
-| Full-Stack Engineer (Backend Leaning) - ElevenAI | Remote | [View →](https://www.remotejobscan.com/job/19808/full-stack-engineer-backend-leaning-elevenai/) |
 | VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | Regional Client Partner, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
