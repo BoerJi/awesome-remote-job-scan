@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3239</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
+| Member of Technical Staff (Web Access Engineer, Crawler) | Hybrid | [View →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
+| Head of Marketing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
+| Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
+| Integrated Marketing Manager - Consumer & Brand, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/19770/integrated-marketing-manager-consumer-brand-latam/) |
+| Growth GTM Engineer, Revenue Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19771/growth-gtm-engineer-revenue-operations/) |
 | Partner Director, IBM North America | Hybrid | [View →](https://www.remotejobscan.com/job/19769/partner-director-ibm-north-america/) |
 | Audience & Content Growth Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19767/audience-content-growth-lead-smb-ads/) |
 | Customer Marketing Lead, Startups | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups/) |
@@ -37,12 +43,6 @@
 | Partner Support Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
 | Global Sales Program Manager (SMB Sales) | Hybrid | [View →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
 | Tech Lead Manager, Developer Platform Product Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
-| Tech Lead Manager, Growth Data Science | On-site | [View →](https://www.remotejobscan.com/job/19758/tech-lead-manager-growth-data-science/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
-| Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| Partner Sales & Development Leader | Hybrid | [View →](https://www.remotejobscan.com/job/19759/partner-sales-development-leader/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

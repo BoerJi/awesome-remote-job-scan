@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3239</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
+| 技术团队成员（Web访问工程师，爬虫） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
+| 营销运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
+| 仓库与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
+| 整合营销经理 - 消费者与品牌，拉美 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19770/integrated-marketing-manager-consumer-brand-latam/) |
+| 增长GTM工程师，收入运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19771/growth-gtm-engineer-revenue-operations/) |
 | IBM北美合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19769/partner-director-ibm-north-america/) |
 | SMB广告受众与内容增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19767/audience-content-growth-lead-smb-ads/) |
 | 初创企业客户营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups/) |
@@ -37,12 +43,6 @@
 | 合作伙伴支持运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19757/partner-support-operations-lead/) |
 | 全球销售项目经理（中小企业销售） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19760/global-sales-program-manager-smb-sales/) |
 | 开发者平台产品数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9483/tech-lead-manager-developer-platform-product-data-scientist/) |
-| 增长数据科学技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19758/tech-lead-manager-growth-data-science/) |
-| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19570/senior-software-engineer/) |
-| CX智能机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9227/machine-learning-engineer-cx-intelligence/) |
-| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
-| 合作伙伴销售与发展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19759/partner-sales-development-leader/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
