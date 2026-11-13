@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3230</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3234</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IBM北美合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19769/partner-director-ibm-north-america/) |
+| SMB广告受众与内容增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19767/audience-content-growth-lead-smb-ads/) |
+| 初创企业客户营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups/) |
+| 税务经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19765/tax-manager/) |
+| 电力发电设计工程师，电气与机械 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19768/power-generation-design-engineer-electrical-mechanical/) |
+| 增长（移动端）首席产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19764/lead-product-designer-growth-mobile/) |
+| 移动端首席产品设计师（原生与移动） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19763/lead-product-designer-mobile-native-mobile/) |
+| 大客户总监，EY北美 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19762/partner-director-ey-north-america/) |
 | 热工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19761/thermal-engineer/) |
 | 高级网络工程师（荷兰，印度远程或新加坡远程） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9856/senior-network-engineer-nl-india-remote-or-singapore-remote/) |
 | 美国地区代币化证券交易平台高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
@@ -35,14 +43,6 @@
 | 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | 高级机器学习工程师，客户体验智能 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | 合作伙伴销售与发展负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19759/partner-sales-development-leader/) |
-| 日语AI部署经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19756/ai-deployment-manager-japanese-speaking/) |
-| AI部署经理（韩语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19755/ai-deployment-manager-korean-speaking/) |
-| 监管行业客户成功负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19754/head-of-regulated-industries-customer-success/) |
-| 应用AI工程师，有益部署，生命科学（分子设计） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences-molecular-design/) |
-| 二手运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19752/resale-operations-lead/) |
-| 市场销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
-| 联邦账户总监，情报界 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
-| 数据中心能力交付，加拿大 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

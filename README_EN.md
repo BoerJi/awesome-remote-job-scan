@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3230</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3234</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner Director, IBM North America | Hybrid | [View →](https://www.remotejobscan.com/job/19769/partner-director-ibm-north-america/) |
+| Audience & Content Growth Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19767/audience-content-growth-lead-smb-ads/) |
+| Customer Marketing Lead, Startups | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups/) |
+| Tax Manager | On-site | [View →](https://www.remotejobscan.com/job/19765/tax-manager/) |
+| Power Generation Design Engineer, Electrical & Mechanical | Hybrid | [View →](https://www.remotejobscan.com/job/19768/power-generation-design-engineer-electrical-mechanical/) |
+| Lead Product Designer, Growth (Mobile) | Hybrid | [View →](https://www.remotejobscan.com/job/19764/lead-product-designer-growth-mobile/) |
+| Lead Product Designer, Mobile (Native & Mobile) | Hybrid | [View →](https://www.remotejobscan.com/job/19763/lead-product-designer-mobile-native-mobile/) |
+| Partner Director, EY North America | Hybrid | [View →](https://www.remotejobscan.com/job/19762/partner-director-ey-north-america/) |
 | Thermal Engineer | On-site | [View →](https://www.remotejobscan.com/job/19761/thermal-engineer/) |
 | Senior Network Engineer (NL, India Remote or Singapore Remote) | On-site | [View →](https://www.remotejobscan.com/job/9856/senior-network-engineer-nl-india-remote-or-singapore-remote/) |
 | Senior Compliance Manager, Tokenized Securities Venue (Americas) | Remote | [View →](https://www.remotejobscan.com/job/19222/senior-compliance-manager-tokenized-securities-venue-americas/) |
@@ -35,14 +43,6 @@
 | Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | Senior Machine Learning Engineer, CX Intelligence | Remote | [View →](https://www.remotejobscan.com/job/9262/senior-machine-learning-engineer-cx-intelligence/) |
 | Partner Sales & Development Leader | Hybrid | [View →](https://www.remotejobscan.com/job/19759/partner-sales-development-leader/) |
-| AI Deployment Manager (Japanese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19756/ai-deployment-manager-japanese-speaking/) |
-| AI Deployment Manager (Korean Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19755/ai-deployment-manager-korean-speaking/) |
-| Head of Regulated Industries, Customer Success | On-site | [View →](https://www.remotejobscan.com/job/19754/head-of-regulated-industries-customer-success/) |
-| Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) | On-site | [View →](https://www.remotejobscan.com/job/17326/applied-ai-engineer-beneficial-deployments-life-sciences-molecular-design/) |
-| Resale Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/19752/resale-operations-lead/) |
-| Manager, Markets Sales | Remote | [View →](https://www.remotejobscan.com/job/16860/manager-markets-sales/) |
-| Federal Account Director, Intelligence Community | Hybrid | [View →](https://www.remotejobscan.com/job/19751/federal-account-director-intelligence-community/) |
-| Data Center Capacity Delivery, Canada | Remote | [View →](https://www.remotejobscan.com/job/17841/data-center-capacity-delivery-canada/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
