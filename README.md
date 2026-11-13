@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 内部沟通负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
+| 生命科学研究员技术项目经理（遗传医学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
+| GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
+| 奥斯汀客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19837/account-associate-austin/) |
+| 纽约市客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19836/account-associate-nyc/) |
+| 生命科学领域CMC与制造主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19833/cmc-manufacturing-lead-life-sciences/) |
+| GTM策略与运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19838/gtm-strategy-operations-generalist/) |
+| 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
+| 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| 全栈软件工程师，消费者健康 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19832/full-stack-software-engineer-consumer-health/) |
 | 全栈软件工程师，ChatGPT金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
 | 医疗保健企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
 | 绩效与赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
@@ -33,16 +43,6 @@
 | GTM项目经理，GTM计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
 | 企业B2B通讯经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19825/enterprise-b2b-communications-manager/) |
 | 应用安全工程师 - 代理平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19824/application-security-engineer-agents-platform/) |
-| 基础设施安全主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19822/infrastructure-security-lead/) |
-| Staff+ 消费者软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19821/staff-software-engineer-consumer/) |
-| CEO首席助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceos/) |
-| 内部产品高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19818/staff-software-engineer-internal-products/) |
-| 国际产品经理I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i-international/) |
-| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19820/senior-accountant/) |
-| 亚太区合作伙伴市场负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19817/partner-marketing-lead-apac/) |
-| 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
-| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Staff+ 软件工程师，Claude Design | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

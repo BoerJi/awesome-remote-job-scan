@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Internal Communications | Remote | [View →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
+| Technical Program Manager, Life Sciences Research (Genetic Medicine) | On-site | [View →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
+| GTM Narrative Lead | On-site | [View →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
+| Account Associate - Austin | Hybrid | [View →](https://www.remotejobscan.com/job/19837/account-associate-austin/) |
+| Account Associate - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19836/account-associate-nyc/) |
+| CMC & Manufacturing Lead, Life Sciences | Remote | [View →](https://www.remotejobscan.com/job/19833/cmc-manufacturing-lead-life-sciences/) |
+| GTM Strategy & Operations, Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/19838/gtm-strategy-operations-generalist/) |
+| Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
+| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
+| Full Stack Software Engineer, Consumer Health | Hybrid | [View →](https://www.remotejobscan.com/job/19832/full-stack-software-engineer-consumer-health/) |
 | Full Stack Software Engineer, ChatGPT Finances | Hybrid | [View →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
 | Enterprise Sales Manager, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
 | Program Lead, Performance & Enablement | On-site | [View →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
@@ -33,16 +43,6 @@
 | GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
 | Enterprise B2B Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/19825/enterprise-b2b-communications-manager/) |
 | Application Security Engineer - Agents platform | Remote | [View →](https://www.remotejobscan.com/job/19824/application-security-engineer-agents-platform/) |
-| Infrastructure Security Lead | On-site | [View →](https://www.remotejobscan.com/job/19822/infrastructure-security-lead/) |
-| Staff+ Software Engineer, Consumer | On-site | [View →](https://www.remotejobscan.com/job/19821/staff-software-engineer-consumer/) |
-| Chief of Staff to the CEOs | Remote | [View →](https://www.remotejobscan.com/job/18222/chief-of-staff-to-the-ceos/) |
-| Staff Software Engineer, Internal Products | Remote | [View →](https://www.remotejobscan.com/job/19818/staff-software-engineer-internal-products/) |
-| Product Manager I - International | Remote | [View →](https://www.remotejobscan.com/job/19796/product-manager-i-international/) |
-| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/19820/senior-accountant/) |
-| Partner Marketing Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19817/partner-marketing-lead-apac/) |
-| Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
-| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
-| Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
