@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
 | CX Ops Specialist | On-site | [View →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
 | External Affairs, Southeast Asia | On-site | [View →](https://www.remotejobscan.com/job/19792/external-affairs-southeast-asia/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
@@ -40,7 +41,6 @@
 | Commercial Activation Lead | On-site | [View →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
 | Senior Manager, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
 | Member of Technical Staff (Site Reliability Engineer, Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19779/member-of-technical-staff-site-reliability-engineer-crawler/) |
-| Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
