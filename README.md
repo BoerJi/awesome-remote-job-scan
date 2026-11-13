@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3247</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
+| Security Research Engineer 安全研发工程师（安全网关） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
+| Network IT Engineer 网络IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
+| 安全工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19790/engineering-manager-security/) |
+| Web3 Application Security Engineer web3应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
+| Safety Data Development 安全数据开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19787/safety-data-development/) |
+| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
+| Senior Frontend Developer of DEX DEX资深前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19788/senior-frontend-developer-of-dex-dex/) |
+| DEX Trading System Expert DEX交易系统专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19783/dex-trading-system-expert-dex/) |
+| 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 高级应付账款经理 - 付款 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
 | 美国政府事务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
 | 商业激活主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
@@ -31,16 +41,6 @@
 | 本地社区影响项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
 | 技术团队成员（Web访问工程师，爬虫） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
 | 营销运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
-| 仓库与物流能力经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
-| 整合营销经理 - 消费者与品牌，拉美 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19770/integrated-marketing-manager-consumer-brand-latam/) |
-| 增长GTM工程师，收入运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19771/growth-gtm-engineer-revenue-operations/) |
-| IBM北美合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19769/partner-director-ibm-north-america/) |
-| SMB广告受众与内容增长负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19767/audience-content-growth-lead-smb-ads/) |
-| 初创企业客户营销负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups/) |
-| 税务经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19765/tax-manager/) |
-| 电力发电设计工程师，电气与机械 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19768/power-generation-design-engineer-electrical-mechanical/) |
-| 增长（移动端）首席产品设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19764/lead-product-designer-growth-mobile/) |
-| 移动端首席产品设计师（原生与移动） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19763/lead-product-designer-mobile-native-mobile/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

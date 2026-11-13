@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3247</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
+| Security Research Engineer 安全研发工程师（安全网关） | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
+| Network IT Engineer 网络IT工程师 | Remote | [View →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
+| Engineering Manager, Security | Hybrid | [View →](https://www.remotejobscan.com/job/19790/engineering-manager-security/) |
+| Web3 Application Security Engineer web3应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
+| Safety Data Development 安全数据开发 | Remote | [View →](https://www.remotejobscan.com/job/19787/safety-data-development/) |
+| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
+| Senior Frontend Developer of DEX DEX资深前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19788/senior-frontend-developer-of-dex-dex/) |
+| DEX Trading System Expert DEX交易系统专家 | Remote | [View →](https://www.remotejobscan.com/job/19783/dex-trading-system-expert-dex/) |
+| 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Senior Manager, Accounts Payable - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
 | U.S. Government Affairs, Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
 | Commercial Activation Lead | On-site | [View →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
@@ -31,16 +41,6 @@
 | Program Manager, Local Community Impact | Hybrid | [View →](https://www.remotejobscan.com/job/19772/program-manager-local-community-impact/) |
 | Member of Technical Staff (Web Access Engineer, Crawler) | Hybrid | [View →](https://www.remotejobscan.com/job/19774/member-of-technical-staff-web-access-engineer-crawler/) |
 | Head of Marketing Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19773/head-of-marketing-operations/) |
-| Warehouse and Logistics Capability Manager | On-site | [View →](https://www.remotejobscan.com/job/15561/warehouse-and-logistics-capability-manager/) |
-| Integrated Marketing Manager - Consumer & Brand, LATAM | Hybrid | [View →](https://www.remotejobscan.com/job/19770/integrated-marketing-manager-consumer-brand-latam/) |
-| Growth GTM Engineer, Revenue Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19771/growth-gtm-engineer-revenue-operations/) |
-| Partner Director, IBM North America | Hybrid | [View →](https://www.remotejobscan.com/job/19769/partner-director-ibm-north-america/) |
-| Audience & Content Growth Lead, SMB Ads | Hybrid | [View →](https://www.remotejobscan.com/job/19767/audience-content-growth-lead-smb-ads/) |
-| Customer Marketing Lead, Startups | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups/) |
-| Tax Manager | On-site | [View →](https://www.remotejobscan.com/job/19765/tax-manager/) |
-| Power Generation Design Engineer, Electrical & Mechanical | Hybrid | [View →](https://www.remotejobscan.com/job/19768/power-generation-design-engineer-electrical-mechanical/) |
-| Lead Product Designer, Growth (Mobile) | Hybrid | [View →](https://www.remotejobscan.com/job/19764/lead-product-designer-growth-mobile/) |
-| Lead Product Designer, Mobile (Native & Mobile) | Hybrid | [View →](https://www.remotejobscan.com/job/19763/lead-product-designer-mobile-native-mobile/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
