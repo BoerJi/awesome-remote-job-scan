@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3256</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区域广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
+| 广告解决方案客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
+| 英国广告解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19804/head-of-uk-ad-solutions/) |
+| EMEA广告解决方案代理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19806/head-of-agency-emea-ad-solutions/) |
 | 前端开发（合规）Front-end development (compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19800/front-end-development-compliance/) |
 | 亚太地区入职协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19801/onboarding-coordinator-apac/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
@@ -38,11 +42,6 @@
 | 衍生品交易报告高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
 | 客户体验运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
-| 东南亚外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19792/external-affairs-southeast-asia/) |
-| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
-| Security Research Engineer 安全研发工程师（安全网关） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| Network IT Engineer 网络IT工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
-| 安全工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19790/engineering-manager-security/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

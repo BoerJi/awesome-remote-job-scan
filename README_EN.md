@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regional Client Partner, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
+| Customer Success Manager, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
+| Head of UK, Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19804/head-of-uk-ad-solutions/) |
+| Head of Agency, EMEA - Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19806/head-of-agency-emea-ad-solutions/) |
 | 前端开发（合规）Front-end development (compliance) | Remote | [View →](https://www.remotejobscan.com/job/19800/front-end-development-compliance/) |
 | Onboarding Coordinator - APAC | Hybrid | [View →](https://www.remotejobscan.com/job/19801/onboarding-coordinator-apac/) |
 | Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
@@ -37,11 +41,6 @@
 | Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
 | CX Ops Specialist | On-site | [View →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
-| External Affairs, Southeast Asia | On-site | [View →](https://www.remotejobscan.com/job/19792/external-affairs-southeast-asia/) |
-| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
-| Security Research Engineer 安全研发工程师（安全网关） | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| Network IT Engineer 网络IT工程师 | Remote | [View →](https://www.remotejobscan.com/job/19785/network-it-engineer-it/) |
-| Engineering Manager, Security | Hybrid | [View →](https://www.remotejobscan.com/job/19790/engineering-manager-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
