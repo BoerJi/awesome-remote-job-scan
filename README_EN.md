@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/19820/senior-accountant/) |
+| Partner Marketing Lead, APAC | On-site | [View →](https://www.remotejobscan.com/job/19817/partner-marketing-lead-apac/) |
+| Presentation Designer | Hybrid | [View →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
+| Senior Brand Designer | Hybrid | [View →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
+| Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
+| Engineering Manager - Next.js | Hybrid | [View →](https://www.remotejobscan.com/job/19819/engineering-manager-nextjs/) |
+| Staff Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
+| Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | Strategic Delivery Lead, National Security | Hybrid | [View →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
 | Technical Operations Analyst, User Safety & Risk Operations | Hybrid | [View →](https://www.remotejobscan.com/job/19814/technical-operations-analyst-user-safety-risk-operations/) |
@@ -35,13 +43,6 @@
 | Senior Executive Assistant - CEO Office | On-site | [View →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | Regional Client Partner, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
 | Customer Success Manager, Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
-| Head of UK, Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19804/head-of-uk-ad-solutions/) |
-| Head of Agency, EMEA - Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19806/head-of-agency-emea-ad-solutions/) |
-| 前端开发（合规）Front-end development (compliance) | Remote | [View →](https://www.remotejobscan.com/job/19800/front-end-development-compliance/) |
-| Onboarding Coordinator - APAC | Hybrid | [View →](https://www.remotejobscan.com/job/19801/onboarding-coordinator-apac/) |
-| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | Remote | [View →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
-| Senior/Staff Software Engineer, Trading Services | On-site | [View →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
-| Senior Staff Software Engineer, Trading Service (Retail Trading) | On-site | [View →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

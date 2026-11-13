@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3254</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19820/senior-accountant/) |
+| 亚太区合作伙伴市场负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19817/partner-marketing-lead-apac/) |
+| 演示设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11854/presentation-designer/) |
+| 高级品牌设计师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/12884/senior-brand-designer/) |
+| Staff+ 软件工程师，Claude Design | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
+| Next.js 工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19819/engineering-manager-nextjs/) |
+| TRUST网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
+| 存储产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | 客户营销主管，初创企业项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | 国家安全战略交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19813/strategic-delivery-lead-national-security/) |
 | 技术运营分析师，用户安全与风险运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19814/technical-operations-analyst-user-safety-risk-operations/) |
@@ -35,13 +43,6 @@
 | 高级行政助理 - CEO办公室 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19000/senior-executive-assistant-ceo-office/) |
 | 区域广告解决方案客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19802/regional-client-partner-ads-solutions/) |
 | 广告解决方案客户成功经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19805/customer-success-manager-ads-solutions/) |
-| 英国广告解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19804/head-of-uk-ad-solutions/) |
-| EMEA广告解决方案代理负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19806/head-of-agency-emea-ad-solutions/) |
-| 前端开发（合规）Front-end development (compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19800/front-end-development-compliance/) |
-| 亚太地区入职协调员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19801/onboarding-coordinator-apac/) |
-| Senior AI Application Development Engineer/Agent Architect 高级 AI 应用开发工程师/Agent 架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19799/senior-ai-application-development-engineeragent-architect-ai-agent/) |
-| 高级/资深软件工程师，交易服务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17032/seniorstaff-software-engineer-trading-services/) |
-| 高级软件开发工程师，交易服务（零售交易） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12213/senior-staff-software-engineer-trading-service-retail-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
