@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品经理I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
+| 产品经理 I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i/) |
+| 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
+| 衍生品交易报告高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | 合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
 | 客户体验运营专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
 | 东南亚外部事务 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19792/external-affairs-southeast-asia/) |
@@ -35,12 +39,10 @@
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Frontend Developer of DEX DEX资深前端开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19788/senior-frontend-developer-of-dex-dex/) |
 | DEX Trading System Expert DEX交易系统专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19783/dex-trading-system-expert-dex/) |
-| 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 高级应付账款经理 - 付款 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
 | 美国政府事务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
 | 商业激活主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
 | 高级增长经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
-| 技术团队成员（网站可靠性工程师，爬虫） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19779/member-of-technical-staff-site-reliability-engineer-crawler/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager I | Remote | [View →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
+| 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
+| Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/19794/compliance-analyst-financial-crime-compliance-qa/) |
 | CX Ops Specialist | On-site | [View →](https://www.remotejobscan.com/job/19793/cx-ops-specialist/) |
 | External Affairs, Southeast Asia | On-site | [View →](https://www.remotejobscan.com/job/19792/external-affairs-southeast-asia/) |
@@ -35,12 +38,10 @@
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Frontend Developer of DEX DEX资深前端开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19788/senior-frontend-developer-of-dex-dex/) |
 | DEX Trading System Expert DEX交易系统专家 | Remote | [View →](https://www.remotejobscan.com/job/19783/dex-trading-system-expert-dex/) |
-| 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Senior Manager, Accounts Payable - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
 | U.S. Government Affairs, Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
 | Commercial Activation Lead | On-site | [View →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
 | Senior Manager, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
-| Member of Technical Staff (Site Reliability Engineer, Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19779/member-of-technical-staff-site-reliability-engineer-crawler/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
