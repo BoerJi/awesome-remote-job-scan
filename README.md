@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3248</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SEA & ANZ 战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | 产品经理I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
 | 产品经理 I | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19796/product-manager-i/) |
 | 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
@@ -42,7 +43,6 @@
 | 高级应付账款经理 - 付款 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
 | 美国政府事务高级经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
 | 商业激活主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
-| 高级增长经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-13 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

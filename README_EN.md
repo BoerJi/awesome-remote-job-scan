@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3248</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategy & Operations Lead — SEA & ANZ | Hybrid | [View →](https://www.remotejobscan.com/job/18204/strategy-operations-lead-sea-anz/) |
 | Product Manager I | Remote | [View →](https://www.remotejobscan.com/job/19797/product-manager-i/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
@@ -41,7 +42,6 @@
 | Senior Manager, Accounts Payable - Payments | Hybrid | [View →](https://www.remotejobscan.com/job/19782/senior-manager-accounts-payable-payments/) |
 | U.S. Government Affairs, Senior Manager | On-site | [View →](https://www.remotejobscan.com/job/19780/us-government-affairs-senior-manager/) |
 | Commercial Activation Lead | On-site | [View →](https://www.remotejobscan.com/job/19781/commercial-activation-lead/) |
-| Senior Manager, Growth | Hybrid | [View →](https://www.remotejobscan.com/job/19778/senior-manager-growth/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-13 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
