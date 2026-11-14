@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3262</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
+| ANZ行业企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19847/manager-enterprise-sales-industries-anz/) |
+| 企业销售经理，医疗保健与生命科学 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
 | Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 | HR业务合作伙伴，GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
 | 技术成功负责人、人力资源业务合作伙伴—市场导向 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
@@ -40,9 +43,6 @@
 | GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
 | 奥斯汀客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19837/account-associate-austin/) |
 | 纽约市客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19836/account-associate-nyc/) |
-| 生命科学领域CMC与制造主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19833/cmc-manufacturing-lead-life-sciences/) |
-| GTM策略与运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19838/gtm-strategy-operations-generalist/) |
-| 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
