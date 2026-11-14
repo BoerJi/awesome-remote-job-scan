@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 智能基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
+| 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
@@ -41,8 +43,6 @@
 | 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | 全栈软件工程师，消费者健康 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19832/full-stack-software-engineer-consumer-health/) |
 | 全栈软件工程师，ChatGPT金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
-| 医疗保健企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
-| 绩效与赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

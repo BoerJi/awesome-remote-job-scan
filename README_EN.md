@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
+| Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
@@ -41,8 +43,6 @@
 | Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 | Full Stack Software Engineer, Consumer Health | Hybrid | [View →](https://www.remotejobscan.com/job/19832/full-stack-software-engineer-consumer-health/) |
 | Full Stack Software Engineer, ChatGPT Finances | Hybrid | [View →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
-| Enterprise Sales Manager, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
-| Program Lead, Performance & Enablement | On-site | [View →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
