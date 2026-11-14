@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Corporate Counsel, Public Reporting | On-site | [View →](https://www.remotejobscan.com/job/19849/corporate-counsel-public-reporting/) |
 | Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | Manager, Enterprise Sales - Industries, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19847/manager-enterprise-sales-industries-anz/) |
 | Enterprise Sales Manager, Healthcare & Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
@@ -42,7 +43,6 @@
 | Technical Program Manager, Life Sciences Research (Genetic Medicine) | On-site | [View →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
 | GTM Narrative Lead | On-site | [View →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
 | Account Associate - Austin | Hybrid | [View →](https://www.remotejobscan.com/job/19837/account-associate-austin/) |
-| Account Associate - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/19836/account-associate-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

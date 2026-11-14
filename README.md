@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业法律顾问，公共报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19849/corporate-counsel-public-reporting/) |
 | 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | ANZ行业企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19847/manager-enterprise-sales-industries-anz/) |
 | 企业销售经理，医疗保健与生命科学 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
@@ -42,7 +43,6 @@
 | 生命科学研究员技术项目经理（遗传医学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
 | GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
 | 奥斯汀客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19837/account-associate-austin/) |
-| 纽约市客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19836/account-associate-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
