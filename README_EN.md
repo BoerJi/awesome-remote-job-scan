@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 | HR Business Partner, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
 | Head of Technical Success, HR Business Partner – Go-to-Market | On-site | [View →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
 | Certification Architect | Hybrid | [View →](https://www.remotejobscan.com/job/19846/certification-architect/) |
@@ -42,7 +43,6 @@
 | CMC & Manufacturing Lead, Life Sciences | Remote | [View →](https://www.remotejobscan.com/job/19833/cmc-manufacturing-lead-life-sciences/) |
 | GTM Strategy & Operations, Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/19838/gtm-strategy-operations-generalist/) |
 | Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
-| Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
