@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied Scientist, Product Policy Research & Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
+| Regional Vice President, Commercial - Northern Europe | On-site | [View →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
+| Regional Vice President, Commercial - Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
+| Regional Vice President, Sales Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/19853/regional-vice-president-sales-benelux-nordics/) |
+| Regional Vice President, Sales DACH | Remote | [View →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
 | Data Foundations, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-foundations-gtm-systems/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | Corporate Counsel, Public Reporting | On-site | [View →](https://www.remotejobscan.com/job/19849/corporate-counsel-public-reporting/) |
@@ -38,11 +43,6 @@
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| Senior Product Manager (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/19843/senior-product-manager-prediction-markets/) |
-| VP, Compliance (Global Financial Intelligence Unit) | Hybrid | [View →](https://www.remotejobscan.com/job/19841/vp-compliance-global-financial-intelligence-unit/) |
-| Lead Product Designer | On-site | [View →](https://www.remotejobscan.com/job/19840/lead-product-designer/) |
-| Head of Internal Communications | Remote | [View →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
-| Technical Program Manager, Life Sciences Research (Genetic Medicine) | On-site | [View →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

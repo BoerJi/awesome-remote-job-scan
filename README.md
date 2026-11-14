@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品政策研究与衡量应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
+| 大区商业副总裁 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
+| 南欧区商业副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
+| 区域副总裁，Benelux与北欧销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19853/regional-vice-president-sales-benelux-nordics/) |
+| 大中华区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
 | 数据基础，市场推广系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19135/data-foundations-gtm-systems/) |
 | 并购公司律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | 企业法律顾问，公共报告 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19849/corporate-counsel-public-reporting/) |
@@ -38,11 +43,6 @@
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
-| 高级产品经理（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19843/senior-product-manager-prediction-markets/) |
-| 全球金融情报单位合规副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19841/vp-compliance-global-financial-intelligence-unit/) |
-| 首席产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19840/lead-product-designer/) |
-| 内部沟通负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
-| 生命科学研究员技术项目经理（遗传医学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
