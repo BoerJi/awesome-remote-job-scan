@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
+| Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
+| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| Senior Product Manager (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/19843/senior-product-manager-prediction-markets/) |
+| Head of Technical Success, HR Business Partner – Go-to-Market | On-site | [View →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
+| VP, Compliance (Global Financial Intelligence Unit) | Hybrid | [View →](https://www.remotejobscan.com/job/19841/vp-compliance-global-financial-intelligence-unit/) |
+| Lead Product Designer | On-site | [View →](https://www.remotejobscan.com/job/19840/lead-product-designer/) |
 | Head of Internal Communications | Remote | [View →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
 | Technical Program Manager, Life Sciences Research (Genetic Medicine) | On-site | [View →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
 | GTM Narrative Lead | On-site | [View →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
@@ -36,13 +43,6 @@
 | Full Stack Software Engineer, ChatGPT Finances | Hybrid | [View →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
 | Enterprise Sales Manager, Healthcare | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
 | Program Lead, Performance & Enablement | On-site | [View →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
-| Field Marketer - Southern Europe (Freelance) | Remote | [View →](https://www.remotejobscan.com/job/19828/field-marketer-southern-europe-freelance/) |
-| Director of Technical Accounting | On-site | [View →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
-| Sales Development Manager, Enterprise (AMER) | On-site | [View →](https://www.remotejobscan.com/job/19826/sales-development-manager-enterprise-amer/) |
-| Sales Enablement Trainer, Claude Products | On-site | [View →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
-| GTM Programs Manager, GTM Initiatives | Remote | [View →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
-| Enterprise B2B Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/19825/enterprise-b2b-communications-manager/) |
-| Application Security Engineer - Agents platform | Remote | [View →](https://www.remotejobscan.com/job/19824/application-security-engineer-agents-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

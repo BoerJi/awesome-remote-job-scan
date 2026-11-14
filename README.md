@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3262</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
+| 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
+| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
+| 高级产品经理（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19843/senior-product-manager-prediction-markets/) |
+| 技术成功负责人、人力资源业务合作伙伴—市场进入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
+| 全球金融情报单位合规副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19841/vp-compliance-global-financial-intelligence-unit/) |
+| 首席产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19840/lead-product-designer/) |
 | 内部沟通负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
 | 生命科学研究员技术项目经理（遗传医学） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19835/technical-program-manager-life-sciences-research-genetic-medicine/) |
 | GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
@@ -36,13 +43,6 @@
 | 全栈软件工程师，ChatGPT金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
 | 医疗保健企业销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare/) |
 | 绩效与赋能项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19827/program-lead-performance-enablement/) |
-| 南方欧洲现场营销员（自由职业） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19828/field-marketer-southern-europe-freelance/) |
-| 技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13212/director-of-technical-accounting/) |
-| 企业销售发展经理（美洲区） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19826/sales-development-manager-enterprise-amer/) |
-| Claude产品销售赋能培训师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16853/sales-enablement-trainer-claude-products/) |
-| GTM项目经理，GTM计划 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19823/gtm-programs-manager-gtm-initiatives/) |
-| 企业B2B通讯经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19825/enterprise-b2b-communications-manager/) |
-| 应用安全工程师 - 代理平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19824/application-security-engineer-agents-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
