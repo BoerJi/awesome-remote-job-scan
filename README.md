@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3262</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| HR业务合作伙伴，GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
+| 技术成功负责人、人力资源业务合作伙伴—市场导向 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
+| 认证架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19846/certification-architect/) |
 | 智能基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | 高级产品经理（预测市场） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19843/senior-product-manager-prediction-markets/) |
-| 技术成功负责人、人力资源业务合作伙伴—市场进入 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
 | 全球金融情报单位合规副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19841/vp-compliance-global-financial-intelligence-unit/) |
 | 首席产品设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19840/lead-product-designer/) |
 | 内部沟通负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
@@ -41,8 +43,6 @@
 | GTM策略与运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19838/gtm-strategy-operations-generalist/) |
 | 高级内部沟通经理，人力资源 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
 | 集团产品经理，开发者基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| 全栈软件工程师，消费者健康 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19832/full-stack-software-engineer-consumer-health/) |
-| 全栈软件工程师，ChatGPT金融 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

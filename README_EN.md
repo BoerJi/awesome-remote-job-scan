@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,13 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| HR Business Partner, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
+| Head of Technical Success, HR Business Partner – Go-to-Market | On-site | [View →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
+| Certification Architect | Hybrid | [View →](https://www.remotejobscan.com/job/19846/certification-architect/) |
 | Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
 | Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
 | Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 | Senior Product Manager (Prediction Markets) | Remote | [View →](https://www.remotejobscan.com/job/19843/senior-product-manager-prediction-markets/) |
-| Head of Technical Success, HR Business Partner – Go-to-Market | On-site | [View →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
 | VP, Compliance (Global Financial Intelligence Unit) | Hybrid | [View →](https://www.remotejobscan.com/job/19841/vp-compliance-global-financial-intelligence-unit/) |
 | Lead Product Designer | On-site | [View →](https://www.remotejobscan.com/job/19840/lead-product-designer/) |
 | Head of Internal Communications | Remote | [View →](https://www.remotejobscan.com/job/19839/head-of-internal-communications/) |
@@ -41,8 +43,6 @@
 | GTM Strategy & Operations, Generalist | Hybrid | [View →](https://www.remotejobscan.com/job/19838/gtm-strategy-operations-generalist/) |
 | Senior Internal Communications Manager, People | Remote | [View →](https://www.remotejobscan.com/job/14790/senior-internal-communications-manager-people/) |
 | Group Product Manager, Developer Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/9215/group-product-manager-developer-infrastructure/) |
-| Full Stack Software Engineer, Consumer Health | Hybrid | [View →](https://www.remotejobscan.com/job/19832/full-stack-software-engineer-consumer-health/) |
-| Full Stack Software Engineer, ChatGPT Finances | Hybrid | [View →](https://www.remotejobscan.com/job/19830/full-stack-software-engineer-chatgpt-finances/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
