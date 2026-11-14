@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计费平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
 | 产品政策研究与衡量应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
 | 大区商业副总裁 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
 | 南欧区商业副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
@@ -42,7 +43,6 @@
 | 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | 产品顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18763/product-counsel/) |
-| 软件工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-14 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

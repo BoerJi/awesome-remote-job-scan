@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3269</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
 | Applied Scientist, Product Policy Research & Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
 | Regional Vice President, Commercial - Northern Europe | On-site | [View →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
 | Regional Vice President, Commercial - Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
@@ -42,7 +43,6 @@
 | Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | Product Counsel | On-site | [View →](https://www.remotejobscan.com/job/18763/product-counsel/) |
-| Software Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/18612/software-engineer-intern/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-14 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
