@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,7 +31,6 @@
 | 区域副总裁，Benelux与北欧销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19853/regional-vice-president-sales-benelux-nordics/) |
 | 大中华区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
 | 数据基础，市场推广系统 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19135/data-foundations-gtm-systems/) |
-| 并购公司律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 14:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 15:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
