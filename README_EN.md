@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,7 +32,6 @@
 | Regional Vice President, Sales DACH | Remote | [View →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
 | Data Foundations, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-foundations-gtm-systems/) |
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
-| Corporate Counsel, Public Reporting | On-site | [View →](https://www.remotejobscan.com/job/19849/corporate-counsel-public-reporting/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
