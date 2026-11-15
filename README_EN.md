@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（8 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,7 +30,6 @@
 | Regional Vice President, Commercial - Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
 | Regional Vice President, Sales Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/19853/regional-vice-president-sales-benelux-nordics/) |
 | Regional Vice President, Sales DACH | Remote | [View →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
-| Data Foundations, GTM Systems | On-site | [View →](https://www.remotejobscan.com/job/19135/data-foundations-gtm-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
