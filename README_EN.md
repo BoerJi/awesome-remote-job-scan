@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（1 featured jobs）
+## 🆕 Latest Updates（2 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
@@ -88,6 +89,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
