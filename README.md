@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（18 个精选职位）
+## 🆕 今日更新（16 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -39,8 +39,6 @@
 | HR业务合作伙伴，GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
 | 技术成功负责人、人力资源业务合作伙伴—市场导向 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
 | 认证架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19846/certification-architect/) |
-| 智能基础设施软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
-| 增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

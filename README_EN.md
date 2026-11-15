@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3269</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（18 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,8 +39,6 @@
 | HR Business Partner, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
 | Head of Technical Success, HR Business Partner – Go-to-Market | On-site | [View →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
 | Certification Architect | Hybrid | [View →](https://www.remotejobscan.com/job/19846/certification-architect/) |
-| Software Engineer, Agentic Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/19485/software-engineer-agentic-infrastructure/) |
-| Growth Product Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19844/growth-product-marketing-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
