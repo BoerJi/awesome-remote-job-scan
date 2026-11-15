@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | 计费平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
 | 产品政策研究与衡量应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
 | 大区商业副总裁 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
@@ -36,7 +37,6 @@
 | ANZ行业企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19847/manager-enterprise-sales-industries-anz/) |
 | 企业销售经理，医疗保健与生命科学 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
 | Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
-| HR业务合作伙伴，GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
