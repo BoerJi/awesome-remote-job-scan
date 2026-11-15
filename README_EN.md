@@ -19,12 +19,11 @@
 
 ---
 
-## 🆕 Latest Updates（2 featured jobs）
+## 🆕 Latest Updates（1 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| Engineering Manager, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -89,6 +88,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
