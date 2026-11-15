@@ -14,22 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（7 个精选职位）
+## 🆕 今日更新（3 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 技术团队成员 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | 计费平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
 | 产品政策研究与衡量应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
-| 大区商业副总裁 - 北欧 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
-| 南欧区商业副总裁 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
-| 区域副总裁，Benelux与北欧销售 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19853/regional-vice-president-sales-benelux-nordics/) |
-| 大中华区销售副总裁 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +90,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

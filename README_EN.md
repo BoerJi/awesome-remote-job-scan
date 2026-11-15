@@ -14,22 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（3 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | Engineering Manager, Billing Platform | On-site | [View →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
 | Applied Scientist, Product Policy Research & Measurement | Hybrid | [View →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
-| Regional Vice President, Commercial - Northern Europe | On-site | [View →](https://www.remotejobscan.com/job/19852/regional-vice-president-commercial-northern-europe/) |
-| Regional Vice President, Commercial - Southern Europe | On-site | [View →](https://www.remotejobscan.com/job/19850/regional-vice-president-commercial-southern-europe/) |
-| Regional Vice President, Sales Benelux & Nordics | On-site | [View →](https://www.remotejobscan.com/job/19853/regional-vice-president-sales-benelux-nordics/) |
-| Regional Vice President, Sales DACH | Remote | [View →](https://www.remotejobscan.com/job/19851/regional-vice-president-sales-dach/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +90,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
