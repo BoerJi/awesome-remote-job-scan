@@ -19,13 +19,12 @@
 
 ---
 
-## 🆕 今日更新（3 个精选职位）
+## 🆕 今日更新（2 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
 | 技术团队成员 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | 计费平台工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19855/engineering-manager-billing-platform/) |
-| 产品政策研究与衡量应用科学家 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19854/applied-scientist-product-policy-research-measurement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -90,6 +89,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 16:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 17:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
