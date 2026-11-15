@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -34,8 +34,6 @@
 | Corporate Counsel, M&A | On-site | [View →](https://www.remotejobscan.com/job/14693/corporate-counsel-ma/) |
 | Corporate Counsel, Public Reporting | On-site | [View →](https://www.remotejobscan.com/job/19849/corporate-counsel-public-reporting/) |
 | Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
-| Manager, Enterprise Sales - Industries, ANZ | On-site | [View →](https://www.remotejobscan.com/job/19847/manager-enterprise-sales-industries-anz/) |
-| Enterprise Sales Manager, Healthcare & Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
