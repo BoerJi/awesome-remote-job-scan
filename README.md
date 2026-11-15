@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -37,8 +37,6 @@
 | 企业销售经理，医疗保健与生命科学 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
 | Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 | HR业务合作伙伴，GTM | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
-| 技术成功负责人、人力资源业务合作伙伴—市场导向 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
-| 认证架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19846/certification-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 01:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 02:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

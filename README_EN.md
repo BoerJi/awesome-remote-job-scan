@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,8 +37,6 @@
 | Enterprise Sales Manager, Healthcare & Life Sciences | Hybrid | [View →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
 | Staff+ Software Engineer, Claude Design | On-site | [View →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 | HR Business Partner, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19845/hr-business-partner-gtm/) |
-| Head of Technical Success, HR Business Partner – Go-to-Market | On-site | [View →](https://www.remotejobscan.com/job/19842/head-of-technical-success-hr-business-partner-go-to-market/) |
-| Certification Architect | Hybrid | [View →](https://www.remotejobscan.com/job/19846/certification-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 01:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-15 02:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
