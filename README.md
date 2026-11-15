@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（14 个精选职位）
+## 🆕 今日更新（13 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -36,7 +36,6 @@
 | 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | ANZ行业企业销售经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19847/manager-enterprise-sales-industries-anz/) |
 | 企业销售经理，医疗保健与生命科学 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19829/enterprise-sales-manager-healthcare-life-sciences/) |
-| Staff+ 软件工程师，Claude 设计 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19591/staff-software-engineer-claude-design/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 02:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-15 03:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
