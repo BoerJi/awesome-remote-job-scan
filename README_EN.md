@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | Full Stack Software Engineer, Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19858/full-stack-software-engineer-travel/) |
 | Data Center Strategic Sourcing Lead - Construction | On-site | [View →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
 | Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
-| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -92,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
