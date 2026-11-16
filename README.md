@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3258</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（5 个精选职位）
+## 🆕 今日更新（6 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Earn Product Manager 理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | 硬件平台安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Staff+ 软件工程师，STEM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | 全栈软件工程师，旅游 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19858/full-stack-software-engineer-travel/) |
@@ -92,6 +93,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

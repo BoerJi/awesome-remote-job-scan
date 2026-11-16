@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（5 featured jobs）
+## 🆕 Latest Updates（6 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | Full Stack Software Engineer, Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19858/full-stack-software-engineer-travel/) |
@@ -92,6 +93,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
