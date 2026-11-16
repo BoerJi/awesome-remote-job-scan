@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
+| Product Director - Finance / Governance Risk Compliance Domain | On-site | [View →](https://www.remotejobscan.com/job/19864/product-director-finance-governance-risk-compliance-domain/) |
+| Senior/Staff Engineer, Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19865/seniorstaff-engineer-core-infrastructure/) |
 | Senior Growth Product Manager, Global Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/19863/senior-growth-product-manager-global-onshore-markets/) |
 | Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
@@ -40,9 +43,6 @@
 | Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
-| Full Stack Software Engineer, Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19858/full-stack-software-engineer-travel/) |
-| Data Center Strategic Sourcing Lead - Construction | On-site | [View →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
-| Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

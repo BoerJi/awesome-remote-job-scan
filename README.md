@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3258</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
+| 产品总监 - 金融/治理风险合规领域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19864/product-director-finance-governance-risk-compliance-domain/) |
+| 高级/资深工程师，核心基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19865/seniorstaff-engineer-core-infrastructure/) |
 | 高级增长产品经理，全球陆地区域市场 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19863/senior-growth-product-manager-global-onshore-markets/) |
 | 上市运营专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 | 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
@@ -40,9 +43,6 @@
 | Earn Product Manager 理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | 硬件平台安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 | Staff+ 软件工程师，STEM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
-| 全栈软件工程师，旅游 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19858/full-stack-software-engineer-travel/) |
-| 数据中心战略采购负责人-建设 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
-| 风险与保险专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
