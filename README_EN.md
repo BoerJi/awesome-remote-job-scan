@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Technical Operations Analyst, Automation & Evaluations | On-site | [View →](https://www.remotejobscan.com/job/19896/technical-operations-analyst-automation-evaluations/) |
+| Senior Strategic Sourcing Manager - Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19894/senior-strategic-sourcing-manager-engineering/) |
+| Senior Digital Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/19895/senior-digital-marketing-manager/) |
+| VP, Compliance (Global Financial Intelligence Unit) | Hybrid | [View →](https://www.remotejobscan.com/job/19893/vp-compliance-global-financial-intelligence-unit/) |
 | Data Engineering Manager, Devices | On-site | [View →](https://www.remotejobscan.com/job/19890/data-engineering-manager-devices/) |
 | Senior Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
 | Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
@@ -38,10 +42,6 @@
 | Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
 | Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
-| Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
-| Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| Applied AI Engineer - Startups | On-site | [View →](https://www.remotejobscan.com/job/19882/applied-ai-engineer-startups/) |
-| Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

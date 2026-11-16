@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 自动化与评估技术运营分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19896/technical-operations-analyst-automation-evaluations/) |
+| 高级战略采购经理 - 工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19894/senior-strategic-sourcing-manager-engineering/) |
+| 高级数字营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19895/senior-digital-marketing-manager/) |
+| 合规副总裁（全球金融情报单位） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19893/vp-compliance-global-financial-intelligence-unit/) |
 | 设备数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19890/data-engineering-manager-devices/) |
 | 高级商业法律顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
 | 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
@@ -38,10 +42,6 @@
 | 企业软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
 | 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Aave App Vaults 资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
-| 欧洲、中东、非洲区高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
-| 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
-| 应用AI工程师 - 初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19882/applied-ai-engineer-startups/) |
-| 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
