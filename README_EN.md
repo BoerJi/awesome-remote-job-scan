@@ -19,10 +19,18 @@
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Earn Growth & Operations Manager 高级理财增长与运营经理 | Remote | [View →](https://www.remotejobscan.com/job/19862/senior-earn-growth-operations-manager/) |
+| Senior Development Engineer 高级开发工程师-合规交易监控方向 | Remote | [View →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
+| DBA Platform Developer DBA 平台开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
+| Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | Remote | [View →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
+| Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | Remote | [View →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
+| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
+| Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/19860/recruiter/) |
+| Business Development Manager (OC) | Remote | [View →](https://www.remotejobscan.com/job/15364/business-development-manager-oc/) |
 | Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
@@ -94,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

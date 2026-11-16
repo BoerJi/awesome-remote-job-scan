@@ -19,10 +19,18 @@
 
 ---
 
-## 🆕 今日更新（7 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Earn Growth & Operations Manager 高级理财增长与运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19862/senior-earn-growth-operations-manager/) |
+| Senior Development Engineer 高级开发工程师-合规交易监控方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
+| DBA Platform Developer DBA 平台开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
+| Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
+| Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
+| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
+| 招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19860/recruiter/) |
+| 业务发展经理（奥克兰） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15364/business-development-manager-oc/) |
 | 衍生品交易报告高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | Earn Product Manager 理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | 硬件平台安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
@@ -94,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
