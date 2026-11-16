@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3256</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer II - React Native - Consumer Growth | Remote | [View →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
+| B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19871/b2b-marketing-india/) |
 | Member of Technical Staff (Enterprise Security Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/19870/member-of-technical-staff-enterprise-security-engineer/) |
 | Staff Software Engineer, Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19869/staff-software-engineer-data-infrastructure/) |
 | Member of Technical Staff (Cybersecurity Solutions Architect) | Hybrid | [View →](https://www.remotejobscan.com/job/19868/member-of-technical-staff-cybersecurity-solutions-architect/) |
@@ -41,8 +43,6 @@
 | DBA Platform Developer DBA 平台开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
 | Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | Remote | [View →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
 | Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | Remote | [View →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
-| Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/19860/recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

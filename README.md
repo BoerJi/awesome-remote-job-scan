@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3256</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师II - React Native - 消费者增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
+| B2B营销 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19871/b2b-marketing-india/) |
 | 技术团队成员（企业安全工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19870/member-of-technical-staff-enterprise-security-engineer/) |
 | 数据基础设施高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19869/staff-software-engineer-data-infrastructure/) |
 | 技术专家（网络安全解决方案架构师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19868/member-of-technical-staff-cybersecurity-solutions-architect/) |
@@ -41,8 +43,6 @@
 | DBA Platform Developer DBA 平台开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
 | Blockchain Engineer (Asset Custody Direction) 区块链工程师（资产托管方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19717/blockchain-engineer-asset-custody-direction/) |
 | Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
-| 招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19860/recruiter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
