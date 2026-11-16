@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3251</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive - Enterprise - Media and Entertainment | Remote | [View →](https://www.remotejobscan.com/job/19874/account-executive-enterprise-media-and-entertainment/) |
+| Head of Research | On-site | [View →](https://www.remotejobscan.com/job/19873/head-of-research/) |
 | Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Software Engineer II - React Native - Consumer Growth | Remote | [View →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
@@ -41,8 +43,6 @@
 | Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Senior Earn Growth & Operations Manager 高级理财增长与运营经理 | Remote | [View →](https://www.remotejobscan.com/job/19862/senior-earn-growth-operations-manager/) |
-| Senior Development Engineer 高级开发工程师-合规交易监控方向 | Remote | [View →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
-| DBA Platform Developer DBA 平台开发工程师 | Remote | [View →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

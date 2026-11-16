@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3251</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 - 媒体与娱乐 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19874/account-executive-enterprise-media-and-entertainment/) |
+| 研究主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19873/head-of-research/) |
 | Aave App Vaults 团队高级后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 | 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 软件工程师II - React Native - 消费者增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
@@ -41,8 +43,6 @@
 | Kubernetes团队工程师/高级团队工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
 | DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Senior Earn Growth & Operations Manager 高级理财增长与运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19862/senior-earn-growth-operations-manager/) |
-| Senior Development Engineer 高级开发工程师-合规交易监控方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19719/senior-development-engineer/) |
-| DBA Platform Developer DBA 平台开发工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19718/dba-platform-developer-dba/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
