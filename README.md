@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3252</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
+| 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
+| 企业软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
+| 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
+| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| Aave App Vaults 资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
+| 欧洲、中东、非洲区高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
+| 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
+| 应用AI工程师 - 初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19882/applied-ai-engineer-startups/) |
+| 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
+| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | 欧洲中东地区初创企业客户经理（法语或德语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-or-german-speaker/) |
 | 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
 | 商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
@@ -32,17 +43,6 @@
 | 亚太区主要客户商务拓展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9747/account-executive-majors-apac/) |
 | 合规调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19879/compliance-investigations-associate/) |
 | 波兰客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19877/account-manager-poland/) |
-| 北欧客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19878/account-manager-nordics/) |
-| 高级软件工程师，智能订单路由器 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19876/senior-software-engineer-smart-order-router/) |
-| TRUST网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
-| 企业客户经理 - 媒体与娱乐 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19874/account-executive-enterprise-media-and-entertainment/) |
-| 研究主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19873/head-of-research/) |
-| 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
-| 软件工程师II - React Native - 消费者增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
-| B2B营销 - 印度 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19871/b2b-marketing-india/) |
-| 技术团队成员（企业安全工程师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19870/member-of-technical-staff-enterprise-security-engineer/) |
-| 数据基础设施高级软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19869/staff-software-engineer-data-infrastructure/) |
-| 技术专家（网络安全解决方案架构师） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19868/member-of-technical-staff-cybersecurity-solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3252</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
+| Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
+| Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
+| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
+| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
+| Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
+| Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
+| Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
+| Applied AI Engineer - Startups | On-site | [View →](https://www.remotejobscan.com/job/19882/applied-ai-engineer-startups/) |
+| Account Executive, Majors | Hybrid | [View →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
+| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
 | Account Executive-Startups, EMEA (French or German Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-or-german-speaker/) |
 | Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
 | Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
@@ -32,17 +43,6 @@
 | Account Executive, Majors (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9747/account-executive-majors-apac/) |
 | Compliance Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/19879/compliance-investigations-associate/) |
 | Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19877/account-manager-poland/) |
-| Account Manager - Nordics | Remote | [View →](https://www.remotejobscan.com/job/19878/account-manager-nordics/) |
-| Senior Software Engineer, Smart Order Router | Hybrid | [View →](https://www.remotejobscan.com/job/19876/senior-software-engineer-smart-order-router/) |
-| Senior Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
-| Account Executive - Enterprise - Media and Entertainment | Remote | [View →](https://www.remotejobscan.com/job/19874/account-executive-enterprise-media-and-entertainment/) |
-| Head of Research | On-site | [View →](https://www.remotejobscan.com/job/19873/head-of-research/) |
-| 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
-| Software Engineer II - React Native - Consumer Growth | Remote | [View →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
-| B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19871/b2b-marketing-india/) |
-| Member of Technical Staff (Enterprise Security Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/19870/member-of-technical-staff-enterprise-security-engineer/) |
-| Staff Software Engineer, Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19869/staff-software-engineer-data-infrastructure/) |
-| Member of Technical Staff (Cybersecurity Solutions Architect) | Hybrid | [View →](https://www.remotejobscan.com/job/19868/member-of-technical-staff-cybersecurity-solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
