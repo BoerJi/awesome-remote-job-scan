@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19888/it-coordinator/) |
+| Strategic Sourcing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19139/strategic-sourcing-lead/) |
+| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/19887/senior-software-engineer-core-reliability/) |
+| Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
+| Partner Applied AI Engineer, AWS | On-site | [View →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
 | Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
 | Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
 | Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 | Senior Deal Desk Analyst, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | Senior Deal Desk Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
@@ -38,11 +42,6 @@
 | Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
 | Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
 | Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/19880/communications-generalist/) |
-| Commercial Account Executive, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/9752/commercial-account-executive-greenfield/) |
-| Account Executive, Majors- Install Base (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
-| Account Executive, Majors (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9747/account-executive-majors-apac/) |
-| Compliance Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/19879/compliance-investigations-associate/) |
-| Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19877/account-manager-poland/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

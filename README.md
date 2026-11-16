@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19888/it-coordinator/) |
+| 战略采购负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19139/strategic-sourcing-lead/) |
+| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19887/senior-software-engineer-core-reliability/) |
+| 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
+| AWS合作伙伴应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
 | AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
 | 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | 企业软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
 | 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11873/senior-software-engineer-core-reliability/) |
 | Aave App Vaults 资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 | 欧洲、中东、非洲区高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18117/senior-deal-desk-analyst-emea/) |
 | 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
@@ -38,11 +42,6 @@
 | 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
 | 商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
 | 沟通专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19880/communications-generalist/) |
-| 商业客户经理，Greenfield | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9752/commercial-account-executive-greenfield/) |
-| 大客户销售代表，主要安装基地（亚太区） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
-| 亚太区主要客户商务拓展经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9747/account-executive-majors-apac/) |
-| 合规调查助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19879/compliance-investigations-associate/) |
-| 波兰客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19877/account-manager-poland/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
