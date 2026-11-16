@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 基础设施（数据存储）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19898/staff-software-engineer-infrastructure-datastores/) |
+| 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
+| 英国广告解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19899/head-of-uk-ad-solutions/) |
+| 应用AI架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19897/applied-ai-architect/) |
 | 自动化与评估技术运营分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19896/technical-operations-analyst-automation-evaluations/) |
 | 高级战略采购经理 - 工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19894/senior-strategic-sourcing-manager-engineering/) |
 | 高级数字营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19895/senior-digital-marketing-manager/) |
@@ -39,9 +43,6 @@
 | 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
 | AWS合作伙伴应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
 | AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
-| 企业软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
-| 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| Aave App Vaults 资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

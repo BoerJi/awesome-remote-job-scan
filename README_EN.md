@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, Infrastructure (Datastores) | Remote | [View →](https://www.remotejobscan.com/job/19898/staff-software-engineer-infrastructure-datastores/) |
+| Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
+| Head of UK, Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19899/head-of-uk-ad-solutions/) |
+| Applied AI Architect | Remote | [View →](https://www.remotejobscan.com/job/19897/applied-ai-architect/) |
 | Technical Operations Analyst, Automation & Evaluations | On-site | [View →](https://www.remotejobscan.com/job/19896/technical-operations-analyst-automation-evaluations/) |
 | Senior Strategic Sourcing Manager - Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19894/senior-strategic-sourcing-manager-engineering/) |
 | Senior Digital Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/19895/senior-digital-marketing-manager/) |
@@ -39,9 +43,6 @@
 | Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
 | Partner Applied AI Engineer, AWS | On-site | [View →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
 | Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
-| Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
-| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
