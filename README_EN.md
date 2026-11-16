@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive-Startups, EMEA (French or German Speaker) | Hybrid | [View →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-or-german-speaker/) |
+| Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
+| Commercial Account Executive, Install Base | Hybrid | [View →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
+| Communications Generalist | Remote | [View →](https://www.remotejobscan.com/job/19880/communications-generalist/) |
+| Commercial Account Executive, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/9752/commercial-account-executive-greenfield/) |
+| Account Executive, Majors- Install Base (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9748/account-executive-majors-install-base-apac/) |
+| Account Executive, Majors (APAC) | Hybrid | [View →](https://www.remotejobscan.com/job/9747/account-executive-majors-apac/) |
+| Compliance Investigations Associate | Remote | [View →](https://www.remotejobscan.com/job/19879/compliance-investigations-associate/) |
 | Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19877/account-manager-poland/) |
 | Account Manager - Nordics | Remote | [View →](https://www.remotejobscan.com/job/19878/account-manager-nordics/) |
 | Senior Software Engineer, Smart Order Router | Hybrid | [View →](https://www.remotejobscan.com/job/19876/senior-software-engineer-smart-order-router/) |
 | Senior Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
 | Account Executive - Enterprise - Media and Entertainment | Remote | [View →](https://www.remotejobscan.com/job/19874/account-executive-enterprise-media-and-entertainment/) |
 | Head of Research | On-site | [View →](https://www.remotejobscan.com/job/19873/head-of-research/) |
-| Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Software Engineer II - React Native - Consumer Growth | Remote | [View →](https://www.remotejobscan.com/job/19872/software-engineer-ii-react-native-consumer-growth/) |
 | B2B Marketing - India | On-site | [View →](https://www.remotejobscan.com/job/19871/b2b-marketing-india/) |
 | Member of Technical Staff (Enterprise Security Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/19870/member-of-technical-staff-enterprise-security-engineer/) |
 | Staff Software Engineer, Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19869/staff-software-engineer-data-infrastructure/) |
 | Member of Technical Staff (Cybersecurity Solutions Architect) | Hybrid | [View →](https://www.remotejobscan.com/job/19868/member-of-technical-staff-cybersecurity-solutions-architect/) |
-| Staff / Senior Engineer - Compliance, Account | On-site | [View →](https://www.remotejobscan.com/job/19867/staff-senior-engineer-compliance-account/) |
-| Head of India Policy, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19866/head-of-india-policy-global-affairs/) |
-| Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
-| Product Director - Finance / Governance Risk Compliance Domain | On-site | [View →](https://www.remotejobscan.com/job/19864/product-director-finance-governance-risk-compliance-domain/) |
-| Senior/Staff Engineer, Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19865/seniorstaff-engineer-core-infrastructure/) |
-| Senior Growth Product Manager, Global Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/19863/senior-growth-product-manager-global-onshore-markets/) |
-| Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
