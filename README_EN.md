@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3254</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19877/account-manager-poland/) |
+| Account Manager - Nordics | Remote | [View →](https://www.remotejobscan.com/job/19878/account-manager-nordics/) |
+| Senior Software Engineer, Smart Order Router | Hybrid | [View →](https://www.remotejobscan.com/job/19876/senior-software-engineer-smart-order-router/) |
+| Senior Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
 | Account Executive - Enterprise - Media and Entertainment | Remote | [View →](https://www.remotejobscan.com/job/19874/account-executive-enterprise-media-and-entertainment/) |
 | Head of Research | On-site | [View →](https://www.remotejobscan.com/job/19873/head-of-research/) |
 | Staff Backend Engineer, Aave App Vaults | Remote | [View →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
@@ -39,10 +43,6 @@
 | Senior/Staff Engineer, Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19865/seniorstaff-engineer-core-infrastructure/) |
 | Senior Growth Product Manager, Global Onshore Markets | On-site | [View →](https://www.remotejobscan.com/job/19863/senior-growth-product-manager-global-onshore-markets/) |
 | Listing Operation Specialist | Remote | [View →](https://www.remotejobscan.com/job/14263/listing-operation-specialist/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| Senior Earn Growth & Operations Manager 高级理财增长与运营经理 | Remote | [View →](https://www.remotejobscan.com/job/19862/senior-earn-growth-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
