@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席运营官，首席技术官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
+| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
+| B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
+| GTM招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
+| Aave应用高级增长营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19902/senior-growth-marketing-manager-aave-app/) |
+| AI 监控研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
+| 前沿鲁棒性研究员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19901/researcher-frontier-robustness/) |
+| 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/corporate-accounting-manager/) |
 | 基础设施（数据存储）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19898/staff-software-engineer-infrastructure-datastores/) |
 | 内部沟通经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
 | 英国广告解决方案负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19899/head-of-uk-ad-solutions/) |
@@ -35,14 +43,6 @@
 | 高级商业法律顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
 | 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | 美洲交易运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19892/deal-operations-amer/) |
-| 谷歌云合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19581/partner-director-google-cloud/) |
-| GTM战略与运营 - 战略规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19889/gtm-strategy-operations-strategic-planning/) |
-| IT协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19888/it-coordinator/) |
-| 战略采购负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19139/strategic-sourcing-lead/) |
-| 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19887/senior-software-engineer-core-reliability/) |
-| 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
-| AWS合作伙伴应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
-| AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Chief of Staff, CTO | Remote | [View →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
+| B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
+| B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
+| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
+| Senior Growth Marketing Manager, Aave App | On-site | [View →](https://www.remotejobscan.com/job/19902/senior-growth-marketing-manager-aave-app/) |
+| Research Engineer, AI Monitoring | On-site | [View →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
+| Researcher, Frontier Robustness | Hybrid | [View →](https://www.remotejobscan.com/job/19901/researcher-frontier-robustness/) |
+| Corporate Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/11750/corporate-accounting-manager/) |
 | Staff Software Engineer, Infrastructure (Datastores) | Remote | [View →](https://www.remotejobscan.com/job/19898/staff-software-engineer-infrastructure-datastores/) |
 | Internal Communications Manager | Hybrid | [View →](https://www.remotejobscan.com/job/18591/internal-communications-manager/) |
 | Head of UK, Ad Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/19899/head-of-uk-ad-solutions/) |
@@ -35,14 +43,6 @@
 | Senior Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
 | Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | Deal Operations, AMER | Hybrid | [View →](https://www.remotejobscan.com/job/19892/deal-operations-amer/) |
-| Partner Director, Google Cloud | Hybrid | [View →](https://www.remotejobscan.com/job/19581/partner-director-google-cloud/) |
-| GTM Strategy & Operations - Strategic Planning | On-site | [View →](https://www.remotejobscan.com/job/19889/gtm-strategy-operations-strategic-planning/) |
-| IT Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19888/it-coordinator/) |
-| Strategic Sourcing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19139/strategic-sourcing-lead/) |
-| Senior Software Engineer, Core Reliability | Remote | [View →](https://www.remotejobscan.com/job/19887/senior-software-engineer-core-reliability/) |
-| Deployment Strategist Lead - India | Remote | [View →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
-| Partner Applied AI Engineer, AWS | On-site | [View →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
-| Lead/Manager AI Infra Systems Engineering Team | On-site | [View →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
