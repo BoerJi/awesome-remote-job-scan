@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3257</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (Enterprise Security Engineer) | Hybrid | [View →](https://www.remotejobscan.com/job/19870/member-of-technical-staff-enterprise-security-engineer/) |
+| Staff Software Engineer, Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19869/staff-software-engineer-data-infrastructure/) |
+| Member of Technical Staff (Cybersecurity Solutions Architect) | Hybrid | [View →](https://www.remotejobscan.com/job/19868/member-of-technical-staff-cybersecurity-solutions-architect/) |
+| Staff / Senior Engineer - Compliance, Account | On-site | [View →](https://www.remotejobscan.com/job/19867/staff-senior-engineer-compliance-account/) |
 | Head of India Policy, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19866/head-of-india-policy-global-affairs/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | Product Director - Finance / Governance Risk Compliance Domain | On-site | [View →](https://www.remotejobscan.com/job/19864/product-director-finance-governance-risk-compliance-domain/) |
@@ -39,10 +43,6 @@
 | Software Development Engineer (KYC/KYB) 软件开发工程师(KYC/KYB) | Remote | [View →](https://www.remotejobscan.com/job/19713/software-development-engineer-kyckyb-kyckyb/) |
 | Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
 | Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/19860/recruiter/) |
-| Business Development Manager (OC) | Remote | [View →](https://www.remotejobscan.com/job/15364/business-development-manager-oc/) |
-| Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
-| Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
-| Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
