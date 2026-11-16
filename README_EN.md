@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,10 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Growth Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/19906/senior-growth-manager-brazil/) |
+| Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
+| Tech Lead Manager, Claude Code Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/18923/tech-lead-manager-claude-code-data-scientist/) |
+| Motion Design Producer | Hybrid | [View →](https://www.remotejobscan.com/job/19905/motion-design-producer/) |
+| Performance Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
+| Docs Lead, Platform | On-site | [View →](https://www.remotejobscan.com/job/19904/docs-lead-platform/) |
 | Chief of Staff, CTO | Remote | [View →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 | B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
 | Senior Growth Marketing Manager, Aave App | On-site | [View →](https://www.remotejobscan.com/job/19902/senior-growth-marketing-manager-aave-app/) |
 | Research Engineer, AI Monitoring | On-site | [View →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
 | Researcher, Frontier Robustness | Hybrid | [View →](https://www.remotejobscan.com/job/19901/researcher-frontier-robustness/) |
@@ -38,11 +43,6 @@
 | Technical Operations Analyst, Automation & Evaluations | On-site | [View →](https://www.remotejobscan.com/job/19896/technical-operations-analyst-automation-evaluations/) |
 | Senior Strategic Sourcing Manager - Engineering | Hybrid | [View →](https://www.remotejobscan.com/job/19894/senior-strategic-sourcing-manager-engineering/) |
 | Senior Digital Marketing Manager | On-site | [View →](https://www.remotejobscan.com/job/19895/senior-digital-marketing-manager/) |
-| VP, Compliance (Global Financial Intelligence Unit) | Hybrid | [View →](https://www.remotejobscan.com/job/19893/vp-compliance-global-financial-intelligence-unit/) |
-| Data Engineering Manager, Devices | On-site | [View →](https://www.remotejobscan.com/job/19890/data-engineering-manager-devices/) |
-| Senior Counsel, Commercial (Infrastructure) | Hybrid | [View →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
-| Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
-| Deal Operations, AMER | Hybrid | [View →](https://www.remotejobscan.com/job/19892/deal-operations-amer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

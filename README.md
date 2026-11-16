@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,10 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19906/senior-growth-manager-brazil/) |
+| Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
+| Claude Code数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18923/tech-lead-manager-claude-code-data-scientist/) |
+| 动态设计制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19905/motion-design-producer/) |
+| 绩效营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
+| 平台文档负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19904/docs-lead-platform/) |
 | 首席运营官，首席技术官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
 | B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 | B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| GTM招聘经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
 | Aave应用高级增长营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19902/senior-growth-marketing-manager-aave-app/) |
 | AI 监控研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
 | 前沿鲁棒性研究员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19901/researcher-frontier-robustness/) |
@@ -38,11 +43,6 @@
 | 自动化与评估技术运营分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19896/technical-operations-analyst-automation-evaluations/) |
 | 高级战略采购经理 - 工程 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19894/senior-strategic-sourcing-manager-engineering/) |
 | 高级数字营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19895/senior-digital-marketing-manager/) |
-| 合规副总裁（全球金融情报单位） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19893/vp-compliance-global-financial-intelligence-unit/) |
-| 设备数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19890/data-engineering-manager-devices/) |
-| 高级商业法律顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
-| 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
-| 美洲交易运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19892/deal-operations-amer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
