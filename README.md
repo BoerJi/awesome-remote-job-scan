@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 印度政策主管，全球事务 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19866/head-of-india-policy-global-affairs/) |
 | 高级营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | 产品总监 - 金融/治理风险合规领域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19864/product-director-finance-governance-risk-compliance-domain/) |
 | 高级/资深工程师，核心基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19865/seniorstaff-engineer-core-infrastructure/) |
@@ -42,7 +43,6 @@
 | 衍生品交易报告高级合规经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | Earn Product Manager 理财产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | 硬件平台安全工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
-| Staff+ 软件工程师，STEM | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

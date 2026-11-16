@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of India Policy, Global Affairs | Hybrid | [View →](https://www.remotejobscan.com/job/19866/head-of-india-policy-global-affairs/) |
 | Senior Marketing Manager | Remote | [View →](https://www.remotejobscan.com/job/18547/senior-marketing-manager/) |
 | Product Director - Finance / Governance Risk Compliance Domain | On-site | [View →](https://www.remotejobscan.com/job/19864/product-director-finance-governance-risk-compliance-domain/) |
 | Senior/Staff Engineer, Core Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19865/seniorstaff-engineer-core-infrastructure/) |
@@ -42,7 +43,6 @@
 | Senior Compliance Manager, Derivatives Trade Reporting | Remote | [View →](https://www.remotejobscan.com/job/19795/senior-compliance-manager-derivatives-trade-reporting/) |
 | Earn Product Manager 理财产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19859/earn-product-manager/) |
 | Engineering Manager, Hardware Platform Security | On-site | [View →](https://www.remotejobscan.com/job/14786/engineering-manager-hardware-platform-security/) |
-| Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
