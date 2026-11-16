@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3261</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 设备数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19890/data-engineering-manager-devices/) |
+| 高级商业法律顾问（基础设施） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19891/senior-counsel-commercial-infrastructure/) |
+| 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
+| 美洲交易运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19892/deal-operations-amer/) |
+| 谷歌云合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19581/partner-director-google-cloud/) |
+| GTM战略与运营 - 战略规划 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19889/gtm-strategy-operations-strategic-planning/) |
 | IT协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19888/it-coordinator/) |
 | 战略采购负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19139/strategic-sourcing-lead/) |
 | 核心可靠性高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19887/senior-software-engineer-core-reliability/) |
 | 部署策略主管 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19886/deployment-strategist-lead-india/) |
 | AWS合作伙伴应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19885/partner-applied-ai-engineer-aws/) |
 | AI基础设施系统工程团队领导/经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9838/leadmanager-ai-infra-systems-engineering-team/) |
-| 软件工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | 企业软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/software-engineer-enterprise/) |
 | 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
 | Aave App Vaults 资深后端工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15711/staff-backend-engineer-aave-app-vaults/) |
@@ -37,11 +42,6 @@
 | 高级交易台分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14485/senior-deal-desk-analyst/) |
 | 应用AI工程师 - 初创企业 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19882/applied-ai-engineer-startups/) |
 | 主要客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9746/account-executive-majors/) |
-| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| 欧洲中东地区初创企业客户经理（法语或德语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14365/account-executive-startups-emea-french-or-german-speaker/) |
-| 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
-| 商业客户经理，安装基础 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11545/commercial-account-executive-install-base/) |
-| 沟通专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19880/communications-generalist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-16 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
