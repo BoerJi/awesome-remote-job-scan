@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（4 featured jobs）
+## 🆕 Latest Updates（5 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, STEM | On-site | [View →](https://www.remotejobscan.com/job/19522/staff-software-engineer-stem/) |
 | Full Stack Software Engineer, Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19858/full-stack-software-engineer-travel/) |
 | Data Center Strategic Sourcing Lead - Construction | On-site | [View →](https://www.remotejobscan.com/job/19242/data-center-strategic-sourcing-lead-construction/) |
 | Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
@@ -91,6 +92,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-16 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
