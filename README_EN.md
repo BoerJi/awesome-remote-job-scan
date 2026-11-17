@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Regional Product Manager 区域合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
+| Member of Technical Staff, Search | Remote | [View →](https://www.remotejobscan.com/job/19938/member-of-technical-staff-search/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/19936/senior-finance-transformation-manager/) |
 | Member of Technical Staff (Index Engineer, Search Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19937/member-of-technical-staff-index-engineer-search-crawler/) |
@@ -40,8 +42,6 @@
 | Workplace Operation Manager — New York City | On-site | [View →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
 | Strategic Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/19929/strategic-account-executive-manufacturing/) |
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
-| Software Engineer, Datacenter Server Lifecycle | Remote | [View →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
-| Sales Manager, Global Ads Solutions - Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
