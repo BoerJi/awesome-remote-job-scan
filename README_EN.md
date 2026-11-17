@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Lead HRBP, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
+| HRBP, Tech | Hybrid | [View →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
+| People Operations Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
+| Forward Deployed Engineer (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/19970/forward-deployed-engineer-uk/) |
+| Cyber AI Partner Director, Americas | Remote | [View →](https://www.remotejobscan.com/job/19966/cyber-ai-partner-director-americas/) |
+| GTM Narrative Lead | On-site | [View →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
+| Growth Marketing Manager, B2B SEO & AEO | Hybrid | [View →](https://www.remotejobscan.com/job/19967/growth-marketing-manager-b2b-seo-aeo/) |
+| Marketplace Programs Manager, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
 | Product Manager, Monetization | On-site | [View →](https://www.remotejobscan.com/job/19965/product-manager-monetization/) |
 | Contracts Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
 | Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
@@ -35,14 +43,6 @@
 | Web Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
 | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/19959/full-stack-engineer-backend-leaning-payments-engineering/) |
 | Software Engineer, Presence | On-site | [View →](https://www.remotejobscan.com/job/19957/software-engineer-presence/) |
-| Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/19958/full-stack-engineer-backend-leaning-platform-engineering/) |
-| Director, US International Tax Planning | On-site | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
-| Direct Strategic Sourcing Lead | Remote | [View →](https://www.remotejobscan.com/job/19954/direct-strategic-sourcing-lead/) |
-| Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
-| Staff Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
-| Data Center Asset Management, Commercial Associate | On-site | [View →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
-| Advanced User Education Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19953/advanced-user-education-lead/) |
-| Enterprise Education GTM Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19952/enterprise-education-gtm-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

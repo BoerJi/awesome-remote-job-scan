@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3271</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3275</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM首席人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
+| HRBP, 技术 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
+| 人事运营协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
+| 英国前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19970/forward-deployed-engineer-uk/) |
+| 美洲网络安全AI合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19966/cyber-ai-partner-director-americas/) |
+| GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
+| B2B SEO & AEO增长营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19967/growth-marketing-manager-b2b-seo-aeo/) |
+| B2B合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
 | 产品经理，变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19965/product-manager-monetization/) |
 | 欧洲、中东、非洲地区合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
 | 企业级健康医疗客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
@@ -35,14 +43,6 @@
 | Web策略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
 | 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19959/full-stack-engineer-backend-leaning-payments-engineering/) |
 | Presence软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19957/software-engineer-presence/) |
-| 全栈工程师（后端侧重）- 平台工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19958/full-stack-engineer-backend-leaning-platform-engineering/) |
-| 美国国际税务规划总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
-| 直接战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19954/direct-strategic-sourcing-lead/) |
-| 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
-| 企业级高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
-| 数据中心资产管理，商业专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
-| 高级用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19953/advanced-user-education-lead/) |
-| 企业教育 GTM 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19952/enterprise-education-gtm-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
