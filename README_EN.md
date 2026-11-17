@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence | On-site | [View →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
+| Safeguards Enforcement Analyst, Bio Harms | On-site | [View →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
 | Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
@@ -41,8 +43,6 @@
 | Product Security Engineer, Offensive Security | Remote | [View →](https://www.remotejobscan.com/job/19917/product-security-engineer-offensive-security/) |
 | Enterprise Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/19922/enterprise-account-executive-financial-services/) |
 | Senior Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
-| Enterprise Account Executive, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19921/enterprise-account-executive-legal/) |
-| Builder Education | Hybrid | [View →](https://www.remotejobscan.com/job/19919/builder-education/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

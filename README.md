@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3275</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3276</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全防护政策、执行与威胁情报项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
+| 生物危害防护分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | 专注支持工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
 | 风险与人工智能团队机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
@@ -41,8 +43,6 @@
 | 产品安全工程师，攻击性安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19917/product-security-engineer-offensive-security/) |
 | 金融服务企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19922/enterprise-account-executive-financial-services/) |
 | 高级合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
-| 法律行业企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19921/enterprise-account-executive-legal/) |
-| 构建者教育 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19919/builder-education/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
