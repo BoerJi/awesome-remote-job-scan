@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3270</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3274</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 交易所运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19934/exchange-operations-specialist/) |
+| Post-Listing Operations Manager Post Listing运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19935/post-listing-operations-manager-post-listing/) |
+| 支付产品首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
+| 支付高级产品经理 / 首席产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8897/principal-senior-product-manager-payment/) |
+| 销售赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19933/sales-enablement-lead/) |
 | 安全防护政策、执行与威胁情报项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
 | 生物危害防护分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
@@ -38,11 +43,6 @@
 | 全球广告解决方案-旅游销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
 | 全球广告解决方案 - 技术销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
 | 全球广告解决方案-零售与电商销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19927/sales-manager-global-ads-solutions-retail-e-commerce/) |
-| 全球广告解决方案 - 受监管领域销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19925/sales-manager-global-ads-solutions-regulated-verticals/) |
-| 工作场所项目管理办公室负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
-| 产品安全工程师，攻击性安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19917/product-security-engineer-offensive-security/) |
-| 金融服务企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19922/enterprise-account-executive-financial-services/) |
-| 高级合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
