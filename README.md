@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19936/senior-finance-transformation-manager/) |
+| 技术团队成员（索引工程师，搜索爬虫） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19937/member-of-technical-staff-index-engineer-search-crawler/) |
 | 交易所运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19934/exchange-operations-specialist/) |
 | Post-Listing Operations Manager Post Listing运营专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19935/post-listing-operations-manager-post-listing/) |
 | 支付产品首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
@@ -41,8 +43,6 @@
 | Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | 数据中心服务器生命周期软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
 | 全球广告解决方案-旅游销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
-| 全球广告解决方案 - 技术销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
-| 全球广告解决方案-零售与电商销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19927/sales-manager-global-ads-solutions-retail-e-commerce/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/19936/senior-finance-transformation-manager/) |
+| Member of Technical Staff (Index Engineer, Search Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19937/member-of-technical-staff-index-engineer-search-crawler/) |
 | Exchange Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/19934/exchange-operations-specialist/) |
 | Post-Listing Operations Manager Post Listing运营专家 | Remote | [View →](https://www.remotejobscan.com/job/19935/post-listing-operations-manager-post-listing/) |
 | Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
@@ -40,8 +42,6 @@
 | Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | Software Engineer, Datacenter Server Lifecycle | Remote | [View →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
 | Sales Manager, Global Ads Solutions - Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
-| Sales Manager, Global Ads Solutions - Technology | Hybrid | [View →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
-| Sales Manager, Global Ads Solutions - Retail & E-Commerce | Hybrid | [View →](https://www.remotejobscan.com/job/19927/sales-manager-global-ads-solutions-retail-e-commerce/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
