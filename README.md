@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 直接战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19954/direct-strategic-sourcing-lead/) |
+| 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
+| 企业级高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
+| 数据中心资产管理，商业专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
+| 高级用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19953/advanced-user-education-lead/) |
+| 企业教育 GTM 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19952/enterprise-education-gtm-lead/) |
+| 核心基础设施高级数据库管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19951/senior-database-administrator-core-infrastructure/) |
 | 客户运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-customer-operations/) |
 | 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19950/full-stack-engineer-elevenmusic/) |
 | 全球交通项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
@@ -35,13 +42,6 @@
 | 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
 | 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19940/staff-engineer-machine-learning-data-infrastructure/) |
 | BD Manager, CN | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
-| 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| Regional Product Manager 区域合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
-| 搜索技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19938/member-of-technical-staff-search/) |
-| Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
-| 高级财务转型经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19936/senior-finance-transformation-manager/) |
-| 技术团队成员（索引工程师，搜索爬虫） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19937/member-of-technical-staff-index-engineer-search-crawler/) |
-| 交易所运营专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19934/exchange-operations-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

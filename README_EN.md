@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Direct Strategic Sourcing Lead | Remote | [View →](https://www.remotejobscan.com/job/19954/direct-strategic-sourcing-lead/) |
+| Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
+| Staff Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
+| Data Center Asset Management, Commercial Associate | On-site | [View →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
+| Advanced User Education Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19953/advanced-user-education-lead/) |
+| Enterprise Education GTM Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19952/enterprise-education-gtm-lead/) |
+| Senior Database Administrator - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/19951/senior-database-administrator-core-infrastructure/) |
 | Director of Customer Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-customer-operations/) |
 | Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/19950/full-stack-engineer-elevenmusic/) |
 | Global Transportation Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
@@ -35,13 +42,6 @@
 | Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
 | Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19940/staff-engineer-machine-learning-data-infrastructure/) |
 | BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
-| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
-| Regional Product Manager 区域合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
-| Member of Technical Staff, Search | Remote | [View →](https://www.remotejobscan.com/job/19938/member-of-technical-staff-search/) |
-| Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
-| Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/19936/senior-finance-transformation-manager/) |
-| Member of Technical Staff (Index Engineer, Search Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19937/member-of-technical-staff-index-engineer-search-crawler/) |
-| Exchange Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/19934/exchange-operations-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
