@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Customer Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-customer-operations/) |
+| Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/19950/full-stack-engineer-elevenmusic/) |
+| Global Transportation Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
+| Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19948/account-manager-poland/) |
 | Senior Software Engineer, Financial Integrity | Remote | [View →](https://www.remotejobscan.com/job/19947/senior-software-engineer-financial-integrity/) |
 | Talent Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19946/talent-coordinator/) |
 | Creative Strategist & Producer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19945/creative-strategist-producer-consumer/) |
@@ -38,9 +42,6 @@
 | Senior Finance Transformation Manager | Remote | [View →](https://www.remotejobscan.com/job/19936/senior-finance-transformation-manager/) |
 | Member of Technical Staff (Index Engineer, Search Crawler) | On-site | [View →](https://www.remotejobscan.com/job/19937/member-of-technical-staff-index-engineer-search-crawler/) |
 | Exchange Operations Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/19934/exchange-operations-specialist/) |
-| Post-Listing Operations Manager Post Listing运营专家 | Remote | [View →](https://www.remotejobscan.com/job/19935/post-listing-operations-manager-post-listing/) |
-| Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
-| Sales Enablement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19933/sales-enablement-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
