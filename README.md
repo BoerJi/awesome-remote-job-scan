@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3274</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数据中心服务器生命周期软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
+| 全球广告解决方案-旅游销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
+| 全球广告解决方案 - 技术销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
+| 全球广告解决方案-零售与电商销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19927/sales-manager-global-ads-solutions-retail-e-commerce/) |
+| 全球广告解决方案 - 受监管领域销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19925/sales-manager-global-ads-solutions-regulated-verticals/) |
+| 工作场所项目管理办公室负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
+| 产品安全工程师，攻击性安全 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19917/product-security-engineer-offensive-security/) |
+| 金融服务企业客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19922/enterprise-account-executive-financial-services/) |
+| 高级合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
+| 法律行业企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19921/enterprise-account-executive-legal/) |
+| 构建者教育 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19919/builder-education/) |
+| 交易运营策略师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19920/deal-operations-strategist/) |
 | 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19916/enterprise-account-manager/) |
 | AI部署经理 - 构建者（西班牙语和葡萄牙语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
 | 部署软件工程师（Staff+） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
@@ -31,18 +43,6 @@
 | 产品经理 II，支付体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
 | AI 监控研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
-| 薪酬业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19910/compensation-business-partner/) |
-| 高级分析工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19907/senior-analytics-engineer/) |
-| GTM招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
-| 应用AI架构师，有益部署（非营利组织） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19908/applied-ai-architect-beneficial-deployments-non-profits/) |
-| 技术人才合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19909/talent-partner-tech/) |
-| 巴西高级增长经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19906/senior-growth-manager-brazil/) |
-| Claude平台开发者教育负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
-| Claude Code数据科学家技术主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18923/tech-lead-manager-claude-code-data-scientist/) |
-| 动态设计制作人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19905/motion-design-producer/) |
-| 绩效营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
-| 平台文档负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19904/docs-lead-platform/) |
-| 首席运营官，首席技术官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

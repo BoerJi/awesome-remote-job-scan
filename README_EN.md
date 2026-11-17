@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Datacenter Server Lifecycle | Remote | [View →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
+| Sales Manager, Global Ads Solutions - Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
+| Sales Manager, Global Ads Solutions - Technology | Hybrid | [View →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
+| Sales Manager, Global Ads Solutions - Retail & E-Commerce | Hybrid | [View →](https://www.remotejobscan.com/job/19927/sales-manager-global-ads-solutions-retail-e-commerce/) |
+| Sales Manager, Global Ads Solutions - Regulated Verticals | Hybrid | [View →](https://www.remotejobscan.com/job/19925/sales-manager-global-ads-solutions-regulated-verticals/) |
+| Head of PMO, Workplace | On-site | [View →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
+| Product Security Engineer, Offensive Security | Remote | [View →](https://www.remotejobscan.com/job/19917/product-security-engineer-offensive-security/) |
+| Enterprise Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/19922/enterprise-account-executive-financial-services/) |
+| Senior Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
+| Enterprise Account Executive, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19921/enterprise-account-executive-legal/) |
+| Builder Education | Hybrid | [View →](https://www.remotejobscan.com/job/19919/builder-education/) |
+| Deal Operations Strategist | Remote | [View →](https://www.remotejobscan.com/job/19920/deal-operations-strategist/) |
 | Enterprise Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19916/enterprise-account-manager/) |
 | AI Deployment Manager - Builder (Spanish- and Portuguese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
 | Staff+ Software Engineer, Deployment | On-site | [View →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
@@ -31,18 +43,6 @@
 | Product Manager II, Payment Experiences | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
 | Research Engineer, AI Monitoring | On-site | [View →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
-| Compensation Business Partner | Remote | [View →](https://www.remotejobscan.com/job/19910/compensation-business-partner/) |
-| Senior Analytics Engineer | Remote | [View →](https://www.remotejobscan.com/job/19907/senior-analytics-engineer/) |
-| Recruiter, GTM | On-site | [View →](https://www.remotejobscan.com/job/19510/recruiter-gtm/) |
-| Applied AI Architect, Beneficial Deployments (Non-Profits) | On-site | [View →](https://www.remotejobscan.com/job/19908/applied-ai-architect-beneficial-deployments-non-profits/) |
-| Talent Partner, Tech | Remote | [View →](https://www.remotejobscan.com/job/19909/talent-partner-tech/) |
-| Senior Growth Manager, Brazil | On-site | [View →](https://www.remotejobscan.com/job/19906/senior-growth-manager-brazil/) |
-| Developer Education Lead, Claude Platform | On-site | [View →](https://www.remotejobscan.com/job/9720/developer-education-lead-claude-platform/) |
-| Tech Lead Manager, Claude Code Data Scientist | On-site | [View →](https://www.remotejobscan.com/job/18923/tech-lead-manager-claude-code-data-scientist/) |
-| Motion Design Producer | Hybrid | [View →](https://www.remotejobscan.com/job/19905/motion-design-producer/) |
-| Performance Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
-| Docs Lead, Platform | On-site | [View →](https://www.remotejobscan.com/job/19904/docs-lead-platform/) |
-| Chief of Staff, CTO | Remote | [View →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
