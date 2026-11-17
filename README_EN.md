@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Technology Sourcing | Hybrid | [View →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
+| Marketplace Operations | Remote | [View →](https://www.remotejobscan.com/job/19974/marketplace-operations/) |
+| Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
+| Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
+| Strategy & Operations Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/19973/strategy-operations-lead-france/) |
+| Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
+| GTM Activations Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
+| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | Lead HRBP, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
 | HRBP, Tech | Hybrid | [View →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
 | People Operations Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
@@ -35,14 +43,6 @@
 | Contracts Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
 | Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
 | Field Marketing Manager, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19963/field-marketing-manager-enterprise/) |
-| Senior Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/19962/senior-manager-demand-generation/) |
-| Protective Intelligence Analyst | On-site | [View →](https://www.remotejobscan.com/job/19961/protective-intelligence-analyst/) |
-| Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
-| Associate Manager, SOX and Internal Controls | Remote | [View →](https://www.remotejobscan.com/job/19955/associate-manager-sox-and-internal-controls/) |
-| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| Web Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
-| Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/19959/full-stack-engineer-backend-leaning-payments-engineering/) |
-| Software Engineer, Presence | On-site | [View →](https://www.remotejobscan.com/job/19957/software-engineer-presence/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

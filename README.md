@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3274</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3276</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级技术采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
+| 市场运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19974/marketplace-operations/) |
+| 风险与保险专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
+| 发现技术运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
+| 法国战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19973/strategy-operations-lead-france/) |
+| 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
+| GTM 激活策略负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
+| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | GTM首席人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
 | HRBP, 技术 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
 | 人事运营协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
@@ -35,14 +43,6 @@
 | 欧洲、中东、非洲地区合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
 | 企业级健康医疗客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
 | 企业领域市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19963/field-marketing-manager-enterprise/) |
-| 高级需求生成经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19962/senior-manager-demand-generation/) |
-| 保护性情报分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19961/protective-intelligence-analyst/) |
-| 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
-| SOX与内部控制高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19955/associate-manager-sox-and-internal-controls/) |
-| 税务总监，准备与合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
-| Web策略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
-| 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19959/full-stack-engineer-backend-leaning-payments-engineering/) |
-| Presence软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19957/software-engineer-presence/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
