@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3277</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
+| Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
+| Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
+| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | Workplace Operation Manager — New York City | On-site | [View →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Strategic Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/19929/strategic-account-executive-manufacturing/) |
@@ -39,10 +43,6 @@
 | Enterprise Account Executive, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19921/enterprise-account-executive-legal/) |
 | Builder Education | Hybrid | [View →](https://www.remotejobscan.com/job/19919/builder-education/) |
 | Deal Operations Strategist | Remote | [View →](https://www.remotejobscan.com/job/19920/deal-operations-strategist/) |
-| Enterprise Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19916/enterprise-account-manager/) |
-| AI Deployment Manager - Builder (Spanish- and Portuguese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
-| Staff+ Software Engineer, Deployment | On-site | [View →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
-| Customer Education Adoption Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19913/customer-education-adoption-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
