@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3270</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Financial Integrity | Remote | [View →](https://www.remotejobscan.com/job/19947/senior-software-engineer-financial-integrity/) |
+| Talent Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19946/talent-coordinator/) |
+| Creative Strategist & Producer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19945/creative-strategist-producer-consumer/) |
 | AI Infrastructure System Engineer | On-site | [View →](https://www.remotejobscan.com/job/19943/ai-infrastructure-system-engineer/) |
 | Partner Marketing Manager, Cloud Partners EMEA | On-site | [View →](https://www.remotejobscan.com/job/19941/partner-marketing-manager-cloud-partners-emea/) |
 | Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
@@ -38,10 +41,6 @@
 | Post-Listing Operations Manager Post Listing运营专家 | Remote | [View →](https://www.remotejobscan.com/job/19935/post-listing-operations-manager-post-listing/) |
 | Principal / Senior Product Manager, Payment | On-site | [View →](https://www.remotejobscan.com/job/8898/principal-senior-product-manager-payment/) |
 | Sales Enablement Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19933/sales-enablement-lead/) |
-| Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence | On-site | [View →](https://www.remotejobscan.com/job/17601/program-manager-safeguards-policy-enforcement-and-threat-intelligence/) |
-| Safeguards Enforcement Analyst, Bio Harms | On-site | [View →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
-| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
-| Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
