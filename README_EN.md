@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
 | Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
 | Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
@@ -42,7 +43,6 @@
 | Senior Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
 | Enterprise Account Executive, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/19921/enterprise-account-executive-legal/) |
 | Builder Education | Hybrid | [View →](https://www.remotejobscan.com/job/19919/builder-education/) |
-| Deal Operations Strategist | Remote | [View →](https://www.remotejobscan.com/job/19920/deal-operations-strategist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
