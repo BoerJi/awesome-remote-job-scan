@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3264</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19916/enterprise-account-manager/) |
+| AI部署经理 - 构建者（西班牙语和葡萄牙语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
+| 部署软件工程师（Staff+） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
+| 客户教育推广负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19913/customer-education-adoption-lead/) |
+| 教育应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19912/applied-ai-architect-edu/) |
+| 产品经理 II，支付体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
 | AI 监控研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
 | 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | 薪酬业务合作伙伴 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19910/compensation-business-partner/) |
@@ -37,12 +43,6 @@
 | 绩效营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
 | 平台文档负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19904/docs-lead-platform/) |
 | 首席运营官，首席技术官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
-| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
-| B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| Aave应用高级增长营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19902/senior-growth-marketing-manager-aave-app/) |
-| 前沿鲁棒性研究员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19901/researcher-frontier-robustness/) |
-| 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11750/corporate-accounting-manager/) |
-| 基础设施（数据存储）高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19898/staff-software-engineer-infrastructure-datastores/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enterprise Account Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19916/enterprise-account-manager/) |
+| AI Deployment Manager - Builder (Spanish- and Portuguese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
+| Staff+ Software Engineer, Deployment | On-site | [View →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
+| Customer Education Adoption Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19913/customer-education-adoption-lead/) |
+| Applied AI Architect - EDU | On-site | [View →](https://www.remotejobscan.com/job/19912/applied-ai-architect-edu/) |
+| Product Manager II, Payment Experiences | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
 | Research Engineer, AI Monitoring | On-site | [View →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
 | Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 | Compensation Business Partner | Remote | [View →](https://www.remotejobscan.com/job/19910/compensation-business-partner/) |
@@ -37,12 +43,6 @@
 | Performance Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/9773/performance-marketing-manager/) |
 | Docs Lead, Platform | On-site | [View →](https://www.remotejobscan.com/job/19904/docs-lead-platform/) |
 | Chief of Staff, CTO | Remote | [View →](https://www.remotejobscan.com/job/19903/chief-of-staff-cto/) |
-| B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
-| B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| Senior Growth Marketing Manager, Aave App | On-site | [View →](https://www.remotejobscan.com/job/19902/senior-growth-marketing-manager-aave-app/) |
-| Researcher, Frontier Robustness | Hybrid | [View →](https://www.remotejobscan.com/job/19901/researcher-frontier-robustness/) |
-| Corporate Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/11750/corporate-accounting-manager/) |
-| Staff Software Engineer, Infrastructure (Datastores) | Remote | [View →](https://www.remotejobscan.com/job/19898/staff-software-engineer-infrastructure-datastores/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
