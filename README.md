@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 纽约市工作场所运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
+| Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| 制造行业战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19929/strategic-account-executive-manufacturing/) |
+| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | 数据中心服务器生命周期软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
 | 全球广告解决方案-旅游销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
 | 全球广告解决方案 - 技术销售经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
@@ -39,10 +43,6 @@
 | AI部署经理 - 构建者（西班牙语和葡萄牙语 speaking） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
 | 部署软件工程师（Staff+） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
 | 客户教育推广负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19913/customer-education-adoption-lead/) |
-| 教育应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19912/applied-ai-architect-edu/) |
-| 产品经理 II，支付体验 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
-| AI 监控研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
-| 机器学习工程师 — 风险与AI | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

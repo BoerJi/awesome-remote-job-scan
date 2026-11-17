@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Workplace Operation Manager — New York City | On-site | [View →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
+| Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| Strategic Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/19929/strategic-account-executive-manufacturing/) |
+| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 | Software Engineer, Datacenter Server Lifecycle | Remote | [View →](https://www.remotejobscan.com/job/19923/software-engineer-datacenter-server-lifecycle/) |
 | Sales Manager, Global Ads Solutions - Travel | Hybrid | [View →](https://www.remotejobscan.com/job/19926/sales-manager-global-ads-solutions-travel/) |
 | Sales Manager, Global Ads Solutions - Technology | Hybrid | [View →](https://www.remotejobscan.com/job/19924/sales-manager-global-ads-solutions-technology/) |
@@ -39,10 +43,6 @@
 | AI Deployment Manager - Builder (Spanish- and Portuguese-Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/19915/ai-deployment-manager-builder-spanish-and-portuguese-speaking/) |
 | Staff+ Software Engineer, Deployment | On-site | [View →](https://www.remotejobscan.com/job/19914/staff-software-engineer-deployment/) |
 | Customer Education Adoption Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19913/customer-education-adoption-lead/) |
-| Applied AI Architect - EDU | On-site | [View →](https://www.remotejobscan.com/job/19912/applied-ai-architect-edu/) |
-| Product Manager II, Payment Experiences | Remote | [View →](https://www.remotejobscan.com/job/19446/product-manager-ii-payment-experiences/) |
-| Research Engineer, AI Monitoring | On-site | [View →](https://www.remotejobscan.com/job/19900/research-engineer-ai-monitoring/) |
-| Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/machine-learning-engineer-risk-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
