@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3272</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Platform Hardware Security | On-site | [View →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
+| Head of PMO, Workplace | On-site | [View →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
+| Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
+| Threat Intel Manager, Model Exploitation & Fraud | On-site | [View →](https://www.remotejobscan.com/job/9740/threat-intel-manager-model-exploitation-fraud/) |
 | Full Stack Software Engineer, Dots for Companies | Hybrid | [View →](https://www.remotejobscan.com/job/19978/full-stack-software-engineer-dots-for-companies/) |
 | Privacy Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/19975/privacy-operations-analyst/) |
 | Head of Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
@@ -33,16 +37,12 @@
 | Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
 | Strategy & Operations Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/19973/strategy-operations-lead-france/) |
 | Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
-| GTM Activations Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
 | Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | Lead HRBP, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
 | HRBP, Tech | Hybrid | [View →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
 | People Operations Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
 | Forward Deployed Engineer (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/19970/forward-deployed-engineer-uk/) |
 | Cyber AI Partner Director, Americas | Remote | [View →](https://www.remotejobscan.com/job/19966/cyber-ai-partner-director-americas/) |
-| GTM Narrative Lead | On-site | [View →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
-| Growth Marketing Manager, B2B SEO & AEO | Hybrid | [View →](https://www.remotejobscan.com/job/19967/growth-marketing-manager-b2b-seo-aeo/) |
-| Marketplace Programs Manager, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3276</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3272</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 平台硬件安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
+| 工作场所项目办公室负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
+| 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
+| 威胁情报经理，模型利用与欺诈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9740/threat-intel-manager-model-exploitation-fraud/) |
 | 全栈软件工程师，面向企业的Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19978/full-stack-software-engineer-dots-for-companies/) |
 | 隐私运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19975/privacy-operations-analyst/) |
 | 战略业务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
@@ -33,16 +37,12 @@
 | 发现技术运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
 | 法国战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19973/strategy-operations-lead-france/) |
 | 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
-| GTM 激活策略负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
 | 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
 | GTM首席人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
 | HRBP, 技术 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
 | 人事运营协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
 | 英国前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19970/forward-deployed-engineer-uk/) |
 | 美洲网络安全AI合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19966/cyber-ai-partner-director-americas/) |
-| GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
-| B2B SEO & AEO增长营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19967/growth-marketing-manager-b2b-seo-aeo/) |
-| B2B合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
