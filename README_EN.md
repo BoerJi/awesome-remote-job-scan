@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full Stack Software Engineer, Dots for Companies | Hybrid | [View →](https://www.remotejobscan.com/job/19978/full-stack-software-engineer-dots-for-companies/) |
+| Privacy Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/19975/privacy-operations-analyst/) |
+| Head of Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
+| Program Manager, Office of the CEO (PMO) | Hybrid | [View →](https://www.remotejobscan.com/job/19977/program-manager-office-of-the-ceo-pmo/) |
 | Senior Manager, Technology Sourcing | Hybrid | [View →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
 | Marketplace Operations | Remote | [View →](https://www.remotejobscan.com/job/19974/marketplace-operations/) |
 | Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
@@ -39,10 +43,6 @@
 | GTM Narrative Lead | On-site | [View →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
 | Growth Marketing Manager, B2B SEO & AEO | Hybrid | [View →](https://www.remotejobscan.com/job/19967/growth-marketing-manager-b2b-seo-aeo/) |
 | Marketplace Programs Manager, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
-| Product Manager, Monetization | On-site | [View →](https://www.remotejobscan.com/job/19965/product-manager-monetization/) |
-| Contracts Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
-| Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
-| Field Marketing Manager, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19963/field-marketing-manager-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

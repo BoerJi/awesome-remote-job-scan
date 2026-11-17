@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全栈软件工程师，面向企业的Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19978/full-stack-software-engineer-dots-for-companies/) |
+| 隐私运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19975/privacy-operations-analyst/) |
+| 战略业务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
+| CEO办公室项目总监（PMO） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19977/program-manager-office-of-the-ceo-pmo/) |
 | 高级技术采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
 | 市场运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19974/marketplace-operations/) |
 | 风险与保险专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
@@ -39,10 +43,6 @@
 | GTM叙事负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19834/gtm-narrative-lead/) |
 | B2B SEO & AEO增长营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19967/growth-marketing-manager-b2b-seo-aeo/) |
 | B2B合作伙伴计划经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
-| 产品经理，变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19965/product-manager-monetization/) |
-| 欧洲、中东、非洲地区合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
-| 企业级健康医疗客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
-| 企业领域市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19963/field-marketing-manager-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
