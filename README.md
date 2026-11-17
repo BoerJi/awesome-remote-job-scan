@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3271</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| B2B合作伙伴关系市场平台项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
+| SOX与内部控制高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19955/associate-manager-sox-and-internal-controls/) |
+| 税务总监，准备与合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
+| Web策略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
+| 全栈工程师（偏后端）- 支付工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19959/full-stack-engineer-backend-leaning-payments-engineering/) |
+| Presence软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19957/software-engineer-presence/) |
+| 全栈工程师（后端侧重）- 平台工程 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19958/full-stack-engineer-backend-leaning-platform-engineering/) |
+| 美国国际税务规划总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
 | 直接战略采购负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19954/direct-strategic-sourcing-lead/) |
 | 教育软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | 企业级高级软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
@@ -35,13 +43,6 @@
 | 全球交通项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
 | 波兰客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19948/account-manager-poland/) |
 | 高级软件工程师，金融完整性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19947/senior-software-engineer-financial-integrity/) |
-| 人才协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19946/talent-coordinator/) |
-| 创意策略师与制作人 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19945/creative-strategist-producer-consumer/) |
-| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19943/ai-infrastructure-system-engineer/) |
-| 云合作伙伴EMEA营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19941/partner-marketing-manager-cloud-partners-emea/) |
-| 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
-| 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19940/staff-engineer-machine-learning-data-infrastructure/) |
-| BD Manager, CN | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

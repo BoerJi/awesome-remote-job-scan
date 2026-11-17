@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Marketplace Programs Manager, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
+| Associate Manager, SOX and Internal Controls | Remote | [View →](https://www.remotejobscan.com/job/19955/associate-manager-sox-and-internal-controls/) |
+| Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
+| Web Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
+| Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote | [View →](https://www.remotejobscan.com/job/19959/full-stack-engineer-backend-leaning-payments-engineering/) |
+| Software Engineer, Presence | On-site | [View →](https://www.remotejobscan.com/job/19957/software-engineer-presence/) |
+| Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote | [View →](https://www.remotejobscan.com/job/19958/full-stack-engineer-backend-leaning-platform-engineering/) |
+| Director, US International Tax Planning | On-site | [View →](https://www.remotejobscan.com/job/15180/director-us-international-tax-planning/) |
 | Direct Strategic Sourcing Lead | Remote | [View →](https://www.remotejobscan.com/job/19954/direct-strategic-sourcing-lead/) |
 | Software Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/software-engineer-education/) |
 | Staff Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
@@ -35,13 +43,6 @@
 | Global Transportation Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
 | Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19948/account-manager-poland/) |
 | Senior Software Engineer, Financial Integrity | Remote | [View →](https://www.remotejobscan.com/job/19947/senior-software-engineer-financial-integrity/) |
-| Talent Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19946/talent-coordinator/) |
-| Creative Strategist & Producer - Consumer | Remote | [View →](https://www.remotejobscan.com/job/19945/creative-strategist-producer-consumer/) |
-| AI Infrastructure System Engineer | On-site | [View →](https://www.remotejobscan.com/job/19943/ai-infrastructure-system-engineer/) |
-| Partner Marketing Manager, Cloud Partners EMEA | On-site | [View →](https://www.remotejobscan.com/job/19941/partner-marketing-manager-cloud-partners-emea/) |
-| Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
-| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19940/staff-engineer-machine-learning-data-infrastructure/) |
-| BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
