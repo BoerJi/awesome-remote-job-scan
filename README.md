@@ -23,7 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| B2B合作伙伴关系市场平台项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
+| 产品经理，变现 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19965/product-manager-monetization/) |
+| 欧洲、中东、非洲地区合同经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
+| 企业级健康医疗客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
+| 企业领域市场经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19963/field-marketing-manager-enterprise/) |
+| 高级需求生成经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19962/senior-manager-demand-generation/) |
+| 保护性情报分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19961/protective-intelligence-analyst/) |
+| 政策与公共事务沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | SOX与内部控制高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19955/associate-manager-sox-and-internal-controls/) |
 | 税务总监，准备与合规 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
 | Web策略主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
@@ -37,12 +43,6 @@
 | 数据中心资产管理，商业专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
 | 高级用户教育主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19953/advanced-user-education-lead/) |
 | 企业教育 GTM 领导 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19952/enterprise-education-gtm-lead/) |
-| 核心基础设施高级数据库管理员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19951/senior-database-administrator-core-infrastructure/) |
-| 客户运营总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18174/director-of-customer-operations/) |
-| 全栈工程师 - ElevenMusic | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19950/full-stack-engineer-elevenmusic/) |
-| 全球交通项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
-| 波兰客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19948/account-manager-poland/) |
-| 高级软件工程师，金融完整性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19947/senior-software-engineer-financial-integrity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

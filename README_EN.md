@@ -23,7 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Marketplace Programs Manager, B2B Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/19960/marketplace-programs-manager-b2b-partnerships/) |
+| Product Manager, Monetization | On-site | [View →](https://www.remotejobscan.com/job/19965/product-manager-monetization/) |
+| Contracts Manager, EMEA | On-site | [View →](https://www.remotejobscan.com/job/9379/contracts-manager-emea/) |
+| Account Executive - Enterprise - Healthcare | On-site | [View →](https://www.remotejobscan.com/job/19964/account-executive-enterprise-healthcare/) |
+| Field Marketing Manager, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19963/field-marketing-manager-enterprise/) |
+| Senior Manager, Demand Generation | Hybrid | [View →](https://www.remotejobscan.com/job/19962/senior-manager-demand-generation/) |
+| Protective Intelligence Analyst | On-site | [View →](https://www.remotejobscan.com/job/19961/protective-intelligence-analyst/) |
+| Communications Manager, Policy & Public Affairs | Remote | [View →](https://www.remotejobscan.com/job/9196/communications-manager-policy-public-affairs/) |
 | Associate Manager, SOX and Internal Controls | Remote | [View →](https://www.remotejobscan.com/job/19955/associate-manager-sox-and-internal-controls/) |
 | Tax Director, Provision & Compliance | On-site | [View →](https://www.remotejobscan.com/job/14137/tax-director-provision-compliance/) |
 | Web Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19956/web-strategy-lead/) |
@@ -37,12 +43,6 @@
 | Data Center Asset Management, Commercial Associate | On-site | [View →](https://www.remotejobscan.com/job/19209/data-center-asset-management-commercial-associate/) |
 | Advanced User Education Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19953/advanced-user-education-lead/) |
 | Enterprise Education GTM Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19952/enterprise-education-gtm-lead/) |
-| Senior Database Administrator - Core Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/19951/senior-database-administrator-core-infrastructure/) |
-| Director of Customer Operations | On-site | [View →](https://www.remotejobscan.com/job/18174/director-of-customer-operations/) |
-| Full-Stack Engineer - ElevenMusic | Remote | [View →](https://www.remotejobscan.com/job/19950/full-stack-engineer-elevenmusic/) |
-| Global Transportation Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/19949/global-transportation-program-manager/) |
-| Account Manager - Poland | Remote | [View →](https://www.remotejobscan.com/job/19948/account-manager-poland/) |
-| Senior Software Engineer, Financial Integrity | Remote | [View →](https://www.remotejobscan.com/job/19947/senior-software-engineer-financial-integrity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
