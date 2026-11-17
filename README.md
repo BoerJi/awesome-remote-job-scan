@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3270</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI基础设施系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19943/ai-infrastructure-system-engineer/) |
+| 云合作伙伴EMEA营销经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19941/partner-marketing-manager-cloud-partners-emea/) |
+| 推理解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
+| 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19940/staff-engineer-machine-learning-data-infrastructure/) |
 | BD Manager, CN | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 | 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
 | Regional Product Manager 区域合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
@@ -39,10 +43,6 @@
 | 生物危害防护分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | 专注支持工程主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
-| 风险与人工智能团队机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
-| 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
-| 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
-| 纽约市工作场所运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

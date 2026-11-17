@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3270</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Infrastructure System Engineer | On-site | [View →](https://www.remotejobscan.com/job/19943/ai-infrastructure-system-engineer/) |
+| Partner Marketing Manager, Cloud Partners EMEA | On-site | [View →](https://www.remotejobscan.com/job/19941/partner-marketing-manager-cloud-partners-emea/) |
+| Solutions Architect (Inference) | On-site | [View →](https://www.remotejobscan.com/job/19942/solutions-architect-inference/) |
+| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19940/staff-engineer-machine-learning-data-infrastructure/) |
 | BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 | Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
 | Regional Product Manager 区域合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
@@ -38,10 +42,6 @@
 | Safeguards Enforcement Analyst, Bio Harms | On-site | [View →](https://www.remotejobscan.com/job/9601/safeguards-enforcement-analyst-bio-harms/) |
 | Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | Dedicated Support Engineering Lead | Hybrid | [View →](https://www.remotejobscan.com/job/19932/dedicated-support-engineering-lead/) |
-| Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
-| Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
-| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
-| Workplace Operation Manager — New York City | On-site | [View →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
