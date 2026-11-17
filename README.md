@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| BD Manager, CN | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
+| 应用AI架构师，合作伙伴关系 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
 | Regional Product Manager 区域合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
 | 搜索技术团队成员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19938/member-of-technical-staff-search/) |
 | Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
@@ -41,8 +43,6 @@
 | 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | 纽约市工作场所运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
-| 制造行业战略客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19929/strategic-account-executive-manufacturing/) |
-| Compliance Product Manager 合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-17 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

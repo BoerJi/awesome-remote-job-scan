@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
+| Applied AI Architect, Partnerships | On-site | [View →](https://www.remotejobscan.com/job/13564/applied-ai-architect-partnerships/) |
 | Regional Product Manager 区域合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
 | Member of Technical Staff, Search | Remote | [View →](https://www.remotejobscan.com/job/19938/member-of-technical-staff-search/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
@@ -40,8 +42,6 @@
 | Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | Workplace Operation Manager — New York City | On-site | [View →](https://www.remotejobscan.com/job/19930/workplace-operation-manager-new-york-city/) |
-| Strategic Account Executive - Manufacturing | Remote | [View →](https://www.remotejobscan.com/job/19929/strategic-account-executive-manufacturing/) |
-| Compliance Product Manager 合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/15683/compliance-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-17 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
