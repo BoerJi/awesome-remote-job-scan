@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Annotator, AI Ops & Enablement | On-site | [View →](https://www.remotejobscan.com/job/19990/annotator-ai-ops-enablement/) |
 | Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | Sales Manager, Large Enterprise | India | Hybrid | [View →](https://www.remotejobscan.com/job/19988/sales-manager-large-enterprise-india/) |
@@ -42,7 +43,6 @@
 | Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
 | B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
-| Compute Capacity Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/19983/compute-capacity-strategy-operations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
