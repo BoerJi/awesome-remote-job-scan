@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 后端开发工程师 - 交易系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19991/backend-developer-trading-system/) |
 | AI运维与赋能标注员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19990/annotator-ai-ops-enablement/) |
 | 研发运营战略采购业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
@@ -42,7 +43,6 @@
 | 常规武器安全监管分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
 | 应用AI架构师，有益部署（生命科学社区与赋能） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
 | B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
