@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| Senior Analyst, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
+| US Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16363/us-head-of-finance/) |
+| Institutional Sales Manager, Hedge Funds | Remote | [View →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
+| Community Engagement Manager, Data Centers (West Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 | Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | Sr Staff Product Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
 | Competitive Intelligence Lead | On-site | [View →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
@@ -37,11 +42,6 @@
 | Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
 | SIP Expert | Remote | [View →](https://www.remotejobscan.com/job/20011/sip-expert/) |
 | Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
-| Software Engineer, Vercel Agent | Hybrid | [View →](https://www.remotejobscan.com/job/20007/software-engineer-vercel-agent/) |
-| Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
-| Technical Product Manager, GRC Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
-| Applied AI Engineer, Commercial | On-site | [View →](https://www.remotejobscan.com/job/20003/applied-ai-engineer-commercial/) |
-| Owner-Furnished Equipment (OFE) Demand Planner | Hybrid | [View →](https://www.remotejobscan.com/job/20004/owner-furnished-equipment-ofe-demand-planner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

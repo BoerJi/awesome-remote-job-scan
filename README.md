@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | 战略财务高级分析师 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| 高级分析师，控制与治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
+| 美国财务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/us-head-of-finance/) |
+| 对冲基金机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
+| 社区参与经理，数据中心（西德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 | 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | Krak资深产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
 | 竞争情报主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
@@ -37,11 +42,6 @@
 | 应用AI架构师，有益部署（全球与公共卫生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
 | SIP专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20011/sip-expert/) |
 | 客户营销主管，初创项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
-| 软件工程师，Vercel代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20007/software-engineer-vercel-agent/) |
-| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
-| GRC系统技术产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
-| 商业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20003/applied-ai-engineer-commercial/) |
-| 自供设备（OFE）需求规划师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20004/owner-furnished-equipment-ofe-demand-planner/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
