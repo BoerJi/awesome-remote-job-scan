@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3271</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM战略与运营、战略项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
+| GTM人才合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
+| 软件工程师，代理身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
+| 核心销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/sales-manager-core-sales/) |
+| 商业运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20012/business-operations-analyst/) |
+| 应用AI架构师，有益部署（全球与公共卫生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
+| SIP专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20011/sip-expert/) |
+| 客户营销主管，初创项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | 软件工程师，Vercel代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20007/software-engineer-vercel-agent/) |
 | 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
 | GRC系统技术产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
@@ -35,14 +43,6 @@
 | 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | SOX总监-ITGC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
-| 高级产品经理，工作空间和多用户 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14158/senior-product-manager-workspace-and-multi-user/) |
-| 高级风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20000/senior-risk-manager/) |
-| 预测市场运营卓越与事件响应经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19999/operational-excellence-incident-response-manager-predictions-markets/) |
-| 量化交易与投资客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19998/account-executive-quantitative-trading-investing/) |
-| DACH战略项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19997/strategic-pursuits-lead-dach/) |
-| 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
-| 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19996/chief-of-staff/) |
-| 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

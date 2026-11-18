@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Strategy & Operations, Strategic Programs | Hybrid | [View →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
+| People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
+| Software Engineer, Agent Identity | Hybrid | [View →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
+| Sales Manager - Core Sales | Remote | [View →](https://www.remotejobscan.com/job/20008/sales-manager-core-sales/) |
+| Business Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/20012/business-operations-analyst/) |
+| Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
+| SIP Expert | Remote | [View →](https://www.remotejobscan.com/job/20011/sip-expert/) |
+| Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | Software Engineer, Vercel Agent | Hybrid | [View →](https://www.remotejobscan.com/job/20007/software-engineer-vercel-agent/) |
 | Senior Strategic Program Manager | Remote | [View →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
 | Technical Product Manager, GRC Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
@@ -35,13 +43,6 @@
 | Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | SOX Director - ITGC | Remote | [View →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
-| Senior Product Manager, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/senior-product-manager-workspace-and-multi-user/) |
-| Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/20000/senior-risk-manager/) |
-| Operational Excellence & Incident Response Manager, Predictions Markets | Hybrid | [View →](https://www.remotejobscan.com/job/19999/operational-excellence-incident-response-manager-predictions-markets/) |
-| Account Executive, Quantitative Trading & Investing | On-site | [View →](https://www.remotejobscan.com/job/19998/account-executive-quantitative-trading-investing/) |
-| Strategic Pursuits Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/19997/strategic-pursuits-lead-dach/) |
-| Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
-| Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
