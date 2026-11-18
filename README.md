@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3273</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3276</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机器学习数据科学家，预测平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
+| B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
+| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
+| 投资与流动性主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
+| 计算能力策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19983/compute-capacity-strategy-operations/) |
 | DotCom全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19984/full-stack-software-engineer-dotcom/) |
 | 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
 | 部署负责人（DL），FDE - 首尔 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
@@ -38,11 +43,6 @@
 | 工作场所项目办公室负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
 | 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | 威胁情报经理，模型利用与欺诈 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9740/threat-intel-manager-model-exploitation-fraud/) |
-| 全栈软件工程师，面向企业的Dots | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19978/full-stack-software-engineer-dots-for-companies/) |
-| 隐私运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19975/privacy-operations-analyst/) |
-| 战略业务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
-| CEO办公室项目总监（PMO） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19977/program-manager-office-of-the-ceo-pmo/) |
-| 高级技术采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

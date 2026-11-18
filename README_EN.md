@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Machine Learning Data Scientist, Forecasting Platform | On-site | [View →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
+| B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
+| B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
+| Treasury Director, Investments & Liquidity | On-site | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
+| Compute Capacity Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/19983/compute-capacity-strategy-operations/) |
 | Full Stack Software Engineer, DotCom | On-site | [View →](https://www.remotejobscan.com/job/19984/full-stack-software-engineer-dotcom/) |
 | Legal Counsel, Litigation | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
 | Deployment Lead (DL), FDE - Seoul | Hybrid | [View →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
@@ -38,11 +43,6 @@
 | Head of PMO, Workplace | On-site | [View →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
 | Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
 | Threat Intel Manager, Model Exploitation & Fraud | On-site | [View →](https://www.remotejobscan.com/job/9740/threat-intel-manager-model-exploitation-fraud/) |
-| Full Stack Software Engineer, Dots for Companies | Hybrid | [View →](https://www.remotejobscan.com/job/19978/full-stack-software-engineer-dots-for-companies/) |
-| Privacy Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/19975/privacy-operations-analyst/) |
-| Head of Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
-| Program Manager, Office of the CEO (PMO) | Hybrid | [View →](https://www.remotejobscan.com/job/19977/program-manager-office-of-the-ceo-pmo/) |
-| Senior Manager, Technology Sourcing | Hybrid | [View →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
