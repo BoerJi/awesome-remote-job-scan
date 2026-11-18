@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Machine Learning Data Scientist, Forecasting Platform | On-site | [View →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
+| Policy Design Manager, Integrity and Authenticity | On-site | [View →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
+| Safeguards Enforcement Lead, User Well-Being | On-site | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
+| Warehouse and Logistics Manager - North America | On-site | [View →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
+| Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
+| Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
 | B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 | Treasury Director, Investments & Liquidity | On-site | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
@@ -39,10 +43,6 @@
 | Hyperscaler & Systems Integrator Partner Manager (North America) | On-site | [View →](https://www.remotejobscan.com/job/19981/hyperscaler-systems-integrator-partner-manager-north-america/) |
 | Head of Creative | Hybrid | [View →](https://www.remotejobscan.com/job/19982/head-of-creative/) |
 | GTM Activations Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
-| Platform Hardware Security | On-site | [View →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
-| Head of PMO, Workplace | On-site | [View →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
-| Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
-| Threat Intel Manager, Model Exploitation & Fraud | On-site | [View →](https://www.remotejobscan.com/job/9740/threat-intel-manager-model-exploitation-fraud/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
