@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| SOX Director - ITGC | Remote | [View →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
+| Senior Product Manager, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/senior-product-manager-workspace-and-multi-user/) |
+| Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/20000/senior-risk-manager/) |
 | Operational Excellence & Incident Response Manager, Predictions Markets | Hybrid | [View →](https://www.remotejobscan.com/job/19999/operational-excellence-incident-response-manager-predictions-markets/) |
 | Account Executive, Quantitative Trading & Investing | On-site | [View →](https://www.remotejobscan.com/job/19998/account-executive-quantitative-trading-investing/) |
 | Strategic Pursuits Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/19997/strategic-pursuits-lead-dach/) |
@@ -30,7 +33,6 @@
 | Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 | Paris Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/19992/paris-applied-ai-architect-industries/) |
 | Procurement Manager - Professional Services | Remote | [View →](https://www.remotejobscan.com/job/19993/procurement-manager-professional-services/) |
-| Sr Product Designer, Growth - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/19994/sr-product-designer-growth-kraken-pro/) |
 | Backend Developer – Trading System | Remote | [View →](https://www.remotejobscan.com/job/19991/backend-developer-trading-system/) |
 | Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
@@ -40,8 +42,6 @@
 | Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
 | Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Engineering Manager, Agent Security Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19656/engineering-manager-agent-security-partnerships/) |
-| IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
-| Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
