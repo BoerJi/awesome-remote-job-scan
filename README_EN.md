@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3267</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
+| Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
+| Product Manager II, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
+| Paris Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/19992/paris-applied-ai-architect-industries/) |
+| Procurement Manager - Professional Services | Remote | [View →](https://www.remotejobscan.com/job/19993/procurement-manager-professional-services/) |
+| Sr Product Designer, Growth - Kraken Pro | Remote | [View →](https://www.remotejobscan.com/job/19994/sr-product-designer-growth-kraken-pro/) |
 | Backend Developer – Trading System | Remote | [View →](https://www.remotejobscan.com/job/19991/backend-developer-trading-system/) |
 | Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
@@ -36,13 +42,6 @@
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | Machine Learning Data Scientist, Forecasting Platform | On-site | [View →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
 | BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
-| Policy Design Manager, Integrity and Authenticity | On-site | [View →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
-| Safeguards Enforcement Lead, User Well-Being | On-site | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
-| Warehouse and Logistics Manager - North America | On-site | [View →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
-| Safeguards Enforcement Analyst, Conventional Weapons | On-site | [View →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
-| Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
-| B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

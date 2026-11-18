@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3273</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
+| 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19996/chief-of-staff/) |
+| 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
+| 产品经理II，工作空间和多用户 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
+| 巴黎应用AI架构师，工业领域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19992/paris-applied-ai-architect-industries/) |
+| 采购经理 - 专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19993/procurement-manager-professional-services/) |
+| 高级产品设计师，增长 - Kraken Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19994/sr-product-designer-growth-kraken-pro/) |
 | 后端开发工程师 - 交易系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19991/backend-developer-trading-system/) |
 | 研发运营战略采购业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
@@ -36,13 +43,6 @@
 | 财务报告总监 - 特殊项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | 机器学习数据科学家，预测平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
 | BD经理，中文 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
-| 诚信与真实性政策设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
-| 用户福祉安全执行主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
-| 北美仓储与物流经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
-| 常规武器安全监管分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15205/safeguards-enforcement-analyst-conventional-weapons/) |
-| 应用AI架构师，有益部署（生命科学社区与赋能） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
-| B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
-| B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
