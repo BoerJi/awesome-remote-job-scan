@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3270</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3272</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
+| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Engineering Manager, Agent Security Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19656/engineering-manager-agent-security-partnerships/) |
+| IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
+| Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
+| Machine Learning Data Scientist, Forecasting Platform | On-site | [View →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
+| BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 | Policy Design Manager, Integrity and Authenticity | On-site | [View →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
 | Safeguards Enforcement Lead, User Well-Being | On-site | [View →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
 | Warehouse and Logistics Manager - North America | On-site | [View →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
@@ -36,13 +43,6 @@
 | Legal Counsel, Litigation | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
 | Deployment Lead (DL), FDE - Seoul | Hybrid | [View →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
 | Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
-| Staff Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18480/staff-developer-advocate/) |
-| Senior Data Scientist, Risk Strategy | On-site | [View →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
-| Developer Relations, Platform | On-site | [View →](https://www.remotejobscan.com/job/19980/developer-relations-platform/) |
-| Hyperscaler & Systems Integrator Partner Manager (North America) | On-site | [View →](https://www.remotejobscan.com/job/19981/hyperscaler-systems-integrator-partner-manager-north-america/) |
-| Head of Creative | Hybrid | [View →](https://www.remotejobscan.com/job/19982/head-of-creative/) |
-| GTM Activations Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

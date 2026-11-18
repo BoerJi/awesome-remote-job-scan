@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3270</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3272</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
+| Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| 代理安全合作项目工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19656/engineering-manager-agent-security-partnerships/) |
+| 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
+| 财务报告总监 - 特殊项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
+| 机器学习数据科学家，预测平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
+| BD经理，中文 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 | 诚信与真实性政策设计经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18337/policy-design-manager-integrity-and-authenticity/) |
 | 用户福祉安全执行主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15206/safeguards-enforcement-lead-user-well-being/) |
 | 北美仓储与物流经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15792/warehouse-and-logistics-manager-north-america/) |
@@ -36,13 +43,6 @@
 | 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
 | 部署负责人（DL），FDE - 首尔 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
 | 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
-| 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
-| 高级开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18480/staff-developer-advocate/) |
-| 高级数据科学家，风险策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
-| 开发者关系，平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19980/developer-relations-platform/) |
-| 北美超大规模系统集成商合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19981/hyperscaler-systems-integrator-partner-manager-north-america/) |
-| 创意总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19982/head-of-creative/) |
-| GTM 激活策略负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
