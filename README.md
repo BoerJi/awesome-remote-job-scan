@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
+| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | SOX总监-ITGC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
 | 高级产品经理，工作空间和多用户 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14158/senior-product-manager-workspace-and-multi-user/) |
 | 高级风险经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20000/senior-risk-manager/) |
@@ -41,8 +43,6 @@
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| 代理安全合作项目工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19656/engineering-manager-agent-security-partnerships/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
+| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | SOX Director - ITGC | Remote | [View →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
 | Senior Product Manager, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/senior-product-manager-workspace-and-multi-user/) |
 | Senior Risk Manager | On-site | [View →](https://www.remotejobscan.com/job/20000/senior-risk-manager/) |
@@ -40,8 +42,6 @@
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
-| Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
-| Engineering Manager, Agent Security Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19656/engineering-manager-agent-security-partnerships/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
