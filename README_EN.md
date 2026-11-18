@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Product Designer, Onchain Yield & Investments | Remote | [View →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
+| Senior / Staff Software Engineer, Connectors Platform | Hybrid | [View →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
+| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20017/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | GTM Strategy & Operations, Strategic Programs | Hybrid | [View →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
 | People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
 | Software Engineer, Agent Identity | Hybrid | [View →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
@@ -40,9 +43,6 @@
 | Partner Manager - Public Sector Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20005/partner-manager-public-sector-partnerships/) |
 | Growth Product Marketing Manager, SMB & B2B Self-Serve | Hybrid | [View →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
 | Head of Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
-| Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
-| SOX Director - ITGC | Remote | [View →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

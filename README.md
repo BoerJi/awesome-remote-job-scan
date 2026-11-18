@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 链上收益与投资高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
+| 连接器平台高级/资深软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
+| 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20017/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | GTM战略与运营、战略项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
 | GTM人才合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
 | 软件工程师，代理身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
@@ -40,9 +43,6 @@
 | 公共部门合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20005/partner-manager-public-sector-partnerships/) |
 | SMB与B2B自助服务增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
 | SOX安全控制保证负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
-| 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
-| 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
-| SOX总监-ITGC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
