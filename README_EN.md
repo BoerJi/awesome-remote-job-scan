@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Commercial | On-site | [View →](https://www.remotejobscan.com/job/20003/applied-ai-engineer-commercial/) |
+| Owner-Furnished Equipment (OFE) Demand Planner | Hybrid | [View →](https://www.remotejobscan.com/job/20004/owner-furnished-equipment-ofe-demand-planner/) |
+| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
+| Partner Manager - Public Sector Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20005/partner-manager-public-sector-partnerships/) |
 | Growth Product Marketing Manager, SMB & B2B Self-Serve | Hybrid | [View →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
 | Head of Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 | Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
@@ -38,10 +42,6 @@
 | Paris Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/19992/paris-applied-ai-architect-industries/) |
 | Procurement Manager - Professional Services | Remote | [View →](https://www.remotejobscan.com/job/19993/procurement-manager-professional-services/) |
 | Backend Developer – Trading System | Remote | [View →](https://www.remotejobscan.com/job/19991/backend-developer-trading-system/) |
-| Strategic Sourcing Business Partner, R&D Operations | On-site | [View →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
-| Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
-| Sales Manager, Large Enterprise | India | Hybrid | [View →](https://www.remotejobscan.com/job/19988/sales-manager-large-enterprise-india/) |
-| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
