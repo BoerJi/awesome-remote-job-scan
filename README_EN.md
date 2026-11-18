@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Growth Product Marketing Manager, SMB & B2B Self-Serve | Hybrid | [View →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
+| Head of Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 | Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | Senior Machine Learning Engineer | Remote | [View →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | SOX Director - ITGC | Remote | [View →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
@@ -40,8 +42,6 @@
 | Manager, Sales Development, Enterprise | On-site | [View →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | Sales Manager, Large Enterprise | India | Hybrid | [View →](https://www.remotejobscan.com/job/19988/sales-manager-large-enterprise-india/) |
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
-| Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3275</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3273</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| SMB与B2B自助服务增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
+| SOX安全控制保证负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 | 机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11845/machine-learning-engineer/) |
 | 高级机器学习工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9261/senior-machine-learning-engineer/) |
 | SOX总监-ITGC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20001/sox-director-itgc/) |
@@ -41,8 +43,6 @@
 | 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | 大型企业销售经理 | 印度 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19988/sales-manager-large-enterprise-india/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
-| 并购技术会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
