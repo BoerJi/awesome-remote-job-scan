@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DACH战略项目主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19997/strategic-pursuits-lead-dach/) |
 | 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19996/chief-of-staff/) |
 | 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
@@ -42,7 +43,6 @@
 | 交易知识产权顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
 | 财务报告总监 - 特殊项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | 机器学习数据科学家，预测平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
-| BD经理，中文 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

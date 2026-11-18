@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Pursuits Lead, DACH | On-site | [View →](https://www.remotejobscan.com/job/19997/strategic-pursuits-lead-dach/) |
 | Chief of Staff | On-site | [View →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
 | Business Analyst-Trading | Remote | [View →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
 | Product Manager II, Workspace and Multi-User | Remote | [View →](https://www.remotejobscan.com/job/14158/product-manager-ii-workspace-and-multi-user/) |
@@ -41,7 +42,6 @@
 | IP Counsel, Transactions | On-site | [View →](https://www.remotejobscan.com/job/16747/ip-counsel-transactions/) |
 | Director, Financial Reporting - Special Projects | On-site | [View →](https://www.remotejobscan.com/job/17670/director-financial-reporting-special-projects/) |
 | Machine Learning Data Scientist, Forecasting Platform | On-site | [View →](https://www.remotejobscan.com/job/19986/machine-learning-data-scientist-forecasting-platform/) |
-| BD Manager, CN | Remote | [View →](https://www.remotejobscan.com/job/19939/bd-manager-cn/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
