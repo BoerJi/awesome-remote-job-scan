@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3272</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3271</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研发运营战略采购业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14145/strategic-sourcing-business-partner-rd-operations/) |
 | 企业销售发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18518/manager-sales-development-enterprise/) |
 | 大型企业销售经理 | 印度 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19988/sales-manager-large-enterprise-india/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
@@ -42,7 +43,6 @@
 | B2B生态系统负责人，合作伙伴增长 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | B2B生态系统负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
 | 计算能力策略与运营 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19983/compute-capacity-strategy-operations/) |
-| DotCom全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19984/full-stack-software-engineer-dotcom/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
