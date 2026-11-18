@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3265</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
+| 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
+| 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
+| 监管、产品与诉讼副总法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20025/associate-general-counsel-regulatory-product-litigation/) |
+| 解决方案架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
+| 客户支持工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
+| 英国及爱尔兰业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| 岩土工程师，数据中心开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20023/geotechnical-engineer-data-center-development/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | 战略财务高级分析师 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
 | 高级分析师，控制与治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
@@ -34,14 +42,6 @@
 | 竞争情报主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
 | 链上收益与投资高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
 | 连接器平台高级/资深软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
-| 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20017/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
-| GTM战略与运营、战略项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
-| GTM人才合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
-| 软件工程师，代理身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
-| 商业运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20012/business-operations-analyst/) |
-| 应用AI架构师，有益部署（全球与公共卫生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
-| SIP专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20011/sip-expert/) |
-| 客户营销主管，初创项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

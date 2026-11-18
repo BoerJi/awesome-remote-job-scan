@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
+| Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
+| Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
+| Associate General Counsel, Regulatory, Product & Litigation | Remote | [View →](https://www.remotejobscan.com/job/20025/associate-general-counsel-regulatory-product-litigation/) |
+| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
+| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
+| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
+| Geotechnical Engineer, Data Center Development | Remote | [View →](https://www.remotejobscan.com/job/20023/geotechnical-engineer-data-center-development/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
 | Senior Analyst, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
@@ -34,14 +42,6 @@
 | Competitive Intelligence Lead | On-site | [View →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
 | Staff Product Designer, Onchain Yield & Investments | Remote | [View →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
 | Senior / Staff Software Engineer, Connectors Platform | Hybrid | [View →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
-| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20017/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
-| GTM Strategy & Operations, Strategic Programs | Hybrid | [View →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
-| People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
-| Software Engineer, Agent Identity | Hybrid | [View →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
-| Business Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/20012/business-operations-analyst/) |
-| Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
-| SIP Expert | Remote | [View →](https://www.remotejobscan.com/job/20011/sip-expert/) |
-| Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
