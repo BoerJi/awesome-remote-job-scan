@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3271</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Manager, Large Enterprise | India | Hybrid | [View →](https://www.remotejobscan.com/job/19988/sales-manager-large-enterprise-india/) |
+| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
+| Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | Director, Technical Accounting - M&A | On-site | [View →](https://www.remotejobscan.com/job/11659/director-technical-accounting-ma/) |
 | Senior Network Security Architect 高级网络安全架构师（出海） | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Engineering Manager, Agent Security Partnerships | On-site | [View →](https://www.remotejobscan.com/job/19656/engineering-manager-agent-security-partnerships/) |
@@ -37,12 +40,9 @@
 | Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) | On-site | [View →](https://www.remotejobscan.com/job/17839/applied-ai-architect-beneficial-deployments-life-sciences-community-enablement/) |
 | B2B Ecosystem Lead, Partner Growth | Hybrid | [View →](https://www.remotejobscan.com/job/18323/b2b-ecosystem-lead-partner-growth/) |
 | B2B Ecosystem Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-ecosystem-lead-business-development/) |
-| Treasury Director, Investments & Liquidity | On-site | [View →](https://www.remotejobscan.com/job/15019/treasury-director-investments-liquidity/) |
 | Compute Capacity Strategy & Operations | On-site | [View →](https://www.remotejobscan.com/job/19983/compute-capacity-strategy-operations/) |
 | Full Stack Software Engineer, DotCom | On-site | [View →](https://www.remotejobscan.com/job/19984/full-stack-software-engineer-dotcom/) |
 | Legal Counsel, Litigation | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
-| Deployment Lead (DL), FDE - Seoul | Hybrid | [View →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
-| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
