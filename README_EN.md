@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3272</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Full Stack Software Engineer, DotCom | On-site | [View →](https://www.remotejobscan.com/job/19984/full-stack-software-engineer-dotcom/) |
+| Legal Counsel, Litigation | On-site | [View →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
+| Deployment Lead (DL), FDE - Seoul | Hybrid | [View →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
+| Staff Software Engineer, Customer Administration | Remote | [View →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
+| Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
+| Staff Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/18480/staff-developer-advocate/) |
+| Senior Data Scientist, Risk Strategy | On-site | [View →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
+| Developer Relations, Platform | On-site | [View →](https://www.remotejobscan.com/job/19980/developer-relations-platform/) |
+| Hyperscaler & Systems Integrator Partner Manager (North America) | On-site | [View →](https://www.remotejobscan.com/job/19981/hyperscaler-systems-integrator-partner-manager-north-america/) |
+| Head of Creative | Hybrid | [View →](https://www.remotejobscan.com/job/19982/head-of-creative/) |
+| GTM Activations Strategy Lead | On-site | [View →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
 | Platform Hardware Security | On-site | [View →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
 | Head of PMO, Workplace | On-site | [View →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
 | Staff Software Engineer (Platform - Access & Authorization) | Remote | [View →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
@@ -32,17 +43,6 @@
 | Head of Strategic Pursuits | On-site | [View →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
 | Program Manager, Office of the CEO (PMO) | Hybrid | [View →](https://www.remotejobscan.com/job/19977/program-manager-office-of-the-ceo-pmo/) |
 | Senior Manager, Technology Sourcing | Hybrid | [View →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
-| Marketplace Operations | Remote | [View →](https://www.remotejobscan.com/job/19974/marketplace-operations/) |
-| Risk & Insurance Specialist | On-site | [View →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
-| Discovery Technical Operations Specialist | On-site | [View →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
-| Strategy & Operations Lead, France | Hybrid | [View →](https://www.remotejobscan.com/job/19973/strategy-operations-lead-france/) |
-| Customer Program Manager, Executive Briefings | On-site | [View →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
-| Software Engineer, Enterprise Apps | Remote | [View →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| Lead HRBP, GTM | Hybrid | [View →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
-| HRBP, Tech | Hybrid | [View →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
-| People Operations Coordinator | Remote | [View →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
-| Forward Deployed Engineer (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/19970/forward-deployed-engineer-uk/) |
-| Cyber AI Partner Director, Americas | Remote | [View →](https://www.remotejobscan.com/job/19966/cyber-ai-partner-director-americas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

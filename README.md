@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3272</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3273</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| DotCom全栈软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19984/full-stack-software-engineer-dotcom/) |
+| 诉讼律师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18681/legal-counsel-litigation/) |
+| 部署负责人（DL），FDE - 首尔 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19985/deployment-lead-dl-fde-seoul/) |
+| 高级软件工程师，客户管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9324/staff-software-engineer-customer-administration/) |
+| 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
+| 高级开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18480/staff-developer-advocate/) |
+| 高级数据科学家，风险策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
+| 开发者关系，平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19980/developer-relations-platform/) |
+| 北美超大规模系统集成商合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19981/hyperscaler-systems-integrator-partner-manager-north-america/) |
+| 创意总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19982/head-of-creative/) |
+| GTM 激活策略负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19972/gtm-activations-strategy-lead/) |
 | 平台硬件安全 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9524/platform-hardware-security/) |
 | 工作场所项目办公室负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19918/head-of-pmo-workplace/) |
 | 高级软件工程师（平台 - 访问与授权） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12262/staff-software-engineer-platform-access-authorization/) |
@@ -32,17 +43,6 @@
 | 战略业务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19976/head-of-strategic-pursuits/) |
 | CEO办公室项目总监（PMO） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19977/program-manager-office-of-the-ceo-pmo/) |
 | 高级技术采购经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19501/senior-manager-technology-sourcing/) |
-| 市场运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19974/marketplace-operations/) |
-| 风险与保险专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18253/risk-insurance-specialist/) |
-| 发现技术运营专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17777/discovery-technical-operations-specialist/) |
-| 法国战略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19973/strategy-operations-lead-france/) |
-| 客户项目经理，高管简报 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19281/customer-program-manager-executive-briefings/) |
-| 企业应用软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18107/software-engineer-enterprise-apps/) |
-| GTM首席人力资源业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19968/lead-hrbp-gtm/) |
-| HRBP, 技术 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19969/hrbp-tech/) |
-| 人事运营协调员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19971/people-operations-coordinator/) |
-| 英国前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19970/forward-deployed-engineer-uk/) |
-| 美洲网络安全AI合作伙伴总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19966/cyber-ai-partner-director-americas/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
