@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3275</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，Vercel代理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20007/software-engineer-vercel-agent/) |
+| 高级战略项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19274/senior-strategic-program-manager/) |
+| GRC系统技术产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
 | 商业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20003/applied-ai-engineer-commercial/) |
 | 自供设备（OFE）需求规划师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20004/owner-furnished-equipment-ofe-demand-planner/) |
 | 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
@@ -40,9 +43,6 @@
 | 首席行政官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19995/chief-of-staff/) |
 | 首席助理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19996/chief-of-staff/) |
 | 交易业务分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8640/business-analyst-trading/) |
-| 巴黎应用AI架构师，工业领域 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19992/paris-applied-ai-architect-industries/) |
-| 采购经理 - 专业服务 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19993/procurement-manager-professional-services/) |
-| 后端开发工程师 - 交易系统 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19991/backend-developer-trading-system/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
