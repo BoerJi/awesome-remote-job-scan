@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3269</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,13 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
+| Sr Staff Product Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
+| Competitive Intelligence Lead | On-site | [View →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
 | Staff Product Designer, Onchain Yield & Investments | Remote | [View →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
 | Senior / Staff Software Engineer, Connectors Platform | Hybrid | [View →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
 | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20017/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | GTM Strategy & Operations, Strategic Programs | Hybrid | [View →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
 | People Partner GTM | On-site | [View →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
 | Software Engineer, Agent Identity | Hybrid | [View →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
-| Sales Manager - Core Sales | Remote | [View →](https://www.remotejobscan.com/job/20008/sales-manager-core-sales/) |
 | Business Operations Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/20012/business-operations-analyst/) |
 | Applied AI Architect, Beneficial Deployments (Global & Public Health) | On-site | [View →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
 | SIP Expert | Remote | [View →](https://www.remotejobscan.com/job/20011/sip-expert/) |
@@ -39,10 +42,6 @@
 | Technical Product Manager, GRC Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
 | Applied AI Engineer, Commercial | On-site | [View →](https://www.remotejobscan.com/job/20003/applied-ai-engineer-commercial/) |
 | Owner-Furnished Equipment (OFE) Demand Planner | Hybrid | [View →](https://www.remotejobscan.com/job/20004/owner-furnished-equipment-ofe-demand-planner/) |
-| Technical Marketing Engineer | On-site | [View →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| Partner Manager - Public Sector Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20005/partner-manager-public-sector-partnerships/) |
-| Growth Product Marketing Manager, SMB & B2B Self-Serve | Hybrid | [View →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
-| Head of Security Controls Assurance - SOX | On-site | [View →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-18 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

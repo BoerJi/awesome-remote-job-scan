@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3269</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,13 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略财务高级分析师 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
+| Krak资深产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
+| 竞争情报主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
 | 链上收益与投资高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
 | 连接器平台高级/资深软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
 | 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20017/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | GTM战略与运营、战略项目 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20013/gtm-strategy-operations-strategic-programs/) |
 | GTM人才合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20015/people-partner-gtm/) |
 | 软件工程师，代理身份 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20010/software-engineer-agent-identity/) |
-| 核心销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/sales-manager-core-sales/) |
 | 商业运营分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20012/business-operations-analyst/) |
 | 应用AI架构师，有益部署（全球与公共卫生） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19289/applied-ai-architect-beneficial-deployments-global-public-health/) |
 | SIP专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20011/sip-expert/) |
@@ -39,10 +42,6 @@
 | GRC系统技术产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20006/technical-product-manager-grc-systems/) |
 | 商业应用AI工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20003/applied-ai-engineer-commercial/) |
 | 自供设备（OFE）需求规划师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20004/owner-furnished-equipment-ofe-demand-planner/) |
-| 技术营销工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16347/technical-marketing-engineer/) |
-| 公共部门合作伙伴经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20005/partner-manager-public-sector-partnerships/) |
-| SMB与B2B自助服务增长产品营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20002/growth-product-marketing-manager-smb-b2b-self-serve/) |
-| SOX安全控制保证负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/17077/head-of-security-controls-assurance-sox/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-18 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
