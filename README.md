@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3273</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3280</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
+| 信用风险总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
+| 高级产品经理，托管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
+| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
+| 技术认证负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20079/technical-certification-lead/) |
+| 认证评估专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20078/certification-assessment-specialist/) |
+| 认证运营与政策项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20080/certification-operations-and-policy-program-manager/) |
+| 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
+| 安全防护审查工具工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9429/engineering-manager-safeguards-review-tooling/) |
+| 软件工程师，运行时 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20076/software-engineer-runtimes/) |
 | 计算与基础设施法律项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9485/legal-program-manager-compute-infrastructure/) |
 | 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | OpenAI.com设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
@@ -33,16 +43,6 @@
 | 前沿风险安全产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
 | 高级监管顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
 | 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
-| 日本PSE | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20072/japan-pse/) |
-| AI行业成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13704/ai-outcomes-manager-industries/) |
-| 广告解决方案 - 扩规模客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20066/client-partner-ads-solutions-scaled/) |
-| 广告解决方案新业务客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20067/client-partner-new-business-ads-solutions/) |
-| 高级软件工程师，GRC平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20064/staff-software-engineer-grc-platform/) |
-| 风险与欺诈分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20069/risk-fraud-analyst/) |
-| 高级设计研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18733/staff-design-researcher/) |
-| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20065/senior-integrated-campaigns-manager/) |
-| B2B营销与需求生成数据科学领导者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20068/data-science-leader-b2b-marketing-demand-generation/) |
-| 高级软件工程师，后端（零售DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

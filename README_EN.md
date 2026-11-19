@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3280</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,16 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
+| Director, Credit Risk | Remote | [View →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
+| Senior Product Manager, Custody | Remote | [View →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
+| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
+| Technical Certification Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20079/technical-certification-lead/) |
+| Certification Assessment Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/20078/certification-assessment-specialist/) |
+| Certification Operations and Policy Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20080/certification-operations-and-policy-program-manager/) |
+| Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
+| Engineering Manager, Safeguards Review Tooling | On-site | [View →](https://www.remotejobscan.com/job/9429/engineering-manager-safeguards-review-tooling/) |
+| Software Engineer, Runtimes | Hybrid | [View →](https://www.remotejobscan.com/job/20076/software-engineer-runtimes/) |
 | Legal Program Manager, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9485/legal-program-manager-compute-infrastructure/) |
 | Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | Designer, OpenAI.com | Remote | [View →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
@@ -33,16 +43,6 @@
 | Product Manager, Frontier Risks Safety | Hybrid | [View →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
 | Senior Regulatory Counsel | Remote | [View →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
 | Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
-| Japan PSE | Remote | [View →](https://www.remotejobscan.com/job/20072/japan-pse/) |
-| AI Outcomes Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13704/ai-outcomes-manager-industries/) |
-| Client Partner, Ads Solutions – Scaled | Hybrid | [View →](https://www.remotejobscan.com/job/20066/client-partner-ads-solutions-scaled/) |
-| Client Partner, New Business - Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/20067/client-partner-new-business-ads-solutions/) |
-| Staff+ Software Engineer, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/20064/staff-software-engineer-grc-platform/) |
-| Risk & Fraud Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/20069/risk-fraud-analyst/) |
-| Staff Design Researcher | Remote | [View →](https://www.remotejobscan.com/job/18733/staff-design-researcher/) |
-| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20065/senior-integrated-campaigns-manager/) |
-| Data Science Leader, B2B Marketing & Demand Generation | On-site | [View →](https://www.remotejobscan.com/job/20068/data-science-leader-b2b-marketing-demand-generation/) |
-| Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
