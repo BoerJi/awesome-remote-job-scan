@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3260</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
 | Kraken Pro联盟专员（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
 | 高级经理，全球合规战略与政策（英国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20041/senior-manager-global-compliance-strategy-and-policies-uk/) |
 | 德国高级业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20038/senior-business-development-manager-germany/) |
@@ -42,7 +43,6 @@
 | 高级经纪运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
 | 品牌专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 | 销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20034/sales-director/) |
-| 技术专家成员（软件工程师，AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
