@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3274</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3275</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 前沿风险安全产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
+| 高级监管顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
+| 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
+| 日本PSE | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20072/japan-pse/) |
 | AI行业成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13704/ai-outcomes-manager-industries/) |
 | 广告解决方案 - 扩规模客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20066/client-partner-ads-solutions-scaled/) |
 | 广告解决方案新业务客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20067/client-partner-new-business-ads-solutions/) |
@@ -39,10 +43,6 @@
 | 财务分析师，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20060/financial-analyst-ga/) |
 | 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20056/partner-success-lead/) |
 | 国际拓展运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
-| 商业拓展、VIP获取负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20058/business-development-vip-acquisition-lead/) |
-| AWS合作伙伴关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20055/aws-partnerships-lead/) |
-| 德国商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20057/commercial-counsel-germany/) |
-| 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20053/sales-development-uki/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

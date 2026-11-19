@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager, Frontier Risks Safety | Hybrid | [View →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
+| Senior Regulatory Counsel | Remote | [View →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
+| Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
+| Japan PSE | Remote | [View →](https://www.remotejobscan.com/job/20072/japan-pse/) |
 | AI Outcomes Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13704/ai-outcomes-manager-industries/) |
 | Client Partner, Ads Solutions – Scaled | Hybrid | [View →](https://www.remotejobscan.com/job/20066/client-partner-ads-solutions-scaled/) |
 | Client Partner, New Business - Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/20067/client-partner-new-business-ads-solutions/) |
@@ -39,10 +43,6 @@
 | Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/20060/financial-analyst-ga/) |
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/20056/partner-success-lead/) |
 | International Expansion Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
-| Business Development, VIP Acquisition Lead | Remote | [View →](https://www.remotejobscan.com/job/20058/business-development-vip-acquisition-lead/) |
-| AWS Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/20055/aws-partnerships-lead/) |
-| Commercial Counsel - Germany | Remote | [View →](https://www.remotejobscan.com/job/20057/commercial-counsel-germany/) |
-| Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20053/sales-development-uki/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
