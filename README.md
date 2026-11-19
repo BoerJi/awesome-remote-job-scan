@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20049/director-of-accounting/) |
+| 社区参与经理，数据中心（加拿大） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20048/community-engagement-manager-data-centres-canada/) |
+| 创意合作战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20050/strategy-and-operations-lead-creative-partnerships/) |
 | 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20047/data-scientist-product-analytics/) |
 | [巴黎] 企业客户经理，公共部门 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19037/paris-enterprise-account-executive-public-sector/) |
 | 高级AI工程师（内部工具与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/senior-ai-engineer-internal-tools-agents/) |
@@ -40,9 +43,6 @@
 | 高级经理，全球合规战略与政策（美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20046/senior-manager-global-compliance-strategy-and-policies-us/) |
 | 高级业务运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| 学院研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16865/academy-research/) |
-| 品牌策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
-| MM Business Operations Manager做市业务运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/mm-business-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Director of Accounting | On-site | [View →](https://www.remotejobscan.com/job/20049/director-of-accounting/) |
+| Community Engagement Manager, Data Centres (Canada) | Remote | [View →](https://www.remotejobscan.com/job/20048/community-engagement-manager-data-centres-canada/) |
+| Strategy and Operations Lead, Creative Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/20050/strategy-and-operations-lead-creative-partnerships/) |
 | Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/20047/data-scientist-product-analytics/) |
 | [Paris] Enterprise Account Executive, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/19037/paris-enterprise-account-executive-public-sector/) |
 | Senior AI Engineer (Internal Tools & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/senior-ai-engineer-internal-tools-agents/) |
@@ -40,9 +43,6 @@
 | Senior Manager, Global Compliance Strategy and Policies (US) | Hybrid | [View →](https://www.remotejobscan.com/job/20046/senior-manager-global-compliance-strategy-and-policies-us/) |
 | Senior Business Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
-| Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
-| Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
-| MM Business Operations Manager做市业务运营主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/mm-business-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
