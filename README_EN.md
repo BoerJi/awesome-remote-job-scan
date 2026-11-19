@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3255</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Affiliate Specialist - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
+| Senior Manager, Global Compliance Strategy and Policies (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/20041/senior-manager-global-compliance-strategy-and-policies-uk/) |
+| Senior Business Development Manager, Germany | Remote | [View →](https://www.remotejobscan.com/job/20038/senior-business-development-manager-germany/) |
+| Senior Financial Crime Manager, UK | Hybrid | [View →](https://www.remotejobscan.com/job/20040/senior-financial-crime-manager-uk/) |
+| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20039/team-lead-legal-response/) |
+| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/20037/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Senior Software Engineer, Native Mobile - International | Remote | [View →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Senior Business Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
@@ -37,11 +43,6 @@
 | Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 | Sales Director | On-site | [View →](https://www.remotejobscan.com/job/20034/sales-director/) |
 | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
-| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
-| Director, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/20031/director-digital-trust-and-resilience/) |
-| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
-| Enablement Lead - EDU | Hybrid | [View →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
