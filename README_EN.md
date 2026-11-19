@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3276</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3273</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Legal Program Manager, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9485/legal-program-manager-compute-infrastructure/) |
+| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | Designer, OpenAI.com | Remote | [View →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
 | Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/19364/legal-counsel/) |
 | Founding Account Executive, EMEA | On-site | [View →](https://www.remotejobscan.com/job/20074/founding-account-executive-emea/) |
@@ -41,8 +43,6 @@
 | Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20065/senior-integrated-campaigns-manager/) |
 | Data Science Leader, B2B Marketing & Demand Generation | On-site | [View →](https://www.remotejobscan.com/job/20068/data-science-leader-b2b-marketing-demand-generation/) |
 | Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
-| Product Designer, Advertiser Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/20070/product-designer-advertiser-experiences/) |
-| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/20062/strategic-account-executive-tech/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3276</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3273</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 计算与基础设施法律项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9485/legal-program-manager-compute-infrastructure/) |
+| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
 | OpenAI.com设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
 | 法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/legal-counsel/) |
 | EMEA创始客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20074/founding-account-executive-emea/) |
@@ -41,8 +43,6 @@
 | 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20065/senior-integrated-campaigns-manager/) |
 | B2B营销与需求生成数据科学领导者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20068/data-science-leader-b2b-marketing-demand-generation/) |
 | 高级软件工程师，后端（零售DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
-| 产品设计师，广告主体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20070/product-designer-advertiser-experiences/) |
-| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20062/strategic-account-executive-tech/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
