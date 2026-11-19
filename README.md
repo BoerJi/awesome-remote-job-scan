@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3255</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3257</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师，原生移动端 - 国际 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
+| Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| 高级业务运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | 学院研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16865/academy-research/) |
 | 品牌策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
@@ -39,9 +42,6 @@
 | 数字信任与韧性总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20031/director-digital-trust-and-resilience/) |
 | 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | 教育赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
-| ChatGPT商业增长产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
-| 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
-| 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

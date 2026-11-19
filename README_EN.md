@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3255</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3257</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Native Mobile - International | Remote | [View →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
+| Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| Senior Business Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
 | Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
@@ -39,9 +42,6 @@
 | Director, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/20031/director-digital-trust-and-resilience/) |
 | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | Enablement Lead - EDU | Hybrid | [View →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
-| Product Manager, ChatGPT Business Growth | Hybrid | [View →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
-| Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
-| Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
