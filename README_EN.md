@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | Enablement Lead - EDU | Hybrid | [View →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
 | Product Manager, ChatGPT Business Growth | Hybrid | [View →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
 | Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/20026/software-engineer/) |
@@ -41,7 +42,6 @@
 | Institutional Sales Manager, Hedge Funds | Remote | [View →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | Community Engagement Manager, Data Centers (West Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 | Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
-| Sr Staff Product Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

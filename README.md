@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | 教育赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
 | ChatGPT商业增长产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
 | 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20026/software-engineer/) |
@@ -41,7 +42,6 @@
 | 对冲基金机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | 社区参与经理，数据中心（西德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 | 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
-| Krak资深产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
