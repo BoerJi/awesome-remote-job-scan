@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3267</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 数字信任与韧性总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20031/director-digital-trust-and-resilience/) |
 | 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | 教育赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
 | ChatGPT商业增长产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
@@ -41,7 +42,6 @@
 | 美国财务负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16363/us-head-of-finance/) |
 | 对冲基金机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | 社区参与经理，数据中心（西德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
-| 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
