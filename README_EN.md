@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20053/sales-development-uki/) |
+| Software Engineer II - Rust - Pro | Remote | [View →](https://www.remotejobscan.com/job/20052/software-engineer-ii-rust-pro/) |
 | Director of Accounting | On-site | [View →](https://www.remotejobscan.com/job/20049/director-of-accounting/) |
 | Community Engagement Manager, Data Centres (Canada) | Remote | [View →](https://www.remotejobscan.com/job/20048/community-engagement-manager-data-centres-canada/) |
 | Strategy and Operations Lead, Creative Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/20050/strategy-and-operations-lead-creative-partnerships/) |
@@ -41,8 +43,6 @@
 | Senior Software Engineer, Native Mobile - International | Remote | [View →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Senior Manager, Global Compliance Strategy and Policies (US) | Hybrid | [View →](https://www.remotejobscan.com/job/20046/senior-manager-global-compliance-strategy-and-policies-us/) |
-| Senior Business Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
-| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
