@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3280</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3285</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
+| 高级后端软件工程师（零售现货） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
+| 社区参与负责人，德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
+| 旧金山交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
+| 纽约交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20088/manager-delivery-leads-nyc/) |
+| 战略采购实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
+| 税务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15825/tax-operations-intern/) |
+| 业务控制实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15814/business-controller-intern/) |
+| 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20091/commercial-counsel-india/) |
+| 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
+| 会计实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15798/accounting-intern/) |
+| 系统测试工程师，端到端验证 | 消费类设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
+| 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
+| 前沿部署战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20084/forward-deployment-strategy-and-operations/) |
+| 品牌数据基础设施负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20085/brand-data-infrastructure-lead/) |
+| 大客户经理（中市场-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20086/account-executive-mid-market-sf/) |
+| 软件工程师，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
 | 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | 信用风险总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
 | 高级产品经理，托管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
-| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
-| 技术认证负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20079/technical-certification-lead/) |
-| 认证评估专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20078/certification-assessment-specialist/) |
-| 认证运营与政策项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20080/certification-operations-and-policy-program-manager/) |
-| 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
-| 安全防护审查工具工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9429/engineering-manager-safeguards-review-tooling/) |
-| 软件工程师，运行时 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20076/software-engineer-runtimes/) |
-| 计算与基础设施法律项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9485/legal-program-manager-compute-infrastructure/) |
-| 人才获取专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| OpenAI.com设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
-| 法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19364/legal-counsel/) |
-| EMEA创始客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20074/founding-account-executive-emea/) |
-| 高级合规主管，合规与道德 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
-| 主要销售交易员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
-| 前沿风险安全产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
-| 高级监管顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
-| 公共部门应用AI架构师（联邦公务员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

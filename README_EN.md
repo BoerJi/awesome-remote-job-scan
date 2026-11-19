@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3280</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3285</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
+| Senior Software Engineer, Backend (Retail Spot) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
+| Community Engagement Lead, Texas | Remote | [View →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
+| Manager, Delivery Leads - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
+| Manager, Delivery Leads - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/20088/manager-delivery-leads-nyc/) |
+| Strategic Sourcing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
+| Tax Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15825/tax-operations-intern/) |
+| Business Controller Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15814/business-controller-intern/) |
+| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/20091/commercial-counsel-india/) |
+| Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
+| Accounting Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15798/accounting-intern/) |
+| Systems Test Engineer, End-to-End Validation | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
+| Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
+| Forward Deployment Strategy and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/20084/forward-deployment-strategy-and-operations/) |
+| Brand Data Infrastructure Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20085/brand-data-infrastructure-lead/) |
+| Account Executive (Mid Market- SF) | On-site | [View →](https://www.remotejobscan.com/job/20086/account-executive-mid-market-sf/) |
+| Software Engineer, Card | On-site | [View →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
 | Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | Director, Credit Risk | Remote | [View →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
 | Senior Product Manager, Custody | Remote | [View →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
-| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
-| Technical Certification Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20079/technical-certification-lead/) |
-| Certification Assessment Specialist | Hybrid | [View →](https://www.remotejobscan.com/job/20078/certification-assessment-specialist/) |
-| Certification Operations and Policy Program Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20080/certification-operations-and-policy-program-manager/) |
-| Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
-| Engineering Manager, Safeguards Review Tooling | On-site | [View →](https://www.remotejobscan.com/job/9429/engineering-manager-safeguards-review-tooling/) |
-| Software Engineer, Runtimes | Hybrid | [View →](https://www.remotejobscan.com/job/20076/software-engineer-runtimes/) |
-| Legal Program Manager, Compute & Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/9485/legal-program-manager-compute-infrastructure/) |
-| Talent Acquisition Specialist | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition-specialist/) |
-| Designer, OpenAI.com | Remote | [View →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
-| Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/19364/legal-counsel/) |
-| Founding Account Executive, EMEA | On-site | [View →](https://www.remotejobscan.com/job/20074/founding-account-executive-emea/) |
-| Senior Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
-| Prime Sales Trader | Remote | [View →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
-| Product Manager, Frontier Risks Safety | Hybrid | [View →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
-| Senior Regulatory Counsel | Remote | [View →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
-| Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
