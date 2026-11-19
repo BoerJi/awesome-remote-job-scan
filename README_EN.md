@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3262</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/20047/data-scientist-product-analytics/) |
+| [Paris] Enterprise Account Executive, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/19037/paris-enterprise-account-executive-public-sector/) |
+| Senior AI Engineer (Internal Tools & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/senior-ai-engineer-internal-tools-agents/) |
+| Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/20045/enablement-lead-government/) |
 | Strategic Account Executive - UK/I - Insurance | Hybrid | [View →](https://www.remotejobscan.com/job/20044/strategic-account-executive-uki-insurance/) |
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
 | Affiliate Specialist - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
@@ -33,16 +37,12 @@
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/20037/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Senior Software Engineer, Native Mobile - International | Remote | [View →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| Senior Manager, Global Compliance Strategy and Policies (US) | Hybrid | [View →](https://www.remotejobscan.com/job/20046/senior-manager-global-compliance-strategy-and-policies-us/) |
 | Senior Business Operations Manager, OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
 | Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
 | Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
 | MM Business Operations Manager做市业务运营主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/mm-business-operations-manager/) |
-| Head of Institutional Marketing & Communications | Remote | [View →](https://www.remotejobscan.com/job/19012/head-of-institutional-marketing-communications/) |
-| Director of Trading Business Operations - Broker, Custody & Lending | Remote | [View →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
-| Finance Director | Remote | [View →](https://www.remotejobscan.com/job/20033/finance-director/) |
-| Senior Broker Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
-| Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

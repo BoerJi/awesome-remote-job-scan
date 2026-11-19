@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3259</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3262</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20047/data-scientist-product-analytics/) |
+| [巴黎] 企业客户经理，公共部门 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19037/paris-enterprise-account-executive-public-sector/) |
+| 高级AI工程师（内部工具与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/senior-ai-engineer-internal-tools-agents/) |
+| 政府赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20045/enablement-lead-government/) |
 | 战略客户经理 - 英国/保险 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20044/strategic-account-executive-uki-insurance/) |
 | 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
 | Kraken Pro联盟专员（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
@@ -33,16 +37,12 @@
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20037/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | 高级软件工程师，原生移动端 - 国际 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
 | Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| 高级经理，全球合规战略与政策（美国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20046/senior-manager-global-compliance-strategy-and-policies-us/) |
 | 高级业务运营经理，OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20035/senior-business-operations-manager-okx-sg/) |
 | 数字资产风险控制经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
 | 学院研究 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16865/academy-research/) |
 | 品牌策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
 | MM Business Operations Manager做市业务运营主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18623/mm-business-operations-manager/) |
-| 机构市场与传播负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19012/head-of-institutional-marketing-communications/) |
-| 交易业务运营总监 - 经纪、托管与借贷 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
-| 财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20033/finance-director/) |
-| 高级经纪运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
-| 品牌专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
