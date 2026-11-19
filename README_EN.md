@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3260</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3259</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive - UK/I - Insurance | Hybrid | [View →](https://www.remotejobscan.com/job/20044/strategic-account-executive-uki-insurance/) |
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
 | Affiliate Specialist - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
 | Senior Manager, Global Compliance Strategy and Policies (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/20041/senior-manager-global-compliance-strategy-and-policies-uk/) |
@@ -42,7 +43,6 @@
 | Finance Director | Remote | [View →](https://www.remotejobscan.com/job/20033/finance-director/) |
 | Senior Broker Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
 | Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
-| Sales Director | On-site | [View →](https://www.remotejobscan.com/job/20034/sales-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
