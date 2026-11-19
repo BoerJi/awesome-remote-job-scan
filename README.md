@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3268</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3270</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 教育赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
+| ChatGPT商业增长产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
+| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20026/software-engineer/) |
 | 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
 | 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 | 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
@@ -39,9 +42,6 @@
 | 社区参与经理，数据中心（西德克萨斯州） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 | 清算风险分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | Krak资深产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
-| 竞争情报主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
-| 链上收益与投资高级产品设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
-| 连接器平台高级/资深软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

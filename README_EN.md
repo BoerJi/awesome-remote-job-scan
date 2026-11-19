@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3268</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3270</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Enablement Lead - EDU | Hybrid | [View →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
+| Product Manager, ChatGPT Business Growth | Hybrid | [View →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
+| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/20026/software-engineer/) |
 | Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
 | Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 | Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
@@ -39,9 +42,6 @@
 | Community Engagement Manager, Data Centers (West Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 | Clearing Risk Analyst | Remote | [View →](https://www.remotejobscan.com/job/13372/clearing-risk-analyst/) |
 | Sr Staff Product Designer - Krak | Remote | [View →](https://www.remotejobscan.com/job/20018/sr-staff-product-designer-krak/) |
-| Competitive Intelligence Lead | On-site | [View →](https://www.remotejobscan.com/job/20020/competitive-intelligence-lead/) |
-| Staff Product Designer, Onchain Yield & Investments | Remote | [View →](https://www.remotejobscan.com/job/20009/staff-product-designer-onchain-yield-investments/) |
-| Senior / Staff Software Engineer, Connectors Platform | Hybrid | [View →](https://www.remotejobscan.com/job/20016/senior-staff-software-engineer-connectors-platform/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
