@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3275</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3277</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Designer, OpenAI.com | Remote | [View →](https://www.remotejobscan.com/job/20075/designer-openaicom/) |
+| Legal Counsel | On-site | [View →](https://www.remotejobscan.com/job/19364/legal-counsel/) |
+| Founding Account Executive, EMEA | On-site | [View →](https://www.remotejobscan.com/job/20074/founding-account-executive-emea/) |
+| Senior Compliance Lead, Compliance & Ethics | On-site | [View →](https://www.remotejobscan.com/job/19911/senior-compliance-lead-compliance-ethics/) |
+| Prime Sales Trader | Remote | [View →](https://www.remotejobscan.com/job/17705/prime-sales-trader/) |
 | Product Manager, Frontier Risks Safety | Hybrid | [View →](https://www.remotejobscan.com/job/20073/product-manager-frontier-risks-safety/) |
 | Senior Regulatory Counsel | Remote | [View →](https://www.remotejobscan.com/job/20071/senior-regulatory-counsel/) |
 | Applied AI Architect, Public Sector (Federal Civilian) | On-site | [View →](https://www.remotejobscan.com/job/18686/applied-ai-architect-public-sector-federal-civilian/) |
@@ -38,11 +43,6 @@
 | Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
 | Product Designer, Advertiser Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/20070/product-designer-advertiser-experiences/) |
 | Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/20062/strategic-account-executive-tech/) |
-| Senior Product Creative Designer | Remote | [View →](https://www.remotejobscan.com/job/20061/senior-product-creative-designer/) |
-| Manager, Forward Deployed Engineering - London | Hybrid | [View →](https://www.remotejobscan.com/job/20059/manager-forward-deployed-engineering-london/) |
-| Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/20060/financial-analyst-ga/) |
-| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/20056/partner-success-lead/) |
-| International Expansion Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
