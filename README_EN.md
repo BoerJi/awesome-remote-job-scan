@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3261</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Forward Deployed Engineering - London | Hybrid | [View →](https://www.remotejobscan.com/job/20059/manager-forward-deployed-engineering-london/) |
+| Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/20060/financial-analyst-ga/) |
+| Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/20056/partner-success-lead/) |
+| International Expansion Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
+| Business Development, VIP Acquisition Lead | Remote | [View →](https://www.remotejobscan.com/job/20058/business-development-vip-acquisition-lead/) |
+| AWS Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/20055/aws-partnerships-lead/) |
+| Commercial Counsel - Germany | Remote | [View →](https://www.remotejobscan.com/job/20057/commercial-counsel-germany/) |
 | Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20053/sales-development-uki/) |
 | Software Engineer II - Rust - Pro | Remote | [View →](https://www.remotejobscan.com/job/20052/software-engineer-ii-rust-pro/) |
 | Director of Accounting | On-site | [View →](https://www.remotejobscan.com/job/20049/director-of-accounting/) |
@@ -36,13 +43,6 @@
 | Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
 | Affiliate Specialist - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
 | Senior Manager, Global Compliance Strategy and Policies (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/20041/senior-manager-global-compliance-strategy-and-policies-uk/) |
-| Senior Business Development Manager, Germany | Remote | [View →](https://www.remotejobscan.com/job/20038/senior-business-development-manager-germany/) |
-| Senior Financial Crime Manager, UK | Hybrid | [View →](https://www.remotejobscan.com/job/20040/senior-financial-crime-manager-uk/) |
-| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20039/team-lead-legal-response/) |
-| Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/20037/manager-customer-service-escalation-trading-services-mandarin-support/) |
-| Senior Software Engineer, Native Mobile - International | Remote | [View →](https://www.remotejobscan.com/job/20036/senior-software-engineer-native-mobile-international/) |
-| Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
-| Senior Manager, Global Compliance Strategy and Policies (US) | Hybrid | [View →](https://www.remotejobscan.com/job/20046/senior-manager-global-compliance-strategy-and-policies-us/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
