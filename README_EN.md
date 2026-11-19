@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3258</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Digital Asset Risk Control Manager | Remote | [View →](https://www.remotejobscan.com/job/13269/digital-asset-risk-control-manager/) |
+| Academy Research | Remote | [View →](https://www.remotejobscan.com/job/16865/academy-research/) |
+| Brand Strategy | Remote | [View →](https://www.remotejobscan.com/job/19456/brand-strategy/) |
+| MM Business Operations Manager做市业务运营主管 | Remote | [View →](https://www.remotejobscan.com/job/18623/mm-business-operations-manager/) |
+| Head of Institutional Marketing & Communications | Remote | [View →](https://www.remotejobscan.com/job/19012/head-of-institutional-marketing-communications/) |
+| Director of Trading Business Operations - Broker, Custody & Lending | Remote | [View →](https://www.remotejobscan.com/job/19182/director-of-trading-business-operations-broker-custody-lending/) |
+| Finance Director | Remote | [View →](https://www.remotejobscan.com/job/20033/finance-director/) |
+| Senior Broker Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/19183/senior-broker-operations-manager/) |
+| Branding Specialist | Remote | [View →](https://www.remotejobscan.com/job/19076/branding-specialist/) |
 | Sales Director | On-site | [View →](https://www.remotejobscan.com/job/20034/sales-director/) |
 | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
@@ -33,15 +42,6 @@
 | Product Manager, ChatGPT Business Growth | Hybrid | [View →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
 | Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
 | Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
-| Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
-| Associate General Counsel, Regulatory, Product & Litigation | Remote | [View →](https://www.remotejobscan.com/job/20025/associate-general-counsel-regulatory-product-litigation/) |
-| Solutions Architect | Hybrid | [View →](https://www.remotejobscan.com/job/18286/solutions-architect/) |
-| Customer Support Engineer | Remote | [View →](https://www.remotejobscan.com/job/18568/customer-support-engineer/) |
-| Business Development Representative, UK&I | Hybrid | [View →](https://www.remotejobscan.com/job/14831/business-development-representative-uki/) |
-| Geotechnical Engineer, Data Center Development | Remote | [View →](https://www.remotejobscan.com/job/20023/geotechnical-engineer-data-center-development/) |
-| Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
-| Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| Senior Analyst, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
