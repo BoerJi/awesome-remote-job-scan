@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3263</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3253</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
-| Finance Director | Remote | [View →](https://www.remotejobscan.com/job/20033/finance-director/) |
+| Sales Director | On-site | [View →](https://www.remotejobscan.com/job/20034/sales-director/) |
 | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
@@ -31,7 +31,6 @@
 | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | Enablement Lead - EDU | Hybrid | [View →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
 | Product Manager, ChatGPT Business Growth | Hybrid | [View →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
-| Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/20026/software-engineer/) |
 | Senior Application Security Engineer | Remote | [View →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
 | Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 | Account Executive, Commercial | Remote | [View →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
@@ -42,6 +41,7 @@
 | Geotechnical Engineer, Data Center Development | Remote | [View →](https://www.remotejobscan.com/job/20023/geotechnical-engineer-data-center-development/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| Senior Analyst, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

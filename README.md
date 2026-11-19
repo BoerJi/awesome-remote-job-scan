@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3263</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3253</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 财务总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20033/finance-director/) |
+| 销售总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20034/sales-director/) |
 | 技术专家成员（软件工程师，AI政策与战略倡议） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
 | 技术团队成员 (AI软件工程师，智能体引擎) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | 工程经理（智能体引擎） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
@@ -31,7 +31,6 @@
 | 高级/资深软件工程师，搜索与检索基础设施 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | 教育赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
 | ChatGPT商业增长产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20027/product-manager-chatgpt-business-growth/) |
-| 软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20026/software-engineer/) |
 | 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20024/senior-application-security-engineer/) |
 | 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 | 商业客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18644/account-executive-commercial/) |
@@ -42,6 +41,7 @@
 | 岩土工程师，数据中心开发 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20023/geotechnical-engineer-data-center-development/) |
 | 高级会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | 战略财务高级分析师 - 计算 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
+| 高级分析师，控制与治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
