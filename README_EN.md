@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3266</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3274</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| AI Outcomes Manager, Industries | On-site | [View →](https://www.remotejobscan.com/job/13704/ai-outcomes-manager-industries/) |
+| Client Partner, Ads Solutions – Scaled | Hybrid | [View →](https://www.remotejobscan.com/job/20066/client-partner-ads-solutions-scaled/) |
+| Client Partner, New Business - Ads Solutions | Hybrid | [View →](https://www.remotejobscan.com/job/20067/client-partner-new-business-ads-solutions/) |
+| Staff+ Software Engineer, GRC Platform | On-site | [View →](https://www.remotejobscan.com/job/20064/staff-software-engineer-grc-platform/) |
+| Risk & Fraud Analyst | Hybrid | [View →](https://www.remotejobscan.com/job/20069/risk-fraud-analyst/) |
+| Staff Design Researcher | Remote | [View →](https://www.remotejobscan.com/job/18733/staff-design-researcher/) |
+| Senior Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20065/senior-integrated-campaigns-manager/) |
+| Data Science Leader, B2B Marketing & Demand Generation | On-site | [View →](https://www.remotejobscan.com/job/20068/data-science-leader-b2b-marketing-demand-generation/) |
+| Senior Software Engineer, Backend (Retail DEX) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
+| Product Designer, Advertiser Experiences | Hybrid | [View →](https://www.remotejobscan.com/job/20070/product-designer-advertiser-experiences/) |
+| Strategic Account Executive, Tech | On-site | [View →](https://www.remotejobscan.com/job/20062/strategic-account-executive-tech/) |
+| Senior Product Creative Designer | Remote | [View →](https://www.remotejobscan.com/job/20061/senior-product-creative-designer/) |
 | Manager, Forward Deployed Engineering - London | Hybrid | [View →](https://www.remotejobscan.com/job/20059/manager-forward-deployed-engineering-london/) |
 | Financial Analyst, G&A | Remote | [View →](https://www.remotejobscan.com/job/20060/financial-analyst-ga/) |
 | Partner Success Lead | On-site | [View →](https://www.remotejobscan.com/job/20056/partner-success-lead/) |
@@ -31,18 +43,6 @@
 | AWS Partnerships Lead | On-site | [View →](https://www.remotejobscan.com/job/20055/aws-partnerships-lead/) |
 | Commercial Counsel - Germany | Remote | [View →](https://www.remotejobscan.com/job/20057/commercial-counsel-germany/) |
 | Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20053/sales-development-uki/) |
-| Software Engineer II - Rust - Pro | Remote | [View →](https://www.remotejobscan.com/job/20052/software-engineer-ii-rust-pro/) |
-| Director of Accounting | On-site | [View →](https://www.remotejobscan.com/job/20049/director-of-accounting/) |
-| Community Engagement Manager, Data Centres (Canada) | Remote | [View →](https://www.remotejobscan.com/job/20048/community-engagement-manager-data-centres-canada/) |
-| Strategy and Operations Lead, Creative Partnerships | Hybrid | [View →](https://www.remotejobscan.com/job/20050/strategy-and-operations-lead-creative-partnerships/) |
-| Data Scientist - Product Analytics | Remote | [View →](https://www.remotejobscan.com/job/20047/data-scientist-product-analytics/) |
-| [Paris] Enterprise Account Executive, Public Sector | On-site | [View →](https://www.remotejobscan.com/job/19037/paris-enterprise-account-executive-public-sector/) |
-| Senior AI Engineer (Internal Tools & Agents) | Remote | [View →](https://www.remotejobscan.com/job/17549/senior-ai-engineer-internal-tools-agents/) |
-| Enablement Lead, Government | Hybrid | [View →](https://www.remotejobscan.com/job/20045/enablement-lead-government/) |
-| Strategic Account Executive - UK/I - Insurance | Hybrid | [View →](https://www.remotejobscan.com/job/20044/strategic-account-executive-uki-insurance/) |
-| Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
-| Affiliate Specialist - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
-| Senior Manager, Global Compliance Strategy and Policies (UK) | Hybrid | [View →](https://www.remotejobscan.com/job/20041/senior-manager-global-compliance-strategy-and-policies-uk/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

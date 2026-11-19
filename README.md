@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3266</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3274</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| AI行业成果经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/13704/ai-outcomes-manager-industries/) |
+| 广告解决方案 - 扩规模客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20066/client-partner-ads-solutions-scaled/) |
+| 广告解决方案新业务客户合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20067/client-partner-new-business-ads-solutions/) |
+| 高级软件工程师，GRC平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20064/staff-software-engineer-grc-platform/) |
+| 风险与欺诈分析师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20069/risk-fraud-analyst/) |
+| 高级设计研究员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18733/staff-design-researcher/) |
+| 高级整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20065/senior-integrated-campaigns-manager/) |
+| B2B营销与需求生成数据科学领导者 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20068/data-science-leader-b2b-marketing-demand-generation/) |
+| 高级软件工程师，后端（零售DEX） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-dex/) |
+| 产品设计师，广告主体验 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20070/product-designer-advertiser-experiences/) |
+| 战略客户经理，技术 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20062/strategic-account-executive-tech/) |
+| 高级产品创意设计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20061/senior-product-creative-designer/) |
 | 伦敦驻场工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20059/manager-forward-deployed-engineering-london/) |
 | 财务分析师，G&A | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20060/financial-analyst-ga/) |
 | 合作伙伴成功主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20056/partner-success-lead/) |
@@ -31,18 +43,6 @@
 | AWS合作伙伴关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20055/aws-partnerships-lead/) |
 | 德国商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20057/commercial-counsel-germany/) |
 | 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20053/sales-development-uki/) |
-| 软件工程师II - Rust - Pro | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20052/software-engineer-ii-rust-pro/) |
-| 会计总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20049/director-of-accounting/) |
-| 社区参与经理，数据中心（加拿大） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20048/community-engagement-manager-data-centres-canada/) |
-| 创意合作战略与运营主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20050/strategy-and-operations-lead-creative-partnerships/) |
-| 产品分析数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20047/data-scientist-product-analytics/) |
-| [巴黎] 企业客户经理，公共部门 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19037/paris-enterprise-account-executive-public-sector/) |
-| 高级AI工程师（内部工具与代理） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17549/senior-ai-engineer-internal-tools-agents/) |
-| 政府赋能主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20045/enablement-lead-government/) |
-| 战略客户经理 - 英国/保险 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20044/strategic-account-executive-uki-insurance/) |
-| 业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20043/business-development-representative/) |
-| Kraken Pro联盟专员（美国） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20042/affiliate-specialist-kraken-pro-us/) |
-| 高级经理，全球合规战略与政策（英国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20041/senior-manager-global-compliance-strategy-and-policies-uk/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
