@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3265</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3264</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Finance Director | Remote | [View →](https://www.remotejobscan.com/job/20033/finance-director/) |
+| Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | On-site | [View →](https://www.remotejobscan.com/job/19527/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives/) |
+| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 | Director, Digital Trust and Resilience | Hybrid | [View →](https://www.remotejobscan.com/job/20031/director-digital-trust-and-resilience/) |
 | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Hybrid | [View →](https://www.remotejobscan.com/job/20030/seniorstaff-software-engineer-search-retrieval-infrastructure/) |
 | Enablement Lead - EDU | Hybrid | [View →](https://www.remotejobscan.com/job/20028/enablement-lead-edu/) |
@@ -38,10 +42,6 @@
 | Geotechnical Engineer, Data Center Development | Remote | [View →](https://www.remotejobscan.com/job/20023/geotechnical-engineer-data-center-development/) |
 | Senior Accountant | Remote | [View →](https://www.remotejobscan.com/job/20022/senior-accountant/) |
 | Strategic Finance Senior Associate - Compute | On-site | [View →](https://www.remotejobscan.com/job/13558/strategic-finance-senior-associate-compute/) |
-| Senior Analyst, Controls and Governance | On-site | [View →](https://www.remotejobscan.com/job/20021/senior-analyst-controls-and-governance/) |
-| US Head of Finance | On-site | [View →](https://www.remotejobscan.com/job/16363/us-head-of-finance/) |
-| Institutional Sales Manager, Hedge Funds | Remote | [View →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
-| Community Engagement Manager, Data Centers (West Texas) | Remote | [View →](https://www.remotejobscan.com/job/13886/community-engagement-manager-data-centers-west-texas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
