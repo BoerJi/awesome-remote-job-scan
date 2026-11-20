@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3290</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3294</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| B2B Partnerships Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
+| Forward Deployed Engineer (FDE), Cyber - London | Hybrid | [View →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
+| Deployment Lead, Semiconductors - London | Hybrid | [View →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
+| Forward Deployed Engineer (FDE), Cyber - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
+| Applied AI Architect, Beneficial Deployment | On-site | [View →](https://www.remotejobscan.com/job/20102/applied-ai-architect-beneficial-deployment/) |
 | Corporate Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
 | Manufacturing Quality Engineer, Data Center Modular Builds | Remote | [View →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
 | Model Policy Manager, Agentic Safety | Hybrid | [View →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
@@ -38,11 +43,6 @@
 | Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
 | Staff/Sr Staff Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/20095/staffsr-staff-software-engineer-payment/) |
 | Senior Data Scientist, Risk Strategy | On-site | [View →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
-| Research & Development Site Lead (London) | On-site | [View →](https://www.remotejobscan.com/job/20097/research-development-site-lead-london/) |
-| Community Engagement Lead, Southeast | Remote | [View →](https://www.remotejobscan.com/job/20094/community-engagement-lead-southeast/) |
-| Finance Systems Production Support Lead | On-site | [View →](https://www.remotejobscan.com/job/20092/finance-systems-production-support-lead/) |
-| Art Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/20093/art-director-business-marketing/) |
-| Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3290</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3294</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| B2B合作伙伴负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
+| 网络安全前沿部署工程师 (FDE) - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
+| 半导体部署主管 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
+| 前沿部署工程师 (FDE)，网络安全 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
+| 应用AI架构师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20102/applied-ai-architect-beneficial-deployment/) |
 | 企业网络工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
 | 数据中心模块化建设制造质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
 | 自主安全模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
@@ -38,11 +43,6 @@
 | 风险与AI团队机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
 | Staff/Sr Staff 软件工程师，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20095/staffsr-staff-software-engineer-payment/) |
 | 高级数据科学家，风险策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
-| 伦敦研发中心负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20097/research-development-site-lead-london/) |
-| 社区参与负责人，东南地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20094/community-engagement-lead-southeast/) |
-| 财务系统生产支持主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20092/finance-systems-production-support-lead/) |
-| 商业营销艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20093/art-director-business-marketing/) |
-| 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
