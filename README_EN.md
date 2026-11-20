@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Corporate Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
+| Manufacturing Quality Engineer, Data Center Modular Builds | Remote | [View →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
+| Model Policy Manager, Agentic Safety | Hybrid | [View →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20098/specialist-legal-response/) |
 | Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 | Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
@@ -40,9 +43,6 @@
 | Finance Systems Production Support Lead | On-site | [View →](https://www.remotejobscan.com/job/20092/finance-systems-production-support-lead/) |
 | Art Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/20093/art-director-business-marketing/) |
 | Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
-| Senior Software Engineer, Backend (Retail Spot) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
-| Community Engagement Lead, Texas | Remote | [View →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
-| Manager, Delivery Leads - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

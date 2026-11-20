@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 企业网络工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
+| 数据中心模块化建设制造质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
+| 自主安全模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
 | 法律应对专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20098/specialist-legal-response/) |
 | 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 | 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
@@ -40,9 +43,6 @@
 | 财务系统生产支持主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20092/finance-systems-production-support-lead/) |
 | 商业营销艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20093/art-director-business-marketing/) |
 | 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
-| 高级后端软件工程师（零售现货） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
-| 社区参与负责人，德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
-| 旧金山交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
