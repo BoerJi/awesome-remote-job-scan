@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3278</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3290</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
+| 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
+| 卡牌软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
+| 操作系统工程师 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
+| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
+| 操作系统工程师，Linux 内核 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
+| 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
+| 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
+| 风险与AI团队机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
+| Staff/Sr Staff 软件工程师，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20095/staffsr-staff-software-engineer-payment/) |
+| 高级数据科学家，风险策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
+| 伦敦研发中心负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20097/research-development-site-lead-london/) |
+| 社区参与负责人，东南地区 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20094/community-engagement-lead-southeast/) |
+| 财务系统生产支持主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20092/finance-systems-production-support-lead/) |
+| 商业营销艺术总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20093/art-director-business-marketing/) |
 | 消费者合规经理 - 侧重UDAAP和Reg E | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 | 高级后端软件工程师（零售现货） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
 | 社区参与负责人，德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
 | 旧金山交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
 | 纽约交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20088/manager-delivery-leads-nyc/) |
-| 战略采购实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
-| 税务运营实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15825/tax-operations-intern/) |
-| 业务控制实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15814/business-controller-intern/) |
-| 商业法律顾问 - 印度 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20091/commercial-counsel-india/) |
-| 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
-| 会计实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/15798/accounting-intern/) |
-| 系统测试工程师，端到端验证 | 消费类设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
-| 系统集成经理 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
-| 前沿部署战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20084/forward-deployment-strategy-and-operations/) |
-| 品牌数据基础设施负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20085/brand-data-infrastructure-lead/) |
-| 大客户经理（中市场-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20086/account-executive-mid-market-sf/) |
-| 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
-| 信用风险总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
-| 高级产品经理，托管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
-| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

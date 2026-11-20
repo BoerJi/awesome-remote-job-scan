@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3278</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3290</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,26 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
+| Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
+| Software Engineer, Card | On-site | [View →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
+| Operating Systems Engineer | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
+| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
+| Operating Systems Engineer, Linux Kernel | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
+| Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
+| Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
+| Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
+| Staff/Sr Staff Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/20095/staffsr-staff-software-engineer-payment/) |
+| Senior Data Scientist, Risk Strategy | On-site | [View →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
+| Research & Development Site Lead (London) | On-site | [View →](https://www.remotejobscan.com/job/20097/research-development-site-lead-london/) |
+| Community Engagement Lead, Southeast | Remote | [View →](https://www.remotejobscan.com/job/20094/community-engagement-lead-southeast/) |
+| Finance Systems Production Support Lead | On-site | [View →](https://www.remotejobscan.com/job/20092/finance-systems-production-support-lead/) |
+| Art Director, Business Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/20093/art-director-business-marketing/) |
 | Consumer Compliance Manager - UDAAP and Reg E focused | Hybrid | [View →](https://www.remotejobscan.com/job/20087/consumer-compliance-manager-udaap-and-reg-e-focused/) |
 | Senior Software Engineer, Backend (Retail Spot) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
 | Community Engagement Lead, Texas | Remote | [View →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
 | Manager, Delivery Leads - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
 | Manager, Delivery Leads - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/20088/manager-delivery-leads-nyc/) |
-| Strategic Sourcing Intern | Hybrid | [View →](https://www.remotejobscan.com/job/19671/strategic-sourcing-intern/) |
-| Tax Operations Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15825/tax-operations-intern/) |
-| Business Controller Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15814/business-controller-intern/) |
-| Commercial Counsel - India | Remote | [View →](https://www.remotejobscan.com/job/20091/commercial-counsel-india/) |
-| Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14480/software-security-architect-operating-systems-consumer-devices/) |
-| Accounting Intern | Hybrid | [View →](https://www.remotejobscan.com/job/15798/accounting-intern/) |
-| Systems Test Engineer, End-to-End Validation | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/15155/systems-test-engineer-end-to-end-validation-consumer-devices/) |
-| Systems Integration Manager | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14497/systems-integration-manager-consumer-devices/) |
-| Forward Deployment Strategy and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/20084/forward-deployment-strategy-and-operations/) |
-| Brand Data Infrastructure Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20085/brand-data-infrastructure-lead/) |
-| Account Executive (Mid Market- SF) | On-site | [View →](https://www.remotejobscan.com/job/20086/account-executive-mid-market-sf/) |
-| Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
-| Director, Credit Risk | Remote | [View →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
-| Senior Product Manager, Custody | Remote | [View →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
-| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
