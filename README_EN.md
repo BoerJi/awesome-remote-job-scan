@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3288</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Treasury, Trade Finance & Cash Flow Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/20145/treasury-trade-finance-cash-flow-forecasting/) |
+| Administrative Assistant | Hybrid | [View →](https://www.remotejobscan.com/job/20144/administrative-assistant/) |
 | Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
 | Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
@@ -39,8 +41,6 @@
 | Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
 | Corporate Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
 | Commercial Counsel, GTM Strategic Alliances | On-site | [View →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
-| Senior Product Marketing Manager, Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
-| Manager, Data Engineering, Trust & Safety | On-site | [View →](https://www.remotejobscan.com/job/20139/manager-data-engineering-trust-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
