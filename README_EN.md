@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3288</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Compliance Manager, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
+| Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
+| B2B Partnerships, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
+| Agent Engineer, Pre-sales | On-site | [View →](https://www.remotejobscan.com/job/20123/agent-engineer-pre-sales/) |
 | Strategic Account Executive, HCLS | On-site | [View →](https://www.remotejobscan.com/job/20121/strategic-account-executive-hcls/) |
 | Strategic Account Executive, Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/20122/strategic-account-executive-hedge-funds/) |
 | Strategic Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
@@ -38,10 +42,6 @@
 | Forward Deployed Engineer (FDE), Cyber - London | Hybrid | [View →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
 | Deployment Lead, Semiconductors - London | Hybrid | [View →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
 | Forward Deployed Engineer (FDE), Cyber - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
-| Applied AI Architect, Beneficial Deployment | On-site | [View →](https://www.remotejobscan.com/job/20102/applied-ai-architect-beneficial-deployment/) |
-| Corporate Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
-| Manufacturing Quality Engineer, Data Center Modular Builds | Remote | [View →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
-| Model Policy Manager, Agentic Safety | Hybrid | [View →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
