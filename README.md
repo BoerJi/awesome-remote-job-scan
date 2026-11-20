@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 商业招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20114/business-recruiter/) |
 | 安全负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20113/head-of-security/) |
 | 美国副首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
 | 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20112/team-lead-legal-response/) |
@@ -42,7 +43,6 @@
 | 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
 | 卡牌软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
 | 操作系统工程师 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
-| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

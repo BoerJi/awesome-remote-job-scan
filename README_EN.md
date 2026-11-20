@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/20114/business-recruiter/) |
 | Head of Security | On-site | [View →](https://www.remotejobscan.com/job/20113/head-of-security/) |
 | Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
 | Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20112/team-lead-legal-response/) |
@@ -42,7 +43,6 @@
 | Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
 | Software Engineer, Card | On-site | [View →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
 | Operating Systems Engineer | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
-| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
