@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3285</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3278</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -39,10 +39,10 @@
 | 前沿部署战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20084/forward-deployment-strategy-and-operations/) |
 | 品牌数据基础设施负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20085/brand-data-infrastructure-lead/) |
 | 大客户经理（中市场-旧金山） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20086/account-executive-mid-market-sf/) |
-| 软件工程师，卡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
 | 审计运营主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | 信用风险总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
 | 高级产品经理，托管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
+| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-19 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

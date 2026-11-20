@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3285</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3278</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -39,10 +39,10 @@
 | Forward Deployment Strategy and Operations | Hybrid | [View →](https://www.remotejobscan.com/job/20084/forward-deployment-strategy-and-operations/) |
 | Brand Data Infrastructure Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20085/brand-data-infrastructure-lead/) |
 | Account Executive (Mid Market- SF) | On-site | [View →](https://www.remotejobscan.com/job/20086/account-executive-mid-market-sf/) |
-| Software Engineer, Card | On-site | [View →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
 | Audit Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/18571/audit-operations-lead/) |
 | Director, Credit Risk | Remote | [View →](https://www.remotejobscan.com/job/20077/director-credit-risk/) |
 | Senior Product Manager, Custody | Remote | [View →](https://www.remotejobscan.com/job/20081/senior-product-manager-custody/) |
+| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-19 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
