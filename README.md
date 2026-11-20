@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3284</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3288</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
+| 存储产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
+| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
+| 产品经理，控制面板 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
+| 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | 电池包机械设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
 | 新兴AI滥用模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
 | 中市场企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
@@ -36,12 +42,6 @@
 | GTM战略联盟商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
 | 基础设施高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
 | 信任与安全数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20139/manager-data-engineering-trust-safety/) |
-| 高级SEC报告会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20137/senior-sec-reporting-accountant/) |
-| 高级艺术总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20136/senior-art-director/) |
-| GTM运营与代理工作流 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20134/gtm-operations-agentic-workflows/) |
-| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
-| 安全软件工程师，身份与访问管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

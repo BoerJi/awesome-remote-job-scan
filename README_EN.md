@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3284</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3288</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
+| Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
+| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
+| Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
+| Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
+| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | Mechanical Design Engineer, Battery Pack | On-site | [View →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
 | Model Policy Manager, Emerging AI Misuse | Hybrid | [View →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
 | Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
@@ -35,12 +41,6 @@
 | Commercial Counsel, GTM Strategic Alliances | On-site | [View →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
 | Senior Product Marketing Manager, Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
 | Manager, Data Engineering, Trust & Safety | On-site | [View →](https://www.remotejobscan.com/job/20139/manager-data-engineering-trust-safety/) |
-| Senior SEC Reporting Accountant | Remote | [View →](https://www.remotejobscan.com/job/20137/senior-sec-reporting-accountant/) |
-| Senior Art Director | On-site | [View →](https://www.remotejobscan.com/job/20136/senior-art-director/) |
-| GTM Operations & Agentic Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/20134/gtm-operations-agentic-workflows/) |
-| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
-| Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
-| Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
