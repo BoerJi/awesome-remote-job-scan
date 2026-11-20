@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3289</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3290</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 战略客户总监，HCLS | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20121/strategic-account-executive-hcls/) |
+| 对冲基金战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20122/strategic-account-executive-hedge-funds/) |
 | 金融服务战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
 | 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
 | 数据科学家，诚信团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
@@ -33,7 +35,6 @@
 | Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | 全球合规战略与政策副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
 | 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
-| B2B合作伙伴负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
 | 网络安全前沿部署工程师 (FDE) - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
 | 半导体部署主管 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
 | 前沿部署工程师 (FDE)，网络安全 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
@@ -41,7 +42,6 @@
 | 企业网络工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
 | 数据中心模块化建设制造质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
 | 自主安全模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
-| 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

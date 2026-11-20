@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3290</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive, HCLS | On-site | [View →](https://www.remotejobscan.com/job/20121/strategic-account-executive-hcls/) |
+| Strategic Account Executive, Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/20122/strategic-account-executive-hedge-funds/) |
 | Strategic Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
 | Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
 | Data Scientist, Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
@@ -33,7 +35,6 @@
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | VP, Global Compliance Strategy and Policies | Hybrid | [View →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
 | Engineering Manager, Privacy Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
-| B2B Partnerships Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
 | Forward Deployed Engineer (FDE), Cyber - London | Hybrid | [View →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
 | Deployment Lead, Semiconductors - London | Hybrid | [View →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
 | Forward Deployed Engineer (FDE), Cyber - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
@@ -41,7 +42,6 @@
 | Corporate Network Engineer | Remote | [View →](https://www.remotejobscan.com/job/20099/corporate-network-engineer/) |
 | Manufacturing Quality Engineer, Data Center Modular Builds | Remote | [View →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
 | Model Policy Manager, Agentic Safety | Hybrid | [View →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
-| Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
