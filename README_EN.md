@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3283</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3282</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,11 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
-| GTM Strategy & Operations Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20126/gtm-strategy-operations-business-partner/) |
+| International Expansion Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
+| Launch Producer, Business Marketing | Remote | [View →](https://www.remotejobscan.com/job/20132/launch-producer-business-marketing/) |
+| Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
+| Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
+| Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/20130/principal-engineer-capacitycompute/) |
 | Marketing Science Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/20127/marketing-science-lead-apac/) |
 | Engineering Manager, Privacy Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
 | Engineering Manager, Robotics Embedded Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20125/engineering-manager-robotics-embedded-systems/) |
-| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Senior Compliance Manager, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
 | Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
 | B2B Partnerships, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
@@ -37,11 +40,6 @@
 | Strategic Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
 | Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
 | Data Scientist, Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
-| Protection Scientist Engineer, Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/20117/protection-scientist-engineer-integrity/) |
-| Business Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/20114/business-recruiter/) |
-| Head of Security | On-site | [View →](https://www.remotejobscan.com/job/20113/head-of-security/) |
-| Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
-| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

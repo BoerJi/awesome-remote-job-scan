@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3283</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3282</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,11 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| GTM战略与运营业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20126/gtm-strategy-operations-business-partner/) |
+| 国际拓展运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
+| 业务营销发布制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20132/launch-producer-business-marketing/) |
+| 诉讼法律助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
+| 容量工程Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
+| 计算能力首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20130/principal-engineer-capacitycompute/) |
 | 亚太区市场科学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20127/marketing-science-lead-apac/) |
 | 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
 | 机器人嵌入式系统工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20125/engineering-manager-robotics-embedded-systems/) |
-| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | 高级合规经理，KYC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
 | 研究工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
 | B2B合作伙伴关系、业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
@@ -37,11 +40,6 @@
 | 金融服务战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
 | 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
 | 数据科学家，诚信团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
-| 保护科学家工程师，诚信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20117/protection-scientist-engineer-integrity/) |
-| 商业招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20114/business-recruiter/) |
-| 安全负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20113/head-of-security/) |
-| 美国副首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
-| Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
