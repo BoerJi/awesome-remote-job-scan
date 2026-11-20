@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3283</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3284</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Mechanical Design Engineer, Battery Pack | On-site | [View →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
+| Model Policy Manager, Emerging AI Misuse | Hybrid | [View →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
+| Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
+| GTM Strategy & Operations Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20140/gtm-strategy-operations-business-partner/) |
+| Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
+| Staff Software Engineer - Backend (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19482/staff-software-engineer-backend-consumer-agentic-trading/) |
+| Enterprise Account Executive, Hedge Funds & Quantitative Trading | On-site | [View →](https://www.remotejobscan.com/job/19998/enterprise-account-executive-hedge-funds-quantitative-trading/) |
 | Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
 | Corporate Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
 | Commercial Counsel, GTM Strategic Alliances | On-site | [View →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
@@ -34,15 +41,6 @@
 | Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 | Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| Security Software Engineer, Detection & Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-software-engineer-detection-response/) |
-| Engineering Manager (Agent Verticals) | On-site | [View →](https://www.remotejobscan.com/job/20135/engineering-manager-agent-verticals/) |
-| Product Marketing Manager, SMB, Verticals & Partner Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/20133/product-marketing-manager-smb-verticals-partner-ecosystem/) |
-| Senior Product Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/senior-product-engineer-education/) |
-| International Expansion Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
-| Launch Producer, Business Marketing | Remote | [View →](https://www.remotejobscan.com/job/20132/launch-producer-business-marketing/) |
-| Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
-| Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
-| Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/20130/principal-engineer-capacitycompute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

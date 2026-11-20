@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3283</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3284</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 电池包机械设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
+| 新兴AI滥用模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
+| 中市场企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
+| GTM战略与运营业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20140/gtm-strategy-operations-business-partner/) |
+| 高级软件工程师，前端/移动端（消费者-智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
+| 高级软件工程师，前端/移动端（消费者-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19474/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
+| 高级软件工程师 - 后端（消费者 - 智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19482/staff-software-engineer-backend-consumer-agentic-trading/) |
+| 企业客户经理，对冲基金与量化交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19998/enterprise-account-executive-hedge-funds-quantitative-trading/) |
 | 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
 | 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
 | GTM战略联盟商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
@@ -34,15 +42,6 @@
 | 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
 | 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
 | 安全软件工程师，身份与访问管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
-| 安全软件工程师，检测与响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-software-engineer-detection-response/) |
-| 工程经理（代理垂直领域） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20135/engineering-manager-agent-verticals/) |
-| 产品营销经理，中小企业、垂直领域与合作伙伴生态系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20133/product-marketing-manager-smb-verticals-partner-ecosystem/) |
-| 高级产品工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/senior-product-engineer-education/) |
-| 国际拓展运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
-| 业务营销发布制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20132/launch-producer-business-marketing/) |
-| 诉讼法律助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
-| 容量工程Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
-| 计算能力首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20130/principal-engineer-capacitycompute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
