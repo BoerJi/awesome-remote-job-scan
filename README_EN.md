@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3282</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3288</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,23 +23,26 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
+| Corporate Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
+| Commercial Counsel, GTM Strategic Alliances | On-site | [View →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
+| Senior Product Marketing Manager, Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
+| Manager, Data Engineering, Trust & Safety | On-site | [View →](https://www.remotejobscan.com/job/20139/manager-data-engineering-trust-safety/) |
+| Senior SEC Reporting Accountant | Remote | [View →](https://www.remotejobscan.com/job/20137/senior-sec-reporting-accountant/) |
+| Senior Art Director | On-site | [View →](https://www.remotejobscan.com/job/20136/senior-art-director/) |
+| GTM Operations & Agentic Workflows | Hybrid | [View →](https://www.remotejobscan.com/job/20134/gtm-operations-agentic-workflows/) |
+| Software Engineer, Trust & Safety | Hybrid | [View →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| Product Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
+| Security Software Engineer, IAM | Hybrid | [View →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
+| Security Software Engineer, Detection & Response | Hybrid | [View →](https://www.remotejobscan.com/job/9779/security-software-engineer-detection-response/) |
+| Engineering Manager (Agent Verticals) | On-site | [View →](https://www.remotejobscan.com/job/20135/engineering-manager-agent-verticals/) |
+| Product Marketing Manager, SMB, Verticals & Partner Ecosystem | Hybrid | [View →](https://www.remotejobscan.com/job/20133/product-marketing-manager-smb-verticals-partner-ecosystem/) |
+| Senior Product Engineer, Education | On-site | [View →](https://www.remotejobscan.com/job/19883/senior-product-engineer-education/) |
 | International Expansion Operations Associate | Remote | [View →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
 | Launch Producer, Business Marketing | Remote | [View →](https://www.remotejobscan.com/job/20132/launch-producer-business-marketing/) |
 | Litigation Paralegal | Remote | [View →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
 | Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
 | Principal Engineer Capacity/Compute | On-site | [View →](https://www.remotejobscan.com/job/20130/principal-engineer-capacitycompute/) |
-| Marketing Science Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/20127/marketing-science-lead-apac/) |
-| Engineering Manager, Privacy Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
-| Engineering Manager, Robotics Embedded Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20125/engineering-manager-robotics-embedded-systems/) |
-| Senior Compliance Manager, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
-| Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
-| B2B Partnerships, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
-| Agent Engineer, Pre-sales | On-site | [View →](https://www.remotejobscan.com/job/20123/agent-engineer-pre-sales/) |
-| Strategic Account Executive, HCLS | On-site | [View →](https://www.remotejobscan.com/job/20121/strategic-account-executive-hcls/) |
-| Strategic Account Executive, Hedge Funds | On-site | [View →](https://www.remotejobscan.com/job/20122/strategic-account-executive-hedge-funds/) |
-| Strategic Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
-| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
-| Data Scientist, Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

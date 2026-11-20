@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3282</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3288</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,23 +23,26 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
+| 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
+| GTM战略联盟商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
+| 基础设施高级产品营销经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18236/senior-product-marketing-manager-infrastructure/) |
+| 信任与安全数据工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20139/manager-data-engineering-trust-safety/) |
+| 高级SEC报告会计师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20137/senior-sec-reporting-accountant/) |
+| 高级艺术总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20136/senior-art-director/) |
+| GTM运营与代理工作流 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20134/gtm-operations-agentic-workflows/) |
+| 信任与安全软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/13888/software-engineer-trust-safety/) |
+| 产品安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9774/product-security-engineer/) |
+| 安全软件工程师，身份与访问管理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18238/security-software-engineer-iam/) |
+| 安全软件工程师，检测与响应 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9779/security-software-engineer-detection-response/) |
+| 工程经理（代理垂直领域） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20135/engineering-manager-agent-verticals/) |
+| 产品营销经理，中小企业、垂直领域与合作伙伴生态系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20133/product-marketing-manager-smb-verticals-partner-ecosystem/) |
+| 高级产品工程师，教育 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19883/senior-product-engineer-education/) |
 | 国际拓展运营助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20054/international-expansion-operations-associate/) |
 | 业务营销发布制作人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20132/launch-producer-business-marketing/) |
 | 诉讼法律助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/13243/litigation-paralegal/) |
 | 容量工程Staff+软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
 | 计算能力首席工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20130/principal-engineer-capacitycompute/) |
-| 亚太区市场科学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20127/marketing-science-lead-apac/) |
-| 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
-| 机器人嵌入式系统工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20125/engineering-manager-robotics-embedded-systems/) |
-| 高级合规经理，KYC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
-| 研究工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
-| B2B合作伙伴关系、业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
-| 售前代理工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20123/agent-engineer-pre-sales/) |
-| 战略客户总监，HCLS | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20121/strategic-account-executive-hcls/) |
-| 对冲基金战略客户经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20122/strategic-account-executive-hedge-funds/) |
-| 金融服务战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
-| 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
-| 数据科学家，诚信团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
