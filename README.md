@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3287</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3289</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 金融服务战略客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
+| 财务与战略、交易策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
+| 数据科学家，诚信团队 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
+| 保护科学家工程师，诚信 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20117/protection-scientist-engineer-integrity/) |
 | 商业招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20114/business-recruiter/) |
 | 安全负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20113/head-of-security/) |
 | 美国副首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
@@ -38,11 +42,6 @@
 | 数据中心模块化建设制造质量工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
 | 自主安全模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
 | 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
-| 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
-| 卡牌软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
-| 操作系统工程师 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
-| 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
-| 操作系统工程师，Linux 内核 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

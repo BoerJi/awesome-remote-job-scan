@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3287</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Account Executive, Financial Services | On-site | [View →](https://www.remotejobscan.com/job/20120/strategic-account-executive-financial-services/) |
+| Finance & Strategy, Deal Strategy | On-site | [View →](https://www.remotejobscan.com/job/20119/finance-strategy-deal-strategy/) |
+| Data Scientist, Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/20116/data-scientist-integrity/) |
+| Protection Scientist Engineer, Integrity | Hybrid | [View →](https://www.remotejobscan.com/job/20117/protection-scientist-engineer-integrity/) |
 | Business Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/20114/business-recruiter/) |
 | Head of Security | On-site | [View →](https://www.remotejobscan.com/job/20113/head-of-security/) |
 | Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
@@ -38,11 +42,6 @@
 | Manufacturing Quality Engineer, Data Center Modular Builds | Remote | [View →](https://www.remotejobscan.com/job/20100/manufacturing-quality-engineer-data-center-modular-builds/) |
 | Model Policy Manager, Agentic Safety | Hybrid | [View →](https://www.remotejobscan.com/job/16316/model-policy-manager-agentic-safety/) |
 | Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
-| Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
-| Software Engineer, Card | On-site | [View →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
-| Operating Systems Engineer | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
-| Staff Cloud Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
-| Operating Systems Engineer, Linux Kernel | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
