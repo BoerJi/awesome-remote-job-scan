@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3288</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3284</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| GTM战略与运营业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20126/gtm-strategy-operations-business-partner/) |
+| 亚太区市场科学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20127/marketing-science-lead-apac/) |
+| 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
+| 机器人嵌入式系统工程经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20125/engineering-manager-robotics-embedded-systems/) |
+| EMEA合作伙伴负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | 高级合规经理，KYC | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
 | 研究工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
 | B2B合作伙伴关系、业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
@@ -37,11 +42,6 @@
 | 安全负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20113/head-of-security/) |
 | 美国副首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
 | Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
-| 全球合规战略与政策副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
-| 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
-| 网络安全前沿部署工程师 (FDE) - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
-| 半导体部署主管 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
-| 前沿部署工程师 (FDE)，网络安全 - 东京 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

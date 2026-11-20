@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3288</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3284</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| GTM Strategy & Operations Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20126/gtm-strategy-operations-business-partner/) |
+| Marketing Science Lead, APAC | Hybrid | [View →](https://www.remotejobscan.com/job/20127/marketing-science-lead-apac/) |
+| Engineering Manager, Privacy Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
+| Engineering Manager, Robotics Embedded Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20125/engineering-manager-robotics-embedded-systems/) |
+| Partner Lead, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/9771/partner-lead-emea/) |
 | Senior Compliance Manager, KYC | On-site | [View →](https://www.remotejobscan.com/job/19376/senior-compliance-manager-kyc/) |
 | Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
 | B2B Partnerships, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-business-development/) |
@@ -37,11 +42,6 @@
 | Head of Security | On-site | [View →](https://www.remotejobscan.com/job/20113/head-of-security/) |
 | Deputy Chief Information Security Officer (CISO), US | On-site | [View →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
-| VP, Global Compliance Strategy and Policies | Hybrid | [View →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
-| Engineering Manager, Privacy Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
-| Forward Deployed Engineer (FDE), Cyber - London | Hybrid | [View →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
-| Deployment Lead, Semiconductors - London | Hybrid | [View →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
-| Forward Deployed Engineer (FDE), Cyber - Tokyo | Hybrid | [View →](https://www.remotejobscan.com/job/20104/forward-deployed-engineer-fde-cyber-tokyo/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
