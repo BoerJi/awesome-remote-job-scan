@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3294</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3297</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VP, Global Compliance Strategy and Policies | Hybrid | [View →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
+| Engineering Manager, Privacy Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
 | B2B Partnerships Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
 | Forward Deployed Engineer (FDE), Cyber - London | Hybrid | [View →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
 | Deployment Lead, Semiconductors - London | Hybrid | [View →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
@@ -41,8 +43,6 @@
 | Senior Software Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | Staff Engineer, Machine Learning & Data Infrastructure | On-site | [View →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | Staff Machine Learning Engineer — Risk & AI | On-site | [View →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
-| Staff/Sr Staff Software Engineer, Payment | On-site | [View →](https://www.remotejobscan.com/job/20095/staffsr-staff-software-engineer-payment/) |
-| Senior Data Scientist, Risk Strategy | On-site | [View →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

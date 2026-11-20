@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3294</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3297</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球合规战略与政策副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
+| 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
 | B2B合作伙伴负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
 | 网络安全前沿部署工程师 (FDE) - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20105/forward-deployed-engineer-fde-cyber-london/) |
 | 半导体部署主管 - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20106/deployment-lead-semiconductors-london/) |
@@ -41,8 +43,6 @@
 | 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
 | 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
 | 风险与AI团队机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
-| Staff/Sr Staff 软件工程师，支付 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20095/staffsr-staff-software-engineer-payment/) |
-| 高级数据科学家，风险策略 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/6077/senior-data-scientist-risk-strategy/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
