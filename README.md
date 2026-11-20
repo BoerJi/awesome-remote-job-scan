@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 法律应对专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20098/specialist-legal-response/) |
 | 高级/资深移动交易软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 | 软件安全架构师，操作系统 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
 | 卡牌软件工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
@@ -42,7 +43,6 @@
 | 高级后端软件工程师（零售现货） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
 | 社区参与负责人，德克萨斯州 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
 | 旧金山交付主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
-| 纽约交付主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20088/manager-delivery-leads-nyc/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20098/specialist-legal-response/) |
 | Senior/Staff Software Engineer, Mobile Trading | On-site | [View →](https://www.remotejobscan.com/job/8900/seniorstaff-software-engineer-mobile-trading/) |
 | Software Security Architect, Operating Systems | Consumer Devices | On-site | [View →](https://www.remotejobscan.com/job/20096/software-security-architect-operating-systems-consumer-devices/) |
 | Software Engineer, Card | On-site | [View →](https://www.remotejobscan.com/job/20083/software-engineer-card/) |
@@ -42,7 +43,6 @@
 | Senior Software Engineer, Backend (Retail Spot) | Remote | [View →](https://www.remotejobscan.com/job/17438/senior-software-engineer-backend-retail-spot/) |
 | Community Engagement Lead, Texas | Remote | [View →](https://www.remotejobscan.com/job/20090/community-engagement-lead-texas/) |
 | Manager, Delivery Leads - San Francisco | On-site | [View →](https://www.remotejobscan.com/job/20089/manager-delivery-leads-san-francisco/) |
-| Manager, Delivery Leads - NYC | Hybrid | [View →](https://www.remotejobscan.com/job/20088/manager-delivery-leads-nyc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-20 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
