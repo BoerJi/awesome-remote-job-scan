@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3295</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3293</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国副首席信息安全官（CISO） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20111/deputy-chief-information-security-officer-ciso-us/) |
+| 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20112/team-lead-legal-response/) |
+| Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | 全球合规战略与政策副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20109/vp-global-compliance-strategy-and-policies/) |
 | 隐私基础设施工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20107/engineering-manager-privacy-infrastructure/) |
 | B2B合作伙伴负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20103/b2b-partnerships-lead-business-development/) |
@@ -40,9 +43,6 @@
 | 操作系统工程师 | 消费电子产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14646/operating-systems-engineer-consumer-devices/) |
 | 高级云基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18685/staff-cloud-infrastructure-engineer/) |
 | 操作系统工程师，Linux 内核 | 消费设备 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16723/operating-systems-engineer-linux-kernel-consumer-devices/) |
-| 高级软件工程师，机器学习与数据基础设施 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19848/senior-software-engineer-machine-learning-data-infrastructure/) |
-| 机器学习与数据基础设施高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19324/staff-engineer-machine-learning-data-infrastructure/) |
-| 风险与AI团队机器学习工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19672/staff-machine-learning-engineer-risk-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-20 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
