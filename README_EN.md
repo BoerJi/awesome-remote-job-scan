@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3291</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Integrated Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20150/integrated-marketing-manager/) |
+| Director, Partner Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/20149/director-partner-marketing/) |
 | Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | Research Operations, External Artifacts | Remote | [View →](https://www.remotejobscan.com/job/20147/research-operations-external-artifacts/) |
 | Principal Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
@@ -41,7 +43,6 @@
 | Model Policy Manager, Emerging AI Misuse | Hybrid | [View →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
 | Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
 | GTM Strategy & Operations Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20140/gtm-strategy-operations-business-partner/) |
-| Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

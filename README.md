@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3289</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3291</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20150/integrated-marketing-manager/) |
+| 合作伙伴营销总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20149/director-partner-marketing/) |
 | 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
 | 研究运营，外部文物 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20147/research-operations-external-artifacts/) |
 | 隐私首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
@@ -41,8 +43,6 @@
 | 新兴AI滥用模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
 | 中市场企业客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
 | GTM战略与运营业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20140/gtm-strategy-operations-business-partner/) |
-| 高级软件工程师，前端/移动端（消费者-智能交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
-| 高级软件工程师，前端/移动端（消费者-代理交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19474/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
