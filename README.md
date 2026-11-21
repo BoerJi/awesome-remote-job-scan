@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3289</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3288</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 区域销售总监，法律 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
 | 资金管理、贸易融资与现金流预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20145/treasury-trade-finance-cash-flow-forecasting/) |
 | 行政助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20144/administrative-assistant/) |
 | 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
@@ -41,7 +42,6 @@
 | 企业客户经理，对冲基金与量化交易 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19998/enterprise-account-executive-hedge-funds-quantitative-trading/) |
 | 信用风险经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
 | 企业会计经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
-| GTM战略联盟商业法律顾问 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20138/commercial-counsel-gtm-strategic-alliances/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
