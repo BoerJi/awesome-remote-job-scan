@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（16 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -37,8 +37,6 @@
 | 隐私软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | 网络安全培训研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20148/researcher-cyber-safety-training/) |
 | 区域销售总监，法律 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
-| 资金管理、贸易融资与现金流预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20145/treasury-trade-finance-cash-flow-forecasting/) |
-| 行政助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20144/administrative-assistant/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
