@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3288</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
+| Research Operations, External Artifacts | Remote | [View →](https://www.remotejobscan.com/job/20147/research-operations-external-artifacts/) |
+| Principal Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
+| Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
+| Researcher, Cyber Safety Training | On-site | [View →](https://www.remotejobscan.com/job/20148/researcher-cyber-safety-training/) |
 | Regional Sales Director, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
 | Treasury, Trade Finance & Cash Flow Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/20145/treasury-trade-finance-cash-flow-forecasting/) |
 | Administrative Assistant | Hybrid | [View →](https://www.remotejobscan.com/job/20144/administrative-assistant/) |
@@ -37,10 +42,6 @@
 | Account Director, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20141/account-director-mid-market-enterprise/) |
 | GTM Strategy & Operations Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20140/gtm-strategy-operations-business-partner/) |
 | Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19478/staff-software-engineer-frontendmobile-consumer-agentic-trading/) |
-| Staff Software Engineer - Backend (Consumer - Agentic Trading) | Remote | [View →](https://www.remotejobscan.com/job/19482/staff-software-engineer-backend-consumer-agentic-trading/) |
-| Enterprise Account Executive, Hedge Funds & Quantitative Trading | On-site | [View →](https://www.remotejobscan.com/job/19998/enterprise-account-executive-hedge-funds-quantitative-trading/) |
-| Credit Risk Manager | Remote | [View →](https://www.remotejobscan.com/job/19979/credit-risk-manager/) |
-| Corporate Accounting Manager | Remote | [View →](https://www.remotejobscan.com/job/9186/corporate-accounting-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
