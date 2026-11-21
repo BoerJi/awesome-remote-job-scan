@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3291</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3290</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20153/infrastructure-engineer/) |
 | Research Engineer, Finetuning | On-site | [View →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
 | Integrated Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20150/integrated-marketing-manager/) |
@@ -42,7 +43,6 @@
 | Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 | Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | Mechanical Design Engineer, Battery Pack | On-site | [View →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
-| Model Policy Manager, Emerging AI Misuse | Hybrid | [View →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

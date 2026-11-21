@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3291</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3290</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 客户营销主管，初创项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20153/infrastructure-engineer/) |
 | 微调研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
 | 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20150/integrated-marketing-manager/) |
@@ -42,7 +43,6 @@
 | 产品经理，控制面板 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 | 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
 | 电池包机械设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
-| 新兴AI滥用模型政策经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20142/model-policy-manager-emerging-ai-misuse/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
