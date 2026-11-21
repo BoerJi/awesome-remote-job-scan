@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3290</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3292</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20155/solutions-architect/) |
+| 推理技术支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
 | 客户营销主管，初创项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20153/infrastructure-engineer/) |
 | 微调研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
@@ -41,8 +43,6 @@
 | 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
 | 产品经理，控制面板 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
-| 软件工厂产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
-| 电池包机械设计工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

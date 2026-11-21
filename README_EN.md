@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3290</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3292</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect/) |
+| Technical Support Engineer (Inference) | On-site | [View →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
 | Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20153/infrastructure-engineer/) |
 | Research Engineer, Finetuning | On-site | [View →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
@@ -41,8 +43,6 @@
 | Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
 | Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
 | Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
-| Product Manager, Software Factory | Hybrid | [View →](https://www.remotejobscan.com/job/17781/product-manager-software-factory/) |
-| Mechanical Design Engineer, Battery Pack | On-site | [View →](https://www.remotejobscan.com/job/20143/mechanical-design-engineer-battery-pack/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
