@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（20 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -39,10 +39,6 @@
 | Regional Sales Director, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
 | Treasury, Trade Finance & Cash Flow Forecasting | Hybrid | [View →](https://www.remotejobscan.com/job/20145/treasury-trade-finance-cash-flow-forecasting/) |
 | Administrative Assistant | Hybrid | [View →](https://www.remotejobscan.com/job/20144/administrative-assistant/) |
-| Software Engineer, Website | Hybrid | [View →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
-| Product Manager, Storage | Hybrid | [View →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| Product Manager, Observability | Hybrid | [View →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| Product Manager, Networking + CDN | Hybrid | [View →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

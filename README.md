@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（20 个精选职位）
+## 🆕 今日更新（16 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -39,10 +39,6 @@
 | 区域销售总监，法律 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
 | 资金管理、贸易融资与现金流预测 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20145/treasury-trade-finance-cash-flow-forecasting/) |
 | 行政助理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20144/administrative-assistant/) |
-| 网站软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9791/software-engineer-website/) |
-| 存储产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18461/product-manager-storage/) |
-| 可观测性产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/14006/product-manager-observability/) |
-| 网络+CDN产品经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17314/product-manager-networking-cdn/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +103,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
