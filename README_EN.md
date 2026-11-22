@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（9 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -32,7 +32,6 @@
 | Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 | Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect/) |
 | Technical Support Engineer (Inference) | On-site | [View →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
-| Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -97,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 15:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 16:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
