@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（14 个精选职位）
+## 🆕 今日更新（13 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -36,7 +36,6 @@
 | 隐私首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
 | 隐私软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | 网络安全培训研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20148/researcher-cyber-safety-training/) |
-| 区域销售总监，法律 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-21 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 00:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

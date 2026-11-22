@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（13 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -36,7 +36,6 @@
 | Principal Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
 | Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
 | Researcher, Cyber Safety Training | On-site | [View →](https://www.remotejobscan.com/job/20148/researcher-cyber-safety-training/) |
-| Regional Sales Director, Legal | Hybrid | [View →](https://www.remotejobscan.com/job/20146/regional-sales-director-legal/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +100,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-21 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 00:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
