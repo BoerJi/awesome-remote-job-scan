@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3296</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3291</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（7 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -30,8 +30,6 @@
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20158/specialist-legal-response/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20157/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | 解决方案架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
-| 解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20155/solutions-architect/) |
-| 推理技术支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +94,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

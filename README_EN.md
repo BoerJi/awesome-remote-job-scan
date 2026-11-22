@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3296</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3291</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（7 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -30,8 +30,6 @@
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20158/specialist-legal-response/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/20157/manager-customer-service-escalation-trading-services-mandarin-support/) |
 | Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
-| Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect/) |
-| Technical Support Engineer (Inference) | On-site | [View →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +94,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
