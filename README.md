@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3297</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3300</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（15 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 云合作伙伴项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20171/program-manager-cloud-partners/) |
+| 营销活动运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20170/head-of-campaign-operations/) |
+| 活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
 | 研究工程师 / 研究科学家，健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
 | 人类繁荣研究工程师/研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
 | 研究工程师 / 研究科学家 - 训练后，记忆 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
@@ -99,6 +102,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
