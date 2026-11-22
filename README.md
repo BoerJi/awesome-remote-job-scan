@@ -14,22 +14,27 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3291</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3297</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（7 个精选职位）
+## 🆕 今日更新（12 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 研究工程师 / 研究科学家，健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
+| 人类繁荣研究工程师/研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
+| 研究工程师 / 研究科学家 - 训练后，记忆 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
+| 研究工程师/研究科学家-训练后，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20165/research-engineerresearch-scientist-post-training-model-experience/) |
+| 研究工程师/研究科学家-训练后，主动性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20164/research-engineerresearch-scientist-post-training-proactivity/) |
+| 研究工程师 / 研究科学家，训练后 — 集体对齐（用户信号） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20163/research-engineer-research-scientist-post-training-collective-alignment-user-signals/) |
 | VIP客户关系管理专员（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20162/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | 技术客户支持专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20161/technical-customer-support-specialist/) |
 | 行政助理（财务与资金团队支持） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20160/administrative-associate-finance-treasury-team-support/) |
 | 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20159/team-lead-legal-response/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20158/specialist-legal-response/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20157/manager-customer-service-escalation-trading-services-mandarin-support/) |
-| 解决方案架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +99,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

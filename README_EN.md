@@ -14,22 +14,27 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3291</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3297</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（7 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Research Engineer / Research Scientist, Health | On-site | [View →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
+| Research Engineer / Research Scientist, Human Flourishing | On-site | [View →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
+| Research Engineer / Research Scientist - Post Training, Memory | On-site | [View →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
+| Research Engineer/Research Scientist- Post Training, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/20165/research-engineerresearch-scientist-post-training-model-experience/) |
+| Research Engineer/Research Scientist-Post Training, Proactivity | On-site | [View →](https://www.remotejobscan.com/job/20164/research-engineerresearch-scientist-post-training-proactivity/) |
+| Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals) | On-site | [View →](https://www.remotejobscan.com/job/20163/research-engineer-research-scientist-post-training-collective-alignment-user-signals/) |
 | Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/20162/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/20161/technical-customer-support-specialist/) |
 | Administrative Associate (Finance & Treasury Team Support) | Hybrid | [View →](https://www.remotejobscan.com/job/20160/administrative-associate-finance-treasury-team-support/) |
 | Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20159/team-lead-legal-response/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20158/specialist-legal-response/) |
 | Manager, Customer Service (Escalation & Trading Services, Mandarin Support) | On-site | [View →](https://www.remotejobscan.com/job/20157/manager-customer-service-escalation-trading-services-mandarin-support/) |
-| Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -94,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
