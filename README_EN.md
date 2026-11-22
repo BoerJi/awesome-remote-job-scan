@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（13 featured jobs）
+## 🆕 Latest Updates（8 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -31,11 +31,6 @@
 | Research Engineer, Finetuning | On-site | [View →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
 | Integrated Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20150/integrated-marketing-manager/) |
 | Director, Partner Marketing | Hybrid | [View →](https://www.remotejobscan.com/job/20149/director-partner-marketing/) |
-| Business Development Representative | On-site | [View →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
-| Research Operations, External Artifacts | Remote | [View →](https://www.remotejobscan.com/job/20147/research-operations-external-artifacts/) |
-| Principal Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
-| Staff+ Software Engineer, Privacy | Remote | [View →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| Researcher, Cyber Safety Training | On-site | [View →](https://www.remotejobscan.com/job/20148/researcher-cyber-safety-training/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 00:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 01:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

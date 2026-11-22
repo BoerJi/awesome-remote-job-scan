@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,11 +31,6 @@
 | 微调研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
 | 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20150/integrated-marketing-manager/) |
 | 合作伙伴营销总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20149/director-partner-marketing/) |
-| 业务发展代表 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16413/business-development-representative/) |
-| 研究运营，外部文物 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20147/research-operations-external-artifacts/) |
-| 隐私首席工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19636/principal-engineer-privacy/) |
-| 隐私软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/12271/staff-software-engineer-privacy/) |
-| 网络安全培训研究员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20148/researcher-cyber-safety-training/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -100,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 00:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 01:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
