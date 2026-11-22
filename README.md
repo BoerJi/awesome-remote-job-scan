@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3295</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3296</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| VIP客户关系管理专员（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20162/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | 技术客户支持专家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20161/technical-customer-support-specialist/) |
 | 行政助理（财务与资金团队支持） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20160/administrative-associate-finance-treasury-team-support/) |
 | 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20159/team-lead-legal-response/) |
@@ -96,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

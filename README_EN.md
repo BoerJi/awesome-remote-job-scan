@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3295</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3296</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（9 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/20162/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/20161/technical-customer-support-specialist/) |
 | Administrative Associate (Finance & Treasury Team Support) | Hybrid | [View →](https://www.remotejobscan.com/job/20160/administrative-associate-finance-treasury-team-support/) |
 | Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20159/team-lead-legal-response/) |
@@ -96,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
