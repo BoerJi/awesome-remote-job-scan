@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（10 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -33,7 +33,6 @@
 | 推理技术支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
 | 客户营销主管，初创项目 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20153/infrastructure-engineer/) |
-| 微调研究工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 12:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-22 13:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

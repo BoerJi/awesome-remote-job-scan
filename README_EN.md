@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Technical Support Engineer (Inference) | On-site | [View →](https://www.remotejobscan.com/job/20156/technical-support-engineer-inference/) |
 | Customer Marketing Lead, Startups Program | On-site | [View →](https://www.remotejobscan.com/job/19766/customer-marketing-lead-startups-program/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20153/infrastructure-engineer/) |
-| Research Engineer, Finetuning | On-site | [View →](https://www.remotejobscan.com/job/20152/research-engineer-finetuning/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 12:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 13:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
