@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3300</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3301</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（15 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Deployment Strategist, Public Sector (Federal & SLED) - North America | Remote | [View →](https://www.remotejobscan.com/job/20172/deployment-strategist-public-sector-federal-sled-north-america/) |
 | Program Manager, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/20171/program-manager-cloud-partners/) |
 | Head of Campaign Operations | On-site | [View →](https://www.remotejobscan.com/job/20170/head-of-campaign-operations/) |
 | Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
@@ -102,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-22 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
