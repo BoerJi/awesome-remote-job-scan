@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3292</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3299</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform) | On-site | [View →](https://www.remotejobscan.com/job/20196/member-of-technical-staff-software-engineer-space-sandbox-platform/) |
+| Sr Structured Finance Execution Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20194/sr-structured-finance-execution-lead/) |
+| Applied AI Architect, Technology Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20193/applied-ai-architect-technology-partnerships/) |
+| GTM Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20195/gtm-strategy-operations-enterprise/) |
+| Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
+| Forward Deployed Engineer - Dublin | Hybrid | [View →](https://www.remotejobscan.com/job/20192/forward-deployed-engineer-dublin/) |
+| Sr Manager, Infrastructure Sales | Remote | [View →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
+| Senior Sales Associate - CB Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
+| Institutional Sales Manager, Hedge Funds | Remote | [View →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | Commercial Counsel - Brazil | Remote | [View →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
 | U.S. Financial Controller | Hybrid | [View →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
 | Strategic Sourcing Lead, Engineering & Research Technology | On-site | [View →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
@@ -34,15 +43,6 @@
 | DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | Product Marketing Manager, Hardware (Korea) | Hybrid | [View →](https://www.remotejobscan.com/job/20187/product-marketing-manager-hardware-korea/) |
 | Growth Client Partner, Scaled Ads (MM - UKI) | Hybrid | [View →](https://www.remotejobscan.com/job/20184/growth-client-partner-scaled-ads-mm-uki/) |
-| Growth Client Partner, Scaled Ads (MM - French Market) | Hybrid | [View →](https://www.remotejobscan.com/job/20185/growth-client-partner-scaled-ads-mm-french-market/) |
-| Growth Client Partner, Scaled Ads (MM - DACH Market) | Hybrid | [View →](https://www.remotejobscan.com/job/20186/growth-client-partner-scaled-ads-mm-dach-market/) |
-| Product Marketing Manager, Hardware (Japan) | Hybrid | [View →](https://www.remotejobscan.com/job/20183/product-marketing-manager-hardware-japan/) |
-| Senior Strategic Program Lead, GFCO | Remote | [View →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
-| Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
-| Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
-| Industry Principal, Insurance | On-site | [View →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
-| Global Events Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
-| Head of Community Relations, Compute | On-site | [View →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

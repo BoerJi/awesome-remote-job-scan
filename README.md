@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3292</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3299</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,15 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 技术团队成员（软件工程师，SPACE - 沙盒平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20196/member-of-technical-staff-software-engineer-space-sandbox-platform/) |
+| 高级结构化金融执行主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20194/sr-structured-finance-execution-lead/) |
+| 应用AI架构师，技术合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20193/applied-ai-architect-technology-partnerships/) |
+| 企业GTM战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20195/gtm-strategy-operations-enterprise/) |
+| 公共部门应用AI架构师（州和地方政府） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
+| Dublin前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20192/forward-deployed-engineer-dublin/) |
+| 基础设施销售高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
+| 高级销售助理 - CB基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
+| 对冲基金机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | 巴西商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
 | 美国财务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
 | 工程与研究技术战略采购负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
@@ -34,15 +43,6 @@
 | DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
 | 硬件产品营销经理（韩国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20187/product-marketing-manager-hardware-korea/) |
 | 增长客户合作伙伴，规模化广告 (MM - UKI) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20184/growth-client-partner-scaled-ads-mm-uki/) |
-| 增长客户合作伙伴，规模化广告 (MM - 法国市场) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20185/growth-client-partner-scaled-ads-mm-french-market/) |
-| 增长客户合作伙伴，规模化广告 (MM - 德法瑞市场) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20186/growth-client-partner-scaled-ads-mm-dach-market/) |
-| 硬件产品营销经理（日本） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20183/product-marketing-manager-hardware-japan/) |
-| 高级战略项目主管，GFCO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
-| 就业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
-| 高级软件工程师，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
-| 保险行业首席专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
-| 全球活动策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
-| 计算领域社区关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 21:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
