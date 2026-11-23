@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3298</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3296</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 工程与研究技术战略采购负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
 | 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | GFCO项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
 | 研究工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
@@ -42,7 +43,6 @@
 | 计算领域社区关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
 | 软件工程师，模型到产品行为工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
 | 全球KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
-| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3298</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3296</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Strategic Sourcing Lead, Engineering & Research Technology | On-site | [View →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
 | Forward Deployed Engineer (Applied AI) | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | GFCO Program Manager | Remote | [View →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
 | Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
@@ -42,7 +43,6 @@
 | Head of Community Relations, Compute | On-site | [View →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
 | Software Engineer, Model-to-Product Behavior Engineering | On-site | [View →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
 | Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
-| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
