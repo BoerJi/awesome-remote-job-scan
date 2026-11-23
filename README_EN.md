@@ -14,15 +14,17 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3295</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3297</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（16 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
+| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 | Deployment Strategist, Public Sector (Federal & SLED) - North America | Remote | [View →](https://www.remotejobscan.com/job/20172/deployment-strategist-public-sector-federal-sled-north-america/) |
 | Program Manager, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/20171/program-manager-cloud-partners/) |
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
