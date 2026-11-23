@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3299</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3304</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
+| 财务系统高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
+| 助理控制官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
+| 计算交付项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
+| 合作伙伴解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20199/partner-solutions-architect/) |
+| 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
+| 高级校园招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20201/senior-university-recruiter/) |
 | 技术团队成员（软件工程师，SPACE - 沙盒平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20196/member-of-technical-staff-software-engineer-space-sandbox-platform/) |
 | 高级结构化金融执行主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20194/sr-structured-finance-execution-lead/) |
 | 应用AI架构师，技术合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20193/applied-ai-architect-technology-partnerships/) |
@@ -36,13 +43,6 @@
 | 美国财务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
 | 工程与研究技术战略采购负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
 | 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
-| GFCO项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
-| 研究工程师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
-| 公共云运营高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Kubernetes 团队工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / 网站可靠性工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| 硬件产品营销经理（韩国） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20187/product-marketing-manager-hardware-korea/) |
-| 增长客户合作伙伴，规模化广告 (MM - UKI) | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20184/growth-client-partner-scaled-ads-mm-uki/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3299</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3304</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
+| Finance Systems Senior Analyst | Remote | [View →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
+| Assistant Controller | On-site | [View →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
+| Program Manager, Compute Delivery | On-site | [View →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
+| Partner Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20199/partner-solutions-architect/) |
+| Head of Sales Enablement | On-site | [View →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
+| Senior University Recruiter | On-site | [View →](https://www.remotejobscan.com/job/20201/senior-university-recruiter/) |
 | Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform) | On-site | [View →](https://www.remotejobscan.com/job/20196/member-of-technical-staff-software-engineer-space-sandbox-platform/) |
 | Sr Structured Finance Execution Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20194/sr-structured-finance-execution-lead/) |
 | Applied AI Architect, Technology Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20193/applied-ai-architect-technology-partnerships/) |
@@ -36,13 +43,6 @@
 | U.S. Financial Controller | Hybrid | [View →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
 | Strategic Sourcing Lead, Engineering & Research Technology | On-site | [View →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
 | Forward Deployed Engineer (Applied AI) | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
-| GFCO Program Manager | Remote | [View →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
-| Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
-| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
-| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
-| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
-| Product Marketing Manager, Hardware (Korea) | Hybrid | [View →](https://www.remotejobscan.com/job/20187/product-marketing-manager-hardware-korea/) |
-| Growth Client Partner, Scaled Ads (MM - UKI) | Hybrid | [View →](https://www.remotejobscan.com/job/20184/growth-client-partner-scaled-ads-mm-uki/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
