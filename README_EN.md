@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3299</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3300</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
+| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | Sr. Director, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/20176/sr-director-enterprise-risk/) |
 | Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
 | Head of Legal & Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/head-of-legal-compliance/) |
@@ -41,8 +43,6 @@
 | Research Engineer / Research Scientist, Human Flourishing | On-site | [View →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
 | Research Engineer / Research Scientist - Post Training, Memory | On-site | [View →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
 | Research Engineer/Research Scientist- Post Training, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/20165/research-engineerresearch-scientist-post-training-model-experience/) |
-| Research Engineer/Research Scientist-Post Training, Proactivity | On-site | [View →](https://www.remotejobscan.com/job/20164/research-engineerresearch-scientist-post-training-proactivity/) |
-| Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals) | On-site | [View →](https://www.remotejobscan.com/job/20163/research-engineer-research-scientist-post-training-collective-alignment-user-signals/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

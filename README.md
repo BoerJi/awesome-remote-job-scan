@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3299</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3300</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
+| 法务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
 | 企业风险管理高级总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20176/sr-director-enterprise-risk/) |
 | 高级/资深Java工程师，OKX Web3钱包 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
 | 法律与合规负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16876/head-of-legal-compliance/) |
@@ -41,8 +43,6 @@
 | 人类繁荣研究工程师/研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
 | 研究工程师 / 研究科学家 - 训练后，记忆 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
 | 研究工程师/研究科学家-训练后，模型体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20165/research-engineerresearch-scientist-post-training-model-experience/) |
-| 研究工程师/研究科学家-训练后，主动性 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20164/research-engineerresearch-scientist-post-training-proactivity/) |
-| 研究工程师 / 研究科学家，训练后 — 集体对齐（用户信号） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20163/research-engineer-research-scientist-post-training-collective-alignment-user-signals/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
