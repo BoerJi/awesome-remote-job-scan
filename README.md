@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
 | 结构化产品交易员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20177/structured-products-trader/) |
 | 法务专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9129/legal-officer/) |
@@ -42,7 +43,6 @@
 | 活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
 | 研究工程师 / 研究科学家，健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
 | 人类繁荣研究工程师/研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
-| 研究工程师 / 研究科学家 - 训练后，记忆 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

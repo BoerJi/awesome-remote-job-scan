@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
 | Structured Products Trader | On-site | [View →](https://www.remotejobscan.com/job/20177/structured-products-trader/) |
 | Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
@@ -42,7 +43,6 @@
 | Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
 | Research Engineer / Research Scientist, Health | On-site | [View →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
 | Research Engineer / Research Scientist, Human Flourishing | On-site | [View →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
-| Research Engineer / Research Scientist - Post Training, Memory | On-site | [View →](https://www.remotejobscan.com/job/20166/research-engineer-research-scientist-post-training-memory/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
