@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3298</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3299</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | 社交媒体内容创作者与主播 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
 | 结构化产品交易员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20177/structured-products-trader/) |
@@ -42,7 +43,6 @@
 | 营销活动运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20170/head-of-campaign-operations/) |
 | 活动经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
 | 研究工程师 / 研究科学家，健康 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
-| 人类繁荣研究工程师/研究科学家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20167/research-engineer-research-scientist-human-flourishing/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
