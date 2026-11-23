@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（16 featured jobs）
+## 🆕 Latest Updates（15 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -38,7 +38,6 @@
 | Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals) | On-site | [View →](https://www.remotejobscan.com/job/20163/research-engineer-research-scientist-post-training-collective-alignment-user-signals/) |
 | Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/20162/specialist-vip-customer-relationship-management-mandarin-speaker/) |
 | Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/20161/technical-customer-support-specialist/) |
-| Administrative Associate (Finance & Treasury Team Support) | Hybrid | [View →](https://www.remotejobscan.com/job/20160/administrative-associate-finance-treasury-team-support/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +102,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
