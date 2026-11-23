@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3297</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3296</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Model-to-Product Behavior Engineering | On-site | [View →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
 | Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
@@ -42,7 +43,6 @@
 | Program Manager, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/20171/program-manager-cloud-partners/) |
 | Head of Campaign Operations | On-site | [View →](https://www.remotejobscan.com/job/20170/head-of-campaign-operations/) |
 | Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
-| Research Engineer / Research Scientist, Health | On-site | [View →](https://www.remotejobscan.com/job/20168/research-engineer-research-scientist-health/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
