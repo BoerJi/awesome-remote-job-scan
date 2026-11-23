@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3298</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,18 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer (Applied AI) | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
+| GFCO Program Manager | Remote | [View →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
+| Research Engineer, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/20124/research-engineer-beneficial-deployments/) |
+| Staff Engineer, Public Cloud Operations | On-site | [View →](https://www.remotejobscan.com/job/16788/staff-engineer-public-cloud-operations/) |
+| Staff/Senior Staff Engineer, Kubernetes | On-site | [View →](https://www.remotejobscan.com/job/14684/staffsenior-staff-engineer-kubernetes/) |
+| DevOps / Site Reliability Engineer | On-site | [View →](https://www.remotejobscan.com/job/14683/devops-site-reliability-engineer/) |
+| Product Marketing Manager, Hardware (Korea) | Hybrid | [View →](https://www.remotejobscan.com/job/20187/product-marketing-manager-hardware-korea/) |
+| Growth Client Partner, Scaled Ads (MM - UKI) | Hybrid | [View →](https://www.remotejobscan.com/job/20184/growth-client-partner-scaled-ads-mm-uki/) |
+| Growth Client Partner, Scaled Ads (MM - French Market) | Hybrid | [View →](https://www.remotejobscan.com/job/20185/growth-client-partner-scaled-ads-mm-french-market/) |
+| Growth Client Partner, Scaled Ads (MM - DACH Market) | Hybrid | [View →](https://www.remotejobscan.com/job/20186/growth-client-partner-scaled-ads-mm-dach-market/) |
+| Product Marketing Manager, Hardware (Japan) | Hybrid | [View →](https://www.remotejobscan.com/job/20183/product-marketing-manager-hardware-japan/) |
+| Senior Strategic Program Lead, GFCO | Remote | [View →](https://www.remotejobscan.com/job/18037/senior-strategic-program-lead-gfco/) |
 | Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 | Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
 | Industry Principal, Insurance | On-site | [View →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
@@ -31,18 +43,6 @@
 | Software Engineer, Model-to-Product Behavior Engineering | On-site | [View →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
 | Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
-| Risk Control Algorithm Engineer 风控算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
-| Structured Products Trader | On-site | [View →](https://www.remotejobscan.com/job/20177/structured-products-trader/) |
-| Legal Officer | On-site | [View →](https://www.remotejobscan.com/job/9129/legal-officer/) |
-| Sr. Director, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/20176/sr-director-enterprise-risk/) |
-| Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
-| Head of Legal & Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/head-of-legal-compliance/) |
-| Team Lead, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/20175/team-lead-financial-crime-compliance-qa/) |
-| Enterprise Account Executive - India | Remote | [View →](https://www.remotejobscan.com/job/20174/enterprise-account-executive-india/) |
-| Tech Governance - Security Compliance & Governance Engineer | On-site | [View →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
-| Senior Trading Product Manager 资深交易产品 | Remote | [View →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
