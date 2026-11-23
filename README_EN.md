@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3303</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3301</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
+| Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20204/applied-ai-engineer-mid-market-enterprise/) |
+| Optical Mechanical Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
 | Finance Systems Senior Analyst | Remote | [View →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
 | Assistant Controller | On-site | [View →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
@@ -40,9 +43,6 @@
 | Senior Sales Associate - CB Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
 | Institutional Sales Manager, Hedge Funds | Remote | [View →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | Commercial Counsel - Brazil | Remote | [View →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
-| U.S. Financial Controller | Hybrid | [View →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
-| Strategic Sourcing Lead, Engineering & Research Technology | On-site | [View →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
-| Forward Deployed Engineer (Applied AI) | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

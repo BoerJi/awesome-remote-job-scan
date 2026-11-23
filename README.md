@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3301</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
+| 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20204/applied-ai-engineer-mid-market-enterprise/) |
+| 光学机械工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
 | 财务系统高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
 | 助理控制官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
@@ -40,9 +43,6 @@
 | 高级销售助理 - CB基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
 | 对冲基金机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
 | 巴西商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
-| 美国财务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
-| 工程与研究技术战略采购负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
-| 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 23:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
