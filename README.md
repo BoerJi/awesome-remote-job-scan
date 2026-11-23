@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3298</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3295</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（13 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 伦敦业务经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 | 公共部门部署策略师（联邦与SLED）- 北美 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20172/deployment-strategist-public-sector-federal-sled-north-america/) |
 | 云合作伙伴项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20171/program-manager-cloud-partners/) |
 | 营销活动运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20170/head-of-campaign-operations/) |
@@ -100,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
