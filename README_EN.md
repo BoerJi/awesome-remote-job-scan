@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3296</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3295</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
+| Industry Principal, Insurance | On-site | [View →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
+| Global Events Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
+| Head of Community Relations, Compute | On-site | [View →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
 | Software Engineer, Model-to-Product Behavior Engineering | On-site | [View →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
 | Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | Social Content Creator & Presenter | On-site | [View →](https://www.remotejobscan.com/job/19734/social-content-creator-presenter/) |
@@ -39,10 +43,6 @@
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
-| Deployment Strategist, Public Sector (Federal & SLED) - North America | Remote | [View →](https://www.remotejobscan.com/job/20172/deployment-strategist-public-sector-federal-sled-north-america/) |
-| Program Manager, Cloud Partners | On-site | [View →](https://www.remotejobscan.com/job/20171/program-manager-cloud-partners/) |
-| Head of Campaign Operations | On-site | [View →](https://www.remotejobscan.com/job/20170/head-of-campaign-operations/) |
-| Campaign Manager | On-site | [View →](https://www.remotejobscan.com/job/20169/campaign-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
