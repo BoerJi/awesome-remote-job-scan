@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3295</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3289</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Counsel, Employment | Hybrid | [View →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 | Staff+ Software Engineer, Capacity Engineering | On-site | [View →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
 | Industry Principal, Insurance | On-site | [View →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
 | Global Events Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
@@ -42,7 +43,6 @@
 | Senior Trading Product Manager 资深交易产品 | Remote | [View →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
-| Engagement Manager (London) | On-site | [View →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

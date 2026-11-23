@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3295</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3289</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 就业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18861/counsel-employment/) |
 | 高级软件工程师，容量工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20131/staff-software-engineer-capacity-engineering/) |
 | 保险行业首席专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
 | 全球活动策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
@@ -42,7 +43,6 @@
 | Senior Trading Product Manager 资深交易产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
-| 伦敦业务经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19525/engagement-manager-london/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
