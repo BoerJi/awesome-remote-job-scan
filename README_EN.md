@@ -14,15 +14,18 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3298</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3300</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（19 featured jobs）
+## 🆕 Latest Updates（20 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Sr. Director, Enterprise Risk | Remote | [View →](https://www.remotejobscan.com/job/20176/sr-director-enterprise-risk/) |
+| Staff/Senior Java Engineer, OKX Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11824/staffsenior-java-engineer-okx-web3-wallet/) |
+| Head of Legal & Compliance | Remote | [View →](https://www.remotejobscan.com/job/16876/head-of-legal-compliance/) |
 | Team Lead, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/20175/team-lead-financial-crime-compliance-qa/) |
 | Enterprise Account Executive - India | Remote | [View →](https://www.remotejobscan.com/job/20174/enterprise-account-executive-india/) |
 | Tech Governance - Security Compliance & Governance Engineer | On-site | [View →](https://www.remotejobscan.com/job/8684/tech-governance-security-compliance-governance-engineer/) |
@@ -40,8 +43,6 @@
 | Research Engineer/Research Scientist- Post Training, Model Experience | On-site | [View →](https://www.remotejobscan.com/job/20165/research-engineerresearch-scientist-post-training-model-experience/) |
 | Research Engineer/Research Scientist-Post Training, Proactivity | On-site | [View →](https://www.remotejobscan.com/job/20164/research-engineerresearch-scientist-post-training-proactivity/) |
 | Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals) | On-site | [View →](https://www.remotejobscan.com/job/20163/research-engineer-research-scientist-post-training-collective-alignment-user-signals/) |
-| Specialist, VIP Customer Relationship Management (Mandarin Speaker) | On-site | [View →](https://www.remotejobscan.com/job/20162/specialist-vip-customer-relationship-management-mandarin-speaker/) |
-| Technical Customer Support Specialist | Remote | [View →](https://www.remotejobscan.com/job/20161/technical-customer-support-specialist/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
