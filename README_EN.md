@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3296</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3292</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Commercial Counsel - Brazil | Remote | [View →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
+| U.S. Financial Controller | Hybrid | [View →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
 | Strategic Sourcing Lead, Engineering & Research Technology | On-site | [View →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
 | Forward Deployed Engineer (Applied AI) | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | GFCO Program Manager | Remote | [View →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
@@ -41,8 +43,6 @@
 | Industry Principal, Insurance | On-site | [View →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
 | Global Events Strategy & Operations Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
 | Head of Community Relations, Compute | On-site | [View →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
-| Software Engineer, Model-to-Product Behavior Engineering | On-site | [View →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
-| Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-23 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

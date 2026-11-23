@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3296</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3292</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 巴西商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
+| 美国财务总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20190/us-financial-controller/) |
 | 工程与研究技术战略采购负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20189/strategic-sourcing-lead-engineering-research-technology/) |
 | 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | GFCO项目经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9210/gfco-program-manager/) |
@@ -41,8 +43,6 @@
 | 保险行业首席专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20182/industry-principal-insurance/) |
 | 全球活动策略与运营负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20181/global-events-strategy-operations-lead/) |
 | 计算领域社区关系负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20063/head-of-community-relations-compute/) |
-| 软件工程师，模型到产品行为工程 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20180/software-engineer-model-to-product-behavior-engineering/) |
-| 全球KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 20:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-23 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
