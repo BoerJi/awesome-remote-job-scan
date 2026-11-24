@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3314</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Life Sciences Operator, External Research | On-site | [View →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
+| Head of Laboratory Facilities | On-site | [View →](https://www.remotejobscan.com/job/20234/head-of-laboratory-facilities/) |
 | QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
 | Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 | Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
@@ -37,8 +39,6 @@
 | Ecosystem Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
 | Solutions Architect, East | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
 | Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
-| Forward Deployed Engineer, Inference & Post-Training (Mandarin Speaking) | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
-| Forward Deployed Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
