@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3313</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3314</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 质量主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17883/qa-lead/) |
+| 内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 | 罗马尼亚高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
 | 高级/资深工程师，数据治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | 市场运营专员，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
@@ -39,8 +41,6 @@
 | 解决方案架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 | 推理与后训练前部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
-| 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
-| 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 12:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 12:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3313</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3314</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
+| Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 | Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
 | Senior/Staff Engineer, Data Governance | On-site | [View →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | Marketing Operations Specialist, SEO/AEO | Remote | [View →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
@@ -37,8 +39,6 @@
 | Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 | Forward Deployed Engineer, Inference & Post-Training (Mandarin Speaking) | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | Forward Deployed Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
-| Head of Sales Enablement | On-site | [View →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
-| Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
