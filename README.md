@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3302</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3300</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 硬件渠道负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20211/channel-lead-hardware/) |
+| 硬件视觉陈列师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20212/visual-merchant-hardware/) |
 | 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
 | 技术客户管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
 | 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
@@ -41,8 +43,6 @@
 | 光学机械工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
 | 基础设施工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
 | 财务系统高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
-| 助理控制官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
-| 计算交付项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

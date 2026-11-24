@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3302</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3300</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Channel Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/20211/channel-lead-hardware/) |
+| Visual Merchant, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/20212/visual-merchant-hardware/) |
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
 | Manager, Technical Account Management | Hybrid | [View →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
 | Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
@@ -41,8 +43,6 @@
 | Optical Mechanical Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
 | Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
 | Finance Systems Senior Analyst | Remote | [View →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
-| Assistant Controller | On-site | [View →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
-| Program Manager, Compute Delivery | On-site | [View →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
