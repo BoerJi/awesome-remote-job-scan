@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3312</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3314</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 市场运营专员，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
+| 市场运营专家，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20231/marketing-operations-specialist-seoaeo/) |
+| 全球税务业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
 | 初创团队经理，Greenfield | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20228/startups-manager-greenfield/) |
 | VIP RM-OC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
 | 风险投资合作伙伴负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20227/vc-partnerships-lead/) |
@@ -38,8 +41,6 @@
 | 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 | 高级产品经理 - 风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
 | 高级产品经理，风险智能产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
-| 运营与控制专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20215/operations-control-specialist/) |
-| 安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20216/security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

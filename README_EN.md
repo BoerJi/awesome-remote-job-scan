@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3312</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3314</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Marketing Operations Specialist, SEO/AEO | Remote | [View →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
+| Global Tax Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
 | Startups Manager, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/20228/startups-manager-greenfield/) |
 | VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
 | VC Partnerships Lead | Remote | [View →](https://www.remotejobscan.com/job/20227/vc-partnerships-lead/) |
@@ -37,8 +39,6 @@
 | Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 | Senior Product Manager - Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
 | Senior Product Manager, Risk Intelligence Product | On-site | [View →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
-| Operations & Control Specialist | On-site | [View →](https://www.remotejobscan.com/job/20215/operations-control-specialist/) |
-| Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/20216/security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
