@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3312</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球应用AI工程负责人，中小企业/中市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
+| 网络安全AI合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
+| 客户成功经理，有益部署EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
+| 高级营销技术专家，归因与绩效 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20239/sr-martech-specialist-attribution-performance/) |
+| 高级市场技术专家，归因与绩效 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20240/sr-martech-specialist-attribution-performance/) |
 | 资金库项目经理 - 资本配置 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20237/treasury-program-manager-capital-allocation/) |
 | 资本形成主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
 | 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
@@ -31,17 +36,13 @@
 | 质量主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17883/qa-lead/) |
 | 内部沟通经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 | 罗马尼亚高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
+| 美洲区高级传播总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20241/senior-director-of-communications-americas/) |
 | 高级/资深工程师，数据治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | 市场运营专员，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
 | 市场运营专家，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20231/marketing-operations-specialist-seoaeo/) |
 | 全球税务业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
 | 初创团队经理，Greenfield | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20228/startups-manager-greenfield/) |
 | VIP RM-OC | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
-| 风险投资合作伙伴负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20227/vc-partnerships-lead/) |
-| 乌克兰业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20219/ukraine-business-development-manager/) |
-| 绿野初创，客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20223/greenfield-startups-account-director/) |
-| 绿色初创企业，客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20226/greenfield-startups-account-director/) |
-| 生态初创团队，客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

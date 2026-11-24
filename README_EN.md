@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3312</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global Head of Applied AI Engineering, SMB / Mid-Market | Hybrid | [View →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
+| Cyber AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
+| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
+| Sr. MarTech Specialist, Attribution & Performance | Remote | [View →](https://www.remotejobscan.com/job/20239/sr-martech-specialist-attribution-performance/) |
 | Treasury Program Manager - Capital Allocation | Remote | [View →](https://www.remotejobscan.com/job/20237/treasury-program-manager-capital-allocation/) |
 | Capital Formation lead | Remote | [View →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
@@ -31,15 +35,12 @@
 | QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
 | Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 | Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
+| Senior Director of Communications – Americas | Hybrid | [View →](https://www.remotejobscan.com/job/20241/senior-director-of-communications-americas/) |
 | Senior/Staff Engineer, Data Governance | On-site | [View →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | Marketing Operations Specialist, SEO/AEO | Remote | [View →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
 | Global Tax Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
 | Startups Manager, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/20228/startups-manager-greenfield/) |
 | VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
-| VC Partnerships Lead | Remote | [View →](https://www.remotejobscan.com/job/20227/vc-partnerships-lead/) |
-| Ukraine Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/20219/ukraine-business-development-manager/) |
-| Greenfield Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20223/greenfield-startups-account-director/) |
-| Ecosystem Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
