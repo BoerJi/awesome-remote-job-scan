@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3303</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3309</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,25 +23,22 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Greenfield Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20223/greenfield-startups-account-director/) |
+| Ecosystem Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
+| Solutions Architect, East | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
+| Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 | Forward Deployed Engineer, Inference & Post-Training (Mandarin Speaking) | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | Forward Deployed Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | Head of Sales Enablement | On-site | [View →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 | Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 | Senior Product Manager - Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
 | Senior Product Manager, Risk Intelligence Product | On-site | [View →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
-| Ukraine Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/20219/ukraine-business-development-manager/) |
 | Operations & Control Specialist | On-site | [View →](https://www.remotejobscan.com/job/20215/operations-control-specialist/) |
 | Security Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/20216/security-engineer/) |
 | B2B Partnerships Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-partnerships-lead-business-development/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
 | Manager, Applied AI Architects (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/20213/manager-applied-ai-architects-singapore/) |
 | Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
-| Regional Product Manager 区域合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
-| Channel Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/20211/channel-lead-hardware/) |
-| Visual Merchant, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/20212/visual-merchant-hardware/) |
-| Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
-| Manager, Technical Account Management | Hybrid | [View →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
-| Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 06:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 06:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

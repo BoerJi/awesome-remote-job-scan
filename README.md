@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3309</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,25 +23,23 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 绿野初创，客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20223/greenfield-startups-account-director/) |
+| 绿色初创企业，客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20226/greenfield-startups-account-director/) |
+| 生态初创团队，客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
+| 东部分支解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
+| 解决方案架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 | 推理与后训练前部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
 | 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 | 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 | 高级产品经理 - 风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
 | 高级产品经理，风险智能产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
-| 乌克兰业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20219/ukraine-business-development-manager/) |
 | 运营与控制专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20215/operations-control-specialist/) |
 | 安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20216/security-engineer/) |
 | B2B合作伙伴负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-partnerships-lead-business-development/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
 | 新加坡应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20213/manager-applied-ai-architects-singapore/) |
 | Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
-| Regional Product Manager 区域合规产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
-| 硬件渠道负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20211/channel-lead-hardware/) |
-| 硬件视觉陈列师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20212/visual-merchant-hardware/) |
-| 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
-| 技术客户管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
-| 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 06:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 06:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
