@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Compliance & Regulatory Operations | On-site | [View →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
+| Safeguards Enforcement Analyst, Cyber Harm | On-site | [View →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
+| Engineering Manager, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
+| Software Engineer, Backend — ChatGPT Voice | Hybrid | [View →](https://www.remotejobscan.com/job/20269/software-engineer-backend-chatgpt-voice/) |
+| Software Engineer, Full Stack — ChatGPT Voice | Hybrid | [View →](https://www.remotejobscan.com/job/20268/software-engineer-full-stack-chatgpt-voice/) |
+| Senior Commercial Counsel, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/20270/senior-commercial-counsel-emea/) |
+| Forward Deployed Engineer (FDE), Life Sciences - London | Hybrid | [View →](https://www.remotejobscan.com/job/20267/forward-deployed-engineer-fde-life-sciences-london/) |
+| Program Operations, Coordination & Logistics, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/20262/program-operations-coordination-logistics-claude-frontier-academy/) |
 | Partner and Services Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
 | Flagship Events Manager, Interrupt | On-site | [View →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
 | GTM Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
@@ -35,14 +43,6 @@
 | Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | Business Development Lead, Compute Strategy & Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20258/business-development-lead-compute-strategy-partnerships/) |
 | Developer Experiences Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
-| Brand Partnership Associate - esports, Gaming & Internet Culture | Remote | [View →](https://www.remotejobscan.com/job/20256/brand-partnership-associate-esports-gaming-internet-culture/) |
-| Brand Partnership Associate, Sports | Remote | [View →](https://www.remotejobscan.com/job/20252/brand-partnership-associate-sports/) |
-| Learning & Instruction Lead, Academy | Hybrid | [View →](https://www.remotejobscan.com/job/20254/learning-instruction-lead-academy/) |
-| Program Manager, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/20255/program-manager-critical-harm-operations/) |
-| Product Manager II | Remote | [View →](https://www.remotejobscan.com/job/20253/product-manager-ii/) |
-| Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
-| Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
-| Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 22:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

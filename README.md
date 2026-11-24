@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,14 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 合规与监管运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
+| 网络安全保护分析师，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
+| 网络安全产品工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
+| 软件工程师，后端 — ChatGPT语音 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20269/software-engineer-backend-chatgpt-voice/) |
+| 软件工程师，全栈 — ChatGPT 语音 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20268/software-engineer-full-stack-chatgpt-voice/) |
+| EMEA高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20270/senior-commercial-counsel-emea/) |
+| 生命科学领域前部署工程师 (FDE) - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20267/forward-deployed-engineer-fde-life-sciences-london/) |
+| 项目运营、协调与后勤，Claude Frontier Academy | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20262/program-operations-coordination-logistics-claude-frontier-academy/) |
 | 合作伙伴与服务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
 | 旗舰活动经理，Interrupt | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
 | GTM系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
@@ -35,14 +43,6 @@
 | 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
 | 计算战略与合作伙伴关系业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20258/business-development-lead-compute-strategy-partnerships/) |
 | 开发者体验经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
-| 品牌合作专员 - 电子竞技、游戏与互联网文化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20256/brand-partnership-associate-esports-gaming-internet-culture/) |
-| 体育品牌合作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20252/brand-partnership-associate-sports/) |
-| 学院学习与教学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20254/learning-instruction-lead-academy/) |
-| 关键危害运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20255/program-manager-critical-harm-operations/) |
-| 产品经理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20253/product-manager-ii/) |
-| 会计分析与商业智能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
-| 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
-| 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 22:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 23:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
