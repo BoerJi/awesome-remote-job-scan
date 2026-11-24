@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
+| Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
+| Account Manager - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20249/account-manager-uki/) |
+| Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 | Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
 | Cloud GTM Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20248/cloud-gtm-program-lead/) |
 | Transformation Leads Regional Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20247/transformation-leads-regional-manager/) |
@@ -38,10 +42,6 @@
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
 | Life Sciences Operator, External Research | On-site | [View →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
 | Head of Laboratory Facilities | On-site | [View →](https://www.remotejobscan.com/job/20234/head-of-laboratory-facilities/) |
-| QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
-| Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
-| Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
-| Senior Director of Communications – Americas | Hybrid | [View →](https://www.remotejobscan.com/job/20241/senior-director-of-communications-americas/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
