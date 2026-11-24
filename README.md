@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3300</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3305</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,7 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
-| 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20214/applied-ai-engineer-mid-market-enterprise/) |
+| 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
+| 高级产品经理 - 风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
+| 高级产品经理，风险智能产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
+| 乌克兰业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20219/ukraine-business-development-manager/) |
+| 运营与控制专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20215/operations-control-specialist/) |
+| 安全工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20216/security-engineer/) |
 | B2B合作伙伴负责人，业务拓展 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18188/b2b-partnerships-lead-business-development/) |
 | Risk Control Algorithm Engineer 风控算法工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
 | 新加坡应用AI架构师经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20213/manager-applied-ai-architects-singapore/) |
@@ -37,12 +42,6 @@
 | 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
 | 工程经理（代理垂直领域） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20208/engineering-manager-agent-verticals/) |
 | 激活经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
-| 高级全球福利专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20207/senior-global-benefits-specialist/) |
-| 初创企业绿色领域客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
-| 技术业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19104/technical-business-development-representative/) |
-| 西部分支解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect-west/) |
-| 东部分支解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
-| 产品经理，仪表盘 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
