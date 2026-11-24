@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3305</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3303</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 推理与后训练前部署工程师（普通话） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
+| 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 | 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 | 高级产品经理 - 风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
 | 高级产品经理，风险智能产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
@@ -39,9 +42,6 @@
 | 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
 | 技术客户管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
 | 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
-| 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
-| 工程经理（代理垂直领域） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20208/engineering-manager-agent-verticals/) |
-| 激活经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 05:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 05:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

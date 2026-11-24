@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3305</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3303</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Forward Deployed Engineer, Inference & Post-Training (Mandarin Speaking) | On-site | [View →](https://www.remotejobscan.com/job/12013/forward-deployed-engineer-inference-post-training-mandarin-speaking/) |
+| Forward Deployed Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
+| Head of Sales Enablement | On-site | [View →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 | Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
 | Senior Product Manager - Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
 | Senior Product Manager, Risk Intelligence Product | On-site | [View →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
@@ -39,9 +42,6 @@
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
 | Manager, Technical Account Management | Hybrid | [View →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
 | Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
-| Regional Security Manager, APAC | Remote | [View →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
-| Engineering Manager (Agent Verticals) | On-site | [View →](https://www.remotejobscan.com/job/20208/engineering-manager-agent-verticals/) |
-| Activation Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
