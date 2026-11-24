@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3298</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3302</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20214/applied-ai-engineer-mid-market-enterprise/) |
+| B2B Partnerships Lead, Business Development | Hybrid | [View →](https://www.remotejobscan.com/job/18188/b2b-partnerships-lead-business-development/) |
+| Risk Control Algorithm Engineer 风控算法工程师 | Remote | [View →](https://www.remotejobscan.com/job/20178/risk-control-algorithm-engineer/) |
+| Manager, Applied AI Architects (Singapore) | Hybrid | [View →](https://www.remotejobscan.com/job/20213/manager-applied-ai-architects-singapore/) |
+| Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
+| Regional Product Manager 区域合规产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19600/regional-product-manager/) |
 | Channel Lead, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/20211/channel-lead-hardware/) |
 | Visual Merchant, Hardware | Hybrid | [View →](https://www.remotejobscan.com/job/20212/visual-merchant-hardware/) |
 | Executive Assistant | Remote | [View →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
@@ -37,12 +43,6 @@
 | Solutions Architect, West | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect-west/) |
 | Solutions Architect, East | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
 | Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
-| Cyber Partner Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/20206/cyber-partner-applied-ai-architect/) |
-| IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
-| Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20204/applied-ai-engineer-mid-market-enterprise/) |
-| Optical Mechanical Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
-| Infrastructure Engineer | On-site | [View →](https://www.remotejobscan.com/job/20203/infrastructure-engineer/) |
-| Finance Systems Senior Analyst | Remote | [View →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
