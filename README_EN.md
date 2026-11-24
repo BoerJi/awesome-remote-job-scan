@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3300</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3303</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Software Engineer, Connect | Hybrid | [View →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
+| Regional Security Manager, APAC | Remote | [View →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
+| Engineering Manager (Agent Verticals) | On-site | [View →](https://www.remotejobscan.com/job/20208/engineering-manager-agent-verticals/) |
+| Activation Manager, Beneficial Deployments | On-site | [View →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
+| Senior Global Benefits Specialist | Remote | [View →](https://www.remotejobscan.com/job/20207/senior-global-benefits-specialist/) |
+| Account Executive, Startups, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| Technical Business Development Representative | Hybrid | [View →](https://www.remotejobscan.com/job/19104/technical-business-development-representative/) |
+| Solutions Architect, West | On-site | [View →](https://www.remotejobscan.com/job/9867/solutions-architect-west/) |
+| Solutions Architect, East | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
+| Product Manager, Dashboard | Hybrid | [View →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
+| Cyber Partner Applied AI Architect | Hybrid | [View →](https://www.remotejobscan.com/job/20206/cyber-partner-applied-ai-architect/) |
 | IT Systems Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20204/applied-ai-engineer-mid-market-enterprise/) |
 | Optical Mechanical Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
@@ -32,17 +43,6 @@
 | Program Manager, Compute Delivery | On-site | [View →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
 | Partner Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20199/partner-solutions-architect/) |
 | Head of Sales Enablement | On-site | [View →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
-| Senior University Recruiter | On-site | [View →](https://www.remotejobscan.com/job/20201/senior-university-recruiter/) |
-| Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform) | On-site | [View →](https://www.remotejobscan.com/job/20196/member-of-technical-staff-software-engineer-space-sandbox-platform/) |
-| Sr Structured Finance Execution Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20194/sr-structured-finance-execution-lead/) |
-| Applied AI Architect, Technology Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20193/applied-ai-architect-technology-partnerships/) |
-| GTM Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20195/gtm-strategy-operations-enterprise/) |
-| Applied AI Architect, Public Sector (State & Local Government) | On-site | [View →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
-| Forward Deployed Engineer - Dublin | Hybrid | [View →](https://www.remotejobscan.com/job/20192/forward-deployed-engineer-dublin/) |
-| Sr Manager, Infrastructure Sales | Remote | [View →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
-| Senior Sales Associate - CB Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
-| Institutional Sales Manager, Hedge Funds | Remote | [View →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
-| Commercial Counsel - Brazil | Remote | [View →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 00:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

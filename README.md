@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3300</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3303</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,17 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
+| 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
+| 工程经理（代理垂直领域） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20208/engineering-manager-agent-verticals/) |
+| 激活经理，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16097/activation-manager-beneficial-deployments/) |
+| 高级全球福利专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20207/senior-global-benefits-specialist/) |
+| 初创企业绿色领域客户经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17680/account-executive-startups-greenfield/) |
+| 技术业务发展代表 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19104/technical-business-development-representative/) |
+| 西部分支解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/9867/solutions-architect-west/) |
+| 东部分支解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
+| 产品经理，仪表盘 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17074/product-manager-dashboard/) |
+| 网络安全合作伙伴应用AI架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20206/cyber-partner-applied-ai-architect/) |
 | IT系统工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17834/it-systems-engineer/) |
 | 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20204/applied-ai-engineer-mid-market-enterprise/) |
 | 光学机械工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20205/optical-mechanical-engineer/) |
@@ -32,17 +43,6 @@
 | 计算交付项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
 | 合作伙伴解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20199/partner-solutions-architect/) |
 | 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
-| 高级校园招聘专员 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20201/senior-university-recruiter/) |
-| 技术团队成员（软件工程师，SPACE - 沙盒平台） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20196/member-of-technical-staff-software-engineer-space-sandbox-platform/) |
-| 高级结构化金融执行主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20194/sr-structured-finance-execution-lead/) |
-| 应用AI架构师，技术合作 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20193/applied-ai-architect-technology-partnerships/) |
-| 企业GTM战略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20195/gtm-strategy-operations-enterprise/) |
-| 公共部门应用AI架构师（州和地方政府） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19287/applied-ai-architect-public-sector-state-local-government/) |
-| Dublin前部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20192/forward-deployed-engineer-dublin/) |
-| 基础设施销售高级经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18598/sr-manager-infrastructure-sales/) |
-| 高级销售助理 - CB基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18910/senior-sales-associate-cb-infrastructure/) |
-| 对冲基金机构销售经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20008/institutional-sales-manager-hedge-funds/) |
-| 巴西商业法律顾问 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20191/commercial-counsel-brazil/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 00:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
