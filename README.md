@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 罗马尼亚高级业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
+| 高级/资深工程师，数据治理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | 市场运营专员，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
 | 市场运营专家，SEO/AEO | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20231/marketing-operations-specialist-seoaeo/) |
 | 全球税务业务合作伙伴 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
@@ -39,8 +41,6 @@
 | 应用人工智能前部署工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 | 中市场企业应用AI工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
-| 高级产品经理 - 风险平台 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
-| 高级产品经理，风险智能产品 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

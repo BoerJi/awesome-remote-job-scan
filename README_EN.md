@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
+| Senior/Staff Engineer, Data Governance | On-site | [View →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | Marketing Operations Specialist, SEO/AEO | Remote | [View →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
 | Global Tax Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
 | Startups Manager, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/20228/startups-manager-greenfield/) |
@@ -37,8 +39,6 @@
 | Forward Deployed Engineer, Applied AI | On-site | [View →](https://www.remotejobscan.com/job/20188/forward-deployed-engineer-applied-ai/) |
 | Head of Sales Enablement | On-site | [View →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 | Applied AI Engineer, Mid-Market Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20220/applied-ai-engineer-mid-market-enterprise/) |
-| Senior Product Manager - Risk Platform | On-site | [View →](https://www.remotejobscan.com/job/20218/senior-product-manager-risk-platform/) |
-| Senior Product Manager, Risk Intelligence Product | On-site | [View →](https://www.remotejobscan.com/job/20217/senior-product-manager-risk-intelligence-product/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
