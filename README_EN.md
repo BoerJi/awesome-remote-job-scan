@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Developer Experiences Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
+| Brand Partnership Associate - esports, Gaming & Internet Culture | Remote | [View →](https://www.remotejobscan.com/job/20256/brand-partnership-associate-esports-gaming-internet-culture/) |
+| Brand Partnership Associate, Sports | Remote | [View →](https://www.remotejobscan.com/job/20252/brand-partnership-associate-sports/) |
+| Learning & Instruction Lead, Academy | Hybrid | [View →](https://www.remotejobscan.com/job/20254/learning-instruction-lead-academy/) |
+| Program Manager, Critical Harm Operations | Hybrid | [View →](https://www.remotejobscan.com/job/20255/program-manager-critical-harm-operations/) |
+| Product Manager II | Remote | [View →](https://www.remotejobscan.com/job/20253/product-manager-ii/) |
 | Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
 | Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
@@ -37,11 +43,6 @@
 | Global Head of Applied AI Engineering, SMB / Mid-Market | Hybrid | [View →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
 | Cyber AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
 | Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| Sr. MarTech Specialist, Attribution & Performance | Remote | [View →](https://www.remotejobscan.com/job/20239/sr-martech-specialist-attribution-performance/) |
-| Treasury Program Manager - Capital Allocation | Remote | [View →](https://www.remotejobscan.com/job/20237/treasury-program-manager-capital-allocation/) |
-| Capital Formation lead | Remote | [View →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
-| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
-| Life Sciences Operator, External Research | On-site | [View →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 19:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

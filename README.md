@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 开发者体验经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
+| 品牌合作专员 - 电子竞技、游戏与互联网文化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20256/brand-partnership-associate-esports-gaming-internet-culture/) |
+| 体育品牌合作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20252/brand-partnership-associate-sports/) |
+| 学院学习与教学主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20254/learning-instruction-lead-academy/) |
+| 关键危害运营项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20255/program-manager-critical-harm-operations/) |
+| 产品经理II | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20253/product-manager-ii/) |
 | 会计分析与商业智能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
 | 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
@@ -37,12 +43,6 @@
 | 全球应用AI工程负责人，中小企业/中市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
 | 网络安全AI合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
 | 客户成功经理，有益部署EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
-| 高级营销技术专家，归因与绩效 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20239/sr-martech-specialist-attribution-performance/) |
-| 高级市场技术专家，归因与绩效 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20240/sr-martech-specialist-attribution-performance/) |
-| 资金库项目经理 - 资本配置 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20237/treasury-program-manager-capital-allocation/) |
-| 资本形成主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
-| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
-| 生命科学运营，外部研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 19:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 20:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
