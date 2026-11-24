@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
+| Cloud GTM Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20248/cloud-gtm-program-lead/) |
+| Transformation Leads Regional Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20247/transformation-leads-regional-manager/) |
+| Program Manager, People Innovation Labs | On-site | [View →](https://www.remotejobscan.com/job/20246/program-manager-people-innovation-labs/) |
 | Applied AI Architect, Beneficial Deployment | On-site | [View →](https://www.remotejobscan.com/job/20244/applied-ai-architect-beneficial-deployment/) |
 | Integrations Architect - Enterprise Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20245/integrations-architect-enterprise-systems/) |
 | Global Head of Applied AI Engineering, SMB / Mid-Market | Hybrid | [View →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
@@ -38,9 +42,6 @@
 | Internal Communications Manager | Remote | [View →](https://www.remotejobscan.com/job/14787/internal-communications-manager/) |
 | Senior Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/senior-business-development-manager-romania/) |
 | Senior Director of Communications – Americas | Hybrid | [View →](https://www.remotejobscan.com/job/20241/senior-director-of-communications-americas/) |
-| Senior/Staff Engineer, Data Governance | On-site | [View →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
-| Marketing Operations Specialist, SEO/AEO | Remote | [View →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
-| Global Tax Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
