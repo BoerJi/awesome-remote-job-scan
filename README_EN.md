@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3314</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Organizational Design Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
+| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| Staff Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
+| Associate General Counsel, Security & National Security | Hybrid | [View →](https://www.remotejobscan.com/job/20260/associate-general-counsel-security-national-security/) |
+| Accounts Payable Manager | Remote | [View →](https://www.remotejobscan.com/job/20259/accounts-payable-manager/) |
+| Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
+| Business Development Lead, Compute Strategy & Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20258/business-development-lead-compute-strategy-partnerships/) |
 | Developer Experiences Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
 | Brand Partnership Associate - esports, Gaming & Internet Culture | Remote | [View →](https://www.remotejobscan.com/job/20256/brand-partnership-associate-esports-gaming-internet-culture/) |
 | Brand Partnership Associate, Sports | Remote | [View →](https://www.remotejobscan.com/job/20252/brand-partnership-associate-sports/) |
@@ -36,13 +43,6 @@
 | Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 | Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
 | Cloud GTM Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20248/cloud-gtm-program-lead/) |
-| Transformation Leads Regional Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20247/transformation-leads-regional-manager/) |
-| Program Manager, People Innovation Labs | On-site | [View →](https://www.remotejobscan.com/job/20246/program-manager-people-innovation-labs/) |
-| Applied AI Architect, Beneficial Deployment | On-site | [View →](https://www.remotejobscan.com/job/20244/applied-ai-architect-beneficial-deployment/) |
-| Integrations Architect - Enterprise Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20245/integrations-architect-enterprise-systems/) |
-| Global Head of Applied AI Engineering, SMB / Mid-Market | Hybrid | [View →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
-| Cyber AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
-| Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 20:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3314</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 组织设计负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
+| 前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
+| 企业级 Staff 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
+| 安全与国家安全副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20260/associate-general-counsel-security-national-security/) |
+| 应付账款经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20259/accounts-payable-manager/) |
+| 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
+| 计算战略与合作伙伴关系业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20258/business-development-lead-compute-strategy-partnerships/) |
 | 开发者体验经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
 | 品牌合作专员 - 电子竞技、游戏与互联网文化 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20256/brand-partnership-associate-esports-gaming-internet-culture/) |
 | 体育品牌合作专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20252/brand-partnership-associate-sports/) |
@@ -36,13 +43,6 @@
 | 高级前端软件工程师（消费者 - 高级交易） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
 | 网络安全销售专家经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
 | 云 GTM 项目负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20248/cloud-gtm-program-lead/) |
-| 转型引领区域经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20247/transformation-leads-regional-manager/) |
-| 人事创新实验室项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20246/program-manager-people-innovation-labs/) |
-| 应用AI架构师，有益部署 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20244/applied-ai-architect-beneficial-deployment/) |
-| 企业系统集成架构师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20245/integrations-architect-enterprise-systems/) |
-| 全球应用AI工程负责人，中小企业/中市场 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
-| 网络安全AI合作伙伴总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
-| 客户成功经理，有益部署EMEA | 实地 | [查看详情 →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 20:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 21:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
