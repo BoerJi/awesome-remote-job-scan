@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3313</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Partner and Services Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
+| Flagship Events Manager, Interrupt | On-site | [View →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
+| GTM Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
+| Executive Business Partner, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/20263/executive-business-partner-openai-for-government/) |
 | Organizational Design Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
 | Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
 | Staff Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
@@ -39,10 +43,6 @@
 | Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
 | Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
-| Account Manager - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20249/account-manager-uki/) |
-| Staff Software Engineer, Frontend (Consumer - Advanced Trading) | Remote | [View →](https://www.remotejobscan.com/job/9327/staff-software-engineer-frontend-consumer-advanced-trading/) |
-| Manager, Cybersecurity Sales Specialist | On-site | [View →](https://www.remotejobscan.com/job/18470/manager-cybersecurity-sales-specialist/) |
-| Cloud GTM Program Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20248/cloud-gtm-program-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
