@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3312</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Treasury Program Manager - Capital Allocation | Remote | [View →](https://www.remotejobscan.com/job/20237/treasury-program-manager-capital-allocation/) |
+| Capital Formation lead | Remote | [View →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
+| Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
 | Life Sciences Operator, External Research | On-site | [View →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
 | Head of Laboratory Facilities | On-site | [View →](https://www.remotejobscan.com/job/20234/head-of-laboratory-facilities/) |
 | QA Lead | Remote | [View →](https://www.remotejobscan.com/job/17883/qa-lead/) |
@@ -37,8 +40,6 @@
 | Ukraine Business Development Manager | Remote | [View →](https://www.remotejobscan.com/job/20219/ukraine-business-development-manager/) |
 | Greenfield Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20223/greenfield-startups-account-director/) |
 | Ecosystem Startups, Account Director | Hybrid | [View →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
-| Solutions Architect, East | On-site | [View →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
-| Manager, Solutions Architect | On-site | [View →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -103,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

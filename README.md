@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3312</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 资金库项目经理 - 资本配置 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20237/treasury-program-manager-capital-allocation/) |
+| 资本形成主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
+| 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
 | 生命科学运营，外部研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
 | 实验室设施负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20234/head-of-laboratory-facilities/) |
 | 质量主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17883/qa-lead/) |
@@ -39,8 +42,6 @@
 | 绿野初创，客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20223/greenfield-startups-account-director/) |
 | 绿色初创企业，客户总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20226/greenfield-startups-account-director/) |
 | 生态初创团队，客户总监 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20225/ecosystem-startups-account-director/) |
-| 东部分支解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20155/solutions-architect-east/) |
-| 解决方案架构师经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20154/manager-solutions-architect/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
