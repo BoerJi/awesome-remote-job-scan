@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Applied AI Architect, Beneficial Deployment | On-site | [View →](https://www.remotejobscan.com/job/20244/applied-ai-architect-beneficial-deployment/) |
+| Integrations Architect - Enterprise Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20245/integrations-architect-enterprise-systems/) |
 | Global Head of Applied AI Engineering, SMB / Mid-Market | Hybrid | [View →](https://www.remotejobscan.com/job/20243/global-head-of-applied-ai-engineering-smb-mid-market/) |
 | Cyber AI Partner Director | Hybrid | [View →](https://www.remotejobscan.com/job/20242/cyber-ai-partner-director/) |
 | Customer Success Manager, Beneficial Deployments EMEA | On-site | [View →](https://www.remotejobscan.com/job/19077/customer-success-manager-beneficial-deployments-emea/) |
@@ -39,8 +41,6 @@
 | Senior/Staff Engineer, Data Governance | On-site | [View →](https://www.remotejobscan.com/job/20232/seniorstaff-engineer-data-governance/) |
 | Marketing Operations Specialist, SEO/AEO | Remote | [View →](https://www.remotejobscan.com/job/20230/marketing-operations-specialist-seoaeo/) |
 | Global Tax Business Partner | On-site | [View →](https://www.remotejobscan.com/job/20229/global-tax-business-partner/) |
-| Startups Manager, Greenfield | Hybrid | [View →](https://www.remotejobscan.com/job/20228/startups-manager-greenfield/) |
-| VIP RM-OC | Remote | [View →](https://www.remotejobscan.com/job/19807/vip-rm-oc/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
