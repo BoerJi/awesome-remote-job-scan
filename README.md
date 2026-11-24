@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 会计分析与商业智能工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
 | 企业销售策略与运营 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | 战略与规划主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 | 英国/爱尔兰客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20249/account-manager-uki/) |
@@ -42,7 +43,6 @@
 | 资本形成主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
 | 行业应用AI架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
 | 生命科学运营，外部研究 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
-| 实验室设施负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20234/head-of-laboratory-facilities/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

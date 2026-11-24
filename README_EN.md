@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Accounting Analytics & BI Engineer | On-site | [View →](https://www.remotejobscan.com/job/20250/accounting-analytics-bi-engineer/) |
 | Sales Strategy & Operations, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/18915/sales-strategy-operations-enterprise/) |
 | Strategy and Planning Lead | Hybrid | [View →](https://www.remotejobscan.com/job/18916/strategy-and-planning-lead/) |
 | Account Manager - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20249/account-manager-uki/) |
@@ -41,7 +42,6 @@
 | Capital Formation lead | Remote | [View →](https://www.remotejobscan.com/job/20238/capital-formation-lead/) |
 | Applied AI Architect, Industries | On-site | [View →](https://www.remotejobscan.com/job/20236/applied-ai-architect-industries/) |
 | Life Sciences Operator, External Research | On-site | [View →](https://www.remotejobscan.com/job/20235/life-sciences-operator-external-research/) |
-| Head of Laboratory Facilities | On-site | [View →](https://www.remotejobscan.com/job/20234/head-of-laboratory-facilities/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
