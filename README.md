@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3303</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3302</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 执行助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20209/executive-assistant/) |
+| 技术客户管理经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20210/manager-technical-account-management/) |
 | 软件工程师，连接 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19276/software-engineer-connect/) |
 | 亚太区安全经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18856/regional-security-manager-apac/) |
 | 工程经理（代理垂直领域） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20208/engineering-manager-agent-verticals/) |
@@ -41,8 +43,6 @@
 | 财务系统高级分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20202/finance-systems-senior-analyst/) |
 | 助理控制官 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20197/assistant-controller/) |
 | 计算交付项目经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20200/program-manager-compute-delivery/) |
-| 合作伙伴解决方案架构师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20199/partner-solutions-architect/) |
-| 销售赋能负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20198/head-of-sales-enablement/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
