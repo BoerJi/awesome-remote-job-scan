@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 特殊情况交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
+| 实验室工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20275/engineering-manager-labs/) |
+| 高级身份风险与诈骗分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
+| 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
+| 软件工程师，空间基金会——实时系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20277/software-engineer-space-foundations-real-time-systems/) |
+| 软件工程师，太空基金会 — 搜索与数据库 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20278/software-engineer-space-foundations-search-databases/) |
+| 人才获取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition/) |
 | 合规与监管运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
 | 网络安全保护分析师，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
 | 网络安全产品工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
@@ -36,13 +43,6 @@
 | GTM系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
 | OpenAI政府业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20263/executive-business-partner-openai-for-government/) |
 | 组织设计负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
-| 前沿部署工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| 企业级 Staff 软件工程师 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
-| 安全与国家安全副总法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20260/associate-general-counsel-security-national-security/) |
-| 应付账款经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20259/accounts-payable-manager/) |
-| 整合营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
-| 计算战略与合作伙伴关系业务发展主管 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20258/business-development-lead-compute-strategy-partnerships/) |
-| 开发者体验经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-24 23:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 00:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

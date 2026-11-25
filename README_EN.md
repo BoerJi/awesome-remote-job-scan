@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
+| Engineering Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/20275/engineering-manager-labs/) |
+| Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
+| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
+| Software Engineer, Space Foundations — Real-Time Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20277/software-engineer-space-foundations-real-time-systems/) |
+| Software Engineer, Space Foundations — Search & Databases | Hybrid | [View →](https://www.remotejobscan.com/job/20278/software-engineer-space-foundations-search-databases/) |
+| Talent Acquisition | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition/) |
 | Manager, Compliance & Regulatory Operations | On-site | [View →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
 | Safeguards Enforcement Analyst, Cyber Harm | On-site | [View →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
 | Engineering Manager, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
@@ -36,13 +43,6 @@
 | GTM Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
 | Executive Business Partner, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/20263/executive-business-partner-openai-for-government/) |
 | Organizational Design Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
-| Forward-Deployed Engineer | Hybrid | [View →](https://www.remotejobscan.com/job/9761/forward-deployed-engineer/) |
-| Staff Software Engineer, Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/19884/staff-software-engineer-enterprise/) |
-| Associate General Counsel, Security & National Security | Hybrid | [View →](https://www.remotejobscan.com/job/20260/associate-general-counsel-security-national-security/) |
-| Accounts Payable Manager | Remote | [View →](https://www.remotejobscan.com/job/20259/accounts-payable-manager/) |
-| Integrated Campaigns Manager | Hybrid | [View →](https://www.remotejobscan.com/job/11875/integrated-campaigns-manager/) |
-| Business Development Lead, Compute Strategy & Partnerships | On-site | [View →](https://www.remotejobscan.com/job/20258/business-development-lead-compute-strategy-partnerships/) |
-| Developer Experiences Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20257/developer-experiences-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-24 23:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 00:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
