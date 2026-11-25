@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3321</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance | On-site | [View →](https://www.remotejobscan.com/job/20282/safeguards-enforcement-analyst-targeting-tracking-surveillance/) |
+| Head of Applied AI Architects – Commercial Sales (Midmarket, SMB) | Remote | [View →](https://www.remotejobscan.com/job/20281/head-of-applied-ai-architects-commercial-sales-midmarket-smb/) |
 | Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
 | Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
 | Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
@@ -41,8 +43,6 @@
 | Forward Deployed Engineer (FDE), Life Sciences - London | Hybrid | [View →](https://www.remotejobscan.com/job/20267/forward-deployed-engineer-fde-life-sciences-london/) |
 | Program Operations, Coordination & Logistics, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/20262/program-operations-coordination-logistics-claude-frontier-academy/) |
 | Partner and Services Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
-| Flagship Events Manager, Interrupt | On-site | [View →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
-| GTM Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

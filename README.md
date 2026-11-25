@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3321</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 安全防护分析师，目标跟踪与监控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20282/safeguards-enforcement-analyst-targeting-tracking-surveillance/) |
+| 应用AI架构师负责人——商业销售（中市场、SMB） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20281/head-of-applied-ai-architects-commercial-sales-midmarket-smb/) |
 | 加拿大财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
 | 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
 | 特殊情况交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
@@ -41,8 +43,6 @@
 | 生命科学领域前部署工程师 (FDE) - 伦敦 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20267/forward-deployed-engineer-fde-life-sciences-london/) |
 | 项目运营、协调与后勤，Claude Frontier Academy | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20262/program-operations-coordination-logistics-claude-frontier-academy/) |
 | 合作伙伴与服务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
-| 旗舰活动经理，Interrupt | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
-| GTM系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 02:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 02:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
