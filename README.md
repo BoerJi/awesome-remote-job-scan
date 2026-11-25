@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | 高级经理，财务系统与自动化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
 | 财务转型总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 | 高级合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-officer/) |
@@ -41,8 +42,6 @@
 | 高级身份风险与诈骗分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | 高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
 | 软件工程师，空间基金会——实时系统 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20277/software-engineer-space-foundations-real-time-systems/) |
-| 软件工程师，太空基金会 — 搜索与数据库 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20278/software-engineer-space-foundations-search-databases/) |
-| 人才获取 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/14499/talent-acquisition/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | Senior Manager, Finance Systems & Automation | Hybrid | [View →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
 | Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 | Senior Compliance Officer | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-officer/) |
@@ -41,8 +42,6 @@
 | Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 | Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
 | Software Engineer, Space Foundations — Real-Time Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20277/software-engineer-space-foundations-real-time-systems/) |
-| Software Engineer, Space Foundations — Search & Databases | Hybrid | [View →](https://www.remotejobscan.com/job/20278/software-engineer-space-foundations-search-databases/) |
-| Talent Acquisition | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
