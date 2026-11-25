@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3311</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/20299/vp-communication/) |
+| Member of Technical Staff (Perplexity Frontier Research) | Hybrid | [View →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
+| Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
+| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
+| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
+| Area Lead, Data Center Security Operations (NORAM - North East) | On-site | [View →](https://www.remotejobscan.com/job/20298/area-lead-data-center-security-operations-noram-north-east/) |
 | Applied AI Architect, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20297/applied-ai-architect-large-enterprise/) |
 | Senior Product Manager, Workforce Management | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager-workforce-management/) |
 | Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
@@ -37,12 +43,6 @@
 | IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/20290/it-support-engineer/) |
 | Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/20289/director-global-treasury-services/) |
 | Senior Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/20291/senior-compliance-analyst-financial-crime-compliance-qa/) |
-| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
-| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
-| Product Marketing Strategy | Remote | [View →](https://www.remotejobscan.com/job/20288/product-marketing-strategy/) |
-| Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
-| Crypto Settlement Team Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20286/crypto-settlement-team-lead/) |
-| Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 20:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 20:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
