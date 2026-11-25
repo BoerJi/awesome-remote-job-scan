@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Finance Systems & Automation | Hybrid | [View →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
+| Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
+| Senior Compliance Officer | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-officer/) |
 | Senior Manager, Talent Development | Remote | [View →](https://www.remotejobscan.com/job/20284/senior-manager-talent-development/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Senior Trading Product Manager 资深交易产品 | Remote | [View →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Space Foundations — Real-Time Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20277/software-engineer-space-foundations-real-time-systems/) |
 | Software Engineer, Space Foundations — Search & Databases | Hybrid | [View →](https://www.remotejobscan.com/job/20278/software-engineer-space-foundations-search-databases/) |
 | Talent Acquisition | On-site | [View →](https://www.remotejobscan.com/job/14499/talent-acquisition/) |
-| Manager, Compliance & Regulatory Operations | On-site | [View →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
-| Safeguards Enforcement Analyst, Cyber Harm | On-site | [View →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
-| Engineering Manager, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
