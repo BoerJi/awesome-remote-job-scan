@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 加拿大财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
+| 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
 | 特殊情况交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
 | 实验室工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20275/engineering-manager-labs/) |
 | 高级身份风险与诈骗分析师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
@@ -41,8 +43,6 @@
 | 合作伙伴与服务运营负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
 | 旗舰活动经理，Interrupt | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
 | GTM系统工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
-| OpenAI政府业务合作伙伴 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20263/executive-business-partner-openai-for-government/) |
-| 组织设计负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 01:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 01:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

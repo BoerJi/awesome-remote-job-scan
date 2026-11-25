@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
+| Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
 | Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
 | Engineering Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/20275/engineering-manager-labs/) |
 | Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
@@ -41,8 +43,6 @@
 | Partner and Services Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
 | Flagship Events Manager, Interrupt | On-site | [View →](https://www.remotejobscan.com/job/20266/flagship-events-manager-interrupt/) |
 | GTM Systems Engineer | On-site | [View →](https://www.remotejobscan.com/job/20265/gtm-systems-engineer/) |
-| Executive Business Partner, OpenAI for Government | Hybrid | [View →](https://www.remotejobscan.com/job/20263/executive-business-partner-openai-for-government/) |
-| Organizational Design Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20261/organizational-design-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
