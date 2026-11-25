@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| EDD Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
+| Senior Product Manager - Retention | Remote | [View →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
+| Security Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
+| Senior Software Engineer, Liquidity | Remote | [View →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
 | VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/20299/vp-communication/) |
 | Member of Technical Staff (Perplexity Frontier Research) | Hybrid | [View →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
 | Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
@@ -38,11 +42,6 @@
 | Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
 | Community Manager | Remote | [View →](https://www.remotejobscan.com/job/20294/community-manager/) |
-| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
-| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20292/specialist-legal-response/) |
-| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/20290/it-support-engineer/) |
-| Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/20289/director-global-treasury-services/) |
-| Senior Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/20291/senior-compliance-analyst-financial-crime-compliance-qa/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
