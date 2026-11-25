@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3323</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3327</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,10 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
+| Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20313/staff-software-engineer-native-mobile/) |
+| Payroll Analyst | Remote | [View →](https://www.remotejobscan.com/job/20314/payroll-analyst/) |
+| Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20312/senior-staff-software-engineer-native-mobile/) |
 | Senior Operations Support Analyst | On-site | [View →](https://www.remotejobscan.com/job/20311/senior-operations-support-analyst/) |
 | Security Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
 | Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/20310/risk-monitoring-analyst-iii/) |
@@ -36,10 +40,6 @@
 | Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
 | Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
 | Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
-| Area Lead, Data Center Security Operations (NORAM - North East) | On-site | [View →](https://www.remotejobscan.com/job/20298/area-lead-data-center-security-operations-noram-north-east/) |
-| Applied AI Architect, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20297/applied-ai-architect-large-enterprise/) |
-| Senior Product Manager, Workforce Management | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager-workforce-management/) |
-| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 23:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 23:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
