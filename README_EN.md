@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
+| Crypto Settlement Team Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20286/crypto-settlement-team-lead/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | Senior Manager, Finance Systems & Automation | Hybrid | [View →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
 | Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
@@ -40,8 +42,6 @@
 | Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
 | Engineering Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/20275/engineering-manager-labs/) |
 | Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
-| Senior Software Engineer | Remote | [View →](https://www.remotejobscan.com/job/18511/senior-software-engineer/) |
-| Software Engineer, Space Foundations — Real-Time Systems | Hybrid | [View →](https://www.remotejobscan.com/job/20277/software-engineer-space-foundations-real-time-systems/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
