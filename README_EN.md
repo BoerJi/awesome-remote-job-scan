@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
+| Product Marketing Strategy | Remote | [View →](https://www.remotejobscan.com/job/20288/product-marketing-strategy/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
 | Crypto Settlement Team Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20286/crypto-settlement-team-lead/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
@@ -40,8 +42,6 @@
 | Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
 | Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
 | Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
-| Engineering Manager, Labs | On-site | [View →](https://www.remotejobscan.com/job/20275/engineering-manager-labs/) |
-| Senior Identity Risk & Scam Analyst | Remote | [View →](https://www.remotejobscan.com/job/17779/senior-identity-risk-scam-analyst/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
