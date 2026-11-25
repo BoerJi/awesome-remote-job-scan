@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | Product Manager II, Prime Onchain | Remote | [View →](https://www.remotejobscan.com/job/20253/product-manager-ii-prime-onchain/) |
 | Technical Recruiter (FDE), LATAM | On-site | [View →](https://www.remotejobscan.com/job/20296/technical-recruiter-fde-latam/) |
@@ -41,7 +42,6 @@
 | Crypto Settlement Team Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20286/crypto-settlement-team-lead/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | Senior Manager, Finance Systems & Automation | Hybrid | [View →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
-| Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 16:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 16:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

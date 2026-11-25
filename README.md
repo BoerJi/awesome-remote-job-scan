@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | 前哨工程师，财务[首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | 产品经理 II，Prime Onchain | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20253/product-manager-ii-prime-onchain/) |
 | 技术招聘专员（FDE），拉丁美洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20296/technical-recruiter-fde-latam/) |
@@ -41,7 +42,6 @@
 | 加密结算团队负责人 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20286/crypto-settlement-team-lead/) |
 | 高级视觉设计师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
 | 高级经理，财务系统与自动化 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
-| 财务转型总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
