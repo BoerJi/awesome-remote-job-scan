@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Manager, Talent Development | Remote | [View →](https://www.remotejobscan.com/job/20284/senior-manager-talent-development/) |
+| Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| Senior Trading Product Manager 资深交易产品 | Remote | [View →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
 | Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
 | Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/20283/solutions-engineer-ads-solutions-nyc/) |
@@ -40,9 +43,6 @@
 | Manager, Compliance & Regulatory Operations | On-site | [View →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
 | Safeguards Enforcement Analyst, Cyber Harm | On-site | [View →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
 | Engineering Manager, Cybersecurity Products | On-site | [View →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
-| Software Engineer, Backend — ChatGPT Voice | Hybrid | [View →](https://www.remotejobscan.com/job/20269/software-engineer-backend-chatgpt-voice/) |
-| Software Engineer, Full Stack — ChatGPT Voice | Hybrid | [View →](https://www.remotejobscan.com/job/20268/software-engineer-full-stack-chatgpt-voice/) |
-| Senior Commercial Counsel, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/20270/senior-commercial-counsel-emea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级人才发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20284/senior-manager-talent-development/) |
+| Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
+| Senior Trading Product Manager 资深交易产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
 | Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
 | Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
 | 广告解决方案解决方案工程师 - 纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20283/solutions-engineer-ads-solutions-nyc/) |
@@ -40,9 +43,6 @@
 | 合规与监管运营经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20272/manager-compliance-regulatory-operations/) |
 | 网络安全保护分析师，网络危害 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20273/safeguards-enforcement-analyst-cyber-harm/) |
 | 网络安全产品工程经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20271/engineering-manager-cybersecurity-products/) |
-| 软件工程师，后端 — ChatGPT语音 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20269/software-engineer-backend-chatgpt-voice/) |
-| 软件工程师，全栈 — ChatGPT 语音 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20268/software-engineer-full-stack-chatgpt-voice/) |
-| EMEA高级商业法律顾问 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20270/senior-commercial-counsel-emea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
