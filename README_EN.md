@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, Workforce Management | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager-workforce-management/) |
 | Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
 | Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
 | Product Manager II, Prime Onchain | Remote | [View →](https://www.remotejobscan.com/job/20253/product-manager-ii-prime-onchain/) |
@@ -41,7 +42,6 @@
 | Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
 | Crypto Settlement Team Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20286/crypto-settlement-team-lead/) |
 | Senior Visual Designer | On-site | [View →](https://www.remotejobscan.com/job/18803/senior-visual-designer/) |
-| Senior Manager, Finance Systems & Automation | Hybrid | [View →](https://www.remotejobscan.com/job/20285/senior-manager-finance-systems-automation/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
