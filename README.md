@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3324</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20294/community-manager/) |
+| 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
+| 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20292/specialist-legal-response/) |
+| IT支持工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20290/it-support-engineer/) |
+| 全球资金服务总监 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20289/director-global-treasury-services/) |
+| 高级合规分析师，金融犯罪合规质量保证 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20291/senior-compliance-analyst-financial-crime-compliance-qa/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | 运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | 产品营销策略 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20288/product-marketing-strategy/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
@@ -35,13 +42,6 @@
 | Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Senior Trading Product Manager 资深交易产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
 | Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
-| Senior Trading Product Manager 资深交易产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
-| 广告解决方案解决方案工程师 - 纽约 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20283/solutions-engineer-ads-solutions-nyc/) |
-| 安全防护分析师，目标跟踪与监控 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20282/safeguards-enforcement-analyst-targeting-tracking-surveillance/) |
-| 应用AI架构师负责人——商业销售（中市场、SMB） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20281/head-of-applied-ai-architects-commercial-sales-midmarket-smb/) |
-| 加拿大财务主管 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
-| 高级产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
-| 特殊情况交易主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

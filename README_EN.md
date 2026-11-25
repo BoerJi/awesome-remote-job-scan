@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3324</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Community Manager | Remote | [View →](https://www.remotejobscan.com/job/20294/community-manager/) |
+| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
+| Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20292/specialist-legal-response/) |
+| IT Support Engineer | On-site | [View →](https://www.remotejobscan.com/job/20290/it-support-engineer/) |
+| Director, Global Treasury Services | On-site | [View →](https://www.remotejobscan.com/job/20289/director-global-treasury-services/) |
+| Senior Compliance Analyst, Financial Crime Compliance QA | On-site | [View →](https://www.remotejobscan.com/job/20291/senior-compliance-analyst-financial-crime-compliance-qa/) |
+| Infrastructure as Code Senior Engineer 基础设施即代码（Infrastructure as Code）高级工程师 | Remote | [View →](https://www.remotejobscan.com/job/19254/infrastructure-as-code-senior-engineer-infrastructure-as-code/) |
 | Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/17489/operations-manager/) |
 | Product Marketing Strategy | Remote | [View →](https://www.remotejobscan.com/job/20288/product-marketing-strategy/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
@@ -35,13 +42,6 @@
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
 | Senior Trading Product Manager 资深交易产品 | Remote | [View →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
 | Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
-| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
-| Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/20283/solutions-engineer-ads-solutions-nyc/) |
-| Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance | On-site | [View →](https://www.remotejobscan.com/job/20282/safeguards-enforcement-analyst-targeting-tracking-surveillance/) |
-| Head of Applied AI Architects – Commercial Sales (Midmarket, SMB) | Remote | [View →](https://www.remotejobscan.com/job/20281/head-of-applied-ai-architects-commercial-sales-midmarket-smb/) |
-| Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
-| Senior Product Manager | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager/) |
-| Deal Lead, Special Situations | Hybrid | [View →](https://www.remotejobscan.com/job/20276/deal-lead-special-situations/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
