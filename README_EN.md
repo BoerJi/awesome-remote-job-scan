@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
+| Senior Trading Product Manager 资深交易产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20110/senior-trading-product-manager/) |
+| Solutions Engineer, Ads Solutions - NYC | On-site | [View →](https://www.remotejobscan.com/job/20283/solutions-engineer-ads-solutions-nyc/) |
 | Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance | On-site | [View →](https://www.remotejobscan.com/job/20282/safeguards-enforcement-analyst-targeting-tracking-surveillance/) |
 | Head of Applied AI Architects – Commercial Sales (Midmarket, SMB) | Remote | [View →](https://www.remotejobscan.com/job/20281/head-of-applied-ai-architects-commercial-sales-midmarket-smb/) |
 | Head of Finance, Canada | Remote | [View →](https://www.remotejobscan.com/job/20279/head-of-finance-canada/) |
@@ -40,9 +43,6 @@
 | Software Engineer, Backend — ChatGPT Voice | Hybrid | [View →](https://www.remotejobscan.com/job/20269/software-engineer-backend-chatgpt-voice/) |
 | Software Engineer, Full Stack — ChatGPT Voice | Hybrid | [View →](https://www.remotejobscan.com/job/20268/software-engineer-full-stack-chatgpt-voice/) |
 | Senior Commercial Counsel, EMEA | Hybrid | [View →](https://www.remotejobscan.com/job/20270/senior-commercial-counsel-emea/) |
-| Forward Deployed Engineer (FDE), Life Sciences - London | Hybrid | [View →](https://www.remotejobscan.com/job/20267/forward-deployed-engineer-fde-life-sciences-london/) |
-| Program Operations, Coordination & Logistics, Claude Frontier Academy | On-site | [View →](https://www.remotejobscan.com/job/20262/program-operations-coordination-logistics-claude-frontier-academy/) |
-| Partner and Services Operations Lead | On-site | [View →](https://www.remotejobscan.com/job/20264/partner-and-services-operations-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
