@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3323</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3324</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
+| Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
 | Community Manager | Remote | [View →](https://www.remotejobscan.com/job/20294/community-manager/) |
 | Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
 | Specialist, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20292/specialist-legal-response/) |
@@ -40,8 +42,6 @@
 | Senior Compliance Officer | Remote | [View →](https://www.remotejobscan.com/job/18629/senior-compliance-officer/) |
 | Senior Manager, Talent Development | Remote | [View →](https://www.remotejobscan.com/job/20284/senior-manager-talent-development/) |
 | Data Scientist 合规数据科学家 | Remote | [View →](https://www.remotejobscan.com/job/19928/data-scientist/) |
-| Senior Trading Product Manager 资深交易产品 | Remote | [View →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
-| Derivatives Product Manager 衍生品产品经理 | Remote | [View →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

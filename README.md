@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3323</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3324</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 全球KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
+| 欧洲中东地区企业客户专员（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
 | 社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20294/community-manager/) |
 | 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
 | 法律响应专家 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20292/specialist-legal-response/) |
@@ -40,8 +42,6 @@
 | 高级合规官 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18629/senior-compliance-officer/) |
 | 高级人才发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20284/senior-manager-talent-development/) |
 | Data Scientist 合规数据科学家 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19928/data-scientist/) |
-| Senior Trading Product Manager 资深交易产品 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20173/senior-trading-product-manager/) |
-| Derivatives Product Manager 衍生品产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19599/derivatives-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
