@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3323</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级运营支持分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20311/senior-operations-support-analyst/) |
+| 安全工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
+| 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20310/risk-monitoring-analyst-iii/) |
+| 客户关系专员三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20305/concierge-specialist-iii/) |
+| EDD合规分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20306/edd-compliance-analyst-iii/) |
 | 高级反洗钱分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 | 高级产品经理 - 用户留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
 | 高级软件工程师，流动性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
@@ -35,13 +40,6 @@
 | 应用AI架构师，大型企业 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20297/applied-ai-architect-large-enterprise/) |
 | 高级产品经理，劳动力管理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20280/senior-product-manager-workforce-management/) |
 | 高级招聘专员 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
-| 前哨工程师，财务[首席技术官办公室] | 远程 | [查看详情 →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| 产品经理 II，Prime Onchain | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20253/product-manager-ii-prime-onchain/) |
-| 技术招聘专员（FDE），拉丁美洲 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20296/technical-recruiter-fde-latam/) |
-| 全球KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
-| 欧洲中东地区企业客户专员（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
-| 社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20294/community-manager/) |
-| 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 22:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 22:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

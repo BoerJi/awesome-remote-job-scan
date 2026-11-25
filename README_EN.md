@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3323</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,11 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Operations Support Analyst | On-site | [View →](https://www.remotejobscan.com/job/20311/senior-operations-support-analyst/) |
+| Security Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
+| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/20310/risk-monitoring-analyst-iii/) |
+| Concierge Specialist III | Remote | [View →](https://www.remotejobscan.com/job/20305/concierge-specialist-iii/) |
+| EDD Compliance Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20306/edd-compliance-analyst-iii/) |
 | EDD Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 | Senior Product Manager - Retention | Remote | [View →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
 | Senior Software Engineer, Liquidity | Remote | [View →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
@@ -35,13 +40,6 @@
 | Applied AI Architect, Large Enterprise | Hybrid | [View →](https://www.remotejobscan.com/job/20297/applied-ai-architect-large-enterprise/) |
 | Senior Product Manager, Workforce Management | Remote | [View →](https://www.remotejobscan.com/job/20280/senior-product-manager-workforce-management/) |
 | Senior Recruiter | Hybrid | [View →](https://www.remotejobscan.com/job/16758/senior-recruiter/) |
-| Forward Deployed Engineer, Finance [Office of the CTO] | Remote | [View →](https://www.remotejobscan.com/job/11463/forward-deployed-engineer-finance-office-of-the-cto/) |
-| Product Manager II, Prime Onchain | Remote | [View →](https://www.remotejobscan.com/job/20253/product-manager-ii-prime-onchain/) |
-| Technical Recruiter (FDE), LATAM | On-site | [View →](https://www.remotejobscan.com/job/20296/technical-recruiter-fde-latam/) |
-| Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
-| Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
-| Community Manager | Remote | [View →](https://www.remotejobscan.com/job/20294/community-manager/) |
-| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 22:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 22:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
