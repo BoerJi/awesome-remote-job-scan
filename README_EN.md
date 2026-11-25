@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -25,7 +25,6 @@
 |---|---|---|
 | EDD Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 | Senior Product Manager - Retention | Remote | [View →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
-| Security Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
 | Senior Software Engineer, Liquidity | Remote | [View →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
 | VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/20299/vp-communication/) |
 | Member of Technical Staff (Perplexity Frontier Research) | Hybrid | [View →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
@@ -42,6 +41,7 @@
 | Global KOL Manager | Remote | [View →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | Enterprise Account Associate - EMEA (German Speaking) | Hybrid | [View →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
 | Community Manager | Remote | [View →](https://www.remotejobscan.com/job/20294/community-manager/) |
+| Team Lead, Legal Response | On-site | [View →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 21:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-25 22:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

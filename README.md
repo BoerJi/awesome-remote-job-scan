@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -25,7 +25,6 @@
 |---|---|---|
 | 高级反洗钱分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 | 高级产品经理 - 用户留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
-| 安全工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
 | 高级软件工程师，流动性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
 | 通信副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20299/vp-communication/) |
 | 技术专家（Perplexity Frontier Research） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
@@ -42,6 +41,7 @@
 | 全球KOL经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20179/global-kol-manager/) |
 | 欧洲中东地区企业客户专员（德语） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20295/enterprise-account-associate-emea-german-speaking/) |
 | 社区经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20294/community-manager/) |
+| 法律响应团队负责人 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20293/team-lead-legal-response/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 21:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-25 22:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
