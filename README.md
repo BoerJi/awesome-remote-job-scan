@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级产品经理 - 量化增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
+| 高级产品经理 - 定量增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20330/sr-product-manager-quantitative-growth/) |
 | 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 | BOSS运营平台 - 工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
 | 高级软件工程师 – AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
@@ -41,8 +43,6 @@
 | Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
 | 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 14:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 14:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

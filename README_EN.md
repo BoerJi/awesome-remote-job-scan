@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sr Product Manager - Quantitative Growth | Remote | [View →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
 | Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 | Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
 | Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
@@ -41,8 +42,6 @@
 | Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
-| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
-| Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
