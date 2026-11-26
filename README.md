@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
+| 现场营销经理，数字原住民 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
 | CIS合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
 | 高级产品经理 - 量化增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
 | 高级产品经理 - 定量增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20330/sr-product-manager-quantitative-growth/) |
@@ -41,8 +43,6 @@
 | 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 高级产品经理，DevOps和AI代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
 | 欧盟客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
-| Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
-| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 16:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 16:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
