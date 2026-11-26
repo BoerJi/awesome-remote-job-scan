@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 | Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
 | Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
@@ -42,7 +43,6 @@
 | Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
-| Creator & Influencer Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
