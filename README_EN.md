@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3327</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3328</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Creator & Influencer Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
+| Customer Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20317/customer-marketing-manager/) |
 | Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
 | Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20313/staff-software-engineer-native-mobile/) |
 | Payroll Analyst | Remote | [View →](https://www.remotejobscan.com/job/20314/payroll-analyst/) |
@@ -38,8 +40,6 @@
 | VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/20299/vp-communication/) |
 | Member of Technical Staff (Perplexity Frontier Research) | Hybrid | [View →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
 | Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
-| Member of Technical Staff (AI Software Engineer, Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/19856/member-of-technical-staff-ai-software-engineer-agent-engine/) |
-| Engineering Manager (Agent Engine) | On-site | [View →](https://www.remotejobscan.com/job/18863/engineering-manager-agent-engine/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 01:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 01:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
