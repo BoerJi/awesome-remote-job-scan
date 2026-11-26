@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Product Manager, DevOps and AI Agent | On-site | [View →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
+| Customer Support Specialist (EU) | Remote | [View →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
 | Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
@@ -40,7 +42,6 @@
 | Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/20310/risk-monitoring-analyst-iii/) |
 | Concierge Specialist III | Remote | [View →](https://www.remotejobscan.com/job/20305/concierge-specialist-iii/) |
 | EDD Compliance Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20306/edd-compliance-analyst-iii/) |
-| EDD Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -105,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
