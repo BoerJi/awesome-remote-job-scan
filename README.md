@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3323</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3322</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Network Security Architect 高级网络安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
+| 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 | 创作者与影响者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
@@ -38,8 +41,6 @@
 | EDD合规分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20306/edd-compliance-analyst-iii/) |
 | 高级反洗钱分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 | 高级产品经理 - 用户留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
-| 高级软件工程师，流动性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
-| 通信副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20299/vp-communication/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

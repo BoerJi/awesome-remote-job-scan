@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3323</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3322</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
+| Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
+| Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 | Creator & Influencer Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
@@ -38,8 +41,6 @@
 | EDD Compliance Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20306/edd-compliance-analyst-iii/) |
 | EDD Analyst III | On-site | [View →](https://www.remotejobscan.com/job/20302/edd-analyst-iii/) |
 | Senior Product Manager - Retention | Remote | [View →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
-| Senior Software Engineer, Liquidity | Remote | [View →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
-| VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/20299/vp-communication/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +105,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
