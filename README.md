@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 | 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
 | 现场营销经理，数字原住民 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
 | CIS合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
@@ -42,7 +43,6 @@
 | ASO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20323/aso-manager/) |
 | 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 高级产品经理，DevOps和AI代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
-| 欧盟客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 17:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 17:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

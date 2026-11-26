@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 | Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/17444/policy-intern/) |
 | Field Marketing Manager, Digital Natives | Remote | [View →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
 | Affiliate Business Development Manager, CIS | Remote | [View →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
@@ -41,7 +42,6 @@
 | ASO Manager | Remote | [View →](https://www.remotejobscan.com/job/20323/aso-manager/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | Senior Product Manager, DevOps and AI Agent | On-site | [View →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
-| Customer Support Specialist (EU) | Remote | [View →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 17:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 17:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
