@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3325</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3323</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
+| 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 | 创作者与影响者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
 | 客户营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20317/customer-marketing-manager/) |
 | 原生移动高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
@@ -38,8 +40,6 @@
 | 高级产品经理 - 用户留存 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
 | 高级软件工程师，流动性 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
 | 通信副总裁 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20299/vp-communication/) |
-| 技术专家（Perplexity Frontier Research） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
-| 技术专家（AI研究员） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

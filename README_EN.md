@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3325</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3323</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
+| Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 | Creator & Influencer Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
 | Customer Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20317/customer-marketing-manager/) |
 | Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
@@ -38,8 +40,6 @@
 | Senior Product Manager - Retention | Remote | [View →](https://www.remotejobscan.com/job/20303/senior-product-manager-retention/) |
 | Senior Software Engineer, Liquidity | Remote | [View →](https://www.remotejobscan.com/job/20301/senior-software-engineer-liquidity/) |
 | VP, Communication | Hybrid | [View →](https://www.remotejobscan.com/job/20299/vp-communication/) |
-| Member of Technical Staff (Perplexity Frontier Research) | Hybrid | [View →](https://www.remotejobscan.com/job/19881/member-of-technical-staff-perplexity-frontier-research/) |
-| Member of Technical Staff (AI Researcher) | On-site | [View →](https://www.remotejobscan.com/job/11154/member-of-technical-staff-ai-researcher/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +104,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 03:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 03:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
