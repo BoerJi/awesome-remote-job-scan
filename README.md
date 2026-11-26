@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| BOSS运营平台 - 工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
+| 高级软件工程师 – AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
 | Security Research Engineer 安全研发工程师（安全网关） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
@@ -41,8 +43,6 @@
 | Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | 控制与治理经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 | 创作者与影响者营销主管 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
-| 客户营销经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20317/customer-marketing-manager/) |
-| 原生移动高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 10:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 10:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
+| Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
 | Security Research Engineer 安全研发工程师（安全网关） | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
 | Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | Remote | [View →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
@@ -41,8 +43,6 @@
 | Contract Copy Trading Operations 合约跟单运营 | Remote | [View →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
 | Controls & Governance Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20319/controls-governance-manager-okx-sg/) |
 | Creator & Influencer Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
-| Customer Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20317/customer-marketing-manager/) |
-| Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
