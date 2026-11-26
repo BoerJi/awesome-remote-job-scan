@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Product Marketing - Agents | Remote | [View →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
 | Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 | Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/17444/policy-intern/) |
 | Field Marketing Manager, Digital Natives | Remote | [View →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
@@ -41,7 +42,6 @@
 | Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
 | ASO Manager | Remote | [View →](https://www.remotejobscan.com/job/20323/aso-manager/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
-| Senior Product Manager, DevOps and AI Agent | On-site | [View →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 19:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 19:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

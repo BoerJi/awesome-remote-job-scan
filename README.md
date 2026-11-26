@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 产品营销 - 代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
 | 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 | 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
 | 现场营销经理，数字原住民 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
@@ -42,7 +43,6 @@
 | 罗马尼亚业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
 | ASO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20323/aso-manager/) |
 | 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
-| 高级产品经理，DevOps和AI代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 19:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 19:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
