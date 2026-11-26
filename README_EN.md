@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
+| Security Research Engineer 安全研发工程师（安全网关） | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
+| Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | Remote | [View →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
+| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
+| Web3 Application Security Engineer web3应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
+| Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/20325/senior-network-security-architect/) |
+| Assistant VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
 | ASO Manager | Remote | [View →](https://www.remotejobscan.com/job/20323/aso-manager/) |
 | 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
@@ -36,12 +43,6 @@
 | Creator & Influencer Marketing Lead | Hybrid | [View →](https://www.remotejobscan.com/job/20318/creator-influencer-marketing-lead/) |
 | Customer Marketing Manager | Hybrid | [View →](https://www.remotejobscan.com/job/20317/customer-marketing-manager/) |
 | Senior Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20316/senior-software-engineer-native-mobile/) |
-| Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20313/staff-software-engineer-native-mobile/) |
-| Payroll Analyst | Remote | [View →](https://www.remotejobscan.com/job/20314/payroll-analyst/) |
-| Senior Staff Software Engineer, Native Mobile | Remote | [View →](https://www.remotejobscan.com/job/20312/senior-staff-software-engineer-native-mobile/) |
-| Senior Operations Support Analyst | On-site | [View →](https://www.remotejobscan.com/job/20311/senior-operations-support-analyst/) |
-| Security Engineer Intern | Hybrid | [View →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
-| Risk & Monitoring Analyst III | Remote | [View →](https://www.remotejobscan.com/job/20310/risk-monitoring-analyst-iii/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +107,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
