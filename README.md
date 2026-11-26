@@ -23,10 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 罗马尼亚业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
+| ASO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20323/aso-manager/) |
+| 测试工程师（合规）Test Engineer (Compliance) | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 | 高级产品经理，DevOps和AI代理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20322/senior-product-manager-devops-and-ai-agent/) |
 | 欧盟客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
 | Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
-| Senior Network Security Architect 高级网络安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19250/senior-network-security-architect/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
 | 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
 | Contract Copy Trading Operations 合约跟单运营 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19539/contract-copy-trading-operations/) |
@@ -40,8 +42,6 @@
 | 高级运营支持分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20311/senior-operations-support-analyst/) |
 | 安全工程师实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20300/security-engineer-intern/) |
 | 风险与监控分析师III | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20310/risk-monitoring-analyst-iii/) |
-| 客户关系专员三级 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20305/concierge-specialist-iii/) |
-| EDD合规分析师III | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20306/edd-compliance-analyst-iii/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
