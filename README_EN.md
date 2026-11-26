@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Affiliate Business Development Manager, CIS | Remote | [View →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
 | Sr Product Manager - Quantitative Growth | Remote | [View →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
 | Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 | Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
@@ -41,7 +42,6 @@
 | Customer Support Specialist (EU) | Remote | [View →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
 | Senior SRE Engineer 高级SRE工程师 | Remote | [View →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | Remote | [View →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
-| Channel Operations Manager | Remote | [View →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 15:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-26 15:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

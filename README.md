@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| CIS合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
 | 高级产品经理 - 量化增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
 | 高级产品经理 - 定量增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20330/sr-product-manager-quantitative-growth/) |
 | 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
@@ -42,7 +43,6 @@
 | 欧盟客户支持专员 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20321/customer-support-specialist-eu/) |
 | Senior SRE Engineer 高级SRE工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19009/senior-sre-engineer-sre/) |
 | Senior Operations Engineer for Public Cloud Platform 公有云平台高级运维工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19784/senior-operations-engineer-for-public-cloud-platform/) |
-| 渠道运营经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/18186/channel-operations-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-26 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
