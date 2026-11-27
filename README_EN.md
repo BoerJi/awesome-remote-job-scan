@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
 | Senior Software Engineer - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
 | Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
@@ -41,7 +42,6 @@
 | Java Architect java架构师（中间件，基础架构） | Remote | [View →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | Remote | [View →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
 | Java Engineer java工程师-合规站点交付方向 | Remote | [View →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
-| Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | Remote | [View →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 12:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 12:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
