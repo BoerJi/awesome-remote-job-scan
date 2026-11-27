@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3322</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Java Architect java架构师（中间件，基础架构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
+| Senior Java Engineer 高级Java工程师-监管数据治理方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
+| Java Engineer java工程师-合规站点交付方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
+| Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
+| Senior Development Engineer - Compliance Case Disposal Direction 高级开发工程师-合规案件处置方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20342/senior-development-engineer-compliance-case-disposal-direction/) |
+| 机构业务发展/高级业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
+| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
 | 高级营销经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | 中文支持法务响应班组长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
 | 产品营销 - 代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
@@ -36,13 +43,6 @@
 | BOSS运营平台 - 工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
 | 高级软件工程师 – AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
-| Security Research Engineer 安全研发工程师（安全网关） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
-| Web3 Application Security Engineer web3应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
-| Senior Network Security Architect 高级网络安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20325/senior-network-security-architect/) |
-| 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
-| 罗马尼亚业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 04:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 04:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

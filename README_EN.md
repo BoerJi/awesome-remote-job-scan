@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3322</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,13 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Java Architect java架构师（中间件，基础架构） | Remote | [View →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
+| Senior Java Engineer 高级Java工程师-监管数据治理方向 | Remote | [View →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
+| Java Engineer java工程师-合规站点交付方向 | Remote | [View →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
+| Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | Remote | [View →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
+| Senior Development Engineer - Compliance Case Disposal Direction 高级开发工程师-合规案件处置方向 | Remote | [View →](https://www.remotejobscan.com/job/20342/senior-development-engineer-compliance-case-disposal-direction/) |
+| Institutional BD/ Senior BD | Remote | [View →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
+| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | Remote | [View →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
 | Senior Marketing Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | Shift Team Lead, Legal Response (Mandarin-speaking) | On-site | [View →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
 | Product Marketing - Agents | Remote | [View →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
@@ -35,13 +42,6 @@
 | Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
 | Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 | Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
-| Security Research Engineer 安全研发工程师（安全网关） | Remote | [View →](https://www.remotejobscan.com/job/19266/security-research-engineer/) |
-| Senior Red Team Offensive and Defensive Engineer 高级红队攻防工程师 | Remote | [View →](https://www.remotejobscan.com/job/19085/senior-red-team-offensive-and-defensive-engineer/) |
-| Terminal Software Security Engineer 终端软件安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19712/terminal-software-security-engineer/) |
-| Web3 Application Security Engineer web3应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/19786/web3-application-security-engineer-web3/) |
-| Senior Network Security Architect 高级网络安全架构师 | Remote | [View →](https://www.remotejobscan.com/job/20325/senior-network-security-architect/) |
-| Assistant VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
-| Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 04:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 04:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
