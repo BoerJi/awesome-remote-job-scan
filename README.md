@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级营销经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | 中文支持法务响应班组长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
 | 产品营销 - 代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
 | 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
@@ -42,7 +43,6 @@
 | Senior Network Security Architect 高级网络安全架构师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20325/senior-network-security-architect/) |
 | 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | 罗马尼亚业务发展经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
-| ASO经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20323/aso-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 03:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 03:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
