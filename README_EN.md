@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3322</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3323</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Application Security Engineer 高级应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 | Java Architect java架构师（中间件，基础架构） | Remote | [View →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | Remote | [View →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
 | Java Engineer java工程师-合规站点交付方向 | Remote | [View →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
@@ -41,7 +42,6 @@
 | Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 | Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
 | Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
-| Risk Control System Platform Architect 平台风控系统架构师 | Remote | [View →](https://www.remotejobscan.com/job/20287/risk-control-system-platform-architect/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 05:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 05:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
