@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3315</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级软件工程师 - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
+| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
 | 财务转型总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 | OEM - 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16441/oem-senior-compliance-analyst/) |
 | TRUST网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
@@ -40,8 +42,6 @@
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
 | Java Engineer java工程师-合规站点交付方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
 | Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
-| Senior Development Engineer - Compliance Case Disposal Direction 高级开发工程师-合规案件处置方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20342/senior-development-engineer-compliance-case-disposal-direction/) |
-| 机构业务发展/高级业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

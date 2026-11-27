@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Software Engineer - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
+| Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
 | Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 | OEM - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oem-senior-compliance-analyst/) |
 | Staff Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
@@ -40,8 +42,6 @@
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | Remote | [View →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
 | Java Engineer java工程师-合规站点交付方向 | Remote | [View →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
 | Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | Remote | [View →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
-| Senior Development Engineer - Compliance Case Disposal Direction 高级开发工程师-合规案件处置方向 | Remote | [View →](https://www.remotejobscan.com/job/20342/senior-development-engineer-compliance-case-disposal-direction/) |
-| Institutional BD/ Senior BD | Remote | [View →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
