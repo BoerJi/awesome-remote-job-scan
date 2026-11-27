@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3316</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3314</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| TRUST网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
+| 高级软件工程师，TRUST网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
 | Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
 | Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
@@ -40,8 +42,6 @@
 | 机构业务发展/高级业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
 | 高级营销经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | 中文支持法务响应班组长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
-| 产品营销 - 代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
-| 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

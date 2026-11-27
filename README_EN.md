@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3316</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3314</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Staff Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
+| Senior Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
 | Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | Remote | [View →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
 | Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
@@ -40,8 +42,6 @@
 | Institutional BD/ Senior BD | Remote | [View →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
 | Senior Marketing Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | Shift Team Lead, Legal Response (Mandarin-speaking) | On-site | [View →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
-| Product Marketing - Agents | Remote | [View →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
-| Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 09:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 09:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
