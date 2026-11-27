@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3314</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3315</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Shift Team Lead, Legal Response (Mandarin-speaking) | On-site | [View →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
 | Product Marketing - Agents | Remote | [View →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
 | Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
 | Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/17444/policy-intern/) |
@@ -41,7 +42,6 @@
 | Assistant VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | Business Development Manager (Romania) | On-site | [View →](https://www.remotejobscan.com/job/20233/business-development-manager-romania/) |
 | ASO Manager | Remote | [View →](https://www.remotejobscan.com/job/20323/aso-manager/) |
-| 测试工程师（合规）Test Engineer (Compliance) | Remote | [View →](https://www.remotejobscan.com/job/19789/test-engineer-compliance/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 02:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 02:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
