@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | Affiliate Growth Lead, Prop Trading - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
 | Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
 | Senior Software Engineer - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
@@ -41,7 +42,6 @@
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Application Security Engineer 高级应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 | Java Architect java架构师（中间件，基础架构） | Remote | [View →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
-| Senior Java Engineer 高级Java工程师-监管数据治理方向 | Remote | [View →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 14:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 14:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
