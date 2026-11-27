@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | Remote | [View →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
+| Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
+| Senior Product Manager, Localization Platform and Quality | On-site | [View →](https://www.remotejobscan.com/job/20346/senior-product-manager-localization-platform-and-quality/) |
+| Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
+| Internal Controls and Testing Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/20345/internal-controls-and-testing-analyst-bulgaria/) |
 | Global VIP Growth Associate (VIP增长专员) | On-site | [View →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
 | 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Application Security Engineer 高级应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
@@ -32,16 +38,10 @@
 | Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | Remote | [View →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
 | Senior Development Engineer - Compliance Case Disposal Direction 高级开发工程师-合规案件处置方向 | Remote | [View →](https://www.remotejobscan.com/job/20342/senior-development-engineer-compliance-case-disposal-direction/) |
 | Institutional BD/ Senior BD | Remote | [View →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
-| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | Remote | [View →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
 | Senior Marketing Manager - OKX SG | On-site | [View →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | Shift Team Lead, Legal Response (Mandarin-speaking) | On-site | [View →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
 | Product Marketing - Agents | Remote | [View →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
 | Sales Development - UK/I | Remote | [View →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
-| Policy Intern | Hybrid | [View →](https://www.remotejobscan.com/job/17444/policy-intern/) |
-| Field Marketing Manager, Digital Natives | Remote | [View →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
-| Affiliate Business Development Manager, CIS | Remote | [View →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
-| Sr Product Manager - Quantitative Growth | Remote | [View →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
-| Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,12 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
+| Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
+| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
+| 本地化平台与质量高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20346/senior-product-manager-localization-platform-and-quality/) |
+| AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
+| 内部控制与测试分析师（保加利亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20345/internal-controls-and-testing-analyst-bulgaria/) |
 | Global VIP Growth Associate (VIP增长专员) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Application Security Engineer 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
@@ -32,17 +38,10 @@
 | Senior Security Research Engineer (Infrastructure · Application Security Direction) 资深安全研发工程师（基础架构 · 应用安全方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20341/senior-security-research-engineer-infrastructure-application-security-direction/) |
 | Senior Development Engineer - Compliance Case Disposal Direction 高级开发工程师-合规案件处置方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20342/senior-development-engineer-compliance-case-disposal-direction/) |
 | 机构业务发展/高级业务发展 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20337/institutional-bd-senior-bd/) |
-| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
 | 高级营销经理 - OKX 新加坡 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20335/senior-marketing-manager-okx-sg/) |
 | 中文支持法务响应班组长 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20334/shift-team-lead-legal-response-mandarin-speaking/) |
 | 产品营销 - 代理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20333/product-marketing-agents/) |
 | 销售发展 - 英国/爱尔兰 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20332/sales-development-uki/) |
-| 政策实习生 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/17444/policy-intern/) |
-| 现场营销经理，数字原住民 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20331/field-marketing-manager-digital-natives/) |
-| CIS合作伙伴业务发展经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
-| 高级产品经理 - 量化增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
-| 高级产品经理 - 定量增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20330/sr-product-manager-quantitative-growth/) |
-| 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 08:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 08:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
