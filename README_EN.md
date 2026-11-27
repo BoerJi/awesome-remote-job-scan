@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Engineering Program Manager, Model Delivery | Remote | [View →](https://www.remotejobscan.com/job/20359/engineering-program-manager-model-delivery/) |
 | Program Manager, Recruiting Events | Hybrid | [View →](https://www.remotejobscan.com/job/20358/program-manager-recruiting-events/) |
 | Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/20357/developer-advocate/) |
 | Engineering Manager - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/20356/engineering-manager-frontend-consumer/) |
@@ -41,7 +42,6 @@
 | Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 | Senior Product Manager, Localization Platform and Quality | On-site | [View →](https://www.remotejobscan.com/job/20346/senior-product-manager-localization-platform-and-quality/) |
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
-| Internal Controls and Testing Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/20345/internal-controls-and-testing-analyst-bulgaria/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 21:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 21:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
