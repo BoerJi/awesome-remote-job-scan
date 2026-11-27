@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3321</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| Global VIP Growth Associate (VIP增长专员) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
+| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Application Security Engineer 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 | Java Architect java架构师（中间件，基础架构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
@@ -41,8 +43,6 @@
 | 高级产品经理 - 量化增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
 | 高级产品经理 - 定量增长 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20330/sr-product-manager-quantitative-growth/) |
 | 韩国客户经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
-| BOSS运营平台 - 工程师/高级工程师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
-| 高级软件工程师 – AI基础设施 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -107,6 +107,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 07:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 07:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

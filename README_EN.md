@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3321</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,8 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Global VIP Growth Associate (VIP增长专员) | On-site | [View →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
+| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Application Security Engineer 高级应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 | Java Architect java架构师（中间件，基础架构） | Remote | [View →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | Remote | [View →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
@@ -40,8 +42,6 @@
 | Affiliate Business Development Manager, CIS | Remote | [View →](https://www.remotejobscan.com/job/8458/affiliate-business-development-manager-cis/) |
 | Sr Product Manager - Quantitative Growth | Remote | [View →](https://www.remotejobscan.com/job/20329/sr-product-manager-quantitative-growth/) |
 | Account Executive Korea | Remote | [View →](https://www.remotejobscan.com/job/20328/account-executive-korea/) |
-| Staff / Senior Staff Engineer, BOSS Operation Platform | On-site | [View →](https://www.remotejobscan.com/job/20327/staff-senior-staff-engineer-boss-operation-platform/) |
-| Senior Software Engineer – AI Infrastructure | Remote | [View →](https://www.remotejobscan.com/job/20326/senior-software-engineer-ai-infrastructure/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 07:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 07:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
