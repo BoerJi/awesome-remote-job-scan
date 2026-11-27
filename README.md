@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3322</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 招聘活动项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20358/program-manager-recruiting-events/) |
+| 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20357/developer-advocate/) |
+| 前端工程经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20356/engineering-manager-frontend-consumer/) |
 | 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | 美国Kraken Pro做市交易合作伙伴增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
@@ -39,9 +42,6 @@
 | 本地化平台与质量高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20346/senior-product-manager-localization-platform-and-quality/) |
 | AI与Web3钱包首席/高级产品经理 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
 | 内部控制与测试分析师（保加利亚） | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20345/internal-controls-and-testing-analyst-bulgaria/) |
-| Global VIP Growth Associate (VIP增长专员) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
-| 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Senior Application Security Engineer 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 18:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 18:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3322</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,9 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Program Manager, Recruiting Events | Hybrid | [View →](https://www.remotejobscan.com/job/20358/program-manager-recruiting-events/) |
+| Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/20357/developer-advocate/) |
+| Engineering Manager - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/20356/engineering-manager-frontend-consumer/) |
 | Assistant VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | Affiliate Growth Lead, Prop Trading - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
@@ -39,9 +42,6 @@
 | Senior Product Manager, Localization Platform and Quality | On-site | [View →](https://www.remotejobscan.com/job/20346/senior-product-manager-localization-platform-and-quality/) |
 | Principal/Senior Product Manager, AI & Web3 Wallet | On-site | [View →](https://www.remotejobscan.com/job/11454/principalsenior-product-manager-ai-web3-wallet/) |
 | Internal Controls and Testing Analyst (Bulgaria) | Hybrid | [View →](https://www.remotejobscan.com/job/20345/internal-controls-and-testing-analyst-bulgaria/) |
-| Global VIP Growth Associate (VIP增长专员) | On-site | [View →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
-| 高级前端开发 Senior Frontend Developer | Remote | [View →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
-| Senior Application Security Engineer 高级应用安全工程师 | Remote | [View →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 18:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-27 18:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
