@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 美国Kraken Pro做市交易合作伙伴增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
 | 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
 | 高级软件工程师 - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
@@ -41,7 +42,6 @@
 | Senior Application Security Engineer 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
 | Java Architect java架构师（中间件，基础架构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
 | Senior Java Engineer 高级Java工程师-监管数据治理方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20339/senior-java-engineer-java/) |
-| Java Engineer java工程师-合规站点交付方向 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20340/java-engineer-java/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
