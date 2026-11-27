@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | 美国Kraken Pro做市交易合作伙伴增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
 | 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
@@ -41,7 +42,6 @@
 | Global VIP Growth Associate (VIP增长专员) | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20344/global-vip-growth-associate-vip/) |
 | 高级前端开发 Senior Frontend Developer | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19682/senior-frontend-developer/) |
 | Senior Application Security Engineer 高级应用安全工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20343/senior-application-security-engineer/) |
-| Java Architect java架构师（中间件，基础架构） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20338/java-architect-java/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 15:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-27 15:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
