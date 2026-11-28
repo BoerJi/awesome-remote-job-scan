@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（14 featured jobs）
+## 🆕 Latest Updates（12 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -35,8 +35,6 @@
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
 | Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 | OEM - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oem-senior-compliance-analyst/) |
-| Staff Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
-| Senior Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -101,6 +99,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 08:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 08:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
