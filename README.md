@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（9 个精选职位）
+## 🆕 今日更新（8 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -31,7 +31,6 @@
 | 前端工程经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20356/engineering-manager-frontend-consumer/) |
 | 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
-| 美国Kraken Pro做市交易合作伙伴增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 12:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 13:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
