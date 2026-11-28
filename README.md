@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3317</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
 
-## 🆕 今日更新（12 个精选职位）
+## 🆕 今日更新（11 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -34,7 +34,6 @@
 | 高级软件工程师 - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
 | 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
 | 财务转型总监 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
-| OEM - 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16441/oem-senior-compliance-analyst/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -99,6 +98,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 09:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 09:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
