@@ -14,15 +14,16 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3317</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
 
-## 🆕 Latest Updates（10 featured jobs）
+## 🆕 Latest Updates（11 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
+| Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | Engineering Program Manager, Model Delivery | Remote | [View →](https://www.remotejobscan.com/job/20359/engineering-program-manager-model-delivery/) |
 | Program Manager, Recruiting Events | Hybrid | [View →](https://www.remotejobscan.com/job/20358/program-manager-recruiting-events/) |
 | Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/20357/developer-advocate/) |
@@ -97,6 +98,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 10:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 10:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
