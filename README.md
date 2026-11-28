@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（17 个精选职位）
+## 🆕 今日更新（14 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -37,9 +37,6 @@
 | OEM - 高级合规分析师 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/16441/oem-senior-compliance-analyst/) |
 | TRUST网络高级软件工程师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
 | 高级软件工程师，TRUST网络 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
-| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
-| Wallet Operations (Singapore) 钱包运营（新加坡） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
-| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 07:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 08:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>

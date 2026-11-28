@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（17 featured jobs）
+## 🆕 Latest Updates（14 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -37,9 +37,6 @@
 | OEM - Senior Compliance Analyst | On-site | [View →](https://www.remotejobscan.com/job/16441/oem-senior-compliance-analyst/) |
 | Staff Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19816/staff-software-engineer-trust-network/) |
 | Senior Software Engineer, TRUST Network | Remote | [View →](https://www.remotejobscan.com/job/19875/senior-software-engineer-trust-network/) |
-| Senior Development Engineer - Compliance Platform 高级开发工程师-合规平台 | Remote | [View →](https://www.remotejobscan.com/job/20336/senior-development-engineer-compliance-platform/) |
-| Wallet Operations (Singapore) 钱包运营（新加坡） | Remote | [View →](https://www.remotejobscan.com/job/19715/wallet-operations-singapore/) |
-| Financial Product Manager 金融产品经理（传统金融资讯、行情方向） | Remote | [View →](https://www.remotejobscan.com/job/16188/financial-product-manager/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -104,6 +101,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 07:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 08:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
