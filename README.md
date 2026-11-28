@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 今日更新（11 个精选职位）
+## 🆕 今日更新（9 个精选职位）
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
@@ -32,8 +32,6 @@
 | API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | 美国Kraken Pro做市交易合作伙伴增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
 | 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
-| 高级软件工程师 - 前端 - 开发平台 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
-| 公司运营负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 10:40 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 11:00 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
