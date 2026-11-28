@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3320</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| Back End Developer (Java) | On-site | [View →](https://www.remotejobscan.com/job/20361/back-end-developer-java/) |
 | B2B Marketing - France | Remote | [View →](https://www.remotejobscan.com/job/20360/b2b-marketing-france/) |
 | Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | Engineering Program Manager, Model Delivery | Remote | [View →](https://www.remotejobscan.com/job/20359/engineering-program-manager-model-delivery/) |
@@ -30,7 +31,6 @@
 | Developer Advocate | Remote | [View →](https://www.remotejobscan.com/job/20357/developer-advocate/) |
 | Engineering Manager - Frontend - Consumer | Remote | [View →](https://www.remotejobscan.com/job/20356/engineering-manager-frontend-consumer/) |
 | Assistant VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
-| API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +95,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 13:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 13:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

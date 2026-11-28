@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3320</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| 后端开发工程师（Java） | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20361/back-end-developer-java/) |
 | B2B营销 - 法国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20360/b2b-marketing-france/) |
 | 增长产品经理II - 通知 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | 模型交付工程程序经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20359/engineering-program-manager-model-delivery/) |
@@ -30,7 +31,6 @@
 | 开发者布道师 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20357/developer-advocate/) |
 | 前端工程经理 - 消费者 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20356/engineering-manager-frontend-consumer/) |
 | 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
-| API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -95,6 +95,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 13:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 13:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
