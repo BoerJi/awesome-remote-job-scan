@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 <strong>50</strong> companies · <strong>3318</strong> remote jobs · Updated every 30 min
+  📊 <strong>50</strong> companies · <strong>3319</strong> remote jobs · Updated every 30 min
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | Position | Location | Details |
 |---|---|---|
+| B2B Marketing - France | Remote | [View →](https://www.remotejobscan.com/job/20360/b2b-marketing-france/) |
 | Product Manager II, Growth - Notifications | Remote | [View →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | Engineering Program Manager, Model Delivery | Remote | [View →](https://www.remotejobscan.com/job/20359/engineering-program-manager-model-delivery/) |
 | Program Manager, Recruiting Events | Hybrid | [View →](https://www.remotejobscan.com/job/20358/program-manager-recruiting-events/) |
@@ -31,7 +32,6 @@
 | Assistant VIP Relationship Manager | Remote | [View →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | API Product Manager API产品经理 | Remote | [View →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | Affiliate Growth Lead, Prop Trading - Kraken Pro (US) | Remote | [View →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
-| Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +96,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 11:00 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 11:40 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>

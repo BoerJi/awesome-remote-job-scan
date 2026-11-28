@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  📊 已收录 <strong>50</strong> 家公司 · <strong>3318</strong> 个远程职位 · 每 30 分钟更新
+  📊 已收录 <strong>50</strong> 家公司 · <strong>3319</strong> 个远程职位 · 每 30 分钟更新
 </p>
 
 ---
@@ -23,6 +23,7 @@
 
 | 职位 | 地点 | 详情 |
 |---|---|---|
+| B2B营销 - 法国 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20360/b2b-marketing-france/) |
 | 增长产品经理II - 通知 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/16318/product-manager-ii-growth-notifications/) |
 | 模型交付工程程序经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20359/engineering-program-manager-model-delivery/) |
 | 招聘活动项目经理 | 远程/实地 | [查看详情 →](https://www.remotejobscan.com/job/20358/program-manager-recruiting-events/) |
@@ -31,7 +32,6 @@
 | 高级VIP关系经理助理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20324/assistant-vip-relationship-manager/) |
 | API Product Manager API产品经理 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20355/api-product-manager-api/) |
 | 美国Kraken Pro做市交易合作伙伴增长负责人 | 远程 | [查看详情 →](https://www.remotejobscan.com/job/20354/affiliate-growth-lead-prop-trading-kraken-pro-us/) |
-| 纽约办公体验 | 实地 | [查看详情 →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
 [📋 查看全部职位 →](https://www.remotejobscan.com)
 
 ---
@@ -96,6 +96,6 @@
 ---
 
 <p align="center">
-  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 11:00 UTC<br>
+  由 <a href="https://www.remotejobscan.com">RemoteJobScan</a> 维护 · 2026-11-28 11:40 UTC<br>
   ⭐ 如果这个仓库对你有用，欢迎 star 支持
 </p>
