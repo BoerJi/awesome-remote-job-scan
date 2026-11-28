@@ -19,7 +19,7 @@
 
 ---
 
-## 🆕 Latest Updates（11 featured jobs）
+## 🆕 Latest Updates（10 featured jobs）
 
 | Position | Location | Details |
 |---|---|---|
@@ -33,7 +33,6 @@
 | Workplace Experience - New York | On-site | [View →](https://www.remotejobscan.com/job/20353/workplace-experience-new-york/) |
 | Senior Software Engineer - Frontend - Developer Platform | Remote | [View →](https://www.remotejobscan.com/job/20351/senior-software-engineer-frontend-developer-platform/) |
 | Company Operations Lead | Remote | [View →](https://www.remotejobscan.com/job/20352/company-operations-lead/) |
-| Finance Transformation Director | Remote | [View →](https://www.remotejobscan.com/job/19936/finance-transformation-director/) |
 [📋 Browse all jobs →](https://www.remotejobscan.com)
 
 ---
@@ -98,6 +97,6 @@
 ---
 
 <p align="center">
-  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 09:40 UTC<br>
+  Maintained by <a href="https://www.remotejobscan.com">RemoteJobScan</a> · 2026-11-28 10:00 UTC<br>
   ⭐ Star this repo if you find it useful
 </p>
